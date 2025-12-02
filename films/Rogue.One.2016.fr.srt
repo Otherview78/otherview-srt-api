@@ -1,26 +1,22 @@
 1
 00:00:02,894 --> 00:00:06,519
-Subtitles created by
-- Aorion -
+Subtitles created by - Aorion -
 
 2
 00:00:06,520 --> 00:00:08,935
-"Rogue One : A Star Wars Story (2016)"
+"Rogue One : A Star Wars Story "
 
 3
 00:00:10,673 --> 00:00:15,368
-Il y a longtemps dans une
-galaxie lointaine...
+Il y a longtemps dans une galaxie lointaine...
 
 4
 00:01:30,519 --> 00:01:32,015
-- Maman.
-- Nous savons.
+- Maman. - Nous savons.
 
 5
 00:01:32,040 --> 00:01:34,417
-Jyn, rassemble tes affaires,
-il est temps.
+Jyn, rassemble tes affaires, il est temps.
 
 6
 00:01:45,672 --> 00:01:46,571
@@ -64,8 +60,7 @@ Je comprends.
 
 16
 00:02:25,702 --> 00:02:28,902
-- Je t'aime, ma Nébuleuse.
-- Je t'aime aussi papa.
+- Je t'aime, ma Nébuleuse. - Je t'aime aussi papa.
 
 17
 00:02:28,927 --> 00:02:30,413
@@ -89,8 +84,7 @@ Fais confiance à la Force.
 
 22
 00:03:39,478 --> 00:03:43,756
-Tu es un homme difficile à trouver,
-Galen. Tu es fermier ?
+Tu es un homme difficile à trouver, Galen. Tu es fermier ?
 
 23
 00:03:44,443 --> 00:03:47,454
@@ -126,8 +120,7 @@ Qu'est ce que tu veux ?
 
 31
 00:04:23,574 --> 00:04:27,002
-Le travail n'avance pas.
-J'ai besoin que tu reviennes.
+Le travail n'avance pas. J'ai besoin que tu reviennes.
 
 32
 00:04:27,544 --> 00:04:28,908
@@ -135,13 +128,11 @@ Je ne le ferai pas, Krennic.
 
 33
 00:04:28,933 --> 00:04:32,527
-Nous sommes à deux doigts de la gloire.
-Nous étions si près
+Nous sommes à deux doigts de la gloire. Nous étions si près
 
 34
 00:04:32,553 --> 00:04:36,129
-d'apporter paix et sécurité
-à la galaxie.
+d'apporter paix et sécurité à la galaxie.
 
 35
 00:04:36,154 --> 00:04:38,310
@@ -177,8 +168,7 @@ Galen,
 
 43
 00:05:00,182 --> 00:05:03,981
-tu es un scientifique inspiré
-mais un très mauvais menteur.
+tu es un scientifique inspiré mais un très mauvais menteur.
 
 44
 00:05:04,155 --> 00:05:06,954
@@ -186,8 +176,7 @@ J'admire l'effort, vraiment.
 
 45
 00:05:07,624 --> 00:05:12,395
-Oh regardes, voilà Lyra de retour
-d'entre les morts. C'est un miracle.
+Oh regardes, voilà Lyra de retour d'entre les morts. C'est un miracle.
 
 46
 00:05:15,372 --> 00:05:16,753
@@ -203,18 +192,15 @@ Vous ne l'emmènerez pas.
 
 49
 00:05:24,533 --> 00:05:27,694
-Bien sûr que non.
-Je vous emmène tous.
+Bien sûr que non. Je vous emmène tous.
 
 50
 00:05:27,719 --> 00:05:29,585
-Vous viendrez tous.
-Vous, votre enfant,
+Vous viendrez tous. Vous, votre enfant,
 
 51
 00:05:29,610 --> 00:05:32,414
-- Vous vivrez tous dans le confort.
-- En tant qu'otages !
+- Vous vivrez tous dans le confort. - En tant qu'otages !
 
 52
 00:05:32,439 --> 00:05:35,911
@@ -234,8 +220,7 @@ Réfléchis bien.
 
 56
 00:05:50,293 --> 00:05:52,560
-- Vous ne gagnerez jamais.
-- Faites-le.
+- Vous ne gagnerez jamais. - Faites-le.
 
 57
 00:05:54,446 --> 00:05:55,827
@@ -271,17 +256,15 @@ Un long trajet nous attend.
 
 65
 00:07:46,445 --> 00:07:56,124
-R O G U E  O N E
+R O G U E O N E
 
 66
 00:08:22,658 --> 00:08:26,923
-Vérifiez, sécurité.
-Bloc de cellules 4227.
+Vérifiez, sécurité. Bloc de cellules 4227.
 
 67
 00:09:31,196 --> 00:09:33,946
-- J'étais sur le point de partir.
-- Je suis venu aussi vite que j'ai pu.
+- J'étais sur le point de partir. - Je suis venu aussi vite que j'ai pu.
 
 68
 00:09:33,971 --> 00:09:35,275
@@ -289,8 +272,7 @@ Je dois retourner à bord.
 
 69
 00:09:35,300 --> 00:09:37,020
-- Marches avec moi.
-- Jusqu'à Jedha ?
+- Marches avec moi. - Jusqu'à Jedha ?
 
 70
 00:09:37,045 --> 00:09:38,434
@@ -298,23 +280,19 @@ Ils vont partir sans moi !
 
 71
 00:09:38,459 --> 00:09:41,639
-Doucement ! Tu as des nouvelles de
-Jedha ? Allez.
+Doucement ! Tu as des nouvelles de Jedha ? Allez.
 
 72
 00:09:43,163 --> 00:09:48,166
-Un pilote Impérial, l'un des
-conducteurs de cargo. Il a déserté hier.
+Un pilote Impérial, l'un des conducteurs de cargo. Il a déserté hier.
 
 73
 00:09:48,191 --> 00:09:50,351
-Il raconte aux gens
-qu'ils fabriquent une arme.
+Il raconte aux gens qu'ils fabriquent une arme.
 
 74
 00:09:50,376 --> 00:09:52,377
-Les cristaux Kyber, c'est pour ça
-qu'ils sont là.
+Les cristaux Kyber, c'est pour ça qu'ils sont là.
 
 75
 00:09:52,402 --> 00:09:53,421
@@ -322,13 +300,11 @@ Quelle sorte d'arme ?
 
 76
 00:09:53,446 --> 00:09:55,913
-- Je dois y aller.
-- Quelle sorte d'arme ?
+- Je dois y aller. - Quelle sorte d'arme ?
 
 77
 00:09:55,938 --> 00:09:58,965
-Une tueuse de planète.
-C'est comme ça qu'il l'a appelée.
+Une tueuse de planète. C'est comme ça qu'il l'a appelée.
 
 78
 00:09:58,990 --> 00:10:00,703
@@ -340,13 +316,11 @@ Quelqu'un appelé Erso l'a envoyé.
 
 80
 00:10:02,672 --> 00:10:05,421
-- Un vieil ami de Saw.
-- Galen Erso ?
+- Un vieil ami de Saw. - Galen Erso ?
 
 81
 00:10:05,524 --> 00:10:06,671
-- C'était ça ?
-- Je ne sais pas !
+- C'était ça ? - Je ne sais pas !
 
 82
 00:10:06,672 --> 00:10:08,392
@@ -354,8 +328,7 @@ Ils cherchaient Saw quand on est partis.
 
 83
 00:10:08,417 --> 00:10:11,329
-- Qui d'autre est au courant ?
-- Je n'en ai aucune idée !
+- Qui d'autre est au courant ? - Je n'en ai aucune idée !
 
 84
 00:10:11,354 --> 00:10:13,323
@@ -363,8 +336,7 @@ Tout s'effondre.
 
 85
 00:10:13,901 --> 00:10:17,265
-Saw a raison,
-il y a des espions partout.
+Saw a raison, il y a des espions partout.
 
 86
 00:10:18,176 --> 00:10:19,837
@@ -396,8 +368,7 @@ Tu es fou ?
 
 93
 00:10:36,679 --> 00:10:39,176
-Je n'arriverai jamais à grimper.
-Mon bras...
+Je n'arriverai jamais à grimper. Mon bras...
 
 94
 00:10:39,201 --> 00:10:41,648
@@ -429,8 +400,7 @@ Saw Gerrera. Non ?
 
 101
 00:11:51,544 --> 00:11:53,151
-Bon, on perd du temps
-que nous n'avons pas.
+Bon, on perd du temps que nous n'avons pas.
 
 102
 00:11:53,190 --> 00:11:54,708
@@ -438,23 +408,19 @@ Je dois parler à Saw Gerrera !
 
 103
 00:11:54,709 --> 00:11:56,984
-Je ne fais que de le dire,
-avant qu'il ne soit trop tard.
+Je ne fais que de le dire, avant qu'il ne soit trop tard.
 
 104
 00:12:00,372 --> 00:12:03,500
-On est là au milieu de nul part.
-On doit aller à Jedha City.
+On est là au milieu de nul part. On doit aller à Jedha City.
 
 105
 00:12:03,525 --> 00:12:06,965
-Quelle partie de "message urgent"
-vous ne comprenez pas ?
+Quelle partie de "message urgent" vous ne comprenez pas ?
 
 106
 00:12:08,917 --> 00:12:12,009
-On est tous du même côté, si
-vous passez outre l'uniforme...
+On est tous du même côté, si vous passez outre l'uniforme...
 
 107
 00:12:12,034 --> 00:12:17,129
@@ -466,8 +432,7 @@ Quoi encore ?
 
 109
 00:12:56,685 --> 00:12:59,551
-Je ne sais pas. Ça doit être
-un autre ramassé.
+Je ne sais pas. Ça doit être un autre ramassé.
 
 110
 00:13:00,312 --> 00:13:02,430
@@ -475,13 +440,11 @@ Je pensais qu'on avait tout le monde.
 
 111
 00:13:09,601 --> 00:13:11,317
-- Rien à signaler, monsieur.
-- Hallik !
+- Rien à signaler, monsieur. - Hallik !
 
 112
 00:13:11,342 --> 00:13:13,821
-- Liana Hallik !
-- Elle.
+- Liana Hallik ! - Elle.
 
 113
 00:13:14,535 --> 00:13:16,243
@@ -493,8 +456,7 @@ Et moi ?
 
 115
 00:13:32,821 --> 00:13:36,343
-Félicitations.
-Vous êtes secourue.
+Félicitations. Vous êtes secourue.
 
 116
 00:13:36,448 --> 00:13:38,941
@@ -502,28 +464,23 @@ Ne résistez pas, s'il vous plaît.
 
 117
 00:13:57,621 --> 00:14:00,739
-LU-28, faites un rapport à la
-maintenance niveau 4.
+LU-28, faites un rapport à la maintenance niveau 4.
 
 118
 00:14:12,722 --> 00:14:18,102
-Actuellement tu te fais appeler
-Liana Hallik. C'est bien cela ?
+Actuellement tu te fais appeler Liana Hallik. C'est bien cela ?
 
 119
 00:14:18,792 --> 00:14:22,529
-Possession illégale d'armes,
-contrefaçon de documents Impériaux,
+Possession illégale d'armes, contrefaçon de documents Impériaux,
 
 120
 00:14:22,554 --> 00:14:27,261
-agression aggravée, évasion, refus
-d'obtempérer.
+agression aggravée, évasion, refus d'obtempérer.
 
 121
 00:14:27,437 --> 00:14:33,225
-Imaginez si les forces Impériales avaient
-trouvé qui vous êtes vraiment, Jyn Erso ?
+Imaginez si les forces Impériales avaient trouvé qui vous êtes vraiment, Jyn Erso ?
 
 122
 00:14:33,803 --> 00:14:36,410
@@ -535,28 +492,23 @@ Jyn Erso. Fille de Galen Erso ?
 
 124
 00:14:40,582 --> 00:14:44,051
-Un collaborateur Impérial connu
-pour le développement d'armes.
+Un collaborateur Impérial connu pour le développement d'armes.
 
 125
 00:14:47,752 --> 00:14:51,680
-- Qu'est ce que c'est ?
-- Une chance de repartir à zéro.
+- Qu'est ce que c'est ? - Une chance de repartir à zéro.
 
 126
 00:14:51,705 --> 00:14:54,112
-Nous pensons que tu pourrais
-nous aider.
+Nous pensons que tu pourrais nous aider.
 
 127
 00:14:54,192 --> 00:14:57,514
-Voici le Capitaine Cassian Andor des
-services de renseignement rebelles.
+Voici le Capitaine Cassian Andor des services de renseignement rebelles.
 
 128
 00:14:59,173 --> 00:15:02,583
-Quand avez-vous été en contact avec
-votre père pour la dernière fois ?
+Quand avez-vous été en contact avec votre père pour la dernière fois ?
 
 129
 00:15:03,826 --> 00:15:05,677
@@ -564,28 +516,23 @@ Il y a quinze ans.
 
 130
 00:15:05,702 --> 00:15:08,672
-Une idée d'où il a bien pu être
-pendant tout ce temps ?
+Une idée d'où il a bien pu être pendant tout ce temps ?
 
 131
 00:15:11,470 --> 00:15:14,056
-J'aime à penser qu'il est mort,
-ça rend les choses plus faciles.
+J'aime à penser qu'il est mort, ça rend les choses plus faciles.
 
 132
 00:15:14,081 --> 00:15:17,744
-Plus facile ? Que de penser que c'est un
-outil d'une machine de guerre Impériale ?
+Plus facile ? Que de penser que c'est un outil d'une machine de guerre Impériale ?
 
 133
 00:15:17,769 --> 00:15:21,737
-- Je n'ai pas pu avoir d'opinions politiques.
-- Vraiment ?
+- Je n'ai pas pu avoir d'opinions politiques. - Vraiment ?
 
 134
 00:15:21,871 --> 00:15:24,745
-Quand avez-vous été en contact avec Saw
-Gerrera pour la dernière fois ?
+Quand avez-vous été en contact avec Saw Gerrera pour la dernière fois ?
 
 135
 00:15:31,246 --> 00:15:33,470
@@ -593,18 +540,15 @@ Gerrera pour la dernière fois ?
 
 136
 00:15:34,244 --> 00:15:36,718
-Il se souviendrait de vous, quand même,
-pas vrai ?
+Il se souviendrait de vous, quand même, pas vrai ?
 
 137
 00:15:36,743 --> 00:15:40,116
-Il pourrait accepter de vous rencontrer,
-si vous veniez en amie.
+Il pourrait accepter de vous rencontrer, si vous veniez en amie.
 
 138
 00:15:40,872 --> 00:15:43,083
-Écoute, gamine, on joue contre la
-montre, alors si tu n'as rien à dire,
+Écoute, gamine, on joue contre la montre, alors si tu n'as rien à dire,
 
 139
 00:15:43,108 --> 00:15:45,741
@@ -612,23 +556,19 @@ on te remet là où on t'as trouvée.
 
 140
 00:15:45,915 --> 00:15:47,640
-J'étais une enfant, Saw Gerrera
-a sauvé ma vie.
+J'étais une enfant, Saw Gerrera a sauvé ma vie.
 
 141
 00:15:47,665 --> 00:15:50,519
-Il m'a élevée. Mais je ne sais pas où il
-est. Je ne l'ai pas vu depuis des années.
+Il m'a élevée. Mais je ne sais pas où il est. Je ne l'ai pas vu depuis des années.
 
 142
 00:15:50,544 --> 00:15:53,383
-On sait où le trouver, ce n'est pas
-le problème.
+On sait où le trouver, ce n'est pas le problème.
 
 143
 00:15:53,408 --> 00:15:57,464
-On a besoin de quelqu'un qui nous fasse
-passer la porte sans nous faire tuer.
+On a besoin de quelqu'un qui nous fasse passer la porte sans nous faire tuer.
 
 144
 00:15:58,311 --> 00:16:00,226
@@ -640,28 +580,23 @@ Oui, mais Saw Gerrera est un extrémiste.
 
 146
 00:16:03,403 --> 00:16:06,448
-Il se bat seul depuis qu'il a quitté
-la Rébellion.
+Il se bat seul depuis qu'il a quitté la Rébellion.
 
 147
 00:16:06,473 --> 00:16:11,078
-Son militantisme a causé de nombreux
-problèmes à l'Alliance.
+Son militantisme a causé de nombreux problèmes à l'Alliance.
 
 148
 00:16:12,795 --> 00:16:16,348
-On n'a pas d'autre choix que d'essayer
-de réparer cette confiance brisée.
+On n'a pas d'autre choix que d'essayer de réparer cette confiance brisée.
 
 149
 00:16:16,373 --> 00:16:18,825
-Qu'est-ce que ça a à voir
-avec mon père ?
+Qu'est-ce que ça a à voir avec mon père ?
 
 150
 00:16:24,406 --> 00:16:27,779
-Il y a un déserteur Impérial
-sur Jedha. Un pilote.
+Il y a un déserteur Impérial sur Jedha. Un pilote.
 
 151
 00:16:27,804 --> 00:16:29,688
@@ -669,53 +604,43 @@ Il est retenu par Saw Gerrera.
 
 152
 00:16:29,713 --> 00:16:33,041
-Il dit que l'Empereur est entrain
-de créer une arme
+Il dit que l'Empereur est entrain de créer une arme
 
 153
 00:16:33,042 --> 00:16:35,874
-avec le pouvoir de détruire
-des planètes entières.
+avec le pouvoir de détruire des planètes entières.
 
 154
 00:16:37,394 --> 00:16:41,993
-Le pilote dit qu'il a été envoyé
-par votre père.
+Le pilote dit qu'il a été envoyé par votre père.
 
 155
 00:16:43,073 --> 00:16:46,054
-On doit arrêter cette arme
-avant qu'elle ne soit terminée.
+On doit arrêter cette arme avant qu'elle ne soit terminée.
 
 156
 00:16:46,079 --> 00:16:48,671
-La mission du Capitaine Andor
-est d'authentifier l'histoire du pilote
+La mission du Capitaine Andor est d'authentifier l'histoire du pilote
 
 157
 00:16:48,672 --> 00:16:50,400
-puis, si possible, de trouver
-votre père.
+puis, si possible, de trouver votre père.
 
 158
 00:16:50,425 --> 00:16:54,104
-Il s'avère qu'il est essentiel
-au développement de cette super-arme.
+Il s'avère qu'il est essentiel au développement de cette super-arme.
 
 159
 00:16:54,129 --> 00:16:57,845
-Vu la gravité de de la situation et
-votre histoire avec Saw,
+Vu la gravité de de la situation et votre histoire avec Saw,
 
 160
 00:16:57,870 --> 00:17:00,589
-nous espérons qu'il nous aidera
-à localiser votre père
+nous espérons qu'il nous aidera à localiser votre père
 
 161
 00:17:00,590 --> 00:17:02,743
-et à le ramener au Sénat
-pour témoignage.
+et à le ramener au Sénat pour témoignage.
 
 162
 00:17:11,875 --> 00:17:13,721
@@ -735,13 +660,11 @@ Je suis K-2SO.
 
 166
 00:17:52,571 --> 00:17:57,206
-- Un robot impérial reprogrammé.
-- Je me souviens de toi.
+- Un robot impérial reprogrammé. - Je me souviens de toi.
 
 167
 00:17:57,239 --> 00:18:00,986
-Je vois que le Conseil t'envoies
-avec nous.
+Je vois que le Conseil t'envoies avec nous.
 
 168
 00:18:02,533 --> 00:18:04,420
@@ -757,18 +680,15 @@ C'est ce que je pense, et Cassian aussi.
 
 171
 00:18:12,762 --> 00:18:17,392
-Qu'est-ce que j'en sais ? Ma spécialité
-c'est l'analyse stratégique.
+Qu'est-ce que j'en sais ? Ma spécialité c'est l'analyse stratégique.
 
 172
 00:18:17,636 --> 00:18:20,393
-Galen Erso est vital au programme
-de l'arme de l'Empire.
+Galen Erso est vital au programme de l'arme de l'Empire.
 
 173
 00:18:20,418 --> 00:18:23,356
-Oubliez ce que vous avez entendu
-là-dedans, il n'y aura pas d'extraction.
+Oubliez ce que vous avez entendu là-dedans, il n'y aura pas d'extraction.
 
 174
 00:18:23,381 --> 00:18:26,809
@@ -788,33 +708,27 @@ Charmant.
 
 178
 00:18:42,781 --> 00:18:45,327
-Il a tendance à dire tout
-ce qui lui passe par les circuits.
+Il a tendance à dire tout ce qui lui passe par les circuits.
 
 179
 00:18:45,352 --> 00:18:48,235
-C'est un effet secondaire
-de la reprogrammation.
+C'est un effet secondaire de la reprogrammation.
 
 180
 00:18:48,260 --> 00:18:50,942
-Pourquoi a-t-elle un blaster,
-et pas moi ?
+Pourquoi a-t-elle un blaster, et pas moi ?
 
 181
 00:18:52,082 --> 00:18:54,243
-- Quoi ?
-- Je sais comment l'utiliser.
+- Quoi ? - Je sais comment l'utiliser.
 
 182
 00:18:54,268 --> 00:18:57,156
-C'est bien ce qui m'inquiète.
-Donne-le moi.
+C'est bien ce qui m'inquiète. Donne-le moi.
 
 183
 00:18:59,731 --> 00:19:03,550
-Nous allons sur Jedha.
-C'est une zone de guerre.
+Nous allons sur Jedha. C'est une zone de guerre.
 
 184
 00:19:03,601 --> 00:19:05,217
@@ -822,13 +736,11 @@ Ce n'est pas le sujet.
 
 185
 00:19:05,242 --> 00:19:07,566
-- Ou l'as tu eu ?
-- Je l'ai trouvé.
+- Ou l'as tu eu ? - Je l'ai trouvé.
 
 186
 00:19:07,591 --> 00:19:10,636
-Je trouve cette réponse vague
-et peu convaincante.
+Je trouve cette réponse vague et peu convaincante.
 
 187
 00:19:12,613 --> 00:19:14,878
@@ -840,13 +752,11 @@ Tu la laisses le garder ?
 
 189
 00:19:25,448 --> 00:19:29,092
-Tu veux connaître la probabilité
-qu'elle l'utilise contre moi ?
+Tu veux connaître la probabilité qu'elle l'utilise contre moi ?
 
 190
 00:19:31,596 --> 00:19:34,559
-- C'est élevé.
-- On y va.
+- C'est élevé. - On y va.
 
 191
 00:19:34,584 --> 00:19:36,476
@@ -866,13 +776,11 @@ Voyons voir.
 
 195
 00:20:29,586 --> 00:20:33,323
-Bodhi Rook.
-Pilote de cargo.
+Bodhi Rook. Pilote de cargo.
 
 196
 00:20:33,405 --> 00:20:35,979
-- Un garçon du coin ?
-- Oui.
+- Un garçon du coin ? - Oui.
 
 197
 00:20:39,862 --> 00:20:41,654
@@ -880,8 +788,7 @@ Je vous entends.
 
 198
 00:20:41,679 --> 00:20:43,113
-Il ne m'a pas capturé, je suis venu
-de mon plein gré.
+Il ne m'a pas capturé, je suis venu de mon plein gré.
 
 199
 00:20:43,138 --> 00:20:44,753
@@ -897,13 +804,11 @@ Mensonges ?
 
 202
 00:20:49,923 --> 00:20:52,454
-Pourquoi est-ce que je risquerais tout
-pour un mensonge ? On a pas le temps !
+Pourquoi est-ce que je risquerais tout pour un mensonge ? On a pas le temps !
 
 203
 00:20:52,479 --> 00:20:55,081
-Je dois parler à Saw Gerrera avant
-qu'il ne soit trop tard.
+Je dois parler à Saw Gerrera avant qu'il ne soit trop tard.
 
 204
 00:21:01,331 --> 00:21:03,031
@@ -915,8 +820,7 @@ C'est pour vous.
 
 206
 00:21:11,708 --> 00:21:14,590
-Et je leur ai donné,
-ils ne l'ont pas trouvé !
+Et je leur ai donné, ils ne l'ont pas trouvé !
 
 207
 00:21:15,523 --> 00:21:17,149
@@ -948,23 +852,19 @@ Il m'a dit de te trouver !
 
 214
 00:22:26,066 --> 00:22:29,855
-La brèche de sécurité sur Jedha
-est bien fâcheuse, Directeur Krennic.
+La brèche de sécurité sur Jedha est bien fâcheuse, Directeur Krennic.
 
 215
 00:22:29,880 --> 00:22:33,997
-Tant de contretemps et de retards,
-et maintenant ça.
+Tant de contretemps et de retards, et maintenant ça.
 
 216
 00:22:38,957 --> 00:22:42,531
-On a entendu des rumeurs qui
-circulent dans la ville.
+On a entendu des rumeurs qui circulent dans la ville.
 
 217
 00:22:43,001 --> 00:22:46,693
-Il semblerait que vous ayez perdu
-un pilote assez bavard.
+Il semblerait que vous ayez perdu un pilote assez bavard.
 
 218
 00:22:46,718 --> 00:22:48,558
@@ -972,13 +872,11 @@ Si le Sénat a vent de notre projet,
 
 219
 00:22:48,559 --> 00:22:50,728
-d'innombrables systèmes vont se
-joindre à la Rébellion.
+d'innombrables systèmes vont se joindre à la Rébellion.
 
 220
 00:22:50,753 --> 00:22:54,298
-Quand la station de combat sera
-terminée, Gouverneur Tarkin,
+Quand la station de combat sera terminée, Gouverneur Tarkin,
 
 221
 00:22:54,299 --> 00:22:56,662
@@ -986,18 +884,15 @@ le Sénat importera peu.
 
 222
 00:22:56,894 --> 00:23:02,180
-Ce "quand" devrait être maintenant.
-L'Empereur ne tolérera plus de retards,
+Ce "quand" devrait être maintenant. L'Empereur ne tolérera plus de retards,
 
 223
 00:23:02,550 --> 00:23:06,159
-vous avez fait du temps
-un allié de la Rébellion.
+vous avez fait du temps un allié de la Rébellion.
 
 224
 00:23:07,222 --> 00:23:10,805
-Je suggestions que nous réglions
-nos problèmes simultanément
+Je suggestions que nous réglions nos problèmes simultanément
 
 225
 00:23:10,806 --> 00:23:13,193
@@ -1005,8 +900,7 @@ avec un test immédiat de l'arme.
 
 226
 00:23:15,649 --> 00:23:21,217
-L'échec vous imposera de vous expliquer
-devant une audience bien moins patiente.
+L'échec vous imposera de vous expliquer devant une audience bien moins patiente.
 
 227
 00:23:21,808 --> 00:23:24,093
@@ -1014,8 +908,7 @@ Je n'échouerai pas.
 
 228
 00:24:02,101 --> 00:24:05,311
-Quel est le problème, Jyn ?
-Tu sembles effrayée.
+Quel est le problème, Jyn ? Tu sembles effrayée.
 
 229
 00:24:07,892 --> 00:24:10,082
@@ -1039,8 +932,7 @@ Galen.
 
 234
 00:24:40,068 --> 00:24:43,162
-On arrive en orbite.
-Vous avez les commandes.
+On arrive en orbite. Vous avez les commandes.
 
 235
 00:24:55,195 --> 00:24:56,852
@@ -1052,18 +944,15 @@ Ou ce qu'il en reste.
 
 237
 00:25:01,742 --> 00:25:04,898
-On trouve Saw,
-on trouve votre père.
+On trouve Saw, on trouve votre père.
 
 238
 00:25:49,030 --> 00:25:50,983
-Qu'est ce qu'il y a
-avec le Destroyer ?
+Qu'est ce qu'il y a avec le Destroyer ?
 
 239
 00:25:51,173 --> 00:25:54,298
-C'est à cause de votre vieil ami,
-Saw Gerrera.
+C'est à cause de votre vieil ami, Saw Gerrera.
 
 240
 00:25:54,323 --> 00:25:57,072
@@ -1075,18 +964,15 @@ Qu'est-ce qu'ils amènent ?
 
 242
 00:26:00,893 --> 00:26:03,073
-C'est plutôt
-"qu'est ce qu'ils emmènent" ?
+C'est plutôt "qu'est ce qu'ils emmènent" ?
 
 243
 00:26:05,009 --> 00:26:07,518
-Du crystal Kyber.
-Tout ce qu'ils peuvent prendre.
+Du crystal Kyber. Tout ce qu'ils peuvent prendre.
 
 244
 00:26:07,543 --> 00:26:10,936
-On se demandait pourquoi ils
-démantelaient le temple, on le sait.
+On se demandait pourquoi ils démantelaient le temple, on le sait.
 
 245
 00:26:10,961 --> 00:26:13,303
@@ -1098,8 +984,7 @@ L'arme que fabrique ton père.
 
 247
 00:26:15,968 --> 00:26:19,127
-On devrait peut-être laisser
-la cible derrière.
+On devrait peut-être laisser la cible derrière.
 
 248
 00:26:19,545 --> 00:26:21,380
@@ -1111,38 +996,31 @@ Elle a raison.
 
 250
 00:26:23,240 --> 00:26:25,492
-Nous devons nous fondre dans la masse.
-Reste dans le vaisseau.
+Nous devons nous fondre dans la masse. Reste dans le vaisseau.
 
 251
 00:26:25,517 --> 00:26:28,123
-Je peux me fondre dans la masse.
-Je suis un droïde Impérial.
+Je peux me fondre dans la masse. Je suis un droïde Impérial.
 
 252
 00:26:28,148 --> 00:26:30,907
-Cette ville est sous
-occupation Impériale,
+Cette ville est sous occupation Impériale,
 
 253
 00:26:30,932 --> 00:26:33,012
-la moitié des gens ici veulent
-te reprogrammer.
+la moitié des gens ici veulent te reprogrammer.
 
 254
 00:26:33,013 --> 00:26:35,188
-L'autre moitié veut te faire
-un trou dans la tête.
+L'autre moitié veut te faire un trou dans la tête.
 
 255
 00:26:35,213 --> 00:26:38,145
-Je suis surpris que vous soyez
-préoccupé par ma sécurité.
+Je suis surpris que vous soyez préoccupé par ma sécurité.
 
 256
 00:26:38,170 --> 00:26:43,494
-Je ne le suis pas. Je suis juste
-inquiète qu'ils te ratent et me touchent.
+Je ne le suis pas. Je suis juste inquiète qu'ils te ratent et me touchent.
 
 257
 00:26:48,083 --> 00:26:50,596
@@ -1158,8 +1036,7 @@ aucun mensonge n'est en sécurité.
 
 260
 00:27:26,112 --> 00:27:31,059
-Que m'as-tu vraiment apporté,
-pilote de cargo ?
+Que m'as-tu vraiment apporté, pilote de cargo ?
 
 261
 00:27:33,977 --> 00:27:37,476
@@ -1171,8 +1048,7 @@ Le malheureux effet secondaire,
 
 263
 00:27:40,870 --> 00:27:46,102
-- c'est qu'on perd la raison.
-- Non.
+- c'est qu'on perd la raison. - Non.
 
 264
 00:28:16,602 --> 00:28:18,725
@@ -1180,8 +1056,7 @@ Faites attention où vous allez.
 
 265
 00:28:18,750 --> 00:28:22,628
-Non. On est des touristes,
-on ne veut pas d'ennuis, désolé.
+Non. On est des touristes, on ne veut pas d'ennuis, désolé.
 
 266
 00:28:22,777 --> 00:28:24,646
@@ -1193,33 +1068,27 @@ Citoyens de Jedha,
 
 268
 00:28:26,727 --> 00:28:31,697
-vous devez nous communiquer toute
-information concernant le pilote.
+vous devez nous communiquer toute information concernant le pilote.
 
 269
 00:28:31,960 --> 00:28:35,995
-Une récompense de 600 crédits pour
-cette information sera donnée.
+Une récompense de 600 crédits pour cette information sera donnée.
 
 270
 00:28:36,020 --> 00:28:39,072
-J'avais un contact, l'un des
-rebels de Saw,
+J'avais un contact, l'un des rebels de Saw,
 
 271
 00:28:39,680 --> 00:28:43,767
-mais il vient de disparaître.
-Sa soeur le cherchera.
+mais il vient de disparaître. Sa soeur le cherchera.
 
 272
 00:28:44,380 --> 00:28:47,462
-Le temple a été détruit
-mais elle attendra là-bas.
+Le temple a été détruit mais elle attendra là-bas.
 
 273
 00:28:47,487 --> 00:28:51,005
-On va lui donner ton nom et espérer
-qu'elle nous mette en contact avec Saw.
+On va lui donner ton nom et espérer qu'elle nous mette en contact avec Saw.
 
 274
 00:28:51,030 --> 00:28:52,518
@@ -1227,8 +1096,7 @@ Espérer ?
 
 275
 00:28:52,847 --> 00:28:56,380
-Oui, les rébellions sont construites
-sur de l'espoir.
+Oui, les rébellions sont construites sur de l'espoir.
 
 276
 00:28:56,405 --> 00:28:59,043
@@ -1236,8 +1104,7 @@ Mettez les mains là où je peux les voir.
 
 277
 00:28:59,068 --> 00:29:01,974
-Montrez-moi des papiers d'identité.
-Vérifiez à l'intérieur.
+Montrez-moi des papiers d'identité. Vérifiez à l'intérieur.
 
 278
 00:29:03,322 --> 00:29:05,551
@@ -1249,8 +1116,7 @@ Que la Force des autres soit avec vous.
 
 280
 00:29:12,708 --> 00:29:15,356
-- Que la Force des autres soit avec vous.
-- Attendez-moi.
+- Que la Force des autres soit avec vous. - Attendez-moi.
 
 281
 00:29:16,044 --> 00:29:18,437
@@ -1262,8 +1128,7 @@ Que la Force des autres soit avec vous.
 
 283
 00:29:21,708 --> 00:29:25,271
-Échangerais-tu ce collier pour
-un aperçu de ton futur ?
+Échangerais-tu ce collier pour un aperçu de ton futur ?
 
 284
 00:29:27,340 --> 00:29:30,380
@@ -1275,8 +1140,7 @@ Je suis Chirrut Imwe.
 
 286
 00:29:41,215 --> 00:29:43,357
-Comment as-tu su que je portais
-un collier ?
+Comment as-tu su que je portais un collier ?
 
 287
 00:29:43,382 --> 00:29:45,582
@@ -1288,18 +1152,15 @@ Que sais-tu des cristaux kyber ?
 
 289
 00:29:51,717 --> 00:29:56,571
-Mon père a dit qu'ils fournissent
-l'énergie des sabres lasers des Jedi.
+Mon père a dit qu'ils fournissent l'énergie des sabres lasers des Jedi.
 
 290
 00:29:57,554 --> 00:30:00,990
-Jyn.
-Aller, on y va.
+Jyn. Aller, on y va.
 
 291
 00:30:03,695 --> 00:30:07,411
-Les étoiles les plus puissantes
-ont des coeurs en Kyber.
+Les étoiles les plus puissantes ont des coeurs en Kyber.
 
 292
 00:30:10,801 --> 00:30:12,148
@@ -1311,28 +1172,23 @@ On est pas ici pour se faire des amis.
 
 294
 00:30:18,546 --> 00:30:21,540
-- Qui sont-ils ?
-- Les Gardiens des Whills.
+- Qui sont-ils ? - Les Gardiens des Whills.
 
 295
 00:30:21,565 --> 00:30:25,349
-Protecteurs du Temple Kyber.
-Mais il ne reste rien à protéger,
+Protecteurs du Temple Kyber. Mais il ne reste rien à protéger,
 
 296
 00:30:25,350 --> 00:30:29,133
-maintenant ils posent juste problème
-à tout le monde.
+maintenant ils posent juste problème à tout le monde.
 
 297
 00:30:30,740 --> 00:30:32,742
-Tu as l'air terriblement tendu
-d'un coup.
+Tu as l'air terriblement tendu d'un coup.
 
 298
 00:30:32,767 --> 00:30:37,277
-On doit se dépêcher. Cette ville...
-elle est sur le point d'exploser.
+On doit se dépêcher. Cette ville... elle est sur le point d'exploser.
 
 299
 00:30:38,061 --> 00:30:40,472
@@ -1360,8 +1216,7 @@ Derrière nous.
 
 305
 00:31:32,604 --> 00:31:34,774
-On dirait qu'on a trouvé
-les rebelles de Saw.
+On dirait qu'on a trouvé les rebelles de Saw.
 
 306
 00:31:44,813 --> 00:31:46,288
@@ -1409,18 +1264,15 @@ Bien sûr !
 
 317
 00:33:35,605 --> 00:33:37,881
-Je croyais t'avoir dit de rester
-dans le vaisseau...
+Je croyais t'avoir dit de rester dans le vaisseau...
 
 318
 00:33:37,906 --> 00:33:42,440
-En effet, mais c'était ennuyeux
-et vous aviez des problèmes.
+En effet, mais c'était ennuyeux et vous aviez des problèmes.
 
 319
 00:33:44,093 --> 00:33:46,992
-Il y a beaucoup d'explosions pour
-deux personnes se fondant dans la masse.
+Il y a beaucoup d'explosions pour deux personnes se fondant dans la masse.
 
 320
 00:33:47,017 --> 00:33:48,433
@@ -1428,8 +1280,7 @@ Plus un geste...
 
 321
 00:33:50,434 --> 00:33:53,702
-Vous aviez raison,
-j'aurais dû attendre dans le vaisseau.
+Vous aviez raison, j'aurais dû attendre dans le vaisseau.
 
 322
 00:34:05,208 --> 00:34:07,684
@@ -1441,33 +1292,27 @@ Où emmenez-vous ces prisonniers ?
 
 324
 00:34:13,522 --> 00:34:15,959
-- Ce sont des prisonniers.
-- Oui. Où les emmenez-vous ?
+- Ce sont des prisonniers. - Oui. Où les emmenez-vous ?
 
 325
 00:34:15,992 --> 00:34:20,726
-Je les emmène... pour les emprisonner.
-En prison.
+Je les emmène... pour les emprisonner. En prison.
 
 326
 00:34:20,751 --> 00:34:23,114
-- Il nous emmène...
-- Silence !
+- Il nous emmène... - Silence !
 
 327
 00:34:23,368 --> 00:34:25,581
-Et tu en aura une autre
-si tu l'ouvres encore !
+Et tu en aura une autre si tu l'ouvres encore !
 
 328
 00:34:25,606 --> 00:34:26,789
-- On va prendre le relais.
-- Ça ira.
+- On va prendre le relais. - Ça ira.
 
 329
 00:34:26,814 --> 00:34:28,615
-Si vous pouviez me désigner
-la bonne direction,
+Si vous pouviez me désigner la bonne direction,
 
 330
 00:34:28,616 --> 00:34:29,816
@@ -1475,13 +1320,11 @@ je peux les emmener, j'en suis sûr.
 
 331
 00:34:29,841 --> 00:34:31,482
-- Je les ai emmenés jusqu'ici...
-- Attends une seconde.
+- Je les ai emmenés jusqu'ici... - Attends une seconde.
 
 332
 00:34:31,507 --> 00:34:32,664
-- Emmenez-les. - Attendez !
-- Droïde.
+- Emmenez-les. - Attendez ! - Droïde.
 
 333
 00:34:32,689 --> 00:34:34,239
@@ -1489,8 +1332,7 @@ Vous ne pouvez pas les emmener !
 
 334
 00:34:34,264 --> 00:34:37,499
-Tu restes ici. On doit vérifier
-tes diagnostiques.
+Tu restes ici. On doit vérifier tes diagnostiques.
 
 335
 00:34:37,524 --> 00:34:38,901
@@ -1498,8 +1340,7 @@ Mes diagnostiques ?
 
 336
 00:34:38,926 --> 00:34:42,024
-Je peux faire mes propres
-diagnostiques, merci beaucoup.
+Je peux faire mes propres diagnostiques, merci beaucoup.
 
 337
 00:34:42,049 --> 00:34:44,256
@@ -1511,13 +1352,11 @@ Laissez-les passer en paix.
 
 339
 00:34:52,936 --> 00:34:56,995
-La Force est avec moi,
-et je suis avec la Force.
+La Force est avec moi, et je suis avec la Force.
 
 340
 00:34:57,020 --> 00:35:01,465
-Et je ne crains rien, car la Force
-est avec moi.
+Et je ne crains rien, car la Force est avec moi.
 
 341
 00:35:01,490 --> 00:35:03,529
@@ -1549,8 +1388,7 @@ Pas d'ennemis.
 
 348
 00:36:07,058 --> 00:36:09,013
-- Un ennemi !
-- Il est avec nous !
+- Un ennemi ! - Il est avec nous !
 
 349
 00:36:09,038 --> 00:36:10,839
@@ -1566,8 +1404,7 @@ Cassian, je suis désolé pour la gifle.
 
 352
 00:36:23,090 --> 00:36:26,411
-Retourne au vaisseau.
-Attends mon appel.
+Retourne au vaisseau. Attends mon appel.
 
 353
 00:36:29,192 --> 00:36:30,618
@@ -1595,13 +1432,11 @@ Peux tu m'emmener à Saw Gerrera ?
 
 359
 00:36:48,189 --> 00:36:51,384
-Ne vois tu pas que nous sommes pas
-des amis de l'Empire ?
+Ne vois tu pas que nous sommes pas des amis de l'Empire ?
 
 360
 00:36:54,946 --> 00:36:58,511
-Celui qui me tuera moi ou mes amis
-en répondra à Saw Gerrera,
+Celui qui me tuera moi ou mes amis en répondra à Saw Gerrera,
 
 361
 00:37:01,198 --> 00:37:03,863
@@ -1609,18 +1444,15 @@ car je suis la fille de Galen Erso.
 
 362
 00:37:08,576 --> 00:37:11,817
-Tu te moques de moi ?
-Je suis aveugle !
+Tu te moques de moi ? Je suis aveugle !
 
 363
 00:38:48,280 --> 00:38:51,913
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 364
 00:38:51,938 --> 00:38:54,550
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 365
 00:38:54,575 --> 00:38:55,623
@@ -1628,8 +1460,7 @@ Tu pries ?
 
 366
 00:38:55,648 --> 00:38:57,977
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 367
 00:38:58,002 --> 00:38:59,078
@@ -1637,8 +1468,7 @@ Vraiment ?
 
 368
 00:38:59,103 --> 00:39:01,333
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 369
 00:39:01,358 --> 00:39:03,694
@@ -1646,23 +1476,19 @@ Il prie pour que la porte s'ouvre.
 
 370
 00:39:04,021 --> 00:39:06,844
-Ça le dérange, parce qu'il sait
-que c'est possible.
+Ça le dérange, parce qu'il sait que c'est possible.
 
 371
 00:39:08,061 --> 00:39:12,889
-Baze Malbus a été
-le plus dévoué de tous les Gardiens.
+Baze Malbus a été le plus dévoué de tous les Gardiens.
 
 372
 00:39:13,499 --> 00:39:16,950
-Je commence à penser que la Force
-et moi avons des priorités différentes.
+Je commence à penser que la Force et moi avons des priorités différentes.
 
 373
 00:39:16,976 --> 00:39:20,444
-Relaxe, Capitaine. On a été dans des
-prisons bien pires que celle-là.
+Relaxe, Capitaine. On a été dans des prisons bien pires que celle-là.
 
 374
 00:39:20,663 --> 00:39:22,805
@@ -1670,13 +1496,11 @@ C'est une première pour moi.
 
 375
 00:39:23,678 --> 00:39:27,061
-Il y a plus d'une sorte
-de prison, Capitaine.
+Il y a plus d'une sorte de prison, Capitaine.
 
 376
 00:39:27,086 --> 00:39:30,030
-Je sens que vous transportez la vôtre
-avec vous.
+Je sens que vous transportez la vôtre avec vous.
 
 377
 00:39:49,220 --> 00:39:50,830
@@ -1700,13 +1524,11 @@ On est toujours pas amis ?
 
 382
 00:40:05,313 --> 00:40:07,795
-La dernière fois que je t'ai vu, tu
-m'as donné un couteau et un blaster
+La dernière fois que je t'ai vu, tu m'as donné un couteau et un blaster
 
 383
 00:40:07,820 --> 00:40:10,348
-et dit d'attendre le lever du soleil
-dans un bunker.
+et dit d'attendre le lever du soleil dans un bunker.
 
 384
 00:40:10,373 --> 00:40:12,434
@@ -1718,13 +1540,11 @@ Tu m'as laissée derrière toi.
 
 386
 00:40:14,605 --> 00:40:16,768
-Tu étais déjà le meilleur
-soldat de mon escouade.
+Tu étais déjà le meilleur soldat de mon escouade.
 
 387
 00:40:16,793 --> 00:40:18,840
-- J'avais seize ans.
-- Je te protégeais !
+- J'avais seize ans. - Je te protégeais !
 
 388
 00:40:18,865 --> 00:40:20,029
@@ -1732,8 +1552,7 @@ Tu m'as abandonnée !
 
 389
 00:40:20,054 --> 00:40:23,824
-Tu étais la fille d'un
-officier scientifique Impérial !
+Tu étais la fille d'un officier scientifique Impérial !
 
 390
 00:40:24,196 --> 00:40:26,444
@@ -1741,18 +1560,15 @@ Les gens commençaient à le comprendre.
 
 391
 00:40:26,882 --> 00:40:30,967
-Des gens qui voulaient...
-t'utiliser comme otage.
+Des gens qui voulaient... t'utiliser comme otage.
 
 392
 00:40:33,164 --> 00:40:38,338
-Pas un jour depuis ou je
-n'ai pensé à toi.
+Pas un jour depuis ou je n'ai pensé à toi.
 
 393
 00:40:42,339 --> 00:40:47,201
-Mais aujourd'hui, de tous les
-autres jours ?
+Mais aujourd'hui, de tous les autres jours ?
 
 394
 00:40:52,242 --> 00:40:55,268
@@ -1768,8 +1584,7 @@ Le pilote !
 
 397
 00:40:58,690 --> 00:41:01,961
-Le message.
-Tout ça...
+Le message. Tout ça...
 
 398
 00:41:14,314 --> 00:41:16,284
@@ -1785,8 +1600,7 @@ Tu es venu pour me tuer ?
 
 401
 00:41:27,295 --> 00:41:29,434
-Il ne reste plus grand-chose
-de moi.
+Il ne reste plus grand-chose de moi.
 
 402
 00:41:29,459 --> 00:41:31,742
@@ -1794,13 +1608,11 @@ L'Alliance veut mon père.
 
 403
 00:41:31,968 --> 00:41:34,662
-Ils pensent qu'il t'a envoyé
-un message à propos de l'arme.
+Ils pensent qu'il t'a envoyé un message à propos de l'arme.
 
 404
 00:41:34,687 --> 00:41:38,425
-Ils pensent que m'envoyer pourrait
-permettre que tu les aides.
+Ils pensent que m'envoyer pourrait permettre que tu les aides.
 
 405
 00:41:41,180 --> 00:41:44,932
@@ -1808,13 +1620,11 @@ C'est donc ça que tu veux, Jyn ?
 
 406
 00:41:46,963 --> 00:41:49,432
-Ils voulaient une présentation,
-ils l'ont eue.
+Ils voulaient une présentation, ils l'ont eue.
 
 407
 00:41:49,665 --> 00:41:53,026
-J'en suis sorti maintenant.
-Vous autres faites ce que vous voulez.
+J'en suis sorti maintenant. Vous autres faites ce que vous voulez.
 
 408
 00:41:53,566 --> 00:41:56,527
@@ -1830,28 +1640,23 @@ Sérieusement ?
 
 411
 00:42:01,017 --> 00:42:03,009
-L'Alliance ?
-Les...
+L'Alliance ? Les...
 
 412
 00:42:03,034 --> 00:42:05,811
-Les rebelles ? Quelque soit le nom
-que vous vous donnez en ce moment.
+Les rebelles ? Quelque soit le nom que vous vous donnez en ce moment.
 
 413
 00:42:05,836 --> 00:42:08,190
-Tout ce que cela m'a apporté est
-de la douleur.
+Tout ce que cela m'a apporté est de la douleur.
 
 414
 00:42:09,465 --> 00:42:15,475
-Tu supportes de voir le drapeau
-Impérial partout dans la galaxie ?
+Tu supportes de voir le drapeau Impérial partout dans la galaxie ?
 
 415
 00:42:15,500 --> 00:42:18,062
-Ce n'est pas un problème
-si on ne les regarde pas.
+Ce n'est pas un problème si on ne les regarde pas.
 
 416
 00:42:21,367 --> 00:42:23,558
@@ -1867,13 +1672,11 @@ L'Empereur attends mon rapport.
 
 419
 00:42:44,904 --> 00:42:48,036
-On espérait que le Seigneur Vador et
-lui seraient là pour une telle occasion.
+On espérait que le Seigneur Vador et lui seraient là pour une telle occasion.
 
 420
 00:42:48,061 --> 00:42:50,730
-J'ai pensé utile de vous protéger
-de toute humiliation possible.
+J'ai pensé utile de vous protéger de toute humiliation possible.
 
 421
 00:42:50,755 --> 00:42:53,155
@@ -1885,33 +1688,27 @@ Si seulement le dire était suffisant.
 
 423
 00:42:57,746 --> 00:43:00,853
-Toutes les forces Impériales
-ont été évacuées,
+Toutes les forces Impériales ont été évacuées,
 
 424
 00:43:00,854 --> 00:43:03,960
-et je suis prêt à détruire
-la lune entière.
+et je suis prêt à détruire la lune entière.
 
 425
 00:43:03,985 --> 00:43:07,325
-Ce ne sera pas nécessaire. On veut faire
-une déclaration, pas un manifeste.
+Ce ne sera pas nécessaire. On veut faire une déclaration, pas un manifeste.
 
 426
 00:43:07,350 --> 00:43:10,118
-La Cité Sainte sera suffisante
-pour aujourd'hui.
+La Cité Sainte sera suffisante pour aujourd'hui.
 
 427
 00:43:10,809 --> 00:43:14,634
-Ciblez Jedha City, préparez
-l'ignition seule du réacteur.
+Ciblez Jedha City, préparez l'ignition seule du réacteur.
 
 428
 00:43:19,326 --> 00:43:21,802
-- Nous sommes en position, prêt à...
-- Feu !
+- Nous sommes en position, prêt à... - Feu !
 
 429
 00:43:22,191 --> 00:43:24,548
@@ -1935,13 +1732,11 @@ Un pilote Impérial.
 
 434
 00:43:39,995 --> 00:43:41,153
-- Pilote ?
-- Je vais le tuer !
+- Pilote ? - Je vais le tuer !
 
 435
 00:43:41,178 --> 00:43:42,540
-- Non, attends !
-- Viens ici !
+- Non, attends ! - Viens ici !
 
 436
 00:43:42,565 --> 00:43:43,907
@@ -1961,13 +1756,11 @@ Es-tu le pilote ?
 
 440
 00:43:55,107 --> 00:43:59,212
-C'est toi le pilote ? Le pilote de
-navette ?
+C'est toi le pilote ? Le pilote de navette ?
 
 441
 00:43:59,237 --> 00:44:02,556
-- Pilote ?
-- Qu'est ce qui ne va pas avec lui ?
+- Pilote ? - Qu'est ce qui ne va pas avec lui ?
 
 442
 00:44:04,862 --> 00:44:06,912
@@ -1979,8 +1772,7 @@ Tu connais ce nom ?
 
 444
 00:44:11,307 --> 00:44:14,300
-J'ai amené le message,
-je suis le pilote.
+J'ai amené le message, je suis le pilote.
 
 445
 00:44:19,459 --> 00:44:21,266
@@ -2012,23 +1804,19 @@ Saw, si tu regardes cela,
 
 452
 00:44:47,487 --> 00:44:50,389
-alors peut-être qu'il y a une chance
-de sauver l'Alliance.
+alors peut-être qu'il y a une chance de sauver l'Alliance.
 
 453
 00:44:50,414 --> 00:44:52,870
-Peut-être que j'ai une chance
-de m'expliquer et,
+Peut-être que j'ai une chance de m'expliquer et,
 
 454
 00:44:52,871 --> 00:44:55,326
-même si je ne m'autorise pas
-à trop espérer,
+même si je ne m'autorise pas à trop espérer,
 
 455
 00:44:55,351 --> 00:44:57,844
-qu'il y ait une chance pour Jyn,
-si elle est en vie,
+qu'il y ait une chance pour Jyn, si elle est en vie,
 
 456
 00:44:57,868 --> 00:44:59,997
@@ -2040,8 +1828,7 @@ De lui faire savoir que
 
 458
 00:45:02,312 --> 00:45:07,871
-mon amour pour elle n'a jamais diminué
-et qu'elle me manque désespérément.
+mon amour pour elle n'a jamais diminué et qu'elle me manque désespérément.
 
 459
 00:45:10,920 --> 00:45:14,027
@@ -2049,48 +1836,39 @@ Jyn, ma Nébuleuse,
 
 460
 00:45:14,854 --> 00:45:17,541
-je ne peux imaginer ce que
-tu penses de moi.
+je ne peux imaginer ce que tu penses de moi.
 
 461
 00:45:17,566 --> 00:45:21,443
-Quand j'ai été prit, j'ai fait face
-à des vérités amères.
+Quand j'ai été prit, j'ai fait face à des vérités amères.
 
 462
 00:45:21,480 --> 00:45:25,247
-On m'a dit que bien assez tôt,
-Krennic t'aurait aussi.
+On m'a dit que bien assez tôt, Krennic t'aurait aussi.
 
 463
 00:45:25,272 --> 00:45:28,600
-Le temps passait, et j'ai su
-que tu étais sois morte
+Le temps passait, et j'ai su que tu étais sois morte
 
 464
 00:45:28,625 --> 00:45:30,861
-sois si bien cachée qu'il ne te
-trouverait jamais
+sois si bien cachée qu'il ne te trouverait jamais
 
 465
 00:45:30,886 --> 00:45:33,274
-Je savais que si je refusais
-de travailler,
+Je savais que si je refusais de travailler,
 
 466
 00:45:33,299 --> 00:45:35,490
-si je me suicidais, ce ne serait qu'une
-question de temps
+si je me suicidais, ce ne serait qu'une question de temps
 
 467
 00:45:35,515 --> 00:45:39,416
-avant que Krennic ne comprenne qu'il
-n'avait pas besoin de moi pour finir.
+avant que Krennic ne comprenne qu'il n'avait pas besoin de moi pour finir.
 
 468
 00:45:39,441 --> 00:45:43,676
-Alors j'ai fait ce que personne
-n'attendait : j'ai menti.
+Alors j'ai fait ce que personne n'attendait : j'ai menti.
 
 469
 00:45:43,701 --> 00:45:45,585
@@ -2098,8 +1876,7 @@ J'ai appris à mentir.
 
 470
 00:45:45,610 --> 00:45:49,832
-J'ai joué le rôle d'une homme brisé,
-s'enfermant dans son travail.
+J'ai joué le rôle d'une homme brisé, s'enfermant dans son travail.
 
 471
 00:45:49,857 --> 00:45:51,790
@@ -2107,8 +1884,7 @@ Je me suis rendu indispensable,
 
 472
 00:45:51,815 --> 00:45:56,087
-tout ça pendant que je construisais
-les fondations de ma revanche.
+tout ça pendant que je construisais les fondations de ma revanche.
 
 473
 00:45:56,492 --> 00:45:58,623
@@ -2120,38 +1896,31 @@ Il n'y a pas de meilleur nom.
 
 475
 00:46:00,095 --> 00:46:03,896
-Et le jour viendra bientôt
-où elle se déchaînera.
+Et le jour viendra bientôt où elle se déchaînera.
 
 476
 00:46:03,921 --> 00:46:06,767
-J'ai placé un point faible profondément
-dans le système.
+J'ai placé un point faible profondément dans le système.
 
 477
 00:46:06,792 --> 00:46:09,714
-Un défaut petit et puissant,
-ils ne le trouveront jamais.
+Un défaut petit et puissant, ils ne le trouveront jamais.
 
 478
 00:46:09,738 --> 00:46:12,460
-Mais Jyn...
-Jyn, si tu m'écoutes...
+Mais Jyn... Jyn, si tu m'écoutes...
 
 479
 00:46:12,485 --> 00:46:17,458
-ma chérie, dans de temps de
-ma vie a été gâché.
+ma chérie, dans de temps de ma vie a été gâché.
 
 480
 00:46:17,928 --> 00:46:21,488
-J'essaye de penser à toi uniquement
-dans les moments où je suis fort,
+J'essaye de penser à toi uniquement dans les moments où je suis fort,
 
 481
 00:46:21,512 --> 00:46:24,256
-parce que la peine de
-ne pas t'avoir avec moi...
+parce que la peine de ne pas t'avoir avec moi...
 
 482
 00:46:24,281 --> 00:46:25,731
@@ -2163,13 +1932,11 @@ notre famille.
 
 484
 00:46:27,576 --> 00:46:31,953
-La peine de cette perte est si
-accablante que je risque d'échouer.
+La peine de cette perte est si accablante que je risque d'échouer.
 
 485
 00:46:32,047 --> 00:46:34,510
-C'est si dur de ne pas
-penser à toi.
+C'est si dur de ne pas penser à toi.
 
 486
 00:46:36,442 --> 00:46:38,416
@@ -2181,13 +1948,11 @@ Ma Nébuleuse.
 
 488
 00:46:42,421 --> 00:46:45,894
-Saw, le module du réacteur,
-c'est la clé.
+Saw, le module du réacteur, c'est la clé.
 
 489
 00:46:45,919 --> 00:46:48,097
-C'est l'endroit ou j'ai placé
-mon piège.
+C'est l'endroit ou j'ai placé mon piège.
 
 490
 00:46:48,123 --> 00:46:50,600
@@ -2195,8 +1960,7 @@ C'est bien caché et très instable,
 
 491
 00:46:50,625 --> 00:46:54,377
-un seul tir de laser détruira
-toute la station.
+un seul tir de laser détruira toute la station.
 
 492
 00:46:54,781 --> 00:46:56,338
@@ -2204,28 +1968,23 @@ Tu auras besoin des plans,
 
 493
 00:46:56,363 --> 00:46:59,497
-les plans des structures de l'Etoile
-de la Mort pour trouver le réacteur.
+les plans des structures de l'Etoile de la Mort pour trouver le réacteur.
 
 494
 00:46:59,522 --> 00:47:03,037
-Je sais qu'il y a une archive complète
-dans la réserve des fichiers
+Je sais qu'il y a une archive complète dans la réserve des fichiers
 
 495
 00:47:03,062 --> 00:47:05,386
-dans la Tour de la Citadelle
-sur Scarif.
+dans la Tour de la Citadelle sur Scarif.
 
 496
 00:47:05,411 --> 00:47:08,576
-N'importe quelle explosion pressurisée
-dans le module déclenchera
+N'importe quelle explosion pressurisée dans le module déclenchera
 
 497
 00:47:08,601 --> 00:47:11,834
-une réaction en chaîne qui détruira
-toute la station...
+une réaction en chaîne qui détruira toute la station...
 
 498
 00:47:38,577 --> 00:47:40,111
@@ -2233,8 +1992,7 @@ Allez.
 
 499
 00:47:43,549 --> 00:47:45,536
-K-2 ?
-K-2, où es-tu ?
+K-2 ? K-2, où es-tu ?
 
 500
 00:47:45,561 --> 00:47:46,767
@@ -2242,8 +2000,7 @@ Te voilà.
 
 501
 00:47:46,792 --> 00:47:51,624
-Je me tiens à vos côtés comme demandé.
-Mais il y a un problème à l'horizon.
+Je me tiens à vos côtés comme demandé. Mais il y a un problème à l'horizon.
 
 502
 00:47:51,767 --> 00:47:54,173
@@ -2251,8 +2008,7 @@ Il n'y a pas d'horizon.
 
 503
 00:47:54,262 --> 00:47:57,228
-Localise notre position.
-Amène ce vaisseau ici maintenant !
+Localise notre position. Amène ce vaisseau ici maintenant !
 
 504
 00:47:57,253 --> 00:47:58,632
@@ -2264,8 +2020,7 @@ Je dois trouver Jyn.
 
 506
 00:48:00,587 --> 00:48:03,495
-- Prenez le pilote. On a besoin de lui.
-- Très bien.
+- Prenez le pilote. On a besoin de lui. - Très bien.
 
 507
 00:48:03,520 --> 00:48:05,569
@@ -2301,18 +2056,15 @@ Tu dois y aller.
 
 515
 00:48:38,962 --> 00:48:41,817
-- Viens avez nous.
-- Je ne courrai plus.
+- Viens avez nous. - Je ne courrai plus.
 
 516
 00:48:41,842 --> 00:48:44,392
-- Viens.
-- Mais tu dois te sauver.
+- Viens. - Mais tu dois te sauver.
 
 517
 00:48:44,417 --> 00:48:45,582
-- Viens.
-- Allez !
+- Viens. - Allez !
 
 518
 00:48:45,607 --> 00:48:47,179
@@ -2344,8 +2096,7 @@ Sors-nous d'ici ! Pleine puissance !
 
 525
 00:49:51,474 --> 00:49:54,714
-- Nos chances me paraissent faibles.
-- Pas maintenant, K.
+- Nos chances me paraissent faibles. - Pas maintenant, K.
 
 526
 00:50:40,602 --> 00:50:42,237
@@ -2353,8 +2104,7 @@ Allez !
 
 527
 00:50:46,248 --> 00:50:48,514
-- Pleine puissance.
-- Je n'ai pas terminé mes calculs.
+- Pleine puissance. - Je n'ai pas terminé mes calculs.
 
 528
 00:50:48,539 --> 00:50:50,608
@@ -2362,13 +2112,11 @@ Je vais les faire pour toi.
 
 529
 00:51:18,531 --> 00:51:22,159
-Je pense vous devoir
-des excuses, Directeur Krennic.
+Je pense vous devoir des excuses, Directeur Krennic.
 
 530
 00:51:22,184 --> 00:51:25,998
-Votre travail dépasse toutes
-nos attentes.
+Votre travail dépasse toutes nos attentes.
 
 531
 00:51:28,224 --> 00:51:30,209
@@ -2376,58 +2124,47 @@ Vous en direz autant à l'Empereur ?
 
 532
 00:51:30,234 --> 00:51:33,220
-Je lui dirai que sa patience envers vos
-mésaventures a été récompensée
+Je lui dirai que sa patience envers vos mésaventures a été récompensée
 
 533
 00:51:33,245 --> 00:51:36,594
-par une arme qui mènera la Rébellion
-à une fin rapide.
+par une arme qui mènera la Rébellion à une fin rapide.
 
 534
 00:51:36,619 --> 00:51:40,595
-C'était seulement un aperçu
-de son potentiel de destruction.
+C'était seulement un aperçu de son potentiel de destruction.
 
 535
 00:51:40,621 --> 00:51:43,280
-Je lui dirai que je prendrai
-le contrôle sur l'arme
+Je lui dirai que je prendrai le contrôle sur l'arme
 
 536
 00:51:43,305 --> 00:51:47,202
-dont j'ai été le premier à parler
-il y a des années, immédiatement.
+dont j'ai été le premier à parler il y a des années, immédiatement.
 
 537
 00:51:50,902 --> 00:51:55,795
-Ce sont mes réussites
-qu'on observe là ! Pas les vôtres !
+Ce sont mes réussites qu'on observe là ! Pas les vôtres !
 
 538
 00:51:55,820 --> 00:51:59,057
-J'ai bien peur que vos brèches de
-sécurité récentes ont mis en lumière
+J'ai bien peur que vos brèches de sécurité récentes ont mis en lumière
 
 539
 00:51:59,058 --> 00:52:01,216
-votre inefficacité en tant
-que chef militaire.
+votre inefficacité en tant que chef militaire.
 
 540
 00:52:01,241 --> 00:52:05,946
-Les brèches ont été colmatées.
-Jedha a été réduite au silence.
+Les brèches ont été colmatées. Jedha a été réduite au silence.
 
 541
 00:52:05,971 --> 00:52:08,137
-Vous pensez que le pilote
-a agit seul ?
+Vous pensez que le pilote a agit seul ?
 
 542
 00:52:08,162 --> 00:52:11,994
-Il a été envoyé de l'installation
-sur Eadu.
+Il a été envoyé de l'installation sur Eadu.
 
 543
 00:52:12,525 --> 00:52:15,474
@@ -2439,8 +2176,7 @@ On verra.
 
 545
 00:52:25,045 --> 00:52:27,706
-Un message codé du Capitaine Andor,
-monsieur.
+Un message codé du Capitaine Andor, monsieur.
 
 546
 00:52:27,731 --> 00:52:31,097
@@ -2448,8 +2184,7 @@ Arme confirmée. Jedha détruite.
 
 547
 00:52:31,122 --> 00:52:34,847
-Cible de mission localisée sur Eadu.
-J'attends vos ordres.
+Cible de mission localisée sur Eadu. J'attends vos ordres.
 
 548
 00:52:34,872 --> 00:52:36,498
@@ -2461,23 +2196,19 @@ Continuez.
 
 550
 00:52:43,718 --> 00:52:46,453
-Dites-lui que mon ordre
-est toujours valable.
+Dites-lui que mon ordre est toujours valable.
 
 551
 00:52:46,478 --> 00:52:50,304
-Dites-lui de procédez avec hâte
-et qu'il s'en tienne au plan.
+Dites-lui de procédez avec hâte et qu'il s'en tienne au plan.
 
 552
 00:52:50,329 --> 00:52:52,918
-Il ne sait pas ce qu'il construit
-pour l'Empire.
+Il ne sait pas ce qu'il construit pour l'Empire.
 
 553
 00:52:52,943 --> 00:52:56,059
-On doit tuer Galen Erso pendant
-que nous le pouvons.
+On doit tuer Galen Erso pendant que nous le pouvons.
 
 554
 00:53:06,178 --> 00:53:09,147
@@ -2493,8 +2224,7 @@ La ville entière ?
 
 557
 00:53:17,003 --> 00:53:19,725
-- Dis-moi.
-- La ville entière.
+- Dis-moi. - La ville entière.
 
 558
 00:53:27,259 --> 00:53:28,713
@@ -2506,8 +2236,7 @@ Bien compris.
 
 560
 00:53:38,275 --> 00:53:39,781
-Établissement du parcours
-jusqu'à Eadu.
+Établissement du parcours jusqu'à Eadu.
 
 561
 00:53:39,806 --> 00:53:41,807
@@ -2539,13 +2268,11 @@ Oui, ton père...
 
 568
 00:53:54,552 --> 00:53:56,995
-Il a dit que je pouvais devenir
-quelqu'un de bien.
+Il a dit que je pouvais devenir quelqu'un de bien.
 
 569
 00:53:57,524 --> 00:54:01,125
-Il a dit que je pouvais faire les
-choses bien, si j'étais assez courageux
+Il a dit que je pouvais faire les choses bien, si j'étais assez courageux
 
 570
 00:54:02,122 --> 00:54:04,312
@@ -2573,8 +2300,7 @@ Non.
 
 576
 00:54:18,117 --> 00:54:20,424
-On peut battre les gens
-qui ont fait ça.
+On peut battre les gens qui ont fait ça.
 
 577
 00:54:20,788 --> 00:54:24,168
@@ -2586,8 +2312,7 @@ Ils l'appellent l'Étoile de la mort.
 
 579
 00:54:27,387 --> 00:54:30,540
-Mais ils ne se doutent pas
-qu'il y a un moyen de la détruire.
+Mais ils ne se doutent pas qu'il y a un moyen de la détruire.
 
 580
 00:54:30,565 --> 00:54:32,717
@@ -2595,8 +2320,7 @@ Tu as tord sur mon père.
 
 581
 00:54:33,058 --> 00:54:36,492
-- Il l'a bien construite.
-- Il savait qu'ils le feraient sans lui.
+- Il l'a bien construite. - Il savait qu'ils le feraient sans lui.
 
 582
 00:54:36,517 --> 00:54:38,028
@@ -2612,8 +2336,7 @@ Il a construit un piège à l'intérieur
 
 585
 00:54:42,300 --> 00:54:44,872
-C'est pour ça qu'il t'a envoyé.
-Pour faire passer un message.
+C'est pour ça qu'il t'a envoyé. Pour faire passer un message.
 
 586
 00:54:44,897 --> 00:54:46,416
@@ -2645,8 +2368,7 @@ Tu ne me crois pas ?
 
 593
 00:55:12,090 --> 00:55:14,103
-Je ne suis pas celui que
-tu dois convaincre...
+Je ne suis pas celui que tu dois convaincre...
 
 594
 00:55:14,128 --> 00:55:15,973
@@ -2662,8 +2384,7 @@ Quel genre de piège ?
 
 597
 00:55:21,107 --> 00:55:23,125
-Tu as dit que ton père
-avait construit un piège.
+Tu as dit que ton père avait construit un piège.
 
 598
 00:55:23,150 --> 00:55:24,145
@@ -2671,18 +2392,15 @@ Le réacteur.
 
 599
 00:55:24,170 --> 00:55:26,216
-Il y a placé une faiblesse.
-Il l'a cachée pendant des années.
+Il y a placé une faiblesse. Il l'a cachée pendant des années.
 
 600
 00:55:26,241 --> 00:55:30,600
-Si vous faites exploser le réacteur,
-le module, tout le système s'écroulera.
+Si vous faites exploser le réacteur, le module, tout le système s'écroulera.
 
 601
 00:55:31,397 --> 00:55:33,082
-Vous devez envoyer un message
-à l'Alliance.
+Vous devez envoyer un message à l'Alliance.
 
 602
 00:55:33,107 --> 00:55:34,140
@@ -2690,18 +2408,15 @@ Je l'ai fait.
 
 603
 00:55:34,165 --> 00:55:36,417
-Ils doivent savoir qu'il y a
-un moyen de détruire cette chose.
+Ils doivent savoir qu'il y a un moyen de détruire cette chose.
 
 604
 00:55:36,443 --> 00:55:39,966
-- Aller sur Scarif récupérer les plans.
-- Je ne peux pas risquer d'envoyer ça.
+- Aller sur Scarif récupérer les plans. - Je ne peux pas risquer d'envoyer ça.
 
 605
 00:55:39,991 --> 00:55:42,555
-Nous somme au coeur du territoire
-Impérial.
+Nous somme au coeur du territoire Impérial.
 
 606
 00:55:43,064 --> 00:55:45,591
@@ -2717,8 +2432,7 @@ Destination réglée sur Eadu, monsieur.
 
 609
 00:56:26,606 --> 00:56:29,415
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 610
 00:56:29,440 --> 00:56:31,409
@@ -2730,8 +2444,7 @@ et la Force est avec moi.
 
 612
 00:56:33,649 --> 00:56:35,693
-Non, non, non, plus bas.
-Plus bas !
+Non, non, non, plus bas. Plus bas !
 
 613
 00:56:35,718 --> 00:56:37,207
@@ -2739,8 +2452,7 @@ Tu es sûr que c'est par là ?
 
 614
 00:56:37,232 --> 00:56:39,352
-Ils ont des détecteurs d'atterrissage.
-Des escadrons de patrouille.
+Ils ont des détecteurs d'atterrissage. Des escadrons de patrouille.
 
 615
 00:56:39,377 --> 00:56:41,539
@@ -2760,8 +2472,7 @@ Encore loin ?
 
 619
 00:56:54,431 --> 00:56:56,215
-Je ne sais pas. Je ne suis jamais
-vraiment venu par ici,
+Je ne sais pas. Je ne suis jamais vraiment venu par ici,
 
 620
 00:56:56,240 --> 00:56:57,938
@@ -2769,8 +2480,7 @@ mais on n'est pas loin. Je le sais.
 
 621
 00:56:57,967 --> 00:57:01,253
-- Maintenant, 35% de chance d'échouer.
-- Je ne veux pas savoir, merci.
+- Maintenant, 35% de chance d'échouer. - Je ne veux pas savoir, merci.
 
 622
 00:57:01,278 --> 00:57:02,828
@@ -2778,13 +2488,11 @@ Je comprends.
 
 623
 00:57:03,729 --> 00:57:05,984
-- Descends maintenant !
-- Le vent...
+- Descends maintenant ! - Le vent...
 
 624
 00:57:06,025 --> 00:57:08,922
-Si tu continues, tu vas te retrouver
-juste au-dessus du dépôt de navettes.
+Si tu continues, tu vas te retrouver juste au-dessus du dépôt de navettes.
 
 625
 00:57:08,947 --> 00:57:10,519
@@ -2796,8 +2504,7 @@ Accrochez-vous ! On descend vite !
 
 627
 00:57:28,576 --> 00:57:31,326
-- Essayez encore.
-- J'essaie, monsieur, mais...
+- Essayez encore. - J'essaie, monsieur, mais...
 
 628
 00:57:32,094 --> 00:57:34,118
@@ -2809,33 +2516,27 @@ Escadron prêt, la cible est Eadu.
 
 630
 00:57:48,832 --> 00:57:51,007
-Et maintenant, vérification
-des stabilisateurs ?
+Et maintenant, vérification des stabilisateurs ?
 
 631
 00:57:54,742 --> 00:57:57,429
-- Bodhi, où est le laboratoire ?
-- De recherche ?
+- Bodhi, où est le laboratoire ? - De recherche ?
 
 632
 00:57:57,454 --> 00:58:00,441
-- Oui. Il est où ?
-- Juste derrière la crête.
+- Oui. Il est où ? - Juste derrière la crête.
 
 633
 00:58:00,466 --> 00:58:02,622
-Et c'est un dépôt de navette
-juste devant nous ?
+Et c'est un dépôt de navette juste devant nous ?
 
 634
 00:58:02,623 --> 00:58:04,645
-- Tu en es sûr ?
-- Oui !
+- Tu en es sûr ? - Oui !
 
 635
 00:58:04,670 --> 00:58:08,363
-On doit juste espérer qu'il reste
-un vaisseau Impérial à voler.
+On doit juste espérer qu'il reste un vaisseau Impérial à voler.
 
 636
 00:58:08,388 --> 00:58:09,668
@@ -2843,8 +2544,7 @@ Voilà ce qu'on fait.
 
 637
 00:58:09,693 --> 00:58:12,744
-Espérons que l'orage nous garde
-caché ici.
+Espérons que l'orage nous garde caché ici.
 
 638
 00:58:12,769 --> 00:58:14,872
@@ -2852,8 +2552,7 @@ Bodhi, tu viens avec moi.
 
 639
 00:58:14,896 --> 00:58:16,489
-On va aller en haut de la crête
-et voir ce qu'il y a.
+On va aller en haut de la crête et voir ce qu'il y a.
 
 640
 00:58:16,514 --> 00:58:17,991
@@ -2861,8 +2560,7 @@ Je viens avec vous.
 
 641
 00:58:18,016 --> 00:58:20,724
-Non, le message de ton père,
-on ne peut pas le risquer.
+Non, le message de ton père, on ne peut pas le risquer.
 
 642
 00:58:20,749 --> 00:58:22,102
@@ -2870,28 +2568,23 @@ Tu es le messager.
 
 643
 00:58:22,127 --> 00:58:25,093
-C'est ridicule ? On a tous eu le message.
-Tout le monde ici le connaît.
+C'est ridicule ? On a tous eu le message. Tout le monde ici le connaît.
 
 644
 00:58:25,118 --> 00:58:29,212
-Un tir dans le module du réacteur
-et tout le système explose.
+Un tir dans le module du réacteur et tout le système explose.
 
 645
 00:58:29,237 --> 00:58:31,918
-C'est ce que tu as dit.
-Tout le système explose.
+C'est ce que tu as dit. Tout le système explose.
 
 646
 00:58:31,943 --> 00:58:34,132
-Occupe-toi de réparer
-nos communicateurs !
+Occupe-toi de réparer nos communicateurs !
 
 647
 00:58:34,690 --> 00:58:38,093
-Tout ce que je veux c'est avoir
-un aperçu de ce contre quoi on se bat.
+Tout ce que je veux c'est avoir un aperçu de ce contre quoi on se bat.
 
 648
 00:58:38,118 --> 00:58:39,564
@@ -2899,8 +2592,7 @@ Alors on va aller
 
 649
 00:58:39,565 --> 00:58:42,455
-tout doucement en haut et voir
-ce qui se passe.
+tout doucement en haut et voir ce qui se passe.
 
 650
 00:58:42,993 --> 00:58:44,803
@@ -2924,18 +2616,15 @@ Du Capitaine Andor.
 
 655
 00:59:06,855 --> 00:59:09,561
-Pourquoi tu demandes ça ? Qu'est-ce
-que tu veux dire ?
+Pourquoi tu demandes ça ? Qu'est-ce que tu veux dire ?
 
 656
 00:59:09,586 --> 00:59:14,337
-La Force est plus sombre près d'une
-créature sur le point de tuer.
+La Force est plus sombre près d'une créature sur le point de tuer.
 
 657
 00:59:15,591 --> 00:59:18,926
-Son arme est configurée pour
-le tir de précision.
+Son arme est configurée pour le tir de précision.
 
 658
 00:59:23,778 --> 00:59:26,410
@@ -2971,8 +2660,7 @@ Seul ? Bonne chance !
 
 666
 01:00:33,411 --> 01:00:36,587
-Je n'ai pas besoin de chance,
-je t'ai toi !
+Je n'ai pas besoin de chance, je t'ai toi !
 
 667
 01:00:45,711 --> 01:00:47,460
@@ -3004,8 +2692,7 @@ C'est lui, Galen, habillé en foncé.
 
 674
 01:01:54,633 --> 01:01:57,519
-Redescends, et trouve-nous
-un moyen de transport.
+Redescends, et trouve-nous un moyen de transport.
 
 675
 01:01:57,638 --> 01:01:59,055
@@ -3013,8 +2700,7 @@ Qu'est-ce que tu fais ?
 
 676
 01:01:59,080 --> 01:02:01,256
-- Tu m'as entendu.
-- Tu as dit qu'on venait là pour regarder.
+- Tu m'as entendu. - Tu as dit qu'on venait là pour regarder.
 
 677
 01:02:01,281 --> 01:02:04,039
@@ -3026,8 +2712,7 @@ Vite !
 
 679
 01:02:16,710 --> 01:02:21,375
-Excellente nouvelle, Galen. La station
-de combat est terminée.
+Excellente nouvelle, Galen. La station de combat est terminée.
 
 680
 01:02:21,400 --> 01:02:23,501
@@ -3039,13 +2724,11 @@ Aussi fier que possible, Krennic.
 
 682
 01:02:25,837 --> 01:02:28,725
-Rassemble tes ingénieurs,
-j'ai une annonce à faire.
+Rassemble tes ingénieurs, j'ai une annonce à faire.
 
 683
 01:02:45,114 --> 01:02:47,996
-- Ils sont tous là ?
-- Oui.
+- Ils sont tous là ? - Oui.
 
 684
 01:02:52,861 --> 01:02:53,995
@@ -3057,13 +2740,11 @@ L'un d'entre vous a trahis l'Empire.
 
 686
 01:02:59,244 --> 01:03:02,697
-L'un d'entre vous a conspiré
-avec un pilote
+L'un d'entre vous a conspiré avec un pilote
 
 687
 01:03:02,698 --> 01:03:06,149
-pour envoyer des messages
-à la Rébellion.
+pour envoyer des messages à la Rébellion.
 
 688
 01:03:06,211 --> 01:03:10,569
@@ -3071,13 +2752,11 @@ Que le traître fasse un pas en avant.
 
 689
 01:03:24,334 --> 01:03:26,709
-Très bien, alors nous considérerons
-que c'était un effort de groupe.
+Très bien, alors nous considérerons que c'était un effort de groupe.
 
 690
 01:03:27,602 --> 01:03:29,287
-- En joue ! - Non.
-- Non, s'il vous plaît.
+- En joue ! - Non. - Non, s'il vous plaît.
 
 691
 01:03:29,312 --> 01:03:30,848
@@ -3085,13 +2764,11 @@ Visez !
 
 692
 01:03:31,676 --> 01:03:32,883
-- Et...
-- Non.
+- Et... - Non.
 
 693
 01:03:32,908 --> 01:03:37,410
-- Feu !
-- Stop ! Krennic stop ! C'était moi !
+- Feu ! - Stop ! Krennic stop ! C'était moi !
 
 694
 01:03:37,435 --> 01:03:39,256
@@ -3099,8 +2776,7 @@ C'était moi.
 
 695
 01:03:49,281 --> 01:03:52,735
-Ils n'ont rien à voir avec ça.
-Épargnez-les.
+Ils n'ont rien à voir avec ça. Épargnez-les.
 
 696
 01:04:17,723 --> 01:04:19,147
@@ -3108,13 +2784,11 @@ Feu !
 
 697
 01:04:30,882 --> 01:04:33,282
-Comment je sais si l'arme
-est terminée ?
+Comment je sais si l'arme est terminée ?
 
 698
 01:04:33,307 --> 01:04:37,607
-Laisse-moi partager quelques
-détails avec toi...
+Laisse-moi partager quelques détails avec toi...
 
 699
 01:04:51,568 --> 01:04:52,932
@@ -3126,23 +2800,19 @@ Cassian, tu m'entends ?
 
 701
 01:04:54,475 --> 01:04:55,903
-- Je suis là.
-- Tu l'as réparé.
+- Je suis là. - Tu l'as réparé.
 
 702
 01:04:55,928 --> 01:04:58,093
-Affirmatif, mais nous avons
-un problème !
+Affirmatif, mais nous avons un problème !
 
 703
 01:04:58,118 --> 01:05:00,053
-Il y a un escadron de l'Alliance
-qui approche.
+Il y a un escadron de l'Alliance qui approche.
 
 704
 01:05:00,093 --> 01:05:01,736
-- Dégagez de la zone !
-- Non. Non !
+- Dégagez de la zone ! - Non. Non !
 
 705
 01:05:01,761 --> 01:05:05,122
@@ -3154,8 +2824,7 @@ Saw Gerrera. Sa bande de fanatiques.
 
 707
 01:05:12,970 --> 01:05:18,711
-Leur Cité Sainte. Le dernier souvenir
-des Jedi. Disparue.
+Leur Cité Sainte. Le dernier souvenir des Jedi. Disparue.
 
 708
 01:05:19,520 --> 01:05:21,325
@@ -3167,23 +2836,19 @@ Où est-ce que j'ai déjà entendu ça ?
 
 710
 01:05:25,650 --> 01:05:28,628
-- Transmission du Capitaine Andor.
-- Général.
+- Transmission du Capitaine Andor. - Général.
 
 711
 01:05:28,663 --> 01:05:31,284
-Le Capitaine Andor demande
-un report du support de l'escouade.
+Le Capitaine Andor demande un report du support de l'escouade.
 
 712
 01:05:31,308 --> 01:05:34,233
-Forces de l'Alliance sur site.
-Veuillez confirmer.
+Forces de l'Alliance sur site. Veuillez confirmer.
 
 713
 01:05:34,258 --> 01:05:35,957
-Contactez le chef d'escadron,
-tout de suite !
+Contactez le chef d'escadron, tout de suite !
 
 714
 01:05:35,982 --> 01:05:38,405
@@ -3203,8 +2868,7 @@ Répliquez ! À vos postes.
 
 718
 01:06:08,034 --> 01:06:10,423
-Envoyez nos soldats dans les airs
-maintenant !
+Envoyez nos soldats dans les airs maintenant !
 
 719
 01:06:16,563 --> 01:06:18,329
@@ -3212,8 +2876,7 @@ Père !
 
 720
 01:06:52,645 --> 01:06:55,914
-- Allez, allez.
-- On se replie !
+- Allez, allez. - On se replie !
 
 721
 01:06:55,939 --> 01:06:58,847
@@ -3221,8 +2884,7 @@ Directeur, nous devons évacuer.
 
 722
 01:08:09,593 --> 01:08:12,274
-Papa !
-Papa, c'est moi !
+Papa ! Papa, c'est moi !
 
 723
 01:08:15,233 --> 01:08:16,903
@@ -3282,8 +2944,7 @@ Non... Non !
 
 737
 01:09:02,837 --> 01:09:06,717
-Papa...
-Papa ! Allez.
+Papa... Papa ! Allez.
 
 738
 01:09:06,843 --> 01:09:08,511
@@ -3295,28 +2956,23 @@ Allez !
 
 740
 01:09:13,358 --> 01:09:16,431
-- Jyn, nous devons partir, allez.
-- Je ne peux pas le laisser.
+- Jyn, nous devons partir, allez. - Je ne peux pas le laisser.
 
 741
 01:09:16,456 --> 01:09:19,022
-Écoutes moi.
-Il est parti...
+Écoutes moi. Il est parti...
 
 742
 01:09:19,046 --> 01:09:20,631
-Il n'y a rien que tu puisses faire.
-Allez !
+Il n'y a rien que tu puisses faire. Allez !
 
 743
 01:09:20,656 --> 01:09:22,588
-- Je ne peux pas le laisser.
-- Allez !
+- Je ne peux pas le laisser. - Allez !
 
 744
 01:09:22,613 --> 01:09:24,717
-- Aidez-moi.
-- Bougez !
+- Aidez-moi. - Bougez !
 
 745
 01:09:31,527 --> 01:09:32,924
@@ -3328,13 +2984,11 @@ Allez.
 
 747
 01:09:55,735 --> 01:09:59,016
-Bien joué. Tu es un Rebelle
-à présent.
+Bien joué. Tu es un Rebelle à présent.
 
 748
 01:10:06,164 --> 01:10:08,567
-On y va.
-Allez, on bouge !
+On y va. Allez, on bouge !
 
 749
 01:10:08,592 --> 01:10:10,606
@@ -3354,9 +3008,7 @@ Noté.
 
 753
 01:10:34,142 --> 01:10:38,406
-- Propulseurs à ions sur faible jusqu'à
-ce qu'on quitte l'orage.
-- Compris.
+- Propulseurs à ions sur faible jusqu'à ce qu'on quitte l'orage. - Compris.
 
 754
 01:10:56,293 --> 01:10:58,214
@@ -3380,13 +3032,11 @@ Nie-le
 
 759
 01:11:08,687 --> 01:11:12,092
-Tu es en état de choc, et tu cherches
-un bouc émissaire.
+Tu es en état de choc, et tu cherches un bouc émissaire.
 
 760
 01:11:12,378 --> 01:11:14,973
-- J'ai déjà vu ça.
-- Je m'en doute.
+- J'ai déjà vu ça. - Je m'en doute.
 
 761
 01:11:14,998 --> 01:11:16,361
@@ -3394,13 +3044,11 @@ Ils savent.
 
 762
 01:11:16,386 --> 01:11:20,010
-Tu as menti sur pourquoi nous sommes
-venus et pourquoi tu es allé là-haut seul.
+Tu as menti sur pourquoi nous sommes venus et pourquoi tu es allé là-haut seul.
 
 763
 01:11:20,792 --> 01:11:25,091
-J'ai eu toutes les occasions d'appuyer
-sur la gâchette. Mais l'ai-je fait ?
+J'ai eu toutes les occasions d'appuyer sur la gâchette. Mais l'ai-je fait ?
 
 764
 01:11:28,113 --> 01:11:29,500
@@ -3412,23 +3060,19 @@ C'est tout comme.
 
 766
 01:11:31,637 --> 01:11:34,374
-Mon père était une preuve vivante
-et tu l'as mis en danger.
+Mon père était une preuve vivante et tu l'as mis en danger.
 
 767
 01:11:34,399 --> 01:11:36,973
-C'était des bombes de l'Alliance
-qui l'ont tué !
+C'était des bombes de l'Alliance qui l'ont tué !
 
 768
 01:11:36,998 --> 01:11:41,103
-J'avais des ordres ! Auxquels j'ai
-désobéit !
+J'avais des ordres ! Auxquels j'ai désobéit !
 
 769
 01:11:41,260 --> 01:11:44,009
-- Mais tu ne peux pas comprendre.
-- Des ordres ?
+- Mais tu ne peux pas comprendre. - Des ordres ?
 
 770
 01:11:44,034 --> 01:11:45,962
@@ -3436,23 +3080,19 @@ Quand tu sais qu'ils sont mauvais ?
 
 771
 01:11:47,639 --> 01:11:50,119
-Tu pourrais tout aussi bien
-être un stormtrooper.
+Tu pourrais tout aussi bien être un stormtrooper.
 
 772
 01:11:50,144 --> 01:11:53,299
-Qu'est-ce que tu en sais ?
-On n'a pas tous le luxe
+Qu'est-ce que tu en sais ? On n'a pas tous le luxe
 
 773
 01:11:53,300 --> 01:11:56,455
-de pouvoir choisir où et quand
-on veut s'engager.
+de pouvoir choisir où et quand on veut s'engager.
 
 774
 01:11:56,849 --> 01:11:59,629
-La Rébellion te paraît
-réelle d'un coup ?
+La Rébellion te paraît réelle d'un coup ?
 
 775
 01:11:59,654 --> 01:12:01,777
@@ -3464,18 +3104,15 @@ Je me bats depuis que j'ai 6 ans.
 
 777
 01:12:08,006 --> 01:12:11,106
-Tu n'es pas la seule
-à avoir tout perdu.
+Tu n'es pas la seule à avoir tout perdu.
 
 778
 01:12:12,220 --> 01:12:16,677
-Certains d'entre nous
-ont juste décidé d'agir.
+Certains d'entre nous ont juste décidé d'agir.
 
 779
 01:12:18,413 --> 01:12:20,915
-Tu ne peux pas t'en sortir
-en baratinant.
+Tu ne peux pas t'en sortir en baratinant.
 
 780
 01:12:24,450 --> 01:12:26,473
@@ -3487,8 +3124,7 @@ Yavin quatre !
 
 782
 01:12:31,940 --> 01:12:35,094
-Fais en sorte qu'ils sachent
-qu'on arrive dans un vaisseau volé.
+Fais en sorte qu'ils sachent qu'on arrive dans un vaisseau volé.
 
 783
 01:12:38,823 --> 01:12:40,478
@@ -3496,8 +3132,7 @@ Quelqu'un d'autre ?
 
 784
 01:13:37,610 --> 01:13:43,834
-Seigneur, le Directeur Krennic
-est arrivé.
+Seigneur, le Directeur Krennic est arrivé.
 
 785
 01:14:42,896 --> 01:14:45,449
@@ -3525,13 +3160,11 @@ Mes excuses.
 
 791
 01:14:57,612 --> 01:15:01,275
-Vous avez effectivement beaucoup
-de choses à expliquer.
+Vous avez effectivement beaucoup de choses à expliquer.
 
 792
 01:15:01,300 --> 01:15:04,030
-J'ai livré l'arme que l'Empereur
-avait demandée.
+J'ai livré l'arme que l'Empereur avait demandée.
 
 793
 01:15:04,055 --> 01:15:07,329
@@ -3539,13 +3172,11 @@ Je mérite une audience pour m'assurer
 
 794
 01:15:07,330 --> 01:15:12,264
-qu'il comprenne son potentiel...
-remarquable.
+qu'il comprenne son potentiel... remarquable.
 
 795
 01:15:12,268 --> 01:15:16,743
-Son pouvoir à créer des problèmes
-a bien été confirmé.
+Son pouvoir à créer des problèmes a bien été confirmé.
 
 796
 01:15:16,768 --> 01:15:18,716
@@ -3553,28 +3184,23 @@ Une ville détruite.
 
 797
 01:15:18,741 --> 01:15:22,164
-Un établissement Impérial
-ouvertement attaqué.
+Un établissement Impérial ouvertement attaqué.
 
 798
 01:15:22,280 --> 01:15:25,645
-C'est le Gouverneur Tarkin
-qui a suggéré le test.
+C'est le Gouverneur Tarkin qui a suggéré le test.
 
 799
 01:15:26,285 --> 01:15:30,314
-Vous n'avez pas été convoqué pour
-vous mettre à plat ventre, Krennic.
+Vous n'avez pas été convoqué pour vous mettre à plat ventre, Krennic.
 
 800
 01:15:30,339 --> 01:15:33,283
-- Non, je...
-- Il n'y a pas d'Étoile de la mort.
+- Non, je... - Il n'y a pas d'Étoile de la mort.
 
 801
 01:15:33,308 --> 01:15:38,166
-Le Sénat a été informé que Jedha a été
-détruite par un accident minier.
+Le Sénat a été informé que Jedha a été détruite par un accident minier.
 
 802
 01:15:38,191 --> 01:15:39,417
@@ -3582,13 +3208,11 @@ Oui, Seigneur.
 
 803
 01:15:39,442 --> 01:15:43,192
-J'attends de vous que vous puissiez
-assurer l'Empereur
+J'attends de vous que vous puissiez assurer l'Empereur
 
 804
 01:15:43,217 --> 01:15:49,333
-que Galen Erso n'a pas compromis
-l'arme d'une quelconque façon.
+que Galen Erso n'a pas compromis l'arme d'une quelconque façon.
 
 805
 01:15:51,030 --> 01:15:53,946
@@ -3600,8 +3224,7 @@ Vous parlerez à l'Empereur de...
 
 807
 01:16:12,422 --> 01:16:18,267
-Attention à ne pas vous étouffer
-avec vos ambitions, Directeur.
+Attention à ne pas vous étouffer avec vos ambitions, Directeur.
 
 808
 01:16:28,873 --> 01:16:31,926
@@ -3613,28 +3236,23 @@ On n'a d'autre choix que de se rendre.
 
 810
 01:16:35,024 --> 01:16:37,376
-On est vraiment entrain de parler
-de démanteler
+On est vraiment entrain de parler de démanteler
 
 811
 01:16:37,377 --> 01:16:39,728
-quelque chose qu'on a eu autant
-de mal à créer ?
+quelque chose qu'on a eu autant de mal à créer ?
 
 812
 01:16:39,753 --> 01:16:43,050
-- On ne peut pas se rendre !
-- C'est une alliance, pas un suicide collectif !
+- On ne peut pas se rendre ! - C'est une alliance, pas un suicide collectif !
 
 813
 01:16:43,075 --> 01:16:46,388
-- On vient de réussir à réunir nos forces.
-- Les réunir ?
+- On vient de réussir à réunir nos forces. - Les réunir ?
 
 814
 01:16:46,413 --> 01:16:49,446
-Le Général Draven a déjà fait exploser
-une base Impériale !
+Le Général Draven a déjà fait exploser une base Impériale !
 
 815
 01:16:49,471 --> 01:16:51,242
@@ -3642,18 +3260,15 @@ Une décision devait être prise.
 
 816
 01:16:51,267 --> 01:16:53,807
-Si c'est une guerre que vous voulez,
-vous la ferez seul !
+Si c'est une guerre que vous voulez, vous la ferez seul !
 
 817
 01:16:53,832 --> 01:16:56,275
-Si ça se passe comme ça, pourquoi
-même avoir une Alliance ?
+Si ça se passe comme ça, pourquoi même avoir une Alliance ?
 
 818
 01:16:56,300 --> 01:16:59,407
-Si elle dit la vérité,
-on doit agir maintenant !
+Si elle dit la vérité, on doit agir maintenant !
 
 819
 01:16:59,432 --> 01:17:00,991
@@ -3661,8 +3276,7 @@ Conseillers, s'il vous plaît !
 
 820
 01:17:01,016 --> 01:17:06,127
-C'est simple, l'Empire a des moyens de
-destruction massive. La Rébellion non.
+C'est simple, l'Empire a des moyens de destruction massive. La Rébellion non.
 
 821
 01:17:06,152 --> 01:17:07,932
@@ -3670,23 +3284,19 @@ Une Étoile de la mort, c'est absurde.
 
 822
 01:17:07,957 --> 01:17:11,047
-Pourquoi mon père aurait-il menti ?
-Qu'est ce que ça lui aurait apporté ?
+Pourquoi mon père aurait-il menti ? Qu'est ce que ça lui aurait apporté ?
 
 823
 01:17:11,072 --> 01:17:15,551
-Attirer nos forces dans une bataille
-finale. Nous détruire une fois pour toutes.
+Attirer nos forces dans une bataille finale. Nous détruire une fois pour toutes.
 
 824
 01:17:15,576 --> 01:17:19,601
-Tout risquer, pour quoi ? Le témoignage
-d'un criminel ?
+Tout risquer, pour quoi ? Le témoignage d'un criminel ?
 
 825
 01:17:19,626 --> 01:17:22,589
-Les derniers mots de son père,
-un scientifique Impérial ?
+Les derniers mots de son père, un scientifique Impérial ?
 
 826
 01:17:22,614 --> 01:17:24,309
@@ -3694,8 +3304,7 @@ N'oubliez pas le pilote Impérial.
 
 827
 01:17:24,334 --> 01:17:27,602
-Mon père a donné sa vie pour que nous
-ayons une chance de la détruire.
+Mon père a donné sa vie pour que nous ayons une chance de la détruire.
 
 828
 01:17:27,627 --> 01:17:28,867
@@ -3703,8 +3312,7 @@ C'est ce que vous nous avez dit.
 
 829
 01:17:28,891 --> 01:17:33,170
-Si l'Empire a ce genre de pouvoir,
-quelles chances avons-nous ?
+Si l'Empire a ce genre de pouvoir, quelles chances avons-nous ?
 
 830
 01:17:33,196 --> 01:17:35,401
@@ -3716,58 +3324,47 @@ La question est "quel choix ?".
 
 832
 01:17:38,513 --> 01:17:42,381
-Courir ? Se cacher ? Implorer
-la pitié ? Disperser vos forces ?
+Courir ? Se cacher ? Implorer la pitié ? Disperser vos forces ?
 
 833
 01:17:42,406 --> 01:17:45,182
-Vous donnez une chance à un ennemi
-aussi mauvais avec autant de pouvoir
+Vous donnez une chance à un ennemi aussi mauvais avec autant de pouvoir
 
 834
 01:17:45,207 --> 01:17:48,247
-et vous condamnez la galaxie
-à une éternité de soumission.
+et vous condamnez la galaxie à une éternité de soumission.
 
 835
 01:17:48,272 --> 01:17:50,164
-- L'heure est au combat !
-- Oui !
+- L'heure est au combat ! - Oui !
 
 836
 01:17:50,189 --> 01:17:54,218
-Chaque minute que vous gaspillez nous
-rapproche de la destruction de Jedha.
+Chaque minute que vous gaspillez nous rapproche de la destruction de Jedha.
 
 837
 01:17:54,766 --> 01:17:57,828
-- Qu'est ce qu'elle propose ?
-- Laissez-la parler !
+- Qu'est ce qu'elle propose ? - Laissez-la parler !
 
 838
 01:17:57,853 --> 01:18:00,339
-Envoyez vos meilleurs troupes
-sur Scarif.
+Envoyez vos meilleurs troupes sur Scarif.
 
 839
 01:18:02,839 --> 01:18:05,431
-Envoyez l'intégralité de la flotte
-Rebelle si vous le devez.
+Envoyez l'intégralité de la flotte Rebelle si vous le devez.
 
 840
 01:18:05,508 --> 01:18:09,749
-Volons les plans de l'Etoile de la Mort
-s'il y a une chance de la détruire !
+Volons les plans de l'Etoile de la Mort s'il y a une chance de la détruire !
 
 841
 01:18:13,072 --> 01:18:18,860
-Vous nous demandez d'attaquer une base
-Impériale au seul nom de l'espoir ?
+Vous nous demandez d'attaquer une base Impériale au seul nom de l'espoir ?
 
 842
 01:18:20,085 --> 01:18:22,676
-Les rébellions sont construites
-sur l'espoir.
+Les rébellions sont construites sur l'espoir.
 
 843
 01:18:24,351 --> 01:18:26,081
@@ -3795,8 +3392,7 @@ les chances sont trop grandes.
 
 849
 01:19:04,505 --> 01:19:09,880
-Général Bendola, veuillez vous rendre
-dans la salle de briefing.
+Général Bendola, veuillez vous rendre dans la salle de briefing.
 
 850
 01:19:09,905 --> 01:19:11,369
@@ -3804,13 +3400,11 @@ Tu n'as pas l'air heureuse.
 
 851
 01:19:11,394 --> 01:19:14,135
-- Ils préfèrent se rendre.
-- Et toi ?
+- Ils préfèrent se rendre. - Et toi ?
 
 852
 01:19:14,160 --> 01:19:17,397
-- Elle veut se battre.
-- Moi aussi. Comme nous tous.
+- Elle veut se battre. - Moi aussi. Comme nous tous.
 
 853
 01:19:17,421 --> 01:19:19,873
@@ -3818,13 +3412,11 @@ La Force est puissante.
 
 854
 01:19:20,054 --> 01:19:22,635
-Je ne suis pas sur qu'à nous quatre
-nous soyons assez.
+Je ne suis pas sur qu'à nous quatre nous soyons assez.
 
 855
 01:19:22,660 --> 01:19:25,802
-- Combien d'hommes il nous faut ?
-- De quoi parles-tu ?
+- Combien d'hommes il nous faut ? - De quoi parles-tu ?
 
 856
 01:19:33,211 --> 01:19:35,503
@@ -3856,13 +3448,11 @@ Quelques-uns parmi nous...
 
 863
 01:19:56,394 --> 01:19:59,868
-ont fait des choses horribles au
-nom de la Rébellion.
+ont fait des choses horribles au nom de la Rébellion.
 
 864
 01:20:00,482 --> 01:20:05,680
-Nous sommes des espions.
-Des saboteurs, des assassins.
+Nous sommes des espions. Des saboteurs, des assassins.
 
 865
 01:20:06,843 --> 01:20:08,758
@@ -3874,13 +3464,11 @@ je l'ai fait pour la Rébellion.
 
 867
 01:20:11,681 --> 01:20:15,514
-À chaque fois que j'ai tourné le dos
-à quelque chose que je voulais oublier
+À chaque fois que j'ai tourné le dos à quelque chose que je voulais oublier
 
 868
 01:20:16,605 --> 01:20:20,349
-je me disais que c'était pour une cause
-en laquelle je croyais.
+je me disais que c'était pour une cause en laquelle je croyais.
 
 869
 01:20:21,570 --> 01:20:23,607
@@ -3892,13 +3480,11 @@ Sans ça, nous sommes perdu.
 
 871
 01:20:27,751 --> 01:20:30,507
-Tout ce que nous avons fait
-aura été pour rien.
+Tout ce que nous avons fait aura été pour rien.
 
 872
 01:20:33,713 --> 01:20:36,797
-Je ne pourrai plus me regarder en face
-si j'abandonne maintenant.
+Je ne pourrai plus me regarder en face si j'abandonne maintenant.
 
 873
 01:20:39,727 --> 01:20:41,474
@@ -3910,8 +3496,7 @@ Ce ne sera pas très confortable.
 
 875
 01:20:48,315 --> 01:20:51,224
-Ce sera un peu serré, mais nous
-tiendrons tous.
+Ce sera un peu serré, mais nous tiendrons tous.
 
 876
 01:20:53,242 --> 01:20:54,834
@@ -3923,8 +3508,7 @@ On pourrait y aller.
 
 878
 01:20:58,381 --> 01:21:01,011
-Prenez tout ce qui n'est pas
-cloué au sol.
+Prenez tout ce qui n'est pas cloué au sol.
 
 879
 01:21:02,780 --> 01:21:03,829
@@ -3944,8 +3528,7 @@ Cassian m'en a donné l'ordre.
 
 883
 01:21:17,591 --> 01:21:21,301
-Je n'ai pas l'habitude de voir des gens
-agir quand les choses tournent mal.
+Je n'ai pas l'habitude de voir des gens agir quand les choses tournent mal.
 
 884
 01:21:21,751 --> 01:21:23,543
@@ -3953,8 +3536,7 @@ Bienvenue au club.
 
 885
 01:21:25,595 --> 01:21:29,289
-Équipe Bravo au Commandement pour
-le rapport de la mission d'extraction.
+Équipe Bravo au Commandement pour le rapport de la mission d'extraction.
 
 886
 01:21:47,796 --> 01:21:49,855
@@ -3962,8 +3544,7 @@ Que la Force soit avec nous.
 
 887
 01:21:55,540 --> 01:21:57,505
-Navette cargo, répondez,
-s'il vous plaît.
+Navette cargo, répondez, s'il vous plaît.
 
 888
 01:21:57,530 --> 01:21:59,672
@@ -3971,8 +3552,7 @@ Qu'est-ce qui se passe là dehors ?
 
 889
 01:22:00,389 --> 01:22:04,815
-Ce vaisseau est hors limite. Personne ne
-peut monter jusqu'à nouvel ordre.
+Ce vaisseau est hors limite. Personne ne peut monter jusqu'à nouvel ordre.
 
 890
 01:22:05,652 --> 01:22:08,233
@@ -3980,8 +3560,7 @@ On a le droit. Absolument.
 
 891
 01:22:08,258 --> 01:22:12,306
-Ceci est un vaisseau Impérial confisqué.
-Quel est votre nom, pilote ?
+Ceci est un vaisseau Impérial confisqué. Quel est votre nom, pilote ?
 
 892
 01:22:12,333 --> 01:22:14,729
@@ -4005,8 +3584,7 @@ Rogue One.
 
 897
 01:22:25,439 --> 01:22:29,048
-Rogue One ?
-Il n'y a pas de Rogue One.
+Rogue One ? Il n'y a pas de Rogue One.
 
 898
 01:22:29,073 --> 01:22:31,035
@@ -4014,23 +3592,19 @@ Eh bien, il y en a un maintenant.
 
 899
 01:22:31,493 --> 01:22:35,584
-- Rogue One, démarrage.
-- Démarrage.
+- Rogue One, démarrage. - Démarrage.
 
 900
 01:22:49,563 --> 01:22:52,628
-Malgré ce que peuvent dire les autres,
-la guerre est inévitable.
+Malgré ce que peuvent dire les autres, la guerre est inévitable.
 
 901
 01:22:52,653 --> 01:22:54,905
-Oui, je suis d'accord.
-Je dois retourner à Aldorande
+Oui, je suis d'accord. Je dois retourner à Aldorande
 
 902
 01:22:54,930 --> 01:22:58,413
-pour informer mon peuple
-qu'il n'y aura pas de paix.
+pour informer mon peuple qu'il n'y aura pas de paix.
 
 903
 01:22:58,800 --> 01:23:01,473
@@ -4042,13 +3616,11 @@ Ton ami, le Jedi.
 
 905
 01:23:07,492 --> 01:23:09,807
-Il m'a bien servi
-pendant la Guerre des Clones
+Il m'a bien servi pendant la Guerre des Clones
 
 906
 01:23:09,832 --> 01:23:12,238
-et a vécu caché depuis le massacre
-des Jedi par l'Empereur.
+et a vécu caché depuis le massacre des Jedi par l'Empereur.
 
 907
 01:23:12,263 --> 01:23:13,908
@@ -4056,18 +3628,15 @@ J'enverrai quelqu'un le chercher.
 
 908
 01:23:13,933 --> 01:23:16,166
-Vous aurez besoin de quelqu'un
-de confiance.
+Vous aurez besoin de quelqu'un de confiance.
 
 909
 01:23:18,012 --> 01:23:20,561
-Elle a toute ma confiance,
-je lui confierai ma vie.
+Elle a toute ma confiance, je lui confierai ma vie.
 
 910
 01:23:20,586 --> 01:23:23,958
-- Capitaine Antilles, j'ai une
-mission pour vous.
+- Capitaine Antilles, j'ai une mission pour vous.
 
 911
 01:23:34,088 --> 01:23:37,283
@@ -4075,18 +3644,15 @@ Ok... on y va.
 
 912
 01:23:37,443 --> 01:23:40,659
-Il y a un champs de force tout autour
-de la planète avec une seule entrée.
+Il y a un champs de force tout autour de la planète avec une seule entrée.
 
 913
 01:23:40,684 --> 01:23:44,095
-Ce vaisseau doit être équipé d'un code
-d'accès qui nous permettra d'entrer.
+Ce vaisseau doit être équipé d'un code d'accès qui nous permettra d'entrer.
 
 914
 01:23:44,120 --> 01:23:47,599
-Enfin, si l'Empire ne l'a pas
-enregistré comme obsolète.
+Enfin, si l'Empire ne l'a pas enregistré comme obsolète.
 
 915
 01:23:47,624 --> 01:23:49,428
@@ -4098,8 +3664,7 @@ Alors ils fermeront la porte,
 
 917
 01:23:52,345 --> 01:23:55,745
-et nous seront annihilés dans le
-froid sombre du vide sidéral.
+et nous seront annihilés dans le froid sombre du vide sidéral.
 
 918
 01:23:56,552 --> 01:23:58,314
@@ -4111,18 +3676,15 @@ Je peux survivre dans l'espace.
 
 920
 01:24:12,392 --> 01:24:15,267
-Ok.
-C'est parti.
+Ok. C'est parti.
 
 921
 01:24:19,336 --> 01:24:24,148
-Vaisseau cargo SW-0608
-demande autorisation d'atterrir.
+Vaisseau cargo SW-0608 demande autorisation d'atterrir.
 
 922
 01:24:25,629 --> 01:24:30,112
-Vaisseau cargo SW-0608, vous n'êtes
-pas sur la liste des arrivées.
+Vaisseau cargo SW-0608, vous n'êtes pas sur la liste des arrivées.
 
 923
 01:24:30,137 --> 01:24:32,288
@@ -4134,8 +3696,7 @@ On a été redirigé de la Station Eadu.
 
 925
 01:24:35,340 --> 01:24:38,655
-- Transmission du code d'autorisation.
-- Transmission.
+- Transmission du code d'autorisation. - Transmission.
 
 926
 01:24:50,767 --> 01:24:54,443
@@ -4143,8 +3704,7 @@ Vaisseau cargo SW-0608 ?
 
 927
 01:24:55,665 --> 01:24:57,637
-- Vous avez l'autorisation.
-- Oui !
+- Vous avez l'autorisation. - Oui !
 
 928
 01:24:58,612 --> 01:25:00,264
@@ -4160,8 +3720,7 @@ D'accord.
 
 931
 01:25:26,598 --> 01:25:30,830
-SW-0608 vous pouvez atterrir
-sur l'aire d'atterrissage 9.
+SW-0608 vous pouvez atterrir sur l'aire d'atterrissage 9.
 
 932
 01:25:30,831 --> 01:25:32,947
@@ -4169,13 +3728,11 @@ Notez, s'il vous plaît.
 
 933
 01:25:32,972 --> 01:25:36,910
-SW-0608 en direction de LP9
-comme demandé.
+SW-0608 en direction de LP9 comme demandé.
 
 934
 01:25:36,935 --> 01:25:39,179
-Le bâtiment principal là,
-qu'est ce que c'est ?
+Le bâtiment principal là, qu'est ce que c'est ?
 
 935
 01:25:39,212 --> 01:25:40,719
@@ -4183,23 +3740,19 @@ C'est la tour de la Citadelle.
 
 936
 01:25:40,720 --> 01:25:43,733
-Ils gardent toutes les archives
-Impériales dedans.
+Ils gardent toutes les archives Impériales dedans.
 
 937
 01:25:43,758 --> 01:25:46,228
-Si les plans sont quelque part,
-ils seront là.
+Si les plans sont quelque part, ils seront là.
 
 938
 01:25:46,253 --> 01:25:49,267
-La parabole sur le dessus ?
-C'est pour quoi ?
+La parabole sur le dessus ? C'est pour quoi ?
 
 939
 01:25:49,480 --> 01:25:52,457
-Il faut sûrement un signal important
-pour transmettre toutes ces données.
+Il faut sûrement un signal important pour transmettre toutes ces données.
 
 940
 01:25:54,246 --> 01:25:57,439
@@ -4219,33 +3772,27 @@ On entre !
 
 944
 01:26:21,416 --> 01:26:24,828
-Swar Gerrera disait, un guerrier
-avec un bâton
+Swar Gerrera disait, un guerrier avec un bâton
 
 945
 01:26:24,853 --> 01:26:27,736
-et rien à perdre peut faire
-de grandes choses.
+et rien à perdre peut faire de grandes choses.
 
 946
 01:26:31,174 --> 01:26:33,319
-Ils n'ont aucune idée que
-nous arrivons.
+Ils n'ont aucune idée que nous arrivons.
 
 947
 01:26:33,672 --> 01:26:36,234
-Ils n'ont aucune raison
-de nous attendre.
+Ils n'ont aucune raison de nous attendre.
 
 948
 01:26:36,465 --> 01:26:40,020
-Si on arrive au sol, on commencera
-la prochaine étape.
+Si on arrive au sol, on commencera la prochaine étape.
 
 949
 01:26:40,503 --> 01:26:43,959
-Puis la suivante. Jusqu'à ce qu'on
-réussisse...
+Puis la suivante. Jusqu'à ce qu'on réussisse...
 
 950
 01:26:46,274 --> 01:26:48,333
@@ -4253,13 +3800,11 @@ ou pas.
 
 951
 01:26:50,721 --> 01:26:53,342
-Les plans de l'Etoile de la Mort
-sont ici.
+Les plans de l'Etoile de la Mort sont ici.
 
 952
 01:26:54,027 --> 01:26:57,567
-Cassian, K2 et moi
-nous les trouverons.
+Cassian, K2 et moi nous les trouverons.
 
 953
 01:26:59,084 --> 01:27:01,558
@@ -4267,28 +3812,23 @@ Nous trouverons un moyen de les trouver.
 
 954
 01:27:02,932 --> 01:27:08,313
-Melshi, Pao, Baze, Chirrut,
-vous prendrez l'équipe principale,
+Melshi, Pao, Baze, Chirrut, vous prendrez l'équipe principale,
 
 955
 01:27:08,338 --> 01:27:10,356
-allez vers l'est et éloignez-vous
-du vaisseau.
+allez vers l'est et éloignez-vous du vaisseau.
 
 956
 01:27:10,381 --> 01:27:13,334
-Trouvez une position entre ici
-et la tour.
+Trouvez une position entre ici et la tour.
 
 957
 01:27:13,359 --> 01:27:17,998
-Une fois que vous êtes au meilleur
-endroit, allumez-les.
+Une fois que vous êtes au meilleur endroit, allumez-les.
 
 958
 01:27:18,023 --> 01:27:21,385
-- Que dix hommes en paraissent cent.
-- D'accord.
+- Que dix hommes en paraissent cent. - D'accord.
 
 959
 01:27:21,746 --> 01:27:24,387
@@ -4300,13 +3840,11 @@ Que devrais-je faire ?
 
 961
 01:27:26,389 --> 01:27:30,479
-Gardes les moteurs en marche.
-Tu es notre seul moyen de partir.
+Gardes les moteurs en marche. Tu es notre seul moyen de partir.
 
 962
 01:28:00,367 --> 01:28:06,484
-Navette Cargo SW-0608, préparez vous
-à recevoir l'équipe d'inspection.
+Navette Cargo SW-0608, préparez vous à recevoir l'équipe d'inspection.
 
 963
 01:28:06,509 --> 01:28:07,892
@@ -4318,8 +3856,7 @@ Salut !
 
 965
 01:28:22,708 --> 01:28:26,338
-Vous cherchez probablement
-un manifeste.
+Vous cherchez probablement un manifeste.
 
 966
 01:28:26,363 --> 01:28:28,357
@@ -4331,13 +3868,11 @@ C'est là en bas.
 
 968
 01:28:39,130 --> 01:28:42,265
-Directeur Krennic, nous entrons dans
-la porte du bouclier de Scarif.
+Directeur Krennic, nous entrons dans la porte du bouclier de Scarif.
 
 969
 01:28:42,290 --> 01:28:45,313
-Le Général Ramda a été informé
-de votre arrivée.
+Le Général Ramda a été informé de votre arrivée.
 
 970
 01:29:09,295 --> 01:29:12,395
@@ -4345,23 +3880,19 @@ Bonne chance petite soeur.
 
 971
 01:29:18,411 --> 01:29:20,672
-Allez !
-Maintenant, c'est dégagé !
+Allez ! Maintenant, c'est dégagé !
 
 972
 01:29:20,712 --> 01:29:23,718
-D'accord, on y va.
-Allez ! Go, go, go !
+D'accord, on y va. Allez ! Go, go, go !
 
 973
 01:29:52,304 --> 01:29:54,560
-- J'ai un mauvais pressentiment sur...
-- K !
+- J'ai un mauvais pressentiment sur... - K !
 
 974
 01:29:54,561 --> 01:29:56,480
-- Silence.
-- Quoi ?
+- Silence. - Quoi ?
 
 975
 01:30:32,789 --> 01:30:34,101
@@ -4369,8 +3900,7 @@ Nous avons besoin d'une carte.
 
 976
 01:30:34,126 --> 01:30:37,072
-Il y en a sûrement un qui traîne
-quelque part.
+Il y en a sûrement un qui traîne quelque part.
 
 977
 01:30:37,097 --> 01:30:39,564
@@ -4378,8 +3908,7 @@ Tu sais ce que tu as à faire.
 
 978
 01:31:09,899 --> 01:31:13,289
-Un par piste. Choisissez votre endroit.
-On veut les attirer dehors.
+Un par piste. Choisissez votre endroit. On veut les attirer dehors.
 
 979
 01:31:13,417 --> 01:31:15,598
@@ -4407,8 +3936,7 @@ Qu'es-ce que...?
 
 985
 01:31:53,566 --> 01:31:55,766
-Directeur, qu'est-ce qui vous amène
-sur Scarif ?
+Directeur, qu'est-ce qui vous amène sur Scarif ?
 
 986
 01:31:55,791 --> 01:31:59,027
@@ -4416,13 +3944,11 @@ Galen Erso, je veux chaque envoi,
 
 987
 01:31:59,028 --> 01:32:03,881
-chaque transmission
-qu'il a envoyé inspectés.
+chaque transmission qu'il a envoyé inspectés.
 
 988
 01:32:04,311 --> 01:32:08,306
-- Tous ?
-- Oui
+- Tous ? - Oui
 
 989
 01:32:08,331 --> 01:32:10,204
@@ -4434,13 +3960,11 @@ K ?
 
 991
 01:32:43,195 --> 01:32:47,714
-Le meilleur chemin jusqu'à la cible
-ne comporte que 89 stormtroopers.
+Le meilleur chemin jusqu'à la cible ne comporte que 89 stormtroopers.
 
 992
 01:32:47,739 --> 01:32:52,183
-On ne fera qu'un tiers du chemin
-avant d'être tués.
+On ne fera qu'un tiers du chemin avant d'être tués.
 
 993
 01:32:57,176 --> 01:32:58,889
@@ -4448,8 +3972,7 @@ Melshi, parle-moi.
 
 994
 01:32:58,914 --> 01:33:01,819
-Nous sommes prêts.
-En position.
+Nous sommes prêts. En position.
 
 995
 01:33:06,330 --> 01:33:08,038
@@ -4469,8 +3992,7 @@ Des Troopers. Sur la gauche !
 
 999
 01:34:24,161 --> 01:34:27,087
-Monsieur ? La base de Scarif,
-ils signalent une intrusion rebelle.
+Monsieur ? La base de Scarif, ils signalent une intrusion rebelle.
 
 1000
 01:34:27,112 --> 01:34:28,764
@@ -4482,8 +4004,7 @@ Il est ici, monsieur. Sur Scarif.
 
 1002
 01:34:31,814 --> 01:34:34,734
-Les plans originaux de la station
-sont gardés là-bas, non ?
+Les plans originaux de la station sont gardés là-bas, non ?
 
 1003
 01:34:34,759 --> 01:34:36,240
@@ -4491,8 +4012,7 @@ En effet.
 
 1004
 01:34:36,554 --> 01:34:40,743
-Préparez le saut en hyperespace
-et informez le Seigneur Vador.
+Préparez le saut en hyperespace et informez le Seigneur Vador.
 
 1005
 01:34:47,985 --> 01:34:49,257
@@ -4520,8 +4040,7 @@ Laissez-le parler.
 
 1011
 01:35:14,229 --> 01:35:18,684
-Transmission Impériale interceptée,
-madame. Des rebels sont sur Scarif.
+Transmission Impériale interceptée, madame. Des rebels sont sur Scarif.
 
 1012
 01:35:18,961 --> 01:35:20,572
@@ -4529,8 +4048,7 @@ Je dois parler à l'Amiral Raddus.
 
 1013
 01:35:20,597 --> 01:35:24,052
-Il est retourné sur son vaisseau.
-Il va combattre.
+Il est retourné sur son vaisseau. Il va combattre.
 
 1014
 01:35:35,888 --> 01:35:37,168
@@ -4542,8 +4060,7 @@ Non !
 
 1016
 01:35:43,879 --> 01:35:46,765
-veuillez prendre contact avec
-vos commandants immédiatement.
+veuillez prendre contact avec vos commandants immédiatement.
 
 1017
 01:35:46,791 --> 01:35:48,563
@@ -4551,8 +4068,7 @@ vos commandants immédiatement.
 
 1018
 01:35:48,564 --> 01:35:51,224
-veuillez prendre contact avec
-vos commandants immédiatement.
+veuillez prendre contact avec vos commandants immédiatement.
 
 1019
 01:35:51,249 --> 01:35:54,126
@@ -4560,8 +4076,7 @@ Nous avons été redirigé vers Scarif.
 
 1020
 01:35:54,151 --> 01:35:58,139
-Pilotes, vous serez briefés par vos
-chefs d'escadrons sur le chemin.
+Pilotes, vous serez briefés par vos chefs d'escadrons sur le chemin.
 
 1021
 01:35:58,478 --> 01:36:00,932
@@ -4573,8 +4088,7 @@ Scarif ? Ils vont sur Scarif ?
 
 1023
 01:36:03,741 --> 01:36:07,122
-Pourquoi personne
-ne me dit jamais rien, R2 ?
+Pourquoi personne ne me dit jamais rien, R2 ?
 
 1024
 01:36:14,990 --> 01:36:17,989
@@ -4586,8 +4100,7 @@ Continuez de les attirer dehors !
 
 1026
 01:36:23,558 --> 01:36:25,038
-- Allez.
-- On bouge.
+- Allez. - On bouge.
 
 1027
 01:36:25,063 --> 01:36:26,280
@@ -4595,13 +4108,11 @@ Allez, on avance !
 
 1028
 01:36:26,305 --> 01:36:28,761
-Piste 12 au rapport. Ils arrivent sur
-notre flanc, nous sommes en sous-effectif.
+Piste 12 au rapport. Ils arrivent sur notre flanc, nous sommes en sous-effectif.
 
 1029
 01:36:28,786 --> 01:36:31,058
-Piste 12, que se passe t-il ?
-Votre situation, s'il vous plaît.
+Piste 12, que se passe t-il ? Votre situation, s'il vous plaît.
 
 1030
 01:36:31,083 --> 01:36:33,077
@@ -4609,23 +4120,19 @@ Que toutes les pistes fassent un rapport.
 
 1031
 01:36:33,102 --> 01:36:34,826
-Pas d'informations, on a
-des rebels partout.
+Pas d'informations, on a des rebels partout.
 
 1032
 01:36:34,851 --> 01:36:38,246
-On est sous feu ennemi, piste 12
-et 14 demandent une assistance.
+On est sous feu ennemi, piste 12 et 14 demandent une assistance.
 
 1033
 01:36:38,681 --> 01:36:42,414
-Ici piste 2. Je vois 40 rebelles
-se diriger à l'ouest sur la piste 2.
+Ici piste 2. Je vois 40 rebelles se diriger à l'ouest sur la piste 2.
 
 1034
 01:36:42,439 --> 01:36:44,926
-Viens ici, dis-leur qu'on est attaqués
-par des rebelles sur la piste 5.
+Viens ici, dis-leur qu'on est attaqués par des rebelles sur la piste 5.
 
 1035
 01:36:44,951 --> 01:36:47,920
@@ -4633,13 +4140,11 @@ Ici piste 5, on est envahis. À l'aide !
 
 1036
 01:36:47,945 --> 01:36:51,628
-Piste 12, piste 10, piste 8. Veuillez
-confirmez. Faites un compte rendu.
+Piste 12, piste 10, piste 8. Veuillez confirmez. Faites un compte rendu.
 
 1037
 01:36:51,653 --> 01:36:54,581
-Envoyez des renforts piste 5
-immédiatement !
+Envoyez des renforts piste 5 immédiatement !
 
 1038
 01:36:57,730 --> 01:36:59,784
@@ -4655,8 +4160,7 @@ Baze !
 
 1041
 01:37:25,445 --> 01:37:26,965
-- Baze !
-- Quoi ?
+- Baze ! - Quoi ?
 
 1042
 01:37:26,990 --> 01:37:28,418
@@ -4668,8 +4172,7 @@ Repli !
 
 1044
 01:37:56,230 --> 01:37:59,327
-Ici l'Amiral Raddus de l'Alliance
-Rebelle.
+Ici l'Amiral Raddus de l'Alliance Rebelle.
 
 1045
 01:37:59,328 --> 01:38:01,393
@@ -4689,18 +4192,15 @@ Ici Red Leader, prêt.
 
 1049
 01:38:09,364 --> 01:38:11,858
-Monsieur, ce sont des
-vaisseaux rebels.
+Monsieur, ce sont des vaisseaux rebels.
 
 1050
 01:38:11,884 --> 01:38:14,443
-Allez chercher l'Amiral Gorin
-immédiatement.
+Allez chercher l'Amiral Gorin immédiatement.
 
 1051
 01:38:14,475 --> 01:38:18,455
-Directeur, la flotte rebelle,
-elle s'amasse hors du bouclier.
+Directeur, la flotte rebelle, elle s'amasse hors du bouclier.
 
 1052
 01:38:20,846 --> 01:38:22,689
@@ -4708,18 +4208,15 @@ Verrouillez la base.
 
 1053
 01:38:22,714 --> 01:38:24,908
-- On ferme le bouclier ?
-- Faites-le !
+- On ferme le bouclier ? - Faites-le !
 
 1054
 01:38:24,972 --> 01:38:29,095
-Escadrons Red et Gold, formations
-d'attaque. Défendez la flotte.
+Escadrons Red et Gold, formations d'attaque. Défendez la flotte.
 
 1055
 01:38:29,120 --> 01:38:32,646
-Escadron bleu, allez à la surface
-avant qu'ils ne ferment la porte.
+Escadron bleu, allez à la surface avant qu'ils ne ferment la porte.
 
 1056
 01:38:32,671 --> 01:38:33,789
@@ -4751,8 +4248,7 @@ Remontez !
 
 1063
 01:39:13,181 --> 01:39:15,901
-- La flotte rebelle est arrivée.
-- Quoi ?
+- La flotte rebelle est arrivée. - Quoi ?
 
 1064
 01:39:15,926 --> 01:39:17,620
@@ -4764,8 +4260,7 @@ ils ont verrouillé la base,
 
 1066
 01:39:19,926 --> 01:39:22,698
-- fermé la porte du bouclier.
-- Ce qui veut dire ?
+- fermé la porte du bouclier. - Ce qui veut dire ?
 
 1067
 01:39:25,318 --> 01:39:26,837
@@ -4773,18 +4268,15 @@ On est piégés ?
 
 1068
 01:39:27,530 --> 01:39:29,914
-On pourrait transmettre les plans
-à la flotte rebelle.
+On pourrait transmettre les plans à la flotte rebelle.
 
 1069
 01:39:30,569 --> 01:39:33,545
-On devrait lancer un signal
-pour les prévenir que ça arrive.
+On devrait lancer un signal pour les prévenir que ça arrive.
 
 1070
 01:39:33,572 --> 01:39:35,876
-Le problème, c'est la taille
-des fichiers.
+Le problème, c'est la taille des fichiers.
 
 1071
 01:39:35,901 --> 01:39:37,959
@@ -4792,8 +4284,7 @@ Ils ne passeront jamais à travers.
 
 1072
 01:39:38,426 --> 01:39:41,190
-Quelqu'un doit détruire la porte
-de ce bouclier.
+Quelqu'un doit détruire la porte de ce bouclier.
 
 1073
 01:39:41,215 --> 01:39:43,413
@@ -4809,33 +4300,27 @@ Je suis là. Nous nous tenons prêts.
 
 1076
 01:39:49,836 --> 01:39:51,304
-Ils ont commencé à se battre,
-la base est verrouillée !
+Ils ont commencé à se battre, la base est verrouillée !
 
 1077
 01:39:51,329 --> 01:39:54,590
-Je sais, écoute-moi !
-La flotte rebelle est là-haut.
+Je sais, écoute-moi ! La flotte rebelle est là-haut.
 
 1078
 01:39:54,615 --> 01:39:56,490
-Tu dois leur dire de faire un trou
-dans la porte du bouclier
+Tu dois leur dire de faire un trou dans la porte du bouclier
 
 1079
 01:39:56,515 --> 01:39:58,894
-pour que nous puissions transmettre
-les plans
+pour que nous puissions transmettre les plans
 
 1080
 01:39:58,919 --> 01:40:03,578
-Attends, je ne peux pas. On n'est pas
-branchés à la tour. On est pas en réseau.
+Attends, je ne peux pas. On n'est pas branchés à la tour. On est pas en réseau.
 
 1081
 01:40:03,603 --> 01:40:05,611
-C'est le seul moyen pour qu'on
-les transmette.
+C'est le seul moyen pour qu'on les transmette.
 
 1082
 01:40:05,639 --> 01:40:08,939
@@ -4851,8 +4336,7 @@ Tu en voulais un, non ?
 
 1085
 01:40:17,657 --> 01:40:23,192
-Ta conduite, Jyn Erso, continue
-de me surprendre.
+Ta conduite, Jyn Erso, continue de me surprendre.
 
 1086
 01:40:23,217 --> 01:40:25,604
@@ -4876,8 +4360,7 @@ Qu'est ce que tu fais ?
 
 1091
 01:41:21,682 --> 01:41:24,364
-Ils ont fermé la porte du bouclier,
-on est coincés ici.
+Ils ont fermé la porte du bouclier, on est coincés ici.
 
 1092
 01:41:24,389 --> 01:41:26,956
@@ -4885,28 +4368,23 @@ Mais la flotte Rebelle fait pression.
 
 1093
 01:41:26,981 --> 01:41:28,843
-On doit juste obtenir un signal
-assez fort pour les contacter
+On doit juste obtenir un signal assez fort pour les contacter
 
 1094
 01:41:28,868 --> 01:41:31,267
-et leur faire savoir qu'on est
-coincés ici.
+et leur faire savoir qu'on est coincés ici.
 
 1095
 01:41:31,292 --> 01:41:33,148
-Pour ça, on doit se connecter
-à la tour des communications.
+Pour ça, on doit se connecter à la tour des communications.
 
 1096
 01:41:33,173 --> 01:41:35,486
-Je peux nous relier
-à l'aire d'atterrissage
+Je peux nous relier à l'aire d'atterrissage
 
 1097
 01:41:35,511 --> 01:41:38,394
-mais tu dois lancer un appel radio,
-faire en sorte qu'un des gars trouve
+mais tu dois lancer un appel radio, faire en sorte qu'un des gars trouve
 
 1098
 01:41:38,419 --> 01:41:40,151
@@ -4914,8 +4392,7 @@ un interrupteur principal.
 
 1099
 01:41:40,176 --> 01:41:44,108
-Il faut qu'il active la connexion
-entre nous et cette tour.
+Il faut qu'il active la connexion entre nous et cette tour.
 
 1100
 01:41:44,133 --> 01:41:45,555
@@ -4927,13 +4404,11 @@ Que se passe t-il en bas, Lieutenant ?
 
 1102
 01:41:50,729 --> 01:41:52,818
-Aucune idée, monsieur.
-On n'arrive pas à les lever.
+Aucune idée, monsieur. On n'arrive pas à les lever.
 
 1103
 01:41:52,843 --> 01:41:55,154
-Toutes les fréquences rebelles
-sont bloquées.
+Toutes les fréquences rebelles sont bloquées.
 
 1104
 01:41:55,179 --> 01:41:59,722
@@ -4957,13 +4432,11 @@ Base de donnée, Tour de données deux.
 
 1109
 01:42:50,257 --> 01:42:52,995
-- Comment je trouve ça ?
-- En cherchant.
+- Comment je trouve ça ? - En cherchant.
 
 1110
 01:42:53,717 --> 01:42:57,681
-Je peux localiser le fichier, mais il
-vous faudra les leviers pour l'extraire.
+Je peux localiser le fichier, mais il vous faudra les leviers pour l'extraire.
 
 1111
 01:43:01,121 --> 01:43:03,537
@@ -4971,13 +4444,11 @@ On est censés faire quoi avec ça ?
 
 1112
 01:43:21,815 --> 01:43:24,299
-- Ah, enfin.
-- Stop.
+- Ah, enfin. - Stop.
 
 1113
 01:43:24,324 --> 01:43:27,607
-Les rebels ! Ils sont partis...
-Par là.
+Les rebels ! Ils sont partis... Par là.
 
 1114
 01:43:27,632 --> 01:43:30,131
@@ -4985,8 +4456,7 @@ Qu'est-ce qui se passe ici ?
 
 1115
 01:43:30,156 --> 01:43:33,145
-- Il y en a un.
-- Bon.
+- Il y en a un. - Bon.
 
 1116
 01:43:44,232 --> 01:43:45,595
@@ -4998,23 +4468,19 @@ Red Leader, ici Gold Leader.
 
 1118
 01:43:54,397 --> 01:43:56,767
-On commence notre raid
-contre la porte du bouclier.
+On commence notre raid contre la porte du bouclier.
 
 1119
 01:43:56,792 --> 01:43:59,704
-Restez en rangs serrés et attention
-à ces tours.
+Restez en rangs serrés et attention à ces tours.
 
 1120
 01:44:13,121 --> 01:44:15,970
-Plus de combattants.
-En formation, en 65.
+Plus de combattants. En formation, en 65.
 
 1121
 01:44:16,410 --> 01:44:19,332
-Monsieur, des combattants
-ennemis entrent.
+Monsieur, des combattants ennemis entrent.
 
 1122
 01:44:26,028 --> 01:44:28,670
@@ -5022,13 +4488,11 @@ Melshi, tu es là ?
 
 1123
 01:44:29,099 --> 01:44:31,357
-Bodhi va envoyer un signal
-d'ici. Il nous a branchés.
+Bodhi va envoyer un signal d'ici. Il nous a branchés.
 
 1124
 01:44:31,382 --> 01:44:33,592
-Mais vous devez ouvrir une ligne
-pour la tour.
+Mais vous devez ouvrir une ligne pour la tour.
 
 1125
 01:44:33,617 --> 01:44:35,327
@@ -5036,13 +4500,11 @@ Comment ? Explique.
 
 1126
 01:44:35,352 --> 01:44:37,847
-Il y a un interrupteur principal
-à la base de la Tour de communication.
+Il y a un interrupteur principal à la base de la Tour de communication.
 
 1127
 01:44:37,872 --> 01:44:40,688
-Décris linterrupteur principal,
-ça ressemble à quoi ?
+Décris linterrupteur principal, ça ressemble à quoi ?
 
 1128
 01:44:40,713 --> 01:44:44,040
@@ -5050,13 +4512,11 @@ Décris linterrupteur principal,
 
 1129
 01:44:44,065 --> 01:44:46,532
-Deux ailes, en renforts pour les
-troupes sur la plage.
+Deux ailes, en renforts pour les troupes sur la plage.
 
 1130
 01:44:46,557 --> 01:44:50,214
-Tous les combattants, avec moi. On doit
-les protéger des attaques aériennes.
+Tous les combattants, avec moi. On doit les protéger des attaques aériennes.
 
 1131
 01:44:51,454 --> 01:44:54,587
@@ -5072,8 +4532,7 @@ On n'a aucun effet sur ce bouclier.
 
 1134
 01:45:07,620 --> 01:45:09,973
-Combien de coups ce truc
-peut encore encaisser ?
+Combien de coups ce truc peut encore encaisser ?
 
 1135
 01:45:11,605 --> 01:45:14,618
@@ -5097,8 +4556,7 @@ systèmes de navigation.
 
 1140
 01:45:30,733 --> 01:45:34,943
-Deux écrans plus bas. Ingénierie
-structurelle, ouvre celui-là !
+Deux écrans plus bas. Ingénierie structurelle, ouvre celui-là !
 
 1141
 01:45:36,562 --> 01:45:38,542
@@ -5110,13 +4568,11 @@ Je m'en occupe.
 
 1143
 01:45:53,445 --> 01:45:58,779
-Noms de code de projets : Stellarsphère.
-Mark Omega. Pax Aurora.
+Noms de code de projets : Stellarsphère. Mark Omega. Pax Aurora.
 
 1144
 01:46:09,945 --> 01:46:14,717
-War-Mantle. Cluster-Prism.
-Black-Saber.
+War-Mantle. Cluster-Prism. Black-Saber.
 
 1145
 01:46:15,481 --> 01:46:16,510
@@ -5176,18 +4632,15 @@ Grimpe.
 
 1159
 01:47:23,840 --> 01:47:27,277
-Vous pouvez toujours envoyer les plans
-à la flotte.
+Vous pouvez toujours envoyer les plans à la flotte.
 
 1160
 01:47:27,302 --> 01:47:32,248
-S'ils ouvrent la porte du bouclier,
-tu peux diffuser depuis la tour !
+S'ils ouvrent la porte du bouclier, tu peux diffuser depuis la tour !
 
 1161
 01:47:32,320 --> 01:47:35,030
-- Je ferme la porte.
-- K.
+- Je ferme la porte. - K.
 
 1162
 01:47:35,604 --> 01:47:36,453
@@ -5195,23 +4648,19 @@ Kay !
 
 1163
 01:47:36,478 --> 01:47:38,435
-- Au revoir.
-- Kay !
+- Au revoir. - Kay !
 
 1164
 01:47:55,056 --> 01:47:58,533
-Monsieur, accès non autorisé dans la
-réserve des fichiers.
+Monsieur, accès non autorisé dans la réserve des fichiers.
 
 1165
 01:47:59,335 --> 01:48:01,741
-- Quoi ?
-- Ça vient d'arriver, monsieur.
+- Quoi ? - Ça vient d'arriver, monsieur.
 
 1166
 01:48:05,516 --> 01:48:09,576
-Envoyez mon escadron en renfort !
-Deux hommes avec moi !
+Envoyez mon escadron en renfort ! Deux hommes avec moi !
 
 1167
 01:48:09,798 --> 01:48:12,592
@@ -5227,18 +4676,15 @@ Tu as l'interrupteur ?
 
 1170
 01:48:16,826 --> 01:48:21,057
-Je ne peux pas aller à la navette,
-je ne peux pas brancher !
+Je ne peux pas aller à la navette, je ne peux pas brancher !
 
 1171
 01:48:21,082 --> 01:48:23,183
-Vous n'avez pas le choix !
-Ils doivent toucher cette porte.
+Vous n'avez pas le choix ! Ils doivent toucher cette porte.
 
 1172
 01:48:23,208 --> 01:48:26,238
-Si le bouclier est ouvert,
-on peut envoyer les plans !
+Si le bouclier est ouvert, on peut envoyer les plans !
 
 1173
 01:48:56,100 --> 01:48:58,097
@@ -5270,8 +4716,7 @@ Melshi, réponds, s'il te plaît.
 
 1180
 01:50:34,535 --> 01:50:37,654
-Je suis branché de mon côté, j'ai
-juste besoin d'une ligne ouverte.
+Je suis branché de mon côté, j'ai juste besoin d'une ligne ouverte.
 
 1181
 01:50:37,679 --> 01:50:39,089
@@ -5279,8 +4724,7 @@ Attendez.
 
 1182
 01:50:39,857 --> 01:50:44,292
-L'interrupteur principal,
-c'est sur cette console.
+L'interrupteur principal, c'est sur cette console.
 
 1183
 01:50:47,466 --> 01:50:48,982
@@ -5304,13 +4748,11 @@ Jyn !
 
 1188
 01:51:32,698 --> 01:51:35,045
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 1189
 01:51:36,340 --> 01:51:37,666
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 1190
 01:51:37,691 --> 01:51:39,118
@@ -5318,33 +4760,27 @@ Chirrut !
 
 1191
 01:51:48,612 --> 01:51:50,983
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 1192
 01:51:51,108 --> 01:51:53,365
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 1193
 01:51:53,490 --> 01:51:55,579
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 1194
 01:51:55,704 --> 01:51:57,694
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 1195
 01:51:57,819 --> 01:52:00,068
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 1196
 01:52:00,194 --> 01:52:02,557
-Je ne fais qu'un avec la Force
-et la Force est avec moi.
+Je ne fais qu'un avec la Force et la Force est avec moi.
 
 1197
 01:52:02,961 --> 01:52:05,580
@@ -5376,8 +4812,7 @@ Tout va bien.
 
 1204
 01:53:01,777 --> 01:53:04,386
-- Cherche la Force,
-- Chirrut.
+- Cherche la Force, - Chirrut.
 
 1205
 01:53:04,557 --> 01:53:07,941
@@ -5409,13 +4844,11 @@ Et je ne fais qu'un avec la Force.
 
 1212
 01:53:36,195 --> 01:53:39,832
-Boucliers déflecteurs à 50%,
-nous subissons de lourds dommages.
+Boucliers déflecteurs à 50%, nous subissons de lourds dommages.
 
 1213
 01:53:39,857 --> 01:53:43,707
-Il n'y a pas de retour en arrière,
-nous devons appuyer l'attaque.
+Il n'y a pas de retour en arrière, nous devons appuyer l'attaque.
 
 1214
 01:53:49,049 --> 01:53:50,400
@@ -5431,28 +4864,23 @@ Torpilles à ion envoyées.
 
 1217
 01:54:03,546 --> 01:54:06,634
-- Que se passe-t-il ?
-- Nous n'avons plus d'énergie, monsieur.
+- Que se passe-t-il ? - Nous n'avons plus d'énergie, monsieur.
 
 1218
 01:54:09,075 --> 01:54:11,492
-Ce croiseur interstellaire
-est hors service.
+Ce croiseur interstellaire est hors service.
 
 1219
 01:54:12,867 --> 01:54:15,753
-Ici Rogue One, à tous les vaisseaux de
-l'Alliance qui me reçoivent.
+Ici Rogue One, à tous les vaisseaux de l'Alliance qui me reçoivent.
 
 1220
 01:54:17,915 --> 01:54:20,417
-Il y a quelqu'un ? Ici Rogue One !
-Répondez, terminé.
+Il y a quelqu'un ? Ici Rogue One ! Répondez, terminé.
 
 1221
 01:54:20,442 --> 01:54:23,652
-Ici l'Amiral Raddus,
-Rogue One, nous vous recevons !
+Ici l'Amiral Raddus, Rogue One, nous vous recevons !
 
 1222
 01:54:25,369 --> 01:54:27,084
@@ -5460,38 +4888,31 @@ Nous avons les plans !
 
 1223
 01:54:27,615 --> 01:54:28,913
-Ils ont trouvé les plans
-de l'Étoile de la Mort.
+Ils ont trouvé les plans de l'Étoile de la Mort.
 
 1224
 01:54:28,914 --> 01:54:30,860
-Ils doivent les transmettre
-depuis la tour de communication !
+Ils doivent les transmettre depuis la tour de communication !
 
 1225
 01:54:30,885 --> 01:54:32,678
-Vous devez détruire la porte
-du bouclier.
+Vous devez détruire la porte du bouclier.
 
 1226
 01:54:32,679 --> 01:54:34,472
-C'est le seul moyen de
-les transmettre !
+C'est le seul moyen de les transmettre !
 
 1227
 01:54:35,459 --> 01:54:38,610
-Appelez une corvette bélier.
-J'ai une idée.
+Appelez une corvette bélier. J'ai une idée.
 
 1228
 01:54:38,636 --> 01:54:42,096
-- En attente Rogue One, on y travaille.
-- C'est pour toi, Galen.
+- En attente Rogue One, on y travaille. - C'est pour toi, Galen.
 
 1229
 01:55:10,442 --> 01:55:14,753
-La Force est avec moi.
-Je ne fais qu'un avec la Force.
+La Force est avec moi. Je ne fais qu'un avec la Force.
 
 1230
 01:56:05,447 --> 01:56:07,955
@@ -5503,28 +4924,23 @@ Préparez-vous à l'impact.
 
 1232
 01:56:21,964 --> 01:56:24,475
-Propulseurs subluminiques,
-puissance maximum !
+Propulseurs subluminiques, puissance maximum !
 
 1233
 01:57:00,257 --> 01:57:02,842
-<i>Réinitialisez l'alignement
-de l'antenne.</i>
+Réinitialisez l'alignement de l'antenne.
 
 1234
 01:57:07,234 --> 01:57:09,749
-<i>Réinitialisez l'alignement
-de l'antenne.</i>
+Réinitialisez l'alignement de l'antenne.
 
 1235
 01:57:36,048 --> 01:57:38,617
-Inversez le sens de propulsion,
-à pleine puissance !
+Inversez le sens de propulsion, à pleine puissance !
 
 1236
 01:57:59,364 --> 01:58:02,680
-<i>Alignement de l'antenne.
-Prêt à transmettre.</i>
+Alignement de l'antenne. Prêt à transmettre.
 
 1237
 01:58:36,858 --> 01:58:38,803
@@ -5552,28 +4968,23 @@ Oh, c'est vrai ?
 
 1243
 01:58:52,559 --> 01:58:55,752
-La revanche de mon père. Il a construit
-un défaut dans l'Étoile de la Mort.
+La revanche de mon père. Il a construit un défaut dans l'Étoile de la Mort.
 
 1244
 01:58:55,777 --> 01:58:57,706
-Il a mis un fusible au milieu
-de votre machine
+Il a mis un fusible au milieu de votre machine
 
 1245
 01:58:57,731 --> 01:59:00,802
-et il vient de dire à la galaxie
-entière comment le faire griller.
+et il vient de dire à la galaxie entière comment le faire griller.
 
 1246
 01:59:00,827 --> 01:59:05,706
-Le bouclier est levé, votre signal
-n'atteindra jamais la base rebelle.
+Le bouclier est levé, votre signal n'atteindra jamais la base rebelle.
 
 1247
 01:59:05,731 --> 01:59:08,068
-Tous vos vaisseaux ici
-vont être détruits.
+Tous vos vaisseaux ici vont être détruits.
 
 1248
 01:59:08,093 --> 01:59:10,438
@@ -5581,21 +4992,19 @@ Je n'ai rien perdu excepté du temps.
 
 1249
 01:59:10,463 --> 01:59:15,795
-VOUS, par contre, mourez avec
-la Rébellion.
+VOUS, par contre, mourez avec la Rébellion.
 
 1250
 01:59:45,841 --> 01:59:47,459
-<i>Transmission.</i>
+Transmission.
 
 1251
 01:59:49,856 --> 01:59:51,568
-<i>Transmission.</i>
+Transmission.
 
 1252
 01:59:52,571 --> 01:59:56,264
-Amiral, nous recevons une
-transmission de Scarif.
+Amiral, nous recevons une transmission de Scarif.
 
 1253
 02:00:04,568 --> 02:00:07,247
@@ -5635,8 +5044,7 @@ Quelqu'un est là.
 
 1262
 02:00:31,944 --> 02:00:36,494
-Monsieur, nous détectons un énorme
-objet émergeant de l'hyper espace.
+Monsieur, nous détectons un énorme objet émergeant de l'hyper espace.
 
 1263
 02:00:42,161 --> 02:00:44,151
@@ -5648,8 +5056,7 @@ Le Seigneur Vador s'occupe de la flotte.
 
 1265
 02:00:46,150 --> 02:00:49,925
-Visez la base de Scarif.
-Ignition seule du réacteur.
+Visez la base de Scarif. Ignition seule du réacteur.
 
 1266
 02:00:49,950 --> 02:00:51,267
@@ -5669,8 +5076,7 @@ Rogue One, que la Force soit avec vous.
 
 1270
 02:01:59,191 --> 02:02:02,998
-A tous les vaisseaux, préparez vous
-au saut hyper-spatial !
+A tous les vaisseaux, préparez vous au saut hyper-spatial !
 
 1271
 02:02:34,983 --> 02:02:38,012
@@ -5678,13 +5084,11 @@ Ton père aurait été fier de toi Jyn.
 
 1272
 02:02:51,467 --> 02:02:53,838
-Le vaisseau amiral rebelle est hors
-d'état de nuire, monsieur,
+Le vaisseau amiral rebelle est hors d'état de nuire, monsieur,
 
 1273
 02:02:53,863 --> 02:02:56,524
-mais il a reçu une transmission
-de la surface.
+mais il a reçu une transmission de la surface.
 
 1274
 02:02:56,549 --> 02:02:58,915
@@ -5740,13 +5144,11 @@ LANCEZ !
 
 1287
 02:05:17,069 --> 02:05:21,347
-Assurez-vous de sécuriser le sas.
-Et préparez les nacelles de secours.
+Assurez-vous de sécuriser le sas. Et préparez les nacelles de secours.
 
 1288
 02:05:25,167 --> 02:05:28,713
-Votre Altesse. La transmission
-que nous avons reçue.
+Votre Altesse. La transmission que nous avons reçue.
 
 1289
 02:05:29,699 --> 02:05:31,824
@@ -5755,8 +5157,3 @@ Qu'est ce qu'ils nous ont envoyé ?
 1290
 02:05:33,080 --> 02:05:34,651
 L'espoir.
-
-1291
-02:05:41,081 --> 02:05:46,678
-Traduit par la communauté
-- addic7ed.com 
