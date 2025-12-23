@@ -1,0 +1,6239 @@
+1
+00:00:44,100 --> 00:00:50,000
+LE PRESTIGE
+
+2
+00:00:57,900 --> 00:00:59,300
+Vous regardez attentivement ?
+
+3
+00:01:06,100 --> 00:01:10,400
+Tout tour de magie comporte trois parties, ou actes.
+
+4
+00:01:11,300 --> 00:01:14,100
+La première partie s'appelle "le pacte".
+
+5
+00:01:14,200 --> 00:01:17,500
+Le magicien vous montre une chose ordinaire.
+
+6
+00:01:17,600 --> 00:01:21,100
+Un jeu de cartes, un oiseau, ou un homme.
+
+7
+00:01:27,700 --> 00:01:30,200
+Il vous montre cet objet.
+
+8
+00:01:30,200 --> 00:01:32,300
+Il vous demande peut-être de l'inspecter,
+
+9
+00:01:32,900 --> 00:01:35,900
+pour voir s'il est bien réel,
+
+10
+00:01:36,000 --> 00:01:39,000
+inchangé, normal.
+
+11
+00:01:42,700 --> 00:01:45,600
+Mais bien sûr, il ne l'est certainement pas.
+
+12
+00:01:45,700 --> 00:01:49,900
+- Où vous croyez aller ? - Je fais partie du numéro, idiot.
+
+13
+00:02:02,800 --> 00:02:06,200
+Le deuxième acte s'appelle "l'effet".
+
+14
+00:02:19,700 --> 00:02:22,800
+Le magicien prend cette chose ordinaire...
+
+15
+00:02:24,300 --> 00:02:27,500
+... et lui fait faire quelque chose d'extraordinaire.
+
+16
+00:02:32,000 --> 00:02:36,100
+Alors vous cherchez le secret, mais vous ne le trouverez pas,
+
+17
+00:02:36,100 --> 00:02:39,400
+car bien sûr, vous ne cherchez pas vraiment.
+
+18
+00:02:40,000 --> 00:02:41,700
+Vous ne voulez pas savoir.
+
+19
+00:02:44,800 --> 00:02:47,300
+Vous voulez être... mystifié.
+
+20
+00:02:49,000 --> 00:02:51,000
+Mais vous n'applaudissez pas encore,
+
+21
+00:02:51,500 --> 00:02:55,700
+car faire disparaître un objet ne suffit pas.
+
+22
+00:02:55,700 --> 00:02:59,300
+Il faut le faire réapparaître.
+
+23
+00:03:00,800 --> 00:03:04,600
+C'est pourquoi tout tour de magie a un troisième acte.
+
+24
+00:03:04,700 --> 00:03:06,400
+La partie la plus dure.
+
+25
+00:03:06,400 --> 00:03:08,900
+La partie qu'on appelle...
+
+26
+00:03:09,000 --> 00:03:10,400
+... "le prestige".
+
+27
+00:03:21,100 --> 00:03:25,300
+Le prestige ? Et Robert Angier, le Grand Danton, votre employeur,
+
+28
+00:03:25,400 --> 00:03:27,800
+est-il arrivé ce soir-là à cette partie finale ?
+
+29
+00:03:27,900 --> 00:03:30,000
+- Non. Quelque chose a mal tourné. - Et quoi donc ?
+
+30
+00:03:31,100 --> 00:03:34,600
+J'ai vu quelqu'un descendre sous la scène.
+
+31
+00:03:34,700 --> 00:03:36,100
+Je l'ai suivi.
+
+32
+00:03:36,100 --> 00:03:39,900
+C'était Borden, qui regardait M. Angier se noyer.
+
+33
+00:03:40,000 --> 00:03:43,500
+Veuillez décrire votre occupation au jury, M. Cutter.
+
+34
+00:03:43,500 --> 00:03:45,900
+Je suis ingénieur, je conçois des illusions
+
+35
+00:03:46,000 --> 00:03:49,100
+et je construis l'appareil nécessaire pour les exécuter.
+
+36
+00:03:49,200 --> 00:03:53,800
+Alors M. Cutter, ce réservoir plein d'eau sous la scène
+
+37
+00:03:53,900 --> 00:03:55,900
+faisait partie de l'illusion de M. Angier ?
+
+38
+00:03:55,900 --> 00:03:59,200
+Non. Le réservoir était apporté pour le premier tour
+
+39
+00:03:59,300 --> 00:04:01,200
+et puis emporté dans les coulisses.
+
+40
+00:04:01,300 --> 00:04:04,600
+Borden a dû le placer sous la trappe à la fin.
+
+41
+00:04:04,700 --> 00:04:06,300
+La taille de ce réservoir ?
+
+42
+00:04:06,300 --> 00:04:08,900
+C'est un réservoir normal pour une évasion sous l'eau,
+
+43
+00:04:09,000 --> 00:04:11,100
+il devait faire 100 à 150 litres.
+
+44
+00:04:11,200 --> 00:04:13,700
+Comment a-t-il pu déplacer ce réservoir
+
+45
+00:04:13,800 --> 00:04:16,200
+sous la trappe sans qu'on le remarque ?
+
+46
+00:04:16,200 --> 00:04:18,100
+C'est un magicien, demandez-lui.
+
+47
+00:04:18,100 --> 00:04:22,900
+À nouveau, cet homme peut-il expliquer le mécanisme de l'illusion de M. Angier ?
+
+48
+00:04:23,000 --> 00:04:26,400
+L'Homme Transporté est une des illusions les plus recherchées
+
+49
+00:04:26,500 --> 00:04:27,700
+de ce métier.
+
+50
+00:04:27,800 --> 00:04:29,400
+J'ai le droit de la vendre.
+
+51
+00:04:29,500 --> 00:04:32,100
+Si j'en révèle le secret, le tour sera sans valeur.
+
+52
+00:04:32,100 --> 00:04:34,400
+Comment savoir que le réservoir n'était pas
+
+53
+00:04:34,500 --> 00:04:37,000
+une partie du tour qui a mal tourné ?
+
+54
+00:04:37,000 --> 00:04:39,100
+M. Cutter, je comprends votre situation.
+
+55
+00:04:39,100 --> 00:04:41,500
+Mais la vie d'Alfred Borden est en jeu.
+
+56
+00:04:41,600 --> 00:04:44,800
+Si vous étiez prêt à m'en révéler les détails en privé,
+
+57
+00:04:44,900 --> 00:04:47,700
+je pourrais juger de son rapport avec l'affaire.
+
+58
+00:04:47,800 --> 00:04:50,400
+Ce serait un compromis acceptable ?
+
+59
+00:05:08,700 --> 00:05:12,000
+Je vais vous demander de retourner vos poches.
+
+60
+00:05:16,200 --> 00:05:19,700
+Ça ne vient pas de moi. Le directeur a vu son spectacle l'an dernier,
+
+61
+00:05:19,800 --> 00:05:21,700
+quand il s'est volatilisé.
+
+62
+00:05:21,700 --> 00:05:24,300
+Il est convaincu qu'il essaiera de s'échapper.
+
+63
+00:05:27,700 --> 00:05:30,500
+Je lui ai dit que le mieux pour que Borden disparaisse,
+
+64
+00:05:30,500 --> 00:05:34,200
+c'est de le laisser avec les autres détenus.
+
+65
+00:05:38,800 --> 00:05:40,200
+Vérifiez les serrures...
+
+66
+00:05:41,900 --> 00:05:43,400
+... deux fois.
+
+67
+00:05:50,500 --> 00:05:53,000
+Je m'appelle Owens.
+
+68
+00:05:53,100 --> 00:05:55,400
+Je suis notaire.
+
+69
+00:05:55,400 --> 00:05:59,100
+Je représente Lord Caldlow, un magicien amateur accompli et...
+
+70
+00:05:59,200 --> 00:06:01,800
+Combien ?
+
+71
+00:06:01,900 --> 00:06:04,200
+- Il est intéressé... - Combien pour mes tours ?
+
+72
+00:06:04,300 --> 00:06:05,800
+Il offre 5 000 livres.
+
+73
+00:06:05,900 --> 00:06:08,400
+Voyez Fallon, mon ingénieur. L'argent est pour lui.
+
+74
+00:06:08,500 --> 00:06:12,200
+Oui, je l'ai fait. Il a offert de me vendre vos tours.
+
+75
+00:06:12,300 --> 00:06:15,100
+Tous sauf le plus précieux, l'Homme Transporté.
+
+76
+00:06:15,200 --> 00:06:18,500
+Je ne me pardonnerais pas de vendre mon meilleur tour.
+
+77
+00:06:18,600 --> 00:06:20,000
+Même pour votre fille ?
+
+78
+00:06:21,700 --> 00:06:26,000
+Si vous êtes pendu, quelqu'un devra s'occuper de votre fille.
+
+79
+00:06:26,100 --> 00:06:27,800
+Fallon s'occupera d'elle.
+
+80
+00:06:27,900 --> 00:06:29,600
+Parfait, Fallon.
+
+81
+00:06:29,700 --> 00:06:31,700
+Avec un passé aussi obscur que le vôtre.
+
+82
+00:06:31,800 --> 00:06:34,200
+La cour a statué qu'elle lui soit enlevée.
+
+83
+00:06:34,300 --> 00:06:36,800
+Elle sera orpheline.
+
+84
+00:06:36,900 --> 00:06:39,900
+Je sais que l'hospice ne vous est pas étranger.
+
+85
+00:06:39,900 --> 00:06:41,800
+C'est mieux qu'ici ?
+
+86
+00:06:41,800 --> 00:06:45,100
+Je vous offre un moyen de régler vos affaires avec dignité.
+
+87
+00:06:45,100 --> 00:06:47,100
+J'offre un avenir à votre fille.
+
+88
+00:06:47,200 --> 00:06:50,200
+Comme pupille de Lord Caldlow, elle ne manquera de rien...
+
+89
+00:06:50,300 --> 00:06:52,100
+... jamais.
+
+90
+00:06:53,000 --> 00:06:55,200
+Réfléchissez-y.
+
+91
+00:06:55,300 --> 00:07:00,200
+Lord Caldlow aimerait vous donner ça, en gage de bonne foi.
+
+92
+00:07:00,200 --> 00:07:01,600
+Ça pourrait vous intéresser.
+
+93
+00:07:01,700 --> 00:07:05,200
+Le journal de Robert Angier, lors de son séjour au Colorado
+
+94
+00:07:05,300 --> 00:07:06,600
+pour apprendre votre tour.
+
+95
+00:07:06,600 --> 00:07:08,300
+- Il ne l'a jamais appris. - Vraiment ?
+
+96
+00:07:08,400 --> 00:07:11,900
+À son retour, il a monté une version de l'Homme Transporté
+
+97
+00:07:12,000 --> 00:07:15,900
+que les journaux ont trouvé meilleure que la vôtre.
+
+98
+00:07:16,000 --> 00:07:18,200
+Si vous voulez les secrets d'Angier,
+
+99
+00:07:18,300 --> 00:07:22,200
+allez le déterrer pour lui demander.
+
+100
+00:07:23,000 --> 00:07:24,800
+Je veux votre secret, M. Borden.
+
+101
+00:07:27,800 --> 00:07:29,200
+Pensez à votre fille.
+
+102
+00:07:36,600 --> 00:07:38,600
+Un code,
+
+103
+00:07:38,700 --> 00:07:40,700
+une énigme...
+
+104
+00:07:42,600 --> 00:07:44,400
+... une quête.
+
+105
+00:07:44,500 --> 00:07:45,500
+Toujours en quête de réponse.
+
+106
+00:07:53,200 --> 00:07:57,000
+Même si le Colorado est la destination de mon voyage,
+
+107
+00:07:57,000 --> 00:08:00,200
+il faudra beaucoup de temps pour découvrir
+
+108
+00:08:00,300 --> 00:08:02,200
+tous les secrets de Borden.
+
+109
+00:08:04,400 --> 00:08:06,300
+Le code de son journal
+
+110
+00:08:06,300 --> 00:08:08,800
+se déchiffre avec un mot unique,
+
+111
+00:08:08,900 --> 00:08:11,900
+mais il me faudra des mois pour traduire ses écrits.
+
+112
+00:08:11,900 --> 00:08:14,700
+Et connaître son esprit.
+
+113
+00:08:17,700 --> 00:08:20,000
+Mais ma passion est à la hauteur de la tâche.
+
+114
+00:08:33,100 --> 00:08:36,600
+M. Angier, bienvenue à Colorado Springs.
+
+115
+00:08:52,000 --> 00:08:55,000
+- Toute la ville a l'électricité. - Oui, monsieur.
+
+116
+00:09:12,200 --> 00:09:13,900
+Eh bien...
+
+117
+00:09:13,900 --> 00:09:15,200
+... quel accueil !
+
+118
+00:09:15,300 --> 00:09:17,800
+Vous êtes le premier client de la saison, M. Angier.
+
+119
+00:09:17,900 --> 00:09:21,400
+Votre télégramme n'indiquait pas combien de temps vous restez avec nous.
+
+120
+00:09:21,500 --> 00:09:23,100
+Aussi longtemps qu'il faudra.
+
+121
+00:09:23,200 --> 00:09:26,500
+J'ai besoin d'un guide demain pour me conduire dans la montagne.
+
+122
+00:09:26,600 --> 00:09:28,300
+Le sommet est fermé, monsieur.
+
+123
+00:09:28,300 --> 00:09:32,200
+- Pour des expériences scientifiques. - Oui, je sais.
+
+124
+00:09:32,300 --> 00:09:33,600
+Je suis venu pour ça.
+
+125
+00:09:44,800 --> 00:09:47,700
+Je crains qu'il vous faille faire le reste à pied, monsieur.
+
+126
+00:10:06,100 --> 00:10:08,300
+ÉLECTRICITÉ DANGER
+
+127
+00:10:23,300 --> 00:10:26,500
+Je suis sidéré de voir que les journalistes
+
+128
+00:10:26,500 --> 00:10:28,600
+ne lisent jamais l'écriteau.
+
+129
+00:10:33,300 --> 00:10:35,900
+Ce n'est pas l'accueil que j'espérais recevoir.
+
+130
+00:10:38,900 --> 00:10:41,000
+Je vous connais.
+
+131
+00:10:45,000 --> 00:10:46,500
+Vous êtes le Grand Danton.
+
+132
+00:10:46,500 --> 00:10:48,800
+J'ai vu votre spectacle à Londres.
+
+133
+00:10:48,900 --> 00:10:51,700
+Vous avez deviné sept fois les objets
+
+134
+00:10:51,800 --> 00:10:54,000
+que les spectateurs avaient dans leurs poches.
+
+135
+00:10:54,100 --> 00:10:58,100
+Je suis Alley. Désolé pour la clôture. Les gens interfèrent avec notre travail.
+
+136
+00:10:58,200 --> 00:10:59,800
+Je suis venu voir Tesla.
+
+137
+00:10:59,800 --> 00:11:00,900
+Pourquoi ?
+
+138
+00:11:00,900 --> 00:11:04,900
+Il a fait une machine pour un collègue, il y a quelque temps.
+
+139
+00:11:05,000 --> 00:11:08,600
+- Puis-je le rencontrer ? - Impossible, je le crains.
+
+140
+00:11:08,700 --> 00:11:10,900
+J'ai apporté beaucoup d'argent.
+
+141
+00:11:10,900 --> 00:11:13,600
+Je suis désolé, M. Angier.
+
+142
+00:11:13,700 --> 00:11:16,200
+Je ne peux malheureusement rien faire pour vous.
+
+143
+00:11:17,500 --> 00:11:20,600
+Je serai à l'hôtel, indéfiniment.
+
+144
+00:11:23,900 --> 00:11:26,000
+Qu'est-ce que je tiens ?
+
+145
+00:11:26,100 --> 00:11:27,400
+Votre montre.
+
+146
+00:11:32,200 --> 00:11:35,700
+L'entrée du journal de Borden du 3 avril 1897
+
+147
+00:11:35,700 --> 00:11:37,800
+décrit un spectacle au Théâtre Orpheum.
+
+148
+00:11:37,900 --> 00:11:41,100
+C'était quelques jours après m'avoir rencontré.
+
+149
+00:11:43,600 --> 00:11:46,500
+On était deux jeunes hommes au début d'une grande carrière,
+
+150
+00:11:46,500 --> 00:11:49,300
+deux jeunes hommes dévoués à une illusion,
+
+151
+00:11:49,400 --> 00:11:51,900
+qui ne voulaient faire de mal à personne.
+
+152
+00:11:52,000 --> 00:11:53,800
+Qui de vous, mes braves,
+
+153
+00:11:53,900 --> 00:11:56,600
+veut bien ligoter cette ravissante jeune femme ?
+
+154
+00:11:58,400 --> 00:11:59,900
+Moi !
+
+155
+00:12:08,800 --> 00:12:10,300
+Attachez donc ses poignets
+
+156
+00:12:10,900 --> 00:12:12,900
+et ses pieds.
+
+157
+00:12:13,800 --> 00:12:15,300
+Attachez ses chevilles.
+
+158
+00:12:15,900 --> 00:12:18,000
+L'un de vous est-il marin, messieurs ?
+
+159
+00:12:18,100 --> 00:12:19,800
+- Non. - Non.
+
+160
+00:12:20,800 --> 00:12:23,900
+Je suis sûr que vous savez faire un nud bien solide.
+
+161
+00:13:27,100 --> 00:13:30,600
+Il est trop confiant, il est prévisible, il est ennuyeux.
+
+162
+00:13:30,600 --> 00:13:33,200
+Milton a connu le succès, si on peut dire,
+
+163
+00:13:33,200 --> 00:13:36,500
+alors il a peur. Il ne prend aucun risque.
+
+164
+00:13:36,500 --> 00:13:39,600
+Il gâche la bonne volonté de son public avec des tours usés
+
+165
+00:13:39,700 --> 00:13:42,300
+- de second ordre... - Le public les adore.
+
+166
+00:13:42,400 --> 00:13:45,800
+Il faut du nouveau. Il n'essaie même pas la prise de balle.
+
+167
+00:13:45,900 --> 00:13:47,800
+La prise de balle est du suicide.
+
+168
+00:13:47,800 --> 00:13:51,800
+Il suffit qu'un petit malin mette un bouton dans le baril.
+
+169
+00:13:51,900 --> 00:13:54,200
+- Prenons un complice. - Pas pour tous les tours.
+
+170
+00:13:54,200 --> 00:13:56,200
+Il n'y a plus de place pour les spectateurs.
+
+171
+00:13:56,300 --> 00:14:00,100
+Très bien, pas de prise de balle, mais un vrai magicien
+
+172
+00:14:00,200 --> 00:14:01,800
+essaie d'inventer du nouveau
+
+173
+00:14:01,800 --> 00:14:04,700
+pour que les autres magiciens se creusent la tête.
+
+174
+00:14:04,800 --> 00:14:07,000
+Et vous les vendez pour une petite fortune.
+
+175
+00:14:07,000 --> 00:14:08,000
+C'est ça.
+
+176
+00:14:08,100 --> 00:14:10,100
+Je suppose que vous avez un tel tour ?
+
+177
+00:14:10,200 --> 00:14:12,800
+- Certainement. - Vous voudriez me le vendre ?
+
+178
+00:14:12,900 --> 00:14:14,500
+Personne ne peut faire mon tour.
+
+179
+00:14:14,500 --> 00:14:16,700
+- Tous les tours peuvent être copiés. - Faux.
+
+180
+00:14:16,700 --> 00:14:20,500
+Si M. Borden a inventé son chef-d'uvre,
+
+181
+00:14:20,500 --> 00:14:22,400
+lui seul peut l'exécuter.
+
+182
+00:14:22,500 --> 00:14:24,600
+Milton sait présenter, mais Borden a raison,
+
+183
+00:14:24,700 --> 00:14:26,300
+il ne se salira pas les mains.
+
+184
+00:14:26,400 --> 00:14:30,000
+Si vous voulez voir la vraie magie à l'uvre,
+
+185
+00:14:30,000 --> 00:14:31,100
+allez au Tenley.
+
+186
+00:14:31,200 --> 00:14:33,900
+Il y a un Chinois qui a vraiment ce que ça demande.
+
+187
+00:14:33,900 --> 00:14:36,200
+- Chung Ling Soo. - Les billets sont trop chers.
+
+188
+00:14:36,200 --> 00:14:37,900
+Je connais le type à la porte.
+
+189
+00:14:37,900 --> 00:14:42,400
+Allez voir ce spectacle tous les deux, et celui qui me dit
+
+190
+00:14:42,400 --> 00:14:45,500
+comment il fait le coup du poisson rouge reçoit le prix.
+
+191
+00:14:45,600 --> 00:14:47,900
+- Lequel ? - Dix minutes sur scène
+
+192
+00:14:47,900 --> 00:14:49,800
+avec mon vieil ami, M. Ackerman.
+
+193
+00:14:49,900 --> 00:14:51,300
+- Vraiment ? - Qui est Ackerman ?
+
+194
+00:14:51,400 --> 00:14:53,600
+L'agent le plus important de Londres.
+
+195
+00:14:54,900 --> 00:14:57,500
+- Vous avez mal fait le nud. - J'ai le poignet foulé.
+
+196
+00:14:57,600 --> 00:15:00,200
+Certains soirs, vous semblez ne pas comprendre.
+
+197
+00:15:00,300 --> 00:15:03,100
+Si ce nud glisse quand Julia est sur le palan,
+
+198
+00:15:03,200 --> 00:15:04,300
+elle se cassera la jambe.
+
+199
+00:15:04,400 --> 00:15:06,000
+Ce n'est pas le bon nud.
+
+200
+00:15:06,100 --> 00:15:09,000
+Comme j'ai dit, le Langford double tiendrait mieux.
+
+201
+00:15:09,000 --> 00:15:12,500
+Le Langford double n'est pas pour l'eau. C'est trop dangereux.
+
+202
+00:15:12,600 --> 00:15:14,800
+Si la corde gonfle, elle ne pourra pas la retirer.
+
+203
+00:15:14,900 --> 00:15:18,200
+- Je pourrai l'enlever sous l'eau. - On peut s'entraîner.
+
+204
+00:15:18,200 --> 00:15:22,200
+- Borden, il a dit non. - Tu t'y connais mieux en nuds ?
+
+205
+00:15:22,200 --> 00:15:24,200
+Écoutez, ne faites plus d'erreurs.
+
+206
+00:15:24,300 --> 00:15:27,000
+Oui ? C'est ça ? Tu veux prendre ma place ?
+
+207
+00:15:27,100 --> 00:15:30,000
+- File. - Je pensais bien que non.
+
+208
+00:15:34,400 --> 00:15:36,300
+Cutter, d'où il vient ?
+
+209
+00:15:36,300 --> 00:15:39,600
+Et d'où vous venez ? Il s'occupait des accessoires de Virgil.
+
+210
+00:15:39,700 --> 00:15:42,900
+- Il ne va pas voler vos tours ? - Ça ne l'intéresse pas.
+
+211
+00:15:43,000 --> 00:15:46,000
+- Qu'en savez-vous ? - Je l'ai engagé
+
+212
+00:15:46,100 --> 00:15:49,300
+pour savoir comment Virgil faisait le tour de l'orange.
+
+213
+00:15:49,400 --> 00:15:51,700
+- Je ne lui fais pas confiance. - C'est un magicien-né.
+
+214
+00:15:51,800 --> 00:15:53,300
+On ne peut pas lui faire confiance.
+
+215
+00:15:54,000 --> 00:15:55,300
+Je le trouve bien.
+
+216
+00:15:55,400 --> 00:15:57,700
+- Tu trouves tout le monde bien. - Même toi.
+
+217
+00:15:57,800 --> 00:15:59,200
+Attention au champ de vision.
+
+218
+00:15:59,300 --> 00:16:01,700
+Si j'arrive à vous voir embrasser la jambe de votre femme,
+
+219
+00:16:01,800 --> 00:16:04,400
+les types au bout des rangées 3 et 4 le voient aussi !
+
+220
+00:16:36,900 --> 00:16:38,900
+Non, ce n'est pas possible.
+
+221
+00:16:38,900 --> 00:16:42,700
+- Regarde cet homme. - C'est là le truc.
+
+222
+00:16:42,700 --> 00:16:44,800
+Il continue à jouer le jeu.
+
+223
+00:16:44,900 --> 00:16:47,200
+Voilà pourquoi on ne décèle pas son secret.
+
+224
+00:16:49,000 --> 00:16:50,600
+Totale dévotion à son art.
+
+225
+00:16:51,600 --> 00:16:53,300
+Beaucoup d'abnégation.
+
+226
+00:16:55,800 --> 00:16:58,500
+C'est la seule façon d'échapper
+
+227
+00:16:58,600 --> 00:17:01,000
+à tout ça, tu vois ?
+
+228
+00:17:04,800 --> 00:17:08,500
+J'arrive à peine à soulever ce truc, et il n'est même pas rempli d'eau.
+
+229
+00:17:10,100 --> 00:17:11,600
+Ni de poissons, regarde.
+
+230
+00:17:12,500 --> 00:17:14,800
+Je ne sais pas. Attends une seconde.
+
+231
+00:17:16,700 --> 00:17:19,400
+Il doit être fort comme un buf.
+
+232
+00:17:22,100 --> 00:17:24,900
+Il fait semblant d'être infirme depuis des années.
+
+233
+00:17:25,000 --> 00:17:28,600
+À chaque fois qu'il est en public ou qu'il sort. C'est impensable.
+
+234
+00:17:28,600 --> 00:17:31,600
+Borden l'a vu tout de suite, mais je ne comprends pas.
+
+235
+00:17:31,600 --> 00:17:34,500
+Vivre toute ma vie en faisant semblant d'être un autre.
+
+236
+00:17:34,600 --> 00:17:36,300
+Tu fais semblant.
+
+237
+00:17:36,400 --> 00:17:38,400
+Changer de nom n'est pas comparable.
+
+238
+00:17:38,500 --> 00:17:40,900
+Pas ton nom. Qui tu es et d'où tu viens.
+
+239
+00:17:41,100 --> 00:17:45,000
+J'ai promis de ne pas embarrasser ma famille avec mes rêves artistiques.
+
+240
+00:17:46,500 --> 00:17:48,800
+Je t'ai trouvé un nom.
+
+241
+00:17:50,100 --> 00:17:52,200
+Le Grand Danton.
+
+242
+00:17:53,700 --> 00:17:56,700
+Ça te plaît ? Mais c'est sophistiqué.
+
+243
+00:17:56,800 --> 00:17:58,200
+C'est français.
+
+244
+00:18:04,100 --> 00:18:08,300
+Borden pense être le seul à comprendre la vraie nature de la magie.
+
+245
+00:18:14,000 --> 00:18:16,700
+Mais que sait-il de l'abnégation ?
+
+246
+00:18:21,800 --> 00:18:23,900
+Espèce d'imbécile !
+
+247
+00:18:51,500 --> 00:18:55,100
+- Il l'a tué. - Mais non.
+
+248
+00:18:55,200 --> 00:18:59,000
+- Il l'a tué. - Pas du tout.
+
+249
+00:19:03,100 --> 00:19:04,800
+Regarde, il le ramène à la vie.
+
+250
+00:19:07,000 --> 00:19:09,900
+- Non, il l'a tué. - Non, pas du tout.
+
+251
+00:19:18,200 --> 00:19:21,200
+Regarde, tu vois, il va bien. Il va très bien.
+
+252
+00:19:21,300 --> 00:19:25,400
+- Regarde-le. - Mais où est son frère ?
+
+253
+00:19:28,100 --> 00:19:31,400
+Votre fils est très vif.
+
+254
+00:19:31,400 --> 00:19:33,700
+Oh, c'est mon neveu.
+
+255
+00:19:39,900 --> 00:19:41,300
+Tu as de la chance, aujourd'hui.
+
+256
+00:20:01,900 --> 00:20:05,100
+Tu regardes attentivement ?
+
+257
+00:20:07,900 --> 00:20:09,400
+Regarde de plus près.
+
+258
+00:20:12,400 --> 00:20:14,200
+Ne le montre à personne.
+
+259
+00:20:14,300 --> 00:20:17,000
+Les autres te supplieront et te flatteront,
+
+260
+00:20:17,100 --> 00:20:20,600
+mais si tu leur révèles le secret, tu n'auras plus d'intérêt à leurs yeux.
+
+261
+00:20:20,700 --> 00:20:23,000
+Tu comprends ? Plus aucun.
+
+262
+00:20:23,000 --> 00:20:26,100
+Le secret n'impressionne personne.
+
+263
+00:20:26,200 --> 00:20:29,800
+C'est le tour que tu fais qui importe.
+
+264
+00:20:34,000 --> 00:20:36,900
+Merci pour ce déjeuner, M. Borden.
+
+265
+00:20:37,000 --> 00:20:38,500
+De rien.
+
+266
+00:20:39,900 --> 00:20:41,600
+Alfred, c'est Alfred.
+
+267
+00:20:41,700 --> 00:20:43,300
+Alfred.
+
+268
+00:20:43,300 --> 00:20:46,300
+Je prendrais bien une tasse de thé.
+
+269
+00:20:46,400 --> 00:20:49,900
+Je ne peux pas... Le propriétaire. Ce n'est pas...
+
+270
+00:20:51,300 --> 00:20:54,700
+Vous croyez que ça va m'empêcher d'entrer ?
+
+271
+00:20:56,500 --> 00:20:58,800
+Je pense.
+
+272
+00:20:58,900 --> 00:21:00,500
+Je vous reverrai ?
+
+273
+00:21:09,700 --> 00:21:12,200
+Lait et sucre ?
+
+274
+00:21:33,300 --> 00:21:35,300
+Qu'y a-t-il, là-dedans ?
+
+275
+00:21:35,300 --> 00:21:37,300
+La machine d'Angier.
+
+276
+00:21:45,800 --> 00:21:47,500
+Vous avez fabriqué ça, M. Cutter ?
+
+277
+00:21:47,500 --> 00:21:50,400
+Oh non, monsieur. Ça n'a pas été fabriqué par un magicien.
+
+278
+00:21:50,500 --> 00:21:52,500
+Ça a été fabriqué par un mage,
+
+279
+00:21:52,600 --> 00:21:56,700
+un homme qui peut vraiment faire ce que les magiciens prétendent faire.
+
+280
+00:21:57,700 --> 00:21:58,900
+Dites-moi, Votre Honneur,
+
+281
+00:21:59,000 --> 00:22:01,900
+que deviendront ces choses après le procès ?
+
+282
+00:22:01,900 --> 00:22:03,900
+Elles ont été vendues à Lord Caldlow,
+
+283
+00:22:04,000 --> 00:22:06,700
+un collectionneur avide, très intéressé par l'affaire.
+
+284
+00:22:06,800 --> 00:22:09,300
+Oui. Ne le laissez pas prendre ça.
+
+285
+00:22:09,400 --> 00:22:11,300
+- Pourquoi ? - C'est trop dangereux.
+
+286
+00:22:12,200 --> 00:22:14,400
+Je suis sûr qu'en dépit des artifices,
+
+287
+00:22:14,500 --> 00:22:16,800
+c'est un tour simple et décevant.
+
+288
+00:22:16,900 --> 00:22:19,300
+Des plus décevants, Votre Honneur.
+
+289
+00:22:21,400 --> 00:22:23,100
+Il n'y a pas de tour.
+
+290
+00:22:25,600 --> 00:22:27,100
+Tout est réel.
+
+291
+00:22:30,300 --> 00:22:32,600
+Angier s'est noyé dans ce réservoir ?
+
+292
+00:22:33,000 --> 00:22:34,700
+Oui.
+
+293
+00:22:34,800 --> 00:22:39,700
+C'est là que la main de l'artiste passe
+
+294
+00:22:39,700 --> 00:22:41,300
+et ouvre le cadenas truqué.
+
+295
+00:22:41,400 --> 00:22:43,800
+Un dispositif standard pour s'échapper ?
+
+296
+00:22:43,800 --> 00:22:46,300
+Oui, avec une grosse différence.
+
+297
+00:22:46,400 --> 00:22:48,400
+Ce n'est pas un cadenas truqué.
+
+298
+00:22:48,500 --> 00:22:50,500
+Il a été changé pour un vrai.
+
+299
+00:22:50,500 --> 00:22:52,500
+Drôle de façon de tuer quelqu'un !
+
+300
+00:22:52,600 --> 00:22:55,300
+Ce sont des magiciens, Votre Honneur.
+
+301
+00:22:55,400 --> 00:23:00,700
+Des artistes, qui habillent des vérités banales et parfois brutales,
+
+302
+00:23:00,800 --> 00:23:03,900
+pour stupéfier, choquer.
+
+303
+00:23:04,000 --> 00:23:05,800
+Même sans public ?
+
+304
+00:23:07,300 --> 00:23:09,300
+Il y avait un public.
+
+305
+00:23:10,100 --> 00:23:12,200
+Voyez-vous, ce réservoir
+
+306
+00:23:12,300 --> 00:23:15,700
+avait une signification particulière pour ces deux hommes.
+
+307
+00:23:17,000 --> 00:23:19,500
+Une signification particulièrement horrible.
+
+308
+00:23:22,400 --> 00:23:27,000
+Qui de vous, mes braves, est prêt à ligoter cette jeune femme ravissante ?
+
+309
+00:23:29,300 --> 00:23:31,400
+Veuillez lui attacher les poignets,
+
+310
+00:23:31,400 --> 00:23:34,300
+et les pieds, passez la corde autour de la cheville.
+
+311
+00:23:47,000 --> 00:23:50,000
+- L'un de vous est marin ? - Non.
+
+312
+00:23:51,000 --> 00:23:53,700
+Je suis sûr que vous savez faire un nud solide.
+
+313
+00:24:48,900 --> 00:24:50,100
+Robert !
+
+314
+00:25:17,700 --> 00:25:20,200
+Julia. Julia !
+
+315
+00:26:04,900 --> 00:26:07,700
+Je connaissais un vieux marin.
+
+316
+00:26:07,800 --> 00:26:10,700
+On m'a dit qu'il est passé par-dessus bord,
+
+317
+00:26:10,800 --> 00:26:12,900
+il s'est emmêlé dans les voiles.
+
+318
+00:26:12,900 --> 00:26:14,700
+Ils l'ont repêché,
+
+319
+00:26:14,800 --> 00:26:18,100
+mais il a mis cinq minutes avant de tousser.
+
+320
+00:26:18,800 --> 00:26:20,300
+Il a dit que c'était comme...
+
+321
+00:26:20,900 --> 00:26:22,700
+... rentrer à la maison.
+
+322
+00:26:28,100 --> 00:26:30,400
+Que voulez-vous, Borden ?
+
+323
+00:26:37,200 --> 00:26:39,200
+Toutes mes condoléances, Angier.
+
+324
+00:26:43,000 --> 00:26:45,100
+Quel nud as-tu fait ?
+
+325
+00:26:48,300 --> 00:26:51,200
+Je n'arrête pas de me le demander.
+
+326
+00:26:51,300 --> 00:26:53,300
+- Et alors ? - Et...
+
+327
+00:26:55,000 --> 00:26:57,800
+Je suis désolé, je ne sais pas.
+
+328
+00:26:59,900 --> 00:27:01,400
+Tu ne sais pas ?
+
+329
+00:27:03,300 --> 00:27:05,200
+Je suis désolé.
+
+330
+00:27:06,200 --> 00:27:08,800
+Tu ne sais pas ?
+
+331
+00:27:12,400 --> 00:27:14,600
+Tu ne sais pas ? !
+
+332
+00:27:20,800 --> 00:27:23,200
+- Alfred ? - Bonne nouvelle.
+
+333
+00:27:23,200 --> 00:27:24,600
+Notre premier contrat.
+
+334
+00:27:24,700 --> 00:27:26,600
+Nous n'avons pas fait connaissance.
+
+335
+00:27:26,700 --> 00:27:29,700
+- M. Fallon est mon ingénieur. - Où avez-vous trouvé tout...
+
+336
+00:27:29,700 --> 00:27:31,500
+C'est emprunté et... ne demandez pas.
+
+337
+00:27:31,600 --> 00:27:35,600
+Il est très entreprenant, ce M. Fallon...
+
+338
+00:27:35,700 --> 00:27:39,100
+- On ne peut pas le payer. - L'argent viendra avec le public.
+
+339
+00:27:39,200 --> 00:27:42,900
+Mais d'ici là ? Ce que je gagne suffit à peine pour nous.
+
+340
+00:27:43,000 --> 00:27:45,200
+Ne t'en fais pas. Je partagerai mes repas avec lui.
+
+341
+00:27:47,000 --> 00:27:50,000
+Tu vas devoir le faire avec quelqu'un d'autre.
+
+342
+00:27:50,000 --> 00:27:51,900
+Non. Tu vas...
+
+343
+00:27:52,000 --> 00:27:54,300
+Avoir un bébé.
+
+344
+00:27:54,800 --> 00:27:56,400
+Oh, mon Dieu !
+
+345
+00:27:57,300 --> 00:28:00,200
+On aurait dû le dire à Fallon. C'est formidable.
+
+346
+00:28:00,200 --> 00:28:02,300
+Oh, viens ici.
+
+347
+00:28:05,900 --> 00:28:07,300
+Alfred, qu'est-ce que c'est ?
+
+348
+00:28:07,400 --> 00:28:11,600
+Oh, c'est pour stupéfier Ackerman à la fin de mon numéro.
+
+349
+00:28:11,600 --> 00:28:14,300
+C'est le chef-d'uvre, le grand tour ?
+
+350
+00:28:14,400 --> 00:28:17,200
+Non, le monde n'est pas encore prêt pour ça.
+
+351
+00:28:17,200 --> 00:28:21,600
+C'est une prise de balle audacieuse, spectaculaire.
+
+352
+00:28:22,100 --> 00:28:24,200
+- Une prise de balle ? - C'est sans danger.
+
+353
+00:28:24,200 --> 00:28:26,500
+Je te le promets. Regarde.
+
+354
+00:28:28,900 --> 00:28:31,200
+- Tire-moi dessus. - Que je te tire dessus ?
+
+355
+00:28:31,300 --> 00:28:32,500
+Vas-y, tire-moi dessus.
+
+356
+00:28:35,000 --> 00:28:37,000
+- Juste ici. - Non, je ne peux pas.
+
+357
+00:28:37,100 --> 00:28:39,600
+Non, non, pas là. Tire ici. Pas...
+
+358
+00:28:44,600 --> 00:28:46,100
+Qu'en dis-tu ?
+
+359
+00:28:46,800 --> 00:28:50,100
+C'est très fort. Dis-moi comment tu fais.
+
+360
+00:28:50,200 --> 00:28:51,400
+Non, je ne peux pas.
+
+361
+00:28:53,400 --> 00:28:56,300
+- Alors tu ne peux pas le faire. - Je ne peux pas le faire ?
+
+362
+00:28:56,400 --> 00:28:59,700
+Désolée, mais je ne peux pas élever un enfant toute seule.
+
+363
+00:28:59,800 --> 00:29:02,100
+Ne dis à personne que je te l'ai dit.
+
+364
+00:29:02,200 --> 00:29:04,500
+- D'accord. - La poudre.
+
+365
+00:29:07,100 --> 00:29:08,900
+La bourre.
+
+366
+00:29:09,800 --> 00:29:11,900
+Puis la balle.
+
+367
+00:29:12,600 --> 00:29:14,300
+La baguette.
+
+368
+00:29:19,000 --> 00:29:21,000
+Tends la main.
+
+369
+00:29:23,100 --> 00:29:27,000
+La balle n'est pas dans l'arme quand le coup est tiré.
+
+370
+00:29:27,100 --> 00:29:30,900
+Quand on le sait, c'est tout à fait évident.
+
+371
+00:29:31,900 --> 00:29:33,900
+Mais il y a quand même...
+
+372
+00:29:34,000 --> 00:29:35,400
+C'est dangereux.
+
+373
+00:29:35,500 --> 00:29:37,800
+- Des gens se font tuer comme ça. - Comment ?
+
+374
+00:29:37,900 --> 00:29:40,700
+Un petit malin peut y mettre un penny ou un bouton
+
+375
+00:29:40,700 --> 00:29:44,600
+ou que Dieu m'en préserve, Sarah, une balle.
+
+376
+00:29:44,700 --> 00:29:47,300
+Ne t'inquiète pas. Ne t'inquiète pas.
+
+377
+00:29:47,400 --> 00:29:50,600
+Je ne laisserai rien arriver.
+
+378
+00:29:50,700 --> 00:29:53,600
+Tout ira bien parce que...
+
+379
+00:29:55,000 --> 00:29:58,200
+... je t'aime énormément.
+
+380
+00:30:00,900 --> 00:30:04,200
+- Redis-le. - Je t'aime.
+
+381
+00:30:05,200 --> 00:30:07,700
+- Pas aujourd'hui. - Quoi ?
+
+382
+00:30:07,800 --> 00:30:11,000
+Certains jours, ce n'est pas vrai. Aujourd'hui, tu ne le penses pas.
+
+383
+00:30:11,000 --> 00:30:14,200
+Peut-être qu'aujourd'hui tu aimes plus la magie que moi.
+
+384
+00:30:14,300 --> 00:30:17,000
+J'aime savoir faire la différence.
+
+385
+00:30:17,000 --> 00:30:21,000
+Ça a une plus grande signification quand tu le penses vraiment.
+
+386
+00:30:23,900 --> 00:30:25,300
+Très bien.
+
+387
+00:30:44,500 --> 00:30:46,800
+Cercle de métal, mesdames et messieurs.
+
+388
+00:30:47,700 --> 00:30:50,300
+S'il y a des dames et des messieurs ici.
+
+389
+00:30:50,400 --> 00:30:52,300
+Du métal massif.
+
+390
+00:31:04,400 --> 00:31:05,500
+Qui a jeté ça ?
+
+391
+00:31:22,100 --> 00:31:23,900
+Vous êtes venus pour ça, pas vrai ?
+
+392
+00:31:27,700 --> 00:31:29,200
+Alors...
+
+393
+00:31:30,300 --> 00:31:32,200
+... qui veut se porter volontaire ?
+
+394
+00:31:32,300 --> 00:31:33,900
+- Choisissez-moi ! - Moi !
+
+395
+00:31:41,800 --> 00:31:42,900
+Moi.
+
+396
+00:31:44,600 --> 00:31:45,700
+Moi.
+
+397
+00:32:00,100 --> 00:32:02,600
+Vous avez du courage, monsieur ?
+
+398
+00:32:07,600 --> 00:32:09,400
+Oui.
+
+399
+00:32:20,200 --> 00:32:22,300
+Quel nud as-tu fait, Borden ?
+
+400
+00:32:28,500 --> 00:32:30,700
+Quel nud as-tu fait, Borden ?
+
+401
+00:32:31,900 --> 00:32:33,600
+Je ne sais pas.
+
+402
+00:32:49,200 --> 00:32:52,800
+Il cherchait une réponse, et je lui ai dit la vérité.
+
+403
+00:32:52,900 --> 00:32:56,100
+J'ai lutté avec moi-même sur les événements de ce soir-là,
+
+404
+00:32:56,100 --> 00:32:59,500
+une partie de moi jurant avoir fait un simple nud coulant,
+
+405
+00:32:59,500 --> 00:33:02,900
+et l'autre partie convaincue d'avoir fait un Langford double.
+
+406
+00:33:03,000 --> 00:33:05,000
+Je n'en serai jamais certain.
+
+407
+00:33:08,000 --> 00:33:10,200
+Comment peut-il ne pas savoir ?
+
+408
+00:33:10,300 --> 00:33:12,100
+Comment peut-il ne pas savoir ?
+
+409
+00:33:13,700 --> 00:33:16,200
+Il doit savoir ce qu'il a fait.
+
+410
+00:33:16,300 --> 00:33:17,700
+C'est forcé.
+
+411
+00:33:20,300 --> 00:33:22,900
+Sarah, ça fait très mal.
+
+412
+00:33:23,000 --> 00:33:25,600
+Je ne comprends pas comment ça peut encore saigner.
+
+413
+00:33:25,700 --> 00:33:28,100
+C'est aussi moche que le jour où c'est arrivé.
+
+414
+00:33:29,900 --> 00:33:34,100
+- Il faut faire revenir le docteur. - On ne peut pas le payer.
+
+415
+00:33:35,400 --> 00:33:37,900
+- Tu l'as réveillée. - Formidable.
+
+416
+00:33:39,100 --> 00:33:42,000
+Désolé, ça doit guérir pour que je retourne au travail.
+
+417
+00:33:42,000 --> 00:33:45,800
+Regarde les choses en face. Quels tours peux-tu faire avec cette blessure ?
+
+418
+00:33:45,900 --> 00:33:49,300
+Je peux faire des tours de cartes. Des tours avec des accessoires.
+
+419
+00:33:49,400 --> 00:33:53,800
+Je peux encore faire le tour dont je t'ai parlé.
+
+420
+00:33:53,900 --> 00:33:56,800
+Celui pour lequel ils se souviendront de moi.
+
+421
+00:33:58,400 --> 00:33:59,900
+Allez.
+
+422
+00:34:25,500 --> 00:34:28,700
+Je n'aurais jamais pensé trouver une réponse au fond d'un verre.
+
+423
+00:34:28,800 --> 00:34:30,400
+Ça ne vous a pas empêché de chercher.
+
+424
+00:34:35,600 --> 00:34:38,500
+J'ai entendu parler d'un contrat. Un beau petit théâtre.
+
+425
+00:34:38,500 --> 00:34:41,300
+- Un jeune magicien prometteur. - Qui ?
+
+426
+00:34:41,400 --> 00:34:44,200
+- Vous. - Moi ? Un contrat ? Pourquoi ?
+
+427
+00:34:44,200 --> 00:34:46,300
+Je veux continuer à travailler.
+
+428
+00:34:46,400 --> 00:34:49,700
+Qui va engager l'ingénieur qui a tué Julia McCullough
+
+429
+00:34:49,800 --> 00:34:52,500
+devant la salle comble de l'Orpheum ?
+
+430
+00:34:52,600 --> 00:34:54,800
+Quelqu'un qui sait que ce n'était pas votre faute.
+
+431
+00:34:54,900 --> 00:34:58,400
+Quelqu'un qui connaît Borden et son sac de nuds compliqués.
+
+432
+00:34:58,400 --> 00:35:02,000
+J'ai appris qu'il avait manqué de rattraper une balle.
+
+433
+00:35:02,000 --> 00:35:04,800
+C'est un tour dangereux.
+
+434
+00:35:10,000 --> 00:35:12,000
+Il faudra couvrir les fenêtres,
+
+435
+00:35:12,100 --> 00:35:16,700
+pour les spectateurs les plus curieux, mais ça ira.
+
+436
+00:35:17,600 --> 00:35:21,200
+- Il nous faut une assistante. - J'ai pris des dispositions.
+
+437
+00:35:22,200 --> 00:35:25,700
+- Vous avez décidé d'un nom ? - Oui, c'est fait.
+
+438
+00:35:26,600 --> 00:35:28,400
+Le Grand Danton.
+
+439
+00:35:28,500 --> 00:35:31,000
+C'est un peu vieux jeu, n'est-ce pas ?
+
+440
+00:35:32,500 --> 00:35:34,700
+Non, c'est sophistiqué.
+
+441
+00:35:34,800 --> 00:35:37,500
+Impossible de terminer avec la cage. Tout le monde a vu ce tour.
+
+442
+00:35:37,600 --> 00:35:40,000
+- Pas celui-là. - Je ne veux pas tuer de colombes.
+
+443
+00:35:40,000 --> 00:35:41,900
+Alors ne montez pas sur scène.
+
+444
+00:35:42,000 --> 00:35:43,700
+Vous êtes magicien, pas mage.
+
+445
+00:35:43,700 --> 00:35:47,600
+Il faut vous salir les mains pour réaliser l'impossible.
+
+446
+00:35:49,100 --> 00:35:51,400
+Par ici, Mlle Wenscombe.
+
+447
+00:35:51,500 --> 00:35:56,000
+Inutile de voir M. Angier si vous ne convenez pas. À droite.
+
+448
+00:35:59,200 --> 00:36:01,200
+- Qu'est-ce que ça a de si dur ? - Rien.
+
+449
+00:36:01,300 --> 00:36:03,800
+Vous allez... là-bas.
+
+450
+00:36:09,600 --> 00:36:12,500
+- Et ça la dissimulera ? - Oh, bien sûr.
+
+451
+00:36:13,200 --> 00:36:14,800
+- Serrez là. - D'accord.
+
+452
+00:36:17,900 --> 00:36:18,900
+Ça s'attache ici ?
+
+453
+00:36:19,000 --> 00:36:20,500
+Ça s'attache derrière.
+
+454
+00:36:26,600 --> 00:36:28,800
+Respirez le moins possible.
+
+455
+00:36:35,300 --> 00:36:37,900
+Là, vous voyez ?
+
+456
+00:36:38,000 --> 00:36:39,400
+- C'est ça. - D'accord.
+
+457
+00:36:42,800 --> 00:36:44,600
+Elle n'a pas d'expérience,
+
+458
+00:36:44,700 --> 00:36:46,700
+mais elle sait se mettre en valeur.
+
+459
+00:36:46,800 --> 00:36:50,500
+Une jolie assistante est le meilleur moyen de détourner l'attention.
+
+460
+00:36:51,500 --> 00:36:54,800
+Merci. Mesdames et messieurs, pour mon tour final,
+
+461
+00:36:54,900 --> 00:36:57,700
+je demanderai l'assistance de deux volontaires.
+
+462
+00:36:57,800 --> 00:37:00,000
+M. Merrit, auriez-vous l'obligeance ?
+
+463
+00:37:05,300 --> 00:37:07,000
+- Dessous ? - Dessous, oui.
+
+464
+00:37:08,600 --> 00:37:09,800
+Autour de la patte.
+
+465
+00:37:09,900 --> 00:37:11,300
+- Attention. - Il va bien.
+
+466
+00:37:32,200 --> 00:37:35,000
+Votre volontaire met une main ici.
+
+467
+00:37:35,100 --> 00:37:36,400
+Et l'autre là.
+
+468
+00:37:36,400 --> 00:37:40,100
+Veuillez placer les mains de part et d'autre de la cage.
+
+469
+00:37:40,100 --> 00:37:41,300
+Merci, Olivia.
+
+470
+00:37:41,400 --> 00:37:45,200
+Ne faites pas de mal à cet animal, M. Angier.
+
+471
+00:37:45,300 --> 00:37:47,600
+- Bien sûr que non. - Prêt ? D'accord.
+
+472
+00:37:48,400 --> 00:37:51,200
+- Un... - Deux...
+
+473
+00:37:52,000 --> 00:37:53,200
+Trois.
+
+474
+00:37:57,200 --> 00:37:59,000
+C'est merveilleux, Cutter.
+
+475
+00:38:00,000 --> 00:38:01,200
+Très joli.
+
+476
+00:38:01,300 --> 00:38:03,100
+Et le meilleur, c'est...
+
+477
+00:38:08,500 --> 00:38:10,900
+Vous avez dit que je devrais me salir les mains.
+
+478
+00:38:11,000 --> 00:38:12,900
+Un jour, peut-être.
+
+479
+00:38:12,900 --> 00:38:14,500
+Je devais savoir si vous le pouviez.
+
+480
+00:38:14,600 --> 00:38:16,500
+Très réussi. Très réussi, certes.
+
+481
+00:38:16,600 --> 00:38:20,200
+Je n'ai pas eu l'occasion de vous complimenter pour votre beau théâtre.
+
+482
+00:38:20,300 --> 00:38:22,700
+Il sera beaucoup plus beau quand il sera plein.
+
+483
+00:38:22,700 --> 00:38:23,700
+Pas d'inquiétude.
+
+484
+00:38:23,800 --> 00:38:26,000
+Vous dites tous ça. Je ne m'inquiète pas.
+
+485
+00:38:26,100 --> 00:38:29,000
+Si vos tours ne les font pas venir, quelqu'un d'autre le fera.
+
+486
+00:38:29,000 --> 00:38:33,100
+Quelqu'un prêt à faire une prise de balle ou une évasion sous l'eau.
+
+487
+00:38:33,200 --> 00:38:34,800
+Du sensationnalisme, M. Merrit.
+
+488
+00:38:34,900 --> 00:38:38,500
+Les gens espèrent un accident, et ça finit par arriver.
+
+489
+00:38:38,600 --> 00:38:41,400
+Ce n'est pas bon pour les affaires.
+
+490
+00:38:42,100 --> 00:38:43,500
+Vous avez une semaine, John.
+
+491
+00:38:43,600 --> 00:38:46,000
+Merci, M. Merrit.
+
+492
+00:38:48,100 --> 00:38:52,700
+LE GRAND DANTON
+
+493
+00:38:55,000 --> 00:38:56,700
+Merci.
+
+494
+00:38:59,200 --> 00:39:01,700
+Monsieur, au troisième rang.
+
+495
+00:39:01,800 --> 00:39:04,500
+Veuillez vous lever et nous montrer votre mouchoir.
+
+496
+00:39:07,200 --> 00:39:08,300
+Ce n'est pas le mien.
+
+497
+00:39:08,400 --> 00:39:11,800
+Veuillez le rendre à la dame dans l'allée au deuxième rang.
+
+498
+00:39:11,900 --> 00:39:14,200
+Je pense qu'elle a le vôtre.
+
+499
+00:39:20,600 --> 00:39:25,200
+Pardon. désolée. Je fais des erreurs. J'ai tellement le trac.
+
+500
+00:39:25,300 --> 00:39:27,600
+Le public n'est pas très enthousiaste.
+
+501
+00:39:27,600 --> 00:39:29,900
+Ils ont vu beaucoup de tours,
+
+502
+00:39:29,900 --> 00:39:32,400
+mais pas le suivant.
+
+503
+00:39:41,500 --> 00:39:43,200
+Le tissu par-dessus.
+
+504
+00:39:43,300 --> 00:39:45,100
+Croisons les doigts.
+
+505
+00:39:45,100 --> 00:39:47,400
+Je garde le champagne au frais.
+
+506
+00:40:02,000 --> 00:40:05,000
+- Vous avez déjà vu celui-là ? - On les a tous déjà vus.
+
+507
+00:40:05,100 --> 00:40:07,400
+Alors je vais le rendre un peu plus difficile.
+
+508
+00:40:07,500 --> 00:40:10,400
+Deux volontaires, s'il vous plaît. Une dame et un monsieur.
+
+509
+00:40:10,500 --> 00:40:12,500
+Pour tenir cette cage avec moi.
+
+510
+00:40:13,600 --> 00:40:15,700
+Je vais exécuter cet exploit d'une façon
+
+511
+00:40:15,800 --> 00:40:20,400
+que vous n'avez jamais vue, ni vous ni personne au monde.
+
+512
+00:40:22,800 --> 00:40:25,400
+Madame, mettez une main au dos de la cage,
+
+513
+00:40:25,500 --> 00:40:27,000
+une main devant.
+
+514
+00:40:27,100 --> 00:40:29,500
+Monsieur, une main sous le fond de la cage
+
+515
+00:40:29,600 --> 00:40:31,100
+une main sur le dessus.
+
+516
+00:40:44,600 --> 00:40:47,500
+- J'aurais dû le repérer. - Vous aviez beaucoup à faire.
+
+517
+00:40:47,500 --> 00:40:49,700
+- On ne pourra plus le refaire. - Non.
+
+518
+00:40:49,800 --> 00:40:52,200
+- Quel sera le clou du spectacle ? - Spectacle ?
+
+519
+00:40:52,300 --> 00:40:55,400
+- Vous n'avez plus de spectacle. - On a un contrat d'une semaine.
+
+520
+00:40:55,500 --> 00:40:56,500
+Pour faire de la magie,
+
+521
+00:40:56,600 --> 00:40:59,100
+pas tuer des oiseaux et casser les doigts des clientes.
+
+522
+00:40:59,200 --> 00:41:01,900
+Dégagez-moi tout ça, je brûlerai ce que je vois demain.
+
+523
+00:41:01,900 --> 00:41:04,400
+- M. Merrit... - C'est décidé, John.
+
+524
+00:41:04,400 --> 00:41:07,200
+J'ai engagé un comique. Et vous savez que je les déteste.
+
+525
+00:41:09,600 --> 00:41:11,900
+Il y a des tas de bons théâtres.
+
+526
+00:41:12,000 --> 00:41:16,000
+Si on trouve un nouveau tour et on change le nom du numéro...
+
+527
+00:41:16,100 --> 00:41:18,100
+Je ne changerai pas de nom.
+
+528
+00:41:19,900 --> 00:41:25,000
+D'accord, alors le nouveau tour devra être irrésistible.
+
+529
+00:41:25,100 --> 00:41:27,200
+J'ai une ou deux méthodes à essayer.
+
+530
+00:41:27,200 --> 00:41:30,400
+Et il faut une nouvelle idée pour la présentation.
+
+531
+00:41:30,500 --> 00:41:32,400
+Et si vous êtes à court d'idées,
+
+532
+00:41:32,400 --> 00:41:35,600
+il y a une exposition technique à l'Albert Hall, cette semaine.
+
+533
+00:41:35,700 --> 00:41:38,400
+Des ingénieurs, des scientifiques, vous savez ?
+
+534
+00:41:38,500 --> 00:41:41,800
+Ce genre de choses capture l'imagination du public.
+
+535
+00:41:58,800 --> 00:42:02,200
+Je peux me joindre à vous ? Tesla m'envoie ici à chaque tempête.
+
+536
+00:42:02,300 --> 00:42:05,500
+Excellente excuse pour prendre un verre avec le Grand Danton.
+
+537
+00:42:06,500 --> 00:42:08,300
+Deux.
+
+538
+00:42:09,000 --> 00:42:11,600
+Magnifique, pas vrai ? Mais New York me manque.
+
+539
+00:42:11,700 --> 00:42:14,100
+- Que faites-vous ici ? - Les éclairs sont ici.
+
+540
+00:42:14,200 --> 00:42:15,800
+Mais pas grand-chose d'autre.
+
+541
+00:42:15,900 --> 00:42:17,400
+Notre travail est secret.
+
+542
+00:42:18,000 --> 00:42:19,900
+C'est un code ?
+
+543
+00:42:22,100 --> 00:42:25,200
+Une transposition tournante qui change chaque jour du journal.
+
+544
+00:42:25,300 --> 00:42:29,200
+Simple, mais ça prend du temps, même avec le mot-clé de cinq lettres.
+
+545
+00:42:29,300 --> 00:42:31,000
+Lequel ?
+
+546
+00:42:31,100 --> 00:42:33,100
+Les magiciens ne dévoilent pas leurs secrets.
+
+547
+00:42:33,200 --> 00:42:36,900
+Même ceux de celui à qui cet agenda a été volé ?
+
+548
+00:42:37,400 --> 00:42:39,100
+Je l'ai peut-être acheté.
+
+549
+00:42:39,200 --> 00:42:41,900
+Et vous espérez y trouver un grand secret ?
+
+550
+00:42:42,000 --> 00:42:44,300
+Je l'ai déjà trouvé.
+
+551
+00:42:44,400 --> 00:42:45,800
+C'est la raison de ma venue.
+
+552
+00:42:51,900 --> 00:42:54,900
+Tesla a fabriqué une machine pour un autre magicien.
+
+553
+00:42:55,000 --> 00:42:58,500
+- Pourquoi voulez-vous la même ? - Rivalité professionnelle.
+
+554
+00:42:58,600 --> 00:43:02,200
+M. Tesla construit des machines peu communes pour des gens peu communs.
+
+555
+00:43:03,700 --> 00:43:05,000
+Mais il n'en parle jamais.
+
+556
+00:43:05,100 --> 00:43:08,200
+Je comprends sa discrétion, et je ne demande que cette machine.
+
+557
+00:43:11,500 --> 00:43:13,200
+Finissez votre verre.
+
+558
+00:43:14,100 --> 00:43:15,700
+Je veux vous montrer quelque chose.
+
+559
+00:43:15,800 --> 00:43:19,200
+Je pense que vous apprécierez notre travail.
+
+560
+00:43:19,200 --> 00:43:22,700
+- Je croyais que c'était un secret. - Vous êtes magicien.
+
+561
+00:43:22,800 --> 00:43:24,500
+Qui va vous croire ?
+
+562
+00:43:25,700 --> 00:43:27,900
+Ce n'est plus très loin.
+
+563
+00:43:27,900 --> 00:43:30,400
+Notre matériel demande beaucoup de courant.
+
+564
+00:43:30,500 --> 00:43:32,100
+Tesla a électrifié toute la ville
+
+565
+00:43:32,200 --> 00:43:34,400
+en échange des générateurs quand on en a besoin.
+
+566
+00:43:36,600 --> 00:43:39,800
+On fait nos tests quand les habitants dorment.
+
+567
+00:43:39,800 --> 00:43:42,500
+M. Tesla ne veut effrayer personne.
+
+568
+00:44:00,300 --> 00:44:02,400
+Où sont les fils ?
+
+569
+00:44:03,700 --> 00:44:05,700
+Exactement.
+
+570
+00:44:14,200 --> 00:44:16,900
+Où est le générateur ?
+
+571
+00:44:17,000 --> 00:44:18,400
+Vous l'avez vu il y a 8 jours.
+
+572
+00:44:18,500 --> 00:44:21,600
+- Ce doit être à 15 km. - 24 km exactement.
+
+573
+00:44:21,700 --> 00:44:24,500
+Et je dois tous les vérifier avant d'aller au lit.
+
+574
+00:44:25,800 --> 00:44:28,500
+Vous aurez des nouvelles dans quelques jours, M. Angier.
+
+575
+00:44:28,600 --> 00:44:32,000
+La magie. La vraie magie.
+
+576
+00:44:32,800 --> 00:44:34,900
+En exclusivité au Royal Albert Hall de Londres,
+
+577
+00:44:36,900 --> 00:44:39,200
+un des miracles de notre époque.
+
+578
+00:44:39,300 --> 00:44:43,900
+Une merveille technologique. Vous n'avez jamais vu ça de votre vie.
+
+579
+00:44:44,000 --> 00:44:46,700
+Vous n'en croirez pas vos yeux.
+
+580
+00:44:46,800 --> 00:44:49,600
+Le miracle de Nikola Tesla, mesdames et messieurs.
+
+581
+00:44:49,700 --> 00:44:52,200
+Une énergie gratuite. Vous voulez connaître l'avenir ?
+
+582
+00:44:52,300 --> 00:44:54,800
+Cet orateur va changer le monde.
+
+583
+00:44:54,800 --> 00:44:58,600
+Mesdames, messieurs, venez seul, venez nombreux.
+
+584
+00:44:58,700 --> 00:44:59,900
+LES MERVEILLES DU COURANT ALTERNATIF
+
+585
+00:45:14,900 --> 00:45:16,200
+Mesdames et messieurs !
+
+586
+00:45:18,200 --> 00:45:20,100
+Des objections ont été soulevées...
+
+587
+00:45:20,200 --> 00:45:23,600
+À juste titre. Ça vous semble sans danger ?
+
+588
+00:45:23,700 --> 00:45:26,200
+C'est la campagne de diffamation de Thomas Edison
+
+589
+00:45:26,300 --> 00:45:31,200
+contre la supériorité du courant alternatif de M. Tesla.
+
+590
+00:45:32,100 --> 00:45:34,700
+On demande à M. Tesla de revoir son invention.
+
+591
+00:45:34,800 --> 00:45:36,900
+Hors de question !
+
+592
+00:45:37,000 --> 00:45:41,900
+On m'a dit qu'il refuse de paraître sous de telles restrictions.
+
+593
+00:45:43,600 --> 00:45:45,300
+Ça va exploser.
+
+594
+00:45:46,700 --> 00:45:49,100
+Mesdames et messieurs, je vous en prie.
+
+595
+00:46:31,200 --> 00:46:33,600
+Bonjour, Jess.
+
+596
+00:46:36,100 --> 00:46:38,700
+Tu as passé une bonne journée avec maman ?
+
+597
+00:46:40,800 --> 00:46:42,000
+Sarah.
+
+598
+00:46:42,900 --> 00:46:45,900
+- Je t'aime. - Tu vois, aujourd'hui c'est vrai.
+
+599
+00:46:45,900 --> 00:46:48,500
+- Oui. - Bonjour.
+
+600
+00:46:50,400 --> 00:46:52,700
+J'ai vu le bonheur.
+
+601
+00:46:52,800 --> 00:46:55,400
+Le bonheur que j'aurais dû avoir.
+
+602
+00:46:56,100 --> 00:46:57,600
+Mais je me trompais.
+
+603
+00:46:57,600 --> 00:47:02,000
+Son carnet révèle qu'il n'a pas eu la vie que j'enviais.
+
+604
+00:47:02,300 --> 00:47:05,000
+Une vie de famille qu'il désirait un instant,
+
+605
+00:47:05,000 --> 00:47:08,600
+et rejetait le suivant, exigeant la liberté.
+
+606
+00:47:09,400 --> 00:47:12,400
+Son esprit... son esprit est partagé.
+
+607
+00:47:12,500 --> 00:47:13,900
+Son âme est agitée.
+
+608
+00:47:14,000 --> 00:47:16,100
+Sa femme et sa fille tourmentées
+
+609
+00:47:16,200 --> 00:47:20,100
+par sa nature inconstante et contradictoire.
+
+610
+00:47:24,300 --> 00:47:26,800
+Alors, comment tu penses que tu vas l'appeler ?
+
+611
+00:47:26,900 --> 00:47:28,300
+Je ne sais pas.
+
+612
+00:47:28,400 --> 00:47:30,700
+Tout le monde a un nom, alors quel est le sien ?
+
+613
+00:47:31,600 --> 00:47:33,400
+Peut-être Sarah.
+
+614
+00:47:35,700 --> 00:47:38,100
+C'est un nom ravissant. Ravissant.
+
+615
+00:47:38,200 --> 00:47:41,400
+Pense à ce que tu veux faire pour le reste de la journée.
+
+616
+00:47:41,500 --> 00:47:43,400
+Très bien, vas-y, parle-lui.
+
+617
+00:47:45,800 --> 00:47:47,700
+Ils l'emmènent ?
+
+618
+00:47:50,100 --> 00:47:52,000
+À l'hospice ?
+
+619
+00:47:54,900 --> 00:47:56,400
+Continue de lui parler.
+
+620
+00:47:59,100 --> 00:48:01,500
+Dis à Owens que j'ai changé d'avis. Prends ça.
+
+621
+00:48:01,600 --> 00:48:03,400
+Allez, prends-le.
+
+622
+00:48:06,900 --> 00:48:09,100
+Ça vaut mieux comme ça.
+
+623
+00:48:13,900 --> 00:48:15,700
+Voyons voir.
+
+624
+00:48:16,600 --> 00:48:19,200
+Je vais connaître tous les secrets du Professeur.
+
+625
+00:48:19,200 --> 00:48:22,700
+Seulement si je vous apprends à lire.
+
+626
+00:48:22,700 --> 00:48:25,100
+C'est rien que des tours stupides.
+
+627
+00:48:25,200 --> 00:48:27,800
+Ils ne vous ont pas aidé à sortir d'ici, en tout cas.
+
+628
+00:48:28,500 --> 00:48:31,800
+Vous ne savez pas ouvrir les vrais cadenas, Professeur ?
+
+629
+00:48:33,200 --> 00:48:35,800
+Peut-être que j'attends le bon moment.
+
+630
+00:48:35,900 --> 00:48:38,400
+Peut-être qu'un jour...
+
+631
+00:48:38,500 --> 00:48:41,100
+... j'ouvrirai la main, j'attirerai votre attention,
+
+632
+00:48:41,200 --> 00:48:44,100
+je demanderai: "Vous regardez attentivement ?"
+
+633
+00:48:44,100 --> 00:48:46,200
+Je ferai un tour de magie ou deux.
+
+634
+00:48:48,900 --> 00:48:50,700
+Et je disparaîtrai.
+
+635
+00:48:54,300 --> 00:48:57,400
+Comment êtes-vous devenu aussi célèbre ?
+
+636
+00:48:58,300 --> 00:49:00,000
+La magie.
+
+637
+00:49:03,800 --> 00:49:05,300
+Borden, revenez ici !
+
+638
+00:49:05,400 --> 00:49:07,000
+Merci.
+
+639
+00:49:07,000 --> 00:49:09,000
+La ferme !
+
+640
+00:49:12,300 --> 00:49:14,500
+Où est cette fichue clé ? !
+
+641
+00:49:21,000 --> 00:49:23,500
+Le 8 février 1899.
+
+642
+00:49:23,600 --> 00:49:25,700
+J'ai enfin fait une percée.
+
+643
+00:49:26,300 --> 00:49:28,600
+Tesla a accepté de me voir.
+
+644
+00:49:36,200 --> 00:49:37,400
+C'est sans danger.
+
+645
+00:49:58,900 --> 00:50:02,700
+Alors voilà le Grand Danton.
+
+646
+00:50:02,800 --> 00:50:07,400
+M. Alley m'a parlé de votre numéro à maintes reprises.
+
+647
+00:50:09,200 --> 00:50:10,800
+Tendez l'autre main.
+
+648
+00:50:19,400 --> 00:50:23,200
+- Qu'est-ce qui conduit l'électricité ? - Nos corps, M. Angier.
+
+649
+00:50:23,200 --> 00:50:27,400
+Ils sont tout à fait capables de conduire et de produire de l'énergie.
+
+650
+00:50:29,000 --> 00:50:31,000
+Avez-vous déjeuné, M. Angier ?
+
+651
+00:50:34,000 --> 00:50:36,100
+J'ai besoin d'une chose impossible.
+
+652
+00:50:37,900 --> 00:50:42,700
+La phrase "L'homme veut saisir ce qui est hors de portée" vous est familière ?
+
+653
+00:50:42,700 --> 00:50:44,400
+C'est un mensonge.
+
+654
+00:50:44,500 --> 00:50:47,300
+La portée de l'homme dépasse son audace.
+
+655
+00:50:47,700 --> 00:50:50,600
+La société ne tolère qu'un changement à la fois.
+
+656
+00:50:52,100 --> 00:50:55,400
+La première fois que j'ai essayé de changer le monde,
+
+657
+00:50:55,500 --> 00:50:57,100
+on m'a acclamé comme visionnaire.
+
+658
+00:50:57,700 --> 00:50:59,800
+La deuxième fois,
+
+659
+00:50:59,900 --> 00:51:02,900
+on m'a poliment demandé de me retirer.
+
+660
+00:51:04,100 --> 00:51:06,600
+Alors me voilà, profitant de ma retraite.
+
+661
+00:51:07,600 --> 00:51:11,500
+Rien n'est impossible, M. Angier. Ce que vous demandez est coûteux.
+
+662
+00:51:11,600 --> 00:51:13,800
+Si je vous construisais cette machine,
+
+663
+00:51:13,900 --> 00:51:16,900
+vous la présenteriez uniquement comme une illusion ?
+
+664
+00:51:17,000 --> 00:51:20,300
+Si les gens croyaient ce que je fais sur scène,
+
+665
+00:51:20,400 --> 00:51:22,900
+ils n'applaudiraient pas, ils hurleraient.
+
+666
+00:51:22,900 --> 00:51:27,300
+- Pensez à la femme qu'on scie en deux. - Vous avez considéré le coût ?
+
+667
+00:51:27,300 --> 00:51:29,300
+Le prix n'est pas un problème.
+
+668
+00:51:29,800 --> 00:51:33,300
+Peut-être, mais avez-vous considéré le coût ?
+
+669
+00:51:34,400 --> 00:51:35,600
+Je ne vous suis pas.
+
+670
+00:51:36,700 --> 00:51:38,500
+Rentrez chez vous, oubliez tout ça.
+
+671
+00:51:38,600 --> 00:51:40,800
+Je sais reconnaître une obsession.
+
+672
+00:51:40,900 --> 00:51:42,900
+Il n'en sortira rien de bon.
+
+673
+00:51:43,000 --> 00:51:44,900
+Vos obsessions n'ont rien eu de bon ?
+
+674
+00:51:45,500 --> 00:51:48,200
+Au début, mais je les ai suivies trop longtemps.
+
+675
+00:51:48,300 --> 00:51:50,200
+Je suis leur esclave.
+
+676
+00:51:50,300 --> 00:51:53,400
+Et un jour, elles choisiront de me détruire.
+
+677
+00:51:55,400 --> 00:51:59,600
+Dans ce cas, vous savez que je ne changerai pas d'avis.
+
+678
+00:52:00,600 --> 00:52:02,300
+Eh bien, soit.
+
+679
+00:52:03,100 --> 00:52:04,400
+Vous la fabriquerez ?
+
+680
+00:52:05,400 --> 00:52:08,900
+J'ai déjà commencé, M. Angier.
+
+681
+00:52:09,000 --> 00:52:13,000
+J'espère que vous appréciez l'air de la montagne. Ça prendra du temps.
+
+682
+00:52:16,200 --> 00:52:18,200
+LE PROFESSEUR QUI A DÉFIÉ LA MORT
+
+683
+00:52:18,300 --> 00:52:19,400
+L'HOMME TRANSPORTÉ
+
+684
+00:52:37,700 --> 00:52:39,600
+Je te croyais partie.
+
+685
+00:52:40,800 --> 00:52:43,200
+Je n'ai nulle part où aller.
+
+686
+00:52:45,500 --> 00:52:47,100
+Tu dors ici ?
+
+687
+00:52:47,200 --> 00:52:51,600
+Cutter a accepté jusqu'au prochain contrat. Qu'est-ce que tu fais ?
+
+688
+00:52:52,800 --> 00:52:54,200
+De la recherche.
+
+689
+00:52:54,300 --> 00:52:55,700
+Le travail du magicien
+
+690
+00:52:55,800 --> 00:52:58,700
+est aussi de surveiller les rivaux, de voir leurs tours...
+
+691
+00:52:58,700 --> 00:53:01,600
+Tu vas faire quelque chose à cet homme, n'est-ce pas ?
+
+692
+00:53:01,700 --> 00:53:03,600
+Cutter espérait que tu laisserais tomber.
+
+693
+00:53:03,600 --> 00:53:06,500
+Si Borden pense que vous êtes quittes...
+
+694
+00:53:06,600 --> 00:53:08,400
+Quittes ?
+
+695
+00:53:08,500 --> 00:53:11,100
+Ma femme contre deux de ses doigts ?
+
+696
+00:53:11,200 --> 00:53:14,200
+Il a une famille maintenant, et il se produit à nouveau.
+
+697
+00:53:14,300 --> 00:53:17,100
+Borden vit sa vie comme il le voulait,
+
+698
+00:53:17,200 --> 00:53:19,900
+comme si de rien n'était, et regarde-moi.
+
+699
+00:53:20,000 --> 00:53:22,400
+Je suis seul et aucun théâtre ne veut de moi.
+
+700
+00:53:22,500 --> 00:53:24,100
+De nous.
+
+701
+00:53:24,200 --> 00:53:26,600
+Il va te falloir un meilleur déguisement.
+
+702
+00:53:44,100 --> 00:53:46,200
+J'ai besoin d'un volontaire.
+
+703
+00:53:46,500 --> 00:53:47,800
+Que s'est-il passé ?
+
+704
+00:53:48,800 --> 00:53:50,600
+Tu l'as blessé ?
+
+705
+00:53:52,600 --> 00:53:53,900
+Que s'est-il passé, Robert ?
+
+706
+00:53:56,300 --> 00:54:00,200
+Vous, monsieur. Rien qu'une balle de caoutchouc ?
+
+707
+00:54:00,300 --> 00:54:01,400
+Merci.
+
+708
+00:54:01,500 --> 00:54:04,100
+Rien qu'une balle de caoutchouc ? Eh bien, non.
+
+709
+00:54:04,100 --> 00:54:07,300
+Ce n'est pas une balle de caoutchouc normale.
+
+710
+00:54:07,400 --> 00:54:08,600
+C'est de la magie.
+
+711
+00:54:09,300 --> 00:54:11,400
+Il avait un nouveau tour.
+
+712
+00:54:25,400 --> 00:54:27,000
+C'était bien ?
+
+713
+00:54:31,400 --> 00:54:34,100
+C'était le meilleur tour de magie que j'aie jamais vu.
+
+714
+00:54:39,700 --> 00:54:41,300
+Ils ont applaudi ?
+
+715
+00:54:41,400 --> 00:54:45,300
+C'était trop parfait, trop simple. Le public n'a guère eu le temps de voir.
+
+716
+00:54:45,400 --> 00:54:48,200
+- C'est un magicien horrible. - Non, merveilleux.
+
+717
+00:54:48,300 --> 00:54:51,500
+Mais un présentateur horrible. Il ne met pas ses tours en valeur.
+
+718
+00:54:51,500 --> 00:54:53,600
+Comment fait-il ? Il a une doublure.
+
+719
+00:54:53,700 --> 00:54:56,400
+Non, c'est trop simple. C'est une illusion complexe.
+
+720
+00:54:56,500 --> 00:54:58,900
+Vous dites ça car vous ignorez la méthode utilisée.
+
+721
+00:54:59,000 --> 00:55:01,400
+C'est une doublure qui sort. C'est le seul moyen.
+
+722
+00:55:01,400 --> 00:55:05,300
+Je l'ai vu le faire trois fois. C'est le même homme au prestige.
+
+723
+00:55:05,400 --> 00:55:08,900
+- Non, pas du tout. - Le même homme sort de l'armoire.
+
+724
+00:55:09,000 --> 00:55:11,300
+C'est le même homme.
+
+725
+00:55:11,300 --> 00:55:14,000
+Il a des gants rembourrés pour cacher ses doigts mutilés,
+
+726
+00:55:14,100 --> 00:55:16,700
+mais en regardant bien, ça se voit.
+
+727
+00:55:18,400 --> 00:55:21,300
+Il ne sait pas le vendre au public, mais moi, si.
+
+728
+00:55:21,400 --> 00:55:23,800
+On pourrait l'utiliser pour le clou du spectacle.
+
+729
+00:55:23,900 --> 00:55:26,300
+Oui.
+
+730
+00:55:26,300 --> 00:55:29,500
+Cet homme m'a volé ma vie. Je vais voler son tour.
+
+731
+00:55:29,600 --> 00:55:31,800
+Il faut trouver quelqu'un qui vous ressemble.
+
+732
+00:55:31,800 --> 00:55:35,400
+- Il n'utilise pas de doublure. - J'ignore comment Borden s'y prend.
+
+733
+00:55:35,400 --> 00:55:39,900
+Soit vous attendez qu'il se retire et vous achetez le secret,
+
+734
+00:55:40,000 --> 00:55:41,800
+soit vous écoutez ma méthode.
+
+735
+00:55:41,900 --> 00:55:44,400
+Et la seule façon que je connaisse,
+
+736
+00:55:44,500 --> 00:55:47,900
+c'est de vous trouver un sacré bon sosie.
+
+737
+00:55:47,900 --> 00:55:49,300
+Très bien.
+
+738
+00:55:50,800 --> 00:55:53,300
+Regardez-moi bien. Essayons me trouver.
+
+739
+00:55:55,500 --> 00:55:57,100
+Regarde, regarde.
+
+740
+00:56:01,600 --> 00:56:03,100
+Qu'est-ce que c'est ?
+
+741
+00:56:06,500 --> 00:56:08,800
+- C'est pour toi. - C'est quoi ?
+
+742
+00:56:09,400 --> 00:56:11,200
+Viens.
+
+743
+00:56:16,200 --> 00:56:20,200
+- Je t'ai demandé la semaine dernière. - J'étais de mauvaise humeur.
+
+744
+00:56:20,300 --> 00:56:21,600
+Mais jamais tu ne...
+
+745
+00:56:21,700 --> 00:56:25,700
+Sarah, je vais devoir changer d'avis, n'est-ce pas ?
+
+746
+00:56:25,800 --> 00:56:30,500
+Le numéro marche. On sera bientôt dans un grand théâtre, ça ira.
+
+747
+00:56:33,100 --> 00:56:36,900
+J'ai du mal à le croire. Merci. Merci. C'est magnifique.
+
+748
+00:56:43,500 --> 00:56:46,600
+- Gerry ? - Chérie, regarde-toi.
+
+749
+00:56:46,700 --> 00:56:49,600
+M. Cutter, M. Angier, j'aimerais vous présenter Gerald Root.
+
+750
+00:56:54,700 --> 00:56:58,700
+C'est un plaisir de rencontrer des gentlemen.
+
+751
+00:56:58,700 --> 00:57:02,500
+Vous voulez entendre une petite blague ? Approchez.
+
+752
+00:57:05,500 --> 00:57:07,900
+Oui. Vous riez, maintenant ?
+
+753
+00:57:12,000 --> 00:57:13,700
+Faut que j'aille pisser.
+
+754
+00:57:15,000 --> 00:57:18,200
+- Il a perdu l'esprit. - Oui, c'est un acteur sans travail.
+
+755
+00:57:18,300 --> 00:57:20,200
+Il est parfait. Il faudra le transformer.
+
+756
+00:57:20,200 --> 00:57:23,200
+Mais quand j'en aurai fini avec lui, il passera pour votre frère.
+
+757
+00:57:23,300 --> 00:57:25,900
+Je ne veux pas de ça, je veux qu'il passe pour moi.
+
+758
+00:57:25,900 --> 00:57:27,600
+Donnez-moi un mois.
+
+759
+00:57:34,400 --> 00:57:37,000
+Alors tu ouvres la porte...
+
+760
+00:57:37,100 --> 00:57:38,600
+... et...
+
+761
+00:57:46,000 --> 00:57:47,700
+Viens.
+
+762
+00:57:51,500 --> 00:57:55,100
+- Tu n'en aurais pas un plus mou ? - Ce n'est pas pour dormir.
+
+763
+00:57:55,800 --> 00:57:57,900
+Donc, si tu descends par là...
+
+764
+00:58:00,500 --> 00:58:03,000
+-... Root monte par là-bas ? - Oui.
+
+765
+00:58:03,700 --> 00:58:05,800
+Ça va être incroyable.
+
+766
+00:58:06,200 --> 00:58:09,200
+Il le faut. Borden reçoit beaucoup de publicité.
+
+767
+00:58:12,100 --> 00:58:14,500
+C'était bondé, aujourd'hui.
+
+768
+00:58:16,100 --> 00:58:17,800
+Tu es allé revoir son spectacle.
+
+769
+00:58:17,900 --> 00:58:20,400
+Prêt à vous rencontrer vous-même, M. Angier ?
+
+770
+00:58:28,700 --> 00:58:31,100
+Il me suffira d'être soûl,
+
+771
+00:58:31,200 --> 00:58:33,500
+et personne ne verra la différence.
+
+772
+00:58:33,600 --> 00:58:35,600
+Ayez un peu confiance, monsieur.
+
+773
+00:58:35,700 --> 00:58:39,600
+Vous ferez-nous la faveur d'une représentation, M. Root ?
+
+774
+00:59:01,300 --> 00:59:04,500
+Vous boiriez aussi, si vous connaissiez le monde comme moi.
+
+775
+00:59:08,300 --> 00:59:09,900
+Vous vous croyez unique ?
+
+776
+00:59:10,000 --> 00:59:12,700
+J'ai été César, j'ai joué Faust.
+
+777
+00:59:12,800 --> 00:59:15,900
+Ce n'est pas si difficile de jouer le Grand Danton.
+
+778
+00:59:16,000 --> 00:59:19,100
+Vous pouvez redevenir vous-même, Root, ça suffit.
+
+779
+00:59:19,200 --> 00:59:21,400
+Je préfère être lui, pour l'instant.
+
+780
+00:59:21,500 --> 00:59:24,300
+Je le trouve... divertissant.
+
+781
+00:59:27,700 --> 00:59:29,400
+"Monseigneur,
+
+782
+00:59:29,500 --> 00:59:31,900
+je n'ai pas refusé les prisonniers".
+
+783
+00:59:32,900 --> 00:59:35,100
+- Vous êtes merveilleux. - Oh, merci.
+
+784
+00:59:35,100 --> 00:59:38,400
+Root ne doit pas se faire remarquer. Si on le voit, c'est fini.
+
+785
+00:59:38,500 --> 00:59:41,300
+Je ne sais pas comment vous faites. Et je ne veux pas le savoir.
+
+786
+00:59:41,600 --> 00:59:43,700
+Vous avez pensé à un nom ?
+
+787
+00:59:43,800 --> 00:59:48,000
+Inutile d'être timide. Borden appelle son tour l'Homme Transporté.
+
+788
+00:59:48,200 --> 00:59:51,400
+LE NOUVEL HOMME TRANSPORTÉ
+
+789
+00:59:51,500 --> 00:59:54,000
+Mesdames et messieurs, ce que vous avez vu
+
+790
+00:59:54,100 --> 00:59:58,900
+peut passer pour des illusions ou des bagatelles divertissantes.
+
+791
+01:00:03,500 --> 01:00:05,800
+Hélas...
+
+792
+01:00:06,800 --> 01:00:09,300
+... ce dernier exploit n'a rien d'une illusion.
+
+793
+01:00:10,200 --> 01:00:11,400
+Regardez bien.
+
+794
+01:00:12,800 --> 01:00:15,300
+Vous ne verrez aucun truc,
+
+795
+01:00:15,300 --> 01:00:17,300
+car aucun truc n'est utilisé.
+
+796
+01:00:18,500 --> 01:00:21,900
+Ce n'est qu'une technique familière à certains citoyens de l'Orient
+
+797
+01:00:21,900 --> 01:00:24,100
+et à divers hommes saints de l'Himalaya.
+
+798
+01:00:27,400 --> 01:00:30,400
+Certes, cette technique est peut-être familière à beaucoup,
+
+799
+01:00:30,500 --> 01:00:33,600
+mais à ceux pour qui elle ne l'est pas, ne vous alarmez pas.
+
+800
+01:00:33,700 --> 01:00:36,800
+Ce que vous allez voir est considéré sans danger.
+
+801
+01:01:08,300 --> 01:01:11,400
+À notre succès.
+
+802
+01:01:11,500 --> 01:01:14,200
+Le gérant dit qu'il n'a jamais vu une telle réaction.
+
+803
+01:01:14,600 --> 01:01:17,900
+Au moins, il l'a vue. J'ai passé les ovations caché sous la scène.
+
+804
+01:01:18,000 --> 01:01:19,700
+Ils se fichent de l'homme qui disparaît.
+
+805
+01:01:19,800 --> 01:01:22,400
+C'est celui qui sort qui les intéresse.
+
+806
+01:01:22,500 --> 01:01:24,500
+L'homme dans la boîte m'intéresse.
+
+807
+01:01:24,600 --> 01:01:25,600
+Merci.
+
+808
+01:01:25,700 --> 01:01:28,900
+Peut-être pourrions-nous échanger nos places avant le tour.
+
+809
+01:01:29,000 --> 01:01:31,200
+Je ferai le prestige, et Root sera sous la scène.
+
+810
+01:01:31,200 --> 01:01:34,100
+Non, l'anticipation est la clé.
+
+811
+01:01:34,200 --> 01:01:37,300
+Il nous faut votre sens du spectacle pour faire monter le suspense.
+
+812
+01:01:37,400 --> 01:01:39,300
+Si Root ouvre la bouche, c'est fini.
+
+813
+01:01:39,400 --> 01:01:41,900
+- Il ne peut pas présenter ce tour. - Mais si, je peux.
+
+814
+01:01:41,900 --> 01:01:43,700
+Je suis le Grand Danton.
+
+815
+01:01:43,800 --> 01:01:47,000
+Root, espèce d'idiot, enlevez ces vêtements et ce maquillage.
+
+816
+01:01:47,100 --> 01:01:50,100
+Quelqu'un pourrait entrer à tout moment.
+
+817
+01:01:50,200 --> 01:01:52,300
+Félicitations à tous.
+
+818
+01:01:52,300 --> 01:01:55,800
+On ne vit pas souvent de tels moments. On a travaillé dur.
+
+819
+01:01:56,200 --> 01:01:58,800
+Il faut fêter ça dignement.
+
+820
+01:02:01,500 --> 01:02:04,000
+Qu'est-ce qu'il y a ? C'est ta femme ?
+
+821
+01:02:04,000 --> 01:02:06,300
+Non, c'est le tour. Il n'est pas assez bien.
+
+822
+01:02:06,400 --> 01:02:09,700
+Le tour de Borden n'est rien comparé au nôtre. Il n'a aucun style.
+
+823
+01:02:09,800 --> 01:02:13,700
+Il ne passe pas le final caché sous la scène.
+
+824
+01:02:13,700 --> 01:02:16,600
+- Je dois savoir comment il fait. - Pourquoi ?
+
+825
+01:02:16,700 --> 01:02:19,200
+Pour pouvoir faire mieux.
+
+826
+01:02:21,100 --> 01:02:23,600
+Il faut que tu ailles travailler pour lui.
+
+827
+01:02:26,800 --> 01:02:28,500
+Travailler pour lui ? Tu plaisantes ?
+
+828
+01:02:29,800 --> 01:02:31,000
+Tu seras mon espionne.
+
+829
+01:02:31,100 --> 01:02:33,300
+On vient de commencer. Tu veux que je parte ?
+
+830
+01:02:33,300 --> 01:02:35,400
+C'est comme ça qu'on avance. Réfléchis.
+
+831
+01:02:35,500 --> 01:02:37,300
+La version de Cutter plaît aux gens.
+
+832
+01:02:37,400 --> 01:02:39,600
+Imagine ce qu'on ferait avec la vraie illusion.
+
+833
+01:02:39,700 --> 01:02:43,200
+On aurait le meilleur numéro de magie jamais vu.
+
+834
+01:02:43,300 --> 01:02:47,000
+- Il sait que je travaille pour toi. - C'est pour ça qu'il voudra t'engager.
+
+835
+01:02:47,100 --> 01:02:49,700
+- Pour mon secret. - Pourquoi me ferait-il confiance ?
+
+836
+01:02:49,800 --> 01:02:52,500
+Parce que tu lui diras la vérité.
+
+837
+01:03:04,800 --> 01:03:05,900
+Brave petite.
+
+838
+01:03:09,000 --> 01:03:12,600
+Vous devez être curieux de voir ce que tant d'argent vous a procuré.
+
+839
+01:03:13,300 --> 01:03:16,200
+C'est bien que vous soyez là pour son inauguration.
+
+840
+01:03:16,200 --> 01:03:18,000
+Votre chapeau.
+
+841
+01:03:26,000 --> 01:03:28,600
+Vous devriez reculer.
+
+842
+01:03:49,000 --> 01:03:50,200
+Je ne comprends pas.
+
+843
+01:03:50,200 --> 01:03:52,600
+Il vaudrait peut-être mieux nous laisser voir ça.
+
+844
+01:03:52,700 --> 01:03:54,300
+Y a-t-il un problème, M. Tesla ?
+
+845
+01:03:54,300 --> 01:03:56,400
+- Non. Revenez dans 8 jours. - Dans 8 jours ?
+
+846
+01:03:56,500 --> 01:03:59,100
+- Dans 8 jours, tout ira bien. - Tesla !
+
+847
+01:03:59,200 --> 01:04:01,500
+Il fait des petits caprices.
+
+848
+01:04:06,700 --> 01:04:09,600
+- Atelier intéressant. - Oui, on se débrouille.
+
+849
+01:04:09,700 --> 01:04:12,000
+- Je m'appelle Olivia... - Je sais qui vous êtes.
+
+850
+01:04:12,000 --> 01:04:15,500
+- Vous venez voler mon spectacle ? - Lui donner ce qu'il lui manque.
+
+851
+01:04:15,500 --> 01:04:18,700
+- Qu'est-ce que c'est ? - Moi.
+
+852
+01:04:20,300 --> 01:04:22,800
+Je venais justement de le dire.
+
+853
+01:04:23,400 --> 01:04:25,700
+- Une touche féminine. - J'ai quitté Angier.
+
+854
+01:04:25,800 --> 01:04:27,800
+- Très bien. - Je cherche du travail.
+
+855
+01:04:29,300 --> 01:04:32,800
+- Vous avez raison de vous méfier. - Pourquoi me méfierais-je ?
+
+856
+01:04:32,900 --> 01:04:36,300
+Vous êtes la maîtresse de mon ennemi. Pourquoi me méfierais-je ?
+
+857
+01:04:38,000 --> 01:04:39,900
+- M. Borden. - Alfred.
+
+858
+01:04:42,300 --> 01:04:44,000
+Je vais vous dire la vérité.
+
+859
+01:04:44,100 --> 01:04:48,700
+Ces mots sont à prendre avec des pinces dans notre métier.
+
+860
+01:04:50,800 --> 01:04:53,500
+Je suis ici parce qu'il m'a envoyée.
+
+861
+01:04:53,600 --> 01:04:56,000
+Pour travailler pour vous et voler votre secret.
+
+862
+01:04:56,100 --> 01:04:59,400
+Pourquoi lui faut-il mon secret ? Son tour est de première.
+
+863
+01:04:59,400 --> 01:05:02,100
+Il disparaît et réapparaît instantanément
+
+864
+01:05:02,200 --> 01:05:04,700
+de l'autre côté de la scène, muet, obèse,
+
+865
+01:05:04,800 --> 01:05:07,300
+et à moins de me méprendre, tout à fait soûl.
+
+866
+01:05:07,400 --> 01:05:10,900
+C'est étonnant. Comment fait-il ? Et dites-moi Olivia,
+
+867
+01:05:11,000 --> 01:05:14,400
+il aime faire ses saluts sous la scène ?
+
+868
+01:05:14,500 --> 01:05:17,800
+Ça le tue. Découvrir votre méthode l'obsède.
+
+869
+01:05:17,900 --> 01:05:20,800
+Il ne pense à rien d'autre, le succès ne lui donne aucun plaisir.
+
+870
+01:05:20,900 --> 01:05:23,900
+Et j'en ai assez. Je n'ai aucun avenir avec lui.
+
+871
+01:05:26,100 --> 01:05:29,800
+Il m'a envoyée voler votre secret, mais je suis venue vous offrir le sien.
+
+872
+01:05:29,900 --> 01:05:33,800
+C'est la vérité... n'est-ce pas ?
+
+873
+01:05:38,300 --> 01:05:40,600
+Vous devriez vous habiller, monsieur.
+
+874
+01:05:40,700 --> 01:05:44,900
+Vous êtes en retard et plus soûl que jamais. Descendez tout de suite.
+
+875
+01:05:45,000 --> 01:05:46,600
+Non.
+
+876
+01:05:46,600 --> 01:05:49,900
+Non, il faut qu'on parle, M. Cutter.
+
+877
+01:05:50,100 --> 01:05:54,400
+On a un problème. Cutter, Borden se produit en face.
+
+878
+01:05:54,500 --> 01:05:57,700
+Oui, on a un plus gros problème.
+
+879
+01:05:57,800 --> 01:06:00,800
+Root. Il a compris qu'il pouvait exiger plus d'argent.
+
+880
+01:06:01,300 --> 01:06:04,600
+- Il nous fait chanter ? - J'ai été surpris, en vérité.
+
+881
+01:06:04,700 --> 01:06:07,400
+Ils mettent plus longtemps à le comprendre, en général.
+
+882
+01:06:07,500 --> 01:06:10,300
+- Combien veut-il ? - Ça ne fait aucune différence.
+
+883
+01:06:10,400 --> 01:06:13,800
+- Il faut arrêter le tour. - Arrêter le tour ? Regardez ça.
+
+884
+01:06:13,900 --> 01:06:15,500
+LE PROFESSEUR LE VRAI HOMME TRANSPORTÉ
+
+885
+01:06:15,600 --> 01:06:19,800
+La semaine dernière, vous étiez le meilleur artiste de Londres.
+
+886
+01:06:19,800 --> 01:06:23,200
+Pas magicien, remarquez bien. Artiste en tous genres.
+
+887
+01:06:23,300 --> 01:06:26,500
+- Où voulez-vous en venir ? - Vous êtes arrivé trop haut
+
+888
+01:06:26,600 --> 01:06:29,000
+pour survivre à un embarras professionnel.
+
+889
+01:06:29,500 --> 01:06:32,400
+On ne fait pas de tour qu'on ne peut contrôler.
+
+890
+01:06:34,600 --> 01:06:37,900
+Payez-le. On garde le tour jusqu'à la première de Borden,
+
+891
+01:06:38,000 --> 01:06:40,000
+puis on le supprimera petit à petit.
+
+892
+01:06:40,900 --> 01:06:42,300
+Très bien.
+
+893
+01:06:45,100 --> 01:06:49,200
+La vitesse à laquelle Root avait tourné casaque avait surpris Cutter.
+
+894
+01:06:49,300 --> 01:06:53,900
+Qu'est-ce qui me vaut le plaisir de cette bière plutôt bienvenue ?
+
+895
+01:06:53,900 --> 01:06:57,400
+Vous êtes le Grand Danton, n'est-ce pas ?
+
+896
+01:06:57,500 --> 01:07:00,800
+Bien sûr, mais ne l'ébruitez pas. Je serais assailli par mes admirateurs.
+
+897
+01:07:00,900 --> 01:07:03,100
+On le payait assez pour qu'il se noie dans l'alcool.
+
+898
+01:07:03,200 --> 01:07:05,400
+On ne s'attendait pas à sa rébellion.
+
+899
+01:07:05,400 --> 01:07:08,100
+Cette technique est peut-être familière à beaucoup,
+
+900
+01:07:08,200 --> 01:07:11,700
+mais à ceux pour qui elle ne l'est pas, ne vous alarmez pas.
+
+901
+01:07:11,800 --> 01:07:14,900
+Ce que vous allez voir est considéré sans danger.
+
+902
+01:07:15,000 --> 01:07:16,400
+Qui êtes-vous ?
+
+903
+01:07:16,400 --> 01:07:21,600
+Je suis un humble admirateur et un collègue.
+
+904
+01:07:22,700 --> 01:07:23,800
+Très bien.
+
+905
+01:07:33,100 --> 01:07:36,000
+- Un autre ? - Oh, si vous insistez.
+
+906
+01:07:36,000 --> 01:07:38,900
+- Un autre. - Je ne joue pas ce soir.
+
+907
+01:07:39,000 --> 01:07:43,300
+Je ne donne qu'un spectacle, mais mes gens s'occupent de tout.
+
+908
+01:07:43,400 --> 01:07:44,600
+Monte là-haut.
+
+909
+01:07:45,900 --> 01:07:47,000
+Monte.
+
+910
+01:07:47,100 --> 01:07:49,800
+Votre illusion, l'Homme Transporté,
+
+911
+01:07:49,900 --> 01:07:52,500
+je ne prétends pas connaître votre méthode,
+
+912
+01:07:52,600 --> 01:07:56,800
+mais j'avais un tour similaire dans mon numéro,
+
+913
+01:07:56,800 --> 01:07:59,600
+et... j'utilisais un sosie.
+
+914
+01:08:00,900 --> 01:08:04,900
+- Je vois, très bien. - En effet, mais ça a mal tourné.
+
+915
+01:08:05,000 --> 01:08:08,400
+Je n'ai pas compté qu'en incorporant ce type
+
+916
+01:08:08,500 --> 01:08:10,600
+dans mon numéro,
+
+917
+01:08:10,600 --> 01:08:12,600
+je lui donnais un pouvoir absolu sur moi.
+
+918
+01:08:13,800 --> 01:08:15,400
+Un pouvoir absolu, vous dites ?
+
+919
+01:08:32,900 --> 01:08:37,600
+Soyez très prudent avant de donner ce pouvoir à quelqu'un.
+
+920
+01:08:40,500 --> 01:08:42,600
+Merci.
+
+921
+01:08:42,600 --> 01:08:45,600
+Oui, merci de l'avertissement.
+
+922
+01:08:47,000 --> 01:08:48,300
+À la vôtre.
+
+923
+01:08:49,800 --> 01:08:51,900
+Ce dernier exploit n'a rien d'une illusion.
+
+924
+01:08:51,900 --> 01:08:55,300
+Ce que vous allez voir est considéré sans danger.
+
+925
+01:09:36,300 --> 01:09:38,500
+Le Grand Danton.
+
+926
+01:09:40,000 --> 01:09:42,200
+NE MANQUEZ PAS LE PROFESSEUR AU THÉÂTRE PANTAGE
+
+927
+01:09:44,700 --> 01:09:46,600
+Je m'excuse.
+
+928
+01:09:46,700 --> 01:09:50,400
+Il y a trop de magie
+
+929
+01:09:50,500 --> 01:09:54,800
+dans mon spectacle au Pantage, de l'autre côté de la rue.
+
+930
+01:09:59,500 --> 01:10:02,500
+Pardonnez mon intrusion.
+
+931
+01:10:04,500 --> 01:10:09,000
+Et pardonnez ce pauvre homme. Il se donne tant de mal.
+
+932
+01:10:12,200 --> 01:10:14,200
+Je ne sais pas comment Borden l'a trouvé.
+
+933
+01:10:14,300 --> 01:10:16,200
+Il était bien caché. J'ai été prudent.
+
+934
+01:10:16,300 --> 01:10:17,900
+Mais il l'a trouvé.
+
+935
+01:10:19,100 --> 01:10:21,100
+Vous croyez que c'était elle ?
+
+936
+01:10:27,400 --> 01:10:30,300
+Tu ne m'attendais pas ?
+
+937
+01:10:30,300 --> 01:10:32,900
+Je t'attendais plus tôt. Ton message disait cet après-midi.
+
+938
+01:10:33,000 --> 01:10:35,400
+Ça me prend du temps pour me déplacer, maintenant.
+
+939
+01:10:35,400 --> 01:10:39,600
+Il m'a tout pris. Ma femme, ma carrière,
+
+940
+01:10:39,700 --> 01:10:41,500
+- et maintenant, toi. - Tu m'as envoyée.
+
+941
+01:10:41,600 --> 01:10:44,600
+Je t'ai envoyé voler son secret, pas améliorer son numéro.
+
+942
+01:10:44,700 --> 01:10:46,300
+- C'est mon travail. - Ni l'aimer !
+
+943
+01:10:46,400 --> 01:10:49,100
+- J'ai fait ce que tu as demandé ! - Oui ? Oui ?
+
+944
+01:10:49,200 --> 01:10:51,700
+- Comment il fait ? - Cutter avait raison, un sosie.
+
+945
+01:10:51,800 --> 01:10:54,000
+- Évidemment qu'il a dit ça. - Il ne l'a pas dit.
+
+946
+01:10:54,100 --> 01:10:57,500
+J'ai vu son maquillage, ses lunettes, qu'il ne porte pas durant le spectacle.
+
+947
+01:10:57,600 --> 01:11:00,300
+- Tout ça caché dans les coulisses. - Détournement d'attention.
+
+948
+01:11:00,400 --> 01:11:03,100
+Il laisse ça là pour te le faire croire.
+
+949
+01:11:03,100 --> 01:11:05,000
+Il ne sait pas quand je regarde.
+
+950
+01:11:05,100 --> 01:11:08,300
+Si, tout le temps, Olivia ! Il est comme ça !
+
+951
+01:11:08,400 --> 01:11:09,700
+Voilà ce que ça exige !
+
+952
+01:11:09,700 --> 01:11:12,200
+Il vit son numéro, tu ne vois pas ?
+
+953
+01:11:14,200 --> 01:11:16,500
+Tu as beau coucher avec lui, il ne te fait pas confiance.
+
+954
+01:11:17,600 --> 01:11:20,000
+Tu crois tout voir, n'est-ce pas ?
+
+955
+01:11:20,100 --> 01:11:22,900
+Le Grand Danton est un idiot aveugle.
+
+956
+01:11:23,000 --> 01:11:24,400
+Son journal.
+
+957
+01:11:25,800 --> 01:11:28,000
+Tu l'as volé ?
+
+958
+01:11:28,100 --> 01:11:30,000
+Je l'ai emprunté pour ce soir.
+
+959
+01:11:30,000 --> 01:11:33,300
+- J'ai pensé que tu pourrais traduire... - Je ne peux pas.
+
+960
+01:11:33,400 --> 01:11:36,300
+Personne ne peut. C'est un code.
+
+961
+01:11:36,400 --> 01:11:39,100
+Même avec le mot-clé, ça prendrait des mois à déchiffrer.
+
+962
+01:11:39,900 --> 01:11:42,600
+- Et sans le mot-clé ? - Peut-être jamais.
+
+963
+01:11:42,800 --> 01:11:44,500
+- On verra. - On ne verra pas.
+
+964
+01:11:44,600 --> 01:11:47,500
+Si je ne rapporte pas ça demain, il saura que je l'ai pris.
+
+965
+01:11:47,600 --> 01:11:49,900
+- Quitte-le. - Je ne peux pas. Il sait où j'habite.
+
+966
+01:11:51,200 --> 01:11:56,000
+C'est son journal, Olivia. Ses secrets sont là entre mes mains.
+
+967
+01:11:57,000 --> 01:11:59,200
+- Ça ne la ramènera pas. - Je me fiche de ma femme.
+
+968
+01:11:59,300 --> 01:12:01,400
+C'est son secret qui m'intéresse.
+
+969
+01:12:14,300 --> 01:12:17,000
+Écoute, je...
+
+970
+01:12:17,100 --> 01:12:19,400
+J'irai à son atelier simuler une effraction.
+
+971
+01:12:19,500 --> 01:12:22,700
+- Il saura que tu l'as pris. - Oui, moi. Pas toi.
+
+972
+01:12:23,800 --> 01:12:25,800
+Tu comprends ?
+
+973
+01:12:34,400 --> 01:12:36,200
+Robert.
+
+974
+01:12:37,700 --> 01:12:40,400
+Je suis tombée amoureuse de lui.
+
+975
+01:12:41,400 --> 01:12:44,500
+Alors je sais à quel point ça a été dur pour toi.
+
+976
+01:12:52,400 --> 01:12:54,600
+Le journal ?
+
+977
+01:12:56,500 --> 01:12:58,600
+Alors il ne fait que commencer.
+
+978
+01:13:27,700 --> 01:13:29,200
+- Professeur ! - Professeur !
+
+979
+01:13:29,300 --> 01:13:30,800
+Bonsoir.
+
+980
+01:13:35,600 --> 01:13:37,300
+Je rentre à pied, ce soir.
+
+981
+01:13:37,300 --> 01:13:39,900
+Qu'il vienne. Ça m'est égal.
+
+982
+01:15:06,600 --> 01:15:08,700
+- Tout va bien ? - Je suis vivant.
+
+983
+01:15:09,200 --> 01:15:11,300
+Ça m'évite de faire un trou d'aération.
+
+984
+01:15:25,400 --> 01:15:28,000
+- Je suis impressionné. - Pourquoi ça ?
+
+985
+01:15:28,000 --> 01:15:31,100
+Tu as enfin décidé de te salir les mains.
+
+986
+01:15:31,200 --> 01:15:34,000
+Voilà ce que ça coûte, d'avoir un bon tour, Angier.
+
+987
+01:15:34,000 --> 01:15:36,800
+Des risques et un sacrifice.
+
+988
+01:15:36,900 --> 01:15:39,500
+C'est toi qui devras te sacrifier,
+
+989
+01:15:39,600 --> 01:15:42,400
+si tu ne me donnes pas ce que je veux.
+
+990
+01:15:42,400 --> 01:15:44,600
+- C'est-à-dire ? - Ton secret.
+
+991
+01:15:44,700 --> 01:15:46,100
+Mon secret ?
+
+992
+01:15:47,000 --> 01:15:49,200
+Ta méthode pour l'Homme Transporté.
+
+993
+01:15:49,300 --> 01:15:52,200
+Fallon n'a rien dit. Il n'a pas dit un mot.
+
+994
+01:15:52,200 --> 01:15:55,700
+- Tu as mon journal. - Il m'est inutile, sans le mot-clé.
+
+995
+01:15:57,200 --> 01:16:00,800
+Décris ta méthode, Borden, décris-la en détail.
+
+996
+01:16:13,900 --> 01:16:16,700
+Je veux toute la méthode, pas le mot-clé.
+
+997
+01:16:16,800 --> 01:16:19,200
+Je ne sais pas si ton secret est dans ton journal.
+
+998
+01:16:19,300 --> 01:16:21,300
+Le mot-clé est la méthode.
+
+999
+01:16:25,300 --> 01:16:27,500
+Où est mon ingénieur ?
+
+1000
+01:16:33,700 --> 01:16:36,400
+- Vivant ? - Si tu creuses assez vite.
+
+1001
+01:16:38,800 --> 01:16:41,800
+Fallon, tu m'entends ? Fallon !
+
+1002
+01:16:43,200 --> 01:16:45,800
+- Comment va ce bras ? - Toujours attaché.
+
+1003
+01:16:47,300 --> 01:16:48,800
+Vous avez trouvé votre réponse ?
+
+1004
+01:16:48,900 --> 01:16:52,700
+Notre réponse. Je n'ai pas regardé, je voulais qu'on la découvre ensemble.
+
+1005
+01:16:52,800 --> 01:16:55,200
+Je sais déjà comment il fait, Robert.
+
+1006
+01:16:55,300 --> 01:16:58,300
+Comme il le fait toujours, de la même façon que nous.
+
+1007
+01:16:58,400 --> 01:17:00,900
+Mais vous en demandez plus.
+
+1008
+01:17:01,000 --> 01:17:03,700
+Eh bien voyons ça, d'accord ?
+
+1009
+01:17:08,000 --> 01:17:09,400
+Qu'est-ce que ça veut dire ?
+
+1010
+01:17:17,300 --> 01:17:19,800
+Ça veut dire, Cutter, qu'un voyage nous attend.
+
+1011
+01:17:19,800 --> 01:17:22,700
+- En Amérique. - Robert ?
+
+1012
+01:17:22,800 --> 01:17:25,700
+Écoutez-moi.
+
+1013
+01:17:25,800 --> 01:17:29,300
+Les obsessions sont réservées aux jeunes gens.
+
+1014
+01:17:29,300 --> 01:17:30,900
+Allons.
+
+1015
+01:17:31,000 --> 01:17:33,400
+Je ne peux pas vous suivre plus loin.
+
+1016
+01:17:34,500 --> 01:17:36,400
+Je ne peux pas, désolé.
+
+1017
+01:17:40,500 --> 01:17:42,200
+Alors la suite m'appartient.
+
+1018
+01:17:44,300 --> 01:17:45,800
+Désolé.
+
+1019
+01:17:51,100 --> 01:17:53,500
+Bonsoir. Bonsoir, chérie.
+
+1020
+01:17:54,800 --> 01:17:58,500
+- Champagne, le meilleur. - Quelqu'un dîne avec nous ?
+
+1021
+01:17:58,500 --> 01:18:01,400
+Tout à fait, nous avons un événement à fêter.
+
+1022
+01:18:01,500 --> 01:18:04,100
+Mlle Wenscombe, M. Fallon.
+
+1023
+01:18:04,200 --> 01:18:07,100
+- Que fêtons-nous ? - On a trouvé un nouveau tour.
+
+1024
+01:18:07,100 --> 01:18:09,200
+- N'est-ce pas ? - Quel tour, Freddie ?
+
+1025
+01:18:09,300 --> 01:18:11,300
+Oui, Freddie, quel tour ?
+
+1026
+01:18:11,400 --> 01:18:15,800
+Je vais m'enterrer vivant tous les soirs,
+
+1027
+01:18:15,800 --> 01:18:19,700
+et quelqu'un viendra me déterrer. Merveilleux.
+
+1028
+01:18:19,800 --> 01:18:22,900
+- Je pense qu'il a assez... - Non, versez le champagne.
+
+1029
+01:18:22,900 --> 01:18:26,600
+Versez. Ne me parle pas comme ça. Je ne suis pas un enfant.
+
+1030
+01:18:26,700 --> 01:18:29,900
+- Il vaudrait peut-être mieux... - M. Fallon, raccompagnez-la.
+
+1031
+01:18:30,000 --> 01:18:32,800
+- Mon mari devient assommant. - Oh, s'il te plaît.
+
+1032
+01:18:32,900 --> 01:18:36,700
+- Elle n'a pas besoin de supporter ça. - Ne gâche pas cette soirée.
+
+1033
+01:18:39,100 --> 01:18:42,000
+Bonne nuit, Mme Borden. Bonne nuit, Freddie.
+
+1034
+01:18:46,400 --> 01:18:48,700
+- Freddie ? - C'est mon nom.
+
+1035
+01:18:48,800 --> 01:18:52,200
+- Pas à la maison. - Je ne suis pas toujours à la maison.
+
+1036
+01:18:54,000 --> 01:18:57,200
+Tu aurais pu au moins enlever ta barbe.
+
+1037
+01:18:57,300 --> 01:19:00,900
+Sarah, j'arrive du théâtre.
+
+1038
+01:19:00,900 --> 01:19:04,000
+D'accord ? On est en public. Ça ne dérange personne.
+
+1039
+01:19:04,100 --> 01:19:06,000
+Pourquoi es-tu comme ça ?
+
+1040
+01:19:06,100 --> 01:19:09,000
+J'ai vécu une épreuve terrible, aujourd'hui.
+
+1041
+01:19:09,100 --> 01:19:12,800
+Je pensais avoir perdu...
+
+1042
+01:19:14,000 --> 01:19:15,900
+... une chose très précieuse.
+
+1043
+01:19:16,000 --> 01:19:19,100
+Alors je voulais fêter ça... rien qu'un peu.
+
+1044
+01:19:19,200 --> 01:19:22,700
+De quoi s'agit-il ? Qu'est-ce que tu as perdu ?
+
+1045
+01:19:27,800 --> 01:19:29,400
+Je vois, d'autres secrets.
+
+1046
+01:19:30,300 --> 01:19:33,500
+Sarah, les secrets sont ma vie.
+
+1047
+01:19:35,400 --> 01:19:38,700
+- Notre vie. - Arrête, ça ne te ressemble pas.
+
+1048
+01:19:38,800 --> 01:19:41,200
+Arrête ta représentation.
+
+1049
+01:20:05,400 --> 01:20:07,900
+Je croyais avoir l'endroit pour moi tout seul.
+
+1050
+01:20:08,000 --> 01:20:11,300
+Des clients inattendus, pas très polis.
+
+1051
+01:20:11,300 --> 01:20:13,200
+Ils posent des tas de questions.
+
+1052
+01:20:13,200 --> 01:20:16,000
+Au début, j'ai cru qu'ils étaient du gouvernement.
+
+1053
+01:20:16,100 --> 01:20:19,800
+- Et alors ? - Pire, Thomas Edison.
+
+1054
+01:20:21,700 --> 01:20:24,200
+Un curieux événement s'est produit, aujourd'hui.
+
+1055
+01:20:24,300 --> 01:20:27,400
+Son assistante est venue nous faire une proposition.
+
+1056
+01:20:29,000 --> 01:20:32,400
+Évidemment, Angier l'avait envoyée lui disant de tout avouer.
+
+1057
+01:20:32,500 --> 01:20:35,300
+Il aime faire ses saluts sous la scène ?
+
+1058
+01:20:35,300 --> 01:20:39,100
+Il m'a envoyé voler votre secret, je suis venue vous offrir le sien.
+
+1059
+01:20:39,200 --> 01:20:42,200
+C'est la vérité...
+
+1060
+01:20:42,200 --> 01:20:43,200
+... n'est-ce pas ?
+
+1061
+01:20:51,200 --> 01:20:52,900
+Non, c'est ce qu'il m'a dit de vous dire.
+
+1062
+01:20:53,000 --> 01:20:57,300
+La vérité, c'est que je l'aimais et le soutenais,
+
+1063
+01:20:57,400 --> 01:20:58,600
+et il m'a envoyée à vous,
+
+1064
+01:20:58,700 --> 01:21:02,200
+comme il aurait envoyé une assistante chercher ses chemises.
+
+1065
+01:21:02,300 --> 01:21:05,100
+Je le déteste pour ça.
+
+1066
+01:21:05,200 --> 01:21:08,400
+Je pourrais détecter la méthode d'Angier du fond du théâtre.
+
+1067
+01:21:10,200 --> 01:21:12,300
+Qu'avez-vous donc à m'offrir ?
+
+1068
+01:21:12,400 --> 01:21:14,100
+Vous savez comment il fait,
+
+1069
+01:21:14,200 --> 01:21:17,200
+mais pas pourquoi personne ne voit que vos tours sont mieux.
+
+1070
+01:21:17,300 --> 01:21:19,900
+Vous cachez ça. J'ai dû regarder très attentivement
+
+1071
+01:21:19,900 --> 01:21:22,300
+pour le voir lors de l'Homme Transporté,
+
+1072
+01:21:22,400 --> 01:21:25,200
+mais ça vous rend unique.
+
+1073
+01:21:25,200 --> 01:21:27,400
+Ça montre que vous n'avez pas de doublure.
+
+1074
+01:21:27,400 --> 01:21:29,800
+Il ne faut pas la cacher, mais l'exposer fièrement.
+
+1075
+01:21:29,900 --> 01:21:34,200
+Il faut une grande dextérité pour faire des illusions avec une seule bonne main.
+
+1076
+01:21:34,700 --> 01:21:36,500
+Oui, en effet.
+
+1077
+01:21:38,300 --> 01:21:41,400
+Que les gens le sachent.
+
+1078
+01:21:41,500 --> 01:21:45,000
+Vous pouvez être tellement mieux que lui et je peux vous montrer comment.
+
+1079
+01:21:46,700 --> 01:21:48,600
+Je pense qu'elle dit la vérité.
+
+1080
+01:21:49,400 --> 01:21:51,600
+Je ne la crois pas digne de confiance.
+
+1081
+01:21:55,100 --> 01:21:57,500
+Mais je l'aime. J'ai besoin d'elle.
+
+1082
+01:21:58,700 --> 01:22:02,100
+Pour m'ouvrir à une telle relation,
+
+1083
+01:22:02,100 --> 01:22:06,000
+aux dangers d'une telle aventure,
+
+1084
+01:22:06,100 --> 01:22:10,800
+il me faut des preuves de fidélité, d'amour.
+
+1085
+01:22:11,900 --> 01:22:13,500
+Mais comment en être sûr ?
+
+1086
+01:22:15,700 --> 01:22:19,200
+Je connais un moyen, c'est la seule façon de connaître ses pensées.
+
+1087
+01:22:20,100 --> 01:22:21,900
+Comment a-t-il pu t'envoyer ?
+
+1088
+01:22:23,800 --> 01:22:26,900
+Elle doit m'aider à nous débarrasser d'Angier.
+
+1089
+01:22:33,500 --> 01:22:36,500
+Aujourd'hui, ma maîtresse a prouvé sa fidélité.
+
+1090
+01:22:36,600 --> 01:22:38,900
+Pas à moi, comprends-tu.
+
+1091
+01:22:38,900 --> 01:22:41,000
+Elle m'avait déjà conduit à Root.
+
+1092
+01:22:41,100 --> 01:22:44,600
+Aujourd'hui, Olivia t'a prouvé son amour
+
+1093
+01:22:44,700 --> 01:22:46,700
+envers moi, Angier.
+
+1094
+01:22:47,200 --> 01:22:51,600
+Oui, Angier, elle t'a donné ce journal à ma demande.
+
+1095
+01:22:51,700 --> 01:22:55,300
+Et oui, "Tesla " n'est que la clé de mon journal,
+
+1096
+01:22:55,300 --> 01:22:56,800
+pas de mon tour.
+
+1097
+01:22:56,900 --> 01:23:01,600
+Tu croyais que j'allais si facilement révéler mon secret après tout ça ?
+
+1098
+01:23:01,700 --> 01:23:03,100
+Adieu, Angier.
+
+1099
+01:23:03,100 --> 01:23:07,100
+Puisses-tu te consoler de tes ambitions, chez toi en Amérique.
+
+1100
+01:23:16,700 --> 01:23:18,400
+Tesla !
+
+1101
+01:23:20,300 --> 01:23:22,800
+Tesla ! Alley !
+
+1102
+01:23:23,900 --> 01:23:24,900
+Alley !
+
+1103
+01:23:25,000 --> 01:23:27,400
+Tesla n'a pas fait de machine comme j'ai demandé.
+
+1104
+01:23:27,500 --> 01:23:30,500
+- Je n'ai jamais dit ça. - Vous me l'avez laissé croire.
+
+1105
+01:23:30,500 --> 01:23:33,200
+Vous avez volé mon argent, ayant perdu votre financement.
+
+1106
+01:23:33,300 --> 01:23:36,200
+Vous avez envoyé des étincelles dans mon haut-de-forme,
+
+1107
+01:23:36,300 --> 01:23:39,700
+en riant de moi, en utilisant mon argent pour éviter la ruine.
+
+1108
+01:23:40,600 --> 01:23:42,700
+- J'ai vu des hommes d'Edison. - Où ?
+
+1109
+01:23:42,800 --> 01:23:45,300
+À l'hôtel, j'ai idée de les faire venir ici.
+
+1110
+01:23:45,400 --> 01:23:48,100
+Ce serait peu judicieux, M. Angier.
+
+1111
+01:23:48,200 --> 01:23:51,300
+C'est vrai que vous êtes notre dernier financier,
+
+1112
+01:23:51,400 --> 01:23:53,200
+mais on n'a pas volé votre argent.
+
+1113
+01:23:53,300 --> 01:23:54,700
+C'est mon chat.
+
+1114
+01:23:54,800 --> 01:23:57,900
+Quand j'ai dit pouvoir faire une machine, j'ai dit la vérité.
+
+1115
+01:23:57,900 --> 01:23:59,600
+Pourquoi elle ne marche pas ?
+
+1116
+01:23:59,700 --> 01:24:02,900
+Parce que la science exacte, M. Angier, n'est pas une science exacte.
+
+1117
+01:24:03,000 --> 01:24:06,200
+La machine n'opère pas comme on l'espérait.
+
+1118
+01:24:06,200 --> 01:24:10,300
+- Elle demande un examen approfondi. - Où est passé mon haut-de-forme ?
+
+1119
+01:24:10,300 --> 01:24:11,400
+Nulle part.
+
+1120
+01:24:11,500 --> 01:24:14,300
+On a essayé ce fichu truc une douzaine de fois.
+
+1121
+01:24:14,400 --> 01:24:15,800
+Le chapeau n'a pas bougé.
+
+1122
+01:24:15,900 --> 01:24:17,900
+Il faut tester avec des matières différentes.
+
+1123
+01:24:18,000 --> 01:24:21,500
+Ça peut entraîner un résultat différent.
+
+1124
+01:24:31,500 --> 01:24:35,500
+Vous êtes responsable de ce qui arrive à cet animal, docteur.
+
+1125
+01:24:57,000 --> 01:24:59,600
+J'espère que ce que vous faisiez avec mon argent
+
+1126
+01:24:59,700 --> 01:25:02,200
+en valait plus la peine, M. Tesla.
+
+1127
+01:25:58,100 --> 01:25:59,100
+Alley !
+
+1128
+01:26:02,200 --> 01:26:05,400
+- Alors la machine marchait ? - Je n'ai pas vérifié le calibrage,
+
+1129
+01:26:05,500 --> 01:26:07,600
+car le chapeau ne bougeait pas.
+
+1130
+01:26:07,700 --> 01:26:10,600
+Ces choses ne marchent jamais comme on s'y attend.
+
+1131
+01:26:10,700 --> 01:26:13,100
+C'est l'une des beautés de la science.
+
+1132
+01:26:13,200 --> 01:26:16,600
+Il me faut deux semaines pour ajuster la machine.
+
+1133
+01:26:16,700 --> 01:26:18,800
+On vous dira quand elle sera prête.
+
+1134
+01:26:21,000 --> 01:26:23,200
+N'oubliez pas votre chapeau.
+
+1135
+01:26:24,000 --> 01:26:27,700
+- Lequel est le mien ? - Ce sont tous vos chapeaux.
+
+1136
+01:26:33,700 --> 01:26:36,700
+Tu es si jolie avec ta nouvelle robe.
+
+1137
+01:26:36,700 --> 01:26:40,600
+- On va au zoo ? - Non, papa a des courses à faire.
+
+1138
+01:26:40,700 --> 01:26:42,900
+- Mais tu m'as promis. - J'ai promis, hein ?
+
+1139
+01:26:42,900 --> 01:26:45,200
+Alors on ira au zoo.
+
+1140
+01:26:45,300 --> 01:26:48,800
+Papa va faire des courses, et il sera de retour très vite.
+
+1141
+01:26:48,900 --> 01:26:52,600
+Alors va te préparer. On ira voir les chimpanzés.
+
+1142
+01:26:55,600 --> 01:26:59,000
+Sarah... qu'est-ce que tu fais ?
+
+1143
+01:27:02,700 --> 01:27:05,700
+On a tous nos vices.
+
+1144
+01:27:08,800 --> 01:27:11,200
+Sarah, quoi que tu en penses...
+
+1145
+01:27:12,800 --> 01:27:16,400
+... ta seule rivale pour mon affection est notre petite fille.
+
+1146
+01:27:16,500 --> 01:27:19,500
+Je t'aime. Je t'aimerai toujours
+
+1147
+01:27:19,600 --> 01:27:21,000
+et toi seule.
+
+1148
+01:27:22,900 --> 01:27:25,800
+- Tu le penses, aujourd'hui. - Absolument.
+
+1149
+01:27:27,000 --> 01:27:30,600
+C'est encore plus dur quand tu ne le penses pas.
+
+1150
+01:27:39,900 --> 01:27:42,700
+Encore des courses. Elle aime l'odeur de l'argent.
+
+1151
+01:27:42,800 --> 01:27:47,100
+La petite veut aller au zoo, j'ai pensé que tu pourrais l'emmener.
+
+1152
+01:27:47,200 --> 01:27:49,500
+Sinon, je peux le faire demain.
+
+1153
+01:27:49,600 --> 01:27:52,900
+Quant à Sarah...
+
+1154
+01:27:53,000 --> 01:27:55,200
+... elle sait tout.
+
+1155
+01:27:55,200 --> 01:27:59,300
+Elle sait que quelque chose ne va pas,
+
+1156
+01:27:59,400 --> 01:28:02,300
+alors essaie de m'aider comme tu peux.
+
+1157
+01:28:02,400 --> 01:28:06,900
+Parle-lui, essaie de la convaincre que je l'aime.
+
+1158
+01:28:17,600 --> 01:28:18,900
+Qu'y a-t-il, Freddie ?
+
+1159
+01:28:19,600 --> 01:28:21,900
+Ne m'appelle pas comme ça, s'il te plaît.
+
+1160
+01:28:22,000 --> 01:28:25,800
+Ce n'est rien. Parfois, ça ne semble pas correct.
+
+1161
+01:28:25,900 --> 01:28:28,400
+Je te l'ai dit, quand tu es avec moi, tu es avec moi.
+
+1162
+01:28:28,500 --> 01:28:31,500
+Laisse ta famille à la maison, à sa place.
+
+1163
+01:28:31,600 --> 01:28:34,600
+J'essaie. J'essaie, Olivia.
+
+1164
+01:28:35,000 --> 01:28:37,300
+- Je vais m'habiller. - Oui.
+
+1165
+01:28:38,800 --> 01:28:42,000
+J'ai encore vu Fallon traîner.
+
+1166
+01:28:42,100 --> 01:28:44,400
+Il ne m'inspire pas confiance.
+
+1167
+01:28:44,500 --> 01:28:47,500
+Tu me fais confiance ? Alors fais confiance à Fallon.
+
+1168
+01:28:47,600 --> 01:28:50,300
+Il veille sur ce qui compte à mes yeux.
+
+1169
+01:29:28,500 --> 01:29:31,000
+Désolé de vous voir partir, M. Angier.
+
+1170
+01:29:31,100 --> 01:29:33,600
+On était aussi désolés de voir partir M. Tesla.
+
+1171
+01:29:33,700 --> 01:29:35,800
+Il a beaucoup apporté à Colorado Springs.
+
+1172
+01:29:36,300 --> 01:29:39,900
+M. Angier, je n'ai pas jugé nécessaire
+
+1173
+01:29:40,000 --> 01:29:42,200
+de parler de la boîte aux hommes d'Edison.
+
+1174
+01:29:42,900 --> 01:29:44,000
+Quelle boîte ?
+
+1175
+01:30:09,300 --> 01:30:12,700
+Je m'excuse de partir sans dire au revoir.
+
+1176
+01:30:12,800 --> 01:30:16,700
+Mais je semble ne plus être le bienvenu au Colorado.
+
+1177
+01:30:18,100 --> 01:30:22,600
+Le fantastique n'est pas permis dans la science et l'industrie.
+
+1178
+01:30:22,600 --> 01:30:25,400
+Vous aurez peut-être plus de chance dans votre domaine,
+
+1179
+01:30:25,500 --> 01:30:28,200
+où les gens sont ravis d'être mystifiés.
+
+1180
+01:30:28,200 --> 01:30:31,700
+Dans cette boîte, vous trouverez ce que vous cherchez.
+
+1181
+01:30:32,600 --> 01:30:36,700
+Alley vous a laissé des instructions détaillées.
+
+1182
+01:30:36,800 --> 01:30:41,500
+Je n'ajouterai qu'une suggestion quant à l'utilisation de la machine.
+
+1183
+01:30:41,600 --> 01:30:43,600
+Détruisez-la.
+
+1184
+01:30:43,600 --> 01:30:46,900
+Enfouissez-la au plus profond de l'océan.
+
+1185
+01:30:47,000 --> 01:30:50,400
+Cette chose vous rendra misérable.
+
+1186
+01:30:54,300 --> 01:30:57,900
+L'avertissement de Tesla est resté vain, il le savait bien.
+
+1187
+01:30:58,000 --> 01:31:00,000
+Aujourd'hui, j'ai essayé la machine.
+
+1188
+01:31:00,000 --> 01:31:01,500
+En prenant des précautions
+
+1189
+01:31:01,600 --> 01:31:04,600
+au cas où Tesla n'aurait pas réglé toutes les anomalies.
+
+1190
+01:31:04,700 --> 01:31:06,400
+Si ça devait mal tourner,
+
+1191
+01:31:06,500 --> 01:31:08,900
+je ne voudrais pas vivre longtemps comme ça.
+
+1192
+01:31:28,100 --> 01:31:32,300
+À ce tournant de l'histoire, je dois te quitter, Borden.
+
+1193
+01:31:32,300 --> 01:31:34,600
+Oui, toi Borden,
+
+1194
+01:31:34,700 --> 01:31:37,000
+assis dans ta cellule,
+
+1195
+01:31:37,100 --> 01:31:41,100
+lisant mon agenda, attendant ta mort,
+
+1196
+01:31:41,200 --> 01:31:43,200
+pour mon meurtre.
+
+1197
+01:31:48,500 --> 01:31:51,900
+Le journal d'Angier, ce geste de bonne foi, c'est un faux.
+
+1198
+01:31:52,000 --> 01:31:56,200
+Je vous assure que non. Sa provenance est sans conteste.
+
+1199
+01:31:56,300 --> 01:32:00,700
+Il est écrit de la main d'Angier, nous en avons de nombreuses preuves.
+
+1200
+01:32:02,700 --> 01:32:04,600
+Peu importe.
+
+1201
+01:32:06,500 --> 01:32:08,500
+Voilà mes tours.
+
+1202
+01:32:11,400 --> 01:32:12,400
+Tous.
+
+1203
+01:32:12,500 --> 01:32:15,200
+Y compris l'Homme Transporté ?
+
+1204
+01:32:16,400 --> 01:32:19,800
+- Lord Caldlow sera très heureux. - Pas du tout.
+
+1205
+01:32:19,900 --> 01:32:22,300
+Ils sont incomplets.
+
+1206
+01:32:22,400 --> 01:32:25,100
+Il n'y a que le pacte et l'effet de chacun.
+
+1207
+01:32:25,200 --> 01:32:29,400
+Sans le prestige, ces tours sont sans valeur.
+
+1208
+01:32:29,400 --> 01:32:31,300
+Oui.
+
+1209
+01:32:31,400 --> 01:32:33,400
+Vous aurez le reste
+
+1210
+01:32:33,500 --> 01:32:36,100
+quand vous m'amènerez ma fille.
+
+1211
+01:32:37,700 --> 01:32:39,900
+Je veux lui dire adieu.
+
+1212
+01:32:41,600 --> 01:32:44,600
+Il faut en parler maintenant. Il faut en parler maintenant.
+
+1213
+01:32:44,700 --> 01:32:47,300
+Écoute-moi, tu peux nier autant que tu voudras.
+
+1214
+01:32:47,300 --> 01:32:49,700
+Olivia n'est rien pour moi.
+
+1215
+01:32:49,700 --> 01:32:51,500
+- Olivia ? - Il me faut une assistante.
+
+1216
+01:32:51,600 --> 01:32:54,400
+- J'irai la voir, je lui dirai. - Tu lui diras quoi ?
+
+1217
+01:32:54,500 --> 01:32:58,600
+Je sais qui tu es vraiment, Alfred.
+
+1218
+01:32:58,700 --> 01:33:00,500
+- Je sais. - Sarah, écoute.
+
+1219
+01:33:00,600 --> 01:33:03,200
+- Je ne peux pas garder ça pour moi. - Ne parle pas comme ça.
+
+1220
+01:33:03,200 --> 01:33:05,800
+Sarah, tais-toi ! Sarah, arrête !
+
+1221
+01:33:05,800 --> 01:33:10,000
+Je ne veux plus entendre ça. Tu ne peux pas parler comme ça.
+
+1222
+01:33:12,600 --> 01:33:16,000
+Tu ne peux plus le cacher. Je sais tout, Alfred, je sais.
+
+1223
+01:33:16,100 --> 01:33:19,500
+Je sais qui tu es vraiment, Alfred.
+
+1224
+01:33:19,600 --> 01:33:22,400
+Je ne peux pas vivre comme ça.
+
+1225
+01:33:22,400 --> 01:33:24,600
+Oh, tu crois que j'aime vivre comme ça ?
+
+1226
+01:33:24,600 --> 01:33:27,800
+Tu crois que ça me plaît de vivre comme ça ?
+
+1227
+01:33:27,900 --> 01:33:32,400
+On a une belle maison, une petite fille, on est mariés.
+
+1228
+01:33:32,500 --> 01:33:34,000
+De quoi te plains-tu ?
+
+1229
+01:33:34,100 --> 01:33:36,700
+Alfred, je ne peux pas vivre comme ça !
+
+1230
+01:33:36,800 --> 01:33:39,100
+Qu'attends-tu de moi ?
+
+1231
+01:33:42,500 --> 01:33:46,100
+Je... Je veux...
+
+1232
+01:33:46,200 --> 01:33:49,200
+Je veux que tu sois honnête envers moi.
+
+1233
+01:33:52,000 --> 01:33:54,500
+Pas de tours.
+
+1234
+01:33:54,500 --> 01:33:56,600
+Pas de mensonges.
+
+1235
+01:33:56,700 --> 01:34:00,500
+Et pas de secrets.
+
+1236
+01:34:06,800 --> 01:34:10,100
+Est-ce que... tu m'aimes ?
+
+1237
+01:34:13,200 --> 01:34:14,800
+Pas aujourd'hui.
+
+1238
+01:34:17,000 --> 01:34:18,000
+Non.
+
+1239
+01:35:26,100 --> 01:35:29,100
+230 ALDWYCH LONDRES
+
+1240
+01:35:55,800 --> 01:35:57,800
+Qui est là ?
+
+1241
+01:35:59,900 --> 01:36:01,900
+Je cherche un vieil ami.
+
+1242
+01:36:01,900 --> 01:36:03,200
+On m'a parlé d'un contrat,
+
+1243
+01:36:03,300 --> 01:36:06,200
+d'un petit théâtre, d'un magicien prometteur.
+
+1244
+01:36:06,200 --> 01:36:07,500
+Vous êtes rentré.
+
+1245
+01:36:07,600 --> 01:36:09,200
+Content de vous voir, John.
+
+1246
+01:36:09,200 --> 01:36:11,800
+Belle salle de répétition.
+
+1247
+01:36:12,800 --> 01:36:15,500
+Machinistes aveugles, j'aime ça.
+
+1248
+01:36:15,600 --> 01:36:18,200
+Vous avez toujours eu du flair pour la publicité.
+
+1249
+01:36:18,300 --> 01:36:20,900
+J'ai besoin de votre aide. C'est mon dernier spectacle.
+
+1250
+01:36:21,000 --> 01:36:24,200
+- Un contrat limité. - Votre dernier spectacle ?
+
+1251
+01:36:24,300 --> 01:36:28,400
+Un sage m'a dit que les obsessions étaient réservées aux jeunes gens.
+
+1252
+01:36:28,500 --> 01:36:32,000
+J'ai presque terminé. Il ne me reste qu'une chose à faire.
+
+1253
+01:36:33,000 --> 01:36:35,600
+Le Vrai Homme Transporté.
+
+1254
+01:36:37,400 --> 01:36:39,400
+Vous voulez faire un spectacle avec ça ?
+
+1255
+01:36:39,500 --> 01:36:42,300
+Vous ne serez pas en coulisses, mais devant pour tout diriger.
+
+1256
+01:36:42,400 --> 01:36:45,000
+Il faut faire jouer les relations qui vous restent
+
+1257
+01:36:45,100 --> 01:36:46,600
+pour trouver la bonne salle.
+
+1258
+01:36:46,700 --> 01:36:48,800
+Quel genre de salle cherchez-vous ?
+
+1259
+01:36:48,800 --> 01:36:51,200
+Le genre que Borden ne pourra pas ignorer.
+
+1260
+01:36:57,600 --> 01:37:01,500
+Oh, quel honneur de vous revoir, monsieur.
+
+1261
+01:37:01,600 --> 01:37:05,200
+Vous avez dit vouloir me montrer un tour qui éveillera mon intérêt.
+
+1262
+01:37:05,300 --> 01:37:08,100
+- Un tour ingénieux. - Enchanté, M. Ackerman.
+
+1263
+01:37:08,200 --> 01:37:11,000
+De même. Allons-y, voulez-vous ?
+
+1264
+01:37:14,700 --> 01:37:16,500
+Mettez-la en marche, messieurs.
+
+1265
+01:37:21,700 --> 01:37:22,800
+Très joli.
+
+1266
+01:37:33,900 --> 01:37:36,600
+C'est tout, Cutter ? Il disparaît, voilà tout ?
+
+1267
+01:37:37,600 --> 01:37:40,100
+Ce n'est pas un tour. Il faut qu'il revienne.
+
+1268
+01:37:40,200 --> 01:37:42,000
+- Il faut qu'il y ait un... - Un prestige ?
+
+1269
+01:37:42,100 --> 01:37:43,100
+Exactement.
+
+1270
+01:37:46,300 --> 01:37:48,900
+Pardonnez-moi.
+
+1271
+01:37:49,000 --> 01:37:50,800
+C'est très rare de voir...
+
+1272
+01:37:52,200 --> 01:37:53,800
+... de la vraie magie.
+
+1273
+01:37:55,400 --> 01:37:58,800
+- Ça fait de nombreuses années... - Allez-vous nous aider ?
+
+1274
+01:38:00,900 --> 01:38:04,700
+Oui... mais il faudra un peu l'habiller.
+
+1275
+01:38:06,900 --> 01:38:08,300
+La déguiser.
+
+1276
+01:38:10,400 --> 01:38:12,600
+Donnez-leur des raisons de douter.
+
+1277
+01:38:13,600 --> 01:38:16,800
+Tu n'as pas parlé d'elle, Freddie, pas une fois.
+
+1278
+01:38:16,900 --> 01:38:20,600
+Pourquoi je te parlerais d'elle ?
+
+1279
+01:38:20,600 --> 01:38:24,500
+Elle faisait partie de ta vie, et elle a disparu.
+
+1280
+01:38:27,500 --> 01:38:31,900
+La veille de son suicide, elle a dit qu'elle voulait me rencontrer.
+
+1281
+01:38:32,000 --> 01:38:35,000
+Qu'elle avait quelque chose à me dire sur toi.
+
+1282
+01:38:35,100 --> 01:38:38,600
+J'ai été lâche, je n'ai pas pu l'affronter.
+
+1283
+01:38:38,700 --> 01:38:40,600
+Mais...
+
+1284
+01:38:41,600 --> 01:38:43,700
+... qu'est-ce qu'elle aurait dit ?
+
+1285
+01:38:43,800 --> 01:38:46,800
+Tu veux savoir la vérité sur moi ?
+
+1286
+01:38:48,100 --> 01:38:50,600
+La vérité, c'est que...
+
+1287
+01:38:52,800 --> 01:38:54,800
+... je n'ai jamais aimé Sarah.
+
+1288
+01:38:56,300 --> 01:38:57,500
+Je ne l'ai jamais aimée.
+
+1289
+01:38:57,600 --> 01:38:59,800
+Tu l'as épousée, tu as eu un enfant avec elle.
+
+1290
+01:38:59,800 --> 01:39:00,900
+Une partie de moi.
+
+1291
+01:39:01,000 --> 01:39:05,000
+Une partie de moi, mais pas l'autre partie.
+
+1292
+01:39:05,000 --> 01:39:09,000
+La partie qui t'a trouvée, la partie qui est ici maintenant.
+
+1293
+01:39:09,300 --> 01:39:12,400
+Je t'aime. Olivia, je t'aime.
+
+1294
+01:39:12,500 --> 01:39:14,400
+C'est la vérité.
+
+1295
+01:39:14,500 --> 01:39:16,900
+C'est la vérité qui importe.
+
+1296
+01:39:17,000 --> 01:39:21,400
+Tu pourrais être dans un autre restaurant avec une autre femme,
+
+1297
+01:39:21,500 --> 01:39:23,000
+et tu lui dirais la même chose sur moi.
+
+1298
+01:39:23,100 --> 01:39:26,300
+- Non. - Si.
+
+1299
+01:39:28,700 --> 01:39:32,400
+C'est inhumain d'être si froid.
+
+1300
+01:39:38,100 --> 01:39:40,200
+Il est de retour.
+
+1301
+01:39:40,300 --> 01:39:43,500
+Après deux ans, il a un nouveau tour.
+
+1302
+01:39:43,600 --> 01:39:46,300
+On dit que c'est le meilleur que Londres ait jamais vu.
+
+1303
+01:39:48,500 --> 01:39:50,900
+Tu devrais voir la tête que tu fais, Professeur.
+
+1304
+01:39:52,800 --> 01:39:54,700
+Tu devrais aller le voir.
+
+1305
+01:39:54,800 --> 01:39:57,300
+Vous vous valez.
+
+1306
+01:40:02,300 --> 01:40:06,300
+Je crains d'être pris. Le Ballet de Moscou s'est installé pour un an.
+
+1307
+01:40:06,300 --> 01:40:07,300
+Annulez.
+
+1308
+01:40:07,400 --> 01:40:10,900
+Il y aura 100 représentations, ni plus, ni moins.
+
+1309
+01:40:11,000 --> 01:40:13,500
+Cinq représentations par semaine, pas de matinées.
+
+1310
+01:40:15,300 --> 01:40:17,600
+Voilà ce que vous demanderez par billet.
+
+1311
+01:40:17,700 --> 01:40:19,600
+Bonne journée.
+
+1312
+01:40:41,000 --> 01:40:45,700
+Mesdames et messieurs, mon premier tour comporte des risques considérables.
+
+1313
+01:40:46,900 --> 01:40:50,900
+Si un spectateur ne supporte pas la vue d'un homme qui se noie,
+
+1314
+01:40:51,000 --> 01:40:52,800
+qu'il sorte immédiatement.
+
+1315
+01:40:52,900 --> 01:40:55,700
+Quand je vous dirai que la dame qui m'a appris cette illusion
+
+1316
+01:40:55,800 --> 01:40:57,800
+est morte en l'exécutant,
+
+1317
+01:40:57,900 --> 01:41:01,200
+vous comprendrez la gravité des dangers inhérents.
+
+1318
+01:41:03,300 --> 01:41:05,700
+Commençons.
+
+1319
+01:41:15,400 --> 01:41:18,000
+Lors de mes voyages, j'ai vu l'avenir.
+
+1320
+01:41:20,000 --> 01:41:22,700
+Et c'est certes un avenir étrange.
+
+1321
+01:41:23,500 --> 01:41:25,700
+Le monde, mesdames et messieurs,
+
+1322
+01:41:25,800 --> 01:41:28,200
+est au bord de nouvelles
+
+1323
+01:41:28,300 --> 01:41:30,100
+et terrifiantes possibilités.
+
+1324
+01:41:50,400 --> 01:41:53,800
+Ce à quoi vous allez assister n'est pas de la magie.
+
+1325
+01:41:55,000 --> 01:41:56,400
+C'est de la science pure.
+
+1326
+01:41:56,500 --> 01:41:58,900
+J'aimerais vous inviter à venir sur scène
+
+1327
+01:41:59,000 --> 01:42:02,000
+pour pouvoir examiner la machine vous-même.
+
+1328
+01:42:57,700 --> 01:42:59,100
+La portée de l'homme
+
+1329
+01:42:59,200 --> 01:43:02,400
+dépasse son imagination.
+
+1330
+01:43:13,600 --> 01:43:15,000
+Bravo !
+
+1331
+01:43:23,000 --> 01:43:25,700
+100 représentations. Pourquoi ?
+
+1332
+01:43:25,800 --> 01:43:27,300
+Sa méthode l'impose ?
+
+1333
+01:43:27,400 --> 01:43:29,300
+C'est un coup de publicité ? C'est quoi ?
+
+1334
+01:43:29,400 --> 01:43:31,800
+C'est un magicien sans talent, et on dit
+
+1335
+01:43:31,800 --> 01:43:34,200
+que c'est le meilleur d'Angleterre. Pourquoi ?
+
+1336
+01:43:34,300 --> 01:43:37,100
+Cinquante mètres en une seconde !
+
+1337
+01:43:37,100 --> 01:43:40,200
+Et on sait seulement qu'il utilise une trappe.
+
+1338
+01:43:40,300 --> 01:43:43,900
+Brillant ! Que se passe-t-il sous cette scène ?
+
+1339
+01:43:44,600 --> 01:43:47,100
+Pourquoi ne trouves-tu pas comment il fait ?
+
+1340
+01:44:02,200 --> 01:44:03,800
+Ils font ça tous les soirs,
+
+1341
+01:44:03,900 --> 01:44:06,200
+après chaque représentation.
+
+1342
+01:44:33,700 --> 01:44:35,800
+100 REPRÉSENTATIONS LE VRAI HOMME TRANSPORTÉ
+
+1343
+01:44:37,400 --> 01:44:38,900
+C'est fini.
+
+1344
+01:44:40,100 --> 01:44:41,700
+D'accord ?
+
+1345
+01:44:43,000 --> 01:44:44,800
+Qu'il fasse son tour.
+
+1346
+01:44:44,900 --> 01:44:47,300
+Je n'ai pas besoin de son secret.
+
+1347
+01:44:47,400 --> 01:44:48,700
+Alors...
+
+1348
+01:44:50,500 --> 01:44:53,400
+n'y retourne pas, laisse-le tranquille.
+
+1349
+01:44:53,500 --> 01:44:56,700
+Toi et moi, on le laisse tranquille.
+
+1350
+01:44:56,800 --> 01:44:58,400
+C'est fini.
+
+1351
+01:45:07,200 --> 01:45:09,200
+Je vous l'ai dit, John.
+
+1352
+01:45:09,300 --> 01:45:11,400
+Je ne veux pas de vous dans les coulisses.
+
+1353
+01:45:13,200 --> 01:45:15,200
+J'aimerais vous inviter sur scène
+
+1354
+01:45:15,500 --> 01:45:18,200
+pour que vous examiniez la machine vous-même.
+
+1355
+01:45:47,400 --> 01:45:51,200
+- Où vous croyez aller ? - Je fais partie du numéro, idiot.
+
+1356
+01:46:00,200 --> 01:46:01,200
+Qui c'était ?
+
+1357
+01:46:58,700 --> 01:47:03,500
+Eh ! Où est la fichue clé ? ! Où est la fichue clé ? !
+
+1358
+01:47:05,900 --> 01:47:09,700
+Où est la fichue clé ? ! Il se noie !
+
+1359
+01:47:18,900 --> 01:47:19,900
+Tiens bon !
+
+1360
+01:47:25,300 --> 01:47:26,700
+Qu'avez-vous fait ?
+
+1361
+01:47:48,500 --> 01:47:53,200
+Alfred Borden, vous êtes déclaré coupable du meurtre de Robert Angier.
+
+1362
+01:47:54,000 --> 01:47:57,300
+Vous serez pendu jusqu'à ce que mort s'ensuive.
+
+1363
+01:47:58,300 --> 01:48:01,300
+Que le Seigneur ait pitié de votre âme.
+
+1364
+01:48:03,100 --> 01:48:05,200
+M. Cutter ?
+
+1365
+01:48:05,300 --> 01:48:06,900
+Owens.
+
+1366
+01:48:08,000 --> 01:48:09,800
+Merci d'être venu, M. Owens.
+
+1367
+01:48:09,900 --> 01:48:14,300
+Il m'incombe de disposer du matériel de M. Angier.
+
+1368
+01:48:14,300 --> 01:48:15,900
+J'ai remarqué sur ce manifeste
+
+1369
+01:48:16,000 --> 01:48:19,700
+que Lord Caldlow avait acheté la majorité de ces articles.
+
+1370
+01:48:19,800 --> 01:48:23,100
+M. Cutter, s'il vous faut savoir où les livrer...
+
+1371
+01:48:23,200 --> 01:48:26,800
+Non, il y a un article particulier...
+
+1372
+01:48:27,700 --> 01:48:31,500
+... cet article, en fait, que j'aimerais...
+
+1373
+01:48:31,600 --> 01:48:32,600
+Vous aimeriez ?
+
+1374
+01:48:32,700 --> 01:48:33,800
+J'aimerais l'acheter.
+
+1375
+01:48:33,900 --> 01:48:35,800
+- Acheter vous-même ? - Oui, en effet.
+
+1376
+01:48:37,000 --> 01:48:38,900
+- Cette machine-là ? - Oui.
+
+1377
+01:48:39,000 --> 01:48:41,200
+Je crains que Lord Caldlow ne soit inflexible
+
+1378
+01:48:41,300 --> 01:48:43,500
+quant à l'achat de cet article particulier.
+
+1379
+01:48:43,600 --> 01:48:46,700
+Vous pensez que je puisse parler à Lord Caldlow en personne ?
+
+1380
+01:48:46,800 --> 01:48:49,500
+Hors de question, je le crains.
+
+1381
+01:48:52,000 --> 01:48:53,900
+Bien sûr,
+
+1382
+01:48:53,900 --> 01:48:57,200
+si au cours de votre livraison,
+
+1383
+01:48:57,200 --> 01:49:01,600
+vos chemins venaient à se croiser, je ne peux vous empêcher de lui parler.
+
+1384
+01:49:02,800 --> 01:49:03,900
+Merci.
+
+1385
+01:49:05,200 --> 01:49:07,500
+- Toujours là, Borden ? - Pour l'instant.
+
+1386
+01:49:07,600 --> 01:49:11,100
+Vous avez un visiteur. Lord Caldlow.
+
+1387
+01:49:11,200 --> 01:49:13,300
+Avec votre petite fille.
+
+1388
+01:49:21,600 --> 01:49:23,500
+Jess ?
+
+1389
+01:49:23,600 --> 01:49:25,200
+Bonjour, ma chérie.
+
+1390
+01:49:25,200 --> 01:49:28,700
+Comment ça va ? Tu m'as tellement manqué.
+
+1391
+01:49:28,800 --> 01:49:30,900
+Tu manques aussi à Fallon. À tous les deux.
+
+1392
+01:49:31,000 --> 01:49:33,300
+Papa, je peux venir ?
+
+1393
+01:49:34,000 --> 01:49:36,400
+Pas pour l'instant. Pas pour l'instant, chérie.
+
+1394
+01:49:36,500 --> 01:49:40,400
+Non, mais tout ira bien.
+
+1395
+01:49:40,500 --> 01:49:42,200
+Vous devez être Lord Caldlow ?
+
+1396
+01:49:42,300 --> 01:49:46,000
+Caldlow. Oui, en effet. Je l'ai toujours été.
+
+1397
+01:49:51,100 --> 01:49:53,300
+Ils te flattent avec toutes ces chaînes.
+
+1398
+01:49:53,300 --> 01:49:56,400
+Ils ignorent que tu ne peux pas filer sans ta balle de caoutchouc ?
+
+1399
+01:49:56,400 --> 01:49:59,400
+Je t'ai sorti... de ce réservoir.
+
+1400
+01:49:59,500 --> 01:50:03,300
+Je voulais seulement prouver que j'étais meilleur magicien.
+
+1401
+01:50:03,400 --> 01:50:05,300
+Mais tu ne m'as pas laissé tranquille.
+
+1402
+01:50:06,800 --> 01:50:08,900
+Je ne sais pas ce que tu as fait.
+
+1403
+01:50:10,800 --> 01:50:14,500
+Mais tu n'as plus peur de te salir les mains, n'est-ce pas ?
+
+1404
+01:50:14,600 --> 01:50:16,500
+Non, plus maintenant.
+
+1405
+01:50:16,600 --> 01:50:17,900
+Et je gagne.
+
+1406
+01:50:17,900 --> 01:50:21,300
+Tout le monde se fiche de l'homme dans la boîte, l'homme qui disparaît.
+
+1407
+01:50:21,300 --> 01:50:23,800
+Tu gagnes ?
+
+1408
+01:50:23,900 --> 01:50:27,600
+Ce n'est plus une fichue compétition, c'est la vie de ma petite fille.
+
+1409
+01:50:28,600 --> 01:50:31,600
+Tu n'oseras pas la mettre au milieu de tout ça !
+
+1410
+01:50:31,700 --> 01:50:34,700
+Oh, je sais ce que ça fait de perdre
+
+1411
+01:50:34,800 --> 01:50:37,200
+quelqu'un qui nous est cher, Borden.
+
+1412
+01:50:38,200 --> 01:50:40,900
+Tu ne peux pas l'emmener avec toi.
+
+1413
+01:50:41,000 --> 01:50:42,900
+On s'occupera d'elle.
+
+1414
+01:50:42,900 --> 01:50:46,700
+- Adieu, Professeur. Viens, chérie. - Non, non, arrête.
+
+1415
+01:50:46,800 --> 01:50:49,000
+Regarde. Tiens.
+
+1416
+01:50:50,500 --> 01:50:53,800
+C'est ce que tu cherches. Tout est là.
+
+1417
+01:50:54,600 --> 01:50:56,000
+Prends-le.
+
+1418
+01:50:56,000 --> 01:50:57,700
+- Ton secret ? - Oui.
+
+1419
+01:51:01,000 --> 01:51:04,600
+Tu as toujours été meilleur magicien. On le sait tous les deux.
+
+1420
+01:51:05,200 --> 01:51:07,800
+Quel qu'ait été ton secret, tu dois convenir...
+
+1421
+01:51:09,000 --> 01:51:11,200
+... que le mien est mieux.
+
+1422
+01:51:12,500 --> 01:51:15,300
+Ne fais pas ça. Ne fais pas ça, Angier. Jess, Jess !
+
+1423
+01:51:15,400 --> 01:51:18,900
+Jess, je te ramène bientôt à la maison. C'est promis.
+
+1424
+01:51:19,000 --> 01:51:20,900
+- Pour l'amour du ciel ! - Je te le promets.
+
+1425
+01:51:21,000 --> 01:51:22,700
+Regarde !
+
+1426
+01:51:25,400 --> 01:51:28,400
+Je te le promets. Je t'aime, Jess.
+
+1427
+01:51:29,000 --> 01:51:30,700
+Je t'aime.
+
+1428
+01:51:30,800 --> 01:51:32,400
+- Viens. - Je t'aime.
+
+1429
+01:51:32,500 --> 01:51:34,200
+Je t'aime, Jess.
+
+1430
+01:51:34,200 --> 01:51:36,600
+Angier ! Angier !
+
+1431
+01:51:36,700 --> 01:51:38,800
+Tu crois que cet endroit va me retenir ?
+
+1432
+01:51:38,800 --> 01:51:41,900
+Angier ! Ils vont me pendre, bon sang !
+
+1433
+01:51:41,900 --> 01:51:44,400
+Et tu peux arrêter tout ça !
+
+1434
+01:51:44,500 --> 01:51:47,000
+Écoutez ! Écoutez ! Cet homme...
+
+1435
+01:51:47,100 --> 01:51:49,700
+Cet homme est celui qu'on m'accuse d'avoir tué !
+
+1436
+01:51:49,800 --> 01:51:54,100
+Écoutez ! S'il est vivant, je ne suis pas coupable !
+
+1437
+01:51:54,200 --> 01:51:56,500
+- Je ne suis pas coupable ! - Je m'en fiche !
+
+1438
+01:51:56,500 --> 01:51:58,600
+- Retenez-le ! - Angier !
+
+1439
+01:52:03,300 --> 01:52:05,200
+File, maintenant.
+
+1440
+01:52:05,900 --> 01:52:08,500
+Monsieur, quelqu'un a demandé à vous voir.
+
+1441
+01:52:25,300 --> 01:52:28,000
+- Mon Dieu ! - Bonjour, Cutter.
+
+1442
+01:52:29,000 --> 01:52:31,400
+Vous êtes vivant.
+
+1443
+01:52:31,500 --> 01:52:33,400
+Comment est-ce possible ?
+
+1444
+01:52:33,400 --> 01:52:35,800
+Je vous ai pourtant vu sur la table d'opération !
+
+1445
+01:52:38,800 --> 01:52:40,800
+- Mon enfant. - Bonne nuit, monsieur.
+
+1446
+01:52:40,900 --> 01:52:42,000
+Bonne nuit, Jess.
+
+1447
+01:52:44,100 --> 01:52:45,800
+Je l'ai déjà vue.
+
+1448
+01:52:45,900 --> 01:52:48,400
+Je l'ai vue à la cour avec...
+
+1449
+01:52:49,300 --> 01:52:51,000
+... Fallon.
+
+1450
+01:52:53,100 --> 01:52:55,700
+- Qu'avez-vous fait ? - Il faut bien s'occuper d'elle.
+
+1451
+01:52:55,800 --> 01:52:58,300
+Elle a besoin de son père.
+
+1452
+01:52:58,300 --> 01:53:01,300
+Vous allez le laisser pendre, et je vous ai aidé.
+
+1453
+01:53:01,400 --> 01:53:06,300
+Je suis venu supplier Lord Caldlow de me laisser détruire cette machine.
+
+1454
+01:53:07,800 --> 01:53:11,200
+Je ne vais pas vous supplier pour quoi que ce soit.
+
+1455
+01:53:11,300 --> 01:53:14,600
+C'est inutile. Je veillerai à ce qu'on ne l'utilise plus jamais.
+
+1456
+01:53:15,700 --> 01:53:18,800
+Alors, Lord Caldlow...
+
+1457
+01:53:21,300 --> 01:53:23,400
+... où voulez-vous que je la livre ?
+
+1458
+01:53:23,500 --> 01:53:27,000
+À mon théâtre. Sa place est avec le matériel de prestige.
+
+1459
+01:53:27,600 --> 01:53:30,300
+John, j'ai essayé de ne pas vous impliquer.
+
+1460
+01:53:43,200 --> 01:53:45,500
+Alors...
+
+1461
+01:53:47,500 --> 01:53:50,100
+On va faire cavalier seul.
+
+1462
+01:53:50,200 --> 01:53:52,600
+Toi et moi.
+
+1463
+01:53:55,500 --> 01:53:58,900
+Je veux dire, je n'ai pas à aller aussi loin que toi.
+
+1464
+01:54:04,200 --> 01:54:07,000
+Non.
+
+1465
+01:54:07,000 --> 01:54:10,100
+Tu avais raison. J'aurais dû le laisser faire son fichu numéro.
+
+1466
+01:54:11,900 --> 01:54:14,000
+Je suis désolé.
+
+1467
+01:54:15,500 --> 01:54:17,800
+Je suis désolé pour beaucoup de choses.
+
+1468
+01:54:19,000 --> 01:54:21,700
+Je suis désolé pour Sarah.
+
+1469
+01:54:22,800 --> 01:54:26,300
+Je ne voulais pas lui faire de mal.
+
+1470
+01:54:28,200 --> 01:54:32,500
+Vis ta vie pleinement maintenant, d'accord ? Vis pour nous deux.
+
+1471
+01:54:41,300 --> 01:54:42,900
+Adieu.
+
+1472
+01:55:28,600 --> 01:55:31,000
+Vous regardez attentivement ?
+
+1473
+01:56:02,400 --> 01:56:04,400
+Poussons-la par ici.
+
+1474
+01:56:37,700 --> 01:56:41,500
+Réfléchissez à votre exploit, pendant une petite minute.
+
+1475
+01:56:42,600 --> 01:56:45,400
+Je vous ai un jour parlé d'un marin
+
+1476
+01:56:45,500 --> 01:56:47,800
+qui me décrivait sa noyade.
+
+1477
+01:56:47,800 --> 01:56:50,000
+Il disait que c'était comme rentrer à la maison.
+
+1478
+01:56:51,000 --> 01:56:54,900
+J'ai menti. Il disait que c'était de l'agonie.
+
+1479
+01:57:34,600 --> 01:57:38,800
+Alfred Borden, en ce jour, au nom du roi
+
+1480
+01:57:38,900 --> 01:57:40,900
+et de la Cour Suprême d'Angleterre,
+
+1481
+01:57:40,900 --> 01:57:42,800
+vous connaissez votre fin.
+
+1482
+01:57:44,900 --> 01:57:46,900
+On se fiche tous de l'homme dans la boîte.
+
+1483
+01:57:51,700 --> 01:57:53,500
+Cutter ?
+
+1484
+01:57:58,100 --> 01:57:59,700
+Cutter !
+
+1485
+01:58:01,600 --> 01:58:03,800
+Avez-vous quelque chose à dire ?
+
+1486
+01:58:08,600 --> 01:58:10,000
+Abracadabra.
+
+1487
+01:58:46,600 --> 01:58:49,400
+Un frère ? Un jumeau ?
+
+1488
+01:58:51,200 --> 01:58:53,500
+Tu étais Fallon.
+
+1489
+01:58:55,000 --> 01:58:57,700
+- Tout ce temps ? - Non.
+
+1490
+01:58:58,800 --> 01:59:01,100
+On était tous les deux Fallon.
+
+1491
+01:59:01,200 --> 01:59:03,100
+On était tous les deux Borden.
+
+1492
+01:59:08,500 --> 01:59:11,400
+Tu étais celui qui entrait dans la boîte ?
+
+1493
+01:59:11,500 --> 01:59:13,200
+Ou celui qui en sortait ?
+
+1494
+01:59:14,500 --> 01:59:16,800
+C'était à tour de rôle.
+
+1495
+01:59:21,600 --> 01:59:23,600
+On était interchangeables.
+
+1496
+01:59:29,900 --> 01:59:31,800
+Cutter le savait. Il le savait.
+
+1497
+01:59:31,800 --> 01:59:34,100
+Je disais que c'était trop simple, trop facile.
+
+1498
+01:59:35,300 --> 01:59:36,300
+Non.
+
+1499
+01:59:37,800 --> 01:59:39,800
+Simple peut-être, mais pas facile.
+
+1500
+01:59:39,900 --> 01:59:43,600
+Ce n'est pas facile pour deux hommes de partager une vie.
+
+1501
+01:59:49,300 --> 01:59:52,500
+Je ne comprends pas comment ça peut encore saigner.
+
+1502
+01:59:56,600 --> 01:59:59,600
+Et Olivia, et ta femme ?
+
+1503
+01:59:59,700 --> 02:00:01,700
+Chacun en aimait une.
+
+1504
+02:00:05,300 --> 02:00:07,600
+J'aimais Sarah.
+
+1505
+02:00:08,100 --> 02:00:10,600
+Il aimait Olivia.
+
+1506
+02:00:10,700 --> 02:00:13,200
+On vivait chacun en fait la moitié d'une vie,
+
+1507
+02:00:13,200 --> 02:00:15,500
+et c'était assez pour nous...
+
+1508
+02:00:16,500 --> 02:00:18,400
+... juste assez.
+
+1509
+02:00:19,900 --> 02:00:21,700
+Mais pas pour elles.
+
+1510
+02:00:24,200 --> 02:00:28,400
+Vois-tu, le sacrifice est le prix à payer pour un bon tour.
+
+1511
+02:00:31,700 --> 02:00:34,800
+Mais tu ne sais rien de tout ça, n'est-ce pas ?
+
+1512
+02:00:37,300 --> 02:00:39,100
+J'ai fait des sacrifices.
+
+1513
+02:00:39,100 --> 02:00:41,100
+- Non. - Si.
+
+1514
+02:00:41,200 --> 02:00:44,700
+C'est facile de voler le travail d'un autre.
+
+1515
+02:00:44,800 --> 02:00:47,500
+Non, ce n'est pas facile.
+
+1516
+02:01:07,600 --> 02:01:09,800
+Non, non, attends, je ne suis pas...
+
+1517
+02:01:16,400 --> 02:01:19,000
+Ça a demandé du courage.
+
+1518
+02:01:21,000 --> 02:01:25,000
+Ça a demandé du courage pour monter dans cette machine tous les soirs,
+
+1519
+02:01:25,000 --> 02:01:27,500
+sans savoir
+
+1520
+02:01:27,500 --> 02:01:29,700
+si je serais l'homme dans la boîte...
+
+1521
+02:01:32,700 --> 02:01:35,200
+... ou dans le prestige.
+
+1522
+02:01:35,300 --> 02:01:38,300
+Tu veux voir
+
+1523
+02:01:38,400 --> 02:01:40,500
+ce que ça m'a coûté ?
+
+1524
+02:01:40,800 --> 02:01:43,600
+Tu n'as pas vu où tu étais, n'est-ce pas ?
+
+1525
+02:01:44,500 --> 02:01:46,900
+Regarde. Regarde.
+
+1526
+02:01:48,000 --> 02:01:49,500
+Je m'en fiche.
+
+1527
+02:01:54,200 --> 02:01:57,700
+Tu es allé à l'autre bout du monde.
+
+1528
+02:01:57,800 --> 02:02:00,600
+Tu as dépensé une fortune.
+
+1529
+02:02:02,700 --> 02:02:05,200
+Tu as fait des choses terribles.
+
+1530
+02:02:06,200 --> 02:02:08,600
+Des choses vraiment terribles, Robert.
+
+1531
+02:02:10,900 --> 02:02:13,900
+- Et tout ça pour rien. - Pour rien ?
+
+1532
+02:02:14,000 --> 02:02:15,700
+Oui.
+
+1533
+02:02:19,400 --> 02:02:22,000
+Tu n'as jamais compris
+
+1534
+02:02:22,100 --> 02:02:24,100
+pourquoi on faisait ça.
+
+1535
+02:02:27,200 --> 02:02:29,800
+Le public connaît la vérité.
+
+1536
+02:02:30,900 --> 02:02:33,400
+Le monde est simple.
+
+1537
+02:02:33,400 --> 02:02:35,200
+Il est misérable.
+
+1538
+02:02:35,300 --> 02:02:38,900
+Solide et terre à terre.
+
+1539
+02:02:41,300 --> 02:02:43,600
+Mais si on peut les mystifier,
+
+1540
+02:02:43,700 --> 02:02:46,600
+ne serait-ce qu'une seconde...
+
+1541
+02:02:47,400 --> 02:02:50,800
+... alors on peut créer de nouvelles merveilles.
+
+1542
+02:02:50,900 --> 02:02:53,100
+Et alors...
+
+1543
+02:02:53,200 --> 02:02:55,000
+Alors on voit quelque chose
+
+1544
+02:02:55,100 --> 02:02:57,500
+de très spécial.
+
+1545
+02:03:01,500 --> 02:03:04,000
+Tu ne comprends vraiment rien.
+
+1546
+02:03:07,100 --> 02:03:12,600
+C'était... c'était l'expression sur leur visage.
+
+1547
+02:03:27,900 --> 02:03:32,800
+Tout tour de magie comporte trois parties, ou actes.
+
+1548
+02:03:36,200 --> 02:03:38,900
+La première partie s'appelle "le pacte".
+
+1549
+02:03:39,800 --> 02:03:42,500
+Le magicien vous montre une chose ordinaire.
+
+1550
+02:03:43,700 --> 02:03:46,600
+Le deuxième acte s'appelle "l'effet".
+
+1551
+02:03:48,100 --> 02:03:51,000
+Le magicien prend cette chose ordinaire
+
+1552
+02:03:51,000 --> 02:03:55,100
+et lui fait faire quelque chose d'extraordinaire.
+
+1553
+02:03:55,200 --> 02:03:59,200
+Mais on n'applaudit pas encore, car faire disparaître un objet
+
+1554
+02:03:59,200 --> 02:04:03,300
+ne suffit pas. Il faut le faire réapparaître.
+
+1555
+02:04:37,700 --> 02:04:40,200
+Alors vous cherchez le secret.
+
+1556
+02:04:43,100 --> 02:04:46,900
+Mais vous ne le trouverez pas, car bien sûr, vous ne cherchez pas vraiment.
+
+1557
+02:04:50,000 --> 02:04:53,400
+Vous ne voulez pas vraiment savoir.
+
+1558
+02:04:56,200 --> 02:04:58,500
+Vous voulez être mystifié.
+
+1559
+02:06:13,700 --> 02:06:17,300
+LE PRESTIGE
+
+1560
+02:10:04,800 --> 02:10:08,300
+LE PRESTIGE
