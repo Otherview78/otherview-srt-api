@@ -1,0 +1,5660 @@
+1
+00:00:48,256 --> 00:00:49,958
+Sur ta gauche.
+
+2
+00:01:00,569 --> 00:01:04,273
+- Sur ta gauche. - Ma gauche, j'ai compris.
+
+3
+00:01:09,579 --> 00:01:10,679
+Arrête, ne le dis pas !
+
+4
+00:01:10,680 --> 00:01:13,083
+- Sur ta gauche. - Oh allez !
+
+5
+00:01:21,392 --> 00:01:22,894
+Besoin d'un docteur ?
+
+6
+00:01:25,496 --> 00:01:28,099
+Il me faut de nouveaux poumons... Mec...
+
+7
+00:01:28,199 --> 00:01:30,801
+Tu viens de courir 30 Km en 30 mn.
+
+8
+00:01:30,802 --> 00:01:32,103
+J'ai commencé tard.
+
+9
+00:01:32,104 --> 00:01:34,705
+Ah oui ? Quelle honte.
+
+10
+00:01:34,706 --> 00:01:36,508
+Je comptais faire un tour de plus.
+
+11
+00:01:37,409 --> 00:01:39,911
+Avoue.. Tu l'as fait en fait ?
+
+12
+00:01:39,912 --> 00:01:42,914
+- Tu es de quelle Division ? - La 58ème des Secouristes de Combat.
+
+13
+00:01:42,915 --> 00:01:44,817
+Maintenant je suis à la Ligue des Vétérans.
+
+14
+00:01:45,318 --> 00:01:47,019
+- Sam Wilson. - Steve Rogers.
+
+15
+00:01:47,020 --> 00:01:48,922
+Je m'en doutais un peu.
+
+16
+00:01:50,123 --> 00:01:53,427
+Difficile de revenir à la maison après tous ces combats.
+
+17
+00:01:53,727 --> 00:01:55,229
+Besoin de s'adapter...
+
+18
+00:01:55,629 --> 00:01:57,031
+Enchanté, Sam.
+
+19
+00:01:57,431 --> 00:01:58,933
+C'est la faute du lit, hein ?
+
+20
+00:01:59,633 --> 00:02:02,335
+- Pardon ? - Tu dors mal, le lit est trop mou.
+
+21
+00:02:02,336 --> 00:02:04,237
+Au front, je dormais à même le sol.
+
+22
+00:02:04,238 --> 00:02:06,340
+Avec un caillou pour oreiller, façon préhistoire.
+
+23
+00:02:06,341 --> 00:02:09,443
+Maintenant... Je dors mal... Mon lit...
+
+24
+00:02:09,444 --> 00:02:10,746
+On dirait de la guimauve.
+
+25
+00:02:10,846 --> 00:02:12,648
+Comme si j'allais m'enfoncer au travers.
+
+26
+00:02:13,749 --> 00:02:14,750
+Parti longtemps ?
+
+27
+00:02:15,351 --> 00:02:16,552
+Deux fois.
+
+28
+00:02:17,253 --> 00:02:19,155
+Tu regrettes la bonne époque ?
+
+29
+00:02:21,157 --> 00:02:22,457
+Non, il y a du mieux...
+
+30
+00:02:22,458 --> 00:02:25,060
+La nourriture est meilleure. Je devais tout faire bouillir.
+
+31
+00:02:25,061 --> 00:02:26,762
+La polio éradiquée, bon point.
+
+32
+00:02:26,763 --> 00:02:27,663
+Et Internet, très pratique.
+
+33
+00:02:27,664 --> 00:02:29,866
+Je lis beaucoup, j'essaie de me mettre à jour.
+
+34
+00:02:31,268 --> 00:02:35,372
+Marvin Gay, 1972, la chanson "Trouble Man".
+
+35
+00:02:35,472 --> 00:02:38,074
+Tout ce que tu as manqué, regroupé sur un album.
+
+36
+00:02:38,075 --> 00:02:39,777
+Je le mets sur ma liste.
+
+37
+00:02:45,984 --> 00:02:47,585
+AVIS DE MISSION EXTRACTION IMMINENTE
+
+38
+00:02:47,586 --> 00:02:50,688
+Désolé Sam, l’appel du devoir. Merci pour la course.
+
+39
+00:02:50,689 --> 00:02:53,391
+- Si tu appelles ça une course. - On se refait ça ?
+
+40
+00:02:53,392 --> 00:02:54,994
+- Entendu. - D’accord.
+
+41
+00:02:56,093 --> 00:02:57,896
+Passe me voir quand tu veux chez les Vétérans,
+
+42
+00:02:57,897 --> 00:03:00,800
+Je pourrais me la péter un peu avec la réceptionniste.
+
+43
+00:03:00,900 --> 00:03:01,800
+Préviens-moi
+
+44
+00:03:01,801 --> 00:03:03,403
+J’y penserai.
+
+45
+00:03:07,607 --> 00:03:09,109
+Salut les gars.
+
+46
+00:03:09,309 --> 00:03:11,310
+Quelle direction pour le Smithsonian ?
+
+47
+00:03:11,311 --> 00:03:13,112
+Je dois récupérer un fossile.
+
+48
+00:03:13,113 --> 00:03:14,214
+Hilarant.
+
+49
+00:03:18,519 --> 00:03:20,521
+- On fait quoi ? - Salut.
+
+50
+00:03:21,322 --> 00:03:22,925
+Courir ne te permet pas d’aller partout.
+
+51
+00:03:23,024 --> 00:03:24,526
+Oui, certes…
+
+52
+00:03:30,232 --> 00:03:31,833
+Océan Indien.
+
+53
+00:03:31,834 --> 00:03:35,336
+Notre objectif est le navire de lancement de satellites, le Lemurian Star.
+
+54
+00:03:35,337 --> 00:03:36,938
+Il préparait le dernier lancement
+
+55
+00:03:36,939 --> 00:03:39,741
+Mais s’est fait attaquer par des pirates il y a 93 mn.
+
+56
+00:03:39,742 --> 00:03:41,443
+- Des revendications ? - 1,5 Milliards de dollars.
+
+57
+00:03:41,444 --> 00:03:43,847
+- Tant que ça ? - On attaque pas le S.H.I.E.L.D. pour rien.
+
+58
+00:03:45,749 --> 00:03:47,650
+Ils croient pouvoir toucher leur argent.
+
+59
+00:03:47,651 --> 00:03:49,251
+Ils doivent avoir leur raison de faire ça.
+
+60
+00:03:49,252 --> 00:03:51,053
+J'en ai marre d'être le minion de Fury
+
+61
+00:03:51,054 --> 00:03:53,256
+Du calme, c'est pas si compliqué.
+
+62
+00:03:53,257 --> 00:03:54,357
+Combien de Pirates ?
+
+63
+00:03:54,358 --> 00:03:57,361
+25 mercenaires entraînés, voici leur Leader.
+
+64
+00:03:57,662 --> 00:03:58,662
+George Batroc.
+
+65
+00:03:58,663 --> 00:04:01,365
+Ancien directeur d'un service de sécurité privé.
+
+66
+00:04:01,366 --> 00:04:03,668
+Recherché activement par Interpol.
+
+67
+00:04:03,968 --> 00:04:07,171
+Il a orchestré et réussi 36 assassinats.
+
+68
+00:04:07,172 --> 00:04:09,173
+Avec beaucoup de dommages collatéraux.
+
+69
+00:04:09,174 --> 00:04:10,274
+Des otages ?
+
+70
+00:04:10,275 --> 00:04:14,179
+Des techniciens et scientifiques. Dont Jasper Sitwell.
+
+71
+00:04:14,180 --> 00:04:15,380
+Localisés dans les cuisines.
+
+72
+00:04:15,381 --> 00:04:17,082
+Sitwell est en charge des installations ?
+
+73
+00:04:17,083 --> 00:04:18,884
+Vérifie ça, je m'occupe de Batroc.
+
+74
+00:04:18,885 --> 00:04:21,086
+Nat, occupe-toi des moteurs et Préviens-moi quand c'est fait.
+
+75
+00:04:21,087 --> 00:04:23,689
+On va vers la proue, On trouve les otages,
+
+76
+00:04:23,690 --> 00:04:25,291
+On les sauve et on évacue.
+
+77
+00:04:25,292 --> 00:04:27,594
+Equipe STRIKE, le Captain a donné ses ordres.
+
+78
+00:04:40,808 --> 00:04:43,110
+- Sécurisez le Canal Sept. - Canal Sept Sécurisé.
+
+79
+00:04:43,111 --> 00:04:45,012
+Tu sors Samedi soir ?
+
+80
+00:04:45,013 --> 00:04:50,218
+Tous mes potes sont morts ou presque, donc non.
+
+81
+00:04:50,219 --> 00:04:52,421
+On arrive, Captain.
+
+82
+00:04:52,721 --> 00:04:56,225
+Si tu lui demandais, Christina des Statistiques accepterait sûrement.
+
+83
+00:04:56,726 --> 00:04:58,288
+C'est pour ça que je ne lui demande pas.
+
+84
+00:04:59,529 --> 00:05:01,431
+Par timidité ou par peur ?
+
+85
+00:05:01,631 --> 00:05:02,732
+Pas le temps !
+
+86
+00:05:04,634 --> 00:05:07,237
+- Il a pris son parachute ? - Non.
+
+87
+00:05:08,138 --> 00:05:09,440
+Pas besoin.
+
+88
+00:07:03,563 --> 00:07:04,564
+On ne bouge pas !
+
+89
+00:07:08,869 --> 00:07:09,869
+Merci.
+
+90
+00:07:09,870 --> 00:07:12,173
+Heureusement que j'étais là, c’est sûr.
+
+91
+00:07:16,477 --> 00:07:18,378
+Et l'infirmière qui habite près de chez toi ?
+
+92
+00:07:18,379 --> 00:07:19,380
+Elle a l'air gentille.
+
+93
+00:07:19,381 --> 00:07:21,182
+Les moteurs d'abord, on me trouvera une copine après.
+
+94
+00:07:21,183 --> 00:07:22,884
+Je peux faire plusieurs choses à la fois.
+
+95
+00:07:24,086 --> 00:07:25,386
+Je l'ai dit à Batroc...
+
+96
+00:07:25,387 --> 00:07:27,088
+S'il veut que le S.H.I.E.L.D. paye...
+
+97
+00:07:27,089 --> 00:07:29,492
+Il faut leur envoyer des cadavres !
+
+98
+00:07:31,394 --> 00:07:33,496
+J'ai une balle dans mon arme...
+
+99
+00:07:34,097 --> 00:07:35,797
+Qui la veut ?
+
+100
+00:07:35,798 --> 00:07:37,901
+Bouge ta jambe. Tu veux la balle ?
+
+101
+00:07:47,311 --> 00:07:48,813
+Je ne suis pas très patient.
+
+102
+00:07:50,414 --> 00:07:51,716
+Appelle Durand.
+
+103
+00:07:52,116 --> 00:07:54,519
+Je veux qu'on soit prêt à évacuer dès que c'est fini.
+
+104
+00:07:54,619 --> 00:07:55,620
+D’accord, Chef.
+
+105
+00:08:01,326 --> 00:08:02,327
+Duval...
+
+106
+00:08:02,627 --> 00:08:04,930
+- Allume le moteur. - D'accord.
+
+107
+00:08:06,832 --> 00:08:07,933
+Bonjour matelot.
+
+108
+00:08:27,555 --> 00:08:28,956
+Faîtes la Paix.
+
+109
+00:08:29,457 --> 00:08:32,160
+Tu fais quoi ? Tu veux jouer au héros ?
+
+110
+00:08:38,166 --> 00:08:40,168
+J'ai trop attendu...
+
+111
+00:08:44,792 --> 00:08:47,275
+Trouve Batroc. Si je n'ai pas de nouvelles dans deux minutes...
+
+112
+00:08:47,276 --> 00:08:50,179
+- Je commence à faire feu. - Je vais le trouver !
+
+113
+00:08:59,089 --> 00:09:00,190
+Deux minutes.
+
+114
+00:09:31,324 --> 00:09:33,626
+Silence Radio du S.H.I.E.L.D., Batroc...
+
+115
+00:09:37,931 --> 00:09:39,533
+Cible détectée.
+
+116
+00:09:39,733 --> 00:09:41,235
+Equipe STRIKE en position.
+
+117
+00:09:41,835 --> 00:09:43,437
+Natasha, tout va bien ?
+
+118
+00:09:45,639 --> 00:09:47,742
+- Natasha ? - Attends !
+
+119
+00:10:03,759 --> 00:10:05,361
+Salle des moteurs sécurisée.
+
+120
+00:10:13,770 --> 00:10:14,971
+Temps écoulé.
+
+121
+00:10:15,872 --> 00:10:17,574
+Qui je tue en premier ?
+
+122
+00:10:19,076 --> 00:10:20,076
+Toi !
+
+123
+00:10:20,077 --> 00:10:21,178
+Attrape-le.
+
+124
+00:10:23,881 --> 00:10:25,082
+A mon signal.
+
+125
+00:10:26,183 --> 00:10:27,584
+Trois...
+
+126
+00:10:27,585 --> 00:10:28,785
+Deux...
+
+127
+00:10:28,786 --> 00:10:29,987
+Un.
+
+128
+00:10:35,493 --> 00:10:38,597
+J'avais prévenu, le S.H.I.E.L.D. ne négocie pas.
+
+129
+00:10:42,301 --> 00:10:43,702
+Contact perdu.
+
+130
+00:10:43,903 --> 00:10:45,705
+Je n'ai pas de réponse..
+
+131
+00:10:58,819 --> 00:11:00,921
+Les otages sont saufs.
+
+132
+00:11:01,922 --> 00:11:04,325
+Romanoff n'est pas au point de rendez-vous Captain.
+
+133
+00:11:04,525 --> 00:11:06,726
+L'ennemi est toujours en mouvement.
+
+134
+00:11:06,727 --> 00:11:09,329
+Natasha, Batroc se déplace.
+
+135
+00:11:09,330 --> 00:11:11,933
+Retourne protéger les otages.
+
+136
+00:11:12,233 --> 00:11:13,435
+Natasha...
+
+137
+00:11:49,874 --> 00:11:52,277
+Je pensais que tu étais plus qu’un simple bouclier…
+
+138
+00:12:05,791 --> 00:12:07,093
+On va voir.
+
+139
+00:12:33,321 --> 00:12:34,723
+C'est bizarre.
+
+140
+00:12:38,127 --> 00:12:39,328
+Mais que fais-tu ?
+
+141
+00:12:39,366 --> 00:12:40,728
+Je copie le contenu du disque dur.
+
+142
+00:12:40,729 --> 00:12:42,431
+Une nouvelle habitude. C’est important.
+
+143
+00:12:42,832 --> 00:12:45,434
+Rumlow a besoin de toi. Tu fais quoi ?
+
+144
+00:12:48,676 --> 00:12:50,239
+Ce sont des documents du S.H.I.E.L.D..
+
+145
+00:12:50,240 --> 00:12:51,540
+Je dois les sauvegarder.
+
+146
+00:12:51,541 --> 00:12:53,042
+Notre mission c'est les otages.
+
+147
+00:12:53,043 --> 00:12:55,445
+Non. C'est ta mission ça...
+
+148
+00:12:57,047 --> 00:12:58,549
+Accomplie avec succès.
+
+149
+00:12:58,649 --> 00:13:00,750
+Tu viens de compromettre toute la mission.
+
+150
+00:13:00,751 --> 00:13:02,853
+Tu en fais pas un peu trop là ?
+
+151
+00:13:20,172 --> 00:13:21,273
+D'accord.
+
+152
+00:13:22,074 --> 00:13:23,576
+C'était mon erreur.
+
+153
+00:13:24,177 --> 00:13:25,478
+En effet.
+
+154
+00:13:40,795 --> 00:13:43,698
+QUARTIER GENERAL DU S.H.I.E.L.D. - TRISKELION
+
+155
+00:13:54,610 --> 00:13:56,611
+Ça vous arrive de dire la vérité ?
+
+156
+00:13:56,612 --> 00:13:59,514
+Je n’ai pas menti, Romanoff avait une mission différente.
+
+157
+00:13:59,515 --> 00:14:01,216
+Et vous n'avez pas pensé qu'il fallait me le dire ?
+
+158
+00:14:01,217 --> 00:14:03,118
+Non, ce n'était pas nécessaire.
+
+159
+00:14:03,119 --> 00:14:04,820
+Des otages auraient pu mourir Nick.
+
+160
+00:14:04,821 --> 00:14:06,722
+J’ai envoyé le plus grand soldat de l’histoire,
+
+161
+00:14:06,723 --> 00:14:08,323
+Pour empêcher ça.
+
+162
+00:14:08,324 --> 00:14:10,726
+C'est la confiance qui unie les Soldats au sein de l'Armée.
+
+163
+00:14:10,727 --> 00:14:12,428
+Pas des gugus armés tirant dans tous les sens.
+
+164
+00:14:12,429 --> 00:14:16,033
+Mon dernier acte de confiance m'a coûté un oeil.
+
+165
+00:14:16,934 --> 00:14:17,934
+Ecoutez…
+
+166
+00:14:17,935 --> 00:14:20,236
+J'avais besoin d'aide sur un sujet épineux.
+
+167
+00:14:20,237 --> 00:14:22,539
+L'Agent Romanoff m'a aidé à le résoudre.
+
+168
+00:14:22,540 --> 00:14:23,940
+Je ne peux pas diriger une mission quand
+
+169
+00:14:23,941 --> 00:14:25,943
+mes pairs ont un objectif différent.
+
+170
+00:14:25,944 --> 00:14:28,646
+Question de sécurité.
+
+171
+00:14:28,647 --> 00:14:31,950
+On ne peut pas répéter un secret qu'on ne connaît pas.
+
+172
+00:14:32,451 --> 00:14:33,752
+Vous si.
+
+173
+00:14:37,456 --> 00:14:38,858
+Vous vous trompez.
+
+174
+00:14:39,458 --> 00:14:40,960
+Je partage des informations.
+
+175
+00:14:41,961 --> 00:14:43,763
+Quand j’en fais le choix.
+
+176
+00:14:45,365 --> 00:14:46,465
+En étant perspicace.
+
+177
+00:14:46,466 --> 00:14:49,168
+Le Captain Rogers n'a pas les autorisations requises.
+
+178
+00:14:49,169 --> 00:14:51,971
+Autorisation manuelle, Directeur Fury, Nicholas J.
+
+179
+00:14:51,972 --> 00:14:53,273
+Accès autorisé.
+
+180
+00:14:55,876 --> 00:14:57,878
+Avant il y avait de la musique d’ambiance.
+
+181
+00:14:58,479 --> 00:14:59,479
+Oui…
+
+182
+00:14:59,480 --> 00:15:02,683
+Mon grand-père a travaillé dans un ascenseur pendant 40 ans.
+
+183
+00:15:03,284 --> 00:15:05,886
+Il était liftier, dans un grand immeuble.
+
+184
+00:15:05,887 --> 00:15:07,688
+Il touchait de bons pourboires.
+
+185
+00:15:07,689 --> 00:15:10,191
+Il mettait sa petite liasse de billets de $1
+
+186
+00:15:10,192 --> 00:15:11,993
+dans sa gamelle.
+
+187
+00:15:11,994 --> 00:15:15,597
+Il aimait saluer tous ses clients et ils le saluaient eux aussi.
+
+188
+00:15:16,098 --> 00:15:19,000
+Mais avec le temps, les gens changent.
+
+189
+00:15:19,001 --> 00:15:22,004
+Il saluait et on lui répondait "laissez-moi tranquille".
+
+190
+00:15:22,405 --> 00:15:25,008
+Il se sentait moins en sécurité.
+
+191
+00:15:25,608 --> 00:15:26,910
+Il s’est fait agresser ?
+
+192
+00:15:28,587 --> 00:15:31,590
+Il y avait toujours quelqu'un pour lui demander ce que contenait sa gamelle.
+
+193
+00:15:31,615 --> 00:15:32,816
+Et il faisait quoi ?
+
+194
+00:15:33,417 --> 00:15:34,618
+Il leur montrait :
+
+195
+00:15:35,319 --> 00:15:39,023
+Une petite liasse de billets et un Magnum .22 chargé.
+
+196
+00:15:42,827 --> 00:15:44,629
+Mon grand père aimait les gens.
+
+197
+00:15:45,530 --> 00:15:47,933
+Mais il ne leur faisait pas pour autant confiance.
+
+198
+00:15:53,639 --> 00:15:55,040
+Je vois…
+
+199
+00:15:55,441 --> 00:15:58,244
+Mais un .22 c’est un peu obsolete maintenant.
+
+200
+00:16:32,080 --> 00:16:34,682
+Voici le projet "Insight".
+
+201
+00:16:34,683 --> 00:16:36,985
+Trois vaisseaux volants de dernière génération.
+
+202
+00:16:36,986 --> 00:16:39,788
+Tous synchronisés à un réseau de satellites désignant leurs cibles.
+
+203
+00:16:39,789 --> 00:16:41,890
+Mis en orbite depuis le Lemurian Star.
+
+204
+00:16:41,891 --> 00:16:44,694
+Une fois dans les airs,
+
+205
+00:16:45,195 --> 00:16:47,296
+ces vaisseaux deviennent autonomes.
+
+206
+00:16:47,297 --> 00:16:50,099
+Grâce à la technologie "Repulsor".
+
+207
+00:16:50,100 --> 00:16:51,101
+Stark ?
+
+208
+00:16:51,301 --> 00:16:55,506
+Il nous a aidé, il trouvait nos anciennes turbines obsolètes.
+
+209
+00:16:56,107 --> 00:16:58,708
+Ces nouveaux canons d’artillerie longue portée
+
+210
+00:16:58,709 --> 00:17:01,111
+peuvent éliminer des milliers de cibles en quelques minutes.
+
+211
+00:17:01,112 --> 00:17:03,113
+Les satellites détectent l'ADN de nos ennemis,
+
+212
+00:17:03,114 --> 00:17:05,817
+Même quand il sont sous-terre.
+
+213
+00:17:06,117 --> 00:17:09,020
+On peut neutraliser des menaces avant leur passage à l'acte.
+
+214
+00:17:09,021 --> 00:17:11,022
+Normalement on puni quand il y a crime.
+
+215
+00:17:11,023 --> 00:17:12,724
+On ne peut plus se le permettre.
+
+216
+00:17:12,725 --> 00:17:13,926
+Qui est “on” ?
+
+217
+00:17:14,426 --> 00:17:16,828
+Après l'invasion de New-York, j'ai convaincu le Conseil de Sécurité Mondial
+
+218
+00:17:16,829 --> 00:17:19,532
+Du besoin de mieux analyser les menaces.
+
+219
+00:17:20,033 --> 00:17:22,535
+Nous sommes maintenant parés.
+
+220
+00:17:22,936 --> 00:17:25,839
+Vous appelez ça de la protection ?
+
+221
+00:17:27,340 --> 00:17:29,041
+J'ai lu les rapports de missions du SSR.
+
+222
+00:17:30,444 --> 00:17:32,045
+Vous les avez lu ?
+
+223
+00:17:32,046 --> 00:17:33,847
+Vous avez fait de terribles choses.
+
+224
+00:17:33,848 --> 00:17:35,849
+J'ai fait des compromis.
+
+225
+00:17:35,850 --> 00:17:38,351
+Des compromis qui m'empêchent souvent de dormir.
+
+226
+00:17:38,352 --> 00:17:40,754
+Mais je l'ai fait pour le bien et la liberté de tous.
+
+227
+00:17:40,755 --> 00:17:43,157
+Ce n'est pas de la liberté mais de la peur.
+
+228
+00:17:43,158 --> 00:17:46,761
+Le S.H.I.E.L.D. n'idéalise pas le monde, il le prend tel qu'il est.
+
+229
+00:17:46,762 --> 00:17:50,766
+Il est temps d'en prendre conscience Captain.
+
+230
+00:17:51,867 --> 00:17:53,369
+Ne comptez pas trop sur ce système.
+
+231
+00:18:04,281 --> 00:18:06,683
+THE SPIRIT OF SAINT LOUIS
+
+232
+00:18:12,189 --> 00:18:14,591
+Bienvenue au Smithsonian.
+
+233
+00:18:14,592 --> 00:18:18,196
+Les renseignements sont disponibles au second étage.
+
+234
+00:18:24,642 --> 00:18:27,004
+"Bon retour parmi nous, Captain." President Matthew Ellis.
+
+235
+00:18:27,005 --> 00:18:29,308
+Un symbole pour la nation.
+
+236
+00:18:30,309 --> 00:18:32,311
+Un héros connu de par le monde.
+
+237
+00:18:33,612 --> 00:18:35,413
+L'histoire de Captain American.
+
+238
+00:18:35,414 --> 00:18:39,719
+Une histoire d'honneur, de bravoure et de sacrifices.
+
+239
+00:18:44,024 --> 00:18:46,926
+Ayant de nombreux problèmes de santé,
+
+240
+00:18:46,927 --> 00:18:49,228
+Steven Rogers a été sélectionné pour un programme
+
+241
+00:18:49,229 --> 00:18:52,833
+unique dans l'histoire Américaine.
+
+242
+00:18:53,434 --> 00:18:58,539
+Ce programme a fait de lui le premier "Super Soldat" du Monde.
+
+243
+00:19:05,147 --> 00:19:08,649
+Dans cette video, nous pouvons voir notre héros, Captain America,
+
+244
+00:19:08,650 --> 00:19:10,451
+En plein entraînement...
+
+245
+00:19:10,452 --> 00:19:15,258
+Captain America et son équipe se sont distingués.
+
+246
+00:19:15,458 --> 00:19:16,558
+Leur mission...
+
+247
+00:19:16,559 --> 00:19:20,463
+Détruire HYDRA, l’impitoyable Division Nazi de recherche avancée.
+
+248
+00:19:23,567 --> 00:19:25,969
+Meilleurs amis d'enfance,
+
+249
+00:19:26,470 --> 00:19:29,973
+Bucky Barnes et Steven Rogers étaient inséparables,
+
+250
+00:19:29,974 --> 00:19:32,476
+Depuis la cours de récré jusqu’au champ de bataille.
+
+251
+00:19:33,277 --> 00:19:37,282
+Barnes est le seul officier de l’unité à avoir donné sa vie
+
+252
+00:19:37,782 --> 00:19:39,984
+pour son pays.
+
+253
+00:19:45,290 --> 00:19:47,291
+Ce fut un Hiver très difficile.
+
+254
+00:19:47,292 --> 00:19:50,896
+Derrière les lignes Allemandes c'était le chaos.
+
+255
+00:19:51,397 --> 00:19:54,599
+Steve, Le Captain Rogers
+
+256
+00:19:54,600 --> 00:19:57,402
+a tout fait pour arrêter HYDRA.
+
+257
+00:19:57,403 --> 00:20:00,206
+C'était un adversaire coriace.
+
+258
+00:20:01,708 --> 00:20:03,810
+Le Captain a pu sauver plus de mille prisonniers,
+
+259
+00:20:04,311 --> 00:20:06,613
+dont l'homme...
+
+260
+00:20:07,414 --> 00:20:10,317
+Qui est devenu mon mari.
+
+261
+00:20:11,118 --> 00:20:14,222
+Steve a véritablement changé ma vie.
+
+262
+00:20:17,025 --> 00:20:18,827
+Tu peux être fière de toi Peggy.
+
+263
+00:20:26,835 --> 00:20:28,938
+J’ai vécu ma vie.
+
+264
+00:20:37,647 --> 00:20:39,049
+Qu’y a-t-il ?
+
+265
+00:20:41,251 --> 00:20:44,655
+Aussi loin que je me souvienne, j’ai toujours voulu faire ce qui était juste.
+
+266
+00:20:45,756 --> 00:20:48,459
+Mais ça n’a plus d’importance.
+
+267
+00:20:51,162 --> 00:20:54,565
+Tout a changé…
+
+268
+00:21:00,272 --> 00:21:01,773
+Et j’ai changé.
+
+269
+00:21:03,475 --> 00:21:05,477
+Ce que tu es dramatique.
+
+270
+00:21:07,680 --> 00:21:11,384
+Tu as sauvé le monde, rien que ça.
+
+271
+00:21:13,686 --> 00:21:14,887
+C’est dur…
+
+272
+00:21:16,489 --> 00:21:19,092
+- …A réaliser. - C’est la vérité.
+
+273
+00:21:19,693 --> 00:21:22,796
+Toi seul pouvais y arriver.
+
+274
+00:21:28,202 --> 00:21:29,704
+Le monde a changé.
+
+275
+00:21:31,005 --> 00:21:32,907
+Pas de retour en arrière possible.
+
+276
+00:21:33,608 --> 00:21:35,709
+Il faut faire au mieux.
+
+277
+00:21:35,710 --> 00:21:38,212
+Et parfois le mieux c’est…
+
+278
+00:21:38,213 --> 00:21:40,615
+De se rappeler comment tout est arrivé.
+
+279
+00:21:47,623 --> 00:21:49,125
+Peggy.
+
+280
+00:21:59,236 --> 00:22:00,337
+Tu étais en vie.
+
+281
+00:22:01,338 --> 00:22:05,743
+- Tu es revenu… - Oui, Peggy.
+
+282
+00:22:08,846 --> 00:22:11,549
+Il y a si longtemps.
+
+283
+00:22:13,851 --> 00:22:15,153
+Si longtemps...
+
+284
+00:22:16,054 --> 00:22:18,456
+Je ne pouvais pas abandonner mon coup de foudre.
+
+285
+00:22:18,857 --> 00:22:20,859
+Je te dois toujours une danse.
+
+286
+00:22:27,066 --> 00:22:28,367
+Bloquage de la pièce.
+
+287
+00:22:36,076 --> 00:22:39,179
+Ouverture des dossiers de lancement des satellites du Lemurian Star.
+
+288
+00:22:40,080 --> 00:22:41,882
+Accès refusé.
+
+289
+00:22:42,783 --> 00:22:44,084
+Décryptage.
+
+290
+00:22:46,086 --> 00:22:47,888
+Echec du décryptage.
+
+291
+00:22:48,189 --> 00:22:51,092
+Contrôle manuel du Directeur Fury, Nicholas J.
+
+292
+00:22:52,894 --> 00:22:55,996
+Contrôle manuel refusé, tous les fichiers sont protégés.
+
+293
+00:22:55,997 --> 00:23:00,102
+- Sur ordre de qui ? - Fury, Nicholas J.
+
+294
+00:23:05,608 --> 00:23:08,411
+- Conseil de Sécurité du Monde. - Confirmé.
+
+295
+00:23:10,432 --> 00:23:13,315
+Si Nick Fury s’imagine qu’il suffit d’envoyer sa bande de voyous déguisés
+
+296
+00:23:13,316 --> 00:23:16,719
+Et l’équipe STRIKE pour faire le ménage.. Grossière erreur.
+
+297
+00:23:16,720 --> 00:23:18,020
+Cette attaque est inacceptable.
+
+298
+00:23:18,021 --> 00:23:19,923
+Elle s'est déroulée à seulement
+
+299
+00:23:20,023 --> 00:23:22,925
+1,6 Km de mes eaux territoriales, rien que ça.
+
+300
+00:23:22,926 --> 00:23:24,327
+Je demande une réunion.
+
+301
+00:23:24,328 --> 00:23:26,329
+Une réunion ne suffit pas, il faut agir.
+
+302
+00:23:26,330 --> 00:23:28,932
+Le Conseil supervise le S.H.I.E.L.D.
+
+303
+00:23:28,933 --> 00:23:31,034
+Une attaque de ce calibre soulève plusieurs questions.
+
+304
+00:23:31,035 --> 00:23:32,836
+Comment des pirates Français
+
+305
+00:23:32,837 --> 00:23:36,941
+ont réussi à envahir un navire du S.H.I.E.L.D.
+
+306
+00:23:36,942 --> 00:23:39,244
+En réalité, les pirates étaient Algériens, Conseiller.
+
+307
+00:23:39,463 --> 00:23:41,546
+Je peux vous montrer sur une carte si vous le voulez.
+
+308
+00:23:41,547 --> 00:23:44,750
+Très amusant Secrétaire Pierce,
+
+309
+00:23:45,048 --> 00:23:47,252
+mais le conseil ne plaisante pas avec ce genre d’attaque
+
+310
+00:23:47,253 --> 00:23:48,854
+Contre ses infrastructures.
+
+311
+00:23:48,855 --> 00:23:52,559
+Mais moi non plus.
+
+312
+00:23:53,560 --> 00:23:56,062
+Je me préoccupe surtout de la flotte, et pas d'un seul navire.
+
+313
+00:23:57,064 --> 00:23:59,966
+Si vous voulez une revanche,
+
+314
+00:23:59,967 --> 00:24:02,569
+pour cette attaque, peut être
+
+315
+00:24:03,871 --> 00:24:05,573
+faudrait-il quelqu'un pour la superviser.
+
+316
+00:24:05,673 --> 00:24:08,876
+Mr. le Secrétaire, vous suggérez que...
+
+317
+00:24:12,781 --> 00:24:13,781
+Excusez-moi.
+
+318
+00:24:13,782 --> 00:24:17,586
+- Un problème Mr. le Secrétaire ? - Il se pourrait bien.
+
+319
+00:24:25,714 --> 00:24:28,997
+Ces 40 étages sont tous connectés et il vous faut vous déplacer pour me contacter ?
+
+320
+00:24:28,998 --> 00:24:31,601
+Même une guerre nucléaire ne m'arrêterait pas.
+
+321
+00:24:32,502 --> 00:24:34,003
+Vous êtes occupé ?
+
+322
+00:24:34,004 --> 00:24:35,906
+Rien de trop grave, ce sera bientôt résolu.
+
+323
+00:24:37,407 --> 00:24:41,511
+J'ai une requête à vous soumettre.
+
+324
+00:24:41,512 --> 00:24:43,513
+Je demande un vote.
+
+325
+00:24:43,514 --> 00:24:45,816
+Le Projet "Insight" doit être retardé.
+
+326
+00:24:46,217 --> 00:24:48,418
+Nick, ce n'est pas une faveur.
+
+327
+00:24:48,419 --> 00:24:50,120
+C’est une véritable crise que vous nous soumettez.
+
+328
+00:24:50,121 --> 00:24:52,122
+Ce n'est surement rien mais...
+
+329
+00:24:52,123 --> 00:24:54,925
+Je dois en être certain.
+
+330
+00:24:54,926 --> 00:24:56,027
+Il y a un soucis ?
+
+331
+00:24:56,028 --> 00:24:59,531
+Ne vous inquiétez pas, les vaisseaux ne volent pas encore.
+
+332
+00:25:01,433 --> 00:25:02,434
+C’est sûr.
+
+333
+00:25:02,735 --> 00:25:06,539
+Mais n'oubliez pas que vous m'avez promis Iron Man à l'anniversaire de ma nièce.
+
+334
+00:25:06,739 --> 00:25:07,840
+Merci monsieur.
+
+335
+00:25:08,341 --> 00:25:11,244
+Et pas en coup de vent, une vraie animation hein.
+
+336
+00:25:14,247 --> 00:25:15,648
+Je pense que...
+
+337
+00:25:15,649 --> 00:25:17,351
+C'est assez sérieux.
+
+338
+00:25:18,952 --> 00:25:21,154
+Un policier m'a arrêté au volant la semaine dernière.
+
+339
+00:25:21,155 --> 00:25:22,857
+J'avais un peu bu.
+
+340
+00:25:23,858 --> 00:25:27,562
+J’ai quitté la route pour éviter un sac plastique.
+
+341
+00:25:28,963 --> 00:25:30,665
+J'ai cru que c'était un explosif.
+
+342
+00:25:32,667 --> 00:25:34,770
+Une partie de nous reste au front.
+
+343
+00:25:34,870 --> 00:25:36,972
+Mais une partie du front revient avec nous.
+
+344
+00:25:37,172 --> 00:25:40,174
+C'est à nous d'apprendre à vivre avec.
+
+345
+00:25:40,175 --> 00:25:44,881
+Et pas à dépendre d'elle.
+
+346
+00:25:45,681 --> 00:25:46,883
+Tout est dans le mental.
+
+347
+00:25:47,984 --> 00:25:49,686
+- A la semaine prochaine. - D’accord.
+
+348
+00:25:51,287 --> 00:25:53,990
+Tiens qui voilà, l’homme fusée.
+
+349
+00:25:54,391 --> 00:25:56,994
+J'ai entendu la fin du discours, c'était fort.
+
+350
+00:25:57,094 --> 00:26:00,297
+Tous les vétérans ont le même soucis.
+
+351
+00:26:00,698 --> 00:26:01,799
+La culpabilité.
+
+352
+00:26:02,299 --> 00:26:03,701
+L’envie de se racheter.
+
+353
+00:26:04,101 --> 00:26:05,503
+Tu as perdu quelqu'un ?
+
+354
+00:26:06,304 --> 00:26:09,107
+Mon copilote, Riley.
+
+355
+00:26:09,707 --> 00:26:11,208
+Pendant un vol de nuit.
+
+356
+00:26:11,209 --> 00:26:13,611
+Une mission classique de sauvetage.
+
+357
+00:26:13,612 --> 00:26:15,913
+Le genre qu'on avait fait mille fois.
+
+358
+00:26:15,914 --> 00:26:19,218
+Mais on ne s'attendait pas à la roquette qui a tué Riley.
+
+359
+00:26:21,520 --> 00:26:23,022
+Je n’ai rien pu faire.
+
+360
+00:26:23,522 --> 00:26:25,625
+J’ai tout vu, en simple spectateur.
+
+361
+00:26:26,626 --> 00:26:28,827
+- Désolé. - Depuis,
+
+362
+00:26:28,828 --> 00:26:32,332
+je réalise que c'est une chance de vivre.
+
+363
+00:26:34,234 --> 00:26:37,236
+La vie civile te satisfait ?
+
+364
+00:26:37,237 --> 00:26:41,541
+Je ne reçois d'ordres de personnes.
+
+365
+00:26:41,542 --> 00:26:42,643
+Donc, ouais !
+
+366
+00:26:43,644 --> 00:26:45,146
+Tu as envie d'arrêter parfois ?
+
+367
+00:26:45,646 --> 00:26:46,648
+Non.
+
+368
+00:26:48,450 --> 00:26:49,751
+Enfin..
+
+369
+00:26:51,253 --> 00:26:54,156
+Sans ça ma vie serait vide.
+
+370
+00:26:54,556 --> 00:26:56,057
+Apprends les Arts Martiaux ?
+
+371
+00:26:56,058 --> 00:26:58,560
+Juste une idée de génie que je viens d'avoir.
+
+372
+00:26:58,561 --> 00:27:01,364
+Tu pourrais faire ce que tu veux.
+
+373
+00:27:02,265 --> 00:27:03,666
+Tu es heureux comme tu es ?
+
+374
+00:27:04,967 --> 00:27:06,169
+Je ne sais pas.
+
+375
+00:27:08,071 --> 00:27:11,073
+Activation de la ligné sécurisée.
+
+376
+00:27:11,074 --> 00:27:15,379
+- Ouvre la ligne 0405. - Confirmé.
+
+377
+00:27:16,680 --> 00:27:19,482
+- Ici Hill. - J'ai besoin de vous à Washington.
+
+378
+00:27:19,483 --> 00:27:22,486
+Situation d'urgence.
+
+379
+00:27:22,887 --> 00:27:25,690
+- Je suis là dans 4 heures. - Je vous en laisse 3, faîtes vite.
+
+380
+00:27:42,008 --> 00:27:43,710
+Tu veux voir mon permis ?
+
+381
+00:28:01,429 --> 00:28:03,131
+Fracture détectée.
+
+382
+00:28:05,934 --> 00:28:08,436
+Injection de morphine recommandée.
+
+383
+00:28:13,041 --> 00:28:14,742
+Contact de la Police de Washington.
+
+384
+00:28:14,743 --> 00:28:17,046
+Aucune unité localisée à proximité.
+
+385
+00:28:21,751 --> 00:28:23,152
+Sors-moi de là !
+
+386
+00:28:25,555 --> 00:28:27,156
+Système de propulsion désactivé.
+
+387
+00:28:27,157 --> 00:28:28,458
+Ben réactive-le bon sang !
+
+388
+00:28:29,559 --> 00:28:31,361
+Intégrité du blindage : 87%.
+
+389
+00:28:48,580 --> 00:28:50,781
+Intégrité de la vitre compromise.
+
+390
+00:28:50,782 --> 00:28:51,884
+Non, tu crois ?
+
+391
+00:28:55,287 --> 00:28:57,990
+- On repart quand ? - Calcul.
+
+392
+00:29:00,793 --> 00:29:04,096
+Intégrité de la vitre : 31% Contre-attaque amorcée.
+
+393
+00:29:04,097 --> 00:29:05,398
+Annulation de la commande.
+
+394
+00:29:07,100 --> 00:29:10,503
+Intégrité de la vitre : 19% Contre-attaque suggérée.
+
+395
+00:29:10,504 --> 00:29:11,505
+Attends !
+
+396
+00:29:14,909 --> 00:29:17,912
+- Intégrité de la vitre : 1%. - Maintenant !
+
+397
+00:29:28,323 --> 00:29:30,224
+Système de propulsion réactivé.
+
+398
+00:29:30,225 --> 00:29:32,127
+Accélération maximale !
+
+399
+00:29:47,444 --> 00:29:48,844
+Initiation du décollage vertical !
+
+400
+00:29:48,845 --> 00:29:52,249
+- Systèmes de vol hors-service. - Active la caméra de recul.
+
+401
+00:29:55,953 --> 00:29:56,954
+Pilotage manuel activé !
+
+402
+00:30:04,162 --> 00:30:05,562
+Appelle l'Agent Hill.
+
+403
+00:30:05,563 --> 00:30:07,365
+Communications hors-service.
+
+404
+00:30:07,466 --> 00:30:08,666
+Mais qu'est-ce qui marche encore ?
+
+405
+00:30:08,667 --> 00:30:11,470
+Climatisation opérationnelle.
+
+406
+00:30:22,600 --> 00:30:24,883
+- Traffic détecté devant. - Donne-moi un autre itinéraire.
+
+407
+00:30:24,884 --> 00:30:26,685
+Alerte de Traffic sur le pont Roosevelt.
+
+408
+00:30:26,686 --> 00:30:28,187
+Véhicules arrêtés.
+
+409
+00:30:28,188 --> 00:30:32,393
+17ème rue dégagée et accessible.
+
+410
+00:32:07,996 --> 00:32:09,898
+Arrivée à l'intersection.
+
+411
+00:32:18,107 --> 00:32:20,509
+Dégage-moi de là !
+
+412
+00:32:20,510 --> 00:32:23,113
+Calcul de l'itinéraire pour : Endroit sûr.
+
+413
+00:33:37,093 --> 00:33:38,494
+Oh que c'est gentil.
+
+414
+00:33:38,495 --> 00:33:39,896
+J'apprécie.
+
+415
+00:33:41,097 --> 00:33:42,198
+Salut.
+
+416
+00:33:42,199 --> 00:33:43,700
+Je dois y aller.
+
+417
+00:33:44,201 --> 00:33:45,202
+Hé bien, Bonjour.
+
+418
+00:33:46,503 --> 00:33:48,505
+Ma tante fait de l'insomnie.
+
+419
+00:33:52,810 --> 00:33:56,113
+Si tu veux tu peux utiliser ma machine.
+
+420
+00:33:56,114 --> 00:33:58,116
+Ce sera moins cher que celle de l’immeuble.
+
+421
+00:33:58,616 --> 00:34:00,619
+Ah oui ? Combien ça me coûterait ?
+
+422
+00:34:01,019 --> 00:34:02,220
+Un café ?
+
+423
+00:34:05,924 --> 00:34:07,626
+Merci, mais...
+
+424
+00:34:07,927 --> 00:34:09,928
+J’ai déjà lance une machine en bas,
+
+425
+00:34:09,929 --> 00:34:12,731
+et je préfèrerai aussi t'éviter des germes dans ton linge.
+
+426
+00:34:12,732 --> 00:34:16,535
+J'ai passé la semaine au service des maladies infectieuses.
+
+427
+00:34:16,536 --> 00:34:18,437
+Je m'éloigne alors.
+
+428
+00:34:18,438 --> 00:34:20,040
+Pas trop quand même.
+
+429
+00:34:22,242 --> 00:34:24,645
+Je crois que tu as laissé ta stéréo allumée.
+
+430
+00:34:25,646 --> 00:34:27,448
+Ah mince, merci.
+
+431
+00:35:13,898 --> 00:35:15,900
+Je ne pensais pas vous avoir donné de clef.
+
+432
+00:35:17,402 --> 00:35:19,604
+Ah, et ça m'arrêterait ?
+
+433
+00:35:21,506 --> 00:35:23,909
+Demandez à mon ex-femme.
+
+434
+00:35:24,910 --> 00:35:26,512
+Vous étiez marié ?
+
+435
+00:35:27,813 --> 00:35:30,316
+Vous ne me connaissez pas très bien.
+
+436
+00:35:30,716 --> 00:35:33,219
+Je sais Nick, c'est bien le problème.
+
+437
+00:35:42,729 --> 00:35:45,332
+Les murs ont des oreilles.
+
+438
+00:35:47,234 --> 00:35:48,735
+Désolé de m'être introduit,
+
+439
+00:35:48,736 --> 00:35:51,239
+mais je ne savais pas où aller.
+
+440
+00:35:53,942 --> 00:35:56,044
+Le S.H.I.E.L.D. est compromis.
+
+441
+00:35:57,846 --> 00:35:59,648
+Qui sait pour votre femme ?
+
+442
+00:36:01,850 --> 00:36:02,850
+Juste...
+
+443
+00:36:02,851 --> 00:36:04,653
+Vous et moi.
+
+444
+00:36:05,554 --> 00:36:07,656
+...mes amis.
+
+445
+00:36:07,657 --> 00:36:09,058
+Vous pensez que nous le sommes ?
+
+446
+00:36:09,959 --> 00:36:11,561
+Tout dépend de vous.
+
+447
+00:36:29,781 --> 00:36:30,882
+Ne faîtes...
+
+448
+00:36:31,482 --> 00:36:32,482
+Confiance à…
+
+449
+00:36:32,483 --> 00:36:33,985
+Personne.
+
+450
+00:36:36,488 --> 00:36:37,689
+Captain Rogers ?
+
+451
+00:36:39,591 --> 00:36:40,792
+Captain...
+
+452
+00:36:40,793 --> 00:36:43,295
+Je suis l’agent 13 des Forces Spéciales du S.H.I.E.L.D.
+
+453
+00:36:43,796 --> 00:36:44,797
+Kate ?
+
+454
+00:36:45,698 --> 00:36:48,401
+- Je suis ici pour vous protéger. - Sur ordre de qui ?
+
+455
+00:36:50,003 --> 00:36:51,004
+Lui.
+
+456
+00:36:55,809 --> 00:36:58,311
+Foxtrot à terre, pas de réponse, ambulance requise.
+
+457
+00:36:58,312 --> 00:36:59,713
+Visuel sur le tireur ?
+
+458
+00:37:01,315 --> 00:37:02,716
+Dîtes-leur de continuer.
+
+459
+00:38:02,782 --> 00:38:05,685
+- Il va s'en remettre ? - Je ne sais pas.
+
+460
+00:38:06,986 --> 00:38:08,787
+J'ai aperçu le tireur.
+
+461
+00:38:08,788 --> 00:38:11,291
+Il était rapide… et très fort.
+
+462
+00:38:13,693 --> 00:38:15,195
+Et il a un bras en métal.
+
+463
+00:38:20,501 --> 00:38:21,802
+Examen Ballistique ?
+
+464
+00:38:22,203 --> 00:38:26,006
+Trois balles. De calibre particulier.
+
+465
+00:38:26,007 --> 00:38:27,608
+Fabrication Soviétique.
+
+466
+00:38:28,309 --> 00:38:29,310
+D'accord.
+
+467
+00:38:30,111 --> 00:38:31,311
+Il fait de la tachycardie.
+
+468
+00:38:31,312 --> 00:38:33,614
+- Besoin du défibrillateur. - Infirmière, venez m'aider.
+
+469
+00:38:33,615 --> 00:38:35,137
+- Le pouls diminue ! - Défibrillateur !
+
+470
+00:38:37,719 --> 00:38:39,420
+Chargez à 100.
+
+471
+00:38:39,421 --> 00:38:40,822
+Restez avec nous Nick.
+
+472
+00:38:40,823 --> 00:38:41,824
+Allez !
+
+473
+00:38:41,924 --> 00:38:45,127
+Trois, Deux, Un. Go !
+
+474
+00:38:46,529 --> 00:38:48,130
+- Un pouls ? - Non, pas de pouls.
+
+475
+00:38:48,131 --> 00:38:50,532
+Chargez à 200.
+
+476
+00:38:50,533 --> 00:38:53,435
+Trois, deux, un. Go !
+
+477
+00:38:53,436 --> 00:38:55,038
+Seringue d'épinéphrine !
+
+478
+00:38:55,639 --> 00:38:57,941
+- Un pouls ? - Négatif.
+
+479
+00:38:59,743 --> 00:39:02,246
+Ne faîtes pas ça Nick. Ne faîtes pas ça.
+
+480
+00:39:22,668 --> 00:39:25,271
+- Heure ? - 1h03, Docteur.
+
+481
+00:39:27,173 --> 00:39:29,976
+Heure de décès, 1h03 du matin.
+
+482
+00:40:07,116 --> 00:40:08,418
+J'ai besoin d'air.
+
+483
+00:40:23,234 --> 00:40:24,235
+Natasha.
+
+484
+00:40:37,750 --> 00:40:38,751
+Natasha !
+
+485
+00:40:40,252 --> 00:40:42,054
+Pourquoi Fury était dans ton appartement ?
+
+486
+00:40:43,756 --> 00:40:44,756
+Je ne sais pas.
+
+487
+00:40:44,757 --> 00:40:47,060
+Captain, je dois vous escorter au S.H.I.E.L.D.
+
+488
+00:40:47,260 --> 00:40:49,563
+- D'accord, un instant. - Maintenant Monsieur.
+
+489
+00:40:50,864 --> 00:40:51,965
+J’arrive.
+
+490
+00:40:54,968 --> 00:40:56,870
+Tu mens très mal.
+
+491
+00:41:03,177 --> 00:41:06,080
+Equipe STRIKE, escorte de Rogers au S.H.I.E.L.D.
+
+492
+00:41:07,582 --> 00:41:08,783
+Je l'ai dit.
+
+493
+00:41:16,091 --> 00:41:17,493
+- En avant - Oui.
+
+494
+00:41:19,295 --> 00:41:20,696
+Equipe STRIKE, en mouvement.
+
+495
+00:41:41,419 --> 00:41:42,520
+Captain.
+
+496
+00:41:42,920 --> 00:41:44,321
+Alexander Pierce.
+
+497
+00:41:44,322 --> 00:41:45,923
+Monsieur, c'est un honneur.
+
+498
+00:41:45,924 --> 00:41:47,324
+Tout l'honneur est pour moi Captain.
+
+499
+00:41:47,325 --> 00:41:50,028
+Mon père a servi dans la 101ème. Venez.
+
+500
+00:41:51,029 --> 00:41:53,731
+Voici une photo prise il y a 5 ans après ma rencontre avec Nick.
+
+501
+00:41:53,732 --> 00:41:56,235
+Je travaillais à l'ambassade Américaine de Bogota.
+
+502
+00:41:56,335 --> 00:41:59,237
+Des rebelles ont attaqué l'ambassade.
+
+503
+00:41:59,238 --> 00:42:01,440
+J'ai été évacué,
+
+504
+00:42:01,441 --> 00:42:03,942
+mais des collègues ont été pris en otage.
+
+505
+00:42:03,943 --> 00:42:06,845
+Nick était le directeur de la branche locale du S.H.I.E.L.D.
+
+506
+00:42:06,846 --> 00:42:08,747
+Il m'a proposé une solution.
+
+507
+00:42:08,748 --> 00:42:10,750
+De rentrer dans le bâtiment par les égouts.
+
+508
+00:42:10,751 --> 00:42:13,954
+Je lui ai dit "Non, on va négocier."
+
+509
+00:42:14,033 --> 00:42:16,156
+En fin de compte, la négociation n’était pas possible,
+
+510
+00:42:16,157 --> 00:42:17,918
+Alors j’ai donné l’ordre de lancer l’assaut.
+
+511
+00:42:18,159 --> 00:42:19,659
+Le bâtiment a été pris d’assaut.
+
+512
+00:42:19,660 --> 00:42:22,163
+Et qu'ont-ils trouvé en rentrant dedans ? Rien, vide.
+
+513
+00:42:23,164 --> 00:42:25,065
+Nick avait ignoré mes ordres.
+
+514
+00:42:25,066 --> 00:42:28,970
+Il avait lancé une opération, non-autorisé.
+
+515
+00:42:29,371 --> 00:42:31,973
+Et a sauvé la vie d'une dizaine de personnes politiques.
+
+516
+00:42:31,974 --> 00:42:34,576
+- Dont la mienne et celle de ma fille. - Et vous l’avez donc promu.
+
+517
+00:42:34,577 --> 00:42:36,879
+Et ne l'ai jamais regretté.
+
+518
+00:42:38,381 --> 00:42:41,084
+Captain, pourquoi Nick était-il chez vous hier soir ?
+
+519
+00:42:44,688 --> 00:42:45,889
+Aucune idée.
+
+520
+00:42:47,190 --> 00:42:48,792
+Vous saviez qu'il était sur écoute ?
+
+521
+00:42:49,393 --> 00:42:51,995
+Nick s'en doutait.
+
+522
+00:42:52,196 --> 00:42:54,598
+Et vous n'êtes pas intervenu ?
+
+523
+00:43:01,406 --> 00:43:02,807
+Je vais vous montrer quelque chose.
+
+524
+00:43:03,508 --> 00:43:05,110
+Qui t’a engagé Batroc ?
+
+525
+00:43:05,410 --> 00:43:06,410
+C'est en direct ?
+
+526
+00:43:06,411 --> 00:43:10,516
+Oui, hier il s'est fait arrêter en Algérie.
+
+527
+00:43:11,016 --> 00:43:14,419
+C’est un peu suspect cette arrestation. Batroc a très bien pu organiser tout ça.
+
+528
+00:43:14,420 --> 00:43:16,622
+C'est plus compliqué que ça.
+
+529
+00:43:16,722 --> 00:43:19,625
+Batroc a été recruté pour attaquer le Lemurian Star.
+
+530
+00:43:19,826 --> 00:43:23,229
+Il a été contacté par e-mail puis payé par virement bancaire.
+
+531
+00:43:24,030 --> 00:43:28,435
+L'argent a transité par 17 faux comptes.
+
+532
+00:43:28,635 --> 00:43:31,237
+Le dernier était au nom d'une Société.
+
+533
+00:43:31,238 --> 00:43:33,140
+Détenue par Jacob Veech.
+
+534
+00:43:33,230 --> 00:43:34,584
+Il est supposé être connu ?
+
+535
+00:43:34,585 --> 00:43:36,743
+Pas vraiment. Il est mort il y a six ans.
+
+536
+00:43:36,744 --> 00:43:40,048
+Dernière adresse connue : Elmhurts Drive 1435.
+
+537
+00:43:40,548 --> 00:43:43,952
+Lors de notre rencontre, la mère de Nick vivait au 1437.
+
+538
+00:43:45,353 --> 00:43:49,156
+Fury aurait recruté des pirates ? Pourquoi ?
+
+539
+00:43:49,157 --> 00:43:51,060
+Ma théorie est la suivante,
+
+540
+00:43:52,061 --> 00:43:56,464
+C'était une diversion, pendant laquelle il a
+
+541
+00:43:56,465 --> 00:43:58,308
+essayé de vendre des renseignements classifiés.
+
+542
+00:43:59,168 --> 00:44:02,272
+A La vente a été interrompue ce qui a entraîné la mise à mort de Nick.
+
+543
+00:44:05,175 --> 00:44:08,178
+Si vous connaissiez vraiment Nick, vous sauriez que c'est impossible.
+
+544
+00:44:15,086 --> 00:44:17,487
+Je fais partie du Conseil pas par choix,
+
+545
+00:44:17,488 --> 00:44:19,389
+c'est Nick qui me l'a demandé,
+
+546
+00:44:19,390 --> 00:44:21,493
+parce que nous étions réalistes.
+
+547
+00:44:22,894 --> 00:44:27,099
+Nous savions que la diplomatie a ses limites,
+
+548
+00:44:28,100 --> 00:44:30,302
+que pour construire un monde meilleur
+
+549
+00:44:31,103 --> 00:44:34,106
+il faut parfois détruire l'ancien.
+
+550
+00:44:36,509 --> 00:44:38,211
+Ainsi on se fait des ennemis.
+
+551
+00:44:40,413 --> 00:44:42,114
+Ils peuvent vous faire douter,
+
+552
+00:44:42,115 --> 00:44:43,115
+vous faire culpabiliser,
+
+553
+00:44:43,116 --> 00:44:46,320
+d'avoir eu le courage de faire ce qui était nécessaire.
+
+554
+00:44:47,321 --> 00:44:49,723
+Et l'idée que ces ennemis sont aujourd'hui satisfaits…
+
+555
+00:44:51,625 --> 00:44:54,228
+Je ne l'accepte pas.
+
+556
+00:44:58,332 --> 00:45:00,334
+Captain, vous êtes le dernier à avoir parlé à Nick.
+
+557
+00:45:00,335 --> 00:45:02,337
+Je ne crois pas aux coïncidences..
+
+558
+00:45:02,938 --> 00:45:04,940
+Et je me doute que vous non plus.
+
+559
+00:45:06,842 --> 00:45:08,544
+Alors j'insiste.
+
+560
+00:45:09,144 --> 00:45:10,546
+Pourquoi était-il chez vous ?
+
+561
+00:45:13,749 --> 00:45:15,651
+Il m'a dit de ne faire confiance à personne.
+
+562
+00:45:18,154 --> 00:45:20,657
+Peut-être que ça le concernait lui aussi.
+
+563
+00:45:25,262 --> 00:45:26,463
+Désolé.
+
+564
+00:45:26,864 --> 00:45:28,465
+Ce sont ses derniers mots.
+
+565
+00:45:29,767 --> 00:45:30,968
+Excusez-moi.
+
+566
+00:45:34,272 --> 00:45:35,273
+Captain,
+
+567
+00:45:35,973 --> 00:45:39,177
+Mon ami est mort, et je vais découvrir qui l'a tué.
+
+568
+00:45:40,078 --> 00:45:42,681
+Quiconque m'en empêchera le regrettera…
+
+569
+00:45:43,882 --> 00:45:44,883
+Quiconque.
+
+570
+00:45:48,087 --> 00:45:49,388
+Compris.
+
+571
+00:46:07,007 --> 00:46:10,511
+- Etage Centre de Contrôle. - Confirmé.
+
+572
+00:46:11,512 --> 00:46:13,413
+Equipe STRIKE en stand-by.
+
+573
+00:46:13,414 --> 00:46:15,115
+- Tout va bien ? - Oui, Monsieur.
+
+574
+00:46:15,116 --> 00:46:16,617
+- Etage Département Légal. - Confirmé
+
+575
+00:46:16,618 --> 00:46:17,919
+Captain.
+
+576
+00:46:18,720 --> 00:46:19,921
+Rumlow.
+
+577
+00:46:28,831 --> 00:46:31,633
+L'analyse des fibres nous montrera ce qui a été découvert sur le toit.
+
+578
+00:46:31,634 --> 00:46:33,435
+Equipe Tactique en mouvement ?
+
+579
+00:46:33,436 --> 00:46:35,537
+Non, attendons d'être sûrs.
+
+580
+00:46:35,538 --> 00:46:36,839
+D'accord.
+
+581
+00:46:48,152 --> 00:46:50,354
+Vous avez du nouveau ?
+
+582
+00:46:50,955 --> 00:46:53,156
+- Etage Administration. - Confirmé
+
+583
+00:46:53,157 --> 00:46:54,459
+Excusez-moi.
+
+584
+00:47:02,868 --> 00:47:04,970
+C'est horrible pour Fury.
+
+585
+00:47:05,471 --> 00:47:07,473
+Jamais ça n'aurait dû se produire.
+
+586
+00:47:07,573 --> 00:47:08,974
+Merci.
+
+587
+00:47:27,995 --> 00:47:30,598
+- Etage Archives. - Confirmé
+
+588
+00:47:46,215 --> 00:47:48,017
+Bon, avant qu'on commence,
+
+589
+00:47:48,718 --> 00:47:50,620
+quelqu'un veut descendre ?
+
+590
+00:47:56,426 --> 00:47:57,527
+ARRET D'URGENCE
+
+591
+00:48:24,857 --> 00:48:26,959
+Envoyez du renfort à l’étage 25.
+
+592
+00:48:41,675 --> 00:48:43,277
+Du calme mec.
+
+593
+00:48:44,378 --> 00:48:47,481
+Captain, rien de personnel.
+
+594
+00:48:58,794 --> 00:49:00,495
+Pourtant ça en a l'air.
+
+595
+00:49:09,105 --> 00:49:11,007
+Bouclier au sol et mains en l'air !
+
+596
+00:49:27,525 --> 00:49:30,328
+Abandonnez Rogers !
+
+597
+00:49:30,728 --> 00:49:32,330
+Il n'y a pas d'issue.
+
+598
+00:49:51,751 --> 00:49:52,751
+Sérieux ?
+
+599
+00:49:52,752 --> 00:49:55,655
+Il se dirige vers le garage. Fermez le pont !
+
+600
+00:50:06,567 --> 00:50:08,468
+Arrêtez-vous Captain Rogers.
+
+601
+00:50:08,469 --> 00:50:10,170
+Arrêtez !
+
+602
+00:50:10,171 --> 00:50:12,874
+Plus un geste !
+
+603
+00:50:48,713 --> 00:50:49,914
+Ecoutez tous !
+
+604
+00:50:50,715 --> 00:50:52,816
+Déployez toutes nos ressources.
+
+605
+00:50:52,817 --> 00:50:54,418
+Priorité numéro 1.
+
+606
+00:50:54,419 --> 00:50:55,821
+Prévenez les autorités.
+
+607
+00:50:56,121 --> 00:50:58,322
+Tous les feux sont au rouge.
+
+608
+00:50:58,323 --> 00:51:00,725
+Qu'on ferme les aéroports de Washington.
+
+609
+00:51:00,726 --> 00:51:02,427
+Dulles et Reagan.
+
+610
+00:51:02,428 --> 00:51:05,831
+Je veux tout savoir. Toutes les caméras de la ville.
+
+611
+00:51:06,532 --> 00:51:08,133
+Qu'on scanne tous les réseaux.
+
+612
+00:51:08,134 --> 00:51:11,738
+Téléphones, Internet, tablettes.. Tout.
+
+613
+00:51:12,138 --> 00:51:15,241
+Si quelqu'un en parle ou Tweete à ce sujet, je veux le savoir.
+
+614
+00:51:15,242 --> 00:51:17,243
+Monsieur, le S.H.I.E.L.D. lance une chasse à l’homme contre
+
+615
+00:51:17,244 --> 00:51:19,446
+Captain America, nous méritons de savoir pourquoi.
+
+616
+00:51:20,347 --> 00:51:22,049
+Car il nous a trahis.
+
+617
+00:51:23,250 --> 00:51:26,954
+Le Captain Rogers a des informations sur la mort du Directeur Fury.
+
+618
+00:51:27,355 --> 00:51:28,957
+Il n'a pas voulu les partager.
+
+619
+00:51:29,958 --> 00:51:32,460
+Bien que ce soit très dur à accepter,
+
+620
+00:51:33,061 --> 00:51:36,265
+Captain America est un ennemi du S.H.I.E.L.D.
+
+621
+00:52:04,034 --> 00:52:05,195
+- Où est-elle ? - En sécurité.
+
+622
+00:52:05,196 --> 00:52:05,896
+Où ?!
+
+623
+00:52:05,897 --> 00:52:08,599
+- Tu l'as obtenu comment ? - Pourquoi je te le dirais ?
+
+624
+00:52:08,600 --> 00:52:10,701
+Fury te la donné ? Pourquoi ?
+
+625
+00:52:10,702 --> 00:52:12,203
+- Il y a quoi dessus ? - Aucune idée.
+
+626
+00:52:12,204 --> 00:52:13,304
+Suffit les mensonges.
+
+627
+00:52:13,305 --> 00:52:15,707
+J’ai déjà pas mal d’infos sur la situation.
+
+628
+00:52:16,508 --> 00:52:18,711
+Tu savais que Fury a recruté les pirates ?
+
+629
+00:52:19,411 --> 00:52:21,012
+C’est logique. Le navire étant illegal…
+
+630
+00:52:21,013 --> 00:52:22,313
+Fury cherchait un prétexte pour y aller.
+
+631
+00:52:22,314 --> 00:52:24,317
+- Et toi aussi. - Je ne le redemanderai pas.
+
+632
+00:52:25,618 --> 00:52:27,320
+Je sais qui a tué Fury.
+
+633
+00:52:30,724 --> 00:52:33,426
+Des rumeurs circulent au sujet d'un mercenaire..
+
+634
+00:52:33,427 --> 00:52:36,330
+Il se fait appeler le Soldat de l'Hiver.
+
+635
+00:52:36,530 --> 00:52:38,431
+Il est responsable d'une trentaine de meurtres
+
+636
+00:52:38,432 --> 00:52:42,936
+- ces 50 dernières années. - Donc c'est une légende.
+
+637
+00:52:42,937 --> 00:52:46,239
+Il y a 5 ans en Iran, j'ai eu pour mission d'évacuer un ingénieur.
+
+638
+00:52:46,240 --> 00:52:48,742
+Quelqu'un a tiré sur les pneus de mon véhicule près d'Odessa.
+
+639
+00:52:48,743 --> 00:52:51,045
+J'ai perdu le contrôle et suis tombée d'une falaise.
+
+640
+00:52:51,046 --> 00:52:52,646
+J'ai survécu.
+
+641
+00:52:52,647 --> 00:52:54,950
+Le Soldat de l'Hiver était là.
+
+642
+00:52:55,350 --> 00:52:56,751
+J'ai voulu protéger l'ingénieur.
+
+643
+00:52:56,752 --> 00:52:59,355
+Alors il l’a tué en me tirant à travers.
+
+644
+00:53:00,256 --> 00:53:01,256
+Une balle Soviétique.
+
+645
+00:53:01,257 --> 00:53:04,961
+Pas de chance. Adieu bikinis.
+
+646
+00:53:05,762 --> 00:53:07,964
+Oh oui, comme tu dois être affreuse dans un bikini...
+
+647
+00:53:10,267 --> 00:53:13,270
+Sa traque va te poser des problèmes. Je le sais, j'ai essayé.
+
+648
+00:53:14,171 --> 00:53:16,373
+C’est un véritable fantôme.
+
+649
+00:53:21,197 --> 00:53:23,079
+Hé bien on va voir si c'est vraiment un fantôme.
+
+650
+00:53:23,080 --> 00:53:25,782
+Nick Fury a été tué de sang-froid.
+
+651
+00:53:25,783 --> 00:53:29,987
+Ce serait logique de le considérer comme un témoin plutôt qu’un traître.
+
+652
+00:53:29,988 --> 00:53:31,589
+Vous savez ce qui fait de lui un traître ?
+
+653
+00:53:31,590 --> 00:53:34,292
+Qu’il est à l'origine de l'attaque des pirates.
+
+654
+00:53:34,293 --> 00:53:36,594
+Nick Fury a abusé de son influence sur vous,
+
+655
+00:53:36,595 --> 00:53:39,898
+et a essayé de freiner le Projet «Insight».
+
+656
+00:53:39,899 --> 00:53:42,601
+Un projet qui aurait révélé au grand jour ses activités.
+
+657
+00:53:42,602 --> 00:53:44,504
+Il y a donc eu manipulation.
+
+658
+00:53:45,104 --> 00:53:47,607
+- Et le pire... - Vous voulez ma démission ?
+
+659
+00:53:47,726 --> 00:53:49,408
+Je peux récupérer mes affaires dans ce cas.
+
+660
+00:53:49,409 --> 00:53:52,312
+Ce débat ne peux pas attendre.
+
+661
+00:53:52,752 --> 00:53:55,114
+Donc vous voulez que nous en parlions, le temps nous manque.
+
+662
+00:53:55,115 --> 00:53:57,117
+Ce ne sera pas nécessaire Mr. le Secrétaire.
+
+663
+00:53:58,118 --> 00:54:00,820
+Le Conseil ordonne de reprendre l’activation..
+
+664
+00:54:00,821 --> 00:54:02,824
+Du Projet Insight.
+
+665
+00:54:04,025 --> 00:54:07,529
+Si tu veux faire une blague stupide, vas-y.
+
+666
+00:54:13,235 --> 00:54:16,739
+Règle N°1 quand on est en fuite : on marche, on ne court pas.
+
+667
+00:54:17,239 --> 00:54:19,742
+Et évitons ce genre de chaussures.
+
+668
+00:54:22,545 --> 00:54:24,346
+Bon, vérifions le contenu.
+
+669
+00:54:24,347 --> 00:54:27,349
+Après activation, le S.H.I.E.L.D. saura où nous sommes.
+
+670
+00:54:27,350 --> 00:54:31,254
+- Combien de temps ? - Environ 9 minutes.
+
+671
+00:54:32,656 --> 00:54:33,657
+C'est parti.
+
+672
+00:54:38,763 --> 00:54:40,664
+Fury avait raison à propos du navire.
+
+673
+00:54:40,665 --> 00:54:43,066
+Quelqu'un veut cacher des informations.
+
+674
+00:54:43,067 --> 00:54:45,169
+Il y a un système de sécurité très élaboré.
+
+675
+00:54:45,170 --> 00:54:47,771
+Il s’adapte pour éviter toutes mes commandes.
+
+676
+00:54:47,772 --> 00:54:49,174
+C'est si intelligent que ça ?
+
+677
+00:54:50,275 --> 00:54:52,778
+Son créateur est très malin, plus que moi.
+
+678
+00:54:53,078 --> 00:54:54,380
+C'est compliqué.
+
+679
+00:55:04,691 --> 00:55:06,893
+Je vais contourner ça.
+
+680
+00:55:07,193 --> 00:55:08,794
+Le S.H.I.E.L.D. a un logiciel de sécurité puissant
+
+681
+00:55:08,795 --> 00:55:10,396
+Pour supprimer les logiciels maveillants.
+
+682
+00:55:10,397 --> 00:55:13,399
+Si je n'arrive pas à ouvrir les fichiers,
+
+683
+00:55:13,400 --> 00:55:15,602
+je peux au moins connaître leur origine.
+
+684
+00:55:15,603 --> 00:55:17,104
+Je peux vous aider ?
+
+685
+00:55:17,605 --> 00:55:19,306
+Non, mon fiancé cherche un lieu
+
+686
+00:55:19,307 --> 00:55:21,108
+où passer notre Lune de Miel.
+
+687
+00:55:21,109 --> 00:55:23,110
+Oui, on va se marier…
+
+688
+00:55:23,111 --> 00:55:25,612
+Félicitations ! Vous voudriez aller où ?
+
+689
+00:55:25,613 --> 00:55:26,714
+New Jersey.
+
+690
+00:55:26,715 --> 00:55:28,216
+Dans le New Jersey.
+
+691
+00:55:33,522 --> 00:55:36,025
+Hé, j'ai les mêmes lunettes.
+
+692
+00:55:36,225 --> 00:55:39,629
+- Vous êtes presque jumeaux ! - Oui, c'est terrible !
+
+693
+00:55:41,675 --> 00:55:45,529
+- En cas de soucis, demandez Aaron. - Merci.
+
+694
+00:55:47,137 --> 00:55:49,940
+- Vite, le temps est presque écoulé ! - Du calme !
+
+695
+00:55:51,041 --> 00:55:52,242
+C'est bon.
+
+696
+00:55:56,347 --> 00:55:59,650
+- Tu le connais ? - Oui, je l’ai déjà vu.
+
+697
+00:56:01,052 --> 00:56:02,352
+Tactique habituelle.
+
+698
+00:56:02,353 --> 00:56:05,756
+Deux derrière nous, deux sur le côté, et deux devant nous.
+
+699
+00:56:05,757 --> 00:56:08,559
+Bon, prepare-toi à courir. On va rejoindre les escaliers Sud.
+
+700
+00:56:08,560 --> 00:56:10,661
+Passe ton bras autour de mon cou et rigole.
+
+701
+00:56:10,662 --> 00:56:12,164
+- Hein ? - Fais-le !
+
+702
+00:56:20,373 --> 00:56:23,175
+- Negatif à l’entrée. - Rapport par étages.
+
+703
+00:56:23,176 --> 00:56:24,678
+Troisième, négatif.
+
+704
+00:56:24,878 --> 00:56:26,178
+Second, négatif.
+
+705
+00:56:26,179 --> 00:56:28,782
+Occupe-toi du haut, je vais en bas.
+
+706
+00:56:36,290 --> 00:56:37,490
+- Embrasse-moi. - Quoi ?
+
+707
+00:56:37,491 --> 00:56:39,793
+Montrer de l'affection en public met mal à l'aise.
+
+708
+00:56:39,794 --> 00:56:41,095
+Oui.
+
+709
+00:56:50,305 --> 00:56:51,707
+Embarrassé ?
+
+710
+00:56:52,808 --> 00:56:54,710
+Pas exactement.
+
+711
+00:57:00,516 --> 00:57:02,619
+Bienvenue au New Jersey.
+
+712
+00:57:03,320 --> 00:57:06,022
+Mais où Captain America a appris à voler des voitures ?
+
+713
+00:57:06,723 --> 00:57:08,125
+En Allemagne Nazi.
+
+714
+00:57:08,825 --> 00:57:11,428
+Je ne fais qu'emprunter, enlève tes pieds de là.
+
+715
+00:57:14,432 --> 00:57:18,035
+Je peux... te poser une petite question ?
+
+716
+00:57:18,536 --> 00:57:19,937
+Mais tu n'es pas obligé de
+
+717
+00:57:19,938 --> 00:57:21,538
+- répondre bien sûr. - Vas-y.
+
+718
+00:57:21,539 --> 00:57:24,242
+C'était ton premier baiser depuis 1945 ?
+
+719
+00:57:24,643 --> 00:57:26,243
+- C'était nul, hein ? - Mais non.
+
+720
+00:57:26,244 --> 00:57:27,646
+Pourtant ça en avait l'air.
+
+721
+00:57:27,846 --> 00:57:31,249
+Non, je me demandais juste si tu t’entraînes un peu.
+
+722
+00:57:31,250 --> 00:57:33,051
+- Non, il faudrait. - Tout le monde en a besoin.
+
+723
+00:57:33,052 --> 00:57:35,454
+C’était bien mon premier baiser depuis 1945.
+
+724
+00:57:35,655 --> 00:57:37,856
+J'ai 95 ans, toujours en vie.
+
+725
+00:57:37,857 --> 00:57:39,559
+Tu n'as trouvé personne ?
+
+726
+00:57:41,661 --> 00:57:45,364
+Dur de trouver quelqu'un qui me ressemble.
+
+727
+00:57:45,365 --> 00:57:47,466
+Peu importe, il faut juste trouver quelqu’un.
+
+728
+00:57:47,467 --> 00:57:49,168
+- Comme tu l’as fait toi ? - Je ne sais pas.
+
+729
+00:57:49,169 --> 00:57:50,470
+Ce n’est jamais facile.
+
+730
+00:57:50,471 --> 00:57:53,574
+Chacun le vit à sa façon.
+
+731
+00:57:54,475 --> 00:57:57,879
+- Je suis un cas à part. - C'est une vie difficile.
+
+732
+00:57:58,780 --> 00:58:00,882
+Mais l'important est de rester en vie.
+
+733
+00:58:01,383 --> 00:58:05,187
+C'est difficile de faire confiance quand on ne connaît pas réellement quelqu’un.
+
+734
+00:58:05,687 --> 00:58:06,788
+C'est vrai.
+
+735
+00:58:09,892 --> 00:58:11,594
+Tu voudrais être quoi ?
+
+736
+00:58:12,194 --> 00:58:13,496
+Ami par exemple ?
+
+737
+00:58:16,599 --> 00:58:20,804
+Tu ne vas peut être pas aimer ce qui va suivre.
+
+738
+00:58:36,521 --> 00:58:37,622
+On y est.
+
+739
+00:58:39,023 --> 00:58:41,226
+Les fichiers viennent d’ici.
+
+740
+00:58:42,127 --> 00:58:43,127
+Et moi aussi.
+
+741
+00:58:43,128 --> 00:58:44,629
+CAMP MILITAIRE LEHIGH ACCES INTERDIT
+
+742
+00:58:51,637 --> 00:58:53,539
+C'était mon camp d'entraînement.
+
+743
+00:58:56,242 --> 00:58:57,644
+Il a changé depuis ?
+
+744
+00:58:59,946 --> 00:59:00,947
+Un peu.
+
+745
+00:59:01,248 --> 00:59:03,049
+On s'active mesdames !
+
+746
+00:59:03,650 --> 00:59:05,952
+Plus d'énergie !
+
+747
+00:59:05,953 --> 00:59:07,755
+Plus vite !
+
+748
+00:59:08,756 --> 00:59:11,258
+Allez Rogers, magne-toi !
+
+749
+00:59:14,762 --> 00:59:16,664
+Plus vite que ça !
+
+750
+00:59:17,465 --> 00:59:20,368
+Allez Rogers !
+
+751
+00:59:22,170 --> 00:59:23,371
+Il n’y a rien.
+
+752
+00:59:23,372 --> 00:59:26,675
+Aucun signal détecté, pas de source thermique, rien du tout.
+
+753
+00:59:27,576 --> 00:59:30,880
+Le créateur des fichiers a peut être utilisé un Proxy.
+
+754
+00:59:32,481 --> 00:59:33,483
+C'est quoi ?
+
+755
+00:59:33,683 --> 00:59:35,985
+Dans une base militaire, Il est interdit de..
+
+756
+00:59:36,085 --> 00:59:38,047
+Stocker des munitions aussi près des baraquements.
+
+757
+00:59:38,388 --> 00:59:40,490
+Cette structure ne devrait pas être là.
+
+758
+00:59:55,907 --> 00:59:57,308
+C’est un complexe du S.H.I.E.L.D.
+
+759
+00:59:58,510 --> 01:00:00,111
+Là où tout a commencé.
+
+760
+01:00:03,515 --> 01:00:04,816
+SUPREME SYSTEM
+
+761
+01:00:18,911 --> 01:00:20,833
+C'est le père de Stark.
+
+762
+01:00:20,834 --> 01:00:22,035
+Howard.
+
+763
+01:00:23,737 --> 01:00:25,139
+Qui est cette fille ?
+
+764
+01:00:44,159 --> 01:00:46,462
+Si tu travailles dans un bunker secret...
+
+765
+01:00:56,973 --> 01:00:59,176
+Pourquoi cacher un ascenseur ?
+
+766
+01:02:18,962 --> 01:02:21,165
+Démarrage du système.
+
+767
+01:02:24,568 --> 01:02:26,370
+Oui.
+
+768
+01:02:30,074 --> 01:02:32,477
+On va jouer à un petit jeu.
+
+769
+01:02:32,577 --> 01:02:35,780
+- C'est une réplique d'un film... - Je sais, je l'ai vu.
+
+770
+01:02:41,487 --> 01:02:44,089
+Rogers, Steven.
+
+771
+01:02:44,490 --> 01:02:46,192
+Né en 1918.
+
+772
+01:02:49,295 --> 01:02:54,401
+Romanoff, Natalia Alianovna, née en 1984.
+
+773
+01:02:54,501 --> 01:02:55,702
+On dirait un enregistrement.
+
+774
+01:02:56,002 --> 01:02:58,804
+Ce n'en est pas un Fraulein.
+
+775
+01:02:58,805 --> 01:03:04,411
+Je ne suis plus l'homme que vous avez capturé en 1945 Captain.
+
+776
+01:03:04,512 --> 01:03:06,714
+Mais je suis toujours là.
+
+777
+01:03:08,616 --> 01:03:10,118
+Tu sais ce que c’est ?
+
+778
+01:03:12,720 --> 01:03:15,924
+Arnim Zola, un scientifique Allemand qui travaillait pour Red Skull.
+
+779
+01:03:16,124 --> 01:03:20,028
+- Mort depuis longtemps. - Première erreur, je suis Suisse.
+
+780
+01:03:20,229 --> 01:03:25,734
+Et la seconde, regardez autour de vous, je ne suis pas mort.
+
+781
+01:03:25,735 --> 01:03:30,138
+En 1972 on m'a diagnostiqué une maladie en phase terminale.
+
+782
+01:03:30,139 --> 01:03:33,442
+La médecine ne pouvait plus rien.
+
+783
+01:03:33,443 --> 01:03:37,347
+Mais les alliés avaient besoin de mon savoir.
+
+784
+01:03:37,547 --> 01:03:41,452
+Dorénavant stocké dans 60 KM de serveurs.
+
+785
+01:03:41,652 --> 01:03:45,456
+Bienvenue dans mon cerveau.
+
+786
+01:03:45,556 --> 01:03:47,959
+- Comment êtes vous arrivé ici ? - J'ai été invité.
+
+787
+01:03:48,159 --> 01:03:51,062
+C'était l'opération Trombone pendant la Seconde Guerre Mondiale.
+
+788
+01:03:51,162 --> 01:03:54,665
+Le S.H.I.E.L.D. a recruté des génies Allemands.
+
+789
+01:03:54,666 --> 01:03:56,768
+Ils pensaient que je pouvais les aider.
+
+790
+01:03:56,868 --> 01:03:58,870
+J'ai continué en secret mon projet.
+
+791
+01:03:58,871 --> 01:04:00,372
+HYDRA est morte avec Red Skull.
+
+792
+01:04:00,472 --> 01:04:04,477
+Non, coupez une tête, deux repousseront.
+
+793
+01:04:04,877 --> 01:04:06,379
+Prouvez-le !
+
+794
+01:04:07,780 --> 01:04:09,682
+J'accède à l'archive.
+
+795
+01:04:10,083 --> 01:04:13,586
+HYDRA considère que l'humanité Ne mérite pas sa Liberté.
+
+796
+01:04:13,587 --> 01:04:16,690
+Son but est de la dominer par la peur.
+
+797
+01:04:16,890 --> 01:04:19,393
+Mais HYDRA réalisa que prendre aux gens
+
+798
+01:04:19,593 --> 01:04:23,097
+leur liberté par la force génère des guerres.
+
+799
+01:04:23,397 --> 01:04:25,600
+Nous l'avons appris à nos dépends.
+
+800
+01:04:25,800 --> 01:04:29,704
+Comment parvenir à faire renoncer l’humanité à sa Liberté ?
+
+801
+01:04:30,205 --> 01:04:35,110
+Après la fondation du S.H.I.E.L.D., on m'a recruté.
+
+802
+01:04:35,610 --> 01:04:37,713
+Mais une nouvelle HYDRA grandissait...
+
+803
+01:04:37,813 --> 01:04:42,518
+Un parasitage du S.H.I.E.L.D. en bonne et due forme.
+
+804
+01:04:42,618 --> 01:04:44,120
+Pendant 70 ans
+
+805
+01:04:44,220 --> 01:04:50,526
+HYDRA a provoqué des crises, déclenché des guerres.
+
+806
+01:04:50,527 --> 01:04:53,129
+Elle a ainsi pu modifier l'histoire…
+
+807
+01:04:53,830 --> 01:04:55,631
+et poursuivre son but.
+
+808
+01:04:55,632 --> 01:04:57,935
+C'est impossible, le S.H.I.E.L.D. aurait réagi.
+
+809
+01:04:58,035 --> 01:04:59,535
+Des accidents, ça arrive...
+
+810
+01:04:59,536 --> 01:05:01,137
+Howard et Maria Stark sont morts
+
+811
+01:05:01,138 --> 01:05:02,339
+dans un accident de voiture.
+
+812
+01:05:02,540 --> 01:05:05,343
+HYDRA a créé un monde si chaotique que finalement…
+
+813
+01:05:05,543 --> 01:05:09,547
+l'Humanité est prête à renoncer à sa Liberté
+
+814
+01:05:09,748 --> 01:05:11,950
+pour sa propre Sécurité.
+
+815
+01:05:12,250 --> 01:05:15,954
+Quand la Purification sera achevée..
+
+816
+01:05:16,154 --> 01:05:19,658
+Le monde rêvée d'HYDRA prendra vie.
+
+817
+01:05:20,559 --> 01:05:22,061
+Nous avons gagné Captain,
+
+818
+01:05:22,261 --> 01:05:26,165
+Votre mort aura la même valeur que votre vie.
+
+819
+01:05:26,366 --> 01:05:27,967
+Zéro.
+
+820
+01:05:30,870 --> 01:05:32,472
+Comme je le disais...
+
+821
+01:05:34,074 --> 01:05:35,175
+Que contient la clé USB ?
+
+822
+01:05:35,375 --> 01:05:38,879
+Le Projet Insight a besoin de déterminer ses cibles.
+
+823
+01:05:38,979 --> 01:05:41,582
+J’ai donc codé un algorithme.
+
+824
+01:05:41,682 --> 01:05:43,084
+Que fait cet algorithme ?
+
+825
+01:05:43,284 --> 01:05:46,087
+Question très pertinente mon cher.
+
+826
+01:05:46,187 --> 01:05:50,392
+Mais votre mort imminente va m'empêcher de vous le révéler.
+
+827
+01:05:56,298 --> 01:05:59,201
+Steve, missile en approche, lanceur non-identifié.
+
+828
+01:05:59,401 --> 01:06:01,604
+- Arrivée dans 30 secondes. - Qui est responsable ?
+
+829
+01:06:01,804 --> 01:06:02,904
+Le S.H.I.E.L.D.
+
+830
+01:06:02,905 --> 01:06:06,109
+Savourons ma victoire Captain.
+
+831
+01:06:07,010 --> 01:06:10,113
+Admettez-le, il vaut mieux mourir.
+
+832
+01:06:10,714 --> 01:06:12,015
+Vous et moi…
+
+833
+01:06:13,417 --> 01:06:14,918
+Notre temps est révolue.
+
+834
+01:07:38,008 --> 01:07:39,310
+Contactons-le.
+
+835
+01:07:55,828 --> 01:07:57,329
+Je m'en vais Mr. Pierce.
+
+836
+01:07:57,730 --> 01:07:59,532
+Vous désirez quelque chose ?
+
+837
+01:08:00,032 --> 01:08:01,033
+Non
+
+838
+01:08:01,234 --> 01:08:03,736
+Vous pouvez y aller Renata.
+
+839
+01:08:04,037 --> 01:08:05,739
+Dans ce cas, bonne nuit.
+
+840
+01:08:06,039 --> 01:08:07,240
+Bonne nuit.
+
+841
+01:08:12,846 --> 01:08:14,348
+Vous voulez un peu de lait ?
+
+842
+01:08:24,058 --> 01:08:25,860
+Le Planning a changé.
+
+843
+01:08:27,963 --> 01:08:29,765
+Le temps nous manque.
+
+844
+01:08:33,569 --> 01:08:35,571
+Deux objectifs, de niveau six.
+
+845
+01:08:37,373 --> 01:08:39,275
+Zola n'est plus.
+
+846
+01:08:39,776 --> 01:08:41,978
+Je veux confirmation de leur mort dans 10 heures.
+
+847
+01:08:43,780 --> 01:08:45,882
+Pardon Mr. Pierce.
+
+848
+01:08:46,283 --> 01:08:48,985
+J'ai oublié mon téléphone.
+
+849
+01:08:53,991 --> 01:08:57,395
+Oh Renata.. Vous auriez dû frapper..
+
+850
+01:09:21,521 --> 01:09:22,622
+Salut mec.
+
+851
+01:09:22,722 --> 01:09:26,226
+Désolé, on a besoin de se planquer.
+
+852
+01:09:26,426 --> 01:09:28,729
+Toutes nos connaissances veulent notre mort.
+
+853
+01:09:31,331 --> 01:09:32,833
+Non, pas toutes.
+
+854
+01:09:49,852 --> 01:09:51,553
+- Tout va bien ? - Oui.
+
+855
+01:10:00,363 --> 01:10:01,564
+Qu'y a-t'il ?
+
+856
+01:10:05,168 --> 01:10:08,472
+Quand j'ai rejoint le S.H.I.E.L.D., je voulais me racheter.
+
+857
+01:10:12,576 --> 01:10:15,579
+Mais on dirait que j'ai échangé le KGB contre HYDRA.
+
+858
+01:10:21,085 --> 01:10:23,788
+Je pensais savoir ce que je faisais. Je n'ai rien vu venir.
+
+859
+01:10:26,892 --> 01:10:29,695
+Il faut trouver une solution.
+
+860
+01:10:30,896 --> 01:10:32,998
+On est peut-être pas fait pour ce boulot.
+
+861
+01:10:37,904 --> 01:10:39,305
+Je t’en dois une.
+
+862
+01:10:40,807 --> 01:10:41,908
+Laisse.
+
+863
+01:10:42,309 --> 01:10:44,110
+Si les rôles étaient inversés…
+
+864
+01:10:45,512 --> 01:10:49,416
+Et que je devais te sauver la vie. Sois franc…
+
+865
+01:10:51,018 --> 01:10:53,120
+Tu me ferais confiance ?
+
+866
+01:10:55,022 --> 01:10:56,424
+Maintenant, oui.
+
+867
+01:10:59,127 --> 01:11:01,029
+Et je suis toujours franc.
+
+868
+01:11:02,230 --> 01:11:05,634
+Tu es de bonne humeur pour quelqu'un qui s'est fait manipuler et exploiter.
+
+869
+01:11:07,436 --> 01:11:10,539
+J'aime savoir qui sont mes ennemis.
+
+870
+01:11:10,839 --> 01:11:12,041
+Le ptit-dej est prêt.
+
+871
+01:11:12,441 --> 01:11:15,344
+Si vous avez faim.
+
+872
+01:11:16,946 --> 01:11:18,347
+Voilà la question :
+
+873
+01:11:18,348 --> 01:11:21,051
+Qui au S.H.I.E.L.D. a la capacité de lancer un missile ?
+
+874
+01:11:22,452 --> 01:11:23,553
+Pierce.
+
+875
+01:11:23,753 --> 01:11:26,456
+Et il est protégé dans l'immeuble le mieux sécurisé du monde.
+
+876
+01:11:26,757 --> 01:11:30,461
+Et surement pas seul. L'algorithme de Zola était sur le Lemurian Star.
+
+877
+01:11:31,362 --> 01:11:33,264
+Jasper Sitwell est donc dans le coup.
+
+878
+01:11:36,367 --> 01:11:37,869
+La voici la vraie question :
+
+879
+01:11:37,969 --> 01:11:41,072
+Comment pourrions-nous le kidnapper...
+
+880
+01:11:41,273 --> 01:11:42,674
+Alors que nous sommes l'ennemi public N°1 ?
+
+881
+01:11:42,874 --> 01:11:44,876
+Voici la réponse : je m'en occupe.
+
+882
+01:11:45,777 --> 01:11:47,980
+- C'est quoi ? - Mon CV en quelques sortes.
+
+883
+01:11:51,283 --> 01:11:55,288
+La Mission Khandil Khalid de Bakhmala. Vous y étiez ?
+
+884
+01:11:55,888 --> 01:11:58,191
+Tu disais être dans les parachutistes.
+
+885
+01:11:59,192 --> 01:12:00,894
+- Riley aussi ? - Oui.
+
+886
+01:12:01,294 --> 01:12:04,058
+Comment c'est possible ? Les hélicoptères ne lancent pas de roquettes.
+
+887
+01:12:04,197 --> 01:12:06,200
+- Parachutes furtifs ? - Non.
+
+888
+01:12:07,201 --> 01:12:08,202
+Avec ça.
+
+889
+01:12:13,207 --> 01:12:16,411
+- J’ai cru que tu étais un pilote. - Oui, mais pas d’avions.
+
+890
+01:12:20,415 --> 01:12:22,417
+Je ne peux pas t'impliquer Sam,
+
+891
+01:12:22,617 --> 01:12:24,119
+tu n'es pas concerné par tout ça.
+
+892
+01:12:24,219 --> 01:12:25,821
+Captain America a besoin de moi,
+
+893
+01:12:25,921 --> 01:12:27,823
+donc je me sens concerné.
+
+894
+01:12:31,127 --> 01:12:32,929
+Où on peut trouver un de ces appareils ?
+
+895
+01:12:33,129 --> 01:12:35,031
+Il en ont à Fort Meade.
+
+896
+01:12:35,331 --> 01:12:38,334
+C’est protégé par 3 portes gardées et un mur en acier de 30 mètres..
+
+897
+01:12:40,837 --> 01:12:42,038
+Aucun soucis.
+
+898
+01:12:42,439 --> 01:12:43,640
+EXO-7 FALCON Top Secret
+
+899
+01:12:43,740 --> 01:12:45,542
+Je vais devoir prendre l’avion ce soir.
+
+900
+01:12:45,742 --> 01:12:50,448
+Il y a un soucis avec des collègues politiciens.
+
+901
+01:12:50,548 --> 01:12:53,050
+Un gros problème, Sénateur ?
+
+902
+01:12:53,551 --> 01:12:55,253
+Un peu particulier.
+
+903
+01:12:55,954 --> 01:12:57,956
+Un problème de 23 ans et demi.
+
+904
+01:12:58,156 --> 01:13:02,059
+Elle veut devenir journaliste, je vais voir comment l'y aider.
+
+905
+01:13:02,060 --> 01:13:04,763
+- Un échange de bons procédés. - Je vois, prenez bien le problème en mains.
+
+906
+01:13:04,963 --> 01:13:07,266
+C’est toujours délicat à gérer.
+
+907
+01:13:07,766 --> 01:13:11,070
+Je m’en occupe. Belle épingle à cravate.
+
+908
+01:13:12,371 --> 01:13:13,473
+Je vous remercie.
+
+909
+01:13:13,673 --> 01:13:15,074
+Venez plus près.
+
+910
+01:13:15,675 --> 01:13:16,976
+Hail, HYDRA !
+
+911
+01:13:19,779 --> 01:13:21,982
+- Vous comprenez que... - Je vois, oui.
+
+912
+01:13:22,582 --> 01:13:24,685
+- Je devrais peut être aller consulter. - En effet.
+
+913
+01:13:29,390 --> 01:13:31,592
+APPEL ALEXANDER PIERCE
+
+914
+01:13:33,094 --> 01:13:35,496
+Un instant, rapprochez la voiture.
+
+915
+01:13:39,501 --> 01:13:40,602
+Allo, Monsieur ?
+
+916
+01:13:40,802 --> 01:13:42,504
+Agent Sitwell, bien mangé ?
+
+917
+01:13:42,604 --> 01:13:45,207
+La tourte au crabe avait l'air bonne.
+
+918
+01:13:45,307 --> 01:13:46,307
+Qui est-ce ?
+
+919
+01:13:46,308 --> 01:13:49,311
+Le beau gosse à lunettes, à 10h.
+
+920
+01:13:51,414 --> 01:13:52,715
+L'autre 10h.
+
+921
+01:13:54,517 --> 01:13:55,718
+Bien vu.
+
+922
+01:13:58,121 --> 01:13:59,322
+Que voulez-vous ?
+
+923
+01:13:59,823 --> 01:14:01,925
+Dirigez-vous vers l'angle sur votre droite.
+
+924
+01:14:02,226 --> 01:14:04,328
+Vous allez voir une voiture grise sur le Parking.
+
+925
+01:14:04,728 --> 01:14:06,530
+On va aller faire un petit tour.
+
+926
+01:14:06,831 --> 01:14:08,332
+Et pourquoi je ferai ça ?
+
+927
+01:14:08,632 --> 01:14:11,135
+Parce que vous avez une très belle cravate…
+
+928
+01:14:11,636 --> 01:14:13,838
+Je culpabiliserai si je devais vous l'arracher.
+
+929
+01:14:23,148 --> 01:14:26,352
+- Que savez-vous sur l'algorithme de Zola ? - Connais pas.
+
+930
+01:14:26,452 --> 01:14:27,553
+Et sur le Lemurian Star ?
+
+931
+01:14:27,753 --> 01:14:29,655
+Je me sens pas bien, je vais vomir.
+
+932
+01:14:34,961 --> 01:14:37,964
+Donc je suis supposé croire que vous allez me jeter en bas ?
+
+933
+01:14:38,765 --> 01:14:40,667
+C'est pas vraiment votre genre, Rogers.
+
+934
+01:14:42,069 --> 01:14:43,370
+C'est vrai.
+
+935
+01:14:43,771 --> 01:14:46,474
+C'est plutôt le sien.
+
+936
+01:14:49,977 --> 01:14:52,780
+La fille de la Compta, Lauren...
+
+937
+01:14:52,880 --> 01:14:54,983
+Lillian, avec le piercing à la lèvre.
+
+938
+01:14:55,083 --> 01:14:58,086
+- Oui, elle est mignonne. - C'est vrai, mais je suis pas prêt.
+
+939
+01:15:09,699 --> 01:15:11,701
+L'algorithme de Zola il permet...
+
+940
+01:15:13,303 --> 01:15:15,405
+De désigner les cibles… du Projet Insight.
+
+941
+01:15:15,605 --> 01:15:16,606
+Comme qui ?
+
+942
+01:15:16,806 --> 01:15:18,208
+Vous !
+
+943
+01:15:18,608 --> 01:15:21,512
+Un Journaliste TV au Caire.. Le Sous-secrétaire à la défense..
+
+944
+01:15:21,712 --> 01:15:23,474
+Le meilleur élève de l'Université de l'Iowa..
+
+945
+01:15:23,814 --> 01:15:27,618
+Bruce Banner.. Stephen Strang... Quiconque menace HYDRA.
+
+946
+01:15:28,119 --> 01:15:29,921
+En ce moment, ou même dans le futur !
+
+947
+01:15:30,421 --> 01:15:32,524
+Le Futur ? Comment vous le sauriez ?
+
+948
+01:15:35,727 --> 01:15:37,429
+Comment ne pas le savoir ?
+
+949
+01:15:38,930 --> 01:15:42,334
+Le XXIème Siècle est un livre digital.
+
+950
+01:15:43,135 --> 01:15:45,237
+Zola a appris à HYDRA à le lire.
+
+951
+01:15:48,140 --> 01:15:50,743
+Comptes en banque, tests médicaux, e-mails..
+
+952
+01:15:50,944 --> 01:15:54,347
+Appels téléphoniques, diplômes.
+
+953
+01:15:55,148 --> 01:15:58,552
+L'algorithme de Zola permet d'analyser ces informations
+
+954
+01:15:59,353 --> 01:16:01,054
+pour prédire leur futur.
+
+955
+01:16:01,155 --> 01:16:02,256
+Et ça mène à quoi ?
+
+956
+01:16:05,760 --> 01:16:08,463
+- Mon dieu.. Pierce va me tuer ! - Que va-t'il arriver ?
+
+957
+01:16:11,666 --> 01:16:15,470
+Les Vaisseau Insight vont supprimer les personnes à risque.
+
+958
+01:16:16,872 --> 01:16:18,774
+Des dizaines de millions, d'un coup.
+
+959
+01:16:26,482 --> 01:16:27,883
+HYDRA ne prend aucun risque.
+
+960
+01:16:27,884 --> 01:16:29,484
+Le danger est réel.
+
+961
+01:16:29,485 --> 01:16:32,288
+Insight débute dans 16 heures, il faut se dépêcher.
+
+962
+01:16:32,389 --> 01:16:34,090
+On va essayer d'accéder aux vaisseaux,
+
+963
+01:16:34,291 --> 01:16:35,691
+il faut éviter les scanners ADN.
+
+964
+01:16:35,692 --> 01:16:37,494
+Hein ? Sérieusement ?
+
+965
+01:16:37,794 --> 01:16:39,696
+Très mauvaise idée !
+
+966
+01:17:23,344 --> 01:17:24,345
+Merde !
+
+967
+01:17:35,958 --> 01:17:36,959
+Accrochez-vous !
+
+968
+01:19:17,468 --> 01:19:20,771
+Je m'en occupe, on va le retrouver.
+
+969
+01:20:25,942 --> 01:20:27,243
+C’est bon.
+
+970
+01:20:54,773 --> 01:20:56,675
+Ceci est une zone Civile.
+
+971
+01:20:59,979 --> 01:21:02,280
+Tournez sur l'Avenue Virginia.
+
+972
+01:21:02,281 --> 01:21:04,384
+Arrivée dans deux minutes.
+
+973
+01:21:06,886 --> 01:21:08,587
+Tirs sur l'autoroute.
+
+974
+01:21:08,588 --> 01:21:11,592
+Civils en danger, je répète civils en danger.
+
+975
+01:21:15,796 --> 01:21:18,698
+Avenue Virginia.
+
+976
+01:21:18,699 --> 01:21:20,201
+Arrivée dans deux minutes.
+
+977
+01:21:45,328 --> 01:21:46,329
+Poussez vous !
+
+978
+01:21:46,730 --> 01:21:48,131
+Dégagez le passage !
+
+979
+01:23:35,147 --> 01:23:36,249
+Bucky !
+
+980
+01:23:36,649 --> 01:23:38,251
+Qui c'est ça, Bucky ?
+
+981
+01:24:06,682 --> 01:24:08,282
+Bouclier à terre Captain ! A genoux...
+
+982
+01:24:08,283 --> 01:24:09,784
+Mettez-vous à Genoux ! Allez !
+
+983
+01:24:09,785 --> 01:24:12,688
+A terre, mettez vous à terre !
+
+984
+01:24:12,988 --> 01:24:14,090
+Allez !
+
+985
+01:24:14,891 --> 01:24:16,092
+Plus un geste !
+
+986
+01:24:22,299 --> 01:24:23,500
+Baissez votre arme !
+
+987
+01:24:23,900 --> 01:24:26,603
+Pas ici ! Pas ici !
+
+988
+01:24:41,920 --> 01:24:43,021
+C’était lui.
+
+989
+01:24:45,724 --> 01:24:49,228
+Il m’a regardé droit dans les yeux, c’était lui.
+
+990
+01:24:49,328 --> 01:24:52,031
+Comment est-ce possible ? C'est arrivé il y a 70 ans.
+
+991
+01:24:52,331 --> 01:24:53,432
+Zola.
+
+992
+01:24:53,933 --> 01:24:57,637
+L'unité de Bucky a été capturée en 43 et des experiences ont été faîtes sur lui.
+
+993
+01:24:58,037 --> 01:25:00,540
+Il a pu survivre à sa chute grâce à ça.
+
+994
+01:25:02,142 --> 01:25:05,546
+- Quand ils ont trouvé... - C'est pas ta faute, Steve.
+
+995
+01:25:08,749 --> 01:25:10,751
+Bucky a toujours été là pour moi.
+
+996
+01:25:14,055 --> 01:25:15,456
+Il faut vite trouver un médecin.
+
+997
+01:25:15,857 --> 01:25:18,760
+Appuis sur la blessure, ça va stopper le saignement.
+
+998
+01:25:26,769 --> 01:25:28,771
+J'avais le cerveau en compote.
+
+999
+01:25:32,174 --> 01:25:33,476
+C'est qui ?
+
+1000
+01:25:43,987 --> 01:25:45,689
+3 trous, commence à creuser.
+
+1001
+01:26:13,119 --> 01:26:15,520
+Blessure par balle. Beaucoup de sang perdu !
+
+1002
+01:26:15,521 --> 01:26:16,321
+Peut être un litre.
+
+1003
+01:26:16,322 --> 01:26:18,925
+- Je m’en occupe. - Venez voir.
+
+1004
+01:26:28,435 --> 01:26:30,838
+Il a morflé.
+
+1005
+01:26:32,640 --> 01:26:36,343
+Lésion de la moelle épinière, fracture de la clavicule,
+
+1006
+01:26:36,344 --> 01:26:42,049
+foie perforé, migraines fulgurantes..
+
+1007
+01:26:42,050 --> 01:26:45,153
+- Vous avez oublié l'ablation du poumon. - Oui, aussi.
+
+1008
+01:26:45,154 --> 01:26:47,255
+Sinon, tout va bien.
+
+1009
+01:26:47,256 --> 01:26:49,257
+Mais j'étais là, votre coeur s'est arrêté..
+
+1010
+01:26:49,258 --> 01:26:51,160
+Tétrodotoxine B.
+
+1011
+01:26:51,561 --> 01:26:53,662
+Ralentis le coeur jusqu'à presque l'arrêter.
+
+1012
+01:26:53,663 --> 01:26:57,466
+Banner l'a créé pour gérer son stress. Ce n'est pas assez puissant
+
+1013
+01:26:57,467 --> 01:26:58,667
+pour lui, mais on s'en sert.
+
+1014
+01:26:58,668 --> 01:27:00,669
+Mais pourquoi tout ce secret, et ne pas nous l'avoir dit ?
+
+1015
+01:27:00,670 --> 01:27:03,173
+C'était la meilleure protection possible.
+
+1016
+01:27:03,373 --> 01:27:05,576
+Pourquoi essayer de tuer un mort ?
+
+1017
+01:27:06,176 --> 01:27:07,278
+Et puis...
+
+1018
+01:27:08,279 --> 01:27:10,181
+Je ne savais plus à qui faire confiance.
+
+1019
+01:27:25,330 --> 01:27:26,827
+Sergent Barnes...
+
+1020
+01:27:28,801 --> 01:27:30,203
+Bucky, ne fais pas ça.
+
+1021
+01:27:33,306 --> 01:27:36,910
+Procédure amorcée.
+
+1022
+01:27:40,414 --> 01:27:44,817
+Vous serez le bras vengeur d'HYDRA.
+
+1023
+01:27:44,818 --> 01:27:46,220
+Gelez-le.
+
+1024
+01:27:56,932 --> 01:28:00,135
+Monsieur, il est trop Instable.
+
+1025
+01:28:00,535 --> 01:28:01,537
+Trop remué.
+
+1026
+01:28:15,452 --> 01:28:16,753
+Rapport de mission.
+
+1027
+01:28:19,656 --> 01:28:21,358
+Je veux ton rapport de mission !
+
+1028
+01:28:34,172 --> 01:28:35,774
+L'homme sur le pont...
+
+1029
+01:28:38,677 --> 01:28:39,678
+C’était qui ?
+
+1030
+01:28:41,079 --> 01:28:43,883
+Tu l'as déjà croisé cette semaine oui.
+
+1031
+01:28:46,686 --> 01:28:47,987
+Je le connais.
+
+1032
+01:28:56,496 --> 01:28:58,999
+Ton travail a été un don pour l’humanité.
+
+1033
+01:29:01,301 --> 01:29:02,903
+Tu as modelé ce siècle.
+
+1034
+01:29:03,504 --> 01:29:06,107
+Et j’ai encore besoin de toi.
+
+1035
+01:29:07,208 --> 01:29:11,211
+La société oscille entre l'ordre et le chaos.
+
+1036
+01:29:11,212 --> 01:29:13,415
+Demain nous allons précipiter tout ça.
+
+1037
+01:29:15,016 --> 01:29:18,220
+Mais nous avons besoin de toi, nous comptons sur toi.
+
+1038
+01:29:19,922 --> 01:29:23,225
+Ainsi qu'HYDRA, nous sommes si près de notre but.
+
+1039
+01:29:25,728 --> 01:29:27,230
+Mais.. Je le connais..
+
+1040
+01:29:33,837 --> 01:29:34,838
+Occupez-vous en !
+
+1041
+01:29:35,739 --> 01:29:38,441
+La cryogénie a eu des effets.
+
+1042
+01:29:38,442 --> 01:29:40,944
+Effacez-lui la mémoire dans ce cas.
+
+1043
+01:30:21,989 --> 01:30:26,293
+Cet homme a refusé un prix Nobel de la Paix.
+
+1044
+01:30:26,294 --> 01:30:30,297
+Répliquant que la Paix n'est pas un objectif…
+
+1045
+01:30:30,298 --> 01:30:32,500
+mais un devoir.
+
+1046
+01:30:33,802 --> 01:30:37,205
+Ce genre de choses m’interpelle.
+
+1047
+01:30:37,206 --> 01:30:38,707
+Il nous faut stopper le lancement.
+
+1048
+01:30:39,508 --> 01:30:42,511
+Je ne pense pas que le Conseil m'écoutera.
+
+1049
+01:30:44,714 --> 01:30:45,715
+Prochaine étape ?
+
+1050
+01:30:46,015 --> 01:30:48,917
+Quand les Vaisseaux seront en altitude..
+
+1051
+01:30:48,918 --> 01:30:51,420
+Les satellites vont trianguler les cibles d'Insight
+
+1052
+01:30:51,421 --> 01:30:52,922
+et les Vaisseaux vont attaquer.
+
+1053
+01:30:52,923 --> 01:30:54,924
+Il faudra les intercepter.
+
+1054
+01:30:54,925 --> 01:30:57,527
+Et redésigner les cibles.
+
+1055
+01:30:57,528 --> 01:30:58,628
+En pirater un ou deux est inutile.
+
+1056
+01:30:58,629 --> 01:31:01,331
+Il faudra saboter les trois pour que cela fonctionne.
+
+1057
+01:31:01,332 --> 01:31:05,335
+Si un seul des vaisseaux est toujours actif…
+
+1058
+01:31:05,336 --> 01:31:07,038
+Il y aura de nombreux morts.
+
+1059
+01:31:07,138 --> 01:31:10,340
+On peut supposer que tous l'équipage des Vaisseaux est d'HYDRA.
+
+1060
+01:31:10,341 --> 01:31:12,743
+Il va falloir insérer ces puces dans les serveurs
+
+1061
+01:31:12,744 --> 01:31:15,846
+Et peut-être que nous pourrons sauver...
+
+1062
+01:31:15,847 --> 01:31:18,750
+On ne va rien pouvoir sauver. Cela détruira les Vaisseaux
+
+1063
+01:31:18,751 --> 01:31:19,651
+mais aussi le S.H.I.E.L.D.
+
+1064
+01:31:19,652 --> 01:31:20,852
+Il n'est pas responsable de ce chaos.
+
+1065
+01:31:20,853 --> 01:31:22,153
+Il nous faut agir.
+
+1066
+01:31:22,154 --> 01:31:24,556
+Le S.H.I.E.L.D. a été compromis.
+
+1067
+01:31:24,557 --> 01:31:25,658
+Vous l’avez vu.
+
+1068
+01:31:25,758 --> 01:31:27,759
+HYDRA l'a contaminé, sans que personne ne le remarque.
+
+1069
+01:31:27,760 --> 01:31:29,962
+Maintenant il est trop tard.
+
+1070
+01:31:29,963 --> 01:31:31,064
+Je sais..
+
+1071
+01:31:31,264 --> 01:31:33,567
+Combien l'ont payé ?
+
+1072
+01:31:36,170 --> 01:31:38,071
+Je ne savais pas pour Barnes.
+
+1073
+01:31:38,072 --> 01:31:39,874
+Et si c'était le cas, vous me l'auriez dit ?
+
+1074
+01:31:40,474 --> 01:31:42,576
+Ou vous m'auriez laissé le découvrir ?
+
+1075
+01:31:43,077 --> 01:31:45,179
+Le S.H.I.E.L.D., HYDRA...
+
+1076
+01:31:46,080 --> 01:31:47,482
+Tout va disparaître.
+
+1077
+01:31:47,782 --> 01:31:48,783
+C'est vrai.
+
+1078
+01:31:54,990 --> 01:31:56,190
+Ne me regardez pas.
+
+1079
+01:31:56,191 --> 01:31:58,193
+Il sait ce qu'il faut faire.
+
+1080
+01:32:01,697 --> 01:32:02,698
+Hé bien...
+
+1081
+01:32:09,506 --> 01:32:12,008
+Nous attendons vos ordres, Captain.
+
+1082
+01:32:23,421 --> 01:32:25,123
+Je te rejoins.
+
+1083
+01:32:26,324 --> 01:32:28,525
+Il voulait m'accompagner au Cimetière.
+
+1084
+01:32:28,526 --> 01:32:32,330
+- Je sais, désolé. - Je voulais être seul.
+
+1085
+01:32:33,332 --> 01:32:34,433
+C'était comment ?
+
+1086
+01:32:35,134 --> 01:32:36,335
+Belle cérémonie.
+
+1087
+01:32:36,935 --> 01:32:38,337
+Ils sont ensemble maintenant.
+
+1088
+01:32:40,539 --> 01:32:42,140
+Je voulais te demander...
+
+1089
+01:32:42,141 --> 01:32:44,843
+Je sais ce que tu vas dire, Buck.
+
+1090
+01:32:44,844 --> 01:32:47,847
+Allez viens. On va faire un tour, ça te fera du bien.
+
+1091
+01:32:48,348 --> 01:32:51,151
+Non, j’ai des trucs à faire.. Polir mes chaussures..
+
+1092
+01:32:51,251 --> 01:32:53,153
+Sortir les poubelles…
+
+1093
+01:32:58,259 --> 01:32:59,260
+Allez !
+
+1094
+01:33:02,663 --> 01:33:06,568
+Merci, Buck. Mais je gère ça.
+
+1095
+01:33:06,968 --> 01:33:10,772
+D'accord... J'insiste pas.
+
+1096
+01:33:14,076 --> 01:33:16,178
+Mais tu sais que tu pourras toujours compter sur moi.
+
+1097
+01:33:18,781 --> 01:33:20,383
+Il le pensait.
+
+1098
+01:33:20,783 --> 01:33:21,784
+Je vois.
+
+1099
+01:33:22,485 --> 01:33:25,789
+Mais ce n’est plus le même. Ils l’ont changé.
+
+1100
+01:33:26,289 --> 01:33:28,591
+Je ne suis plus celui qu’il doit sauver.
+
+1101
+01:33:28,592 --> 01:33:30,394
+Mais celui qui doit le sauver.
+
+1102
+01:33:32,796 --> 01:33:34,797
+Je ne sais pas si j’en suis capable.
+
+1103
+01:33:34,798 --> 01:33:38,302
+Tu n'auras surement pas le choix.
+
+1104
+01:33:39,103 --> 01:33:40,204
+Tu me reconnaîtras.
+
+1105
+01:33:43,007 --> 01:33:44,709
+Je suis prêt, allons-y.
+
+1106
+01:33:47,112 --> 01:33:48,212
+Tu t'habilles comment ?
+
+1107
+01:33:48,213 --> 01:33:51,516
+Quand tu pars en guerre.. Il te faut ton uniforme.
+
+1108
+01:33:59,425 --> 01:34:01,127
+Merde !
+
+1109
+01:34:01,728 --> 01:34:04,130
+C’est trop tard.
+
+1110
+01:34:28,757 --> 01:34:31,059
+Lancement imminent.
+
+1111
+01:34:31,360 --> 01:34:32,560
+LANCEMENT DU PROJET INSIGHT
+
+1112
+01:34:32,561 --> 01:34:34,964
+Tout est prêt.
+
+1113
+01:34:36,465 --> 01:34:38,968
+Lancement par l'équipe dédiée.
+
+1114
+01:34:39,468 --> 01:34:41,670
+- Vous avez fait bon vol ? - Impeccable.
+
+1115
+01:34:41,671 --> 01:34:43,973
+Par contre, pour venir jusqu’ici…
+
+1116
+01:34:44,474 --> 01:34:46,776
+Malheureusement le S.H.I.E.L.D. a dû tout bloquer.
+
+1117
+01:34:46,977 --> 01:34:48,779
+A cause de Captain America.
+
+1118
+01:34:52,383 --> 01:34:55,185
+Il y a des contrôles biométriques.
+
+1119
+01:34:55,186 --> 01:34:58,089
+Avec ceci il n’y aura pas de problème.
+
+1120
+01:35:01,893 --> 01:35:03,494
+J’ai passé 2 mois ici.
+
+1121
+01:35:03,495 --> 01:35:05,195
+- Tout un programme. - C’était où ?
+
+1122
+01:35:05,196 --> 01:35:06,597
+En Afghanistan je crois.
+
+1123
+01:35:06,598 --> 01:35:08,799
+Pas de DTS. Itinéraire complet.
+
+1124
+01:35:08,800 --> 01:35:10,402
+Tu pourrais dire quelque chose.
+
+1125
+01:35:11,703 --> 01:35:13,305
+C’est à cause de l’antenne.
+
+1126
+01:35:14,807 --> 01:35:16,008
+Je vérifie ça.
+
+1127
+01:35:17,209 --> 01:35:20,513
+Dégagez la zone du lancement.
+
+1128
+01:35:23,917 --> 01:35:25,117
+Désolé.
+
+1129
+01:35:25,118 --> 01:35:28,020
+Je sais que tout ne s’est pas passé come nous l’espérions,
+
+1130
+01:35:28,021 --> 01:35:31,825
+Et que certains d’entre-vous ont abandonné.
+
+1131
+01:35:33,627 --> 01:35:35,328
+Mais nous devons agir.
+
+1132
+01:35:35,329 --> 01:35:37,131
+Pour la sauvegarde de notre Liberté.
+
+1133
+01:35:38,132 --> 01:35:39,933
+Ecoutez bien, agents du S.H.I.E.L.D.
+
+1134
+01:35:39,934 --> 01:35:41,436
+Ici Steve Rogers.
+
+1135
+01:35:43,638 --> 01:35:45,841
+Vous avez beaucoup entendu parler de moi dernièrement.
+
+1136
+01:35:46,842 --> 01:35:49,244
+Certains ont essayé de me stopper.
+
+1137
+01:35:49,945 --> 01:35:51,947
+Il est temps pour vous de savoir la vérité.
+
+1138
+01:35:55,851 --> 01:35:58,253
+Le S.H.I.E.L.D. n’est pas ce que nous pensions.
+
+1139
+01:35:58,254 --> 01:36:00,356
+HYDRA en a pris le contrôle.
+
+1140
+01:36:01,257 --> 01:36:03,259
+Alexander Pierce est l’un d’eux.
+
+1141
+01:36:06,582 --> 01:36:09,065
+L’équipe STRIKE et le Projet Insight font aussi partie d’HYDRA.
+
+1142
+01:36:09,066 --> 01:36:11,068
+Leur effectif exact est inconnu.
+
+1143
+01:36:11,769 --> 01:36:13,370
+Mais la plupart sont dans ce batiment.
+
+1144
+01:36:14,672 --> 01:36:16,574
+Ils peuvent même être à côté de vous.
+
+1145
+01:36:18,076 --> 01:36:19,978
+Leur objectif est presque atteint.
+
+1146
+01:36:20,478 --> 01:36:22,280
+Le contrôle global.
+
+1147
+01:36:22,981 --> 01:36:24,583
+Ils ont atteint Nick Fury.
+
+1148
+01:36:25,383 --> 01:36:26,785
+Et ne s’arrêterons pas là.
+
+1149
+01:36:27,085 --> 01:36:28,986
+Si vous laissez faire le lancement d'Insight,
+
+1150
+01:36:28,987 --> 01:36:32,091
+HYDRA pourra faire tuer n'importe qui...
+
+1151
+01:36:34,794 --> 01:36:36,295
+Sauf si nous intervenons.
+
+1152
+01:36:40,099 --> 01:36:41,741
+C’est beaucoup demander, je le reconnais.
+
+1153
+01:36:43,503 --> 01:36:46,707
+Mais le prix de la Liberté est élevé, tout comme ses enjeux.
+
+1154
+01:36:47,107 --> 01:36:49,410
+Un prix que je suis prêt à payer.
+
+1155
+01:36:51,312 --> 01:36:53,714
+Suis-je le seul dans ce cas ?
+
+1156
+01:36:55,616 --> 01:36:57,618
+Je ne le pense pas.
+
+1157
+01:37:02,324 --> 01:37:05,927
+C'était un discours improvisé ?
+
+1158
+01:37:06,228 --> 01:37:08,430
+Espèce de salopard !
+
+1159
+01:37:12,435 --> 01:37:13,536
+Arrêtez-le !
+
+1160
+01:37:15,738 --> 01:37:17,640
+Suffit la plaisanterie.
+
+1161
+01:37:24,448 --> 01:37:27,451
+Procédez au lancement. Donnez les autorisations.
+
+1162
+01:37:31,655 --> 01:37:33,157
+Quelque chose cloche.
+
+1163
+01:37:38,363 --> 01:37:40,565
+- Y-a t'il un problème ? - Désolé Monsieur..
+
+1164
+01:37:49,375 --> 01:37:51,076
+Mais je ne vais pas le faire.
+
+1165
+01:37:54,280 --> 01:37:55,680
+Ordre du Captain.
+
+1166
+01:37:55,681 --> 01:37:57,383
+Dégage !
+
+1167
+01:37:57,684 --> 01:37:58,785
+Comme je disais…
+
+1168
+01:37:58,885 --> 01:38:00,887
+- Ne le faîtes pas ! - Baissez vos armes !
+
+1169
+01:38:01,488 --> 01:38:02,989
+Ordres du Captain.
+
+1170
+01:38:04,691 --> 01:38:06,693
+Mauvais choix, agent.
+
+1171
+01:38:07,995 --> 01:38:09,697
+Tout dépend du point de vue.
+
+1172
+01:38:37,927 --> 01:38:39,629
+CONTRÔLE MANUEL
+
+1173
+01:38:53,945 --> 01:38:57,247
+Fermez la porte de la plate-forme ! Maintenant !
+
+1174
+01:38:57,248 --> 01:38:58,750
+Fermez la porte de la plate-forme !
+
+1175
+01:39:16,569 --> 01:39:18,370
+RECEPTION D’UNE TRANSMISSION
+
+1176
+01:39:18,371 --> 01:39:19,873
+Le lancement a débuté.
+
+1177
+01:39:39,594 --> 01:39:42,296
+Captain, comment distinguer les méchants des gentils ?
+
+1178
+01:39:42,297 --> 01:39:44,299
+S’ils tirent, ils sont méchants.
+
+1179
+01:40:17,435 --> 01:40:18,536
+Captaine !
+
+1180
+01:40:18,537 --> 01:40:20,838
+Captain, j'ai trouvé votre pote.
+
+1181
+01:40:20,839 --> 01:40:21,840
+Tout va bien ?
+
+1182
+01:40:23,942 --> 01:40:25,544
+Toujours en vie.
+
+1183
+01:40:32,452 --> 01:40:34,153
+J'ai une question pour vous.
+
+1184
+01:40:36,456 --> 01:40:39,559
+Si demain le Pakistan envahit Mumbai..
+
+1185
+01:40:40,761 --> 01:40:43,262
+Qu'ils vous traînent dans un stade de Foot
+
+1186
+01:40:43,263 --> 01:40:46,467
+pour y exécuter votre famille.
+
+1187
+01:40:48,469 --> 01:40:51,972
+Et que vous pouvez stopper ça avec une simple commande.
+
+1188
+01:40:51,973 --> 01:40:54,776
+Vous le feriez ?
+
+1189
+01:40:56,878 --> 01:40:58,880
+Non, je ne le ferai pas.
+
+1190
+01:41:22,806 --> 01:41:24,208
+Navré.
+
+1191
+01:41:30,415 --> 01:41:32,217
+Nous avons perdu du temps.
+
+1192
+01:41:33,618 --> 01:41:36,121
+Satellites en orbite.
+
+1193
+01:41:36,922 --> 01:41:39,324
+- Statut du Faucon ? - Occupé.
+
+1194
+01:42:03,450 --> 01:42:05,152
+Je suis en position Captain.
+
+1195
+01:42:07,255 --> 01:42:08,756
+Putain !
+
+1196
+01:42:40,691 --> 01:42:41,692
+C’est bon !
+
+1197
+01:42:48,499 --> 01:42:50,300
+Desactivé.
+
+1198
+01:42:50,301 --> 01:42:51,301
+Que faîtes-vous ?
+
+1199
+01:42:51,302 --> 01:42:53,304
+Je désactive la sécurité
+
+1200
+01:42:53,305 --> 01:42:55,105
+et j'uploade les fichiers secrets online.
+
+1201
+01:42:55,106 --> 01:42:57,509
+- Dont ceux sur HYDRA - Et le S.H.I.E.L.D.
+
+1202
+01:42:58,410 --> 01:43:01,513
+Si tu fais ça, tout le monde connaîtra ton passé.
+
+1203
+01:43:04,417 --> 01:43:08,221
+Tu es sûre de vouloir révéler tout ça ?
+
+1204
+01:43:09,422 --> 01:43:10,723
+Et toi ?
+
+1205
+01:43:27,041 --> 01:43:28,242
+Le premier est fait.
+
+1206
+01:43:30,245 --> 01:43:33,248
+- Faucon, tu en es où ? - Je fais un détour.
+
+1207
+01:44:05,583 --> 01:44:06,684
+C’est bon !
+
+1208
+01:44:13,191 --> 01:44:14,292
+Je suis dedans.
+
+1209
+01:44:17,296 --> 01:44:18,797
+Le second est fait aussi.
+
+1210
+01:44:21,000 --> 01:44:22,802
+Deux de faits, plus qu’un.
+
+1211
+01:44:24,604 --> 01:44:26,606
+A tous les pilotes du S.H.I.E.L.D., décollez !
+
+1212
+01:44:26,906 --> 01:44:29,909
+On est le seul appui aérien pour le Captain Rogers.
+
+1213
+01:45:10,253 --> 01:45:11,654
+ACCES RESTREINT
+
+1214
+01:45:11,655 --> 01:45:14,757
+Désactiver le codage est un ordre de commandement.
+
+1215
+01:45:14,758 --> 01:45:16,359
+Il vous faut deux membres niveau Alpha.
+
+1216
+01:45:16,360 --> 01:45:18,863
+Aucuns soucis, j'attends des invités.
+
+1217
+01:45:42,088 --> 01:45:43,489
+Vous avez eu mes fleurs ?
+
+1218
+01:45:45,992 --> 01:45:48,294
+- Ravi de vous voir, Nick. - Ah oui ?
+
+1219
+01:45:49,496 --> 01:45:51,697
+Vous avez pas essayé de me tuer ?
+
+1220
+01:45:51,698 --> 01:45:53,300
+Ce sont les règles du jeu.
+
+1221
+01:45:54,020 --> 01:45:55,902
+Pourquoi m'avoir mis à la tête du S.H.I.E.L.D. ?
+
+1222
+01:45:55,903 --> 01:45:59,205
+Car vous êtes le meilleur, et le plus pragmatique.
+
+1223
+01:45:59,206 --> 01:46:01,609
+Mon seul but était de protéger la population.
+
+1224
+01:46:02,510 --> 01:46:04,712
+Nous avons les mêmes ennemis, Nick.
+
+1225
+01:46:08,617 --> 01:46:11,118
+Tôt ou tard, une attaque nucléaire détruira Moscou..
+
+1226
+01:46:11,119 --> 01:46:13,422
+Une arme magnétique grillera Chicago..
+
+1227
+01:46:14,923 --> 01:46:16,125
+La Diplomatie ?
+
+1228
+01:46:16,625 --> 01:46:19,128
+Une perte de temps, c’est vain.
+
+1229
+01:46:19,829 --> 01:46:23,132
+Je l'ai appris à Bogota.
+
+1230
+01:46:24,534 --> 01:46:27,137
+L'action vaut mieux que la négociation.
+
+1231
+01:46:28,338 --> 01:46:32,743
+Pour assurer la sécurité de 7 milliards de vies.
+
+1232
+01:46:33,544 --> 01:46:35,746
+Il suffit d'en sacrifier seulement 20 millions.
+
+1233
+01:46:36,847 --> 01:46:39,849
+C'est le prochain objectif Nick, c'est aussi le vôtre.
+
+1234
+01:46:39,850 --> 01:46:42,153
+Non ! Jamais je ne ferai ça.
+
+1235
+01:46:46,358 --> 01:46:48,660
+Scan rétinien requis.
+
+1236
+01:46:49,961 --> 01:46:52,363
+Vous pensez avoir toujours les accès ?
+
+1237
+01:46:52,364 --> 01:46:54,565
+Je sais que je n'ai plus les mots de passe..
+
+1238
+01:46:54,566 --> 01:46:56,968
+Et logiquement, plus les accès.
+
+1239
+01:46:56,969 --> 01:47:00,473
+Mais si vous voulez totalement m'éviter, Mr. le Secrétaire...
+
+1240
+01:47:03,977 --> 01:47:07,380
+Gardez les deux yeux bien ouverts.
+
+1241
+01:47:11,285 --> 01:47:13,187
+Niveau Alpha confirmé.
+
+1242
+01:47:13,387 --> 01:47:15,288
+Accès autorisé.
+
+1243
+01:47:16,865 --> 01:47:20,158
+Le troisième Vaisseau est tout proche.
+
+1244
+01:47:25,800 --> 01:47:27,001
+Six minutes.
+
+1245
+01:47:27,002 --> 01:47:29,404
+Sam, j'ai besoin d'un transport !
+
+1246
+01:47:30,105 --> 01:47:32,307
+Compris ! Quand ça ?
+
+1247
+01:47:34,510 --> 01:47:35,711
+Maintenant !
+
+1248
+01:47:53,330 --> 01:47:55,832
+T’es plus lourd que t’en as l’air.
+
+1249
+01:47:55,833 --> 01:47:57,234
+J'ai pris un ptit dej' copieux.
+
+1250
+01:47:59,137 --> 01:48:00,138
+Steve !
+
+1251
+01:48:31,071 --> 01:48:34,475
+- Captain, tout va bien ? - Oui, je suis ici !
+
+1252
+01:48:35,076 --> 01:48:36,377
+J'ai pu atteindre le vaisseau.
+
+1253
+01:48:36,877 --> 01:48:39,179
+- Où es-tu ? - Cloué au sol.
+
+1254
+01:48:39,180 --> 01:48:42,282
+Je ne peux plus voler. Désolé Captain.
+
+1255
+01:48:42,283 --> 01:48:43,785
+Pas de soucis, je m'en occupe.
+
+1256
+01:48:46,388 --> 01:48:48,189
+Evacuation d'urgence.
+
+1257
+01:48:48,190 --> 01:48:51,193
+Dirigez-vous vers les sas.
+
+1258
+01:48:52,294 --> 01:48:55,097
+Que les Agent du S.H.I.E.L.D. se rendent au point Delta.
+
+1259
+01:49:00,103 --> 01:49:02,005
+Monsieur, le conseil est en danger.
+
+1260
+01:49:02,505 --> 01:49:05,007
+- Central, répétez ! - Black Widow a besoin d’aide.
+
+1261
+01:49:05,008 --> 01:49:06,410
+J’arrive.
+
+1262
+01:49:08,712 --> 01:49:10,213
+- Faucon ? - Oui ?
+
+1263
+01:49:10,214 --> 01:49:12,816
+- Rumlow se dirige vers le Conseil. - Entendu, je suis dessus.
+
+1264
+01:49:23,728 --> 01:49:25,330
+Des gens vont mourir, Buck.
+
+1265
+01:49:27,032 --> 01:49:28,934
+Je ne peux pas laisser ça arriver.
+
+1266
+01:49:36,742 --> 01:49:38,444
+Ne me pousse pas à le faire.
+
+1267
+01:50:47,019 --> 01:50:48,019
+TRANSFERT TERMINE
+
+1268
+01:50:48,020 --> 01:50:49,121
+C'est fait.
+
+1269
+01:50:50,122 --> 01:50:51,824
+Tout le monde commence à en parler.
+
+1270
+01:50:58,932 --> 01:51:02,536
+Si vous voulez éviter un trou de 5 Cm dans le torse, baissez votre arme.
+
+1271
+01:51:04,838 --> 01:51:07,241
+Il s'est activé quand vous l'avez épinglé.
+
+1272
+01:51:40,277 --> 01:51:41,278
+Lâchez !
+
+1273
+01:51:42,079 --> 01:51:43,180
+Lâchez !
+
+1274
+01:52:03,802 --> 01:52:07,306
+Je suis au 41ème. Dans l’aile Sud-Ouest.
+
+1275
+01:52:13,513 --> 01:52:14,914
+Il va y avoir de l'action.
+
+1276
+01:52:16,516 --> 01:52:19,919
+HYDRA ne fait pas de prisonniers.
+
+1277
+01:52:19,920 --> 01:52:22,022
+Seulement des victimes.
+
+1278
+01:52:23,523 --> 01:52:26,327
+- Prêt à souffrir ? - La ferme !
+
+1279
+01:52:27,747 --> 01:52:29,028
+- Lieutenant, combien de temps ?
+
+1280
+01:52:29,029 --> 01:52:31,231
+Encore 60 secondes.
+
+1281
+01:52:31,232 --> 01:52:32,673
+Les satellites sont presque alignés.
+
+1282
+01:52:33,134 --> 01:52:34,736
+Altitude atteinte.
+
+1283
+01:52:38,640 --> 01:52:39,741
+Attendez !
+
+1284
+01:52:59,262 --> 01:53:00,764
+Plus que 30 secondes, Captain.
+
+1285
+01:53:02,366 --> 01:53:03,567
+Attendez !
+
+1286
+01:53:06,670 --> 01:53:07,671
+Vaisseau 3…
+
+1287
+01:53:17,582 --> 01:53:19,284
+Altitude atteinte.
+
+1288
+01:53:19,985 --> 01:53:21,587
+Liaison satellite en cours.
+
+1289
+01:53:23,288 --> 01:53:24,990
+Lancement de l'algorithme.
+
+1290
+01:53:26,091 --> 01:53:27,593
+Algorithme lancé.
+
+1291
+01:53:28,494 --> 01:53:30,296
+Désignation des cibles.
+
+1292
+01:53:35,001 --> 01:53:36,201
+CIBLES
+
+1293
+01:53:36,202 --> 01:53:37,904
+MATHEW ELLIS PRESIDENT WASHINGTON DC
+
+1294
+01:53:45,613 --> 01:53:46,914
+ANTHONY STARK NEW YORK
+
+1295
+01:53:47,214 --> 01:53:48,616
+CIBLES
+
+1296
+01:53:49,116 --> 01:53:50,817
+Nombre de Cibles atteint.
+
+1297
+01:53:50,818 --> 01:53:53,521
+- Cibles désignées. - A mon commandement.
+
+1298
+01:53:55,323 --> 01:53:56,724
+Feu dans…
+
+1299
+01:53:56,725 --> 01:53:58,626
+Trois...
+
+1300
+01:53:58,627 --> 01:53:59,628
+Deux...
+
+1301
+01:54:00,729 --> 01:54:01,730
+Un...
+
+1302
+01:54:04,833 --> 01:54:06,234
+Le troisième est intercepté.
+
+1303
+01:54:06,235 --> 01:54:07,637
+Où sont les cibles ?
+
+1304
+01:54:08,638 --> 01:54:10,139
+Où sont-elles passées ?
+
+1305
+01:54:10,239 --> 01:54:11,641
+Captain, sortez vite de là !
+
+1306
+01:54:11,941 --> 01:54:13,443
+Réalignement.
+
+1307
+01:54:13,743 --> 01:54:15,045
+CIBLES : 3
+
+1308
+01:54:28,960 --> 01:54:30,061
+Feu à volonté !
+
+1309
+01:54:30,862 --> 01:54:32,363
+- Steve, tu… - Fais-le !
+
+1310
+01:54:32,664 --> 01:54:33,865
+Feu à volonté !
+
+1311
+01:55:04,498 --> 01:55:05,999
+Quel gâchis…
+
+1312
+01:55:06,000 --> 01:55:08,802
+Toujours des doutes sur les motivations de Rogers ?
+
+1313
+01:55:08,803 --> 01:55:12,207
+Venez, il faut absolument partir.
+
+1314
+01:55:12,707 --> 01:55:14,308
+Faîtes-moi évacuer.
+
+1315
+01:55:14,309 --> 01:55:17,812
+Je serai prêt à donner ma vie pour toi.
+
+1316
+01:55:17,813 --> 01:55:18,914
+Tu l’as déjà fait.
+
+1317
+01:55:19,114 --> 01:55:20,716
+Et je le referais si nécessaire.
+
+1318
+01:55:24,019 --> 01:55:25,020
+REPRISE
+
+1319
+01:55:25,021 --> 01:55:26,222
+PRET
+
+1320
+01:55:34,531 --> 01:55:35,532
+Romanoff !
+
+1321
+01:55:36,533 --> 01:55:37,734
+Natasha !
+
+1322
+01:55:39,536 --> 01:55:41,739
+Natasha, viens !
+
+1323
+01:55:48,246 --> 01:55:49,847
+Ces choses font mal.
+
+1324
+01:56:22,983 --> 01:56:24,785
+Hail, HYDRA.
+
+1325
+01:57:19,645 --> 01:57:21,347
+Tu n’es qu’une formalité, gamin.
+
+1326
+01:57:38,565 --> 01:57:40,767
+Dîtes-moi que vous êtes dans l'hélico !
+
+1327
+01:57:40,768 --> 01:57:42,269
+Sam, où es tu ?
+
+1328
+01:57:42,870 --> 01:57:44,871
+41ème étage, côté Nord-Ouest !
+
+1329
+01:57:44,872 --> 01:57:46,673
+On arrive, ne bouge pas !
+
+1330
+01:57:46,674 --> 01:57:48,276
+Pas le choix !
+
+1331
+01:58:02,391 --> 01:58:04,993
+41ème ! 41ème !
+
+1332
+01:58:04,994 --> 01:58:08,498
+Le numéro n'est pas écrit sur le mur du bâtiment !
+
+1333
+01:58:09,799 --> 01:58:12,903
+Où est Steve ? Quelle est sa position ?
+
+1334
+01:58:28,720 --> 01:58:30,021
+Tu me connais.
+
+1335
+01:58:31,523 --> 01:58:32,924
+C'est faux !
+
+1336
+01:58:42,535 --> 01:58:43,536
+Bucky !
+
+1337
+01:58:45,138 --> 01:58:46,639
+Je connais ta date de naissance.
+
+1338
+01:58:54,248 --> 01:58:55,449
+Tu t'appelles..
+
+1339
+01:58:55,749 --> 01:58:59,453
+- James Buchanan Barnes. - La ferme !
+
+1340
+01:59:08,263 --> 01:59:09,865
+Je ne vais pas t’affronter.
+
+1341
+01:59:13,969 --> 01:59:15,571
+Tu es mon ami.
+
+1342
+01:59:22,078 --> 01:59:23,579
+Tu es ma mission !
+
+1343
+01:59:25,782 --> 01:59:28,285
+Tu es ma mission !
+
+1344
+01:59:31,188 --> 01:59:32,789
+Alors, finis-la.
+
+1345
+01:59:35,592 --> 01:59:38,195
+Sache que je serai toujours à tes côtés.
+
+1346
+02:01:49,338 --> 02:01:50,739
+Pourquoi être partis ?
+
+1347
+02:02:10,260 --> 02:02:13,164
+INDUSTRIES STARKS Ressources Humaines
+
+1348
+02:02:41,594 --> 02:02:45,499
+Jurez de dire la vérité, seulement la vérité.
+
+1349
+02:02:45,799 --> 02:02:46,900
+Je le jure.
+
+1350
+02:02:49,203 --> 02:02:51,505
+Pourquoi sommes-nous sans nouvelles du Captain Rogers ?
+
+1351
+02:02:53,507 --> 02:02:55,408
+Je ne sais pas quoi vous dire.
+
+1352
+02:02:55,409 --> 02:02:59,112
+Je pense que les débris dans la rivière sont un élément de réponse.
+
+1353
+02:02:59,113 --> 02:03:03,517
+Comment comptez-vous assurer la sécurité du pays,
+
+1354
+02:03:03,518 --> 02:03:07,622
+Quand il n’y a plus d’agence de sécurité ?
+
+1355
+02:03:07,623 --> 02:03:09,724
+HYDRA vous a manipulé et raconté des mensonges.
+
+1356
+02:03:09,725 --> 02:03:12,827
+Peut-être, mais vous semblez y être liée.
+
+1357
+02:03:12,828 --> 02:03:17,332
+Agent, vous devriez savoir que des membres de ce Comité -
+
+1358
+02:03:17,333 --> 02:03:20,836
+Suite à vos interventions, pour et contre ce pays -
+
+1359
+02:03:20,837 --> 02:03:22,838
+Qui vous verraient bien en Prison.
+
+1360
+02:03:22,839 --> 02:03:25,642
+Ce commentaire n'est pas pertinent du tout.
+
+1361
+02:03:26,743 --> 02:03:28,645
+Je n'irai pas en prison.
+
+1362
+02:03:29,246 --> 02:03:31,749
+Pas plus que mes amis et collègues.
+
+1363
+02:03:32,650 --> 02:03:33,751
+Vous savez pourquoi ?
+
+1364
+02:03:34,752 --> 02:03:37,755
+- Illuminez-nous ! - Car vous avez besoin de nous.
+
+1365
+02:03:38,756 --> 02:03:43,462
+Le monde est vulnérable, les évènements récents en sont la preuve.
+
+1366
+02:03:44,062 --> 02:03:47,166
+Mais nous sommes les mieux placés pour le défendre.
+
+1367
+02:03:48,467 --> 02:03:50,669
+Alors si vous voulez m'arrêter, faîtes-le.
+
+1368
+02:03:51,470 --> 02:03:53,072
+Vous savez où me trouver.
+
+1369
+02:04:28,711 --> 02:04:31,913
+Hé bien, il est vrai que vous avez de l’expérience en la matière.
+
+1370
+02:04:31,914 --> 02:04:33,315
+Question d’habitude.
+
+1371
+02:04:35,950 --> 02:04:38,420
+J'ai fouillé les archives d'HYDRA.
+
+1372
+02:04:38,421 --> 02:04:41,124
+Tous ne sont pas morts dans les Vaisseaux.
+
+1373
+02:04:42,325 --> 02:04:44,228
+Je m'envole pour l'Europe ce soir.
+
+1374
+02:04:44,528 --> 02:04:46,330
+Tu veux venir avec moi ?
+
+1375
+02:04:47,131 --> 02:04:49,233
+Je dois faire quelque chose d'abord.
+
+1376
+02:04:49,533 --> 02:04:52,336
+Et toi, Wilson ? Tu pourrais être très utile.
+
+1377
+02:04:53,037 --> 02:04:55,239
+Je suis un Soldat avant d'être un Espion.
+
+1378
+02:04:55,940 --> 02:04:57,242
+D'accord.
+
+1379
+02:05:02,347 --> 02:05:06,552
+Si quelqu'un me cherche, dîtes-lui que je le trouverai.
+
+1380
+02:05:08,554 --> 02:05:11,357
+Un mort est tout de même ressuscité pour vous remercier.
+
+1381
+02:05:12,758 --> 02:05:13,960
+Tu pars avec lui ?
+
+1382
+02:05:14,560 --> 02:05:16,763
+- Non. - Alors tu restes ici ?
+
+1383
+02:05:18,865 --> 02:05:21,267
+J'ai tout révélé au grand jour, je dois disparaître.
+
+1384
+02:05:21,268 --> 02:05:23,971
+- Je n'ai pas le choix. - Je comprends…
+
+1385
+02:05:26,473 --> 02:05:27,974
+Voici ce que tu m’as demandé.
+
+1386
+02:05:27,975 --> 02:05:30,378
+Echange de bons procédés.
+
+1387
+02:05:32,980 --> 02:05:34,582
+Seulement en cas de nécessité. Merci.
+
+1388
+02:05:35,083 --> 02:05:36,383
+Tu as appelé l'infirmière ?
+
+1389
+02:05:36,384 --> 02:05:39,387
+- Ce n'en est pas une. - Mais tu n’es plus du le S.H.I.E.L.D.
+
+1390
+02:05:40,489 --> 02:05:42,691
+- C'est quoi déjà son nom ? - Sharon.
+
+1391
+02:05:43,692 --> 02:05:44,993
+Joli nom.
+
+1392
+02:05:56,906 --> 02:05:58,408
+Fais attention à toi Steve.
+
+1393
+02:05:59,409 --> 02:06:01,511
+Evite les ennuis.
+
+1394
+02:06:12,724 --> 02:06:14,025
+Tu pars à sa recherche ?
+
+1395
+02:06:14,926 --> 02:06:17,329
+- Je ne peux pas te demander de venir. - Je sais.
+
+1396
+02:06:19,331 --> 02:06:20,932
+Bon, on commence quand ?
+
+1397
+02:08:20,062 --> 02:08:23,866
+C’est terminé. Fury a tout révélé au grand jour.
+
+1398
+02:08:24,567 --> 02:08:26,168
+Tout ce qu’il savait..
+
+1399
+02:08:26,369 --> 02:08:28,370
+Mr. Strucker, si jamais ils entendent parler de nos travaux…
+
+1400
+02:08:28,371 --> 02:08:30,172
+S’ils découvrent que nous servons HYDRA…
+
+1401
+02:08:30,173 --> 02:08:36,079
+HYDRA, le S.H.I.E.L.D., deux faces d’une monnaie qui n’a plus court.
+
+1402
+02:08:39,883 --> 02:08:45,389
+Ce que nous possédons vaut tous les risques que nous prenons.
+
+1403
+02:08:48,493 --> 02:08:51,696
+Nous n’avons fait qu’effleurer la surface…
+
+1404
+02:08:55,200 --> 02:08:58,904
+HYDRA a d’autres complexes dans le monde qui nous épaulent.
+
+1405
+02:09:00,205 --> 02:09:03,509
+Ils vont faire diversion, pour occuper Captain America.
+
+1406
+02:09:03,709 --> 02:09:05,411
+Notre existence doit rester secrète.
+
+1407
+02:09:05,811 --> 02:09:07,513
+Et concernant les volontaires ?
+
+1408
+02:09:08,114 --> 02:09:11,918
+Les morts seront enterrés si profondément que même leur fantôme ne les trouvera pas.
+
+1409
+02:09:14,221 --> 02:09:15,822
+Et les survivants ?
+
+1410
+02:09:17,624 --> 02:09:19,226
+Les jumeaux.
+
+1411
+02:09:22,730 --> 02:09:25,433
+Tôt ou tard, ils vont faire parler d’eux.
+
+1412
+02:09:27,935 --> 02:09:30,237
+L’espionnage est obsolète..
+
+1413
+02:09:30,238 --> 02:09:31,840
+Les Héros sont révolus..
+
+1414
+02:09:33,041 --> 02:09:35,544
+C’est l’époque des miracles, docteur.
+
+1415
+02:09:37,646 --> 02:09:42,251
+Et il n’y a rien de plus terrifiant qu’un miracle.
+
