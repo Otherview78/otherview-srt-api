@@ -1,0 +1,4997 @@
+1
+00:03:15,995 --> 00:03:19,487
+<i>C'est moi, Peter Parker.</i>
+<i>Vôtre amical voisin...</i>
+
+2
+00:03:19,699 --> 00:03:20,666
+<i>... vous savez.</i>
+
+3
+00:03:20,867 --> 00:03:23,836
+<i>J'ai fait du chemin depuis</i>
+<i>le garçon qui a été mordu par une arraignée.</i>
+
+4
+00:03:24,037 --> 00:03:26,870
+<i>En ce temps, rien ne semblait</i>
+<i>aller bien pour moi. Maintenant...</i>
+
+5
+00:03:27,073 --> 00:03:28,438
+Regardez, c'est Spider-Man!
+
+6
+00:03:28,641 --> 00:03:30,233
+- Super cool!
+- Spider-man!
+
+7
+00:03:30,443 --> 00:03:32,411
+<i>... les gens m'apprécient vraiment.</i>
+
+8
+00:03:32,612 --> 00:03:35,342
+Restez dans le coin. Ca va recommencer
+dans quelques minutes.
+
+9
+00:03:35,548 --> 00:03:38,108
+Ca va.
+
+10
+00:03:39,319 --> 00:03:41,014
+<i>La ville est saine et sauve.</i>
+
+11
+00:03:41,221 --> 00:03:43,155
+<i>Je suppose que j'y ai été</i>
+<i>pour quelquechose.</i>
+
+12
+00:03:43,356 --> 00:03:45,119
+<i>Mon Oncle Ben serait fier.</i>
+
+13
+00:03:51,064 --> 00:03:53,055
+<i>Je vais toujours en cours. 1er de la classe.</i>
+
+14
+00:03:53,266 --> 00:03:55,097
+Le cycle Hamiltonien nous montre...
+
+15
+00:03:55,301 --> 00:03:59,533
+...que les niveaux d'énergie 
+sont perturbés par le champs électrique.
+
+16
+00:04:02,108 --> 00:04:06,477
+Depuis la forme de cette matrice,
+nous pouvons voir...?
+
+17
+00:04:06,679 --> 00:04:08,647
+Mlle Stacy?
+
+18
+00:04:08,848 --> 00:04:12,079
+que seul l'état quantique m égal zéro
+est affecté.
+
+19
+00:04:12,285 --> 00:04:15,345
+Correct. Bon travail, Mlle Stacy.
+
+20
+00:04:19,392 --> 00:04:22,725
+Parker? Quelquechose à ajouter?
+
+21
+00:04:23,563 --> 00:04:25,224
+Non, Monsieur.
+
+22
+00:04:27,667 --> 00:04:31,763
+<i>Et je suis amoureux</i>
+<i>de la fille de mes rêves.</i>
+
+23
+00:04:46,753 --> 00:04:48,653
+Salut.
+
+24
+00:04:48,855 --> 00:04:53,258
+Mlle Watson a laissé un ticket pour moi.
+Peter Parker.
+
+25
+00:04:54,260 --> 00:04:55,784
+Excusez-moi. Désolé.
+
+26
+00:04:55,995 --> 00:04:58,395
+Merci. Désolé.
+
+27
+00:05:04,070 --> 00:05:06,766
+Je suis si nerveux.
+
+28
+00:05:30,630 --> 00:05:32,894
+C'est ma petite-amie.
+
+29
+00:06:46,939 --> 00:06:49,499
+- Je l'ai trouvé bonne.
+- Ouai.
+
+30
+00:06:51,077 --> 00:06:52,203
+Harry?
+
+31
+00:06:52,412 --> 00:06:53,811
+Harry!
+
+32
+00:06:54,013 --> 00:06:56,004
+Il faut que je te parle.
+
+33
+00:06:56,649 --> 00:06:58,378
+Expliquer certaines choses.
+
+34
+00:07:00,453 --> 00:07:04,014
+Dis-le à mon père.
+Ramènes-le d'entre les morts.
+
+35
+00:07:05,825 --> 00:07:09,556
+Je suis ton ami, Harry.
+J'avais de la sympathie pour ton père.
+
+36
+00:07:18,704 --> 00:07:19,693
+M.J.!
+
+37
+00:07:19,906 --> 00:07:22,170
+- Peter!
+- Félicitations!
+
+38
+00:07:22,375 --> 00:07:24,605
+- J'étais bonne?
+- Bonne? Tu étais géniale.
+
+39
+00:07:24,811 --> 00:07:27,109
+- Tu étais...
+- Tu as dit "géniale".
+
+40
+00:07:27,313 --> 00:07:30,805
+J'aime mes fleurs, elles sont magnifiques.
+Et celles-là viennent de Harry.
+
+41
+00:07:31,017 --> 00:07:34,919
+- Il était là ce soir?
+- Ouai, je suis tombé sur lui, dehors.
+
+42
+00:07:35,121 --> 00:07:38,215
+- Qu'est-ce que vous avez?
+- C'est compliqué.
+
+43
+00:07:38,424 --> 00:07:40,415
+Dis-moi encore. J'étais vraiment bonne?
+
+44
+00:07:40,626 --> 00:07:42,958
+J'étais si nerveuse.
+Mes genoux tremblaient.
+
+45
+00:07:43,162 --> 00:07:45,630
+- Tes genoux étaient très bien.
+- Les applaudissements n'étaient pas très forts.
+
+46
+00:07:45,832 --> 00:07:47,732
+Si, ils l'étaient. C'est l'acoustique.
+
+47
+00:07:47,934 --> 00:07:51,062
+C'est une question de diffusion. 
+Ca empêche les ondes sonores de se grouper.
+
+48
+00:07:51,270 --> 00:07:54,068
+Quand les ondes sonores se propagent,
+alors c'est comme un...
+
+49
+00:07:54,273 --> 00:07:56,241
+T'es vraiment une grosse-tête.
+
+50
+00:08:49,128 --> 00:08:50,993
+T'as vu celle-la?
+
+51
+00:09:00,239 --> 00:09:01,934
+Tu sais quoi?
+
+52
+00:09:03,509 --> 00:09:06,967
+Je voudrais chanter sur scène
+pour le restant de mes jours...
+
+53
+00:09:07,179 --> 00:09:09,545
+...avec toi au premier rang.
+
+54
+00:09:10,883 --> 00:09:12,714
+J'y serai.
+
+55
+00:09:14,787 --> 00:09:16,914
+Dis-moi que tu m'aime.
+
+56
+00:09:19,125 --> 00:09:21,059
+Je t'aime.
+
+57
+00:09:21,594 --> 00:09:23,755
+Je t'aime tant.
+
+58
+00:09:25,064 --> 00:09:26,588
+Depuis toujours.
+
+59
+00:10:14,347 --> 00:10:15,780
+- Prête?
+- Ouaip.
+
+60
+00:12:11,464 --> 00:12:13,728
+Tu peux pas te cacher ici, Flint.
+
+61
+00:12:14,200 --> 00:12:18,296
+- Je suis juste ici pour voir ma fille.
+- Tu es un détenu en fuite.
+
+62
+00:12:18,504 --> 00:12:22,235
+Les flics te cherchent.
+Ne t'approche pas d'elle.
+
+63
+00:12:22,708 --> 00:12:25,905
+T'es rien qu'un banal voleur.
+
+64
+00:12:26,112 --> 00:12:29,570
+- Tu as peut-être même tué un homme?
+- C'est pas si simple.
+
+65
+00:12:30,483 --> 00:12:32,110
+Ca ne l'est pas.
+
+66
+00:12:32,318 --> 00:12:34,445
+J'avais de bonnes raisons
+pour ce que j'ai fait.
+
+67
+00:12:34,653 --> 00:12:35,847
+Et c'est la vérité.
+
+68
+00:12:36,055 --> 00:12:40,219
+Toi et la vérité, assis en prison,
+Prenant 3 repas par jour ensemble.
+
+69
+00:12:40,426 --> 00:12:42,951
+Je vis en présence d'une grande vérité...
+
+70
+00:12:43,162 --> 00:12:45,460
+...et c'est cette vérité
+que tu as laissé derrière...
+
+71
+00:12:45,664 --> 00:12:48,428
+...juste là, dans cette chambre.
+
+72
+00:13:01,647 --> 00:13:03,342
+Penny.
+
+73
+00:13:04,350 --> 00:13:05,977
+Tu m'as manqué.
+
+74
+00:13:07,219 --> 00:13:09,710
+Tu m'as manqué aussi, Papa.
+
+75
+00:13:20,733 --> 00:13:24,225
+Je te promets de te rendre de nouveau
+la santé.
+
+76
+00:13:24,436 --> 00:13:27,337
+Quoiqu'il en côute, j'aurai l'argent.
+
+77
+00:13:27,540 --> 00:13:30,600
+Sors d'ici. Maintenant.
+
+78
+00:13:41,987 --> 00:13:43,887
+Je ne suis pas quelqu'un de mauvais.
+
+79
+00:13:45,791 --> 00:13:47,816
+J'ai juste joué de malchance.
+
+80
+00:14:05,711 --> 00:14:07,338
+Peter, qu'est-ce qui se passe?
+
+81
+00:14:09,315 --> 00:14:10,942
+C'est M.J.
+
+82
+00:14:11,817 --> 00:14:15,275
+- Je vais lui demander de m'épouser.
+- Peter.
+
+83
+00:14:17,323 --> 00:14:22,022
+Le jour où ton Oncle Ben m'a demandé
+de l'épouser, nous étions si effrayés.
+
+84
+00:14:22,228 --> 00:14:24,025
+Et excités.
+
+85
+00:14:24,230 --> 00:14:25,993
+Et très jeunes.
+
+86
+00:14:26,198 --> 00:14:29,065
+Et je l'aimais si violemment.
+
+87
+00:14:29,268 --> 00:14:31,293
+- Et tu as dit Oui, pas vrai?
+- Non.
+
+88
+00:14:31,503 --> 00:14:33,869
+Je voulais dire Oui, mais j'ai dit Non.
+
+89
+00:14:34,073 --> 00:14:36,769
+Je n'étais pas prête. Lui non-plus.
+
+90
+00:14:36,976 --> 00:14:39,240
+Donc nous avons pris nôtre temps.
+
+91
+00:14:39,445 --> 00:14:41,811
+Attendant avec impatience.
+
+92
+00:14:42,014 --> 00:14:45,575
+Nous ne voulions pas nous engager
+sans pouvoir compter sur rien si ce n'est l'amour.
+
+93
+00:14:47,052 --> 00:14:49,816
+Un homme doit-être compréhensif...
+
+94
+00:14:50,022 --> 00:14:53,048
+...et faire passer sa femme avant lui.
+
+95
+00:14:53,959 --> 00:14:56,359
+Tu peux faire ça, Peter?
+
+96
+00:14:58,030 --> 00:15:00,760
+Ouai, je pense que je peux.
+
+97
+00:15:00,966 --> 00:15:04,265
+Alors tu as ma bénédiction.
+
+98
+00:15:06,438 --> 00:15:09,430
+J'éspères que tu as envisagé
+une demande convenable.
+
+99
+00:15:09,642 --> 00:15:12,975
+Ton Oncle avait tout prévu.
+
+100
+00:15:13,178 --> 00:15:15,078
+Il m'a emmené à la plage un Dimanche.
+
+101
+00:15:15,281 --> 00:15:18,045
+Il était "à tomber"
+dans son maillot de bain.
+
+102
+00:15:18,250 --> 00:15:20,718
+Et je n'étais pas trop mal non-plus.
+
+103
+00:15:20,920 --> 00:15:22,888
+Nous étions de très bons nageurs.
+
+104
+00:15:23,088 --> 00:15:25,579
+Et c'était une magnifique journée
+et il a dit:
+
+105
+00:15:25,791 --> 00:15:27,691
+"Nageons jusqu'à l'île."
+
+106
+00:15:27,893 --> 00:15:33,263
+Et sur l'île, nous avons trouvé
+un parfait endroit près d'un vieil arbre...
+
+107
+00:15:33,465 --> 00:15:36,957
+...nous nous sommes allongés
+et avons regardé le ciel.
+
+108
+00:15:37,169 --> 00:15:40,400
+Alors il a dit,
+"Fermes les yeux, May."
+
+109
+00:15:40,606 --> 00:15:43,336
+Je l'ai fait.
+Puis il a dit, "Ouvres-les."
+
+110
+00:15:43,542 --> 00:15:45,305
+Et je l'ai fait.
+
+111
+00:15:45,511 --> 00:15:48,378
+Et il tenait cette anneau.
+
+112
+00:15:49,748 --> 00:15:51,181
+Eblouissant...
+
+113
+00:15:51,383 --> 00:15:53,078
+...devant moi.
+
+114
+00:15:55,454 --> 00:15:57,854
+J'ai cru que c'était le Soleil.
+
+115
+00:16:00,292 --> 00:16:03,090
+Nous aurrions été mariés 50 ans...
+
+116
+00:16:04,096 --> 00:16:06,860
+...en Août, si... .
+
+117
+00:16:13,505 --> 00:16:14,870
+Alors...
+
+118
+00:16:16,542 --> 00:16:21,878
+...j'éspère que tu rendra cela spécial
+pour Mary Jane.
+
+119
+00:16:22,781 --> 00:16:25,750
+Fais quelquechose qu'elle n'oubliera jamais.
+
+120
+00:16:28,754 --> 00:16:30,346
+Donnes-lui ceci.
+
+121
+00:16:32,124 --> 00:16:34,752
+Allez. Prends-le.
+
+122
+00:17:52,004 --> 00:17:54,404
+- Harry.
+- Tu devais t'y attendre, Pete.
+
+123
+00:17:58,143 --> 00:18:00,634
+Ecoutes-moi. Je n'ai pas tué ton père.
+
+124
+00:18:02,514 --> 00:18:04,448
+Il essayait de me tuer.
+Il s'est tué lui-même.
+
+125
+00:18:04,650 --> 00:18:06,379
+La ferme!
+
+126
+00:19:48,420 --> 00:19:50,752
+Je suis toujours là, Peter.
+
+127
+00:20:15,047 --> 00:20:16,844
+Je hais ces trucs.
+
+128
+00:21:15,574 --> 00:21:17,007
+Harry?
+
+129
+00:21:21,013 --> 00:21:22,412
+Harry.
+
+130
+00:21:23,482 --> 00:21:24,972
+Harry.
+
+131
+00:21:29,821 --> 00:21:31,755
+Bon dieu.
+
+132
+00:21:38,063 --> 00:21:39,928
+Harry!
+
+133
+00:21:41,833 --> 00:21:43,698
+Allez!
+
+134
+00:21:46,405 --> 00:21:48,032
+Dieu.
+
+135
+00:21:51,677 --> 00:21:52,905
+- Défibrilation.
+- 200.
+
+136
+00:21:53,111 --> 00:21:54,840
+On dégage.
+
+137
+00:21:55,047 --> 00:21:56,241
+Pas de réponse.
+
+138
+00:21:56,448 --> 00:21:58,177
+- Recharge, on recommence.
+- Allez-y.
+
+139
+00:21:58,383 --> 00:22:00,783
+- Charge.
+- On dégage.
+
+140
+00:22:00,986 --> 00:22:01,953
+Aucune réponse.
+
+141
+00:22:02,154 --> 00:22:05,317
+On recharge et on recommence
+encore une fois. On dégage.
+
+142
+00:22:11,029 --> 00:22:12,519
+Capitaine Stacy.
+
+143
+00:22:13,365 --> 00:22:14,593
+- C'est quoi?
+- Flint Marko.
+
+144
+00:22:14,800 --> 00:22:16,859
+Le type que nous avons lié
+à l'homicide de Ben Parker.
+
+145
+00:22:17,069 --> 00:22:18,866
+- Et alors?
+- Il s'est évadé de "Rikers".
+
+146
+00:22:19,071 --> 00:22:20,368
+- Et?
+- Il est en cavale.
+
+147
+00:22:20,572 --> 00:22:22,699
+Il est dans les marais.
+Je pense qu'on le tient.
+
+148
+00:22:27,012 --> 00:22:28,639
+Il est là.
+
+149
+00:22:47,399 --> 00:22:50,266
+Vous 2, prenez le coté Ouest.
+Tommy, prends par l'Est.
+
+150
+00:22:54,673 --> 00:22:56,300
+Où est-il passé?
+
+151
+00:23:18,430 --> 00:23:20,091
+- Condenseurs chargés.
+- Bien.
+
+152
+00:23:20,298 --> 00:23:22,289
+Donnie, nous avons une petite fluctuation
+sur l'un.
+
+153
+00:23:22,501 --> 00:23:26,164
+- Il y'a un changement dans la masse de silicium.
+- C'est sûrement un oiseau. Il s'envolera.
+
+154
+00:23:26,371 --> 00:23:28,100
+Démolécularisation enclenchée.
+
+155
+00:24:58,129 --> 00:25:00,120
+- Comment va-t'il?
+- Il va s'en remettre.
+
+156
+00:25:00,332 --> 00:25:02,698
+Mais il y'a eu une certaine
+diminution de la mémoire.
+
+157
+00:25:02,901 --> 00:25:04,528
+Particulièrement la mémoire à court terme.
+
+158
+00:25:04,736 --> 00:25:06,761
+Tout de suite, il est incapable
+de se souvenir de l'accident...
+
+159
+00:25:06,972 --> 00:25:09,031
+...ou rien de ce qui a pù lui arriver
+récemment.
+
+160
+00:25:09,241 --> 00:25:10,469
+Est-ce permanent?
+
+161
+00:25:10,675 --> 00:25:13,667
+Ca le pourrait. Le temps nous le dira.
+
+162
+00:25:14,112 --> 00:25:16,273
+Il est réveillé, si vous voulez le voir.
+
+163
+00:25:16,481 --> 00:25:17,709
+Je devrais peut-être attendre.
+
+164
+00:25:17,916 --> 00:25:21,215
+Non, ça va aller. Soyez juste bref.
+Je veux qu'il se repose.
+
+165
+00:25:40,405 --> 00:25:41,667
+Mon pote.
+
+166
+00:25:42,374 --> 00:25:43,773
+
+
+167
+00:25:44,509 --> 00:25:46,033
+Je me suis cogné la tête.
+
+168
+00:25:46,244 --> 00:25:47,711
+Ouai.
+
+169
+00:25:48,013 --> 00:25:50,243
+Le Docteur a dit que j'ai eu un accident.
+
+170
+00:25:50,448 --> 00:25:51,506
+Délit de fuite.
+
+171
+00:25:52,250 --> 00:25:54,741
+Je ne me souviens pas de grand-chose.
+
+172
+00:25:56,321 --> 00:25:57,948
+Mon père...
+
+173
+00:25:58,590 --> 00:26:00,023
+...il est mort, pas vrai?
+
+174
+00:26:02,360 --> 00:26:04,760
+Tout ceci est si bizarre.
+
+175
+00:26:06,064 --> 00:26:09,522
+Salut. J'ai fait aussi vite que j'ai pù.
+
+176
+00:26:09,734 --> 00:26:10,701
+Je connais ce visage.
+
+177
+00:26:11,202 --> 00:26:12,396
+Comment tu vas?
+
+178
+00:26:12,604 --> 00:26:14,071
+Je sais pas.
+
+179
+00:26:14,272 --> 00:26:16,297
+Le dernier truc dont je me rappelle, j'étais bien.
+
+180
+00:26:16,508 --> 00:26:17,600
+Quelque-part.
+
+181
+00:26:18,343 --> 00:26:19,571
+T'es toujours bien.
+
+182
+00:26:21,179 --> 00:26:22,976
+Nous t'aimons, Harry.
+
+183
+00:26:23,682 --> 00:26:25,616
+C'est comme...
+
+184
+00:26:26,518 --> 00:26:29,919
+...si j'avais été absent
+pendant très longtemps.
+
+185
+00:26:31,590 --> 00:26:33,217
+Et maintenant je suis de retour à la maison.
+
+186
+00:26:33,925 --> 00:26:36,052
+C'est bon de te retrouver.
+
+187
+00:26:37,062 --> 00:26:40,156
+Désolé, je vais devoir vous demander
+d'y aller, ok?
+
+188
+00:26:40,365 --> 00:26:42,629
+- Ok.
+- D'accord. Merci.
+
+189
+00:26:42,834 --> 00:26:44,768
+Je te verrai demain.
+
+190
+00:26:44,970 --> 00:26:46,961
+Ouai. Génial.
+
+191
+00:26:47,772 --> 00:26:49,296
+Tache de dormir un peu.
+
+192
+00:26:52,811 --> 00:26:55,279
+- Je pense que ça va aller.
+- Je le pense aussi.
+
+193
+00:26:55,480 --> 00:26:58,074
+- Et ça a l'air d'aller entre vous.
+- Ouai.
+
+194
+00:27:01,286 --> 00:27:02,844
+Vous avez de charmants amis.
+
+195
+00:27:03,054 --> 00:27:05,113
+Mes meilleurs amis.
+
+196
+00:27:07,826 --> 00:27:09,953
+Je donnerais ma vie pour eux.
+
+197
+00:30:19,617 --> 00:30:21,881
+- Oui?
+- C'est moi.
+
+198
+00:30:22,754 --> 00:30:24,153
+
+
+199
+00:30:24,522 --> 00:30:26,683
+Peter, tu sais que je peux pas
+ouvrir la porte.
+
+200
+00:30:26,891 --> 00:30:28,290
+Ca coince encore?
+
+201
+00:30:28,827 --> 00:30:30,886
+Viens et aide-moi.
+
+202
+00:30:31,095 --> 00:30:32,619
+J'arrive.
+
+203
+00:30:38,870 --> 00:30:40,997
+- Les critiques.
+
+204
+00:30:41,806 --> 00:30:44,866
+- Ils ont détesté. Ils m'ont détesté.
+- Il ne peuvent pas te détester.
+
+205
+00:30:45,076 --> 00:30:47,306
+"La jeune Mlle Watson
+est une jolie fille...
+
+206
+00:30:47,512 --> 00:30:49,605
+...belle à regarder,
+mais pas à écouter.
+
+207
+00:30:49,814 --> 00:30:52,078
+Sa petite voix ne porte pas 
+plus loin que le 1er rang."
+
+208
+00:30:52,283 --> 00:30:54,308
+C'est ridicule, j'étais là-bas.
+
+209
+00:30:54,519 --> 00:30:56,043
+Tu étais au 1er rang.
+
+210
+00:30:56,254 --> 00:30:59,587
+Ouai, c'est... Ecoutes, t'étais géniale.
+
+211
+00:31:00,058 --> 00:31:04,154
+C'est une critique. C'est quelquechose
+à laquelle tu vas devoir t'habituer.
+
+212
+00:31:04,362 --> 00:31:07,820
+Crois-moi, je sais.
+Spider-Man se fait attaquer tout le temps.
+
+213
+00:31:08,032 --> 00:31:11,991
+C'est pas à propos de toi. C'est à propos de moi.
+C'est à propos de ma carrière.
+
+214
+00:31:12,203 --> 00:31:15,639
+Je sais, et je dis juste que
+tu peux pas laisser ça te déscendre.
+
+215
+00:31:15,840 --> 00:31:18,570
+Tu dois croire en toi,
+et te ressaisir.
+
+216
+00:31:18,776 --> 00:31:20,403
+Tu remontes direct
+en selle...
+
+217
+00:31:20,612 --> 00:31:22,409
+Me sors pas le truc de la selle.
+
+218
+00:31:22,614 --> 00:31:25,014
+Essayes de comprendre ce que j'éprouve.
+
+219
+00:31:30,021 --> 00:31:31,648
+C'est juste...
+
+220
+00:31:34,659 --> 00:31:36,752
+...je regarde ces mots...
+
+221
+00:31:37,762 --> 00:31:40,060
+...et c'est comme si mon père les avait écrit.
+
+222
+00:31:41,199 --> 00:31:45,329
+<i>A toutes les voitures. A toutes les voitures à proximité</i>
+<i> de la 54e et de la 6e Avenue, veuillez signaler.</i>
+
+223
+00:31:45,536 --> 00:31:48,164
+<i>Une grue hors de contrôle,</i>
+<i>approchez avec précaution.</i>
+
+224
+00:31:51,442 --> 00:31:53,137
+"Vas les attraper, tigre"?
+
+225
+00:31:55,446 --> 00:31:57,004
+Je suis désolé.
+
+226
+00:32:30,181 --> 00:32:32,513
+Bon dieu. 7-Adam à Central.
+
+227
+00:32:32,717 --> 00:32:35,515
+Le job de la grue sur lequel vous nous avez envoyé?
+C'est plus gros que prévu.
+
+228
+00:32:35,720 --> 00:32:38,985
+Nous allons avoir besoin
+d'une mobilisation majeure, tout de suite.
+
+229
+00:32:45,063 --> 00:32:48,794
+Coupez le générateur. Maintenant!
+
+230
+00:32:52,270 --> 00:32:55,535
+Ok, Gwen, j'ai un secret:
+C'est mon photocopieur.
+
+231
+00:32:58,776 --> 00:33:01,506
+Qu'est-ce que ce truc fait
+dans mon arrière-plan?
+
+232
+00:33:27,271 --> 00:33:29,967
+Ils ont eu un court-circuit.
+Impossible d'éteindre la grue.
+
+233
+00:33:30,174 --> 00:33:32,972
+Joignez "Edison" par téléphone.
+Couper le jus dans tout le quartier.
+
+234
+00:33:36,714 --> 00:33:37,703
+Ca va?
+
+235
+00:33:37,915 --> 00:33:39,507
+Ca revient.
+
+236
+00:33:41,619 --> 00:33:42,643
+Non.
+
+237
+00:34:06,477 --> 00:34:09,378
+- Mon dieu. C'est Gwen.
+- Quoi?
+
+238
+00:34:14,585 --> 00:34:15,916
+Qu'est-ce qu'elle fait là-haut?
+
+239
+00:34:16,120 --> 00:34:18,884
+Je l'ai vu hier soir.
+Elle a dit qu'elle avait une séance photo.
+
+240
+00:34:19,090 --> 00:34:22,025
+- Qui êtes-vous?
+- Brock, Monsieur. Edward Brock Jr.
+
+241
+00:34:22,226 --> 00:34:23,955
+Et je travaille au <i>Daily Bugle.</i>
+
+242
+00:34:24,762 --> 00:34:27,060
+Et je sors avec vôtre fille.
+
+243
+00:35:22,487 --> 00:35:23,784
+Ca va?
+
+244
+00:35:23,988 --> 00:35:26,354
+Ouai, je vais bien.
+
+245
+00:35:26,557 --> 00:35:27,546
+Merci.
+
+246
+00:35:27,758 --> 00:35:30,090
+Spidey, attends.
+Le <i>Bugle</i> a besoin d'une photo.
+
+247
+00:35:30,294 --> 00:35:32,091
+- Dieu-merci tu vas bien.
+- Papa.
+
+248
+00:35:32,296 --> 00:35:34,196
+Je suis le nouveau.
+
+249
+00:35:34,398 --> 00:35:35,422
+Le nouveau?
+
+250
+00:35:37,168 --> 00:35:38,135
+Ca va?
+
+251
+00:35:38,336 --> 00:35:41,203
+A partir de maintenant, je vais
+prendre des photos de toi pour le <i>Bugle.</i>
+
+252
+00:35:41,405 --> 00:35:44,203
+Alors souris. Tu souris?
+J'déconne.
+
+253
+00:35:44,408 --> 00:35:46,899
+- Ils ont déjà quelqu'un.
+- Qui, Parker?
+
+254
+00:35:47,345 --> 00:35:51,475
+Ouai, écoutes, entre toi et moi,
+ce gars n'est qu'un amateur.
+
+255
+00:35:51,682 --> 00:35:54,344
+T'as pas remarqué que ses trucs
+te donnaient l'air un peu enrobé?
+
+256
+00:35:54,552 --> 00:35:56,816
+Juste... ouai, un peu trapu.
+
+257
+00:35:57,255 --> 00:35:58,813
+Ok.
+
+258
+00:35:59,524 --> 00:36:01,958
+Mais tu n'as plus à t'inquieter de ça,
+mon pote.
+
+259
+00:36:10,902 --> 00:36:11,891
+Ebluissez-moi.
+
+260
+00:36:19,577 --> 00:36:22,410
+Juste un truc que les gars du marketing
+et moi avons préparé vite-fait.
+
+261
+00:36:22,613 --> 00:36:25,480
+Comme vous savez, le tirage au <i>Bugle</i>
+a été très bon.
+
+262
+00:36:25,683 --> 00:36:27,548
+Même si pas aussi bon
+que <i>The New York Times.</i>
+
+263
+00:36:27,752 --> 00:36:30,448
+Ou le <i>Daily News,</i> ou le <i>Post,</i>
+ou plusieurs autres plus petits...
+
+264
+00:36:30,655 --> 00:36:32,623
+Abrèges, crétin...!
+
+265
+00:36:32,823 --> 00:36:34,757
+- Quoi?
+- Vôtre tension, Mr. Jameson.
+
+266
+00:36:34,959 --> 00:36:38,156
+- Vôtre femme vous a dit de surveiller vos colères.
+- Vous direz à ma femme...
+
+267
+00:36:41,799 --> 00:36:43,562
+Merci.
+
+268
+00:36:45,403 --> 00:36:48,395
+Donc je propose cette campagne.
+
+269
+00:36:48,606 --> 00:36:51,040
+<i>"Daily Bugle."</i> c'est évident.
+
+270
+00:36:51,242 --> 00:36:54,336
+"C'est tendance, c'est maintenant."
+Ca vient de moi.
+
+271
+00:36:55,279 --> 00:36:57,941
+"C'est dément." Ca vient d'Erickson.
+Il devient dingue.
+
+272
+00:36:58,149 --> 00:37:00,379
+Nous en avons rajouté,
+ça donne:
+
+273
+00:37:00,718 --> 00:37:03,585
+"Et comment." C'est encore moi.
+
+274
+00:37:04,121 --> 00:37:05,884
+L'heure de prendre vos pillules.
+
+275
+00:37:07,158 --> 00:37:08,785
+Pas celle-la.
+
+276
+00:37:09,560 --> 00:37:11,221
+Pas celle-la.
+
+277
+00:37:19,403 --> 00:37:21,769
+Buvez beaucoup d'eau.
+
+278
+00:37:25,676 --> 00:37:27,109
+Merci.
+
+279
+00:37:29,513 --> 00:37:30,480
+Continuez.
+
+280
+00:37:34,018 --> 00:37:36,646
+- Il est occupé.
+- Je suis ici pour te parler, beauté.
+
+281
+00:37:36,854 --> 00:37:38,378
+C'est quoi cette odeur?
+
+282
+00:37:38,589 --> 00:37:41,854
+C'est un petit quelquechose appelé
+"Beau et Facile". Et toi?
+
+283
+00:37:42,059 --> 00:37:43,617
+Ca s'appelle "Vas t'en".
+
+284
+00:37:43,828 --> 00:37:45,762
+C'est l'idée la plus débile
+que vous ayez jamais eu...
+
+285
+00:37:45,963 --> 00:37:48,830
+...et vous en avez eu des bizareries.
+- Tension.
+
+286
+00:37:49,233 --> 00:37:50,996
+Où tu vas comme ça?
+
+287
+00:37:52,603 --> 00:37:55,197
+- Qui êtes-vous?
+- vous l'avez embauché la semaine dernière. Freelance.
+
+288
+00:37:55,439 --> 00:37:58,272
+- J'ai fait ça? C'est quoi cette odeur?
+- C'est Brock, Monsieur. Edward Brock Jr.
+
+289
+00:37:58,476 --> 00:38:01,775
+Puis-je juste dire que j'aime vraiment cette chemise?
+Tenez, c'est l'incident de la grue.
+
+290
+00:38:01,979 --> 00:38:03,810
+- Vérifiez la lumière.
+- Il aime ma chemise.
+
+291
+00:38:04,015 --> 00:38:05,107
+- Betty.
+- Pete.
+
+292
+00:38:05,316 --> 00:38:07,011
+Tu ferais mieux d'entrer. Le nouveau.
+
+293
+00:38:07,218 --> 00:38:10,051
+Il essaye de vendre
+des photos de Spidey.
+
+294
+00:38:11,622 --> 00:38:13,112
+Merci.
+
+295
+00:38:13,324 --> 00:38:16,259
+Parker. T'es en retard, peut-être trop.
+Bruckner t'as battu.
+
+296
+00:38:16,460 --> 00:38:18,018
+C'est Brock, Monsieur. Edward Brock Jr.
+
+297
+00:38:18,229 --> 00:38:20,527
+- Je vous ai eu ceci.
+- Mais il m'a eu ceci.
+
+298
+00:38:20,731 --> 00:38:23,063
+Je ne t'ai pas vu là-bas.
+Comment t'es allé aussi haut?
+
+299
+00:38:23,267 --> 00:38:26,065
+- J'ai grimpé. 'Failli tomber d'un porte-drapeau.
+- Un porte-drapeau?
+
+300
+00:38:26,270 --> 00:38:29,103
+- Laquelle on prend?
+- J'aime celle de Bernstein.
+
+301
+00:38:29,307 --> 00:38:30,501
+- Elle est mieux.
+- Et moins chère.
+
+302
+00:38:30,708 --> 00:38:33,370
+Félicitations, nous prenons la vôtre.
+Je vous paierai 50 dollars.
+
+303
+00:38:33,577 --> 00:38:34,976
+D'accord, J.J., j'suis vôtre homme.
+
+304
+00:38:35,179 --> 00:38:37,841
+J'en sais plus sur une bonne photo
+que n'importe-quel photographe dans cette ville.
+
+305
+00:38:38,049 --> 00:38:41,746
+Vous voyez, la photographie, c'est pas juste une question de,
+sans offense, porte-drapeaux ou quoi.
+
+306
+00:38:41,952 --> 00:38:44,147
+C'est une question de lumière.
+De composition. De drame.
+
+307
+00:38:45,089 --> 00:38:46,454
+Je veux un boulot dans l'équipe, Monsieur.
+
+308
+00:38:46,657 --> 00:38:49,785
+J'ai une fille que j'ai l'intention d'épouser...
+
+309
+00:38:49,994 --> 00:38:52,861
+...et je suppose, je sais pas,
+j'ai ce petit rêve idiot...
+
+310
+00:38:53,064 --> 00:38:56,500
+...de travailler avec l'un des plus grands
+rédacteurs de journal de nôtre époque.
+
+311
+00:38:57,168 --> 00:38:58,465
+J. Jonah Jameson.
+
+312
+00:39:01,939 --> 00:39:04,669
+Nous avons une ouverture.
+Johnson est parti, tu te souviens?
+
+313
+00:39:04,875 --> 00:39:06,001
+- Tu l'a viré.
+- Peu importe.
+
+314
+00:39:06,210 --> 00:39:09,111
+Je sais ce qui fait une bonne photo
+et j'ai été ici pendant longtemps.
+
+315
+00:39:09,313 --> 00:39:11,372
+Si il y'a un boulot d'équipe,
+je pense que je le mérite.
+
+316
+00:39:11,582 --> 00:39:15,313
+Il a raison, Jonah. Peter est avec nous
+depuis 4 ans. Il a fait du super boulot.
+
+317
+00:39:15,519 --> 00:39:17,453
+Tu veux un job d'équipe,
+tu veux un job d'équipe.
+
+318
+00:39:17,655 --> 00:39:19,452
+- Quelqu'un se soucie de ce que je veux?
+- Oui, moi.
+
+319
+00:39:19,657 --> 00:39:21,420
+La ferme. Dehors
+
+320
+00:39:21,625 --> 00:39:25,026
+Je veux que le public voit Spider-Man
+pour le criminel à 2 balles qu'il est réellement.
+
+321
+00:39:25,229 --> 00:39:29,393
+C'est un faux, il est plein de scotch.
+Attrapez-le sur le fait.
+
+322
+00:39:29,600 --> 00:39:31,864
+Spider-Man avec la main dans le pot de cookies.
+
+323
+00:39:32,069 --> 00:39:34,003
+Celui qui me rapporte cette photo
+a le boulot.
+
+324
+00:39:34,205 --> 00:39:36,070
+Vous attendez quoi,
+le nouvel an Chinois?
+
+325
+00:39:36,273 --> 00:39:37,672
+J'suis sur le coup, boss.
+
+326
+00:39:39,176 --> 00:39:40,404
+T'auras jamais cette photo.
+
+327
+00:39:40,611 --> 00:39:41,942
+Nous verrons.
+
+328
+00:39:56,460 --> 00:40:01,454
+Tu sais, je suppose qu'une personne
+peut faire la différence.
+
+329
+00:40:03,033 --> 00:40:04,762
+Assez parlé.
+
+330
+00:40:10,007 --> 00:40:12,475
+Bienvenue à la maison, Harry.
+
+331
+00:40:13,310 --> 00:40:16,609
+- Dieu-merci, tu vas bien.
+- Merci, Bernard.
+
+332
+00:40:16,814 --> 00:40:18,975
+- Bernard.
+- Monsieur.
+
+333
+00:40:20,985 --> 00:40:23,476
+Un petit cadeau de bienvenue.
+
+334
+00:40:24,588 --> 00:40:26,249
+- C'est ton vieux ballon.
+- Ouai.
+
+335
+00:40:26,457 --> 00:40:27,549
+Merci, mon pote.
+
+336
+00:40:28,325 --> 00:40:30,555
+Nous étions plutôt bons
+dans le jardin, nan?
+
+337
+00:40:30,761 --> 00:40:34,390
+Nous étions terribles.
+Et nous avons tenté le coup pour l'équipe universitaire.
+
+338
+00:40:34,598 --> 00:40:36,589
+- Pour les majorettes.
+- C'est vrai.
+
+339
+00:40:36,801 --> 00:40:39,326
+- J'ai des petites-amies?
+- Je sais pas.
+
+340
+00:40:39,537 --> 00:40:40,663
+Tu sais pas?
+
+341
+00:40:41,238 --> 00:40:43,832
+Bernard.
+J'ai des petites-amies?
+
+342
+00:40:44,041 --> 00:40:46,509
+Pas à ma connaissance, Monsieur.
+
+343
+00:40:52,049 --> 00:40:53,641
+Plutôt cool la crèche, hein?
+
+344
+00:40:53,851 --> 00:40:55,512
+Ca va.
+
+345
+00:40:55,719 --> 00:40:58,620
+- J'ai pas l'air de manquer d'argent.
+- Non.
+
+346
+00:40:58,823 --> 00:41:02,589
+Peut-être que je peux retourner
+cette histoire de "pas de petite-amie".
+
+347
+00:41:10,167 --> 00:41:15,002
+Tu sais, il a toujours apprecié la façon
+dont tu m'as aidé durant le collège.
+
+348
+00:41:15,773 --> 00:41:18,367
+Je souhaiterais pouvoir 
+me souvenir plus de lui.
+
+349
+00:41:19,877 --> 00:41:23,335
+Il t'aimais.
+C'est l'essentiel.
+
+350
+00:41:24,482 --> 00:41:28,851
+Regardons un match dans la cuisine.
+Nous prendre de quoi manger.
+
+351
+00:41:29,053 --> 00:41:30,179
+Ok.
+
+352
+00:41:31,589 --> 00:41:32,681
+Attention.
+
+353
+00:41:36,360 --> 00:41:37,349
+T'as vu ça?
+
+354
+00:41:38,162 --> 00:41:40,357
+- T'as toujours les gestes.
+- Ouai.
+
+355
+00:42:14,031 --> 00:42:15,157
+Pourquoi vous arrêtez?
+
+356
+00:42:19,303 --> 00:42:20,327
+Qu'est-ce qu'elle fait ici?
+
+357
+00:42:20,538 --> 00:42:22,403
+Gary était supposé appeler son agent.
+
+358
+00:42:25,042 --> 00:42:27,670
+Salut, chérie. Nous avons essayé de te joindre.
+
+359
+00:42:27,878 --> 00:42:29,368
+Je suis désolé.
+
+360
+00:42:29,580 --> 00:42:30,672
+Une critique?
+
+361
+00:42:30,881 --> 00:42:32,041
+Non, tous les journaux, chérie.
+
+362
+00:42:33,050 --> 00:42:35,450
+Mary Jane, chérie, assieds-toi.
+Laisses-nous t'expliquer.
+
+363
+00:42:35,653 --> 00:42:38,213
+Ecoutes, si tu voudrais,
+nous pourrions dire que tu es tombée malade.
+
+364
+00:42:49,266 --> 00:42:51,200
+C'était ni fait ni à faire.
+
+365
+00:42:51,402 --> 00:42:52,869
+Ouai.
+
+366
+00:42:53,404 --> 00:42:55,235
+Répétons.
+
+367
+00:43:00,945 --> 00:43:03,243
+Très bien, Spidey.
+
+368
+00:43:41,552 --> 00:43:43,520
+<i>Spidey! Spidey! Spidey!</i>
+
+369
+00:43:43,721 --> 00:43:47,282
+Excusez moi, mlle? Pourrais-je s'il vous plait
+voir ce magnifique sourire?
+
+370
+00:43:47,491 --> 00:43:49,220
+Salut, Eddie.
+
+371
+00:43:49,426 --> 00:43:52,520
+Tu es si belle.
+C'est un truc à faire la première page.
+
+372
+00:43:52,730 --> 00:43:54,288
+Je dois m'entrainer. On se voit plus tard.
+
+373
+00:43:54,498 --> 00:43:56,363
+- Que dirais-tu de ce soir?
+- Pas ce soir.
+
+374
+00:43:56,567 --> 00:43:57,966
+Pourquoi pas?
+
+375
+00:43:58,168 --> 00:44:02,036
+Et cette étonnante,
+étonnante nuit que nous avons eu?
+
+376
+00:44:03,173 --> 00:44:06,267
+Nous avons pris un café, Eddie.
+
+377
+00:44:06,477 --> 00:44:08,138
+Beauté.
+
+378
+00:44:08,846 --> 00:44:10,279
+Encore une.
+
+379
+00:44:13,584 --> 00:44:15,916
+- Tout va bien?
+- Ouai, ça va.
+
+380
+00:44:16,120 --> 00:44:20,216
+- T'es pas toujours fachée contre moi, hein?
+- Non, Peter, je suis fière de toi.
+
+381
+00:44:20,424 --> 00:44:22,483
+Je vais arriver en me balançant
+de par-là.
+
+382
+00:44:22,693 --> 00:44:24,752
+- Ouai?
+- Donc tu sais où regarder.
+
+383
+00:44:26,363 --> 00:44:27,694
+Donnes-leur du spectacle.
+
+384
+00:44:28,565 --> 00:44:29,930
+Ne t'inquiètes-pas pour cette critique.
+
+385
+00:44:30,134 --> 00:44:33,570
+Nous en rirons demain soir, c'est promis.
+
+386
+00:44:33,771 --> 00:44:35,295
+Ouai.
+
+387
+00:44:51,989 --> 00:44:54,617
+C'est pas le gars de cette évasion de prison?
+
+388
+00:44:54,925 --> 00:44:56,324
+Il colle.
+
+389
+00:44:56,527 --> 00:44:59,018
+Vous. Hâlte-là.
+
+390
+00:44:59,863 --> 00:45:01,455
+Couvres l'arrière.
+
+391
+00:45:05,035 --> 00:45:07,060
+
+
+392
+00:45:55,652 --> 00:45:56,710
+Il est dans le camion.
+
+393
+00:45:56,920 --> 00:45:58,888
+Encerclez l'avant.
+
+394
+00:46:11,969 --> 00:46:13,436
+Feu.
+
+395
+00:46:37,628 --> 00:46:39,118
+Peuple de la ville de New York...
+
+396
+00:46:39,329 --> 00:46:42,787
+...je suis ici aujourd'hui
+parceque je suis tombée de 62 étages...
+
+397
+00:46:43,000 --> 00:46:44,592
+...et quelqu'un m'a rattrapé.
+
+398
+00:46:44,802 --> 00:46:47,771
+Quelqu'un qui ne demande 
+jamais rien en retour.
+
+399
+00:46:47,971 --> 00:46:51,600
+Quelqu'un qui ne veut même pas
+que nous sachions qui il est.
+
+400
+00:46:51,809 --> 00:46:52,833
+M.J.
+
+401
+00:46:53,043 --> 00:46:55,375
+Harry.
+
+402
+00:46:55,579 --> 00:46:56,944
+Où est Pete?
+
+403
+00:46:57,815 --> 00:46:59,874
+- En train de prendre des photos, je suppose.
+- C'est vrai.
+
+404
+00:47:00,083 --> 00:47:02,813
+Je suis si contente de te voir.
+T'as l'air si bien, Harry.
+
+405
+00:47:03,020 --> 00:47:04,317
+Je ne me suis jamais senti mieux.
+
+406
+00:47:04,521 --> 00:47:06,614
+C'est une sensation bizarre
+de ne pas savoir qui tu es.
+
+407
+00:47:06,824 --> 00:47:09,554
+Un choc sur la tête,
+et je suis aussi libre qu'un oiseau.
+
+408
+00:47:09,827 --> 00:47:12,057
+Me cogneras-tu la tête?
+
+409
+00:47:14,231 --> 00:47:16,461
+Pete a dit que tu jouais au theâtre.
+
+410
+00:47:16,700 --> 00:47:19,328
+Tu es venu. Tu m'as envoyé des fleurs.
+
+411
+00:47:19,536 --> 00:47:22,004
+Vraiment? Je reviendrai ce soir.
+
+412
+00:47:22,673 --> 00:47:25,699
+Impossible. J'ai été remerciée.
+
+413
+00:47:25,909 --> 00:47:27,604
+Que s'est-il passé?
+
+414
+00:47:29,246 --> 00:47:30,713
+Je n'étais pas très bonne.
+
+415
+00:47:32,249 --> 00:47:34,217
+Tu sais, c'est embarrassant...
+
+416
+00:47:34,418 --> 00:47:36,682
+...mais une fois je t'ai écrit une pièce
+au collège.
+
+417
+00:47:36,887 --> 00:47:38,514
+- Tu m'as écrit une pièce?
+- Ouai.
+
+418
+00:47:38,722 --> 00:47:40,280
+Harry, c'est adorable.
+
+419
+00:47:40,490 --> 00:47:43,653
+Alors je vous demande: Lorsque vous tombez
+sans parachute...
+
+420
+00:47:43,861 --> 00:47:47,228
+...ou que vôtre magasin est dévalisé
+ou que vôtre maison est en feu...
+
+421
+00:47:47,431 --> 00:47:49,490
+...qui est-ce qui stoppe vôtre chute...
+
+422
+00:47:49,700 --> 00:47:53,329
+...sort des flammes
+et sauve vos enfants?
+
+423
+00:47:53,537 --> 00:47:55,164
+Spider-Man.
+
+424
+00:47:55,372 --> 00:47:56,430
+Ils m'aiment.
+
+425
+00:47:56,640 --> 00:47:59,939
+Alors faisons du bruit
+pour vôtre seul et unique...
+
+426
+00:48:00,143 --> 00:48:04,580
+...amical voisin
+Spider-Man.
+
+427
+00:48:16,660 --> 00:48:19,823
+Comment ça va? Très bien.
+Comment allez-vous?
+
+428
+00:48:21,498 --> 00:48:23,398
+Shazam!
+
+429
+00:48:25,469 --> 00:48:26,436
+Hey les gars.
+
+430
+00:48:26,637 --> 00:48:28,229
+Spider-Man. Spider-Man.
+
+431
+00:48:28,438 --> 00:48:30,599
+Salut.
+
+432
+00:48:32,442 --> 00:48:33,704
+- Embrasses-le.
+- Embrasses-le.
+
+433
+00:48:33,911 --> 00:48:36,607
+Embrasses-le. Embrasses-le. Embrasses-le.
+
+434
+00:48:37,714 --> 00:48:39,204
+Allez-y, poses-en un.
+
+435
+00:48:39,416 --> 00:48:41,145
+- Vraiment?
+- Ouai, ils vont aimer ça.
+
+436
+00:48:41,351 --> 00:48:42,818
+- Embrasses-la.
+- Embrasses-le.
+
+437
+00:48:43,020 --> 00:48:44,282
+Non, Spider-Man, non.
+
+438
+00:48:44,488 --> 00:48:46,353
+D'accord.
+
+439
+00:48:55,098 --> 00:48:57,794
+J'éspère que Pete prend ça en photo.
+
+440
+00:49:03,307 --> 00:49:05,207
+Ca va?
+
+441
+00:49:05,409 --> 00:49:06,740
+Ouai, ça va.
+
+442
+00:49:52,723 --> 00:49:54,714
+Nous avons quelquechose sur le toit.
+
+443
+00:50:17,414 --> 00:50:18,540
+La fête est finie, l'ami.
+
+444
+00:50:19,416 --> 00:50:22,180
+Je ne veux pas te blesser. Vas-t'en.
+
+445
+00:50:22,386 --> 00:50:25,583
+Je crois que t'as pas entendu.
+Je suis le shériff du coin.
+
+446
+00:50:25,789 --> 00:50:26,813
+Ok.
+
+447
+00:51:05,562 --> 00:51:06,995
+A l'aide!
+
+448
+00:51:41,465 --> 00:51:43,990
+D'où ils viennent tous ces types?
+
+449
+00:52:37,554 --> 00:52:38,851
+Désolé, je ne parle pas...
+
+450
+00:52:39,055 --> 00:52:42,354
+Mais c'est un restaurant Français, <i>non?</i>
+
+451
+00:52:45,395 --> 00:52:48,364
+- Nom, s'il vous plait?
+- Parker, Peter.
+
+452
+00:52:52,235 --> 00:52:53,497
+Nous y voilà.
+
+453
+00:52:53,703 --> 00:52:55,864
+Table pour deux. Parker.
+
+454
+00:52:57,073 --> 00:53:01,100
+- Parker.
+- C'est ce que j'ai dit: Parker.
+
+455
+00:53:04,114 --> 00:53:05,479
+J'ai une requête.
+
+456
+00:53:05,682 --> 00:53:10,085
+Ma petite-amie va arriver
+et j'ai cette bague.
+
+457
+00:53:15,392 --> 00:53:16,950
+Allo.
+
+458
+00:53:17,160 --> 00:53:19,993
+Donc vous voulez poser la question
+ce soir, hein?
+
+459
+00:53:20,197 --> 00:53:22,995
+Oui, et je veux faire quelquechose
+de très spécial.
+
+460
+00:53:23,200 --> 00:53:25,634
+J'aime ça. Romance.
+
+461
+00:53:25,835 --> 00:53:27,359
+Je suis Français.
+
+462
+00:53:29,406 --> 00:53:32,898
+Quand je vous fait signe, si vous pouviez
+apporter du champagne, avec la bague... 
+
+463
+00:53:33,109 --> 00:53:35,407
+- Au fond de son verre?
+- Parfait.
+
+464
+00:53:36,513 --> 00:53:38,640
+Aussi, j'ai pensé qu'en même temps...
+
+465
+00:53:38,848 --> 00:53:42,375
+...si les musiciens
+jouaient cette chanson... .
+
+466
+00:53:43,486 --> 00:53:45,545
+Leur favorite.
+
+467
+00:53:45,956 --> 00:53:48,356
+Et prenez bien soin de la bague.
+
+468
+00:53:48,558 --> 00:53:51,049
+<i>Oui,</i> sur ma vie, <i>monsieur.</i>
+
+469
+00:53:54,164 --> 00:53:55,756
+Vous me plaisez.
+
+470
+00:53:58,935 --> 00:54:00,402
+Merci.
+
+471
+00:54:11,715 --> 00:54:13,876
+Ok, Alors... .
+
+472
+00:54:14,417 --> 00:54:16,715
+Aimerais-tu un peu de champagne?
+
+473
+00:54:20,423 --> 00:54:22,482
+Comment est-ce arrivé là?
+
+474
+00:54:23,893 --> 00:54:26,054
+Ne pleures pas.
+
+475
+00:54:31,167 --> 00:54:32,225
+Salut.
+
+476
+00:54:33,370 --> 00:54:35,361
+Regardes-toi. Magnifique.
+
+477
+00:54:35,572 --> 00:54:37,096
+Merci.
+
+478
+00:54:41,378 --> 00:54:42,902
+Cet endroit est dans ton budget?
+
+479
+00:54:43,113 --> 00:54:45,274
+C'est une occasion particulière.
+
+480
+00:54:46,016 --> 00:54:47,506
+Tu es à Broadway.
+
+481
+00:54:48,918 --> 00:54:50,886
+Je ne me sens rien d'une star ce soir.
+
+482
+00:54:51,087 --> 00:54:54,352
+Tu es une star.
+Et tu l'as mérité.
+
+483
+00:54:54,991 --> 00:54:56,117
+Peter...
+
+484
+00:54:57,694 --> 00:54:59,628
+...tu n'as aucune idée
+de ce que je ressens là maintenant.
+
+485
+00:54:59,829 --> 00:55:02,821
+Non, je sais exactement ce que tu ressens.
+
+486
+00:55:03,400 --> 00:55:07,700
+Ecoutes, je suis passé par là.
+Ca m'arrive tout le temps.
+
+487
+00:55:07,904 --> 00:55:09,838
+Je vois les affiches de Spider-Man
+par la fenêtre...
+
+488
+00:55:10,040 --> 00:55:12,338
+...des gamins qui courent partout
+avec moi sur leur sweat...
+
+489
+00:55:12,542 --> 00:55:14,169
+Accessoire "Big Halloween".
+
+490
+00:55:14,377 --> 00:55:17,175
+Je sais pas, j'imagine que je suis devenu
+quelquechose comme une icône.
+
+491
+00:55:17,380 --> 00:55:22,044
+Hier par exemple, ils ne cessaient de crier,
+"Spider-Man, Spider-Man."
+
+492
+00:55:22,919 --> 00:55:26,286
+Je sais pas, tu sais, j'veux dire,
+Je pense en moi-même:
+
+493
+00:55:26,489 --> 00:55:30,391
+"Je suis juste un gamin-grosse-tête du Queens.
+Est-ce que je mérite ça?"
+
+494
+00:55:32,529 --> 00:55:33,791
+Salut, Pete.
+
+495
+00:55:34,264 --> 00:55:35,231
+Salut.
+
+496
+00:55:43,173 --> 00:55:46,006
+Salut, mes parents moi
+sommes juste en train de diner ici.
+
+497
+00:55:46,209 --> 00:55:48,871
+- Salut. Je suis Gwen Stacy.
+- Salut.
+
+498
+00:55:49,145 --> 00:55:51,477
+Voici Mary Jane Watson.
+
+499
+00:55:52,916 --> 00:55:56,852
+C'est si bon de te rencontrer enfin.
+Pete parle de toi tout le temps.
+
+500
+00:55:58,955 --> 00:56:02,914
+Gwen est ma partenaire de labo'
+au cours du Dr. Connors.
+
+501
+00:56:03,126 --> 00:56:06,220
+Pete à quelquechose d'un génie.
+Je serais complètement perdue sans lui.
+
+502
+00:56:06,429 --> 00:56:08,329
+Ce qui me rappelle qu'en fait...
+
+503
+00:56:08,531 --> 00:56:11,659
+...Pete, si tu as une photo
+de mon baiser avec Spider-Man...
+
+504
+00:56:11,868 --> 00:56:14,063
+...tu pourrais l'amener en cours?
+
+505
+00:56:14,270 --> 00:56:18,434
+J'aimerais vraiment. Pour mon portfolio.
+
+506
+00:56:18,641 --> 00:56:21,542
+Après-tout,
+qui se fait embrasser par Spider-Man, hein?
+
+507
+00:56:22,278 --> 00:56:24,041
+Je peux pas imaginer.
+
+508
+00:56:25,248 --> 00:56:27,910
+Eh bien, c'était charmant de te rencontrer.
+
+509
+00:56:28,818 --> 00:56:30,376
+- Bonne nuit.
+- Bonne nuit.
+
+510
+00:56:41,664 --> 00:56:43,564
+Elle est dans mon cours de science.
+
+511
+00:56:43,767 --> 00:56:45,632
+C'est pas sa meilleure matière.
+
+512
+00:56:48,138 --> 00:56:49,196
+Quoi?
+
+513
+00:56:49,406 --> 00:56:51,636
+Comment se fait-il
+que tu n'en ai jamais fait mention?
+
+514
+00:56:53,076 --> 00:56:55,442
+C'est ta partenaire de labo'?
+
+515
+00:56:55,645 --> 00:56:57,738
+Tu lui a sauvé la vie?
+
+516
+00:56:57,947 --> 00:56:59,244
+Elle pense que tu es un génie...
+
+517
+00:56:59,449 --> 00:57:02,782
+...et elle pose ses ongles manucurés
+partout sur toi?
+
+518
+00:57:02,986 --> 00:57:04,453
+Ou tu n'as pas remarqué?
+
+519
+00:57:06,089 --> 00:57:09,183
+Et elle a donné à Spider-Man
+la clé de la ville.
+
+520
+00:57:10,493 --> 00:57:12,461
+Je n'oublierai jamais ça.
+
+521
+00:57:16,166 --> 00:57:17,565
+C'est juste une fille de ma classe.
+
+522
+00:57:17,767 --> 00:57:19,496
+Laisses-moi te demander quelquechose.
+
+523
+00:57:19,702 --> 00:57:21,670
+Lorsque tu l'as embrassé...
+
+524
+00:57:21,871 --> 00:57:24,237
+...qui l'embrassait?
+
+525
+00:57:24,441 --> 00:57:27,103
+Spider-Man ou Peter?
+
+526
+00:57:27,343 --> 00:57:30,210
+- Qu'est-ce que tu veux dire?
+- Tu sais exactement ce que je veux dire.
+
+527
+00:57:30,413 --> 00:57:32,711
+C'était nôtre baiser.
+
+528
+00:57:32,916 --> 00:57:34,406
+Pourquoi tu ferais ça?
+
+529
+00:57:35,385 --> 00:57:38,445
+Tu devais savoir ce que ça me ferait.
+
+530
+00:57:38,988 --> 00:57:42,446
+- Tu veux me mettre à l'écart?
+- Te mettre à l'écart?
+
+531
+00:57:42,659 --> 00:57:45,184
+Pourquoi je voudrais te mettre à l'écart?
+Je t'aime.
+
+532
+00:57:45,395 --> 00:57:49,297
+Tu es ma petite-amie.
+C'est une fille de ma classe, M.J.
+
+533
+00:57:50,800 --> 00:57:52,927
+Je ne me sens pas bien.
+Désolé, je dois partir.
+
+534
+00:57:53,136 --> 00:57:54,194
+Non, att...
+
+535
+00:57:55,839 --> 00:57:58,706
+- Où vas-tu?
+- S'il te plait, ne me suis pas.
+
+536
+00:58:02,011 --> 00:58:03,501
+Nous y sommes.
+
+537
+00:58:40,016 --> 00:58:43,076
+<i>Salut, c'est M.J.</i>
+<i>Chantez vôtre chanson après le bip.</i>
+
+538
+00:58:44,554 --> 00:58:45,919
+Salut.
+
+539
+00:58:48,658 --> 00:58:52,321
+J'aurais souhaité que tu décroche.
+J'ignore ce qui se passe ou... .
+
+540
+00:58:52,529 --> 00:58:55,498
+<i>J'ignore si tu as eu</i>
+<i>les messages ou quoi.</i>
+
+541
+00:58:56,065 --> 00:58:57,191
+<i>Mais...</i>
+
+542
+00:58:58,468 --> 00:59:01,198
+<i>... je veux juste te parler.</i>
+
+543
+00:59:02,405 --> 00:59:04,737
+Ok, appelles-moi.
+
+544
+00:59:16,185 --> 00:59:17,652
+- Allo?
+- <i>Mr. Parker?</i>
+
+545
+00:59:17,854 --> 00:59:18,946
+Oui?
+
+546
+00:59:19,155 --> 00:59:21,589
+<i>Ici le Detective Neil Garrett</i>
+<i>du 32e district.</i>
+
+547
+00:59:21,791 --> 00:59:23,520
+<i>J'appelle de la part</i>
+<i>du Capitaine Stacy.</i>
+
+548
+00:59:23,726 --> 00:59:26,126
+<i>Il voudrait que vous</i>
+<i>veniez au commissariat.</i>
+
+549
+00:59:26,329 --> 00:59:29,765
+A l'origine, nous pensions que cet homme,
+Dennis Carradine...
+
+550
+00:59:29,966 --> 00:59:31,831
+...était le meurtrier de vôtre mari.
+
+551
+00:59:32,235 --> 00:59:33,862
+Nous avions tort.
+
+552
+00:59:34,404 --> 00:59:35,462
+Quoi?
+
+553
+00:59:35,672 --> 00:59:38,436
+Il s'avère que Mr. Carradine
+était seulement complice.
+
+554
+00:59:38,641 --> 00:59:41,041
+Le véritable meurtrier est toujours
+en cavale.
+
+555
+00:59:41,244 --> 00:59:42,905
+De quoi vous parlez?
+
+556
+00:59:43,112 --> 00:59:45,512
+Voici l'homme qui a tué vôtre mari.
+
+557
+00:59:50,486 --> 00:59:51,646
+Son nom est Flint Marko.
+
+558
+00:59:51,854 --> 00:59:54,823
+C'est une petite crapule
+qui va et vient de prison.
+
+559
+00:59:55,024 --> 00:59:56,423
+Vous faites erreur.
+
+560
+00:59:56,626 --> 00:59:57,820
+Il y'a 2 jours, il s'est évadé.
+
+561
+00:59:58,795 --> 01:00:01,320
+Apparement, il a avoué sa culpabilité
+à un co-détenu...
+
+562
+01:00:01,531 --> 01:00:05,297
+...et nous avons quelques témoins
+qui corroborons l'histoire.
+
+563
+01:00:17,513 --> 01:00:20,004
+Non, attends, fils.
+Tu ne veux pas faire ça.
+
+564
+01:00:23,353 --> 01:00:24,581
+Non!
+
+565
+01:00:33,630 --> 01:00:36,292
+Montes! Qu'est-ce que tu fous?
+
+566
+01:00:55,151 --> 01:00:56,982
+Voudriez-vous enlever ces photos,
+s'il vous plait?
+
+567
+01:00:57,186 --> 01:00:59,416
+Je suis désolé, Mme. Parker.
+Je sais que ce n'est pas facile...
+
+568
+01:00:59,622 --> 01:01:02,022
+...mais, je vous prie, soyez patiente avec nous.
+
+569
+01:01:02,225 --> 01:01:04,056
+Nous faisons nôtre boulot.
+Nous l'attraperons.
+
+570
+01:01:04,260 --> 01:01:05,852
+Non, vous ne faites pas vôtre boulot.
+
+571
+01:01:06,062 --> 01:01:08,826
+J'ai regardé mon oncle mourir,
+et nous avons poursuivi le mauvais homme.
+
+572
+01:01:09,032 --> 01:01:12,058
+Et maintenant vous me dites que vous avez
+des soupçons depuis 2 ans? Des témoins?
+
+573
+01:01:12,268 --> 01:01:14,395
+- Pourquoi on ne nous a rien dit?
+- Du calme.
+
+574
+01:01:14,604 --> 01:01:16,299
+Je n'ai aucune intention de me calmer.
+
+575
+01:01:16,506 --> 01:01:19,066
+Cet homme a tué mon oncle,
+et il est toujours dehors!
+
+576
+01:01:28,084 --> 01:01:29,574
+<i>L- 20 Parking.</i>
+
+577
+01:01:29,786 --> 01:01:32,186
+<i>Tout les officiers à proximité,</i>
+<i>au rapport.</i>
+
+578
+01:01:32,588 --> 01:01:34,021
+<i>Nous avons un véhicule abandonné...</i>
+
+579
+01:01:34,223 --> 01:01:36,453
+<i>... et un homme âgé</i>
+<i>au milieu de la rue.</i>
+
+580
+01:01:36,659 --> 01:01:38,957
+<i>Désolé, Wabash Avenue.</i>
+
+581
+01:01:42,031 --> 01:01:43,225
+Peter, c'est M.J.
+
+582
+01:01:44,634 --> 01:01:46,693
+Je ne suis pas ici à propos
+de ce qui s'est passé au diner.
+
+583
+01:01:46,903 --> 01:01:48,097
+S'il te plait ouvres-toi.
+
+584
+01:01:55,645 --> 01:01:58,113
+Tante May m'a appelé.
+Elle m'a raconté ce qui s'est passé.
+
+585
+01:01:58,314 --> 01:01:59,906
+Elle est inquiète pour toi.
+
+586
+01:02:00,717 --> 01:02:02,116
+Je suis inquiète pour toi.
+
+587
+01:02:02,318 --> 01:02:03,785
+Ne le sois pas. Je vais bien.
+
+588
+01:02:04,454 --> 01:02:06,319
+Je ne veux pas que tu fasse
+quelquechose de stupide.
+
+589
+01:02:06,522 --> 01:02:08,922
+Comme essayer de trouver l'assassin
+de mon oncle?
+
+590
+01:02:09,125 --> 01:02:11,559
+Et faire quelquechose que tu regretteras.
+
+591
+01:02:11,761 --> 01:02:14,628
+Comme avec cet autre type.
+
+592
+01:02:15,331 --> 01:02:18,494
+Il pointait une arme sur moi. J'ai bougé
+et il est tombé. Je te l'ai dit.
+
+593
+01:02:18,701 --> 01:02:21,898
+- Je ne t'accuse de rien.
+- <i>10-22, auto à 556-</i> -
+
+594
+01:02:22,105 --> 01:02:26,007
+- Vas-tu éteindre ce machin?
+- <i>Passage piéton 5-6 to 5-7.</i>
+
+595
+01:02:26,209 --> 01:02:31,010
+<i>Ouai, Central, ici voiture 3-9</i>
+<i>Nous répondons à vôtre appel pour la 6e Avenue.</i>
+
+596
+01:02:31,214 --> 01:02:34,581
+Peter, je suis là
+parceque je me soucie de toi.
+
+597
+01:02:34,784 --> 01:02:38,276
+Et je sais que tu as fait une erreur
+et que tu te sens coupable...
+
+598
+01:02:38,488 --> 01:02:41,980
+...mais je veux être là pour toi.
+
+599
+01:02:42,191 --> 01:02:45,285
+Ok. J'ai compris. Merci.
+
+600
+01:02:45,495 --> 01:02:48,089
+Mais je vais bien. ...
+
+601
+01:02:48,297 --> 01:02:50,094
+J'ai pas besoin de ton aide.
+
+602
+01:02:57,540 --> 01:03:00,373
+Tout le monde a besoin d'aide parfois, Peter.
+
+603
+01:03:00,576 --> 01:03:02,373
+Même Spider-Man.
+
+604
+01:03:10,653 --> 01:03:13,281
+<i>90 X-ray, 98.</i>
+
+605
+01:03:15,091 --> 01:03:19,755
+<i>2-4 King, répond à 1031</i>
+<i>à 642 Madison Avenue.</i>
+
+606
+01:03:19,962 --> 01:03:24,831
+<i>1-3 Thomas, répond à 1020</i>
+<i>à 540 Est 107.</i>
+
+607
+01:03:25,034 --> 01:03:28,868
+<i>Plainte d'un homme dans un appartement.</i>
+<i>Peut-être au 1er étage.</i>
+
+608
+01:03:32,308 --> 01:03:36,176
+<i>3 Henry 10- 11,</i>
+<i>j'ai une résidence. 73818... .
+
+609
+01:04:36,091 --> 01:04:37,786
+<i>Me fais pas de mal.
+Donnes-moi une chance!</i>
+
+610
+01:04:37,993 --> 01:04:40,894
+<i>Et pour mon oncle?
+Tu lui a donné une chance?</i>
+
+611
+01:04:41,096 --> 01:04:42,188
+<i>Tu l'as fait?</i>
+
+612
+01:04:54,442 --> 01:04:56,239
+<i>Où suis-je?</i>
+
+613
+01:05:12,460 --> 01:05:14,121
+Qu'est-ce que c'est?
+
+614
+01:05:16,431 --> 01:05:17,989
+Je me sens... .
+
+615
+01:05:22,671 --> 01:05:24,798
+C'est agréable.
+
+616
+01:05:36,851 --> 01:05:38,614
+Ouai!
+
+617
+01:05:54,903 --> 01:05:56,461
+c'est quelquechose d'autre.
+
+618
+01:05:58,606 --> 01:05:59,834
+Vous en pensez quoi?
+
+619
+01:06:00,041 --> 01:06:02,100
+Je n'ai jamais vu quelquechose de semblable.
+
+620
+01:06:02,310 --> 01:06:04,107
+Je suis physicien, pas biologiste...
+
+621
+01:06:04,312 --> 01:06:06,974
+...mais laisses-moi y regarder dans la matinée.
+Faire quelques tests.
+
+622
+01:06:07,182 --> 01:06:08,342
+On peut faire ça maintenant?
+
+623
+01:06:13,254 --> 01:06:15,484
+Ca a l'air de t'aimer.
+
+624
+01:06:18,026 --> 01:06:20,586
+- Ne laisses-pas cette chose se mettre sur toi.
+- Pourquoi pas?
+
+625
+01:06:20,795 --> 01:06:23,320
+Ca a les caracteristiques d'un symbiote...
+
+626
+01:06:23,531 --> 01:06:26,625
+...qui a besoin de se lier
+à un hôte pour survivre.
+
+627
+01:06:26,835 --> 01:06:30,362
+Et parfois ces choses dans la nature,
+Lorsqu'elles s'attachent...
+
+628
+01:06:30,572 --> 01:06:32,972
+...elles peuvent être difficiles à détacher.
+
+629
+01:06:34,442 --> 01:06:38,173
+<i>Braquage de banque en cours,
+La "First Eastern Bank" au 202 Bismark.</i>
+
+630
+01:06:38,380 --> 01:06:40,905
+<i>Une autre tempête de sable
+est signalée dans les environs.</i>
+
+631
+01:06:41,116 --> 01:06:44,142
+<i>- A toutes voitures: procédez avec précaution.
+- Marko.</i>
+
+632
+01:07:39,074 --> 01:07:41,440
+Mon pote, j'adore le nouveau costume.
+
+633
+01:07:41,643 --> 01:07:43,634
+C'est exactement ce qu'il me faut
+pour mettre Parker à l'amende.
+
+634
+01:07:43,845 --> 01:07:45,574
+Fais péter la toile.
+
+635
+01:07:47,415 --> 01:07:49,474
+A +, crétin.
+
+636
+01:07:51,052 --> 01:07:52,815
+Tu m'as joué quoi là?!
+
+637
+01:08:35,230 --> 01:08:36,254
+Flint Marko.
+
+638
+01:08:39,200 --> 01:08:42,101
+- Qu'est-ce que tu me veux?
+- Tu te souviens de Ben Parker?
+
+639
+01:08:42,904 --> 01:08:45,896
+Le vieil homme que t'as déscendu
+de sang-froid?
+
+640
+01:08:47,375 --> 01:08:49,138
+Qu'est-ce que ça peut te faire?
+
+641
+01:08:50,879 --> 01:08:52,278
+Tout!
+
+642
+01:09:30,018 --> 01:09:32,316
+C'est l'heure de payer, Marko!
+
+643
+01:10:42,323 --> 01:10:44,257
+Bon débarras.
+
+644
+01:11:05,246 --> 01:11:07,840
+- Loyer.
+- Pas maintenant.
+
+645
+01:11:08,149 --> 01:11:10,811
+Ecoutes, c'est un pays libre.
+C'est pas un pays libre de loyer.
+
+646
+01:11:11,252 --> 01:11:13,152
+- Laissez-moi tranquille.
+- Donnes-moi le loyer.
+
+647
+01:11:13,354 --> 01:11:16,323
+Vous aurez vôtre loyer
+quand vous réparerez cette foutu porte!
+
+648
+01:11:27,502 --> 01:11:29,436
+C'était pas sympa.
+
+649
+01:11:29,804 --> 01:11:33,831
+C'est un bon garçon.
+
+650
+01:11:35,576 --> 01:11:37,476
+Il doit avoir quelques ennuis.
+
+651
+01:12:25,626 --> 01:12:28,891
+Flint Marko,
+l'homme qui a tué Oncle Ben...
+
+652
+01:12:29,897 --> 01:12:32,263
+...il a été tué la nuit dernière.
+
+653
+01:12:32,467 --> 01:12:33,934
+
+
+654
+01:12:34,769 --> 01:12:35,736
+Que s'est-il passé?
+
+655
+01:12:36,404 --> 01:12:37,837
+Spider-Man l'a tué.
+
+656
+01:12:39,774 --> 01:12:40,934
+Spider-Man?
+
+657
+01:12:41,809 --> 01:12:43,834
+Je ne comprends pas.
+
+658
+01:12:44,045 --> 01:12:46,707
+Spider-Man ne tue pas les gens.
+
+659
+01:12:48,316 --> 01:12:50,181
+Que s'est-il passé?
+
+660
+01:12:52,887 --> 01:12:54,616
+Je... .
+
+661
+01:12:55,456 --> 01:12:56,821
+Il...
+
+662
+01:12:57,525 --> 01:12:59,152
+Il était... .
+
+663
+01:13:03,331 --> 01:13:06,198
+J'ai pensé que tu serais... .
+
+664
+01:13:08,836 --> 01:13:10,736
+Il le méritait, n'est-ce pas?
+
+665
+01:13:11,439 --> 01:13:13,134
+Je ne pense pas que se soit à nous de dire...
+
+666
+01:13:13,341 --> 01:13:17,277
+...si une personne mérite
+de vivre ou de mourir.
+
+667
+01:13:17,912 --> 01:13:20,574
+Mais, Tante May, il a tué Oncle Ben.
+
+668
+01:13:20,782 --> 01:13:23,273
+Oncle Ben était tout pour nous.
+
+669
+01:13:23,484 --> 01:13:26,851
+Mais il ne voudrait pas que nous vivions
+une seule seconde...
+
+670
+01:13:27,054 --> 01:13:29,716
+...avec la vengeance dans nos coeurs.
+
+671
+01:13:32,193 --> 01:13:34,593
+C'est comme un poison. Cela peut...
+
+672
+01:13:35,430 --> 01:13:37,523
+Ca peut nous envahir.
+
+673
+01:13:39,434 --> 01:13:44,394
+Avant que nous le sachions,
+nous rendre laids.
+
+674
+01:13:58,352 --> 01:14:01,082
+
+
+675
+01:14:46,100 --> 01:14:47,192
+Allo?
+
+676
+01:14:47,401 --> 01:14:48,925
+<i>Harry, c'est M.J.</i>
+
+677
+01:14:49,136 --> 01:14:50,160
+Salut.
+
+678
+01:14:50,371 --> 01:14:51,770
+J'ai besoin de compagnie.
+
+679
+01:14:51,973 --> 01:14:54,373
+Tu fais quelquechose?
+Je peux passer?
+
+680
+01:14:54,575 --> 01:14:56,600
+<i>Ouai, bien-sûr, passe.</i>
+
+681
+01:14:56,811 --> 01:14:59,075
+D'accord. T'es sûr que ça va?
+
+682
+01:14:59,280 --> 01:15:01,840
+Ouai, je ne fais rien.
+s'il te plait, passe.
+
+683
+01:15:02,049 --> 01:15:04,677
+<i>- D'accord, on se voit bientôt.
+- Génial.</i>
+
+684
+01:15:04,886 --> 01:15:06,285
+Bye.
+
+685
+01:15:07,288 --> 01:15:09,449
+- Bernard.
+- Oui, Mr. Osborn?
+
+686
+01:15:09,657 --> 01:15:11,852
+Nous avons une invitée.
+Pouvez-vous faire des courses?
+
+687
+01:15:12,059 --> 01:15:14,220
+- Une invitée?
+- Ouai, une invitée.
+
+688
+01:15:14,428 --> 01:15:17,761
+- Une "invitée" invitée?
+- Allez-vous faire des courses?
+
+689
+01:15:17,965 --> 01:15:19,592
+Tout de suite, Monsieur.
+
+690
+01:15:36,484 --> 01:15:39,385
+Mr. Ditkovitch.
+
+691
+01:15:40,121 --> 01:15:42,885
+- Une orange?
+- Non, merci.
+
+692
+01:15:43,090 --> 01:15:46,856
+Ecoutez, je suis vraiment désolé
+pour ce qui s'est passé.
+
+693
+01:15:47,061 --> 01:15:50,462
+Je n'aurais pas dù crier au sujet de cette porte.
+Y'avait pas de quoi se mettre en colère.
+
+694
+01:15:50,665 --> 01:15:52,530
+C'est pas grave.
+
+695
+01:15:52,800 --> 01:15:56,827
+Mais si tu te sens si mal pour ça,
+tu peux m'acheter une pizza à l'occasion.
+
+696
+01:15:57,038 --> 01:16:00,132
+- Aujourd'hui c'est bien.
+- D'accord.
+
+697
+01:16:00,341 --> 01:16:02,969
+- Des problèmes avec le téléphone?
+- Non, non. C'était juste...
+
+698
+01:16:03,177 --> 01:16:05,202
+J'essayais de trouver quoi dire.
+
+699
+01:16:05,413 --> 01:16:09,110
+Si c'est une femme que t'appelles,
+alors tu dis:
+
+700
+01:16:09,317 --> 01:16:12,650
+"Tu es une femme bien.
+Je suis un homme bien."
+
+701
+01:16:17,825 --> 01:16:19,622
+- Salut, Pete.
+- Salut.
+
+702
+01:16:19,827 --> 01:16:20,953
+Il appelle une femme.
+
+703
+01:16:21,162 --> 01:16:23,062
+Mary Jane?
+Je pense que ce serait vraiment bien...
+
+704
+01:16:23,264 --> 01:16:27,223
+Ce ne sont pas tes affaires.
+Allez. Allez. Appelles.
+
+705
+01:16:29,036 --> 01:16:31,561
+- Tu devrais appeler.
+- Merci.
+
+706
+01:16:34,075 --> 01:16:36,305
+- Bye.
+- Bye.
+
+707
+01:16:50,057 --> 01:16:51,183
+Salut.
+
+708
+01:16:54,362 --> 01:16:56,796
+- T'as faim?
+- Ouai.
+
+709
+01:16:57,965 --> 01:16:59,432
+Viens.
+
+710
+01:17:03,604 --> 01:17:05,868
+- J'éspère que t'aime les poivrons.
+- Je les adore.
+
+711
+01:17:29,930 --> 01:17:31,693
+Non. 
+
+712
+01:17:43,044 --> 01:17:45,012
+Le beurre!
+
+713
+01:17:55,156 --> 01:17:56,748
+Magnifique.
+
+714
+01:18:01,328 --> 01:18:02,989
+Regardes ça.
+
+715
+01:18:10,204 --> 01:18:12,468
+On peut utiliser cette partie.
+
+716
+01:18:14,341 --> 01:18:16,275
+Tu rêvais.
+
+717
+01:18:16,477 --> 01:18:19,640
+Rien de tel qu'un "voilage de face"
+pour te faire traverser la nuit.
+
+718
+01:18:19,847 --> 01:18:22,645
+- D'accord.
+- Quand as-tu écrit ça?
+
+719
+01:18:22,850 --> 01:18:25,614
+- Au lycée.
+- C'est intense.
+
+720
+01:18:25,820 --> 01:18:29,449
+- Alors tu veux le rôle?
+- J'adorerais être dans ta pièce.
+
+721
+01:18:29,657 --> 01:18:31,147
+Il est à toi.
+
+722
+01:18:33,260 --> 01:18:36,559
+Tu sais, il n'y a même pas de cicatrice.
+
+723
+01:18:38,199 --> 01:18:39,826
+A peine.
+
+724
+01:18:57,351 --> 01:18:58,841
+- Désolée.
+- Moi aussi.
+
+725
+01:18:59,053 --> 01:19:03,114
+- Je ne voulais pas faire ça.
+- Non, ça va. Je t'en prie, pardonnes-moi.
+
+726
+01:19:04,558 --> 01:19:06,185
+Mary Jane.
+
+727
+01:19:07,128 --> 01:19:08,857
+Mary Jane.
+
+728
+01:19:09,663 --> 01:19:12,393
+- Mary Jane, s'il te plait.
+- Je suis désolé.
+
+729
+01:19:12,833 --> 01:19:14,130
+Juste...
+
+730
+01:19:26,247 --> 01:19:29,648
+<i>Tu as quitté la balle des yeux.</i>
+
+731
+01:19:35,923 --> 01:19:37,322
+<i>Harry.</i>
+
+732
+01:19:50,404 --> 01:19:51,632
+Qu'as-tu fait?
+
+733
+01:19:54,375 --> 01:19:55,842
+Venges-moi!
+
+734
+01:19:59,079 --> 01:20:03,106
+- Mon père, il est mort, pas vrai?
+- Ouai.
+
+735
+01:20:03,317 --> 01:20:05,478
+<i>Je souhaiterais pouvoir 
+me souvenir plus de lui.</i>
+
+736
+01:20:05,686 --> 01:20:08,678
+<i>Il t'aimait.
+C'est l'essentiel.</i>
+
+737
+01:20:08,889 --> 01:20:11,949
+<i>Je jures sur la tombe de mon père,
+Spider-Man paiera.</i>
+
+738
+01:20:12,827 --> 01:20:14,454
+Harry.
+
+739
+01:20:16,297 --> 01:20:18,231
+Tu te souviens de moi?
+
+740
+01:20:20,134 --> 01:20:22,967
+Oui, Père. Je me souviens.
+
+741
+01:20:23,170 --> 01:20:26,435
+J'avais raison sur elle. Sur Peter.
+
+742
+01:20:26,640 --> 01:20:28,801
+Sur tout.
+
+743
+01:20:30,277 --> 01:20:34,008
+Tu sais ce que tu dois faire.
+Fais-le souffrir.
+
+744
+01:20:34,215 --> 01:20:36,513
+Fais-le souhaiter être mort.
+
+745
+01:20:36,717 --> 01:20:40,551
+D'abord, nous attaquons son coeur.
+
+746
+01:20:50,831 --> 01:20:53,800
+<i>Salut, c'est moi.
+Chantez vôtre chanson après le bip.</i>
+
+747
+01:20:54,001 --> 01:20:56,799
+<i>M.J. C'est Peter.</i>
+
+748
+01:20:58,873 --> 01:21:01,740
+<i>Je veux te parler au sujet
+de la nuit dernière.</i>
+
+749
+01:21:02,543 --> 01:21:04,636
+<i>J'ignore à quoi je pensais.</i>
+
+750
+01:21:04,845 --> 01:21:09,612
+<i>Je sais que tu étais juste là
+pour m'aider et je... .</i>
+
+751
+01:21:09,817 --> 01:21:12,752
+<i>Je sais pas. Je veux te voir.</i>
+
+752
+01:21:17,324 --> 01:21:21,021
+Si tu veux que Peter reste en vie,
+tu vas faire quelquechose pour moi.
+
+753
+01:21:25,299 --> 01:21:26,789
+- Ouai?
+- C'est Ursula.
+
+754
+01:21:27,001 --> 01:21:28,662
+Entres.
+
+755
+01:21:37,444 --> 01:21:39,105
+- Salut, Pete.
+- Salut.
+
+756
+01:21:39,313 --> 01:21:41,474
+Il y'a un appel pour toi.
+
+757
+01:21:42,917 --> 01:21:44,544
+C'est Mary Jane, elle a rappelé.
+
+758
+01:21:44,752 --> 01:21:46,686
+- Vraiment?
+- Ouai.
+
+759
+01:21:48,455 --> 01:21:53,916
+- J'ai mis le téléphone au dessus du truc.
+- Merci. Ok.
+
+760
+01:21:56,063 --> 01:21:57,587
+<i>- Hey.
+- Salut.</i>
+
+761
+01:21:57,798 --> 01:22:00,426
+Je suis si heureux que t'ai appelé.
+J'ai essayé de...
+
+762
+01:22:00,634 --> 01:22:03,398
+<i>- On peut se voir?
+- Bien-sûr.</i>
+
+763
+01:22:03,604 --> 01:22:05,970
+<i>- Maintenant?
+- Ok. Où?</i>
+
+764
+01:22:06,173 --> 01:22:08,004
+<i>Sur le pont dans le parc.</i>
+
+765
+01:22:08,208 --> 01:22:09,505
+<i>- Je suis en chemin.
+- Ok.</i>
+
+766
+01:22:09,710 --> 01:22:12,645
+Ok. Je t'aime.
+
+767
+01:22:32,032 --> 01:22:34,023
+T'es superbe.
+
+768
+01:22:35,402 --> 01:22:36,892
+Des Pivoines.
+
+769
+01:22:39,440 --> 01:22:42,034
+- Ca va?
+- Non.
+
+770
+01:22:43,043 --> 01:22:45,034
+Il y'a quelquechose 
+que je dois te dire, Pete.
+
+771
+01:22:45,612 --> 01:22:47,011
+Ok.
+
+772
+01:22:48,315 --> 01:22:49,907
+Ca ne marche pas.
+
+773
+01:22:51,018 --> 01:22:52,576
+Toi et moi.
+
+774
+01:22:53,754 --> 01:22:55,085
+Quoi?
+
+775
+01:22:55,489 --> 01:22:57,787
+Je ne veux plus te voir.
+
+776
+01:22:58,425 --> 01:23:00,188
+De quoi tu parles?
+
+777
+01:23:00,394 --> 01:23:02,419
+Je sais pas.
+
+778
+01:23:05,199 --> 01:23:06,928
+Je me sens seule.
+
+779
+01:23:08,202 --> 01:23:10,397
+Tu n'es pas là pour moi.
+
+780
+01:23:11,572 --> 01:23:13,972
+J'peux pas faire ça.
+
+781
+01:23:14,174 --> 01:23:19,908
+- C'est terminé.
+- Non. S'il te plait. Je t'en prie ne dis pas ça.
+
+782
+01:23:20,447 --> 01:23:23,211
+Je sais que j'ai été égoiste,
+mais je peux faire mieux. Je peux changer.
+
+783
+01:23:23,417 --> 01:23:27,080
+- Ce n'est pas aussi simple.
+- Nous nous aimons. Je t'aime.
+
+784
+01:23:27,287 --> 01:23:29,346
+Nous avons des problèmes.
+Quand les gens ont des problèmes...
+
+785
+01:23:29,556 --> 01:23:32,252
+...ils les résolvent.
+Ils se parlent.
+
+786
+01:23:37,364 --> 01:23:39,059
+Regardes, tu vois?
+
+787
+01:23:40,334 --> 01:23:42,325
+Tu sais ce que c'est?
+
+788
+01:23:43,570 --> 01:23:46,733
+- Tu sais ce que je veux pour nous?
+- Il y'a quelqu'un d'autre.
+
+789
+01:23:46,940 --> 01:23:49,704
+Je suis tombée amoureuse
+de quelqu'un d'autre.
+
+790
+01:24:11,432 --> 01:24:12,922
+Bravo.
+
+791
+01:24:23,043 --> 01:24:27,275
+Elle dit qu'elle se sent seule,
+que je ne suis pas là pour elle.
+
+792
+01:24:28,816 --> 01:24:31,046
+Qu'il y'a un autre homme.
+
+793
+01:24:34,054 --> 01:24:35,817
+Tu tiens le coup?
+
+794
+01:24:36,590 --> 01:24:38,251
+Pas vraiment.
+
+795
+01:24:40,360 --> 01:24:43,227
+Harry, J'allais lui faire ma demande.
+
+796
+01:24:43,931 --> 01:24:45,398
+Vraiment?
+
+797
+01:24:47,701 --> 01:24:51,603
+Elle avait de durs moments 
+ces derniers temps. Sa carrière.
+
+798
+01:24:51,805 --> 01:24:54,603
+J'veux dire, une serveuse
+dans un club de jazz?
+
+799
+01:24:54,808 --> 01:24:57,777
+Ce n'est pas exactement
+ce qu'elle avait en tête pour elle-même.
+
+800
+01:24:57,978 --> 01:25:01,038
+Serveuse qui chante? De quoi tu...?
+De quoi tu parles?
+
+801
+01:25:01,248 --> 01:25:05,742
+Elle a été virée du spectacle.
+Elle te l'a pas dit?
+
+802
+01:25:06,153 --> 01:25:07,518
+Elle a été virée?
+
+803
+01:25:09,223 --> 01:25:14,320
+Elle a été virée, elle te l'a dit?
+Et elle ne me l'a pas dit ?
+
+804
+01:25:15,996 --> 01:25:18,430
+C'est pourquoi je te le demande, Pete.
+
+805
+01:25:19,700 --> 01:25:21,668
+Je suis l'autre homme.
+
+806
+01:25:23,570 --> 01:25:25,265
+Quoi?
+
+807
+01:25:25,472 --> 01:25:28,441
+Ecoutes, elle est venue à moi
+un après-midi, troublée.
+
+808
+01:25:28,642 --> 01:25:31,509
+Elle avait besoin de quelqu'un
+et j'étais là pour elle.
+
+809
+01:25:32,412 --> 01:25:35,438
+Je l'ai toujours aimé, Pete.
+Tu le sais.
+
+810
+01:25:35,649 --> 01:25:37,412
+Ca a juste...
+
+811
+01:25:37,618 --> 01:25:39,609
+...commencé.
+
+812
+01:25:47,027 --> 01:25:50,292
+Je ne le crois pas.
+Je ne... je ne te crois pas.
+
+813
+01:25:50,497 --> 01:25:52,829
+Ecoutes, je suis vraiment désolé.
+
+814
+01:25:54,401 --> 01:25:56,733
+J'ai juste pensé que tu devais savoir.
+
+815
+01:26:04,945 --> 01:26:08,278
+- Puis-je vous réchauffer?
+- Oui, s'il vous plait.
+
+816
+01:26:09,950 --> 01:26:11,417
+Comment est la tarte?
+
+817
+01:26:12,486 --> 01:26:14,113
+Trop bonne.
+
+818
+01:27:17,517 --> 01:27:19,280
+Voulez-vous une boisson?
+
+819
+01:27:22,155 --> 01:27:24,646
+Désolé. Où avais-je la tête?
+
+820
+01:27:24,858 --> 01:27:27,349
+Mauvais pour l'image publique, pas vrai,
+Mr. Clé-de-la-vile?
+
+821
+01:27:27,561 --> 01:27:28,789
+Qu'est-ce que tu lui a fait?
+
+822
+01:27:30,964 --> 01:27:33,660
+J'ai fait ce que tu n'as pas sù faire.
+J'ai été là pour elle.
+
+823
+01:27:34,601 --> 01:27:36,728
+Mary Jane et moi,
+nous nous comprenons.
+
+824
+01:27:36,937 --> 01:27:41,897
+- Elle ne sait pas ce que tu es.
+- Peter, elle me connait très bien.
+
+825
+01:27:42,109 --> 01:27:46,239
+Et quand elle m'a embrassé,
+c'était comme elle l'a toujours fait.
+
+826
+01:27:46,747 --> 01:27:48,408
+Ce goût... .
+
+827
+01:27:50,083 --> 01:27:51,311
+Fraises.
+
+828
+01:28:26,987 --> 01:28:28,511
+Qu'est-ce que t'en dis, Spidey?
+
+829
+01:28:32,392 --> 01:28:33,689
+C'est tout ce que t'as dans l'ventre?
+
+830
+01:28:41,001 --> 01:28:43,492
+- Ca pique, n'est-ce pas?
+- Je t'ai protégé à l'école.
+
+831
+01:28:43,704 --> 01:28:45,899
+Maintenant je vais te botter ton petit cul.
+
+832
+01:29:33,220 --> 01:29:35,085
+Tu vas me tuer
+tout comme tu as tué mon père?
+
+833
+01:29:35,288 --> 01:29:37,415
+J'en ai fini d'essayer de te convaincre.
+
+834
+01:29:38,258 --> 01:29:41,694
+Tu me l'as pris. Il m'aimait.
+
+835
+01:29:41,895 --> 01:29:45,763
+Non. Il te méprisait.
+
+836
+01:29:45,966 --> 01:29:48,161
+Tu étais une gêne pour lui.
+
+837
+01:29:52,005 --> 01:29:55,771
+Regardez le petit Bouffon Junior.
+Il va pleurer?
+
+838
+01:30:32,712 --> 01:30:34,907
+Spider-Man me faisait 
+me sentir en sécurité.
+
+839
+01:30:35,115 --> 01:30:37,015
+Maintenant j'ai peur 
+de rentrer à pied du travail.
+
+840
+01:30:37,217 --> 01:30:40,846
+- Ce type était tout pour mon fils.
+- J'ai une fille de 9 ans, elle adore Spider-Man.
+
+841
+01:30:41,054 --> 01:30:44,251
+- Qui est-elle censée admirer maintenant?
+- Voici le gars à qui il ont donné la clé?
+
+842
+01:30:45,625 --> 01:30:48,423
+Je vais vous mettre un peu de poussière dans l'oeil.
+
+843
+01:30:50,464 --> 01:30:53,592
+- Santé au nouveau photographe de l'équipe.
+- J'ai juste eu de la chance.
+
+844
+01:30:53,800 --> 01:30:55,495
+C'est si merveilleux pour toi.
+
+845
+01:30:55,702 --> 01:30:59,297
+Tu veux peut-être le dire à J.J.
+pour faire un petit peu plus de place sur le mur.
+
+846
+01:31:04,444 --> 01:31:07,811
+Bonjour.
+Splendide journée, hein?
+
+847
+01:31:08,014 --> 01:31:10,448
+T'avais dit quoi au juste?
+Que je n'aurais jamais cette photo?
+
+848
+01:31:11,251 --> 01:31:12,980
+Voici ton héros.
+
+849
+01:31:14,588 --> 01:31:18,080
+- J'ai jamais pensé qu'il pourrait vraiment faire ça.
+- Tu vois? Juste là.
+
+850
+01:31:18,291 --> 01:31:20,885
+T'as fait une appel d'offre.
+Tu dois le voir tel que c'est.
+
+851
+01:31:21,094 --> 01:31:22,425
+C'est drôle que tu dises ça...
+
+852
+01:31:22,629 --> 01:31:26,827
+...parceque je regardais parmi
+de vieilles photos et ça a l'air très...
+
+853
+01:31:27,033 --> 01:31:28,830
+...similaire.
+
+854
+01:31:30,003 --> 01:31:32,904
+Ok. Je dois retourner bosser.
+
+855
+01:31:34,140 --> 01:31:37,075
+- T'es une ordure, Brock.
+- Pardon?
+
+856
+01:31:37,277 --> 01:31:39,177
+Ta photo est une fausse.
+
+857
+01:31:41,181 --> 01:31:44,309
+Parker,
+t'es vraiment un boy-scout.
+
+858
+01:31:44,518 --> 01:31:46,486
+Quand est-ce que tu vas laisser
+les gens réspirer?
+
+859
+01:31:48,588 --> 01:31:50,749
+Tu veux le pardon? Choisis la religion.
+
+860
+01:31:50,957 --> 01:31:54,484
+- Qu'est-ce qui se passe?
+- Vous allez bien?
+
+861
+01:31:57,697 --> 01:32:01,189
+Ouai. Non, nous...
+On est juste en train de chahuter.
+
+862
+01:32:01,701 --> 01:32:05,694
+Ecoutes, je t'en supplie.
+Si tu fais ça, je vais tout perdre.
+
+863
+01:32:05,906 --> 01:32:08,136
+Aucun journal en ville ne voudra m'engager.
+
+864
+01:32:08,341 --> 01:32:10,639
+T'aurais dù y penser plus tôt.
+
+865
+01:32:11,378 --> 01:32:13,573
+Qu'est-ce que tu fais, Peter?
+
+866
+01:32:13,780 --> 01:32:17,978
+Montrez-ça à vôtre rédacteur.
+Dites-lui de vérifier sa source la prochaine fois.
+
+867
+01:32:24,157 --> 01:32:25,715
+C'est un faux.
+
+868
+01:32:25,926 --> 01:32:29,862
+Le département photo de l'empire state
+l'a confirmé.
+
+869
+01:32:33,533 --> 01:32:35,364
+Emballes tes affaires.
+Sors de mon immeuble.
+
+870
+01:32:35,902 --> 01:32:37,995
+- J'essayais juste...
+- T'es viré.
+
+871
+01:32:39,639 --> 01:32:41,869
+Nous allons devoir imprimer
+une rétractation maintenant.
+
+872
+01:32:42,108 --> 01:32:44,133
+J'ai pas imprimé une rétractation
+en 20 ans.
+
+873
+01:32:50,350 --> 01:32:52,944
+<i>- Allo.
+- Mr. Parker, ici le Dr. Connors.</i>
+
+874
+01:32:53,153 --> 01:32:57,249
+Dr. Connors. Comment allez-vous?
+
+875
+01:32:57,457 --> 01:33:00,620
+Un sacré spécimen que vous m'avez laissé, Parker.
+
+876
+01:33:01,094 --> 01:33:05,554
+Sa chimie n'est pas sans rappeler
+les météorites chondritiques des années 70.
+
+877
+01:33:05,765 --> 01:33:06,925
+Merci.
+
+878
+01:33:07,133 --> 01:33:09,624
+<i>- C'est bien.
+- Vous savez quoi, Parker?</i>
+
+879
+01:33:11,605 --> 01:33:14,369
+- Parker?
+- Apportes-moi du lait.
+
+880
+01:33:15,175 --> 01:33:18,702
+Ca amplifie les caracteristiques
+de son hôte.
+
+881
+01:33:18,912 --> 01:33:22,575
+<i>- Donnes-moi un autre cookie.
+- Particulièrement l'agressivité.</i>
+
+882
+01:33:23,650 --> 01:33:25,515
+Ca pourrait être dangereux.
+
+883
+01:33:25,719 --> 01:33:29,177
+Peter, vous n'en avez pas gardé, n'est-ce pas?
+
+884
+01:33:29,389 --> 01:33:33,052
+- T'en as avec des noisettes?
+- J'ai des noisettes. Je pourrais en faire.
+
+885
+01:33:33,259 --> 01:33:34,920
+- Vas en faire.
+- Peter?
+
+886
+01:33:35,128 --> 01:33:37,619
+Non, non, non. Bien-sûr que non.
+
+887
+01:33:52,078 --> 01:33:53,909
+Ces prises sont trop bonnes.
+
+888
+01:33:54,114 --> 01:33:56,605
+J'aimerais te prendre un de ces jours.
+
+889
+01:33:57,150 --> 01:34:00,517
+Peter Parker. Peter.
+
+890
+01:34:00,720 --> 01:34:04,986
+Parker. Mlle Brant, ce n'est pas
+la position pour laquelle je vous ai engagé.
+
+891
+01:34:05,191 --> 01:34:06,715
+Spider-Man "Costume Noir".
+
+892
+01:34:08,194 --> 01:34:10,321
+Peter, celles-ci sont incroyables.
+
+893
+01:34:10,530 --> 01:34:13,363
+- Nous devons avoir celles-ci, Jonah.
+- Je te paierai le tarif habituel.
+
+894
+01:34:15,368 --> 01:34:17,962
+Si vous les voulez,
+je prendrai le boulot d'équipe...
+
+895
+01:34:18,171 --> 01:34:19,968
+...doublez l'argent.
+
+896
+01:35:45,125 --> 01:35:46,524
+Penny.
+
+897
+01:35:52,599 --> 01:35:55,227
+Tu vas vraiment t'éclater dans ce rade.
+
+898
+01:35:56,569 --> 01:35:58,560
+Tu penses que je...?
+je suis bien habillée?
+
+899
+01:35:58,772 --> 01:36:00,296
+Trop déguisée ou trop... .
+
+900
+01:36:00,507 --> 01:36:04,500
+Tu plaisantes?
+T'as l'air très bien, bébé.
+
+901
+01:36:04,711 --> 01:36:08,408
+- Merci.
+- J'adore ce petit gloussement.
+
+902
+01:36:11,217 --> 01:36:13,117
+Garde ouvert par ici, "papa".
+
+903
+01:36:16,422 --> 01:36:19,858
+C'est trop cool.
+
+904
+01:36:20,059 --> 01:36:22,721
+Je ne suis jamais allé
+dans un club de jazz avant.
+
+905
+01:36:25,565 --> 01:36:28,898
+J'éspère que nous pouvons avoir une table.
+
+906
+01:36:33,673 --> 01:36:36,073
+Trouvez-nous de l'ombre.
+
+907
+01:36:37,243 --> 01:36:39,336
+Merci, "chaudes jambes".
+
+908
+01:36:39,746 --> 01:36:42,214
+Par ici, Monsieur.
+
+909
+01:36:49,656 --> 01:36:51,681
+Merci.
+
+910
+01:36:56,963 --> 01:37:00,865
+- J'aime vraiment ça.
+- Moi aussi.
+
+911
+01:37:06,472 --> 01:37:09,930
+- N'est-ce pas ton ancienne petite-amie?
+- Ouai.
+
+912
+01:37:10,143 --> 01:37:14,443
+- Tu veux aller ailleurs?
+- Non, non. Je... Ca va aller.
+
+913
+01:37:14,647 --> 01:37:17,480
+- Mary Jane, montres-nous ce que t'as.
+
+914
+01:37:23,189 --> 01:37:26,283
+- Je reviens de suite.
+- D'accord.
+
+915
+01:37:35,368 --> 01:37:36,494
+Peter?
+
+916
+01:37:39,639 --> 01:37:41,573
+C'est pour toi.
+
+917
+01:37:47,180 --> 01:37:48,807
+Double-temps.
+
+918
+01:37:53,987 --> 01:37:55,648
+Merci.
+
+919
+01:38:22,415 --> 01:38:24,246
+Maintenant prenez vôtre pied.
+
+920
+01:38:25,551 --> 01:38:26,711
+C'est chaud.
+
+921
+01:39:07,894 --> 01:39:09,589
+Tout ça c'était pour elle?
+
+922
+01:39:18,304 --> 01:39:19,771
+Je suis si désolée.
+
+923
+01:39:32,251 --> 01:39:34,685
+- Tout va bien, Mary Jane?
+- Ca va.
+
+924
+01:39:34,887 --> 01:39:36,286
+Ok.
+
+925
+01:39:39,292 --> 01:39:40,691
+
+
+926
+01:39:42,929 --> 01:39:44,191
+Qu'est-ce qui va pas chez toi?
+
+927
+01:39:45,531 --> 01:39:46,930
+Toi.
+
+928
+01:39:47,433 --> 01:39:50,425
+- Puis-je vous aider, Monsieur?
+- Non.
+
+929
+01:39:50,636 --> 01:39:52,661
+Est-ce que tout va bien ici, Paul?
+
+930
+01:39:52,872 --> 01:39:55,067
+Ouai, est-ce que tout va bien ici, Paul?
+
+931
+01:39:55,274 --> 01:39:57,640
+- Sortez-le d'ici.
+- Allons-y, Monsieur.
+
+932
+01:39:57,844 --> 01:40:00,608
+- Enlèves ta main de sur moi.
+- Maintenant.
+
+933
+01:40:00,813 --> 01:40:04,214
+- Ok.
+
+934
+01:40:06,786 --> 01:40:08,447
+Peter, arrêtes-ça!
+
+935
+01:40:19,999 --> 01:40:21,364
+Qui es-tu?
+
+936
+01:40:23,936 --> 01:40:25,460
+Je sais pas.
+
+937
+01:41:58,164 --> 01:42:00,029
+C'est Brock, Monsieur.
+
+938
+01:42:00,233 --> 01:42:02,667
+Edward Brock Jr.
+
+939
+01:42:04,370 --> 01:42:06,964
+Je viens devant vous aujourd'hui...
+
+940
+01:42:08,541 --> 01:42:10,133
+...humble...
+
+941
+01:42:12,044 --> 01:42:14,137
+...et humilié...
+
+942
+01:42:17,016 --> 01:42:19,177
+...pour vous demander une chose.
+
+943
+01:42:24,891 --> 01:42:26,654
+Je veux que tu tues Peter Parker.
+
+944
+01:43:17,743 --> 01:43:18,710
+Parker.
+
+945
+01:45:02,815 --> 01:45:04,976
+- Salut, Peter.
+- Salut.
+
+946
+01:45:07,720 --> 01:45:11,884
+Tu ne semble pas avoir beaucoup 
+changé la pièce.
+
+947
+01:45:12,358 --> 01:45:16,590
+Evidemment, il n'y'a pas grand-chose
+que tu puisse faire, n'est-ce pas?
+
+948
+01:45:22,902 --> 01:45:25,097
+Lorsque nous nous sommes parlés
+au téléphone...
+
+949
+01:45:25,304 --> 01:45:27,738
+...j'ai senti que quelquechose
+t'ennuyait...
+
+950
+01:45:28,474 --> 01:45:31,841
+...alors j'ai pensé que je pouvais passer.
+
+951
+01:45:34,146 --> 01:45:36,614
+Comment va Mary Jane?
+
+952
+01:45:37,049 --> 01:45:38,744
+Je l'ignore.
+
+953
+01:45:41,120 --> 01:45:43,588
+Tu ne m'as jamais dit.
+
+954
+01:45:43,789 --> 01:45:46,280
+Lui as-tu fait ta demande?
+
+955
+01:45:50,329 --> 01:45:51,956
+Tu as dit...
+
+956
+01:45:52,965 --> 01:45:56,366
+...un mari doit faire passer
+sa femme avant lui-même.
+
+957
+01:46:01,707 --> 01:46:03,607
+Je ne suis pas prêt.
+
+958
+01:46:05,945 --> 01:46:08,004
+Mais que s'est-il passé?
+
+959
+01:46:08,914 --> 01:46:11,382
+Tu semblais si sûr.
+
+960
+01:46:12,685 --> 01:46:14,209
+Ouai.
+
+961
+01:46:15,588 --> 01:46:17,215
+Je... .
+
+962
+01:46:27,633 --> 01:46:29,863
+Je l'ai blessé, Tante May.
+
+963
+01:46:31,270 --> 01:46:33,261
+Je ne sais pas quoi faire.
+
+964
+01:46:35,174 --> 01:46:38,940
+Tu commences par faire la chose
+la plus difficile:
+
+965
+01:46:39,745 --> 01:46:42,680
+Tu te pardonnes à toi-même.
+
+966
+01:46:45,851 --> 01:46:48,342
+Je crois en toi, Peter.
+
+967
+01:46:48,554 --> 01:46:51,387
+Tu es quelqu'un de bien.
+
+968
+01:46:52,491 --> 01:46:57,326
+Et je sais que tu trouveras un moyen
+de faire au mieux.
+
+969
+01:47:05,037 --> 01:47:06,834
+A temps.
+
+970
+01:47:24,957 --> 01:47:27,323
+Terminus, Spider-Man.
+
+971
+01:47:31,397 --> 01:47:33,661
+Je le veux mort, aussi, Flint.
+
+972
+01:47:34,266 --> 01:47:36,530
+C'est pourquoi je te cherchais.
+
+973
+01:47:36,735 --> 01:47:39,966
+Ouai. Je sais tout de toi.
+
+974
+01:47:40,172 --> 01:47:44,370
+Comme le fait que Spider-Man
+ne te laissera pas aider ta pauvre fille.
+
+975
+01:47:44,577 --> 01:47:47,842
+C'est juste...
+Que ça ne me semble pas bien.
+
+976
+01:47:48,047 --> 01:47:52,950
+Ecoutes, je veux tuer l'araignée,
+tu veux tuer l'araignée.
+
+977
+01:47:53,152 --> 01:47:56,383
+Ensemble, il n'a aucune chance.
+
+978
+01:47:57,456 --> 01:47:59,481
+Interessé?
+
+979
+01:48:00,893 --> 01:48:02,383
+Ouai.
+
+980
+01:49:04,356 --> 01:49:05,323
+Alors...
+
+981
+01:49:06,892 --> 01:49:08,120
+...on va où?
+
+982
+01:49:09,295 --> 01:49:10,990
+<i>Tout New York retient son souffle...</i>
+
+983
+01:49:11,196 --> 01:49:13,790
+<i>... tandis que la crise des otages
+continue de se dérouler.</i>
+
+984
+01:49:15,568 --> 01:49:16,796
+<i>Il y'a tout juste 30 minutes...</i>
+
+985
+01:49:17,002 --> 01:49:19,061
+<i>... la police est tombée sur 
+cette vision à couper le souffle:</i>
+
+986
+01:49:19,271 --> 01:49:21,364
+<i>Une jeune femme,
+tenue en otage dans un taxi...</i>
+
+987
+01:49:21,574 --> 01:49:23,838
+<i>... suspendu 80 étages
+au dessus du sol...</i>
+
+988
+01:49:24,043 --> 01:49:26,876
+<i>... dans ce qui apparaît être
+une toile géante.</i>
+
+989
+01:49:27,079 --> 01:49:29,673
+<i>Toutes les tentatives de la police
+pour secourir l'otage...</i>
+
+990
+01:49:29,882 --> 01:49:31,645
+<i>... ont été déjouées
+Par L'Homme-De-Sable.</i>
+
+991
+01:49:35,120 --> 01:49:36,348
+<i>Le danger inclut l'apparition...</i>
+
+992
+01:49:36,555 --> 01:49:39,422
+<i>... d'une étrange figure
+en costume noir.</i>
+
+993
+01:49:39,625 --> 01:49:43,254
+<i>De précédents signalements l'avaient pris
+pour le Spider-Man en costume noir...</i>
+
+994
+01:49:43,462 --> 01:49:46,989
+<i>... mais il a désormais été identifié
+comme quelquechose d'entièrement différent.</i>
+
+995
+01:49:48,667 --> 01:49:52,159
+<i>L'otage a été identifiée
+comme étant Mary Jane Watson...</i>
+
+996
+01:49:52,371 --> 01:49:56,432
+<i>... une actrice récemment vue
+durant un bref moment à Broadway.</i>
+
+997
+01:50:22,167 --> 01:50:24,533
+<i>Nous allons maintenant vous emmener
+en direct sur la scène...</i>
+
+998
+01:50:24,737 --> 01:50:26,398
+<i>... avec Jennifer Dugan. Jennifer?</i>
+
+999
+01:50:26,605 --> 01:50:29,096
+<i>Nous sommes seulement
+à une cinquantaine de mètres, Hal, et...</i>
+
+1000
+01:50:29,308 --> 01:50:33,074
+<i>Attendez. Il semble y avoir
+une certaine activité dans la toile.</i>
+
+1001
+01:50:33,278 --> 01:50:36,805
+<i>Ils semblent en train de créer
+une sorte de lettre géante.</i>
+
+1002
+01:50:39,852 --> 01:50:42,616
+<i>Spider-Man est défié
+dans une sorte de confrontation.</i>
+
+1003
+01:50:42,821 --> 01:50:44,448
+<i>Et ça soulève de serieuses questions...</i>
+
+1004
+01:50:44,657 --> 01:50:47,820
+<i>... sur ses chances contre
+une si écrasante...</i>
+
+1005
+01:50:58,370 --> 01:50:59,701
+Harry?
+
+1006
+01:51:03,275 --> 01:51:05,243
+J'ai besoin de ton aide.
+
+1007
+01:51:05,711 --> 01:51:09,044
+Je ne peux pas les avoir tous les 2,
+pas tout seul.
+
+1008
+01:51:15,587 --> 01:51:18,351
+Tu ne mérites pas mon aide.
+
+1009
+01:51:21,260 --> 01:51:22,727
+Harry...
+
+1010
+01:51:23,462 --> 01:51:25,453
+...elle a besoin de nous.
+
+1011
+01:51:30,069 --> 01:51:31,627
+Sors d'ici.
+
+1012
+01:51:48,253 --> 01:51:50,448
+Si je peux me permettre, Monsieur?
+
+1013
+01:51:51,290 --> 01:51:56,660
+J'ai vu des choses dans cette maison
+dont je n'ai jamais parlé.
+
+1014
+01:51:57,162 --> 01:51:58,891
+Qu'essayez-vous de me dire?
+
+1015
+01:51:59,732 --> 01:52:02,428
+La nuit où vôtre père est mort...
+
+1016
+01:52:02,634 --> 01:52:05,068
+...j'ai nettoyé ses blessures.
+
+1017
+01:52:06,605 --> 01:52:10,166
+La lame qui a percé son corps...
+
+1018
+01:52:10,375 --> 01:52:13,071
+...provenait de son planeur.
+
+1019
+01:52:13,946 --> 01:52:18,713
+Je sais que vous essayez de défendre 
+l'honneur de vôtre père...
+
+1020
+01:52:18,917 --> 01:52:24,116
+...mais il ne fait aucun doute
+qu'il est mort de sa propre main.
+
+1021
+01:52:27,426 --> 01:52:29,758
+J'aimais vôtre père...
+
+1022
+01:52:31,130 --> 01:52:34,031
+...tout comme je vous ai aimé, Harry.
+
+1023
+01:52:34,700 --> 01:52:37,498
+Tout comme vos amis vous aiment.
+
+1024
+01:53:24,583 --> 01:53:25,811
+Regardez.
+
+1025
+01:53:46,738 --> 01:53:50,196
+<i>Spider-Man! Spider-Man!
+Spider-Man!</i>
+
+1026
+01:53:55,781 --> 01:53:57,715
+Il semble sortir de nulle-part...
+
+1027
+01:53:57,916 --> 01:53:59,884
+...pour répondre aux prières de la ville...
+
+1028
+01:54:00,085 --> 01:54:02,076
+...juste quand tout éspoir
+semblait perdu.
+
+1029
+01:54:08,060 --> 01:54:10,927
+Peter. Il vont nous tuer tous les 2.
+
+1030
+01:54:11,129 --> 01:54:14,565
+- Je vais te sortir de là.
+- Attention.
+
+1031
+01:54:24,076 --> 01:54:25,475
+Parker.
+
+1032
+01:54:25,677 --> 01:54:26,905
+Mon Dieu. Eddie.
+
+1033
+01:54:27,579 --> 01:54:29,274
+Mon sens d'araignée me picote...
+
+1034
+01:54:31,016 --> 01:54:33,712
+...si vous voyez de quoi je parle.
+
+1035
+01:54:52,804 --> 01:54:54,669
+Nous pouvons trouver un moyen de régler ça.
+
+1036
+01:54:54,873 --> 01:54:56,272
+T'as trop raison.
+
+1037
+01:54:56,475 --> 01:54:59,933
+Je pense humiliation.
+
+1038
+01:55:00,679 --> 01:55:02,977
+Un peu comme comment tu m'as humilié.
+
+1039
+01:55:03,882 --> 01:55:05,577
+Tu te souviens?
+
+1040
+01:55:07,452 --> 01:55:10,216
+Tu te souviens 
+de ce que tu m'as fait?
+
+1041
+01:55:25,737 --> 01:55:29,332
+Tu m'as fait perdre ma copine.
+Maintenant je vais te faire perdre la tienne.
+
+1042
+01:55:31,209 --> 01:55:33,143
+Qu'est-ce que t'en dis, "tiger"?
+
+1043
+01:56:33,071 --> 01:56:34,698
+Accroches-toi, Mary Jane!
+
+1044
+01:57:04,903 --> 01:57:07,201
+Mary Jane!
+
+1045
+01:58:07,699 --> 01:58:11,430
+Difficile de croire à ce qui
+est en train d'arriver.
+
+1046
+01:58:11,636 --> 01:58:13,934
+A sa brutalité.
+
+1047
+01:58:14,706 --> 01:58:16,469
+J'ignore comment
+il peut encore en supporter.
+
+1048
+01:58:16,675 --> 01:58:20,202
+<i>Ce pourrait être un jour tragique
+pour le peuple de New York.</i>
+
+1049
+01:58:20,412 --> 01:58:22,380
+<i>Ce pourrait être la fin de Spider-Man.</i>
+
+1050
+01:58:48,807 --> 01:58:51,002
+- Super.
+- Trop dingue.
+
+1051
+01:59:16,067 --> 01:59:17,500
+T'es venu.
+
+1052
+01:59:25,477 --> 01:59:27,502
+Juste à temps on dirait.
+
+1053
+01:59:27,712 --> 01:59:30,180
+Il y'a quelques minutes
+n'aurait pas été trop mal non-plus.
+
+1054
+01:59:30,382 --> 01:59:31,940
+Qu'est-ca que tu vas faire?
+
+1055
+01:59:35,520 --> 01:59:37,351
+Je vais peut-être avoir besoin d'aide par ici.
+
+1056
+01:59:37,556 --> 01:59:39,956
+Je suis un peu occupé pour l'instant.
+
+1057
+01:59:41,126 --> 01:59:42,855
+Donnes-moi ta main.
+
+1058
+01:59:57,342 --> 02:00:00,175
+Parker! Parker, où...?
+
+1059
+02:00:00,378 --> 02:00:01,902
+J'ai besoin d'un photographe.
+
+1060
+02:00:02,113 --> 02:00:03,375
+Gamine, tu veux du boulot?
+
+1061
+02:00:03,582 --> 02:00:06,881
+Pourquoi je voudrais d'un boulot?
+J'suis juste une gosse.
+
+1062
+02:00:07,085 --> 02:00:09,952
+- D'accord, combien pour l'appareil?
+- 100 dollars.
+
+1063
+02:00:10,155 --> 02:00:11,588
+100 dollars?
+
+1064
+02:00:13,525 --> 02:00:17,222
+D'accord, petite carotteuse. Tiens.
+
+1065
+02:00:18,997 --> 02:00:20,294
+Qu'est-ce que...?
+
+1066
+02:00:22,300 --> 02:00:23,892
+La péllicule c'est en +.
+
+1067
+02:00:29,774 --> 02:00:31,537
+Je te tiens.
+
+1068
+02:00:39,584 --> 02:00:40,846
+Pete, là-haut.
+
+1069
+02:01:00,705 --> 02:01:02,673
+Mary Jane.
+
+1070
+02:01:04,909 --> 02:01:06,672
+- Ce truc en a encore dans l'ventre?
+- Accroches-toi.
+
+1071
+02:01:06,878 --> 02:01:08,004
+A quoi?
+
+1072
+02:01:12,450 --> 02:01:14,247
+- Vas-y, mon pote.
+- Je l'ai.
+
+1073
+02:01:25,630 --> 02:01:26,619
+Ca va?
+
+1074
+02:01:28,800 --> 02:01:30,290
+Ouai.
+
+1075
+02:01:33,071 --> 02:01:35,437
+- Bien.
+- Pete.
+
+1076
+02:01:37,776 --> 02:01:39,539
+Je tombes mal?
+
+1077
+02:02:55,820 --> 02:02:57,617
+Ne blesse jamais...
+
+1078
+02:02:58,523 --> 02:03:00,514
+...ce que tu ne peux tuer.
+
+1079
+02:03:04,329 --> 02:03:07,821
+Eddie, le costume,
+Tu dois l'enlever.
+
+1080
+02:03:08,032 --> 02:03:09,693
+T'aimerais bien ça, hein?
+
+1081
+02:03:12,637 --> 02:03:14,366
+Je sais ce que ça fait.
+
+1082
+02:03:15,006 --> 02:03:16,598
+Ca fait du bien.
+
+1083
+02:03:16,808 --> 02:03:19,299
+Le Pouvoir. Tout.
+
+1084
+02:03:19,511 --> 02:03:21,979
+Mais tu te perds.
+
+1085
+02:03:22,580 --> 02:03:24,445
+Laches l'affaire.
+
+1086
+02:03:24,649 --> 02:03:26,640
+J'aime être mauvais.
+
+1087
+02:03:27,819 --> 02:03:29,548
+Ca me rend heureux.
+
+1088
+02:04:19,070 --> 02:04:20,128
+Harry!
+
+1089
+02:05:33,211 --> 02:05:35,509
+Peter. Qu'est-ce que tu fais?
+
+1090
+02:05:36,514 --> 02:05:38,277
+Non!
+
+1091
+02:05:40,084 --> 02:05:41,073
+Eddie!
+
+1092
+02:06:00,605 --> 02:06:02,539
+- Harry.
+- Mary Jane.
+
+1093
+02:06:02,740 --> 02:06:04,537
+- Je vais chercher de l'aide.
+- Non.
+
+1094
+02:06:05,410 --> 02:06:06,775
+Restes.
+
+1095
+02:06:15,553 --> 02:06:17,180
+Je ne voulais pas ça.
+
+1096
+02:06:22,093 --> 02:06:24,288
+Mais je n'avais pas le choix.
+
+1097
+02:06:28,066 --> 02:06:30,125
+Nous avons toujours le choix.
+
+1098
+02:06:30,335 --> 02:06:32,530
+Tu avais le choix
+lorsque tu as tué mon oncle.
+
+1099
+02:06:35,073 --> 02:06:37,041
+Ma fille était en train de mourir.
+
+1100
+02:06:39,243 --> 02:06:41,074
+Il me fallait de l'argent.
+
+1101
+02:06:45,917 --> 02:06:47,817
+J'avais peur.
+
+1102
+02:06:55,360 --> 02:06:58,420
+<i>J'ai dit à ton oncle
+que je voulais seulement la voiture.</i>
+
+1103
+02:06:58,630 --> 02:07:00,530
+- Qu'est-ce que c'est?
+- J'ai besoin de vôtre voiture.
+
+1104
+02:07:01,099 --> 02:07:03,533
+Il m'a dit:
+
+1105
+02:07:03,735 --> 02:07:06,465
+"Pourquoi ne pas juste baisser vôtre arme
+et rentrer chez vous?"
+
+1106
+02:07:10,608 --> 02:07:13,543
+<i>Je réalise maintenant
+qu'il essayait juste de m'aider.</i>
+
+1107
+02:07:20,318 --> 02:07:23,253
+<i>Puis j'ai vu mon partenaire
+se ramenr avec l'argent.</i>
+
+1108
+02:07:23,454 --> 02:07:25,752
+<i>Et le revolver était dans ma main.</i>
+
+1109
+02:07:36,267 --> 02:07:37,666
+Montes.
+
+1110
+02:07:39,604 --> 02:07:41,936
+<i>C'est horrible ce que je vous ai fait...</i>
+
+1111
+02:07:43,341 --> 02:07:46,708
+<i>... et j'ai passé beaucoup de nuits
+en souhaitant pouvoir revenir en arrière.</i>
+
+1112
+02:07:52,016 --> 02:07:54,541
+Je ne te demande pas de me pardonner.
+
+1113
+02:07:55,520 --> 02:07:57,818
+Je veux seulement que tu comprennes.
+
+1114
+02:08:07,665 --> 02:08:10,225
+J'ai fait d'horribles choses aussi.
+
+1115
+02:08:26,551 --> 02:08:29,281
+J'ai pas choisi d'être "ça".
+
+1116
+02:08:38,062 --> 02:08:40,530
+La seule chose qui reste de moi...
+
+1117
+02:08:42,734 --> 02:08:44,599
+...c'est ma fille.
+
+1118
+02:08:56,881 --> 02:08:58,781
+Je te pardonnes.
+
+1119
+02:09:42,193 --> 02:09:45,094
+Mon pote. Comment tu vas?
+
+1120
+02:09:45,296 --> 02:09:46,854
+J'ai connu mieux.
+
+1121
+02:09:48,466 --> 02:09:50,366
+Nous allons te sortir de là.
+
+1122
+02:09:54,138 --> 02:09:55,605
+Non.
+
+1123
+02:10:03,314 --> 02:10:05,441
+Je n'aurais jamais dù te blesser...
+
+1124
+02:10:07,351 --> 02:10:09,615
+...dire ces choses.
+
+1125
+02:10:11,322 --> 02:10:13,813
+Rien de tout cela importe, Peter.
+
+1126
+02:10:15,927 --> 02:10:17,656
+Tu es mon ami.
+
+1127
+02:10:22,433 --> 02:10:24,196
+Meilleur ami.
+
+1128
+02:10:43,120 --> 02:10:44,747
+Harry.
+
+1129
+02:11:30,801 --> 02:11:32,928
+<i>Quoiqu'il arrive sur nôtre chemin...</i>
+
+1130
+02:11:34,038 --> 02:11:38,202
+<i>... Quelque soit la bataille qui fait rage
+à l'intérieur de nous, nous avons toujours le choix.</i>
+
+1131
+02:11:40,344 --> 02:11:42,403
+<i>Mon ami Harry m'a appris cela.</i>
+
+1132
+02:11:42,613 --> 02:11:45,810
+<i>Il a choisi d'être le meilleur de lui-même.</i>
+
+1133
+02:11:46,717 --> 02:11:49,686
+<i>Ce sont nos choix
+qui font ce que nous sommes...</i>
+
+1134
+02:11:49,887 --> 02:11:53,254
+<i>... et nous pouvons toujours choisir
+de faire ce qui est juste.</i>
