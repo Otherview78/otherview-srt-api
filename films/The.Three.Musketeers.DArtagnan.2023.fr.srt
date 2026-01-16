@@ -1,0 +1,4452 @@
+1
+00:01:17,333 --> 00:01:19,791
+Après des années de
+paix, le royaume de France
+
+2
+00:01:19,958 --> 00:01:23,083
+est au bord d'une
+nouvelle guerre de religion.
+
+3
+00:01:23,250 --> 00:01:27,875
+Le roi Louis XIII, toujours sans
+héritier, commande un pays divisé.
+
+4
+00:01:28,041 --> 00:01:31,583
+D'un côté, les forces protestantes
+soutenues par l'Angleterre.
+
+5
+00:01:31,750 --> 00:01:36,083
+De l'autre, la noblesse catholique,
+qui cherche à étendre sa domination.
+
+6
+00:01:37,000 --> 00:01:41,541
+Le roi compte sur son ministre
+le plus puissant, le cardinal
+
+7
+00:01:41,708 --> 00:01:43,958
+de Richelieu, pour rétablir
+l'autorité de la Couronne.
+
+8
+00:01:44,125 --> 00:01:45,645
+Mais beaucoup se
+méfient de l'ambitieux
+
+9
+00:01:45,750 --> 00:01:48,666
+cardinal et de sa
+soif de pouvoir.
+
+10
+00:01:48,833 --> 00:01:51,000
+Dans ce climat de
+conspirations et de révoltes,
+
+11
+00:01:51,166 --> 00:01:52,601
+D'Artagnan, un jeune
+Gascon, se rend à Paris dans
+
+12
+00:01:52,625 --> 00:01:56,458
+l'espoir de rejoindre les
+mousquetaires du Roi.
+
+13
+00:03:30,250 --> 00:03:31,416
+Sors d'ici !
+
+14
+00:05:23,750 --> 00:05:25,250
+Enterrez tout cela.
+
+15
+00:05:29,458 --> 00:05:30,666
+Prends soin d'elle.
+
+16
+00:06:57,833 --> 00:07:03,125
+LES TROIS MOUSQUETAIRES
+: D'ARTAGNAN
+
+17
+00:07:05,000 --> 00:07:06,791
+PARIS
+
+18
+00:07:33,083 --> 00:07:34,625
+Mademoiselle Bonacieux ?
+
+19
+00:07:36,250 --> 00:07:39,000
+La Comtesse de Valcour
+attend une réponse avant ce soir.
+
+20
+00:07:39,541 --> 00:07:41,916
+Le navire part à l'aube demain.
+
+21
+00:07:43,250 --> 00:07:44,250
+Très bien.
+
+22
+00:08:23,000 --> 00:08:25,291
+"Ce samedi, comme tous
+
+23
+00:08:25,458 --> 00:08:26,916
+les samedis saints, tu iras seul
+
+24
+00:08:27,750 --> 00:08:30,958
+vous confesser à
+l'abbaye du Val de Grâce.
+
+25
+00:08:32,125 --> 00:08:34,458
+J'y serai, en secret, et
+
+26
+00:08:34,625 --> 00:08:36,583
+j'avouerai que je
+ne pense qu'à toi.
+
+27
+00:08:36,875 --> 00:08:40,125
+Dans les six jours, à
+moins que je ne meure,
+
+28
+00:08:40,958 --> 00:08:42,833
+Je vous reverrai, ma dame.
+
+29
+00:08:43,375 --> 00:08:44,916
+Votre serviteur bien-aimé,
+
+30
+00:08:45,458 --> 00:08:46,958
+le duc de Buckingham."
+
+31
+00:08:59,083 --> 00:09:02,583
+Il insiste pour venir dans
+une ville où il risque sa vie.
+
+32
+00:09:04,958 --> 00:09:07,583
+Et vous risquez mon
+honneur en faisant cela.
+
+33
+00:09:19,916 --> 00:09:21,791
+Sa Majesté la Reine !
+
+34
+00:09:42,291 --> 00:09:44,833
+Avec l'approbation
+de Sa Sainteté le Pape,
+
+35
+00:09:45,416 --> 00:09:48,416
+Arthus d'Épinay de
+Saint Luc, évêque de
+
+36
+00:09:48,583 --> 00:09:51,666
+Marseille, sera placé à
+la droite de Sa Majesté.
+
+37
+00:09:55,083 --> 00:09:57,666
+Frère François de Loménie,
+de l'ordre dominicain...
+
+38
+00:09:57,833 --> 00:09:58,833
+Quoi de neuf frère ?
+
+39
+00:10:00,000 --> 00:10:04,333
+Votre mariage avec la duchesse de
+Montpensier ne vous intéresse pas ?
+
+40
+00:10:04,416 --> 00:10:07,296
+Nous avons préparé un mariage et
+nous devrions nous préparer à la guerre.
+
+41
+00:10:08,000 --> 00:10:09,125
+Guerre ?
+
+42
+00:10:11,625 --> 00:10:12,708
+Contre qui ?
+
+43
+00:10:12,875 --> 00:10:13,875
+Les Protestants.
+
+44
+00:10:14,250 --> 00:10:15,083
+Monsieur...
+
+45
+00:10:15,166 --> 00:10:19,291
+La Rochelle rassemble des hommes
+et des armes depuis des semaines.
+
+46
+00:10:19,458 --> 00:10:21,083
+Ils préparent la sécession.
+
+47
+00:10:22,208 --> 00:10:25,625
+Si nous n'agissons pas,
+ce sera un état dans un état.
+
+48
+00:10:25,791 --> 00:10:28,166
+L'Angleterre avec un pied en France !
+
+49
+00:10:29,125 --> 00:10:31,291
+Voulez-vous donc, comte,
+
+50
+00:10:32,500 --> 00:10:35,333
+Déclarer la guerre
+aux protestants
+
+51
+00:10:36,791 --> 00:10:37,791
+et en Angleterre ?
+
+52
+00:10:37,875 --> 00:10:39,750
+Les protestants servent les anglais.
+
+53
+00:10:40,250 --> 00:10:42,500
+Saint-Blancard, leur
+chef, est à Londres.
+
+54
+00:10:43,541 --> 00:10:46,000
+Buckingham l'a reçu en personne.
+
+55
+00:10:48,333 --> 00:10:50,916
+Pourquoi le ministre anglais
+de la guerre recevrait-il
+
+56
+00:10:51,416 --> 00:10:54,625
+aux protestants de La Rochelle,
+sinon pour préparer la guerre ?
+
+57
+00:10:54,791 --> 00:10:57,375
+Il faut débarrasser le
+pays de ces hérétiques !
+
+58
+00:10:58,833 --> 00:11:02,250
+Alors ce n'est pas la guerre que
+vous cherchez, mais une croisade.
+
+59
+00:11:02,833 --> 00:11:04,541
+Un Dieu, une nation, une religion.
+
+60
+00:11:04,708 --> 00:11:05,875
+Arrêt !
+
+61
+00:11:08,708 --> 00:11:12,125
+Je ne vais pas ordonner un autre
+massacre de Saint-Barthélemy.
+
+62
+00:11:19,166 --> 00:11:23,208
+Les cloches de Saint-Germain-l'Auxerrois
+sonneront cette fois pour votre mariage,
+
+63
+00:11:24,916 --> 00:11:26,916
+pas par un massacre de protestants.
+
+64
+00:11:27,583 --> 00:11:30,503
+Dois-je vous rappeler que notre père
+a été assassiné par des catholiques ?
+
+65
+00:11:32,166 --> 00:11:34,083
+Méfiez-vous de vos amis dévoués.
+
+66
+00:11:35,416 --> 00:11:37,958
+"Est-ce que Votre Majesté insinue...?"
+- Je ne veux pas dire.
+
+67
+00:11:39,583 --> 00:11:40,958
+Je suis le roi.
+
+68
+00:11:45,875 --> 00:11:49,666
+La noblesse ne veut
+se battre que pour vous.
+
+69
+00:11:51,208 --> 00:11:54,000
+Nous sommes vos vrais amis.
+- Le roi n'a pas d'amis.
+
+70
+00:11:56,625 --> 00:11:58,958
+Seuls les serviteurs et les ennemis.
+
+71
+00:12:00,875 --> 00:12:03,250
+Il est temps de montrer que
+nous sommes vos serviteurs.
+
+72
+00:12:06,416 --> 00:12:07,541
+Ce n'est pas comme ça ?
+
+73
+00:12:21,958 --> 00:12:23,958
+Louis le Juste est cru.
+
+74
+00:12:24,541 --> 00:12:26,166
+C'est juste Louis le Faible.
+
+75
+00:12:26,333 --> 00:12:27,333
+Mon fils...
+
+76
+00:12:27,791 --> 00:12:29,541
+Tu penses que tu parles à ton frère.
+
+77
+00:12:30,333 --> 00:12:32,000
+Mais tu parles à ton roi.
+
+78
+00:12:32,583 --> 00:12:33,958
+Étiez-vous ici, mère ?
+
+79
+00:12:34,458 --> 00:12:36,291
+Je ne t'ai pas écouté.
+
+80
+00:12:36,708 --> 00:12:38,958
+Vous savez déjà parler haut et fort.
+
+81
+00:12:39,416 --> 00:12:41,083
+Apprenez à vous taire.
+
+82
+00:12:42,375 --> 00:12:44,255
+C'est peut-être comme
+ça que je vais t'écouter.
+
+83
+00:12:56,458 --> 00:12:57,583
+Votre Éminence.
+
+84
+00:12:57,750 --> 00:12:58,791
+Madame.
+
+85
+00:12:59,958 --> 00:13:00,958
+Et bien ?
+
+86
+00:13:02,500 --> 00:13:07,458
+Grâce à vous, Buckingham et la
+reine vont enfin pouvoir se rencontrer.
+
+87
+00:13:07,958 --> 00:13:09,708
+Un problème ?
+
+88
+00:13:11,666 --> 00:13:13,375
+Mort et enterré.
+
+89
+00:13:15,541 --> 00:13:17,625
+La reine préfère le
+déshonneur à la guerre.
+
+90
+00:13:19,958 --> 00:13:21,916
+Elle aura le déshonneur.
+
+91
+00:13:22,625 --> 00:13:24,250
+Et nous, la guerre.
+
+92
+00:14:04,791 --> 00:14:07,500
+Excuse-moi.
+Je voudrais voir le capitaine de Tréville.
+
+93
+00:14:07,666 --> 00:14:09,958
+Avez-vous un public ?
+Non, juste une recommandation.
+
+94
+00:14:10,166 --> 00:14:12,625
+C'est cette rangée là-bas.
+- Merci.
+
+95
+00:14:17,541 --> 00:14:19,375
+C'est deux jours d'attente.
+- Non, trois.
+
+96
+00:14:19,541 --> 00:14:22,125
+Le monsieur en vert est arrivé
+dimanche de Carcassonne.
+
+97
+00:14:22,291 --> 00:14:23,291
+Bonne chance.
+
+98
+00:14:23,375 --> 00:14:24,625
+Non, cela ne vous sert à rien.
+
+99
+00:14:36,708 --> 00:14:37,833
+Haut ! Haut !
+
+100
+00:15:17,708 --> 00:15:18,708
+Le suivant.
+
+101
+00:15:19,208 --> 00:15:21,333
+Cinq pieds, huit pouces.
+
+102
+00:15:22,083 --> 00:15:23,083
+Le suivant.
+
+103
+00:15:30,791 --> 00:15:32,166
+En position !
+
+104
+00:15:32,791 --> 00:15:33,791
+Feu !
+
+105
+00:15:53,666 --> 00:15:54,916
+Écouter !
+
+106
+00:15:55,250 --> 00:15:56,500
+Hier à l'aube
+
+107
+00:15:57,166 --> 00:16:00,791
+La garde de Richelieu
+rencontra une poignée de fêtards,
+
+108
+00:16:01,291 --> 00:16:02,666
+ivre comme misérable,
+
+109
+00:16:03,041 --> 00:16:04,833
+provoquant un chahut dans la rue.
+
+110
+00:16:05,791 --> 00:16:07,625
+Et qui étaient ces matasietes ?
+
+111
+00:16:09,166 --> 00:16:10,458
+Les Mousquetaires du Roi !
+
+112
+00:16:12,625 --> 00:16:14,333
+Tu dois savoir,
+ils t'ont reconnu.
+
+113
+00:16:14,500 --> 00:16:15,958
+Capitaine, comment ai-je pu... ?
+
+114
+00:16:16,125 --> 00:16:18,000
+Je ne veux pas être une risée
+
+115
+00:16:18,916 --> 00:16:20,791
+de la garde du cardinal.
+
+116
+00:16:31,250 --> 00:16:33,125
+« Capitaine de Tréville ?
+- Jeune.
+
+117
+00:16:33,833 --> 00:16:36,666
+Je m'appelle Charles d'Artagnan.
+J'apporte une lettre de mon père.
+
+118
+00:16:36,833 --> 00:16:38,791
+- D'Artagnan ! Le fils d'Achille ?
+- Ouais.
+
+119
+00:16:39,708 --> 00:16:42,833
+- D'où vient cette lettre ?
+- J'ai subi une attaque au mousquet.
+
+120
+00:16:43,000 --> 00:16:44,750
+Ma bible a arrêté la balle.
+
+121
+00:16:44,916 --> 00:16:47,791
+Vous serez le premier cette
+année à être sauvé par la religion.
+
+122
+00:16:48,583 --> 00:16:50,708
+J'ai connu ton père.
+Que veut votre fils ?
+
+123
+00:16:51,208 --> 00:16:52,583
+Soyez bref, j'ai peu de temps.
+
+124
+00:16:52,875 --> 00:16:56,458
+J'ai quitté la Gascogne pour
+prendre l'habit et servir le roi.
+
+125
+00:16:56,625 --> 00:16:59,208
+J'ai toujours rêvé
+d'être mousquetaire.
+
+126
+00:16:59,500 --> 00:17:01,958
+J'écrirai au directeur
+de l'Académie royale.
+
+127
+00:17:02,125 --> 00:17:04,541
+Je ne peux pas faire plus.
+Vous rejoindrez les cadets.
+
+128
+00:17:05,250 --> 00:17:07,958
+Et peut-être qu'un jour tu
+pourras être mousquetaire.
+
+129
+00:17:08,625 --> 00:17:10,745
+N'ayez crainte, vous n'aurez
+pas à attendre longtemps.
+
+130
+00:17:49,958 --> 00:17:50,750
+Excuse-moi.
+
+131
+00:17:50,916 --> 00:17:51,916
+C'est tout ?
+
+132
+00:17:52,333 --> 00:17:53,958
+Pensez-vous que cela suffira ?
+
+133
+00:17:54,291 --> 00:17:55,571
+Je vous ai présenté mes excuses.
+
+134
+00:17:55,958 --> 00:17:58,083
+Je n'ai qu'un bras, mais deux oreilles.
+
+135
+00:17:58,250 --> 00:18:00,666
+Ce "excusez-moi" n'avait pas l'air sincère.
+
+136
+00:18:00,833 --> 00:18:02,208
+Excusez-moi, mais je suis pressé.
+
+137
+00:18:02,791 --> 00:18:04,500
+Tu es très grossier.
+
+138
+00:18:05,333 --> 00:18:07,291
+Quand un Gascon s'excuse,
+
+139
+00:18:07,666 --> 00:18:10,416
+il a déjà fait plus de la
+moitié de ce qu'il devait faire.
+
+140
+00:18:11,000 --> 00:18:13,666
+En effet, cela montre
+que vous venez de loin.
+
+141
+00:18:13,958 --> 00:18:17,333
+Autant je viens de loin, autant tu ne
+seras pas celui qui me donnera des cours.
+
+142
+00:18:17,625 --> 00:18:19,333
+Je vais te donner une leçon
+
+143
+00:18:19,666 --> 00:18:21,416
+mon chemin et le dernier.
+
+144
+00:18:21,708 --> 00:18:23,791
+Sachez que je croiserai votre
+
+145
+00:18:23,958 --> 00:18:25,333
+chemin quand
+vous le souhaiterez.
+
+146
+00:18:25,500 --> 00:18:26,625
+Où, s'il vous plaît ?
+
+147
+00:18:26,791 --> 00:18:29,708
+Calvaire Saint-Sulpice au 11.
+
+148
+00:18:29,875 --> 00:18:30,958
+Je serai là.
+
+149
+00:18:40,916 --> 00:18:42,083
+Bon chagrin !
+
+150
+00:18:43,666 --> 00:18:45,546
+Savez-vous comment
+regarder quand vous courez ?
+
+151
+00:18:46,166 --> 00:18:48,625
+Excusez-moi, je suis après quelqu'un.
+
+152
+00:18:49,708 --> 00:18:51,791
+Si j'avais plus de viande,
+j'en ferais une brochette.
+
+153
+00:18:58,166 --> 00:19:01,250
+Dis-moi ce qui te fait rire
+et nous le ferons ensemble.
+
+154
+00:19:01,833 --> 00:19:03,416
+Je ris quand je veux.
+
+155
+00:19:03,750 --> 00:19:04,916
+Eh bien, ce n'est pas de moi.
+
+156
+00:19:06,500 --> 00:19:08,380
+Si tu ne veux pas rire,
+je vais te faire taire.
+
+157
+00:19:10,250 --> 00:19:11,583
+Où, s'il vous plaît ?
+
+158
+00:19:11,750 --> 00:19:12,916
+Au Luxembourg ?
+
+159
+00:19:13,083 --> 00:19:14,291
+Au Luxembourg. À 12h.
+
+160
+00:19:14,458 --> 00:19:15,726
+Vous allez me mettre en appétit.
+
+161
+00:19:15,750 --> 00:19:16,791
+Je serai là.
+
+162
+00:19:17,333 --> 00:19:18,333
+Courir !
+
+163
+00:19:19,916 --> 00:19:21,458
+Un seul coup suffit, tu vois ?
+
+164
+00:19:22,791 --> 00:19:23,791
+Ouais.
+
+165
+00:19:24,583 --> 00:19:25,708
+Les coups de poing volent !
+
+166
+00:20:06,291 --> 00:20:07,291
+Monsieur.
+
+167
+00:20:08,166 --> 00:20:10,208
+Vous serez désolé de perdre cette écharpe.
+
+168
+00:20:13,208 --> 00:20:15,208
+Tu as tort, ce n'est pas le mien.
+
+169
+00:20:16,708 --> 00:20:17,958
+C'est de ma femme.
+
+170
+00:20:18,458 --> 00:20:19,958
+Vous serez tombé.
+
+171
+00:20:22,666 --> 00:20:25,625
+Je l'ai vu tomber à tes
+pieds, j'ai cru que c'était à toi.
+
+172
+00:20:25,791 --> 00:20:27,125
+Mais c'est peut-être le vôtre.
+
+173
+00:20:27,291 --> 00:20:28,291
+Voilà.
+
+174
+00:20:28,375 --> 00:20:29,583
+J'aurai eu tort.
+
+175
+00:20:29,750 --> 00:20:31,166
+J'ai peur moi aussi.
+
+176
+00:20:35,416 --> 00:20:36,916
+Vous m'avez mis dans une impasse.
+
+177
+00:20:37,083 --> 00:20:38,625
+Je suis désolé.
+Je ne voulais pas.
+
+178
+00:20:38,791 --> 00:20:40,375
+Bien sûr que non.
+
+179
+00:20:41,666 --> 00:20:42,833
+Pensez-vous que j'ai peur ?
+
+180
+00:20:44,083 --> 00:20:47,083
+Ne sois pas stupide.
+Il serait intelligent d'avoir peur.
+
+181
+00:20:47,708 --> 00:20:49,028
+Eh bien oui, je suis un imbécile.
+
+182
+00:20:50,625 --> 00:20:51,708
+Cela m'a semblé.
+
+183
+00:20:52,958 --> 00:20:55,118
+Vous avez tort si vous
+avez l'intention de m'humilier.
+
+184
+00:20:56,791 --> 00:20:57,958
+Écouter,
+
+185
+00:20:58,166 --> 00:21:01,541
+Je ne me bats généralement pas si ce n'est
+pas nécessaire. Et toujours avec dégoût.
+
+186
+00:21:01,708 --> 00:21:05,125
+Mais cette fois c'est sérieux. A cause
+de lui, une dame a été compromise.
+
+187
+00:21:05,875 --> 00:21:06,875
+Par ma faute ?
+
+188
+00:21:07,458 --> 00:21:11,125
+Si je ne peux pas vous apprendre
+à vivre, je vous apprendrai à mourir.
+
+189
+00:21:13,208 --> 00:21:14,208
+Et où, s'il vous plaît ?
+
+190
+00:21:15,458 --> 00:21:17,416
+A midi avec les Carmélites.
+
+191
+00:21:18,583 --> 00:21:19,583
+À votre service.
+
+192
+00:21:22,500 --> 00:21:24,833
+Excusez-moi, est-ce possible à 1 ?
+
+193
+00:21:26,208 --> 00:21:29,250
+Profite de cette heure de
+vie de plus que je t'accorde.
+
+194
+00:21:29,875 --> 00:21:30,875
+Merci.
+
+195
+00:22:11,416 --> 00:22:14,583
+Désolé, je vous ai confondu.
+Je suis vraiment désolé.
+
+196
+00:22:14,750 --> 00:22:16,291
+Je t'ai presque tué.
+
+197
+00:22:16,833 --> 00:22:18,791
+- J'ai l'habitude.
+- Je m'excuse.
+
+198
+00:22:18,958 --> 00:22:21,250
+Il y avait un homme qui me suivait.
+
+199
+00:22:23,333 --> 00:22:24,333
+Ce n'est rien.
+
+200
+00:22:24,791 --> 00:22:25,958
+Constance.
+
+201
+00:22:28,125 --> 00:22:30,125
+- Constance Bonacieux.
+- Enchanté.
+
+202
+00:22:30,291 --> 00:22:31,333
+D'Artagnan.
+
+203
+00:22:32,375 --> 00:22:34,833
+- Etes-vous ici pour l'annonce ?
+- Voilà.
+
+204
+00:22:34,958 --> 00:22:35,958
+Quelle annonce ?
+
+205
+00:22:37,125 --> 00:22:38,250
+La chambre à louer.
+
+206
+00:22:38,583 --> 00:22:39,625
+Je le loue.
+
+207
+00:22:41,583 --> 00:22:42,708
+Très bien.
+
+208
+00:22:43,541 --> 00:22:45,166
+Vous ne voulez pas le voir en premier ?
+
+209
+00:22:46,250 --> 00:22:47,583
+Mais.
+
+210
+00:22:47,750 --> 00:22:50,458
+Non, ça va, j'en ai assez vu.
+
+211
+00:22:52,166 --> 00:22:54,083
+Je crains que le coup ne vous ait atteint.
+
+212
+00:22:56,958 --> 00:22:59,750
+J'espère que vous m'écoutez au moins.
+- Ouais.
+
+213
+00:23:00,958 --> 00:23:03,291
+Le quart est une livre par semaine.
+
+214
+00:23:04,250 --> 00:23:05,291
+Une livre par semaine ?
+
+215
+00:23:05,458 --> 00:23:06,458
+Voilà.
+
+216
+00:23:06,708 --> 00:23:08,500
+Ici, je vous donne quatre semaines.
+
+217
+00:23:10,250 --> 00:23:11,750
+Ou quatre planches pour mon cercueil.
+
+218
+00:23:12,958 --> 00:23:14,666
+Est-ce que je t'ai fait autant de mal ?
+
+219
+00:23:15,125 --> 00:23:16,291
+Non, vous ne le faites pas.
+
+220
+00:23:16,833 --> 00:23:19,166
+Mais dans une heure je
+dois affronter trois hommes.
+
+221
+00:23:19,791 --> 00:23:21,125
+Ils vont te tuer.
+
+222
+00:23:22,333 --> 00:23:23,333
+Ouais.
+
+223
+00:23:24,875 --> 00:23:26,416
+Au moins ce sera un mousquetaire.
+
+224
+00:24:05,958 --> 00:24:07,625
+Un bon endroit pour mourir.
+
+225
+00:24:08,500 --> 00:24:09,916
+J'y ai pensé plusieurs fois.
+
+226
+00:24:16,958 --> 00:24:19,166
+Nous ne nous sommes pas encore présentés.
+
+227
+00:24:20,750 --> 00:24:22,791
+Athos de Sillegue d'Hauteville,
+
+228
+00:24:24,750 --> 00:24:25,875
+Comte de la Fère.
+
+229
+00:24:26,583 --> 00:24:28,875
+Charles d'Artagnan, de Gascogne.
+
+230
+00:24:32,750 --> 00:24:35,500
+Si je te tue, ils me
+traiteront d'avaleur d'enfants.
+
+231
+00:24:36,500 --> 00:24:37,666
+Et ça tue les vieux pour moi.
+
+232
+00:24:38,208 --> 00:24:39,708
+Est-ce que j'ai l'air si fatigué ?
+
+233
+00:24:39,875 --> 00:24:43,333
+Êtes-vous blessé
+et toujours en duel ?
+
+234
+00:24:43,500 --> 00:24:45,416
+Si ma main droite me manque,
+
+235
+00:24:46,708 --> 00:24:48,333
+la gauche fera l'affaire.
+
+236
+00:24:52,791 --> 00:24:55,291
+Deux de mes amis agiront en
+tant que parrains et marraines.
+
+237
+00:24:56,625 --> 00:24:57,665
+Qu'est-ce qu'il fait ici ?
+
+238
+00:24:57,791 --> 00:24:59,250
+C'est ton parrain ?
+
+239
+00:24:59,416 --> 00:25:00,500
+Il est Porthos.
+
+240
+00:25:00,958 --> 00:25:02,958
+Le second s'appelle Aramis.
+
+241
+00:25:04,333 --> 00:25:05,916
+Je me battrai avec M. d'Artagnan.
+
+242
+00:25:06,333 --> 00:25:07,726
+Moi aussi je dois me battre contre lui.
+
+243
+00:25:07,750 --> 00:25:08,791
+Ce midi.
+
+244
+00:25:08,958 --> 00:25:11,958
+Et je te tuerai à 1.
+
+245
+00:25:15,958 --> 00:25:18,708
+Écoutez, M. Athos
+peut me tuer en
+
+246
+00:25:18,875 --> 00:25:20,500
+premier, M. Porthos
+le deuxième et...
+
+247
+00:25:20,666 --> 00:25:22,958
+- Aramis.
+- Et Aramis, le dernier.
+
+248
+00:25:23,708 --> 00:25:26,375
+Excusez-moi si je ne peux
+pas vous plaire à tous les trois.
+
+249
+00:25:30,875 --> 00:25:32,916
+Quand êtes-vous arrivé à Paris ?
+
+250
+00:25:34,375 --> 00:25:35,375
+Ce matin.
+
+251
+00:25:37,750 --> 00:25:39,666
+Trois duels en trois heures.
+
+252
+00:25:39,833 --> 00:25:42,666
+Si je n'avais pas à te
+tuer, je t'offrirais un verre.
+
+253
+00:25:43,125 --> 00:25:44,458
+Vous pouvez boire à ma santé.
+
+254
+00:26:09,291 --> 00:26:10,291
+Athos.
+
+255
+00:26:10,500 --> 00:26:11,875
+La garde du cardinal
+
+256
+00:26:12,166 --> 00:26:13,416
+Ils nous ont suivis.
+
+257
+00:26:17,708 --> 00:26:18,916
+Vous battez-vous, messieurs ?
+
+258
+00:26:20,125 --> 00:26:21,208
+Les duels sont interdits.
+
+259
+00:26:21,833 --> 00:26:23,153
+Lâchez vos épées et suivez-nous !
+
+260
+00:26:23,250 --> 00:26:24,583
+Mon épée n'aime pas la poussière.
+
+261
+00:26:24,750 --> 00:26:27,333
+Si vous le voulez, venez le prendre.
+
+262
+00:26:27,750 --> 00:26:28,541
+Soyez prudent, mon ami.
+
+263
+00:26:28,708 --> 00:26:30,416
+Ils sont sept, nous trois.
+
+264
+00:26:30,583 --> 00:26:32,125
+Et Athos avec un pied dans la tombe.
+
+265
+00:26:32,208 --> 00:26:33,875
+Il m'en reste un pour les détruire.
+
+266
+00:26:34,250 --> 00:26:34,958
+Messieurs,
+
+267
+00:26:35,166 --> 00:26:38,750
+vous dites que vous êtes trois Il
+me semble que nous sommes quatre.
+
+268
+00:26:39,916 --> 00:26:42,166
+Tuez-le s'il vous plaît,
+il est insupportable.
+
+269
+00:26:42,333 --> 00:26:44,583
+Messieurs, avez-vous pris votre décision ?
+
+270
+00:26:54,500 --> 00:26:55,708
+Attendez.
+
+271
+00:26:57,500 --> 00:27:00,916
+Nous ne formons ce cadet qu'à la
+demande du Capitaine de Tréville.
+
+272
+00:27:04,291 --> 00:27:05,291
+Tous pour un !
+
+273
+00:27:05,875 --> 00:27:07,083
+Un pour tous !
+
+274
+00:29:04,333 --> 00:29:06,541
+N'êtes-vous pas le frère
+de Lucie de Maupin ?
+
+275
+00:29:06,708 --> 00:29:08,000
+N'ose pas le nommer !
+
+276
+00:29:08,208 --> 00:29:10,791
+S'en aller !
+Je ne te briserai plus le cœur.
+
+277
+00:29:10,958 --> 00:29:12,541
+Sortez ou je change d'avis !
+
+278
+00:29:17,125 --> 00:29:20,476
+Quel jour sommes-nous aujourd'hui ? J'aimerais
+que vous connaissiez la date de sa mort.
+
+279
+00:29:20,500 --> 00:29:22,666
+Santa Rosana, le 7.
+
+280
+00:29:23,166 --> 00:29:24,291
+Le 7, donc.
+
+281
+00:30:05,500 --> 00:30:06,958
+Je suis toujours cadet.
+
+282
+00:30:08,416 --> 00:30:10,296
+Mais quand je serai
+mousquetaire, je te tuerai.
+
+283
+00:30:17,958 --> 00:30:18,958
+D'Artagnan !
+
+284
+00:30:44,541 --> 00:30:47,625
+Cette rivalité entre nos
+troupes est ridicule et odieuse.
+
+285
+00:30:48,958 --> 00:30:52,458
+Nous ne pouvons pas laisser les nobles se
+battre maintenant que la guerre approche.
+
+286
+00:30:53,333 --> 00:30:55,833
+Arrêtez vos soldats
+et j'arrêterai les miens.
+
+287
+00:30:55,958 --> 00:30:57,000
+Le roi !
+
+288
+00:31:00,625 --> 00:31:02,791
+Voici les diables
+
+289
+00:31:03,958 --> 00:31:05,458
+que je dois réprimander.
+
+290
+00:31:05,875 --> 00:31:08,083
+Les voici, contrits et repentis,
+
+291
+00:31:08,916 --> 00:31:10,791
+s'excuser.
+
+292
+00:31:18,416 --> 00:31:20,583
+Vous ne pouvez pas vous
+faire justice vous-même.
+
+293
+00:31:22,333 --> 00:31:24,958
+Ce droit m'appartient
+
+294
+00:31:26,166 --> 00:31:27,291
+et seulement moi.
+
+295
+00:31:28,208 --> 00:31:29,208
+Monsieur,
+
+296
+00:31:29,708 --> 00:31:31,541
+nous implorons votre pardon.
+
+297
+00:31:42,166 --> 00:31:43,583
+Qui est ce jeune homme ?
+
+298
+00:31:44,000 --> 00:31:45,500
+D'Artagnan, Votre Majesté.
+
+299
+00:31:48,916 --> 00:31:50,666
+Étiez-vous...
+
+300
+00:31:52,166 --> 00:31:54,458
+qui a donné ce coup
+terrible à Jussac ?
+
+301
+00:31:56,833 --> 00:31:58,000
+Oui votre Majesté.
+
+302
+00:31:59,208 --> 00:32:01,125
+Enfin, "donner".
+
+303
+00:32:02,541 --> 00:32:05,000
+Je viens de le lui prêter,
+mais il n'a pas pu le rendre.
+
+304
+00:32:13,291 --> 00:32:15,208
+Tu es très arrogant, jeune homme.
+
+305
+00:32:16,208 --> 00:32:17,625
+C'est ma seule richesse.
+
+306
+00:32:18,916 --> 00:32:20,833
+Et il est totalement à votre service.
+
+307
+00:32:21,875 --> 00:32:23,375
+Eh bien, gardez-le bien
+
+308
+00:32:24,708 --> 00:32:27,375
+avant de le gaspiller partout.
+
+309
+00:32:30,000 --> 00:32:32,291
+20 hommes en deux jours.
+C'est trop.
+
+310
+00:32:34,291 --> 00:32:36,500
+A ce rythme, le
+cardinal devra remplacer
+
+311
+00:32:36,666 --> 00:32:39,541
+sa compagnie
+dans trois semaines.
+
+312
+00:32:42,541 --> 00:32:45,208
+Donne à ce pauvre
+homme de bons vêtements.
+
+313
+00:32:49,000 --> 00:32:52,166
+Je vous préviens, les pieds du roi...
+
+314
+00:32:56,000 --> 00:32:57,666
+ils ne reculent jamais.
+
+315
+00:33:02,000 --> 00:33:03,583
+Le prochain qui osera se battre,
+
+316
+00:33:04,458 --> 00:33:06,166
+finiront aux galères.
+
+317
+00:33:09,625 --> 00:33:12,386
+Je n'y suis jamais allé, mais
+apparemment c'est pire qu'en Angleterre.
+
+318
+00:33:23,000 --> 00:33:24,958
+Je vois que tu n'es pas mort.
+- Non.
+
+319
+00:33:25,041 --> 00:33:27,375
+Non, excusez-moi.
+Vous devrez m'héberger.
+
+320
+00:33:27,541 --> 00:33:30,583
+C'est dommage.
+Il avait commandé les planches du cercueil.
+
+321
+00:33:30,750 --> 00:33:32,208
+Gardez-les bien.
+
+322
+00:33:32,583 --> 00:33:34,958
+Je ne sais pas si ce
+garçon survivra ce soir.
+
+323
+00:33:38,583 --> 00:33:39,708
+Maintenant tu es riche.
+
+324
+00:33:41,541 --> 00:33:42,541
+Mon père a dit :
+
+325
+00:33:42,750 --> 00:33:44,958
+"L'argent est un bon serviteur,
+mais un mauvais maître."
+
+326
+00:33:45,125 --> 00:33:46,875
+Eh bien, il avait raison. Payez ce tour.
+
+327
+00:33:50,708 --> 00:33:51,708
+Merci.
+
+328
+00:33:51,833 --> 00:33:52,916
+Santé !
+
+329
+00:33:55,166 --> 00:33:56,458
+Le pauvre n'a rien à faire.
+
+330
+00:33:56,625 --> 00:33:58,125
+Aramis a ses principes.
+
+331
+00:33:58,458 --> 00:34:00,208
+- Est marié ?
+- Pas précisément.
+
+332
+00:34:00,375 --> 00:34:03,083
+Aramis est un jésuite qui
+hésite entre l'Église et l'armée.
+
+333
+00:34:03,250 --> 00:34:05,791
+Le matin, c'est général.
+La nuit, évêque.
+
+334
+00:34:05,958 --> 00:34:08,125
+Avec les femmes mariées,
+les deux sont possibles.
+
+335
+00:34:09,625 --> 00:34:10,666
+Et Athos ?
+
+336
+00:34:11,166 --> 00:34:12,333
+Il a ses démons.
+
+337
+00:34:12,625 --> 00:34:15,166
+Il les noie dans l'alcool,
+mais ils ont appris à nager.
+
+338
+00:34:33,375 --> 00:34:34,375
+Aramis.
+
+339
+00:34:43,958 --> 00:34:45,833
+Tout ce que je te dis est un mensonge.
+
+340
+00:34:46,125 --> 00:34:48,500
+Il m'a dit que tu es un gentleman.
+
+341
+00:34:48,666 --> 00:34:51,208
+Est-ce que tu vois ?
+Je suis tout sauf gentil.
+
+342
+00:34:51,375 --> 00:34:52,833
+Soyez prudent, d'Artagnan.
+
+343
+00:34:52,958 --> 00:34:54,958
+Si Porthos te prend sous son aile
+
+344
+00:34:55,750 --> 00:34:57,750
+C'est pour vous mettre dans leur nid.
+
+345
+00:35:02,625 --> 00:35:04,541
+- Aimez-vous le...?
+- Pourquoi pas ?
+
+346
+00:35:04,916 --> 00:35:07,375
+J'aime tout ce qui tombe dans
+mon assiette ou sur mon lit.
+
+347
+00:35:07,541 --> 00:35:08,291
+C'est beaucoup de monde !
+
+348
+00:35:08,458 --> 00:35:09,958
+Sauf les idiots.
+
+349
+00:35:10,125 --> 00:35:11,916
+Une peine. Vous n'auriez jamais faim.
+
+350
+00:35:12,083 --> 00:35:13,291
+Allez ! Allez !
+
+351
+00:35:13,458 --> 00:35:14,958
+Une cuisse est une cuisse !
+
+352
+00:35:16,541 --> 00:35:18,625
+Braves cadets de Gascogne,
+
+353
+00:35:18,958 --> 00:35:21,958
+de Carbone à Casteljaloux.
+
+354
+00:35:22,875 --> 00:35:26,541
+Braves cadets de Gascogne,
+
+355
+00:35:26,916 --> 00:35:30,708
+regard d'aigle, longues
+
+356
+00:35:30,875 --> 00:35:32,875
+jambes, moustaches de chat
+
+357
+00:35:33,000 --> 00:35:34,291
+et dents de loup
+
+358
+00:35:34,666 --> 00:35:38,250
+Nous combattons l'écume des
+
+359
+00:35:38,416 --> 00:35:40,166
+rues, yeux d'aigle,
+longues jambes,
+
+360
+00:35:40,333 --> 00:35:44,916
+avec un chapeau par tous les temps,
+ils cachent les trous avec des plumes.
+
+361
+00:36:45,000 --> 00:36:46,208
+Oh, bonjour.
+
+362
+00:36:47,250 --> 00:36:48,250
+Bonjour...
+
+363
+00:36:50,958 --> 00:36:52,166
+Avez-vous bien dormi ?
+
+364
+00:36:53,000 --> 00:36:54,541
+Bonjour Constance.
+
+365
+00:36:54,708 --> 00:36:56,083
+Bonjour Constance.
+
+366
+00:37:14,833 --> 00:37:15,958
+Allez !
+
+367
+00:37:18,666 --> 00:37:19,791
+Non !
+
+368
+00:37:20,125 --> 00:37:21,125
+Non !
+
+369
+00:37:24,375 --> 00:37:25,416
+Mesdames et Messieurs,
+
+370
+00:37:25,583 --> 00:37:28,541
+Athos d'Hauteville, comte de la Fère,
+
+371
+00:37:28,833 --> 00:37:32,000
+a combattu en Flandre
+contre les Provinces-Unies,
+
+372
+00:37:32,625 --> 00:37:34,291
+en Bavière contre le Saint
+
+373
+00:37:34,458 --> 00:37:35,791
+Empire, dans le Palatinat,
+
+374
+00:37:35,958 --> 00:37:37,458
+en Lombardie et en Savoie.
+
+375
+00:37:37,625 --> 00:37:41,333
+Il a combattu plus de batailles qu'il
+n'y a de spectateurs dans cette salle.
+
+376
+00:37:42,791 --> 00:37:44,250
+Je ne devrais pas être ici
+
+377
+00:37:45,083 --> 00:37:46,458
+mais sur un socle.
+
+378
+00:37:52,875 --> 00:37:56,083
+Merci, capitaine, mais nous
+ne jugeons pas les statues ici.
+
+379
+00:37:56,958 --> 00:37:58,125
+Nous jugeons les hommes.
+
+380
+00:37:59,958 --> 00:38:00,958
+Compter,
+
+381
+00:38:01,791 --> 00:38:04,625
+vous venez d'une des
+grandes familles du pays.
+
+382
+00:38:05,333 --> 00:38:09,541
+Mais votre sang et vos titres ne
+vous protègent pas, au contraire.
+
+383
+00:38:10,875 --> 00:38:14,541
+Celui qui est né noble
+doit mener une vie digne.
+
+384
+00:38:15,333 --> 00:38:17,958
+Votre frère, Benjamin
+de la Fère, est
+
+385
+00:38:18,125 --> 00:38:21,458
+un célèbre défenseur
+de La Rochelle.
+
+386
+00:38:23,083 --> 00:38:24,916
+Êtes-vous protestant ?
+
+387
+00:38:26,166 --> 00:38:28,125
+Si, je le suis.
+
+388
+00:38:29,333 --> 00:38:30,625
+Crois-tu en Dieu ?
+
+389
+00:38:33,958 --> 00:38:36,375
+Je crois en Dieu, au roi et à la France.
+
+390
+00:38:40,541 --> 00:38:42,208
+Dans l'Évangile selon
+saint Jean, lorsque
+
+391
+00:38:42,375 --> 00:38:44,958
+Jésus rencontre
+Pilate, il lui dit :
+
+392
+00:38:45,125 --> 00:38:48,416
+"Je suis venu au monde
+pour témoigner de la vérité."
+
+393
+00:38:48,583 --> 00:38:49,875
+Et Pilate répond :
+
+394
+00:38:50,000 --> 00:38:51,458
+"Quelle est la vérité ?".
+
+395
+00:38:51,625 --> 00:38:52,791
+Exactement.
+
+396
+00:38:54,166 --> 00:38:55,958
+Ils vous ont arrêté ce matin,
+
+397
+00:38:56,541 --> 00:38:58,625
+ivre, couvert de sang,
+
+398
+00:38:58,791 --> 00:39:00,083
+un poignard à la main.
+
+399
+00:39:00,625 --> 00:39:03,333
+Avec un inconnu
+assassiné dans ton lit.
+
+400
+00:39:04,458 --> 00:39:06,625
+Alors maintenant, je
+vous demande la vérité.
+
+401
+00:39:07,583 --> 00:39:09,083
+Avez-vous tué cette femme ?
+
+402
+00:39:22,000 --> 00:39:23,875
+Avez-vous tué cette femme ?
+
+403
+00:39:28,208 --> 00:39:29,208
+Je ne sais pas.
+
+404
+00:39:30,666 --> 00:39:32,625
+Ne peux-tu pas mentir comme tout le monde ?
+
+405
+00:39:33,625 --> 00:39:34,916
+Vous ne savez pas ?
+
+406
+00:39:36,583 --> 00:39:37,583
+Non.
+
+407
+00:39:40,416 --> 00:39:42,708
+Et je ne mentirai pas pour éviter la mort.
+
+408
+00:39:43,166 --> 00:39:45,000
+Je n'ai aucun attachement à la vie.
+
+409
+00:39:49,708 --> 00:39:50,708
+Compter,
+
+410
+00:39:51,291 --> 00:39:55,583
+la plus grande richesse qu'un gentleman
+puisse laisser derrière lui est son exemple.
+
+411
+00:39:56,208 --> 00:39:57,791
+Votre vie a été exemplaire.
+
+412
+00:39:57,958 --> 00:40:00,958
+Votre mort le sera encore plus.
+
+413
+00:40:01,458 --> 00:40:03,958
+La peine capitale
+pour le commun est
+
+414
+00:40:04,125 --> 00:40:05,750
+la mort, pour le
+noble, la décapitation.
+
+415
+00:40:07,625 --> 00:40:10,208
+Chevalier Athos d'Hauteville,
+comte de la Fère, ce
+
+416
+00:40:10,375 --> 00:40:13,833
+tribunal vous condamne
+à être décapité par l'épée
+
+417
+00:40:13,958 --> 00:40:15,708
+ce lundi sur la place de Grève.
+
+418
+00:40:25,375 --> 00:40:27,000
+Nous ferons appel de la sentence !
+
+419
+00:40:27,291 --> 00:40:28,000
+Très bien.
+
+420
+00:40:28,208 --> 00:40:31,708
+Vous avez quatre jours pour prouver
+son innocence ou demander grâce au roi.
+
+421
+00:40:31,875 --> 00:40:33,166
+Que Dieu soit avec vous.
+
+422
+00:40:45,250 --> 00:40:48,083
+Si Athos refuse de se
+défendre, nous le ferons.
+
+423
+00:40:48,791 --> 00:40:51,431
+Identifiez cette femme et découvrez
+pourquoi elle était avec Athos.
+
+424
+00:40:51,625 --> 00:40:53,000
+C'est notre seul espoir.
+
+425
+00:41:47,166 --> 00:41:48,958
+Pas de bagues, pas de colliers, rien.
+
+426
+00:41:49,583 --> 00:41:52,142
+La seule chose que j'ai trouvée sur
+elle, ce sont les coups de couteau.
+
+427
+00:41:52,166 --> 00:41:53,375
+Une prostituée ?
+
+428
+00:41:53,541 --> 00:41:55,666
+Regardez ces mains délicates.
+
+429
+00:41:56,375 --> 00:41:58,916
+Cette femme n'a jamais travaillé.
+
+430
+00:41:59,666 --> 00:42:00,666
+Vous êtes bien ?
+
+431
+00:42:00,958 --> 00:42:02,083
+Une bourgeoise...
+
+432
+00:42:02,458 --> 00:42:03,541
+ou une noble
+
+433
+00:42:03,708 --> 00:42:05,125
+Puis-je voir ton visage ?
+
+434
+00:42:20,541 --> 00:42:22,208
+C'est la femme qui a essayé de me tuer.
+
+435
+00:42:56,375 --> 00:42:57,375
+Je n'ai rien fait.
+
+436
+00:42:58,750 --> 00:42:59,958
+Je n'ai rien fait !
+
+437
+00:43:01,458 --> 00:43:02,958
+Je pensais que tu étais mort !
+
+438
+00:43:12,375 --> 00:43:14,000
+Je jure que je ne les ai jamais vus.
+
+439
+00:43:14,208 --> 00:43:15,333
+Tais toi tais toi.
+
+440
+00:43:15,958 --> 00:43:16,958
+Creuser.
+
+441
+00:43:43,416 --> 00:43:44,416
+Rien.
+
+442
+00:43:44,500 --> 00:43:46,458
+Nous ne saurons jamais qui ils étaient.
+
+443
+00:43:56,500 --> 00:43:57,750
+Portait-il une bague ?
+
+444
+00:44:28,333 --> 00:44:29,833
+Il visait l'autre jambe.
+
+445
+00:44:39,333 --> 00:44:40,791
+Bien sûr, vous l'avez.
+
+446
+00:44:41,500 --> 00:44:43,166
+Où est la bague ?
+
+447
+00:44:44,666 --> 00:44:46,958
+Je veux savoir qui était cet homme.
+
+448
+00:45:08,958 --> 00:45:10,041
+Que faites-vous ?
+
+449
+00:45:10,416 --> 00:45:11,958
+Je déteste salir mes couteaux.
+
+450
+00:45:12,125 --> 00:45:13,458
+Vous irez en enfer.
+
+451
+00:45:16,958 --> 00:45:18,458
+Je ne supporte pas la torture.
+
+452
+00:45:19,666 --> 00:45:21,586
+Comme tout le monde,
+c'est pour ça que ça marche.
+
+453
+00:45:24,875 --> 00:45:28,708
+Dieu vous garde, Marie, pleine
+de grâce, le Seigneur est avec vous.
+
+454
+00:45:28,875 --> 00:45:30,833
+Priez pour nous pécheurs...
+
+455
+00:45:31,583 --> 00:45:32,583
+Craignez-vous Dieu ?
+
+456
+00:45:32,875 --> 00:45:34,515
+Si Dieu me voyait
+maintenant et ne voulait
+
+457
+00:45:34,541 --> 00:45:36,958
+pas que je fasse
+ce que je vais faire,
+
+458
+00:45:37,291 --> 00:45:38,791
+Il me lancerait des éclairs.
+
+459
+00:45:39,083 --> 00:45:41,163
+Et regardez quel ciel
+plus clair il y a aujourd'hui.
+
+460
+00:45:41,250 --> 00:45:42,250
+Piété !
+
+461
+00:45:47,333 --> 00:45:48,625
+Que fais-tu ?
+
+462
+00:45:49,000 --> 00:45:50,125
+Parler avec lui.
+
+463
+00:45:50,291 --> 00:45:51,291
+Parler avec lui ?
+
+464
+00:45:52,500 --> 00:45:54,625
+Les paroles d'Aramis sont
+pires que des poignards.
+
+465
+00:45:55,958 --> 00:45:58,638
+Il y a trois anneaux. Le crétin
+ne se souvient plus lequel c'était.
+
+466
+00:45:59,958 --> 00:46:02,333
+Trois casques d'or :
+famille Brissac d'Argis.
+
+467
+00:46:02,500 --> 00:46:05,458
+Un lion couronné, trois roses
+: famille Dardel de Luzinais.
+
+468
+00:46:06,666 --> 00:46:08,916
+Un aigle et deux
+épées : famille Valcour.
+
+469
+00:46:10,333 --> 00:46:12,416
+On est à trois anneaux
+de notre homme.
+
+470
+00:46:12,583 --> 00:46:14,208
+Et de la femme qui était avec eux.
+
+471
+00:46:14,375 --> 00:46:16,541
+A l'aube, nous frapperons à votre porte.
+
+472
+00:46:16,708 --> 00:46:19,125
+Avec l'aide de Dieu,
+nous sauverons Athos.
+
+473
+00:46:41,333 --> 00:46:44,333
+PLAGE DE NORMANDIE
+
+474
+00:47:19,875 --> 00:47:21,791
+Bienvenue en France, Lord Buckingham.
+
+475
+00:47:21,958 --> 00:47:24,625
+Votre voyage s'est bien déroulé ?
+- Trop silencieux.
+
+476
+00:47:25,250 --> 00:47:27,250
+Je n'avais pas prévu de
+te voir avant La Rochelle.
+
+477
+00:47:27,833 --> 00:47:28,958
+Moi non plus.
+
+478
+00:47:29,166 --> 00:47:31,416
+Mais il ne pouvait pas
+refuser l'invitation de la reine.
+
+479
+00:48:10,333 --> 00:48:12,083
+Qu'avez-vous, sire ?
+
+480
+00:48:13,000 --> 00:48:16,000
+Vous êtes ici, mais
+votre esprit est ailleurs.
+
+481
+00:48:16,208 --> 00:48:20,000
+Gaston a reçu hier
+une lettre de sa fiancée.
+
+482
+00:48:21,541 --> 00:48:23,166
+Il le lut à ses hommes,
+
+483
+00:48:23,416 --> 00:48:26,708
+ridiculiser les mots d'amour
+d'une jeune fille de 16 ans.
+
+484
+00:48:27,083 --> 00:48:28,708
+Il va falloir s'y habituer.
+
+485
+00:48:29,875 --> 00:48:31,375
+Gaston n'est pas un homme tendre.
+
+486
+00:48:41,583 --> 00:48:44,583
+Ce que ton frère veut
+
+487
+00:48:45,666 --> 00:48:47,833
+un mariage ne peut pas le satisfaire.
+
+488
+00:48:51,250 --> 00:48:54,166
+Parfois j'aimerais ne pas être roi
+
+489
+00:48:54,583 --> 00:48:56,083
+et qu'il régnerait à ma place.
+
+490
+00:48:59,000 --> 00:49:00,000
+Luis.
+
+491
+00:49:00,625 --> 00:49:03,000
+Vous êtes roi par la grâce de Dieu.
+
+492
+00:49:09,333 --> 00:49:11,916
+Peut-être devrais-je vous
+accompagner au Val de Grâce.
+
+493
+00:49:12,916 --> 00:49:16,333
+Le père Arnoux est un bon conseiller.
+Il saura me calmer.
+
+494
+00:49:21,208 --> 00:49:24,125
+Si c'est ce que souhaite Votre Majesté,
+
+495
+00:49:24,375 --> 00:49:25,541
+J'aimerais.
+
+496
+00:49:28,208 --> 00:49:30,208
+Non. Une autre fois, peut-être.
+
+497
+00:49:31,375 --> 00:49:34,458
+Viens me voir juste après la confession.
+
+498
+00:49:36,208 --> 00:49:37,291
+Madame...
+
+499
+00:50:27,541 --> 00:50:28,875
+-Que veux-tu ? -Bonjour.
+
+500
+00:50:29,375 --> 00:50:31,250
+Je voudrais voir le comte de Valcour.
+
+501
+00:50:31,416 --> 00:50:32,416
+Il n'est pas ici.
+
+502
+00:50:32,708 --> 00:50:34,708
+Un moment. Cela vous appartient.
+
+503
+00:50:40,875 --> 00:50:43,916
+Je vais voir si la comtesse
+peut vous recevoir. suis-moi
+
+504
+00:51:22,083 --> 00:51:24,625
+Isabelle de Valcour, ravie.
+
+505
+00:51:24,791 --> 00:51:25,833
+Avant.
+
+506
+00:51:42,958 --> 00:51:45,208
+J'espère que je ne vous ai
+causé aucun désagrément.
+
+507
+00:51:45,875 --> 00:51:49,416
+Au contraire.
+J'apprécie une petite distraction.
+
+508
+00:51:51,541 --> 00:51:54,458
+Votre visage m'est familier.
+On s'est déjà vu ?
+
+509
+00:51:56,458 --> 00:52:00,250
+Je suis sûr que si je t'avais
+vu, je ne t'aurais pas oublié.
+
+510
+00:52:01,583 --> 00:52:03,791
+Je viens d'arriver de Gascogne.
+
+511
+00:52:04,250 --> 00:52:05,583
+Je m'appelle d'Artagnan.
+
+512
+00:52:11,250 --> 00:52:14,041
+Excusez-moi, vous pouvez
+vous asseoir. S'il vous plait.
+
+513
+00:52:14,375 --> 00:52:15,375
+Merci.
+
+514
+00:52:18,375 --> 00:52:21,375
+J'ai été enfermé ici pendant
+des mois à cause de fièvres.
+
+515
+00:52:21,541 --> 00:52:22,958
+J'ai oublié les manières.
+
+516
+00:52:23,416 --> 00:52:25,583
+J'espère que tu vas mieux maintenant.
+
+517
+00:52:25,750 --> 00:52:27,791
+Je pense que je peux survivre.
+
+518
+00:52:32,125 --> 00:52:33,583
+Que puis-je faire pour vous ?
+
+519
+00:52:34,458 --> 00:52:35,583
+Exact, désolé.
+
+520
+00:52:36,875 --> 00:52:41,000
+Cela m'est arrivé il
+y a quelques jours.
+
+521
+00:52:41,583 --> 00:52:44,541
+Je dois trouver son propriétaire.
+C'est très important.
+
+522
+00:52:45,708 --> 00:52:46,750
+Laissez-moi voir
+
+523
+00:52:52,416 --> 00:52:54,416
+C'est la bague de Tancrède.
+
+524
+00:52:55,333 --> 00:52:56,333
+Tancrède ?
+
+525
+00:52:56,416 --> 00:52:57,500
+Mon frère.
+
+526
+00:52:58,375 --> 00:52:59,375
+Où est ?
+
+527
+00:52:59,750 --> 00:53:01,541
+A la campagne, acheter des chevaux.
+
+528
+00:53:02,458 --> 00:53:04,708
+Vous serez très heureux.
+Il a été volé le mois dernier.
+
+529
+00:53:04,875 --> 00:53:06,458
+J'étais dévasté.
+
+530
+00:53:09,583 --> 00:53:10,625
+Le mois passé ?
+
+531
+00:53:11,791 --> 00:53:13,791
+Tu sembles être déçu.
+
+532
+00:53:14,375 --> 00:53:15,375
+Pas moi...
+
+533
+00:53:15,500 --> 00:53:16,541
+Ce n'est rien.
+
+534
+00:53:16,708 --> 00:53:18,583
+Je suis content pour ton frère
+
+535
+00:53:18,958 --> 00:53:21,083
+mais mon indice se termine ici.
+
+536
+00:53:21,250 --> 00:53:23,083
+Combien de mystère.
+
+537
+00:53:25,208 --> 00:53:26,208
+VRAI.
+
+538
+00:53:29,416 --> 00:53:32,750
+Je vous laisse, madame.
+Mes collègues m'attendent.
+
+539
+00:53:35,208 --> 00:53:37,000
+Peut-être ont-ils eu plus de chance.
+
+540
+00:53:41,333 --> 00:53:43,833
+Je vous remercie
+beaucoup d'être venu ici.
+
+541
+00:53:44,250 --> 00:53:46,166
+Vous m'avez rendu un grand service.
+
+542
+00:53:46,333 --> 00:53:47,541
+Il a été un plaisir.
+
+543
+00:53:48,250 --> 00:53:49,875
+Je t'assure que non.
+
+544
+00:53:52,625 --> 00:53:54,208
+Ce n'est pas nécessaire
+
+545
+00:53:54,583 --> 00:53:55,833
+que tu m'accompagnes
+
+546
+00:53:56,958 --> 00:53:58,333
+Si vous voulez bien m'excuser.
+
+547
+00:55:14,500 --> 00:55:15,500
+Monsieur.
+
+548
+00:55:51,875 --> 00:55:52,875
+Bonjour Madame.
+
+549
+00:55:53,375 --> 00:55:54,375
+Bonjour.
+
+550
+00:55:54,875 --> 00:55:57,208
+Je pourrais utiliser vos
+compétences en couture.
+
+551
+00:55:57,583 --> 00:55:58,708
+Que voulez-vous coudre ?
+
+552
+00:56:00,750 --> 00:56:01,833
+Eh bien, à moi.
+
+553
+00:56:04,000 --> 00:56:05,166
+Viens avec moi.
+
+554
+00:56:10,375 --> 00:56:13,000
+Vous avez eu de la chance.
+Cela vous touche presque le cœur.
+
+555
+00:56:14,291 --> 00:56:15,791
+Mon cœur est déjà blessé.
+
+556
+00:56:21,416 --> 00:56:23,136
+Vous utilisez les mots d'amour à la légère.
+
+557
+00:56:27,916 --> 00:56:29,833
+Ce n'étaient pas des mots d'amour.
+
+558
+00:56:32,166 --> 00:56:34,583
+La prochaine fois, je
+vous recoudrai la bouche.
+
+559
+00:56:34,750 --> 00:56:36,000
+D'accord, je vais me taire.
+
+560
+00:56:38,208 --> 00:56:39,208
+C'est ça.
+
+561
+00:56:40,791 --> 00:56:41,791
+Merci.
+
+562
+00:56:50,333 --> 00:56:52,583
+Je vous prie de ne pas bouger.
+
+563
+00:56:53,291 --> 00:56:54,500
+Je ne bouge pas.
+
+564
+00:56:58,416 --> 00:56:59,750
+Vous l'avez fait à nouveau !
+
+565
+00:56:59,916 --> 00:57:01,125
+Je vous l'ai dit,
+
+566
+00:57:01,291 --> 00:57:02,625
+je n'ai pas bougé.
+
+567
+00:57:03,708 --> 00:57:06,250
+Ce doit être mon cœur
+qui bat fort dans ma poitrine.
+
+568
+00:57:13,083 --> 00:57:16,875
+Si tu continues à me regarder comme
+ça, je ne pourrai pas finir de te soigner.
+
+569
+00:57:17,583 --> 00:57:20,916
+Eh bien, alors je regarderai là-bas,
+comme ça ce sera plus facile pour toi.
+
+570
+00:57:21,583 --> 00:57:23,291
+Est-ce trop ? Je sais.
+
+571
+00:57:24,208 --> 00:57:25,583
+Nous serons donc calmes.
+
+572
+00:57:30,166 --> 00:57:31,708
+D'où est-ce que ça vient ?
+
+573
+00:57:32,833 --> 00:57:35,166
+- D'Isabelle de Valcour.
+- Est-ce que tu la connais ?
+
+574
+00:57:35,333 --> 00:57:37,833
+Non, elle a été assassinée
+il y a quelques jours.
+
+575
+00:57:38,458 --> 00:57:40,778
+Il y avait une autre dame à sa place.
+Elle m'a tiré dessus.
+
+576
+00:57:41,958 --> 00:57:43,958
+- Vous devez aviser la reine.
+- A la reine ?
+
+577
+00:57:44,125 --> 00:57:45,250
+Met ça
+
+578
+00:57:45,416 --> 00:57:48,125
+Isabelle de Valcour était la
+messagère de Buckingham.
+
+579
+00:57:49,625 --> 00:57:50,958
+Ce sera un piège. viens avec moi
+
+580
+00:58:08,375 --> 00:58:11,416
+ABBAYE DU VAL DE GRÂCE
+
+581
+00:58:23,833 --> 00:58:25,000
+Attends ici.
+
+582
+00:58:36,166 --> 00:58:37,166
+Seigneur abbé.
+
+583
+00:58:37,333 --> 00:58:39,416
+C'est un honneur de
+vous recevoir, monsieur.
+
+584
+00:58:39,583 --> 00:58:40,958
+Suivez-moi, s'il vous plaît.
+
+585
+00:59:23,958 --> 00:59:25,375
+C'est une folie.
+
+586
+00:59:25,750 --> 00:59:28,958
+Je risquerais ma vie et mon honneur
+pour être avec vous quelques secondes.
+
+587
+00:59:29,125 --> 00:59:30,958
+Mais c'est très dangereux.
+
+588
+00:59:31,166 --> 00:59:32,791
+Je sais.
+
+589
+00:59:32,958 --> 00:59:34,958
+Je suis venu dès que
+j'ai reçu l'invitation.
+
+590
+00:59:35,125 --> 00:59:36,958
+Mon invitation ?
+
+591
+00:59:37,458 --> 00:59:38,833
+Mon invitation ?
+
+592
+00:59:39,291 --> 00:59:40,291
+Non.
+
+593
+00:59:41,791 --> 00:59:43,291
+Où sont vos hommes ?
+
+594
+01:00:48,333 --> 01:00:49,541
+Allez !
+
+595
+01:01:07,875 --> 01:01:10,375
+N'ayez pas peur, c'est
+moi qu'ils recherchent.
+
+596
+01:01:26,958 --> 01:01:27,958
+C'est lui.
+
+597
+01:01:28,000 --> 01:01:30,440
+- Il a kidnappé la Comtesse de Valcour !
+- Laissez-la partir !
+
+598
+01:02:12,958 --> 01:02:14,918
+Tu as peur de me perdre,
+je le vois dans tes yeux.
+
+599
+01:02:15,000 --> 01:02:18,625
+Si ton amour signifie la mort, je
+ne veux pas vivre un autre jour.
+
+600
+01:02:20,500 --> 01:02:22,750
+Si tu pleures c'est parce que tu m'aimes.
+
+601
+01:02:24,250 --> 01:02:25,958
+Je suis fidèle à mon roi.
+
+602
+01:02:26,791 --> 01:02:30,541
+Je suis sa femme et
+je ne le trahirai jamais.
+
+603
+01:02:31,958 --> 01:02:34,708
+Tu dois m'oublier et oublier cet amour.
+
+604
+01:02:34,875 --> 01:02:37,125
+Si vous me demandez de
+ne pas revenir, je vous obéirai.
+
+605
+01:02:44,583 --> 01:02:46,958
+Donnez-moi au moins
+une preuve de votre amour.
+
+606
+01:02:47,125 --> 01:02:49,291
+Se souvenir que ce n'était pas un rêve.
+
+607
+01:02:50,375 --> 01:02:54,333
+Si je vous donne ce que vous
+demandez, ferez-vous ce que je demande ?
+
+608
+01:02:54,500 --> 01:02:55,500
+Immédiatement.
+
+609
+01:03:10,458 --> 01:03:13,250
+Va-t'en et ne reviens jamais.
+
+610
+01:03:14,125 --> 01:03:15,375
+Je vous en prie.
+
+611
+01:04:03,750 --> 01:04:05,125
+Désormais
+
+612
+01:04:05,750 --> 01:04:07,208
+unis par un secret
+
+613
+01:04:09,333 --> 01:04:12,000
+Je ne vivrai pas assez
+longtemps pour te rembourser.
+
+614
+01:04:12,750 --> 01:04:16,583
+Si jamais vous avez besoin
+de l'aide de la Reine de France,
+
+615
+01:04:17,125 --> 01:04:18,666
+compte sur elle
+
+616
+01:04:19,833 --> 01:04:23,125
+Ce jour est plus proche
+que vous ne le pensez.
+
+617
+01:04:26,000 --> 01:04:28,500
+Il y a une autre victime dans ce complot.
+
+618
+01:04:28,666 --> 01:04:32,500
+Un mousquetaire, condamné à mort
+pour un crime qu'il n'a pas commis.
+
+619
+01:04:50,541 --> 01:04:51,541
+Et bien ?
+
+620
+01:04:53,458 --> 01:04:55,958
+C'était horrible et...
+
+621
+01:04:56,125 --> 01:04:57,666
+Et beau à la fois.
+
+622
+01:04:58,000 --> 01:04:59,958
+Ils s'embrassèrent en tremblant.
+
+623
+01:05:00,125 --> 01:05:01,958
+Elle lui tendit ses aiguillettes.
+
+624
+01:05:03,000 --> 01:05:05,291
+Le duc de Buckingham
+lui a dit quelque chose...
+
+625
+01:05:05,791 --> 01:05:08,125
+très beau, avant de partir :
+
+626
+01:05:09,000 --> 01:05:10,333
+"Je pars...
+
+627
+01:05:10,750 --> 01:05:12,375
+mais je te garde près de moi".
+
+628
+01:05:14,666 --> 01:05:16,166
+Que c'est triste.
+
+629
+01:05:17,666 --> 01:05:20,125
+VRAI. J'aurais dû l'embrasser.
+
+630
+01:05:23,083 --> 01:05:25,043
+Vous utilisez des mots
+qui ne sont pas les miens.
+
+631
+01:05:36,958 --> 01:05:37,958
+Merci.
+
+632
+01:05:40,375 --> 01:05:42,291
+Votre vie ne vous appartient pas.
+
+633
+01:05:44,000 --> 01:05:45,750
+Elle est la reine de France.
+
+634
+01:05:47,125 --> 01:05:48,125
+Ouais.
+
+635
+01:05:49,291 --> 01:05:50,875
+Mais vous ne le faites pas.
+
+636
+01:05:57,625 --> 01:05:58,708
+Constance.
+
+637
+01:06:01,750 --> 01:06:03,291
+Je vois que je t'ai ému.
+
+638
+01:06:04,708 --> 01:06:06,125
+- Tu as rougi.
+- Non !
+
+639
+01:06:06,625 --> 01:06:07,625
+Bien sûr.
+
+640
+01:06:08,208 --> 01:06:09,958
+Vous vous trompez, ce n'était pas pour ça.
+
+641
+01:06:12,750 --> 01:06:15,166
+C'est par pudeur, à
+cause de votre flatterie.
+
+642
+01:06:15,333 --> 01:06:16,333
+Non.
+
+643
+01:06:28,583 --> 01:06:29,583
+Bonne nuit.
+
+644
+01:06:30,291 --> 01:06:32,416
+- Ce n'est pas là-bas.
+- Je le sais déjà.
+
+645
+01:07:01,250 --> 01:07:03,333
+Que faisiez-vous au Val de Grâce hier ?
+
+646
+01:07:03,500 --> 01:07:04,958
+Il alla voir l'abbé Arnoux.
+
+647
+01:07:13,166 --> 01:07:14,750
+Ne serait-ce pas plus...
+
+648
+01:07:16,375 --> 01:07:18,625
+Buckingham qui portait la soutane ?
+
+649
+01:07:18,791 --> 01:07:20,875
+Comme ? De quoi parlez-vous ?
+
+650
+01:07:27,583 --> 01:07:29,375
+De quoi tout Paris parle.
+
+651
+01:07:32,583 --> 01:07:34,833
+Le cardinal vous
+a-t-il dit cette infamie ?
+
+652
+01:07:34,958 --> 01:07:35,998
+Cela n'a pas d'importance.
+
+653
+01:07:41,375 --> 01:07:42,750
+Ne me réponds-tu pas ?
+
+654
+01:07:44,166 --> 01:07:46,000
+De quoi ce serpent m'accuse-t-il ?
+
+655
+01:07:47,125 --> 01:07:48,166
+Il parait...
+
+656
+01:07:48,708 --> 01:07:50,958
+vous avez donné
+aux Anglais vos aglets.
+
+657
+01:07:58,208 --> 01:07:59,458
+Sont ici.
+
+658
+01:08:01,208 --> 01:08:02,666
+Ouvre la boite...
+
+659
+01:08:04,208 --> 01:08:06,375
+si tu ne me fais pas confiance
+
+660
+01:08:09,333 --> 01:08:10,458
+Avant.
+
+661
+01:08:11,583 --> 01:08:12,666
+Vérifiez-le.
+
+662
+01:08:13,375 --> 01:08:17,250
+Montrez-moi le peu de
+respect que vous avez pour moi.
+
+663
+01:08:18,375 --> 01:08:20,625
+Si la parole de ta femme
+
+664
+01:08:20,916 --> 01:08:23,250
+vaut moins que n'importe qui d'autre.
+
+665
+01:08:39,625 --> 01:08:40,666
+Avant.
+
+666
+01:08:48,875 --> 01:08:49,958
+C'est bien.
+
+667
+01:08:50,958 --> 01:08:52,758
+Les rumeurs doivent
+être réduites au silence.
+
+668
+01:08:53,958 --> 01:08:55,916
+Samedi prochain, au mariage de
+
+669
+01:08:56,083 --> 01:08:57,916
+Gaston, vous porterez vos clous.
+
+670
+01:08:59,958 --> 01:09:02,708
+Très bien, sire.
+
+671
+01:09:02,875 --> 01:09:04,541
+Si c'est ta volonté.
+
+672
+01:09:08,708 --> 01:09:11,291
+Et quant à votre mousquetaire,
+
+673
+01:09:12,166 --> 01:09:13,791
+il a tué une comtesse.
+
+674
+01:09:14,750 --> 01:09:16,500
+Il sera décapité.
+
+675
+01:09:17,083 --> 01:09:19,083
+C'est aussi ma volonté.
+
+676
+01:09:33,000 --> 01:09:34,958
+Vous devez partir pour Londres ce soir.
+
+677
+01:09:36,500 --> 01:09:39,333
+Vous assisterez au premier
+bal auquel assistera le duc.
+
+678
+01:09:39,625 --> 01:09:40,958
+Il aura les aiguillettes.
+
+679
+01:09:42,166 --> 01:09:45,666
+Buckingham est l'un des hommes
+les plus protégés d'Angleterre.
+
+680
+01:09:47,166 --> 01:09:49,375
+Ce sera cher alors.
+
+681
+01:09:52,250 --> 01:09:54,375
+Rendez visite à mon
+trésorier et il vous paiera.
+
+682
+01:09:56,916 --> 01:09:59,833
+Je te paierai le
+double si tu reviens
+
+683
+01:09:59,958 --> 01:10:01,500
+samedi, le jour du
+mariage de Gaston.
+
+684
+01:10:06,416 --> 01:10:08,916
+Le roi n'a pas accordé
+grâce à son mousquetaire.
+
+685
+01:10:10,375 --> 01:10:13,875
+Il est plus préoccupé par son
+sort que par celui de ses hommes.
+
+686
+01:10:16,500 --> 01:10:17,833
+Je suis comme lui.
+
+687
+01:10:18,458 --> 01:10:19,833
+Ne me laisse pas tomber.
+
+688
+01:10:23,541 --> 01:10:26,833
+Je suis désolé de ne pas
+pouvoir assister à cette exécution.
+
+689
+01:10:27,666 --> 01:10:29,500
+Apportez-moi les aiguillettes
+
+690
+01:10:30,583 --> 01:10:33,416
+et vous pouvez assister à la reine.
+
+691
+01:10:52,250 --> 01:10:53,750
+Nous ne pouvons pas permettre cela !
+
+692
+01:10:54,500 --> 01:10:56,958
+Personne ne peut rendre
+justice à la place du roi
+
+693
+01:10:57,166 --> 01:10:58,916
+et personne ne peut y échapper.
+
+694
+01:10:59,083 --> 01:11:00,166
+Mais il est innocent !
+
+695
+01:11:03,750 --> 01:11:04,958
+C'est fini.
+
+696
+01:11:06,416 --> 01:11:08,250
+On ne peut rien faire pour Athos.
+
+697
+01:11:22,458 --> 01:11:23,666
+Chers amis :
+
+698
+01:11:24,291 --> 01:11:25,583
+Tu ne dois pas être triste.
+
+699
+01:11:26,500 --> 01:11:28,500
+Aujourd'hui est un bon jour pour mourir.
+
+700
+01:11:30,791 --> 01:11:32,125
+J'ai tout donné dans la vie,
+
+701
+01:11:32,291 --> 01:11:34,333
+la mort a très peu à reprendre.
+
+702
+01:11:42,250 --> 01:11:44,708
+Aramis, je te laisse mon chapelet.
+
+703
+01:11:46,000 --> 01:11:48,458
+Je suis sûr que vous
+en ferez bon usage.
+
+704
+01:11:56,250 --> 01:11:58,833
+Porthos, vous pouvez avoir ma montre.
+
+705
+01:11:59,208 --> 01:12:00,666
+Je sais que vous l'aimerez.
+
+706
+01:12:02,166 --> 01:12:03,583
+D'Artagnan, je n'ai pas eu
+
+707
+01:12:03,750 --> 01:12:06,541
+l'occasion de bien
+vous connaître,
+
+708
+01:12:07,250 --> 01:12:08,708
+Je te laisse mon épée.
+
+709
+01:12:09,166 --> 01:12:11,250
+Je sais que tu sauras bien t'en servir.
+
+710
+01:12:13,916 --> 01:12:15,541
+Nous étions les trois mousquetaires.
+
+711
+01:12:16,750 --> 01:12:18,708
+Et grâce à vous, d'Artagnan,
+
+712
+01:12:19,958 --> 01:12:21,500
+vous continuerez à l'être.
+
+713
+01:12:23,125 --> 01:12:24,125
+Mes amis,
+
+714
+01:12:24,833 --> 01:12:26,750
+Je pars le coeur léger,
+
+715
+01:12:27,250 --> 01:12:28,708
+Tête haute,
+
+716
+01:12:29,750 --> 01:12:31,916
+fier d'avoir combattu
+à vos côtés.
+
+717
+01:12:38,291 --> 01:12:39,291
+Adieu.
+
+718
+01:12:40,083 --> 01:12:41,458
+Vive le roi.
+
+719
+01:12:41,833 --> 01:12:43,291
+Et vive la France.
+
+720
+01:14:07,958 --> 01:14:09,541
+Derrière ! Derrière !
+
+721
+01:14:54,750 --> 01:14:55,958
+Mettre de côté !
+
+722
+01:14:59,125 --> 01:15:00,541
+C'est de la sédition.
+
+723
+01:15:01,375 --> 01:15:02,708
+Je t'avais interdit.
+
+724
+01:15:02,875 --> 01:15:03,958
+Je vous jure, capitaine.
+
+725
+01:15:04,166 --> 01:15:06,333
+Pour la vie d'entre
+nous, ce n'était pas nous.
+
+726
+01:15:08,291 --> 01:15:09,708
+Je ne connais qu'un seul homme
+
+727
+01:15:09,916 --> 01:15:11,916
+prêt à risquer sa vie pour Athos.
+
+728
+01:15:20,333 --> 01:15:21,333
+Benjamin.
+
+729
+01:15:22,375 --> 01:15:23,416
+Benjamin !
+
+730
+01:15:25,375 --> 01:15:27,083
+Je t'avais dit qu'on
+se verrait en enfer.
+
+731
+01:15:28,166 --> 01:15:29,166
+Brandicourt.
+
+732
+01:15:29,541 --> 01:15:30,333
+Saint-Blancard.
+
+733
+01:15:30,500 --> 01:15:33,125
+Votre frère nous a convaincus
+que nous devions vous sauver.
+
+734
+01:15:33,958 --> 01:15:36,358
+Je n'aurais jamais pensé que
+je serais si heureux de te voir.
+
+735
+01:15:38,416 --> 01:15:39,750
+Chansons catholiques ?
+
+736
+01:15:40,625 --> 01:15:41,875
+Avez-vous converti ?
+
+737
+01:15:44,833 --> 01:15:46,333
+Pour combattre l'ennemi
+
+738
+01:15:46,791 --> 01:15:48,125
+il faut bien le connaitre.
+
+739
+01:15:52,791 --> 01:15:55,333
+Benjamin de la
+Fère, le frère d'Athos.
+
+740
+01:15:55,916 --> 01:15:57,666
+Il est le bras droit de Saint-Blancard.
+
+741
+01:15:57,833 --> 01:15:58,666
+Saint-Blancard ?
+
+742
+01:15:58,833 --> 01:16:00,916
+Le chef des protestants
+de La Rochelle.
+
+743
+01:16:26,666 --> 01:16:28,000
+Quoi de neuf, capitaine ?
+
+744
+01:16:29,166 --> 01:16:31,375
+Un édit du cardinal de Richelieu.
+
+745
+01:16:41,416 --> 01:16:42,666
+Fermez les portes !
+
+746
+01:16:50,708 --> 01:16:52,666
+Ils n'ont pas pu faire
+de vous un catholique,
+
+747
+01:16:52,833 --> 01:16:54,553
+ils veulent vous couper
+la tête protestante.
+
+748
+01:16:55,208 --> 01:16:58,041
+Tréville n'a rien pu
+faire et votre roi non plus.
+
+749
+01:17:00,583 --> 01:17:03,250
+Richelieu est celui
+qui gouverne ce pays.
+
+750
+01:17:06,375 --> 01:17:08,458
+Nous créerons une république protestante.
+
+751
+01:17:08,833 --> 01:17:09,875
+Autonome.
+
+752
+01:17:11,583 --> 01:17:12,625
+Rejoignez-nous.
+
+753
+01:17:13,083 --> 01:17:14,333
+Rejoignez votre peuple.
+
+754
+01:17:14,625 --> 01:17:16,666
+Nous attaquerons le
+royaume du fond du cœur.
+
+755
+01:17:17,166 --> 01:17:19,006
+La guerre approche.
+Vous devez choisir un camp.
+
+756
+01:17:35,958 --> 01:17:38,250
+Ils nous accusent d'avoir libéré Athos.
+
+757
+01:17:38,958 --> 01:17:40,625
+Personne ne peut sortir d'ici.
+
+758
+01:17:42,333 --> 01:17:43,333
+Silence !
+
+759
+01:17:45,125 --> 01:17:47,958
+J'irai trouver le roi et le
+supplierai pour notre cause.
+
+760
+01:17:48,125 --> 01:17:50,833
+Aramis, Porthos, De
+Quillac et Bercquet.
+
+761
+01:17:51,458 --> 01:17:53,583
+Si quelqu'un bouge, descendez-le.
+
+762
+01:17:53,958 --> 01:17:55,666
+Uzan et Ventadour, suivez-moi.
+
+763
+01:18:04,416 --> 01:18:06,416
+La quarantaine est
+réservée aux mousquetaires.
+
+764
+01:18:06,500 --> 01:18:08,083
+Vous pouvez vous en aller, d'Artagnan.
+
+765
+01:18:47,750 --> 01:18:48,958
+Ne vous arrêtez pas.
+
+766
+01:18:50,250 --> 01:18:51,333
+Suis-moi
+
+767
+01:18:55,041 --> 01:18:56,041
+En Angleterre ?
+
+768
+01:18:58,750 --> 01:19:00,375
+Vous êtes mon seul espoir.
+
+769
+01:19:01,250 --> 01:19:03,916
+Le cardinal veut
+faire tomber la reine.
+
+770
+01:19:04,250 --> 01:19:07,125
+Il faut du courage, mais
+surtout de la prudence.
+
+771
+01:19:09,166 --> 01:19:12,083
+Vos souhaits sont mes ordres.
+Je partirai immédiatement.
+
+772
+01:19:12,666 --> 01:19:14,250
+Attendez. Prendre.
+
+773
+01:19:14,958 --> 01:19:16,458
+C'est pour le voyage.
+
+774
+01:19:17,916 --> 01:19:19,875
+J'ai déjà eu assez de récompense.
+
+775
+01:19:20,583 --> 01:19:22,500
+Si je réussis, peut-être
+que vous m'aimerez.
+
+776
+01:19:23,708 --> 01:19:24,916
+N'ai pas peur.
+
+777
+01:19:26,125 --> 01:19:27,875
+Je vais chercher les clous en diamant.
+
+778
+01:21:43,958 --> 01:21:44,958
+Athos ?
+
+779
+01:21:48,875 --> 01:21:51,416
+C'est comme ça que tu
+te bats avec mon épée ?
+
+780
+01:22:01,791 --> 01:22:03,333
+Comment m'as tu trouvé ?
+
+781
+01:22:04,500 --> 01:22:05,958
+Par Mlle Bonacieux.
+
+782
+01:22:07,708 --> 01:22:10,666
+Méfiez-vous de l'amour, d'Artagnan.
+C'est pire que la guerre.
+
+783
+01:22:11,666 --> 01:22:13,208
+Vous n'êtes jamais tombé amoureux ?
+
+784
+01:22:13,500 --> 01:22:15,900
+Regardez autour de vous, avec
+lui viennent tous les malheurs.
+
+785
+01:22:18,500 --> 01:22:19,958
+Je ne pense pas que...
+
+786
+01:22:20,916 --> 01:22:23,500
+Que l'amour nous égare.
+
+787
+01:22:30,750 --> 01:22:32,375
+Je vais vous raconter une histoire.
+
+788
+01:22:33,541 --> 01:22:34,875
+Cela vous est-il arrivé ?
+
+789
+01:22:35,583 --> 01:22:36,583
+Non.
+
+790
+01:22:36,958 --> 01:22:39,083
+A un ami proche.
+
+791
+01:22:39,458 --> 01:22:40,958
+Il y a longtemps. A un jeune comte.
+
+792
+01:22:44,250 --> 01:22:47,208
+Alors qu'il parcourait ses terres,
+il rencontra une jeune femme.
+
+793
+01:22:48,833 --> 01:22:50,416
+Je n'étais pas belle
+
+794
+01:22:51,000 --> 01:22:52,375
+c'était enivrant.
+
+795
+01:22:55,541 --> 01:22:57,416
+Elle était si belle, si pure...
+
+796
+01:22:58,000 --> 01:23:00,250
+il aurait pu la
+séduire, voire la forcer.
+
+797
+01:23:00,708 --> 01:23:03,291
+Et bien qu'elle ait connu la
+guerre, son cœur est resté
+
+798
+01:23:05,416 --> 01:23:06,416
+noble
+
+799
+01:23:08,291 --> 01:23:09,416
+et sincère.
+
+800
+01:23:12,958 --> 01:23:16,583
+Elle détestait la vie mondaine.
+
+801
+01:23:17,833 --> 01:23:19,583
+Ils se sont mariés en secret.
+
+802
+01:23:20,541 --> 01:23:21,958
+Sans la famille.
+
+803
+01:23:23,583 --> 01:23:25,791
+Ils ont vécu ensemble pendant plus d'un an.
+
+804
+01:23:26,125 --> 01:23:27,666
+Coupé du monde.
+
+805
+01:23:29,125 --> 01:23:30,375
+Ils étaient très heureux.
+
+806
+01:23:31,916 --> 01:23:33,250
+Un bonheur
+
+807
+01:23:36,500 --> 01:23:38,166
+ça ne pouvait pas durer.
+
+808
+01:23:40,250 --> 01:23:42,125
+Le jeune comte avait un frère.
+
+809
+01:23:43,541 --> 01:23:46,458
+Il allait aussi se marier.
+
+810
+01:23:46,833 --> 01:23:49,750
+Le comte a été contraint
+d'assister au mariage.
+
+811
+01:23:51,166 --> 01:23:52,375
+Cette fois,
+
+812
+01:23:52,708 --> 01:23:56,000
+sa femme a accepté de l'accompagner.
+
+813
+01:23:58,291 --> 01:24:01,250
+Lorsqu'il la présenta à son frère,
+
+814
+01:24:02,666 --> 01:24:03,958
+il est devenu blanc.
+
+815
+01:24:06,583 --> 01:24:10,291
+Il crut reconnaître une
+femme rencontrée à Paris.
+
+816
+01:24:15,208 --> 01:24:16,958
+Cette nuit-là, dans ses appartements,
+
+817
+01:24:17,625 --> 01:24:19,708
+la dame a avoué toute la vérité.
+
+818
+01:24:21,666 --> 01:24:23,875
+C'était la femme que
+son frère connaissait.
+
+819
+01:24:24,750 --> 01:24:27,125
+Eh bien, ce n'était plus elle.
+
+820
+01:24:28,458 --> 01:24:29,875
+Il avait fui.
+
+821
+01:24:31,083 --> 01:24:34,916
+Mariée à l'âge de 15 ans à un marquis,
+elle dut endurer les pires horreurs.
+
+822
+01:24:36,666 --> 01:24:37,500
+Une nuit, alors qu'il
+essayait d'obtenir
+
+823
+01:24:37,666 --> 01:24:40,458
+ce qu'elle ne voulait
+pas lui donner,
+
+824
+01:24:40,625 --> 01:24:41,916
+elle s'est défendue.
+
+825
+01:24:43,791 --> 01:24:45,083
+Et je le tue.
+
+826
+01:24:48,416 --> 01:24:50,250
+Terrifiée, craignant une proie,
+
+827
+01:24:50,416 --> 01:24:52,666
+elle s'enfuit sous un faux nom,
+
+828
+01:24:52,833 --> 01:24:55,416
+et a commencé une vie
+basée sur le mensonge.
+
+829
+01:24:57,416 --> 01:24:58,958
+Et qu'a fait le comte ?
+
+830
+01:25:00,250 --> 01:25:01,291
+Compter ?
+
+831
+01:25:08,166 --> 01:25:09,916
+Le comte était un grand seigneur.
+
+832
+01:25:13,708 --> 01:25:16,583
+Dans ses terres, il
+a rendu la justice.
+
+833
+01:25:17,458 --> 01:25:20,416
+Il était préoccupé par
+son titre et son rang.
+
+834
+01:25:24,625 --> 01:25:26,958
+Il a livré le fugitif aux autorités.
+
+835
+01:25:28,166 --> 01:25:30,333
+Ils l'ont jugée et condamnée,
+
+836
+01:25:31,083 --> 01:25:32,583
+ils l'ont marquée
+
+837
+01:25:34,291 --> 01:25:35,416
+et ils l'ont pendue.
+
+838
+01:26:55,583 --> 01:26:58,541
+ANGLETERRE CHÂTEAU DE BUCKINGHAM
+
+839
+01:27:13,625 --> 01:27:14,625
+Et bien ?
+
+840
+01:27:14,875 --> 01:27:18,541
+Il y a suffisamment de soldats pour
+les envoyer en croisade à Jérusalem.
+
+841
+01:27:20,666 --> 01:27:23,458
+S'il vous plaît.
+Je ne sais pas si cela suffira.
+
+842
+01:27:25,000 --> 01:27:26,916
+Peut-être que cela suffira.
+
+843
+01:28:53,583 --> 01:28:57,083
+Je vois une certaine ironie
+dans votre choix de costume.
+
+844
+01:28:57,750 --> 01:28:58,750
+Ah oui ?
+
+845
+01:28:59,083 --> 01:29:03,750
+Il serait très facile pour le Dieu
+de la Mer d'envahir la France.
+
+846
+01:29:06,166 --> 01:29:07,750
+Est-ce que je te connais, Arlequin ?
+
+847
+01:29:08,500 --> 01:29:09,666
+Il se peut que oui,
+
+848
+01:29:11,500 --> 01:29:12,500
+peut être pas.
+
+849
+01:29:12,625 --> 01:29:13,958
+Italien ?
+
+850
+01:29:14,708 --> 01:29:18,541
+Je suis amoureux
+
+851
+01:29:18,708 --> 01:29:20,125
+de l'Italie, mais non.
+
+852
+01:29:20,958 --> 01:29:22,750
+Peut-être une dame d'Espagne ?
+
+853
+01:29:23,750 --> 01:29:25,750
+Le vent change tous les jours,
+
+854
+01:29:25,916 --> 01:29:28,166
+je change à chaque seconde.
+
+855
+01:29:29,000 --> 01:29:31,166
+Je vois que tu as beaucoup voyagé.
+
+856
+01:29:32,166 --> 01:29:36,500
+J'adore découvrir de
+nouveaux endroits, mon prince.
+
+857
+01:29:38,916 --> 01:29:40,708
+Je ai besoin d'un verre.
+
+858
+01:30:19,333 --> 01:30:20,750
+Le calme après la tempête.
+
+859
+01:30:22,958 --> 01:30:24,458
+Ou peut-être avant la tempête.
+
+860
+01:30:36,916 --> 01:30:39,833
+Oh. Tu bois comme quelqu'un
+qui a quelque chose à oublier.
+
+861
+01:30:40,125 --> 01:30:41,166
+VRAI ?
+
+862
+01:30:41,958 --> 01:30:43,458
+Si cela pouvait fonctionner.
+
+863
+01:32:25,833 --> 01:32:27,583
+Ne bougez pas d'ici !
+
+864
+01:32:34,166 --> 01:32:36,708
+Ne me tuez pas !
+S'il vous plait ! Buckingham.
+
+865
+01:32:36,875 --> 01:32:38,916
+Rester ! Je connais cet homme.
+
+866
+01:32:39,166 --> 01:32:41,500
+Juste au moment où je
+commençais à apprécier la fête.
+
+867
+01:32:54,000 --> 01:32:55,500
+La reine est-elle en danger ?
+
+868
+01:32:55,666 --> 01:32:57,125
+Par ordre du roi,
+
+869
+01:32:57,375 --> 01:33:00,875
+la reine doit porter le
+samedi, au mariage de Gaston,
+
+870
+01:33:01,208 --> 01:33:04,541
+les aiguillettes que vous connaissez bien.
+
+871
+01:33:05,291 --> 01:33:06,958
+Que ta volonté soit faite.
+
+872
+01:33:12,875 --> 01:33:13,708
+Quel crétin !
+
+873
+01:33:13,875 --> 01:33:16,333
+Une femme.
+Très belle, brune, yeux clairs.
+
+874
+01:33:16,500 --> 01:33:17,875
+Costume d'arlequin.
+
+875
+01:33:18,000 --> 01:33:20,083
+Vous deux, avec moi.
+
+876
+01:33:27,708 --> 01:33:28,875
+Arrête-la !
+
+877
+01:33:48,583 --> 01:33:50,083
+Prends-le !
+
+878
+01:35:13,916 --> 01:35:15,125
+Les aglets.
+
+879
+01:35:20,625 --> 01:35:22,541
+Je continue à vous rencontrer.
+
+880
+01:35:23,125 --> 01:35:24,583
+Est-ce que tu m'aimes tant que ça ?
+
+881
+01:35:25,791 --> 01:35:26,958
+Les aglets !
+
+882
+01:35:39,458 --> 01:35:41,125
+Pour qui travailles-tu ?
+
+883
+01:35:42,500 --> 01:35:44,583
+Peut-être pour le diable.
+
+884
+01:35:48,791 --> 01:35:51,541
+Je vois une étincelle
+dans vos yeux, d'Artagnan.
+
+885
+01:35:53,666 --> 01:35:55,291
+Avec cette luminosité,
+
+886
+01:35:55,458 --> 01:35:57,791
+j'allumerai un feu
+qui te dévorera.
+
+887
+01:35:58,833 --> 01:36:00,333
+Non !
+
+888
+01:36:24,083 --> 01:36:26,041
+PARIS
+
+889
+01:36:38,125 --> 01:36:39,208
+Votre Éminence.
+
+890
+01:36:39,375 --> 01:36:41,958
+Le navire a atteint Calais,
+mais il n'était pas à bord.
+
+891
+01:37:15,208 --> 01:37:16,583
+Par ici, messieurs.
+
+892
+01:37:24,333 --> 01:37:26,166
+Remercier notre ami.
+
+893
+01:37:30,375 --> 01:37:33,875
+Les voies du Seigneur sont mystérieuses.
+
+894
+01:37:48,250 --> 01:37:51,833
+Êtes-vous prêt pour le moment
+le plus important de votre vie ?
+
+895
+01:38:16,708 --> 01:38:17,791
+Votre Éminence.
+
+896
+01:38:17,958 --> 01:38:19,083
+Mgr.
+
+897
+01:38:35,375 --> 01:38:37,583
+Le roi vous attend, Votre Majesté.
+
+898
+01:38:42,541 --> 01:38:44,625
+Je suis terriblement désolé, Votre Altesse.
+
+899
+01:38:52,625 --> 01:38:53,625
+Allez !
+
+900
+01:39:02,541 --> 01:39:04,708
+Éminence, avez-vous
+vu mon frère ?
+
+901
+01:39:04,875 --> 01:39:05,875
+Ouais.
+
+902
+01:39:07,375 --> 01:39:10,333
+M'as-tu déjà pardonné
+de t'avoir épousé ?
+
+903
+01:39:11,250 --> 01:39:13,333
+Il semblait sur le point
+de partir pour le front.
+
+904
+01:39:14,958 --> 01:39:17,750
+Vous apprendrez bientôt que
+le mariage est comme la guerre,
+
+905
+01:39:18,416 --> 01:39:19,958
+mais pas de gagnants
+
+906
+01:39:20,208 --> 01:39:22,083
+Eh bien, tout le monde y gagne.
+
+907
+01:39:41,833 --> 01:39:44,791
+Votre Altesse, sa beauté
+est impressionnante.
+
+908
+01:39:46,958 --> 01:39:47,958
+Madame.
+
+909
+01:39:50,250 --> 01:39:53,166
+Pourquoi ne portez-vous
+pas vos aiguillettes ?
+
+910
+01:39:53,583 --> 01:39:56,083
+Je les porterai
+au bal de ce soir.
+
+911
+01:40:00,791 --> 01:40:02,125
+Ce n'était pas une bonne idée.
+
+912
+01:40:03,250 --> 01:40:04,625
+Allez les trouver.
+
+913
+01:40:05,416 --> 01:40:07,208
+Mais ton frère nous attend.
+
+914
+01:40:08,416 --> 01:40:09,625
+Quoi attendre
+
+915
+01:40:44,166 --> 01:40:45,333
+Votre Altesse.
+
+916
+01:40:49,916 --> 01:40:51,458
+Il y a un jeune homme qui veut
+
+917
+01:40:51,625 --> 01:40:53,958
+vous voir, cela semble urgent.
+
+918
+01:40:54,958 --> 01:40:56,083
+Il est ici !
+
+919
+01:41:12,208 --> 01:41:13,375
+Dites-moi que vous les avez.
+
+920
+01:41:13,541 --> 01:41:15,375
+- C'est comme ça ?
+- En effet.
+
+921
+01:41:16,708 --> 01:41:17,750
+Vous avez ici.
+
+922
+01:41:17,916 --> 01:41:19,250
+Grâce à Dieu.
+
+923
+01:41:19,416 --> 01:41:21,833
+"Dieu" c'est trop.
+"Mon amour" suffira.
+
+924
+01:41:22,125 --> 01:41:24,000
+Vous ne vous arrêtez jamais ?
+
+925
+01:41:25,791 --> 01:41:26,791
+Constance ?
+
+926
+01:41:27,125 --> 01:41:28,125
+Ouais ?
+
+927
+01:41:28,708 --> 01:41:29,708
+Je...
+
+928
+01:41:31,208 --> 01:41:32,625
+Dis-moi...
+
+929
+01:41:34,375 --> 01:41:35,541
+que tu ne m'aimes pas
+
+930
+01:41:36,666 --> 01:41:39,458
+Dis-moi : "D'Artagnan, je ne
+t'aime pas", et je te jure que...
+
+931
+01:41:58,166 --> 01:42:00,208
+Ce n'est qu'alors que je
+pourrai vous faire taire.
+
+932
+01:42:32,541 --> 01:42:34,458
+Vous aviez raison, Éminence.
+
+933
+01:42:34,625 --> 01:42:36,333
+Ce n'étaient que des rumeurs.
+
+934
+01:42:36,750 --> 01:42:39,250
+La reine méritait ma confiance.
+
+935
+01:42:57,583 --> 01:42:58,583
+Merci.
+
+936
+01:44:02,250 --> 01:44:03,416
+D'Artagnan.
+
+937
+01:44:05,958 --> 01:44:07,750
+-Êtes-vous ici ? -Ouais.
+
+938
+01:44:07,916 --> 01:44:09,583
+Tu es en vie Où étiez-vous ?
+
+939
+01:44:09,916 --> 01:44:10,916
+En Angleterre.
+
+940
+01:44:10,958 --> 01:44:12,291
+- Parce que ?
+- Avec Athos.
+
+941
+01:45:47,583 --> 01:45:50,291
+Pour combattre l'ennemi,
+il faut bien le connaître.
+
+942
+01:45:52,333 --> 01:45:54,666
+Nous attaquerons le
+royaume du fond du cœur.
+
+943
+01:46:15,958 --> 01:46:17,000
+Gaston de France,
+
+944
+01:46:18,500 --> 01:46:20,625
+Duc d'Orléans, de Valois et d'Anjou,
+
+945
+01:46:20,791 --> 01:46:23,583
+acceptez-vous de
+prendre votre femme,
+
+946
+01:46:23,750 --> 01:46:25,541
+Marie de Bourbon,
+duchesse de Montpensier ?
+
+947
+01:46:25,708 --> 01:46:26,791
+Je suis d'accord.
+
+948
+01:46:28,500 --> 01:46:30,791
+Marie de Bourbon,
+duchesse de Montpensier,
+
+949
+01:46:30,958 --> 01:46:33,625
+acceptez-vous de prendre
+votre mari, Gaston de France,
+
+950
+01:46:34,250 --> 01:46:36,208
+Duc d'Orléans, de Valois et d'Anjou ?
+
+951
+01:46:36,958 --> 01:46:37,958
+Je suis d'accord.
+
+952
+01:46:45,375 --> 01:46:47,291
+Au nom du Père, du
+
+953
+01:46:47,458 --> 01:46:49,208
+Fils et de la Sainte Église,
+
+954
+01:46:52,166 --> 01:46:54,583
+Je vous déclare mari et femme.
+
+955
+01:46:56,375 --> 01:46:57,833
+Un tireur ! Un tireur !
+
+956
+01:47:03,500 --> 01:47:05,083
+Protégez le roi !
+
+957
+01:47:08,000 --> 01:47:09,083
+Derrière !
+
+958
+01:47:11,833 --> 01:47:12,916
+Protégez le roi !
+
+959
+01:47:13,083 --> 01:47:14,458
+Les moines !
+
+960
+01:47:16,625 --> 01:47:17,625
+Par ici !
+
+961
+01:48:21,791 --> 01:48:22,791
+Viens par ici !
+
+962
+01:48:24,125 --> 01:48:25,458
+Mettre de côté !
+
+963
+01:48:58,375 --> 01:49:00,458
+Et le comte Montecler d'Auvigné ?
+
+964
+01:49:00,958 --> 01:49:02,833
+Il est mort il y a deux jours, Sire.
+
+965
+01:49:05,333 --> 01:49:06,750
+Et Beaulieu de Verricourt ?
+
+966
+01:49:06,916 --> 01:49:09,000
+Une blessure à la tête.
+Il ne survivra pas.
+
+967
+01:49:16,083 --> 01:49:17,333
+Les prisonniers ?
+
+968
+01:49:18,958 --> 01:49:23,500
+Achille Brandicourt et Nicolas Beaumont.
+Protestants extrémistes de La Rochelle.
+
+969
+01:49:23,833 --> 01:49:27,083
+Ils portaient des lettres
+codées, nous les déchiffrons.
+
+970
+01:49:29,375 --> 01:49:31,333
+Je les interrogerai moi-même et
+
+971
+01:49:31,500 --> 01:49:33,708
+ils avoueront à leurs complices.
+
+972
+01:49:35,083 --> 01:49:38,166
+Je compte sur votre talent
+de confesseur, Eminence.
+
+973
+01:50:06,958 --> 01:50:08,875
+Préparez les troupes pour La Rochelle.
+
+974
+01:50:14,416 --> 01:50:16,083
+Ils n'ont pas voulu ma paix.
+
+975
+01:50:16,791 --> 01:50:18,791
+Nous verrons s'ils préfèrent ma guerre.
+
+976
+01:50:19,208 --> 01:50:21,416
+Nous prendrons la
+ville aux protestants.
+
+977
+01:50:21,583 --> 01:50:23,000
+Je pars maintenant.
+
+978
+01:50:43,916 --> 01:50:46,333
+Pour votre service exceptionnel
+
+979
+01:50:47,000 --> 01:50:49,541
+à la couronne de France
+
+980
+01:50:50,375 --> 01:50:51,375
+je te nomme
+
+981
+01:50:51,625 --> 01:50:53,291
+Charles d' Artagnan,
+
+982
+01:50:54,416 --> 01:50:57,375
+lieutenant de la compagnie
+des mousquetaires.
+
+983
+01:50:59,833 --> 01:51:02,375
+Je serai à la hauteur de
+cet honneur, Votre Majesté.
+
+984
+01:51:04,708 --> 01:51:08,916
+Armand de Sillegue
+d'Athos d'Hauteville,
+
+985
+01:51:09,708 --> 01:51:11,333
+Comte de la Fère...
+
+986
+01:51:13,125 --> 01:51:15,208
+Je vous dois la vie, monsieur.
+
+987
+01:51:17,708 --> 01:51:19,958
+Et par ce geste, je vous l'accorde.
+
+988
+01:51:21,291 --> 01:51:22,375
+Tu seras pardonné
+
+989
+01:51:23,250 --> 01:51:25,541
+et vous reviendrez immédiatement
+
+990
+01:51:25,791 --> 01:51:27,583
+au corps des mousquetaires.
+
+991
+01:51:27,916 --> 01:51:29,500
+Je t'offre ma vie
+
+992
+01:51:29,791 --> 01:51:32,000
+Je vous le remettrais
+volontiers, Sire.
+
+993
+01:51:36,166 --> 01:51:37,500
+Levez-vous messieurs.
+
+994
+01:51:44,291 --> 01:51:45,291
+Messieurs,
+
+995
+01:51:45,708 --> 01:51:48,083
+voici les fameux
+trois mousquetaires,
+
+996
+01:51:49,875 --> 01:51:51,333
+qui sont maintenant quatre.
+
+997
+01:51:59,583 --> 01:52:02,333
+Vive le roi !
+
+998
+01:52:02,500 --> 01:52:04,708
+Longue vie à la reine !
+
+999
+01:52:10,916 --> 01:52:12,208
+Longue vie à la reine !
+
+1000
+01:52:13,291 --> 01:52:14,458
+Vive le roi !
+
+1001
+01:52:33,083 --> 01:52:34,291
+Votre Majesté.
+
+1002
+01:52:34,791 --> 01:52:35,958
+D'Artagnan.
+
+1003
+01:52:37,916 --> 01:52:39,958
+Je ne peux pas vous proposer de titre.
+
+1004
+01:52:40,583 --> 01:52:42,916
+Juste ma gratitude éternelle.
+
+1005
+01:52:44,541 --> 01:52:47,250
+C'est le meilleur cadeau
+que vous puissiez me faire.
+
+1006
+01:52:47,416 --> 01:52:48,416
+Non.
+
+1007
+01:52:48,916 --> 01:52:52,416
+Au péril de sa vie, Constance
+Bonacieux a été ma messagère.
+
+1008
+01:52:52,958 --> 01:52:55,416
+Aujourd'hui, je serai à toi.
+
+1009
+01:52:55,583 --> 01:52:57,375
+Je t'attends ce soir à 10h,
+
+1010
+01:52:57,916 --> 01:52:59,750
+dans la taverne Red Hat.
+
+1011
+01:53:00,875 --> 01:53:02,833
+Ne soyez pas en retard, mousquetaire.
+
+1012
+01:53:39,083 --> 01:53:41,625
+J'ai fini.
+Vous pouvez accompagner Sa Majesté.
+
+1013
+01:53:49,625 --> 01:53:53,458
+Nous parviendrons à ce que les
+protestants de France soient répudiés.
+
+1014
+01:53:54,416 --> 01:53:56,875
+Tout se déroulera selon le plan.
+
+1015
+01:53:57,583 --> 01:54:00,708
+Les protestants du pays
+seront vus pour ce qu'ils sont.
+
+1016
+01:54:01,333 --> 01:54:02,500
+Traîtres.
+
+1017
+01:54:03,916 --> 01:54:05,916
+Nous avons échoué, comme vous l'avez vu,
+
+1018
+01:54:06,500 --> 01:54:09,250
+mais le roi n'échappera pas à la mort.
+
+1019
+01:54:09,625 --> 01:54:11,708
+Maintenant, c'est entre vos mains.
+
+1020
+01:54:12,416 --> 01:54:15,583
+Vous aurez la guerre.
+Bientôt, vous prendrez le contrôle du pays.
+
+1021
+01:54:15,750 --> 01:54:17,958
+Ne vous inquiétez pas pour le prisonnier.
+
+1022
+01:54:18,125 --> 01:54:20,000
+Notre ami prendra soin de lui.
+
+1023
+01:54:20,208 --> 01:54:21,666
+Par la grâce de Dieu,
+
+1024
+01:54:22,083 --> 01:54:23,875
+Ton heure est arrivée.
+
+1025
+01:54:57,666 --> 01:54:58,875
+Au secours !
+
+1026
+01:54:59,583 --> 01:55:00,833
+D'Artagnan !
+
+1027
+01:55:05,416 --> 01:55:06,458
+Constance !
+
+1028
+01:55:09,958 --> 01:55:11,250
+Laisse-moi partir
+
+1029
+01:55:12,625 --> 01:55:13,625
+Aide !
+
+1030
+01:55:40,875 --> 01:55:44,250
+À SUIVRE
+
+1031
+01:57:22,958 --> 01:57:24,291
+Votre Éminence ?
+
+1032
+01:57:26,291 --> 01:57:28,833
+Tu m'as déjà donné des
+ordres sur ton ennemi,
+
+1033
+01:57:29,625 --> 01:57:31,958
+Puis-je vous parler du mien ?
+
+1034
+01:57:32,250 --> 01:57:33,375
+C'est à propos de qui ?
+
+1035
+01:57:33,791 --> 01:57:35,333
+Des mousquetaires
+
+1036
+02:01:28,166 --> 02:01:30,208
+Traduction : Miracles John
