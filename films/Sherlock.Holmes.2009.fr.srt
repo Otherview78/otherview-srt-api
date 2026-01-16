@@ -1,0 +1,6382 @@
+1
+00:01:39,040 --> 00:01:40,155
+<i>Oreille gauche dressée.</i>
+
+2
+00:01:40,400 --> 00:01:42,038
+<i>Surdité partielle.</i>
+
+3
+00:01:42,560 --> 00:01:43,515
+<i>Cible un.</i>
+
+4
+00:01:45,520 --> 00:01:47,988
+<i>Deux, gorge, cordes vocales.
+Étouffer cris.</i>
+
+5
+00:01:49,360 --> 00:01:51,715
+<i>Trois, gros buveur.
+Côte dans foie.</i>
+
+6
+00:01:52,760 --> 00:01:53,715
+<i>Quatre, pour finir :</i>
+
+7
+00:01:54,080 --> 00:01:55,399
+<i>traîne la patte. Rotule.</i>
+
+8
+00:01:57,160 --> 00:01:58,832
+<i>Diagnostic : réveil dans 90 s.</i>
+
+9
+00:01:59,040 --> 00:02:00,758
+<i>Combativité : 15 min au moins.</i>
+
+10
+00:02:00,960 --> 00:02:01,915
+<i>Rémission :</i>
+
+11
+00:02:02,640 --> 00:02:03,595
+<i>improbable.</i>
+
+12
+00:03:13,640 --> 00:03:14,595
+Joli chapeau.
+
+13
+00:03:15,240 --> 00:03:16,389
+Acquisition récente.
+
+14
+00:03:16,880 --> 00:03:18,154
+Où est votre revolver ?
+
+15
+00:03:18,360 --> 00:03:19,679
+J'ai donc oublié ça.
+
+16
+00:03:20,400 --> 00:03:22,630
+- Pas d'éteindre le poêle.
+- Aussi.
+
+17
+00:03:25,400 --> 00:03:26,833
+Cela suffira amplement.
+
+18
+00:03:27,560 --> 00:03:29,118
+Vous êtes médecin, après tout.
+
+19
+00:03:34,680 --> 00:03:36,193
+Toujours un plaisir, Watson.
+
+20
+00:03:39,000 --> 00:03:40,274
+Où est l'inspecteur ?
+
+21
+00:03:40,880 --> 00:03:42,677
+Il rassemble ses effectifs.
+
+22
+00:03:43,200 --> 00:03:44,474
+Il en a pour la journée.
+
+23
+00:04:40,800 --> 00:04:41,869
+Sherlock Holmes...
+
+24
+00:04:43,760 --> 00:04:44,715
+et son toutou.
+
+25
+00:04:45,920 --> 00:04:46,875
+Dites-moi,
+
+26
+00:04:47,480 --> 00:04:49,948
+le médecin que vous êtes
+apprécie mon œuvre ?
+
+27
+00:04:50,760 --> 00:04:52,591
+Vous allez voir à quel point.
+
+28
+00:04:54,240 --> 00:04:55,195
+Non !
+
+29
+00:04:59,040 --> 00:04:59,995
+Observez.
+
+30
+00:05:03,480 --> 00:05:04,799
+Comment l'avez-vous vu ?
+
+31
+00:05:05,520 --> 00:05:06,999
+En cherchant bien.
+
+32
+00:05:11,520 --> 00:05:12,475
+Lord Blackwood.
+
+33
+00:05:14,560 --> 00:05:15,515
+Surpris ?
+
+34
+00:05:16,840 --> 00:05:18,990
+Elle mérite vos soins
+plus que lui.
+
+35
+00:05:20,240 --> 00:05:21,195
+Certes.
+
+36
+00:05:26,880 --> 00:05:28,757
+Laisse ça, mon petit.
+
+37
+00:05:29,840 --> 00:05:30,795
+C'est bien.
+
+38
+00:05:31,920 --> 00:05:33,717
+Vous tombez à pic, Lestrade.
+
+39
+00:05:34,960 --> 00:05:36,359
+L'une nécessite un médecin
+
+40
+00:05:36,800 --> 00:05:37,949
+et l'autre la corde.
+
+41
+00:05:38,600 --> 00:05:39,555
+Clarkie ?
+
+42
+00:05:40,520 --> 00:05:41,794
+Menez-la à l'hôpital !
+
+43
+00:05:42,160 --> 00:05:43,513
+Dans le fourgon !
+
+44
+00:05:51,120 --> 00:05:52,109
+Permettez.
+
+45
+00:05:54,480 --> 00:05:55,515
+Embarquez-le !
+
+46
+00:06:01,080 --> 00:06:02,957
+Vous deviez attendre mes ordres.
+
+47
+00:06:04,360 --> 00:06:06,157
+Vous auriez évacué un cadavre
+
+48
+00:06:06,600 --> 00:06:07,874
+et traqué une rumeur.
+
+49
+00:06:08,360 --> 00:06:11,033
+Et les parents de mademoiselle
+me paient, non le Yard.
+
+50
+00:06:11,240 --> 00:06:13,913
+Pourquoi ont-ils cru
+que vous ne suffiriez pas ?
+
+51
+00:06:15,680 --> 00:06:16,829
+Londres va respirer.
+
+52
+00:06:17,040 --> 00:06:19,031
+Certes !
+Félicitations, Lestrade.
+
+53
+00:06:19,240 --> 00:06:21,390
+Bravo, inspecteur.
+Prenez ce cigare.
+
+54
+00:06:21,960 --> 00:06:22,995
+Messieurs...
+
+55
+00:06:23,480 --> 00:06:24,435
+ouistiti !
+
+56
+00:06:27,560 --> 00:06:29,710
+SCOTLAND YARD ARRÊTE LE TUEUR !
+
+57
+00:06:52,280 --> 00:06:54,999
+Blackwood pendu demain !
+Édition spéciale !
+
+58
+00:06:59,000 --> 00:07:01,230
+15/8 de tension.
+
+59
+00:07:01,440 --> 00:07:02,395
+C'est très bien.
+
+60
+00:07:02,960 --> 00:07:05,872
+Mes nerfs vont bien mieux,
+grâce à vous.
+
+61
+00:07:06,800 --> 00:07:08,119
+Dites-moi...
+
+62
+00:07:08,800 --> 00:07:11,268
+ce nouveau cabinet,
+vous emménagez quand ?
+
+63
+00:07:11,480 --> 00:07:13,072
+Dans la semaine.
+
+64
+00:07:13,320 --> 00:07:14,958
+Cavendish Place...
+
+65
+00:07:15,480 --> 00:07:16,879
+Avec touche de féminité.
+
+66
+00:07:17,120 --> 00:07:18,439
+Ça, c'est merveilleux.
+
+67
+00:07:19,360 --> 00:07:20,793
+Seigneur Dieu !
+
+68
+00:07:22,720 --> 00:07:24,278
+C'était des coups de feu !
+
+69
+00:07:25,960 --> 00:07:27,439
+Coups de marteau, non ?
+
+70
+00:07:27,800 --> 00:07:29,358
+Mon collègue doit...
+
+71
+00:07:29,600 --> 00:07:30,919
+accrocher un tableau.
+
+72
+00:07:31,640 --> 00:07:32,789
+Je vais voir.
+
+73
+00:07:33,240 --> 00:07:34,434
+Ce collègue...
+
+74
+00:07:35,360 --> 00:07:37,078
+il n'emménage pas avec vous ?
+
+75
+00:07:37,960 --> 00:07:39,234
+Oh que non.
+
+76
+00:07:42,200 --> 00:07:43,349
+Mme Hudson...
+
+77
+00:07:43,880 --> 00:07:46,235
+Je n'entre pas seule,
+s'il est armé.
+
+78
+00:07:46,440 --> 00:07:47,839
+J'y vais. Le journal ?
+
+79
+00:07:48,400 --> 00:07:51,392
+Que ferai-je sans vous ?
+Il va tout dévaster.
+
+80
+00:07:51,600 --> 00:07:53,352
+Il suffit qu'il ait une enquête.
+
+81
+00:07:53,560 --> 00:07:54,879
+Prolongez vos fiançailles.
+
+82
+00:07:56,160 --> 00:07:57,195
+Ça sent la poudre.
+
+83
+00:07:57,400 --> 00:08:00,039
+C'est inconvenant
+dans un lieu d'habitation !
+
+84
+00:08:00,440 --> 00:08:03,477
+Merci, commandant.
+Une bonne tasse de thé ?
+
+85
+00:08:04,600 --> 00:08:05,828
+Même heure dans huit jours.
+
+86
+00:08:06,040 --> 00:08:08,474
+Venez.
+C'est plus calme, en bas.
+
+87
+00:08:08,680 --> 00:08:11,069
+Mme Hudson,
+portez-lui un réconfortant.
+
+88
+00:08:20,880 --> 00:08:23,269
+Permission
+d'entrer dans l'armurerie ?
+
+89
+00:08:23,480 --> 00:08:24,435
+Accordée.
+
+90
+00:08:27,640 --> 00:08:31,872
+J'élabore un dispositif
+étouffant le bruit des armes à feu.
+
+91
+00:08:35,320 --> 00:08:36,469
+Ça ne marche pas.
+
+92
+00:08:37,360 --> 00:08:38,315
+Je peux voir ?
+
+93
+00:08:46,600 --> 00:08:48,636
+Déjà trois mois depuis...
+
+94
+00:08:49,280 --> 00:08:50,838
+votre dernière enquête.
+
+95
+00:08:53,600 --> 00:08:55,750
+Doucement, ne me brusquez...
+
+96
+00:08:59,000 --> 00:09:00,592
+Il s'agit de vous y remettre.
+
+97
+00:09:03,280 --> 00:09:04,599
+Il me faut acquiescer.
+
+98
+00:09:04,800 --> 00:09:08,156
+Mon cerveau fuit la stagnation.
+Des énigmes, du travail !
+
+99
+00:09:08,400 --> 00:09:09,355
+Au plus vite.
+
+100
+00:09:10,160 --> 00:09:11,115
+Le journal.
+
+101
+00:09:12,960 --> 00:09:14,996
+Voyons un peu : voici une lettre
+
+102
+00:09:15,520 --> 00:09:18,398
+de Mme Ramsey,
+sise à Queen's Park.
+
+103
+00:09:18,840 --> 00:09:21,229
+- Mari disparu.
+- En Belgique avec la bonne.
+
+104
+00:09:22,560 --> 00:09:23,515
+Déjà novembre ?
+
+105
+00:09:24,600 --> 00:09:25,589
+Oui, Holmes.
+
+106
+00:09:26,920 --> 00:09:28,194
+Lady Radford
+
+107
+00:09:28,520 --> 00:09:29,475
+vous informe...
+
+108
+00:09:29,880 --> 00:09:32,758
+- Émeraudes disparues.
+- Arnaque à l'assurance.
+
+109
+00:09:32,960 --> 00:09:36,270
+Lord Radford aime les filles légères
+et les chevaux lourds.
+
+110
+00:09:37,160 --> 00:09:40,470
+Vous êtes médecin légiste
+à la pendaison de Blackwood ?
+
+111
+00:09:41,080 --> 00:09:43,833
+Pour clore
+notre dernière enquête commune.
+
+112
+00:09:51,320 --> 00:09:52,673
+Un certain M. Lewis...
+
+113
+00:09:52,880 --> 00:09:55,235
+Une seule affaire
+pique ma curiosité.
+
+114
+00:09:55,680 --> 00:09:57,477
+L'étrange affaire de Mme Hudson,
+
+115
+00:09:57,680 --> 00:09:59,477
+fantomatique logeuse.
+
+116
+00:09:59,680 --> 00:10:02,797
+J'étudie ses allées et venues
+qui s'avèrent fort...
+
+117
+00:10:03,000 --> 00:10:03,955
+sinistres.
+
+118
+00:10:04,280 --> 00:10:05,429
+Votre thé, M. Holmes.
+
+119
+00:10:05,640 --> 00:10:06,789
+Empoisonné, nanny ?
+
+120
+00:10:07,480 --> 00:10:09,198
+Vos veines en sont pleines.
+
+121
+00:10:09,560 --> 00:10:10,595
+Pas touche !
+
+122
+00:10:11,160 --> 00:10:13,230
+Tout est à sa place,
+comme toujours,
+
+123
+00:10:13,520 --> 00:10:14,475
+nanny.
+
+124
+00:10:15,360 --> 00:10:16,349
+Il a tué le chien,
+
+125
+00:10:16,640 --> 00:10:17,595
+pour changer.
+
+126
+00:10:18,000 --> 00:10:20,195
+Qu'avez-vous
+encore fait à Gladstone ?
+
+127
+00:10:20,720 --> 00:10:22,995
+Je n'ai fait que tester
+un anesthésique.
+
+128
+00:10:23,360 --> 00:10:24,315
+Ça ne le gêne pas.
+
+129
+00:10:26,920 --> 00:10:28,831
+Holmes, je suis votre médecin...
+
+130
+00:10:29,040 --> 00:10:30,519
+Il gambadera bientôt.
+
+131
+00:10:30,720 --> 00:10:31,675
+Votre ami.
+
+132
+00:10:33,680 --> 00:10:37,070
+Vous vous terrez ici depuis 15 jours,
+il faut sortir.
+
+133
+00:10:37,640 --> 00:10:41,155
+Rien ne m'intéresse, dehors,
+sur terre, où que ce soit.
+
+134
+00:10:43,240 --> 00:10:44,798
+- Soir libre, donc.
+- Oui !
+
+135
+00:10:45,000 --> 00:10:45,830
+- Dîner ?
+- Joie !
+
+136
+00:10:46,040 --> 00:10:47,075
+- Au Royale ?
+- J'adore.
+
+137
+00:10:47,680 --> 00:10:48,715
+Mary en sera.
+
+138
+00:10:49,960 --> 00:10:50,710
+Je suis pris.
+
+139
+00:10:50,920 --> 00:10:52,069
+Vous la rencontrerez !
+
+140
+00:10:54,520 --> 00:10:55,555
+Demande faite ?
+
+141
+00:10:56,600 --> 00:10:57,828
+Je cherche la bague.
+
+142
+00:10:58,040 --> 00:10:59,029
+Rien d'officiel, donc.
+
+143
+00:10:59,920 --> 00:11:00,875
+Ça se fera,
+
+144
+00:11:01,080 --> 00:11:03,116
+ne vous en déplaise.
+20 h 30, le Royale.
+
+145
+00:11:03,320 --> 00:11:05,072
+- Mettez une veste !
+- Vous-même.
+
+146
+00:11:42,400 --> 00:11:43,355
+Tôt arrivé.
+
+147
+00:11:44,880 --> 00:11:45,835
+C'est de bon ton.
+
+148
+00:11:46,840 --> 00:11:48,592
+Mlle Mary Morstan.
+
+149
+00:11:48,840 --> 00:11:50,592
+Mon Dieu, quelle joie.
+
+150
+00:11:51,600 --> 00:11:54,478
+Pourquoi diable
+a-t-il tardé à nous présenter ?
+
+151
+00:11:55,040 --> 00:11:56,155
+La joie est mienne.
+
+152
+00:12:00,880 --> 00:12:02,199
+Je suis enchantée
+
+153
+00:12:02,400 --> 00:12:05,517
+de vous rencontrer.
+On m'a tant parlé de vous.
+
+154
+00:12:06,800 --> 00:12:09,792
+J'ai mille romans policiers.
+Collins, Poe...
+
+155
+00:12:10,000 --> 00:12:10,750
+C'est vrai.
+
+156
+00:12:10,960 --> 00:12:13,633
+Il y en a d'invraisemblables,
+cependant.
+
+157
+00:12:13,840 --> 00:12:16,115
+Tirer tant de choses
+d'infimes détails.
+
+158
+00:12:16,320 --> 00:12:17,435
+C'est vite dit.
+
+159
+00:12:18,480 --> 00:12:20,994
+En réalité,
+les petits détails sont vitaux.
+
+160
+00:12:25,120 --> 00:12:26,633
+- Prenez Watson.
+- Et comment !
+
+161
+00:12:29,600 --> 00:12:32,512
+Canne en serpentine d'Afrique
+fort rare,
+
+162
+00:12:32,800 --> 00:12:34,552
+cachant une lame d'acier dur.
+
+163
+00:12:35,800 --> 00:12:36,550
+Objet décerné
+
+164
+00:12:36,760 --> 00:12:40,116
+aux vétérans d'Afghanistan.
+Soldat décoré, donc.
+
+165
+00:12:40,560 --> 00:12:41,629
+Fort, courageux,
+
+166
+00:12:41,840 --> 00:12:43,034
+né pour l'action.
+
+167
+00:12:43,400 --> 00:12:45,675
+Et soigné, comme tout militaire.
+
+168
+00:12:46,080 --> 00:12:48,310
+À présent,
+inspectons ses poches.
+
+169
+00:12:49,840 --> 00:12:51,273
+Billet de match de boxe.
+
+170
+00:12:52,640 --> 00:12:54,232
+Il est un peu parieur.
+
+171
+00:12:54,640 --> 00:12:55,993
+Veillez sur votre dot.
+
+172
+00:12:56,200 --> 00:12:57,189
+C'est derrière moi.
+
+173
+00:12:57,400 --> 00:13:00,278
+Ça vous talonne.
+Il a souvent englouti le loyer.
+
+174
+00:13:01,040 --> 00:13:03,952
+Sans vous vexer,
+vous connaissez bien John.
+
+175
+00:13:04,560 --> 00:13:06,516
+Mais un parfait inconnu ?
+
+176
+00:13:07,560 --> 00:13:08,390
+Moi, par exemple ?
+
+177
+00:13:08,600 --> 00:13:09,316
+Vous ?
+
+178
+00:13:09,520 --> 00:13:10,999
+- Je doute que...
+- Est-ce...
+
+179
+00:13:11,200 --> 00:13:12,189
+- On dîne.
+- Reportons.
+
+180
+00:13:12,400 --> 00:13:13,355
+J'insiste.
+
+181
+00:13:13,680 --> 00:13:15,716
+- Qu'avions-nous dit ?
+- Milady insiste.
+
+182
+00:13:23,040 --> 00:13:24,189
+- Gouvernante.
+- Bravo.
+
+183
+00:13:24,400 --> 00:13:26,436
+Oui, bravo, si nous...
+Garçon !
+
+184
+00:13:26,640 --> 00:13:29,108
+Votre élève
+est un garçon de 8 ans.
+
+185
+00:13:29,960 --> 00:13:31,109
+Charlie a 7 ans.
+
+186
+00:13:32,800 --> 00:13:34,597
+Grand pour son âge,
+il vous a lancé de l'encre.
+
+187
+00:13:36,040 --> 00:13:37,155
+J'ai le visage taché ?
+
+188
+00:13:37,840 --> 00:13:39,193
+Il est impeccable.
+
+189
+00:13:39,400 --> 00:13:41,197
+Restent deux gouttes sur l'oreille.
+
+190
+00:13:41,520 --> 00:13:43,431
+Bleu indien quasi indélébile.
+
+191
+00:13:43,880 --> 00:13:45,154
+Impétueux, ce petit,
+
+192
+00:13:45,360 --> 00:13:47,590
+mais vous avez
+l'acquis de la sagesse.
+
+193
+00:13:47,800 --> 00:13:50,189
+Votre patronne
+vous a donc prêté ce collier.
+
+194
+00:13:50,760 --> 00:13:54,719
+Perles, diamants, rubis parfait.
+Guère un bijou de gouvernante.
+
+195
+00:13:58,840 --> 00:14:00,478
+Celui que vous cachez
+en dit plus.
+
+196
+00:14:01,360 --> 00:14:02,588
+Vous fûtes fiancée.
+
+197
+00:14:03,120 --> 00:14:04,951
+Là où était la bague,
+la peau claire
+
+198
+00:14:05,160 --> 00:14:08,197
+suggère que vous l'avez
+arborée à l'étranger.
+
+199
+00:14:08,400 --> 00:14:10,709
+Jusqu'à ce qu'apprenant
+sa modeste valeur,
+
+200
+00:14:10,920 --> 00:14:14,754
+vous rompiez et rentriez en Angleterre
+chercher meilleur parti.
+
+201
+00:14:16,000 --> 00:14:17,194
+Un médecin, peut-être ?
+
+202
+00:14:23,560 --> 00:14:25,118
+Vrai à tous points de vue,
+
+203
+00:14:25,320 --> 00:14:26,275
+sauf un.
+
+204
+00:14:29,320 --> 00:14:30,799
+Je ne l'ai pas quitté.
+
+205
+00:14:31,400 --> 00:14:32,355
+Il est mort.
+
+206
+00:14:42,480 --> 00:14:43,629
+Bien joué, mon vieux.
+
+207
+00:16:08,280 --> 00:16:09,599
+Reviens te battre !
+
+208
+00:16:25,240 --> 00:16:27,151
+Ça suffit, mon grand,
+on arrête.
+
+209
+00:16:27,600 --> 00:16:28,555
+T'as gagné, bravo.
+
+210
+00:16:29,960 --> 00:16:31,075
+On n'a point fini !
+
+211
+00:16:36,320 --> 00:16:38,515
+<i>Ne pas céder à l'émotivité.</i>
+
+212
+00:16:40,240 --> 00:16:41,593
+<i>Un, détourner attention.</i>
+
+213
+00:16:43,080 --> 00:16:44,559
+<i>Bloquer coup aveugle.</i>
+
+214
+00:16:45,280 --> 00:16:47,111
+<i>Répliquer sur joue gauche.</i>
+
+215
+00:16:49,080 --> 00:16:50,035
+<i>Désorienter.</i>
+
+216
+00:16:50,720 --> 00:16:51,630
+<i>Étourdi,</i>
+
+217
+00:16:51,840 --> 00:16:53,990
+<i>il tentera coup décisif.
+Parer du coude.</i>
+
+218
+00:16:54,960 --> 00:16:55,915
+<i>Coup au foie.</i>
+
+219
+00:16:56,920 --> 00:16:58,273
+<i>Bloquer gauche puissante.</i>
+
+220
+00:16:58,480 --> 00:16:59,469
+<i>Fragiliser mâchoire.</i>
+
+221
+00:17:01,360 --> 00:17:02,315
+<i>Fracturer.</i>
+
+222
+00:17:04,240 --> 00:17:05,753
+<i>Casser côtes fêlées.</i>
+
+223
+00:17:06,160 --> 00:17:07,115
+<i>Percuter plexus.</i>
+
+224
+00:17:08,160 --> 00:17:09,354
+<i>Démantibuler mâchoire.</i>
+
+225
+00:17:13,160 --> 00:17:14,354
+<i>Talon dans abdomen.</i>
+
+226
+00:17:16,680 --> 00:17:18,989
+<i>Bref, oreilles sifflantes,
+mâchoire cassée,</i>
+
+227
+00:17:19,200 --> 00:17:22,078
+<i>3 côtes fêlées, 4 cassées,
+abdomen percé.</i>
+
+228
+00:17:22,280 --> 00:17:24,157
+<i>Rémission physique :
+6 semaines.</i>
+
+229
+00:17:24,360 --> 00:17:26,510
+<i>Rémission psychologique :
+6 mois.</i>
+
+230
+00:17:26,720 --> 00:17:28,711
+<i>Capacité à cracher sur nuque :</i>
+
+231
+00:17:28,920 --> 00:17:29,989
+<i>neutralisée.</i>
+
+232
+00:17:57,280 --> 00:17:58,838
+D'où il a sorti ça ?
+
+233
+00:18:34,920 --> 00:18:36,069
+Reculez !
+
+234
+00:18:36,800 --> 00:18:38,279
+C'est quoi ça, Charlie ?
+
+235
+00:18:39,160 --> 00:18:41,276
+Lord Blackwood l'a comme envoûté.
+
+236
+00:18:41,480 --> 00:18:43,869
+On dirait
+qu'il brûle de l'intérieur !
+
+237
+00:18:47,680 --> 00:18:48,874
+Fermez-la !
+
+238
+00:18:49,800 --> 00:18:50,755
+Charlie !
+
+239
+00:18:51,840 --> 00:18:53,353
+À l'infirmerie, vite !
+
+240
+00:19:05,840 --> 00:19:07,068
+Alors, Blackwood ?
+
+241
+00:19:12,080 --> 00:19:13,718
+J'aimerais voir quelqu'un.
+
+242
+00:19:33,600 --> 00:19:34,430
+Watson ?
+
+243
+00:19:34,640 --> 00:19:35,595
+Exact !
+
+244
+00:19:35,880 --> 00:19:36,835
+En route.
+
+245
+00:19:38,080 --> 00:19:42,119
+Une expérience toute bête
+promet une découverte monumentale.
+
+246
+00:19:43,120 --> 00:19:45,270
+Si je joue une gamme chromatique,
+
+247
+00:19:46,320 --> 00:19:48,038
+aucun résultat notable.
+
+248
+00:19:48,240 --> 00:19:50,834
+Savez-vous que vous buvez
+une lotion oculaire ?
+
+249
+00:19:51,240 --> 00:19:52,309
+Cependant...
+
+250
+00:19:52,760 --> 00:19:53,715
+chose remarquable,
+
+251
+00:19:54,120 --> 00:19:56,793
+si je passe
+à des clusters atonaux...
+
+252
+00:19:58,640 --> 00:20:02,633
+voilà : sens inverse des aiguilles,
+synchronisme, concentricité,
+
+253
+00:20:03,120 --> 00:20:06,078
+tel un essaim enrégimenté.
+C'est exceptionnel.
+
+254
+00:20:06,280 --> 00:20:07,759
+Armé du solfège,
+
+255
+00:20:07,960 --> 00:20:10,155
+j'ai créé l'ordre à partir du chaos.
+
+256
+00:20:12,480 --> 00:20:13,469
+Méthode d'appât ?
+
+257
+00:20:14,160 --> 00:20:15,275
+Excellente question.
+
+258
+00:20:15,600 --> 00:20:16,749
+Individuelle.
+
+259
+00:20:16,960 --> 00:20:18,234
+J'ai mis 6 heures.
+
+260
+00:20:19,080 --> 00:20:20,593
+Et si je fais ceci ?
+
+261
+00:20:24,720 --> 00:20:25,675
+Lavez-vous.
+
+262
+00:20:26,000 --> 00:20:27,911
+Vous êtes la dernière volonté
+de Blackwood.
+
+263
+00:20:40,040 --> 00:20:41,234
+Grandiose construction.
+
+264
+00:20:42,800 --> 00:20:46,270
+Premier pont mi-basculant
+mi-suspendu.
+
+265
+00:20:46,480 --> 00:20:47,708
+Des plus innovants.
+
+266
+00:20:50,920 --> 00:20:52,273
+Quel empire industrieux.
+
+267
+00:20:55,000 --> 00:20:56,638
+J'ai vos gains d'hier soir.
+
+268
+00:20:58,320 --> 00:21:00,231
+J'ai misé votre somme usuelle.
+
+269
+00:21:02,560 --> 00:21:04,710
+Oui, je les garde
+avec votre chéquier,
+
+270
+00:21:04,920 --> 00:21:05,875
+sous clé.
+
+271
+00:21:08,760 --> 00:21:10,671
+L'opéra donne <i>Don Giovanni.</i>
+
+272
+00:21:11,480 --> 00:21:12,390
+Je puis trouver
+
+273
+00:21:12,600 --> 00:21:15,637
+deux billets,
+si vous êtes en veine de culture.
+
+274
+00:21:18,840 --> 00:21:20,558
+Votre don inouï du silence
+
+275
+00:21:21,680 --> 00:21:23,432
+fait de vous le compagnon rêvé.
+
+276
+00:21:26,160 --> 00:21:29,391
+Je savais qu'elle avait été fiancée.
+Elle me l'avait dit.
+
+277
+00:21:29,960 --> 00:21:31,188
+Pas d'opéra, donc ?
+
+278
+00:21:37,760 --> 00:21:38,510
+Mon gilet.
+
+279
+00:21:38,720 --> 00:21:40,551
+On a conclu
+qu'il ne vous va plus.
+
+280
+00:21:40,760 --> 00:21:42,193
+- Je le requiers.
+- On l'a conclu.
+
+281
+00:21:42,720 --> 00:21:43,994
+Je le veux.
+
+282
+00:22:15,480 --> 00:22:16,754
+Par ici, M. Holmes.
+
+283
+00:22:18,720 --> 00:22:22,156
+Blackwood semble rendre
+la populace ivre de peur.
+
+284
+00:22:22,360 --> 00:22:25,796
+Cela s'apaisera avec les ultimes
+spasmes de ses pieds.
+
+285
+00:22:26,040 --> 00:22:27,109
+Venez-vous ?
+
+286
+00:22:27,640 --> 00:22:28,755
+Non, vieux crabe.
+
+287
+00:22:28,960 --> 00:22:30,632
+Vivant, il m'indiffère.
+
+288
+00:22:30,840 --> 00:22:32,398
+À votre guise, vieille bique.
+
+289
+00:22:44,320 --> 00:22:45,275
+Il y a...
+
+290
+00:22:45,680 --> 00:22:47,398
+beaucoup de chambres libres.
+
+291
+00:22:47,840 --> 00:22:49,353
+On a déplacé des détenus.
+
+292
+00:22:49,560 --> 00:22:51,278
+Pour éviter l'émeute.
+
+293
+00:22:51,520 --> 00:22:52,714
+Il fait un...
+
+294
+00:22:53,040 --> 00:22:54,678
+drôle d'effet à ses camarades.
+
+295
+00:22:54,880 --> 00:22:55,995
+Comme si...
+
+296
+00:22:57,560 --> 00:22:59,437
+il entrait dans leur crâne.
+
+297
+00:23:02,680 --> 00:23:05,319
+Je trouverai le chemin,
+si vous avez à faire.
+
+298
+00:23:05,840 --> 00:23:07,751
+Bien aimable, monsieur. Merci.
+
+299
+00:23:09,240 --> 00:23:11,879
+Si quelqu'un a des oreilles, qu'il entende.
+
+300
+00:23:12,800 --> 00:23:15,394
+Alors, je vis monter de la mer une bête
+
+301
+00:23:15,600 --> 00:23:17,352
+qui avait 7 têtes, 10 cornes
+
+302
+00:23:17,560 --> 00:23:19,710
+et sur ses têtes
+des noms de blasphème.
+
+303
+00:23:20,080 --> 00:23:23,038
+On adora le dragon
+et on adora la bête, disant :
+
+304
+00:23:23,240 --> 00:23:24,673
+Qui est telle la bête ?
+
+305
+00:23:24,880 --> 00:23:26,632
+La bête était tel un léopard
+
+306
+00:23:26,840 --> 00:23:29,354
+à pieds d'ours et gueule de lion.
+
+307
+00:23:29,560 --> 00:23:31,278
+Le dragon lui donna force,
+
+308
+00:23:31,480 --> 00:23:32,993
+trône et autorité.
+
+309
+00:23:33,560 --> 00:23:35,437
+Vous avez redécoré avec goût.
+
+310
+00:23:37,200 --> 00:23:38,599
+Vous honorez mon invitation.
+
+311
+00:23:39,960 --> 00:23:41,279
+J'ai une petite crainte.
+
+312
+00:23:43,240 --> 00:23:44,036
+Dites-moi.
+
+313
+00:23:44,240 --> 00:23:45,753
+En suivant ces meurtres,
+
+314
+00:23:45,960 --> 00:23:48,190
+bien que songeant
+surtout aux familles,
+
+315
+00:23:48,400 --> 00:23:51,551
+j'ai noté un certain art criminel
+dans votre pinceau.
+
+316
+00:23:53,000 --> 00:23:54,319
+Trop aimable.
+
+317
+00:23:54,640 --> 00:23:57,996
+Par contre, votre œuvre dans la crypte
+faisait bariolage.
+
+318
+00:24:02,160 --> 00:24:04,469
+Vous venez voir
+s'il y a plus gros gibier.
+
+319
+00:24:05,680 --> 00:24:07,511
+C'est soit cela, soit que...
+
+320
+00:24:08,560 --> 00:24:11,472
+j'accompagne mon ami
+venu constater votre mort.
+
+321
+00:24:12,200 --> 00:24:15,351
+Vous pensez à tort
+que ceci s'est décidé ici-bas.
+
+322
+00:24:15,720 --> 00:24:18,553
+Et que j'ai jamais eu
+le pinceau en main.
+
+323
+00:24:19,720 --> 00:24:21,153
+Je ne suis que l'outil.
+
+324
+00:24:21,360 --> 00:24:24,079
+Que ne vous ai-je arrêté plus tôt ?
+
+325
+00:24:24,440 --> 00:24:25,714
+Cinq vies perdues.
+
+326
+00:24:27,400 --> 00:24:28,753
+Il fallait les prendre.
+
+327
+00:24:30,400 --> 00:24:31,799
+Les sacrifier.
+
+328
+00:24:32,600 --> 00:24:35,273
+Cinq vaines créatures
+pour un noble dessein.
+
+329
+00:24:35,480 --> 00:24:39,029
+J'aimerais disséquer votre cerveau
+avec Watson. Après pendaison.
+
+330
+00:24:41,320 --> 00:24:44,756
+On y trouverait
+une difformité à portée scientifique.
+
+331
+00:24:44,960 --> 00:24:47,633
+Vous aussi
+serviriez un noble dessein.
+
+332
+00:24:49,120 --> 00:24:52,192
+Holmes,
+il vous faut voir plus large.
+
+333
+00:24:52,480 --> 00:24:56,871
+Je crains que vous ne sous-estimiez
+la gravité de ce qui se prépare.
+
+334
+00:24:57,800 --> 00:24:59,438
+Nous entamons un périple
+
+335
+00:24:59,640 --> 00:25:02,438
+qui altérera
+l'essence même de la nature.
+
+336
+00:25:03,000 --> 00:25:06,436
+Mais sous votre masque de logique,
+je sens une fragilité.
+
+337
+00:25:07,360 --> 00:25:08,759
+Cela me préoccupe.
+
+338
+00:25:09,960 --> 00:25:11,916
+Cuirassez-vous l'esprit.
+
+339
+00:25:13,280 --> 00:25:14,429
+J'ai besoin de vous.
+
+340
+00:25:14,640 --> 00:25:16,471
+Tombé bien bas, pour un Lord.
+
+341
+00:25:16,680 --> 00:25:17,795
+Je me relèverai.
+
+342
+00:25:18,320 --> 00:25:19,594
+Prêtez-moi attention !
+
+343
+00:25:20,040 --> 00:25:23,316
+Il y aura encore trois morts.
+Vous n'y pourrez rien.
+
+344
+00:25:23,520 --> 00:25:25,909
+Acceptez de ne rien maîtriser.
+
+345
+00:25:26,560 --> 00:25:29,757
+Ou quand vous saurez
+avoir permis tout ceci,
+
+346
+00:25:30,240 --> 00:25:32,800
+vous perdrez
+ce qui vous reste de raison.
+
+347
+00:25:40,360 --> 00:25:41,315
+Que voulait-il ?
+
+348
+00:25:42,160 --> 00:25:43,513
+Je ne saurais dire.
+
+349
+00:25:43,840 --> 00:25:46,434
+Mais vous risquez
+de lui être inutile, mon père.
+
+350
+00:25:48,360 --> 00:25:50,032
+Lord Henry Blackwood,
+
+351
+00:25:50,640 --> 00:25:52,551
+vous êtes condamné à mort
+
+352
+00:25:52,760 --> 00:25:54,478
+pour exercice de magie noire,
+
+353
+00:25:55,000 --> 00:25:57,912
+assassinat démoniaque
+de cinq jeunes innocentes
+
+354
+00:25:58,160 --> 00:26:00,276
+et tentative sur une sixième.
+
+355
+00:26:01,160 --> 00:26:02,832
+Voulez-vous prendre la parole ?
+
+356
+00:26:04,040 --> 00:26:05,155
+La mort...
+
+357
+00:26:06,600 --> 00:26:08,079
+n'est qu'un début.
+
+358
+00:26:19,200 --> 00:26:21,156
+Pour les siècles des siècles. Amen.
+
+359
+00:26:41,800 --> 00:26:44,155
+C'en est fini de Lord Blackwood.
+
+360
+00:27:05,320 --> 00:27:07,788
+Londres est d'un lugubre,
+en cette saison.
+
+361
+00:27:09,000 --> 00:27:11,798
+Non que je me languisse
+du New Jersey.
+
+362
+00:27:12,000 --> 00:27:14,673
+J'aimerais bien mieux
+voyager en hiver.
+
+363
+00:27:16,680 --> 00:27:19,638
+Je vous ai rapporté ceci
+de la lointaine Syrie.
+
+364
+00:27:20,040 --> 00:27:22,508
+J'ai trouvé ces dattes exquises
+en Jordanie.
+
+365
+00:27:22,880 --> 00:27:24,598
+Et votre péché mignon...
+
+366
+00:27:25,120 --> 00:27:26,872
+des olives des Cyclades.
+
+367
+00:27:27,840 --> 00:27:29,558
+Je préparais ce goûter.
+
+368
+00:27:29,760 --> 00:27:32,593
+Et en mettant la table,
+j'ai trouvé ceci :
+
+369
+00:27:33,280 --> 00:27:35,111
+un dossier à mon nom.
+
+370
+00:27:36,160 --> 00:27:38,196
+"Vélasquez volé au roi d'Espagne."
+
+371
+00:27:39,200 --> 00:27:40,428
+"Des documents volés
+
+372
+00:27:40,640 --> 00:27:43,029
+"font chuter
+le Premier ministre bulgare."
+
+373
+00:27:44,640 --> 00:27:47,950
+"Une liaison scandaleuse
+met fin aux fiançailles entre...
+
+374
+00:27:51,360 --> 00:27:53,237
+"un Habsbourg et une Romanov."
+
+375
+00:27:54,960 --> 00:27:56,598
+Je ne fais qu'étudier vos...
+
+376
+00:27:56,800 --> 00:27:59,268
+méthodes,
+au cas où je devrais vous traquer.
+
+377
+00:28:01,240 --> 00:28:03,390
+Je ne figure pas dans ces articles.
+
+378
+00:28:03,600 --> 00:28:05,033
+On y sent votre griffe.
+
+379
+00:28:06,720 --> 00:28:08,517
+Diamant perdu du maharajah...
+
+380
+00:28:10,240 --> 00:28:11,753
+ou souvenir comme un autre ?
+
+381
+00:28:12,560 --> 00:28:14,278
+Ne ressassons pas le passé.
+
+382
+00:28:16,000 --> 00:28:16,955
+À table ?
+
+383
+00:28:19,680 --> 00:28:21,636
+Vous semblez en mal d'enquête.
+
+384
+00:28:21,840 --> 00:28:23,319
+Et vous de mari.
+
+385
+00:28:23,680 --> 00:28:24,829
+L'alliance a rapporté ?
+
+386
+00:28:25,440 --> 00:28:28,159
+Il était fastidieux, jaloux et il ronflait.
+
+387
+00:28:31,680 --> 00:28:33,352
+Je redeviens Irene Adler.
+
+388
+00:28:47,920 --> 00:28:49,319
+J'ai besoin de vous.
+
+389
+00:28:50,240 --> 00:28:51,719
+Que vous trouviez quelqu'un.
+
+390
+00:28:54,360 --> 00:28:55,759
+Pourquoi vous méfier ?
+
+391
+00:28:55,960 --> 00:28:58,394
+Réponse chronologique
+ou alphabétique ?
+
+392
+00:28:58,840 --> 00:29:02,037
+Ne vous coupez pas
+sur cette sanguinaire enveloppe.
+
+393
+00:29:05,280 --> 00:29:08,033
+Tous les renseignements utiles y sont.
+
+394
+00:29:09,360 --> 00:29:10,395
+Qui vous emploie ?
+
+395
+00:29:12,480 --> 00:29:14,198
+Je m'efforcerai de le savoir.
+
+396
+00:29:15,360 --> 00:29:17,715
+Gardez cet argent,
+je n'ai pas accepté.
+
+397
+00:29:17,920 --> 00:29:20,275
+Je parie cette somme
+que vous accepterez.
+
+398
+00:29:21,120 --> 00:29:23,076
+Vous vous souvenez du Grand ?
+
+399
+00:29:23,280 --> 00:29:25,032
+On m'a redonné notre chambre.
+
+400
+00:29:38,480 --> 00:29:39,629
+Ne fermez pas !
+
+401
+00:29:39,840 --> 00:29:41,034
+Merci, docteur.
+
+402
+00:30:08,160 --> 00:30:08,990
+Il le fera.
+
+403
+00:30:09,200 --> 00:30:10,918
+Mes compliments, Mlle Adler.
+
+404
+00:30:12,160 --> 00:30:13,957
+Je vous ai engagée pour ça.
+
+405
+00:30:15,320 --> 00:30:18,198
+Il devrait tenir notre homme
+dans les 24 heures.
+
+406
+00:30:18,520 --> 00:30:19,475
+Il a intérêt.
+
+407
+00:30:19,680 --> 00:30:21,557
+Reordan est l'instrument
+de Blackwood.
+
+408
+00:30:23,200 --> 00:30:24,838
+Il est essentiel à mon plan.
+
+409
+00:30:27,040 --> 00:30:29,235
+Ça va pas ?
+Regarde devant toi !
+
+410
+00:30:29,440 --> 00:30:30,350
+Cocher à la noix !
+
+411
+00:30:30,560 --> 00:30:31,515
+Dégage !
+
+412
+00:30:32,560 --> 00:30:34,790
+Je dirions pas non
+à quelques ronds.
+
+413
+00:30:35,280 --> 00:30:37,510
+J'ai les paluchons
+pleins de durillons.
+
+414
+00:30:39,440 --> 00:30:40,395
+Vive la Reine !
+
+415
+00:30:41,440 --> 00:30:42,395
+Vive la Reine !
+
+416
+00:30:42,640 --> 00:30:43,595
+Dégage !
+
+417
+00:30:48,120 --> 00:30:49,519
+Honte à vous.
+
+418
+00:30:49,920 --> 00:30:52,673
+N'avoir jamais aimé
+que cette virtuose du crime.
+
+419
+00:30:52,880 --> 00:30:53,710
+Masochiste ?
+
+420
+00:30:53,920 --> 00:30:55,797
+- Je m'explique.
+- Je m'en charge !
+
+421
+00:30:56,040 --> 00:30:59,430
+Aucun autre adversaire
+ne vous a damé le pion deux fois.
+
+422
+00:30:59,960 --> 00:31:01,712
+Elle vous a bien ridiculisé.
+
+423
+00:31:01,920 --> 00:31:02,670
+Assez ri.
+
+424
+00:31:02,880 --> 00:31:03,869
+Que veut-elle ?
+
+425
+00:31:04,080 --> 00:31:04,910
+Passons !
+
+426
+00:31:05,120 --> 00:31:06,348
+Que lui manque-t-il ?
+
+427
+00:31:07,080 --> 00:31:07,830
+Qu'importe.
+
+428
+00:31:08,040 --> 00:31:08,790
+Alibi ?
+
+429
+00:31:09,000 --> 00:31:09,750
+Paravent ?
+
+430
+00:31:09,960 --> 00:31:11,075
+Un canoë humain.
+
+431
+00:31:11,280 --> 00:31:13,953
+Pour vous faire voguer
+sur la Tamise ?
+
+432
+00:31:14,160 --> 00:31:18,153
+Peu vous chaut. Notre dernière
+enquête commune est bouclée.
+
+433
+00:31:18,360 --> 00:31:19,315
+Déjà lu !
+
+434
+00:31:20,800 --> 00:31:22,597
+Recherche de personne.
+
+435
+00:31:22,800 --> 00:31:24,518
+Luke Reordan. 1,47 m,
+
+436
+00:31:24,720 --> 00:31:26,790
+roux, édenté.
+Affaire élucidée.
+
+437
+00:31:27,240 --> 00:31:30,118
+Vous ne l'attirez pas.
+Elle aime les rouquins nains.
+
+438
+00:31:30,320 --> 00:31:31,799
+- De petite taille.
+- Vous opinez.
+
+439
+00:31:32,040 --> 00:31:33,234
+Aucunement.
+
+440
+00:31:33,480 --> 00:31:35,789
+C'est plus qu'un point de détail.
+
+441
+00:31:36,160 --> 00:31:38,993
+Vous dénaturez
+les êtres de taille réduite.
+
+442
+00:31:39,240 --> 00:31:40,878
+Je sens
+que je vous ai fâché.
+
+443
+00:31:41,080 --> 00:31:42,513
+J'indique simplement...
+
+444
+00:31:43,120 --> 00:31:44,109
+Que faisiez-vous ?
+
+445
+00:31:44,320 --> 00:31:45,309
+Puis-je expliquer ?
+
+446
+00:31:45,840 --> 00:31:46,795
+Volontiers.
+
+447
+00:32:09,120 --> 00:32:10,678
+Holmes, que faites-vous ?
+
+448
+00:32:10,920 --> 00:32:11,796
+Rien.
+
+449
+00:32:12,000 --> 00:32:12,750
+Portez-vous...
+
+450
+00:32:12,960 --> 00:32:14,279
+Un faux nez ? Non.
+
+451
+00:32:14,960 --> 00:32:15,870
+Était-ce...
+
+452
+00:32:16,080 --> 00:32:17,035
+Non.
+
+453
+00:32:19,640 --> 00:32:20,755
+Où allez-vous ?
+
+454
+00:32:24,800 --> 00:32:25,869
+Watson !
+
+455
+00:32:47,600 --> 00:32:49,352
+Des fleurs, ma douce ?
+
+456
+00:32:49,560 --> 00:32:51,198
+Prix spécial "jolie fille".
+
+457
+00:32:53,240 --> 00:32:54,753
+C'est mon jour de chance.
+
+458
+00:32:56,000 --> 00:32:57,399
+T'as rien pour moi ?
+
+459
+00:33:01,600 --> 00:33:02,669
+Pas un geste !
+
+460
+00:33:07,280 --> 00:33:08,429
+Voyons voir.
+
+461
+00:33:14,080 --> 00:33:15,195
+Merci.
+
+462
+00:33:16,320 --> 00:33:18,072
+Je retrouve mon Irene.
+
+463
+00:34:08,320 --> 00:34:10,595
+Il m'intrigue.
+Il la met mal à l'aise.
+
+464
+00:34:10,800 --> 00:34:12,074
+Ce n'est pas rien.
+
+465
+00:34:12,280 --> 00:34:13,235
+Elle est intimidée.
+
+466
+00:34:13,440 --> 00:34:14,316
+Elle le craint.
+
+467
+00:34:14,520 --> 00:34:15,589
+Et travaille pour lui ?
+
+468
+00:34:17,080 --> 00:34:17,830
+Oui.
+
+469
+00:34:18,040 --> 00:34:19,792
+Petit conseil désintéressé :
+
+470
+00:34:20,040 --> 00:34:21,712
+lâchez cette enquête.
+
+471
+00:34:22,240 --> 00:34:23,434
+Ai-je le choix ?
+
+472
+00:34:24,640 --> 00:34:27,473
+Je risque de payer le loyer seul,
+grâce à vous.
+
+473
+00:34:28,240 --> 00:34:29,150
+Pas dans l'œil.
+
+474
+00:34:29,360 --> 00:34:30,509
+C'est dans ma main.
+
+475
+00:34:30,720 --> 00:34:31,914
+Alors, que ça y reste.
+
+476
+00:34:32,120 --> 00:34:33,314
+- Holmes ?
+- Clarkie !
+
+477
+00:34:34,200 --> 00:34:36,430
+L'inspecteur Lestrade vous réclame.
+
+478
+00:34:36,640 --> 00:34:38,790
+Il s'est perdu en allant au Yard ?
+
+479
+00:34:39,320 --> 00:34:41,709
+Une boussole, Watson !
+Vous, c'est nous.
+
+480
+00:34:41,920 --> 00:34:42,989
+Non : vous.
+
+481
+00:34:43,200 --> 00:34:44,679
+C'est Lord Blackwood...
+
+482
+00:34:47,480 --> 00:34:49,152
+il semble avoir ressuscité.
+
+483
+00:34:57,760 --> 00:34:58,715
+Fort alléchant.
+
+484
+00:34:59,040 --> 00:35:00,189
+Très malin.
+
+485
+00:35:00,920 --> 00:35:02,512
+J'ai constaté sa mort.
+
+486
+00:35:04,600 --> 00:35:05,555
+Les faits ?
+
+487
+00:35:06,400 --> 00:35:09,073
+Le gardien du cimetière
+l'aurait vu, ce matin.
+
+488
+00:35:09,760 --> 00:35:11,239
+Je laisse ça à l'expert.
+
+489
+00:35:12,480 --> 00:35:13,879
+Je dois voir Mary.
+
+490
+00:35:14,080 --> 00:35:15,957
+Il n'y a pas que ma réputation.
+
+491
+00:35:16,760 --> 00:35:18,034
+Je vous interdis !
+
+492
+00:35:18,240 --> 00:35:19,639
+La presse en a eu vent ?
+
+493
+00:35:19,840 --> 00:35:21,239
+On essaie de l'éviter.
+
+494
+00:35:21,480 --> 00:35:22,799
+Assurément.
+
+495
+00:35:23,400 --> 00:35:24,515
+Que craint-on ?
+
+496
+00:35:24,720 --> 00:35:25,470
+La panique
+
+497
+00:35:25,680 --> 00:35:26,999
+la plus totale.
+
+498
+00:35:27,240 --> 00:35:28,116
+En effet.
+
+499
+00:35:28,320 --> 00:35:29,958
+Vous prenez ça au sérieux ?
+
+500
+00:35:30,160 --> 00:35:31,559
+Oui, faites-en autant.
+
+501
+00:35:33,560 --> 00:35:35,551
+Question de professionnalisme.
+
+502
+00:35:35,760 --> 00:35:38,832
+Qui épouse un médecin
+qui ne sait si l'on est mort ?
+
+503
+00:35:55,040 --> 00:35:57,076
+Qui a gagné le match, Clarkie ?
+
+504
+00:35:58,640 --> 00:35:59,595
+Le match de rugby.
+
+505
+00:36:00,120 --> 00:36:04,272
+Vos bobbies ont admirablement effacé
+toute empreinte éventuelle.
+
+506
+00:36:04,560 --> 00:36:07,632
+Mais ils ne ratent pas une occasion
+de rater une occasion.
+
+507
+00:36:10,640 --> 00:36:12,392
+Vous avez mis le temps !
+
+508
+00:36:12,600 --> 00:36:15,478
+"Et le troisième jour..."
+
+509
+00:36:17,840 --> 00:36:22,516
+Ces dalles de grès d'au moins 500 kg
+ont été éventrées de l'intérieur.
+
+510
+00:36:23,680 --> 00:36:24,749
+Et le cercueil ?
+
+511
+00:36:25,320 --> 00:36:27,880
+- On est en pleine exhumation.
+- Je vois.
+
+512
+00:36:31,360 --> 00:36:33,430
+Et vous en êtes
+au stade contemplatif ?
+
+513
+00:36:36,000 --> 00:36:37,558
+Où est notre témoin ?
+
+514
+00:36:37,880 --> 00:36:38,835
+Là-bas.
+
+515
+00:36:39,320 --> 00:36:40,912
+Paraît qu'il est cata...
+
+516
+00:36:42,600 --> 00:36:43,555
+Catatonique.
+
+517
+00:36:45,080 --> 00:36:46,957
+Il se sent pas très bien.
+
+518
+00:36:49,120 --> 00:36:52,908
+Du nerf, bande de trembleuses
+ou vous me ferez du rab.
+
+519
+00:36:53,120 --> 00:36:56,271
+Descendez me chercher
+ce cercueil illico !
+
+520
+00:36:56,800 --> 00:36:58,438
+Bien le bonjour, monsieur !
+
+521
+00:37:02,560 --> 00:37:03,595
+N'ayez crainte.
+
+522
+00:37:04,240 --> 00:37:05,389
+Je suis médecin.
+
+523
+00:37:15,520 --> 00:37:17,715
+Il est sous le choc.
+Laissons-le un peu.
+
+524
+00:37:18,680 --> 00:37:21,911
+Ce témoin aurait vu Lord Blackwood
+sortir du tombeau.
+
+525
+00:37:22,920 --> 00:37:23,875
+Alors ?
+
+526
+00:37:25,080 --> 00:37:26,911
+Vous avez constaté la mort.
+
+527
+00:37:27,440 --> 00:37:29,396
+Il n'avait plus de pouls.
+
+528
+00:37:49,640 --> 00:37:50,595
+Seigneur...
+
+529
+00:37:52,800 --> 00:37:54,358
+C'est pas Blackwood.
+
+530
+00:37:56,600 --> 00:37:58,830
+Démonstration magistrale
+de l'évidence.
+
+531
+00:38:03,240 --> 00:38:04,195
+Heure du décès ?
+
+532
+00:38:06,720 --> 00:38:08,551
+Ces diptères font...
+
+533
+00:38:09,840 --> 00:38:10,795
+environ...
+
+534
+00:38:12,280 --> 00:38:13,190
+1,7 cm.
+
+535
+00:38:13,400 --> 00:38:16,358
+La mort remonte donc
+à 10 ou 12 heures.
+
+536
+00:38:17,880 --> 00:38:18,835
+Crayon ?
+
+537
+00:38:24,160 --> 00:38:26,310
+- Le rouquin nain.
+- De petite taille.
+
+538
+00:38:35,840 --> 00:38:37,159
+Je sais ce que j'ai vu.
+
+539
+00:38:39,200 --> 00:38:40,235
+C'était Blackwood !
+
+540
+00:38:41,760 --> 00:38:43,716
+Comme je vous vois.
+
+541
+00:38:45,600 --> 00:38:47,591
+Et quand les morts rôdent...
+
+542
+00:38:49,120 --> 00:38:51,634
+les vivants
+remplissent leurs cercueils.
+
+543
+00:38:59,840 --> 00:39:02,035
+Refermez et nettoyez la parcelle.
+
+544
+00:39:02,280 --> 00:39:04,032
+Le croyez-vous ressuscité ?
+
+545
+00:39:04,240 --> 00:39:07,152
+La question est "Comment ?"
+La partie reprend.
+
+546
+00:39:07,360 --> 00:39:09,715
+Suivez votre ardeur et,
+chargeant, criez :
+
+547
+00:39:09,920 --> 00:39:13,071
+Dieu avec Harry,
+l'Angleterre et saint George !
+
+548
+00:39:16,000 --> 00:39:16,955
+Vous voilà.
+
+549
+00:39:17,440 --> 00:39:19,749
+Pourquoi justement ce fish & chips ?
+
+550
+00:39:19,960 --> 00:39:23,430
+Ils mettent de la bière brune du Nord
+dans leur pâte à frire.
+
+551
+00:39:24,280 --> 00:39:25,235
+Vous savez,
+
+552
+00:39:25,760 --> 00:39:27,716
+j'ai vu des mystères, à la guerre.
+
+553
+00:39:27,920 --> 00:39:30,115
+En Inde,
+un homme prédisant sa mort,
+
+554
+00:39:30,320 --> 00:39:34,154
+le nombre et l'emplacement
+des balles qui l'ont tué.
+
+555
+00:39:35,040 --> 00:39:36,553
+Vous devez avouer
+
+556
+00:39:36,760 --> 00:39:40,275
+qu'une explication surnaturelle
+est ici théoriquement...
+
+557
+00:39:41,040 --> 00:39:41,995
+possible.
+
+558
+00:39:42,400 --> 00:39:43,628
+Entendu. Mais,
+
+559
+00:39:43,840 --> 00:39:46,149
+on s'égare
+à théoriser sans données.
+
+560
+00:39:46,640 --> 00:39:49,200
+On triture les faits
+au nom de la théorie
+
+561
+00:39:49,400 --> 00:39:51,470
+et non la théorie
+au nom des faits.
+
+562
+00:39:51,680 --> 00:39:54,831
+Je n'en pense pas moins
+que le rouquin est notre clé.
+
+563
+00:39:56,960 --> 00:39:59,952
+Bien ! Rayures
+autour du trou du remontoir.
+
+564
+00:40:00,160 --> 00:40:00,910
+Conclusion ?
+
+565
+00:40:01,120 --> 00:40:02,599
+Ce devait être un ivrogne.
+
+566
+00:40:02,800 --> 00:40:06,110
+En remontant sa montre,
+sa main dérapait, d'où les rayures.
+
+567
+00:40:06,320 --> 00:40:10,393
+Très bien. Vous avez acquis
+un grand don de déduction, vous aussi.
+
+568
+00:40:11,160 --> 00:40:13,549
+Il y a plusieurs initiales gravées...
+
+569
+00:40:13,760 --> 00:40:14,556
+D'usuriers.
+
+570
+00:40:14,760 --> 00:40:18,036
+Excellent.
+Les dernières en date étant MH.
+
+571
+00:40:18,240 --> 00:40:19,639
+MH, initiales de...
+
+572
+00:40:20,320 --> 00:40:21,833
+Maddison & Haig.
+
+573
+00:40:25,920 --> 00:40:27,911
+Ils devraient avoir une adresse.
+
+574
+00:40:31,920 --> 00:40:32,909
+Quelle coïncidence.
+
+575
+00:40:34,520 --> 00:40:37,159
+Vous n'avez su déduire
+une chose de la montre.
+
+576
+00:40:37,360 --> 00:40:38,270
+J'en doute !
+
+577
+00:40:38,480 --> 00:40:39,390
+L'heure.
+
+578
+00:40:39,600 --> 00:40:41,352
+Je dois rentrer...
+
+579
+00:40:41,840 --> 00:40:43,796
+prendre le thé
+avec les beaux-parents.
+
+580
+00:40:44,000 --> 00:40:44,910
+La bonne aventure ?
+
+581
+00:40:45,120 --> 00:40:47,156
+- Hors de question !
+- Non, merci.
+
+582
+00:40:47,400 --> 00:40:48,549
+J'ai à vous parler !
+
+583
+00:40:48,760 --> 00:40:50,990
+Gardez vos amulettes, gitane.
+
+584
+00:40:51,240 --> 00:40:52,992
+Et si c'est rapport à Mary ?
+
+585
+00:40:59,640 --> 00:41:01,392
+Je vois deux messieurs.
+
+586
+00:41:01,600 --> 00:41:02,635
+Frères.
+
+587
+00:41:02,840 --> 00:41:04,398
+Non de sang, mais d'adoption.
+
+588
+00:41:08,480 --> 00:41:09,435
+Et Mary ?
+
+589
+00:41:09,720 --> 00:41:11,915
+M comme Mary, comme mariage.
+
+590
+00:41:12,320 --> 00:41:13,389
+Vous vous mariez.
+
+591
+00:41:14,200 --> 00:41:15,155
+Continuez.
+
+592
+00:41:15,920 --> 00:41:18,070
+Je vois des nappes fantaisie...
+
+593
+00:41:19,560 --> 00:41:21,198
+des figurines en porcelaine...
+
+594
+00:41:21,680 --> 00:41:23,238
+des napperons en dentelle !
+
+595
+00:41:24,080 --> 00:41:24,910
+Des napperons.
+
+596
+00:41:25,120 --> 00:41:26,075
+Des napperons
+
+597
+00:41:26,480 --> 00:41:28,072
+en dentelle. Holmes...
+
+598
+00:41:28,960 --> 00:41:31,633
+Votre perversion
+n'a donc aucune limite ?
+
+599
+00:41:32,600 --> 00:41:33,635
+Elle engraisse,
+
+600
+00:41:34,360 --> 00:41:35,554
+elle a de la barbe...
+
+601
+00:41:35,760 --> 00:41:36,431
+Des verrues ?
+
+602
+00:41:36,640 --> 00:41:37,789
+Couverte de verrues !
+
+603
+00:41:38,000 --> 00:41:39,558
+- Assez !
+- Bien charnues ?
+
+604
+00:41:39,760 --> 00:41:40,715
+Pitié, assez !
+
+605
+00:41:42,880 --> 00:41:45,713
+Prédiction pertinente de Flora,
+s'il en est.
+
+606
+00:41:47,120 --> 00:41:48,678
+D'où la bague introuvable.
+
+607
+00:41:49,520 --> 00:41:50,270
+Mon argent !
+
+608
+00:41:50,480 --> 00:41:52,869
+Vivre sans frisson macabre
+vous effraie.
+
+609
+00:41:53,080 --> 00:41:54,149
+Mes gains.
+
+610
+00:41:54,360 --> 00:41:55,076
+Avouez.
+
+611
+00:41:55,280 --> 00:41:56,599
+- Mon argent !
+- Avouez !
+
+612
+00:41:59,040 --> 00:42:01,076
+Bagues de fiançailles
+pour toutes les bourses
+
+613
+00:42:10,080 --> 00:42:13,516
+Vous avez la bague et moi
+l'adresse du rouquin de petite taille.
+
+614
+00:42:13,720 --> 00:42:14,550
+Ce doit être là.
+
+615
+00:42:14,760 --> 00:42:16,512
+Elle en sera ravie, je crois.
+
+616
+00:42:17,360 --> 00:42:20,238
+Et... j'ai quelque monnaie en poche.
+
+617
+00:42:24,640 --> 00:42:26,358
+M'en confiez-vous la garde ?
+
+618
+00:42:28,320 --> 00:42:29,719
+Ne la gaspillez pas ici.
+
+619
+00:42:30,400 --> 00:42:31,913
+Je dois aller voir Mary.
+
+620
+00:42:32,520 --> 00:42:34,033
+Faites-lui mes amitiés.
+
+621
+00:42:35,160 --> 00:42:36,593
+Sans oublier sa famille.
+
+622
+00:43:15,360 --> 00:43:17,237
+Cela fait toute la différence,
+
+623
+00:43:17,440 --> 00:43:20,034
+quelqu'un sur qui compter
+en toute occasion.
+
+624
+00:43:20,560 --> 00:43:23,120
+Comptez sur moi
+10 minutes exactement.
+
+625
+00:43:25,720 --> 00:43:27,756
+Il se sentait clairement menacé.
+
+626
+00:43:28,720 --> 00:43:29,869
+À juste titre.
+
+627
+00:43:30,960 --> 00:43:32,598
+Irene Adler est venue ici.
+
+628
+00:43:32,800 --> 00:43:36,713
+Ou alors le rouquin de petite taille
+avait le même parfum parisien.
+
+629
+00:43:40,640 --> 00:43:41,675
+Putréfaction !
+
+630
+00:43:46,240 --> 00:43:49,710
+Sulfate d'ammonium,
+entre autres arômes.
+
+631
+00:43:53,720 --> 00:43:55,073
+Phosphore...
+
+632
+00:43:56,120 --> 00:43:57,075
+formol.
+
+633
+00:44:09,120 --> 00:44:10,075
+On dirait...
+
+634
+00:44:12,000 --> 00:44:14,036
+qu'il tentait de combiner
+
+635
+00:44:14,280 --> 00:44:17,477
+un genre de sortilège
+et une formule scientifique.
+
+636
+00:44:25,120 --> 00:44:26,678
+Chose plus importante,
+
+637
+00:44:27,520 --> 00:44:29,397
+voyons ce qu'il voulait détruire.
+
+638
+00:44:31,200 --> 00:44:32,428
+Potassium, magnésium.
+
+639
+00:44:32,640 --> 00:44:33,595
+Acide sultaphytique.
+
+640
+00:44:34,000 --> 00:44:35,638
+Le fer de l'encre ressortira,
+
+641
+00:44:35,840 --> 00:44:37,671
+si elle n'a pas trop brûlé.
+
+642
+00:44:52,200 --> 00:44:53,235
+Curieux.
+
+643
+00:44:55,640 --> 00:44:57,039
+Rhododendron séché.
+
+644
+00:45:24,160 --> 00:45:25,388
+Ces armoiries.
+
+645
+00:45:26,800 --> 00:45:28,279
+Reordan travaillait avec Blackwood.
+
+646
+00:45:28,760 --> 00:45:29,988
+Bien entendu.
+
+647
+00:45:30,400 --> 00:45:32,516
+La question, c'est... à quelle fin ?
+
+648
+00:45:36,160 --> 00:45:37,878
+Quel qu'ait été son but,
+
+649
+00:45:38,080 --> 00:45:39,638
+il a clairement réussi.
+
+650
+00:45:39,840 --> 00:45:40,795
+Comment cela ?
+
+651
+00:45:41,240 --> 00:45:43,310
+Autrement,
+il serait encore en vie.
+
+652
+00:45:43,520 --> 00:45:46,159
+Voilà pourquoi
+Mlle Adler tient à le trouver.
+
+653
+00:45:47,720 --> 00:45:50,188
+Une odeur continue à m'échapper.
+
+654
+00:45:50,720 --> 00:45:52,756
+Barbe à papa ? Mélasse ?
+
+655
+00:45:53,240 --> 00:45:54,275
+Sirop d'érable ?
+
+656
+00:45:54,680 --> 00:45:55,635
+Sucre d'orge !
+
+657
+00:45:55,840 --> 00:45:57,239
+Pomme d'amour.
+
+658
+00:46:02,840 --> 00:46:04,114
+J'ose une supposition.
+
+659
+00:46:04,320 --> 00:46:05,878
+Votre panoplie de pyromane
+
+660
+00:46:06,720 --> 00:46:09,871
+doit servir à brûler l'édifice
+et noyer toute preuve.
+
+661
+00:46:10,840 --> 00:46:12,319
+Une minute, les petiots.
+
+662
+00:46:13,520 --> 00:46:14,555
+Dredger ?
+
+663
+00:46:33,680 --> 00:46:34,669
+Bœuf
+
+664
+00:46:35,160 --> 00:46:36,275
+ou agneaux ?
+
+665
+00:46:36,960 --> 00:46:37,995
+Mes 10 min ont expiré.
+
+666
+00:47:30,200 --> 00:47:31,155
+Ça va ?
+
+667
+00:48:45,920 --> 00:48:46,875
+Qu'est-ce ?
+
+668
+00:52:06,800 --> 00:52:07,994
+Holmes !
+
+669
+00:52:59,680 --> 00:53:00,715
+Watson...
+
+670
+00:53:01,560 --> 00:53:03,471
+qu'avez-vous fait ?
+
+671
+00:53:14,200 --> 00:53:15,315
+De toute la nuit,
+
+672
+00:53:16,200 --> 00:53:17,599
+je n'ai fermé l'œil.
+
+673
+00:53:19,400 --> 00:53:21,277
+Comment ai-je pu croire
+
+674
+00:53:21,960 --> 00:53:25,396
+que je pourrais prendre le thé
+avec les parents de Mary ?
+
+675
+00:53:25,600 --> 00:53:28,433
+Cela me dépasse
+que vous m'ayez traîné avec vous.
+
+676
+00:53:28,640 --> 00:53:29,709
+On nous a piégés.
+
+677
+00:53:29,920 --> 00:53:31,273
+J'ai relu mes notes
+
+678
+00:53:31,480 --> 00:53:35,155
+sur nos exploits des sept derniers mois.
+Je vous dis ma conclusion ?
+
+679
+00:53:36,320 --> 00:53:38,231
+J'ai une psychologie instable.
+
+680
+00:53:38,480 --> 00:53:39,276
+Comment ça ?
+
+681
+00:53:39,480 --> 00:53:43,314
+Pourquoi me laisser sans cesse
+embarquer dans des situations
+
+682
+00:53:43,520 --> 00:53:44,953
+où vous faites tout
+
+683
+00:53:45,200 --> 00:53:46,997
+pour me cacher vos plans ?
+
+684
+00:53:47,200 --> 00:53:48,155
+Pourquoi ?
+
+685
+00:53:48,800 --> 00:53:51,792
+Vous ne vous étiez jamais plaint
+de mes méthodes.
+
+686
+00:53:52,000 --> 00:53:52,876
+Je ne me plains pas.
+
+687
+00:53:53,080 --> 00:53:54,149
+C'était quoi, ça ?
+
+688
+00:53:54,880 --> 00:53:55,949
+Moi, me plaindre ?
+
+689
+00:53:56,160 --> 00:53:59,072
+Me plains-je
+que vous violoniez à 3 h du matin ?
+
+690
+00:53:59,400 --> 00:54:00,435
+De votre désordre,
+
+691
+00:54:00,640 --> 00:54:03,279
+manque d'hygiène ?
+Que vous voliez mes habits ?
+
+692
+00:54:03,680 --> 00:54:04,590
+Nous troquons.
+
+693
+00:54:04,800 --> 00:54:06,995
+Que vous ayez incendié mon logis ?
+
+694
+00:54:07,200 --> 00:54:07,950
+Notre logis.
+
+695
+00:54:08,160 --> 00:54:10,799
+Le logis. Que vous expérimentiez
+sur mon chien ?
+
+696
+00:54:11,000 --> 00:54:12,274
+- Notre chien.
+- Le chien.
+
+697
+00:54:12,480 --> 00:54:13,674
+C'est notre chien !
+
+698
+00:54:13,880 --> 00:54:16,553
+Ce qui ne passe pas,
+c'est votre campagne
+
+699
+00:54:16,760 --> 00:54:18,671
+visant à torpiller mon couple.
+
+700
+00:54:26,200 --> 00:54:27,155
+Je comprends.
+
+701
+00:54:27,560 --> 00:54:28,754
+- Vraiment ?
+- Oui.
+
+702
+00:54:30,400 --> 00:54:31,150
+J'en doute.
+
+703
+00:54:31,360 --> 00:54:32,315
+Vous êtes épuisé.
+
+704
+00:54:33,800 --> 00:54:34,755
+Un peu crispé.
+
+705
+00:54:35,000 --> 00:54:35,955
+Du tout.
+
+706
+00:54:36,160 --> 00:54:37,991
+Il vous faut du repos.
+
+707
+00:54:38,560 --> 00:54:41,074
+Mon frère Mycroft
+a un manoir vers Chichester.
+
+708
+00:54:41,280 --> 00:54:43,635
+Superbe parc agrémenté d'une folie.
+
+709
+00:54:43,840 --> 00:54:45,353
+Nous ferions des grillades.
+
+710
+00:54:45,560 --> 00:54:49,109
+Nous ? Si j'allais à la campagne,
+ce serait avec ma future.
+
+711
+00:54:49,320 --> 00:54:51,356
+- S'il le faut, nous...
+- Sans vous.
+
+712
+00:54:51,560 --> 00:54:53,551
+Mary et moi.
+Vous n'êtes pas...
+
+713
+00:54:53,760 --> 00:54:54,510
+Invité ?
+
+714
+00:54:54,720 --> 00:54:56,950
+Je ne serais pas invité
+chez mon frère ?
+
+715
+00:54:57,200 --> 00:54:58,474
+Vous déraisonnez !
+
+716
+00:54:58,680 --> 00:54:59,635
+Vous êtes inhumain !
+
+717
+00:55:00,000 --> 00:55:01,069
+John Watson ?
+
+718
+00:55:03,840 --> 00:55:05,398
+Votre caution a été payée.
+
+719
+00:55:11,200 --> 00:55:12,155
+Mary...
+
+720
+00:55:16,040 --> 00:55:17,359
+Juste Watson.
+
+721
+00:55:24,960 --> 00:55:28,430
+Tâche de sortir avant le petit-déj.
+Les gars ont faim.
+
+722
+00:55:38,480 --> 00:55:39,799
+Laissez passer !
+
+723
+00:55:40,640 --> 00:55:43,950
+Alors, le ramoneur :
+"Je vous astique le conduit arrière ?"
+
+724
+00:55:46,680 --> 00:55:47,749
+Allez, dehors.
+
+725
+00:55:49,080 --> 00:55:50,479
+À la revoyure, Big Joe.
+
+726
+00:55:50,680 --> 00:55:52,398
+Toujours un plaisir, M. Holmes.
+
+727
+00:55:54,040 --> 00:55:56,429
+Dieu soit loué.
+J'allais manquer de blagues.
+
+728
+00:55:56,640 --> 00:55:58,392
+Vous auriez tout du criminel.
+
+729
+00:55:58,640 --> 00:55:59,959
+Et vous du policier.
+
+730
+00:56:00,160 --> 00:56:01,479
+Tomski, merci !
+
+731
+00:56:03,200 --> 00:56:05,350
+Pitié,
+dites-moi que vous avancez.
+
+732
+00:56:05,600 --> 00:56:07,272
+Chaque chose en son temps.
+
+733
+00:56:07,480 --> 00:56:10,677
+Chaque chose en son temps ?
+On joue aux devinettes ?
+
+734
+00:56:11,200 --> 00:56:12,758
+J'ai la rue qui s'affole.
+
+735
+00:56:12,960 --> 00:56:16,748
+Tuyautez-moi ou retournez là-dedans
+jouer à Victoria et Albert !
+
+736
+00:56:18,320 --> 00:56:20,788
+Débarbouillez-vous
+pour être présentable.
+
+737
+00:56:21,440 --> 00:56:22,509
+Devant qui ?
+
+738
+00:56:22,720 --> 00:56:23,948
+Des amis haut placés.
+
+739
+00:56:24,160 --> 00:56:25,832
+Qui ont payé votre caution.
+
+740
+00:56:36,640 --> 00:56:39,438
+Vraiment navré de vous incommoder.
+
+741
+00:56:39,960 --> 00:56:41,871
+Mais je dois vous couvrir de ceci.
+
+742
+00:56:46,040 --> 00:56:47,155
+M. Holmes,
+
+743
+00:56:47,360 --> 00:56:49,828
+pardon de vous convoquer
+de la sorte.
+
+744
+00:56:50,280 --> 00:56:53,078
+Déconcerté
+quant à ces lieux et mon identité ?
+
+745
+00:56:54,120 --> 00:56:55,235
+Quant à ces lieux...
+
+746
+00:56:56,040 --> 00:56:59,316
+<i>j'avoue avoir été perdu
+entre Charing Cross et Holborn,</i>
+
+747
+00:56:59,520 --> 00:57:00,350
+mais sauvé
+
+748
+00:57:00,560 --> 00:57:02,630
+<i>par le boulanger de Saffron Hill.</i>
+
+749
+00:57:02,840 --> 00:57:04,273
+<i>Le seul à utiliser un...</i>
+
+750
+00:57:04,480 --> 00:57:07,438
+<i>certain glaçage français
+à base de sauge bretonne.</i>
+
+751
+00:57:07,640 --> 00:57:09,198
+Virage à gauche, à droite.
+
+752
+00:57:09,400 --> 00:57:12,119
+<i>Secousse révélatrice
+sur le canal de Fleet.</i>
+
+753
+00:57:12,320 --> 00:57:16,279
+Quant à votre identité,
+elle a mobilisé ma vaste expérience.
+
+754
+00:57:16,480 --> 00:57:19,472
+Vos lettres sont adressées
+à Sir Thomas Rotheram.
+
+755
+00:57:19,680 --> 00:57:21,910
+Président de la Haute Cour,
+titre officiel.
+
+756
+00:57:22,160 --> 00:57:25,596
+Votre véritable identité
+est une autre paire de manches.
+
+757
+00:57:26,240 --> 00:57:28,117
+Votre bague frappée d'un bœuf
+
+758
+00:57:28,320 --> 00:57:31,278
+fait de vous le Maître
+du Temple des Quatre Ordres,
+
+759
+00:57:31,480 --> 00:57:32,435
+où nous sommes.
+
+760
+00:57:32,640 --> 00:57:35,791
+Au nord-ouest de la place St-James,
+ce me semble.
+
+761
+00:57:36,000 --> 00:57:39,993
+Si je suis déconcerté,
+c'est que vous ayez tenu à m'encagouler.
+
+762
+00:57:43,680 --> 00:57:46,194
+Procédure habituelle, disons.
+
+763
+00:57:48,120 --> 00:57:50,873
+Nous tenons l'homme de la situation,
+messieurs.
+
+764
+00:57:51,080 --> 00:57:54,993
+L'ambassadeur américain Standish.
+Lord Coward, ministre de l'Intérieur.
+
+765
+00:57:55,680 --> 00:57:59,309
+Vous devez avoir des notions
+des pratiques de notre Ordre.
+
+766
+00:58:02,040 --> 00:58:03,314
+Elles sont...
+
+767
+00:58:03,680 --> 00:58:05,193
+pratiquement intéressantes.
+
+768
+00:58:05,400 --> 00:58:09,029
+Sceptique ? Nos systèmes secrets
+font le bien depuis des siècles.
+
+769
+00:58:09,600 --> 00:58:13,070
+Hélas, on peut aussi les utiliser
+à des fins plus viles.
+
+770
+00:58:13,280 --> 00:58:14,554
+Sciences occultes
+
+771
+00:58:14,760 --> 00:58:15,875
+ou pratiques magiques.
+
+772
+00:58:16,160 --> 00:58:19,436
+Nous savons
+que vous ne croyez pas à la magie.
+
+773
+00:58:19,680 --> 00:58:22,069
+Nous ne vous prêchons pas notre foi,
+
+774
+00:58:22,280 --> 00:58:23,633
+simplement nos craintes.
+
+775
+00:58:23,840 --> 00:58:26,035
+La crainte
+est un mal fort contagieux.
+
+776
+00:58:26,560 --> 00:58:27,959
+Et il s'agit ici...
+
+777
+00:58:30,560 --> 00:58:31,709
+de craindre son fils.
+
+778
+00:58:35,360 --> 00:58:36,429
+Blackwood est le vôtre.
+
+779
+00:58:37,280 --> 00:58:40,477
+Vous avez le même iris
+d'un vert foncé rare,
+
+780
+00:58:40,680 --> 00:58:42,398
+moucheté de losanges noisette.
+
+781
+00:58:42,680 --> 00:58:44,591
+La même oreille externe
+ou pavillon,
+
+782
+00:58:44,800 --> 00:58:48,076
+preuve de lien sanguin direct
+faisant de vous des frères
+
+783
+00:58:48,280 --> 00:58:49,998
+ou, en l'occurrence,
+
+784
+00:58:50,200 --> 00:58:51,474
+le père et le fils.
+
+785
+00:58:56,720 --> 00:58:59,314
+Très peu de gens
+sont dans le secret.
+
+786
+00:58:59,800 --> 00:59:01,472
+Il doit en demeurer ainsi.
+
+787
+00:59:06,240 --> 00:59:09,676
+Il fut conçu lors d'un rite.
+Sa mère n'était pas ma femme.
+
+788
+00:59:10,280 --> 00:59:11,952
+Mais elle était des nôtres.
+
+789
+00:59:12,160 --> 00:59:14,196
+Très puissante comme praticienne,
+
+790
+00:59:14,400 --> 00:59:16,914
+elle n'a pas survécu
+à l'accouchement.
+
+791
+00:59:19,000 --> 00:59:21,275
+La mort le suivait partout.
+
+792
+00:59:21,480 --> 00:59:23,471
+Ces filles n'étaient pas
+les premières.
+
+793
+00:59:23,680 --> 00:59:26,433
+Il en a tué bien plus
+pour accroître ses pouvoirs.
+
+794
+00:59:27,040 --> 00:59:29,429
+Nul n'a rien pu prouver,
+mais nous savions.
+
+795
+00:59:31,280 --> 00:59:32,713
+Ce garçon est un fléau.
+
+796
+00:59:33,120 --> 00:59:35,634
+Nous avons tâché de l'arrêter, en vain.
+
+797
+00:59:35,840 --> 00:59:37,114
+Ses pouvoirs croissent.
+
+798
+00:59:37,600 --> 00:59:39,318
+Sa résurrection le prouve.
+
+799
+00:59:39,960 --> 00:59:41,871
+Ce qu'il prépare est bien pire.
+
+800
+00:59:42,240 --> 00:59:44,435
+Son secret vient
+du Livre des Sortilèges.
+
+801
+00:59:44,640 --> 00:59:46,358
+Il en tire ses pouvoirs.
+
+802
+00:59:47,000 --> 00:59:49,878
+Il va libérer des forces
+qui renverseront tout.
+
+803
+00:59:50,080 --> 00:59:51,877
+Il faut l'arrêter à temps.
+
+804
+00:59:53,480 --> 00:59:55,755
+Vous aurez toute notre assistance.
+
+805
+00:59:57,560 --> 01:00:00,996
+Ministre de l'Intérieur,
+j'ai la mainmise sur la police.
+
+806
+01:00:03,840 --> 01:00:04,795
+Alors...
+
+807
+01:00:07,080 --> 01:00:08,035
+votre prix ?
+
+808
+01:00:08,760 --> 01:00:12,753
+Détective conseil,
+je puis être regardant sur mes clients.
+
+809
+01:00:13,600 --> 01:00:15,318
+Marché conclu, je l'arrêterai.
+
+810
+01:00:16,960 --> 01:00:17,915
+Pas pour vous.
+
+811
+01:00:19,080 --> 01:00:20,672
+Encore moins pour l'argent.
+
+812
+01:00:23,960 --> 01:00:26,155
+J'ai une ultime question,
+Sir Thomas.
+
+813
+01:00:26,600 --> 01:00:27,476
+Dites.
+
+814
+01:00:27,680 --> 01:00:31,036
+S'il est sans famille,
+comptez-vous vivre longtemps ?
+
+815
+01:00:32,480 --> 01:00:33,435
+À méditer !
+
+816
+01:00:57,600 --> 01:01:00,273
+Peut-être saurez-vous mieux
+ouvrir ceci.
+
+817
+01:01:01,440 --> 01:01:02,839
+Margaux 58.
+
+818
+01:01:03,040 --> 01:01:04,268
+Cuvée de la comète.
+
+819
+01:01:05,000 --> 01:01:08,754
+Fascinant qu'un phénomène
+astronomique affecte la qualité...
+
+820
+01:01:08,960 --> 01:01:11,315
+Où en est l'enquête
+que vous dédaignez ?
+
+821
+01:01:11,520 --> 01:01:12,589
+... d'un vin.
+
+822
+01:01:14,400 --> 01:01:16,630
+La piste s'est refroidie.
+Littéralement.
+
+823
+01:01:18,200 --> 01:01:19,633
+J'ai trouvé votre homme.
+
+824
+01:01:19,840 --> 01:01:21,910
+Enterré dans la tombe de Blackwood.
+
+825
+01:01:22,920 --> 01:01:24,273
+S'il peut encore servir.
+
+826
+01:01:26,240 --> 01:01:27,514
+Ciel...
+
+827
+01:01:29,840 --> 01:01:32,752
+J'espère que mon client
+ne voudra pas être remboursé.
+
+828
+01:01:32,960 --> 01:01:34,188
+Il est professeur ?
+
+829
+01:01:34,400 --> 01:01:37,073
+<i>À défaut du visage,
+j'ai vu de la craie sur lui.</i>
+
+830
+01:01:37,760 --> 01:01:41,389
+Jamais vu de professeur
+cachant une arme si ingénieusement.
+
+831
+01:01:45,440 --> 01:01:46,509
+L'œil de pirate.
+
+832
+01:01:46,720 --> 01:01:47,675
+Une trouvaille.
+
+833
+01:01:48,760 --> 01:01:49,556
+Donc...
+
+834
+01:01:49,760 --> 01:01:51,193
+affaire classée.
+
+835
+01:01:51,440 --> 01:01:54,034
+Ce qui fait de ceci
+une visite de "courtoisie".
+
+836
+01:01:54,360 --> 01:01:56,476
+De "vous n'êtes pas à la hauteur".
+
+837
+01:01:57,320 --> 01:01:59,276
+On a tué le gênant Reordan.
+
+838
+01:01:59,480 --> 01:02:01,869
+Vous êtes le dernier fil qui dépasse.
+
+839
+01:02:03,920 --> 01:02:04,875
+Aérez-le.
+
+840
+01:02:06,560 --> 01:02:08,391
+J'ai toujours été à la hauteur.
+
+841
+01:02:08,600 --> 01:02:10,113
+Partez vite, disparaissez.
+
+842
+01:02:10,560 --> 01:02:11,834
+Cela vous connaît.
+
+843
+01:02:12,280 --> 01:02:13,349
+Ou restez
+
+844
+01:02:13,720 --> 01:02:15,950
+et livrez-vous
+pour être protégée.
+
+845
+01:02:19,080 --> 01:02:21,640
+Si je suis en danger,
+vous l'êtes aussi.
+
+846
+01:02:26,000 --> 01:02:26,955
+Venez avec moi.
+
+847
+01:02:30,080 --> 01:02:31,638
+Faisons-nous confiance.
+
+848
+01:02:33,600 --> 01:02:34,555
+Écoutez-moi.
+
+849
+01:02:35,720 --> 01:02:37,870
+Je vous mène à la gare centrale
+
+850
+01:02:38,080 --> 01:02:39,752
+ou au commissariat central.
+
+851
+01:02:50,480 --> 01:02:51,469
+Alors...
+
+852
+01:02:55,520 --> 01:02:56,475
+qu'en est-il ?
+
+853
+01:02:58,680 --> 01:02:59,635
+Décidez.
+
+854
+01:03:00,680 --> 01:03:01,635
+Que fait-on ?
+
+855
+01:03:03,240 --> 01:03:04,389
+Il fallait l'aérer.
+
+856
+01:03:05,840 --> 01:03:07,319
+Il a un goût de comète ?
+
+857
+01:03:13,720 --> 01:03:16,598
+Pourquoi était-ce si dur
+de partir avec moi ?
+
+858
+01:03:18,240 --> 01:03:19,229
+Jamais.
+
+859
+01:05:02,280 --> 01:05:06,068
+Madame, restez calme
+et croyez à mon professionnalisme.
+
+860
+01:05:06,280 --> 01:05:08,635
+Ce coussin cache
+la clé de ma délivrance.
+
+861
+01:05:10,080 --> 01:05:12,196
+<i>Bien sûr,
+elle m'a cru malintentionné.</i>
+
+862
+01:05:12,400 --> 01:05:13,196
+<i>Naturellement.</i>
+
+863
+01:05:13,400 --> 01:05:15,834
+Voilà pourquoi
+la piété actuelle me gêne,
+
+864
+01:05:16,040 --> 01:05:17,712
+elle nie les malentendus.
+
+865
+01:05:17,920 --> 01:05:19,353
+La foi avant la raison.
+
+866
+01:05:19,560 --> 01:05:22,279
+Les soubrettes
+étaient jadis si larges d'esprit.
+
+867
+01:05:22,520 --> 01:05:24,158
+Ma femme est soubrette.
+
+868
+01:05:26,600 --> 01:05:27,510
+Ceci étant,
+
+869
+01:05:27,720 --> 01:05:30,393
+son indignation
+a fait qu'on vous a trouvé.
+
+870
+01:05:30,600 --> 01:05:33,751
+L'inspecteur est allé en personne
+à Baker Street, ce matin.
+
+871
+01:05:37,800 --> 01:05:39,677
+Je plaisantais, pour ma femme.
+
+872
+01:05:44,080 --> 01:05:46,753
+On a tout examiné.
+Pas d'effraction,
+
+873
+01:05:46,960 --> 01:05:49,349
+le majordome n'a rien entendu. Donc...
+
+874
+01:05:49,560 --> 01:05:52,393
+corps dans la baignoire,
+yeux grands ouverts.
+
+875
+01:05:52,600 --> 01:05:55,068
+Et l'unique objet manquant est...
+
+876
+01:05:55,960 --> 01:05:57,791
+sa bague.
+
+877
+01:06:13,120 --> 01:06:14,792
+Pourquoi avoir vidé l'eau ?
+
+878
+01:06:15,000 --> 01:06:15,750
+Par décence.
+
+879
+01:06:15,960 --> 01:06:18,269
+Le crime abonde.
+La logique est rare.
+
+880
+01:06:18,480 --> 01:06:21,597
+Il est décent d'arrêter le tueur,
+non de ménager le corps.
+
+881
+01:06:36,400 --> 01:06:37,355
+Qu'est-ce ?
+
+882
+01:06:41,200 --> 01:06:42,110
+Sels au jasmin.
+
+883
+01:06:42,320 --> 01:06:44,880
+Épatant !
+Issus d'une jarre plus grande.
+
+884
+01:06:45,320 --> 01:06:46,753
+Conservée à l'office,
+
+885
+01:06:46,960 --> 01:06:50,475
+en hauteur, au sec,
+ou dans un placard à linge ventilé.
+
+886
+01:06:51,160 --> 01:06:52,878
+Et il ne serait pas vain
+
+887
+01:06:53,080 --> 01:06:56,709
+de chercher sous les fenêtres
+d'autres empreintes que les vôtres.
+
+888
+01:06:56,920 --> 01:06:59,036
+Des indices !
+On n'a rien sans rien.
+
+889
+01:07:55,920 --> 01:07:56,875
+M. Holmes ?
+
+890
+01:08:05,640 --> 01:08:07,835
+Dans le placard ou à l'office ?
+
+891
+01:08:08,040 --> 01:08:09,439
+À l'office.
+
+892
+01:08:10,320 --> 01:08:11,958
+Je ne sais où caser ceci.
+
+893
+01:08:12,160 --> 01:08:13,149
+Excellent travail !
+
+894
+01:08:52,040 --> 01:08:53,473
+Que signifie, Coward ?
+
+895
+01:08:54,080 --> 01:08:55,274
+Pourquoi nous réunir ?
+
+896
+01:08:56,520 --> 01:08:57,635
+Sir Thomas est mort.
+
+897
+01:08:59,840 --> 01:09:02,673
+Je propose que Lord Blackwood
+dirige l'Ordre.
+
+898
+01:09:05,720 --> 01:09:07,312
+Avez-vous perdu la tête ?
+
+899
+01:09:07,720 --> 01:09:09,517
+Vous savez ce dont il est capable.
+
+900
+01:09:09,720 --> 01:09:11,119
+Bien sûr qu'il le sait.
+
+901
+01:09:13,480 --> 01:09:15,232
+Voilà pourquoi nous sommes ici.
+
+902
+01:09:16,560 --> 01:09:17,515
+Tous ici.
+
+903
+01:09:24,120 --> 01:09:27,396
+J'ai reçu pouvoirs et richesse
+dans un seul but.
+
+904
+01:09:27,960 --> 01:09:29,313
+But magnifique
+
+905
+01:09:30,160 --> 01:09:31,878
+et simple à la fois.
+
+906
+01:09:32,920 --> 01:09:34,638
+Forger un avenir nouveau.
+
+907
+01:09:35,560 --> 01:09:36,879
+Un avenir
+
+908
+01:09:37,080 --> 01:09:38,115
+régi
+
+909
+01:09:39,040 --> 01:09:39,995
+par nous.
+
+910
+01:09:43,160 --> 01:09:47,233
+Demain midi, nous ouvrons
+un nouveau chapitre de notre histoire.
+
+911
+01:09:49,080 --> 01:09:50,513
+La magie nous guidera.
+
+912
+01:09:50,720 --> 01:09:52,711
+L'Angleterre, devant nos pouvoirs,
+
+913
+01:09:52,920 --> 01:09:54,717
+se prosternera de peur.
+
+914
+01:09:59,680 --> 01:10:03,275
+Au-delà de l'Atlantique,
+il y a ce qui fut notre colonie.
+
+915
+01:10:03,480 --> 01:10:04,595
+Elle le redeviendra.
+
+916
+01:10:05,640 --> 01:10:07,631
+La guerre de Sécession l'a affaiblie.
+
+917
+01:10:07,840 --> 01:10:09,478
+Son gouvernement est aussi
+
+918
+01:10:09,680 --> 01:10:10,669
+corrompu
+
+919
+01:10:10,880 --> 01:10:12,472
+et inefficace que le nôtre.
+
+920
+01:10:12,920 --> 01:10:14,592
+Alors, nous la reprendrons.
+
+921
+01:10:16,480 --> 01:10:18,277
+Nous allons remanier le monde.
+
+922
+01:10:20,280 --> 01:10:21,235
+Forger l'avenir.
+
+923
+01:10:23,560 --> 01:10:24,515
+Ces messieurs
+
+924
+01:10:24,800 --> 01:10:26,631
+sont avec moi, Standish.
+
+925
+01:10:27,080 --> 01:10:28,035
+Mais...
+
+926
+01:10:28,600 --> 01:10:29,555
+l'êtes-vous ?
+
+927
+01:10:30,560 --> 01:10:31,993
+Non, monsieur.
+
+928
+01:10:32,200 --> 01:10:33,155
+Contre vous.
+
+929
+01:10:34,240 --> 01:10:36,708
+Ces forces que vous manipulez,
+
+930
+01:10:37,160 --> 01:10:38,991
+nul ne peut les contrôler.
+
+931
+01:10:41,200 --> 01:10:42,155
+Bien, messieurs,
+
+932
+01:10:44,320 --> 01:10:47,437
+quelqu'un doit l'arrêter,
+si vous vous y refusez.
+
+933
+01:10:49,720 --> 01:10:51,597
+Je vous le déconseille.
+
+934
+01:10:56,880 --> 01:10:57,949
+Au secours !
+
+935
+01:11:14,200 --> 01:11:15,269
+Messieurs,
+
+936
+01:11:15,960 --> 01:11:17,439
+ne craignez point.
+
+937
+01:11:18,600 --> 01:11:19,999
+Comme vous le voyez,
+
+938
+01:11:21,640 --> 01:11:23,153
+nous sommes protégés.
+
+939
+01:11:24,720 --> 01:11:26,870
+Venez boire en signe d'allégeance.
+
+940
+01:11:33,040 --> 01:11:34,678
+Vous dirigez la police.
+
+941
+01:11:35,080 --> 01:11:36,399
+Servez-vous-en.
+
+942
+01:11:48,200 --> 01:11:49,155
+Vous étiez là ?
+
+943
+01:11:49,520 --> 01:11:52,318
+Cette pièce n'étant plus vôtre,
+puis-je l'utiliser ?
+
+944
+01:11:53,720 --> 01:11:54,675
+Je vous prie.
+
+945
+01:11:56,720 --> 01:11:57,869
+Entrez, mes braves !
+
+946
+01:11:58,120 --> 01:11:59,075
+On le met où ?
+
+947
+01:11:59,280 --> 01:12:00,269
+N'importe.
+
+948
+01:12:11,000 --> 01:12:11,750
+Qui est-ce ?
+
+949
+01:12:11,960 --> 01:12:13,951
+Il a tenté de vous tuer
+chez Reordan.
+
+950
+01:12:14,480 --> 01:12:16,869
+Son cou a rompu
+sous le poids de Dredger.
+
+951
+01:12:19,720 --> 01:12:20,675
+Merci, au fait.
+
+952
+01:12:23,320 --> 01:12:24,753
+Puisons du réconfort
+
+953
+01:12:25,000 --> 01:12:27,639
+dans l'idée
+qu'il sera utile à son prochain.
+
+954
+01:12:31,520 --> 01:12:32,999
+Sang aux manches,
+
+955
+01:12:33,200 --> 01:12:35,509
+plus ancien que ses blessures.
+
+956
+01:12:41,840 --> 01:12:43,239
+Et nullement humain.
+
+957
+01:12:44,600 --> 01:12:45,919
+Il n'est pas boucher...
+
+958
+01:12:55,760 --> 01:12:57,796
+Flamme jaune, irisée de vert.
+
+959
+01:12:58,600 --> 01:12:59,635
+Un ouvrier.
+
+960
+01:13:04,160 --> 01:13:05,115
+Charbon.
+
+961
+01:13:05,520 --> 01:13:06,839
+Limon du fleuve.
+
+962
+01:13:07,040 --> 01:13:09,235
+Son pantalon scoriacé le situe à...
+
+963
+01:13:09,440 --> 01:13:10,395
+Nine Elms.
+
+964
+01:13:12,160 --> 01:13:14,151
+Ce lieu que vous cherchez.
+
+965
+01:13:14,680 --> 01:13:15,635
+Je me demandais.
+
+966
+01:13:16,120 --> 01:13:18,714
+Où est le Registre
+des intérêts des Lords ?
+
+967
+01:13:19,720 --> 01:13:20,675
+Sur l'escabeau.
+
+968
+01:13:31,920 --> 01:13:35,230
+Blackwood touchait
+à presque tout ce qui mine l'esprit.
+
+969
+01:13:35,920 --> 01:13:37,433
+Arsenal de Woolwich,
+
+970
+01:13:37,760 --> 01:13:38,875
+Limehouse Chimie.
+
+971
+01:13:39,080 --> 01:13:40,798
+Usine en bord de fleuve.
+
+972
+01:13:43,000 --> 01:13:43,955
+Rien.
+
+973
+01:13:46,440 --> 01:13:48,510
+Vous avez vu mon ballon de rugby ?
+
+974
+01:13:48,760 --> 01:13:49,749
+Du tout.
+
+975
+01:13:50,240 --> 01:13:52,515
+Abattoirs de Queenshithe.
+
+976
+01:13:53,000 --> 01:13:53,955
+Nine Elms.
+
+977
+01:13:54,960 --> 01:13:56,313
+Usine en bord de fleuve.
+
+978
+01:13:57,000 --> 01:13:59,594
+Bravo. À nous Blackwood,
+mort ou vif.
+
+979
+01:14:00,160 --> 01:14:01,115
+Pas nous.
+
+980
+01:14:03,520 --> 01:14:04,475
+Vous.
+
+981
+01:14:08,200 --> 01:14:09,838
+Façon de parler, mon vieux.
+
+982
+01:14:18,760 --> 01:14:19,715
+Fait exprès.
+
+983
+01:14:40,440 --> 01:14:42,158
+Encore du charbon, docteur !
+
+984
+01:14:50,880 --> 01:14:52,632
+Je vois que ça trime, ici.
+
+985
+01:14:53,320 --> 01:14:55,311
+On ne devait pas être discrets ?
+
+986
+01:14:55,760 --> 01:14:58,877
+Vous tiendriez pas un jour,
+dans la marine.
+
+987
+01:15:01,520 --> 01:15:05,229
+N'y a-t-il d'autre moyen
+de transport fluvial que ça ?
+
+988
+01:15:05,440 --> 01:15:08,830
+Nul ne connaît mieux
+les voies navigables de Londres.
+
+989
+01:15:09,200 --> 01:15:11,156
+Tanner est un poisson dans l'eau !
+
+990
+01:15:11,360 --> 01:15:12,315
+L'eau-de-vie.
+
+991
+01:15:12,520 --> 01:15:14,511
+On a le sens de l'humour, docteur.
+
+992
+01:15:14,720 --> 01:15:16,836
+Seulement le sens, hélas.
+
+993
+01:15:17,480 --> 01:15:18,913
+Je reprends la barre.
+
+994
+01:15:19,120 --> 01:15:21,031
+C'est traître, dans les parages.
+
+995
+01:15:58,000 --> 01:15:59,149
+Terrain familier ?
+
+996
+01:15:59,640 --> 01:16:01,995
+Ne manque
+qu'un rouquin de petite taille.
+
+997
+01:16:13,920 --> 01:16:15,353
+On a enlevé un objet d'ici,
+
+998
+01:16:15,560 --> 01:16:16,390
+il y a peu.
+
+999
+01:16:16,600 --> 01:16:17,749
+Mais quoi ?
+
+1000
+01:16:18,400 --> 01:16:20,675
+Je me demande.
+Un objet mécanique.
+
+1001
+01:16:23,760 --> 01:16:24,715
+Venez voir !
+
+1002
+01:16:48,360 --> 01:16:49,110
+1:18.
+
+1003
+01:16:49,320 --> 01:16:51,595
+Chapitre 1, verset 18, Apocalypse.
+
+1004
+01:16:51,800 --> 01:16:53,711
+"Je suis le vivant, j'étais mort."
+
+1005
+01:16:54,440 --> 01:16:56,954
+"Vivant pour les siècles des siècles."
+
+1006
+01:16:58,560 --> 01:17:01,757
+Je vous l'avais dit
+que vous ne maîtriseriez rien,
+
+1007
+01:17:01,960 --> 01:17:03,393
+que votre esprit rationnel
+
+1008
+01:17:03,600 --> 01:17:04,715
+s'y perdrait.
+
+1009
+01:17:06,320 --> 01:17:07,719
+Votre trépas est trépidant.
+
+1010
+01:17:08,240 --> 01:17:09,992
+Je vous veux comme témoin.
+
+1011
+01:17:10,680 --> 01:17:11,715
+Demain midi,
+
+1012
+01:17:12,520 --> 01:17:13,714
+votre monde
+
+1013
+01:17:14,160 --> 01:17:14,910
+finira.
+
+1014
+01:17:15,120 --> 01:17:17,395
+Montrez-vous
+et j'achève votre monde.
+
+1015
+01:17:17,600 --> 01:17:19,079
+Économisez vos balles.
+
+1016
+01:17:20,120 --> 01:17:21,075
+J'ai un cadeau.
+
+1017
+01:17:26,240 --> 01:17:27,639
+C'est ça, économiser ?
+
+1018
+01:17:34,680 --> 01:17:36,557
+Elle vous a suivi, Holmes !
+
+1019
+01:17:38,520 --> 01:17:41,273
+Vous avez mené
+votre agneau à l'abattoir.
+
+1020
+01:17:47,000 --> 01:17:48,035
+Jeu risqué.
+
+1021
+01:17:59,880 --> 01:18:00,835
+Watson !
+
+1022
+01:18:05,360 --> 01:18:06,395
+Ça chauffe !
+
+1023
+01:18:13,440 --> 01:18:14,873
+À la hauteur, chérie ?
+
+1024
+01:18:22,680 --> 01:18:24,079
+- Tenez bon !
+- Je peux plus !
+
+1025
+01:18:24,280 --> 01:18:25,235
+Je vous porte.
+
+1026
+01:18:27,120 --> 01:18:28,394
+Courte échelle.
+
+1027
+01:18:31,160 --> 01:18:32,718
+Satanés verrous allemands.
+
+1028
+01:18:38,280 --> 01:18:39,235
+Scie à ruban.
+
+1029
+01:18:43,080 --> 01:18:44,115
+On a tout le temps.
+
+1030
+01:18:55,680 --> 01:18:57,033
+- Ça marche pas !
+- Du calme.
+
+1031
+01:19:06,440 --> 01:19:07,395
+Vite !
+
+1032
+01:19:14,400 --> 01:19:15,355
+Pas d'excitation.
+
+1033
+01:19:16,160 --> 01:19:17,115
+Fermez la vanne !
+
+1034
+01:19:41,200 --> 01:19:42,315
+On va tirer. 3...
+
+1035
+01:19:57,920 --> 01:19:59,319
+Je cours après Blackwood.
+
+1036
+01:20:10,760 --> 01:20:11,636
+Nous devrions
+
+1037
+01:20:11,840 --> 01:20:13,068
+aider le docteur.
+
+1038
+01:22:12,600 --> 01:22:15,717
+Nous avons reçu l'ordre
+de vous arrêter.
+
+1039
+01:22:20,080 --> 01:22:20,990
+Monsieur !
+
+1040
+01:22:21,200 --> 01:22:24,351
+Lord Coward a délivré
+un mandat d'arrêt contre vous.
+
+1041
+01:22:26,120 --> 01:22:27,394
+Watson est vivant.
+
+1042
+01:22:27,600 --> 01:22:29,272
+Ne restez pas là !
+
+1043
+01:22:45,880 --> 01:22:47,791
+Le train partira à l'heure ?
+
+1044
+01:22:48,000 --> 01:22:49,718
+Il a un peu de retard.
+
+1045
+01:22:50,200 --> 01:22:51,838
+Mais il ne devrait plus tarder.
+
+1046
+01:23:07,880 --> 01:23:10,872
+Le train partira
+quand je le lui dirai.
+
+1047
+01:23:12,760 --> 01:23:15,832
+Et vous quitterez mes services
+quand je le permettrai.
+
+1048
+01:23:20,200 --> 01:23:22,077
+J'ai honoré mon contrat.
+
+1049
+01:23:22,600 --> 01:23:23,669
+Trouvé Reordan.
+
+1050
+01:23:23,880 --> 01:23:25,916
+Il est à la morgue de Scotland Yard.
+
+1051
+01:23:26,440 --> 01:23:27,839
+Pour moi, c'est fini.
+
+1052
+01:23:28,040 --> 01:23:31,794
+Vous deviez manipuler
+les sentiments de Holmes à votre égard,
+
+1053
+01:23:32,000 --> 01:23:33,353
+non y succomber.
+
+1054
+01:23:36,360 --> 01:23:37,873
+Vous n'avez rien honoré.
+
+1055
+01:23:38,080 --> 01:23:40,640
+Je veux ce que Reordan
+faisait pour Blackwood.
+
+1056
+01:23:41,320 --> 01:23:42,719
+Finissez votre travail
+
+1057
+01:23:42,920 --> 01:23:44,638
+ou le prochain cadavre
+
+1058
+01:23:44,840 --> 01:23:46,717
+sera celui de Sherlock Holmes.
+
+1059
+01:24:13,040 --> 01:24:14,075
+Le chirurgien arrive.
+
+1060
+01:24:19,560 --> 01:24:21,278
+Il va se reposer, à présent.
+
+1061
+01:24:29,920 --> 01:24:31,478
+Ne pouvez-vous faire mieux ?
+
+1062
+01:24:31,760 --> 01:24:33,079
+Pour l'instant.
+
+1063
+01:24:33,800 --> 01:24:35,552
+Mes autres patients m'attendent.
+
+1064
+01:24:37,600 --> 01:24:38,635
+Docteur ?
+
+1065
+01:24:46,600 --> 01:24:49,239
+Je sais que vous tenez à lui
+autant que moi.
+
+1066
+01:24:49,960 --> 01:24:52,679
+Vous n'êtes pas responsable.
+C'était son choix.
+
+1067
+01:24:54,080 --> 01:24:56,469
+Il dirait que
+cela valait d'être blessé.
+
+1068
+01:25:03,240 --> 01:25:04,753
+Élucidez l'affaire...
+
+1069
+01:25:05,920 --> 01:25:07,433
+quoi qu'il en coûte.
+
+1070
+01:25:18,760 --> 01:25:19,988
+<i>Ne rien maîtriser.</i>
+
+1071
+01:25:20,200 --> 01:25:21,155
+<i>Panique totale.</i>
+
+1072
+01:25:21,400 --> 01:25:22,150
+<i>Lord Blackwood.</i>
+
+1073
+01:25:22,360 --> 01:25:23,998
+<i>Toujours été à la hauteur.</i>
+
+1074
+01:25:24,200 --> 01:25:25,792
+<i>Petit conseil désintéressé :</i>
+
+1075
+01:25:26,000 --> 01:25:27,353
+<i>lâchez cette enquête.</i>
+
+1076
+01:25:27,560 --> 01:25:30,028
+- <i>Vous prenez ça au sérieux ?</i>
+- <i>Élucidez l'affaire.</i>
+
+1077
+01:25:30,240 --> 01:25:31,832
+<i>Acceptez de ne rien maîtriser.</i>
+
+1078
+01:25:32,040 --> 01:25:33,109
+<i>Demain midi,</i>
+
+1079
+01:25:33,320 --> 01:25:34,548
+<i>votre monde finira.</i>
+
+1080
+01:25:35,320 --> 01:25:36,275
+<i>Holmes !</i>
+
+1081
+01:25:56,720 --> 01:25:58,233
+<i>Voir plus large.</i>
+
+1082
+01:25:58,440 --> 01:26:00,271
+<i>Il vous faut voir plus large.</i>
+
+1083
+01:26:01,160 --> 01:26:02,752
+<i>Nous entamons un périple</i>
+
+1084
+01:26:02,960 --> 01:26:05,235
+<i>qui altérera
+l'essence même de la nature.</i>
+
+1085
+01:26:05,440 --> 01:26:07,351
+<i>Cuirassez-vous l'esprit.</i>
+
+1086
+01:26:07,720 --> 01:26:10,075
+<i>Il va libérer des forces
+qui renverseront tout.</i>
+
+1087
+01:26:10,280 --> 01:26:12,635
+- <i>Ses pouvoirs croissent.</i>
+- <i>Il en tire ses pouvoirs.</i>
+
+1088
+01:26:12,840 --> 01:26:13,636
+<i>J'ai besoin de vous.</i>
+
+1089
+01:26:13,840 --> 01:26:15,876
+<i>Son secret vient
+du Livre des Sortilèges.</i>
+
+1090
+01:26:42,720 --> 01:26:43,516
+<i>Trois morts.</i>
+
+1091
+01:26:43,720 --> 01:26:45,233
+<i>Il y aura encore trois morts.</i>
+
+1092
+01:26:45,920 --> 01:26:47,353
+<i>Vous n'y pourrez rien.</i>
+
+1093
+01:26:49,240 --> 01:26:51,470
+<i>Nous savons que
+vous ne croyez pas à la magie.</i>
+
+1094
+01:26:52,640 --> 01:26:54,232
+<i>Reordan travaillait avec Blackwood.</i>
+
+1095
+01:26:54,440 --> 01:26:55,475
+Ça fait du bien ?
+
+1096
+01:26:55,680 --> 01:26:57,432
+<i>Il se sentait clairement menacé.</i>
+
+1097
+01:27:00,640 --> 01:27:02,835
+<i>L'unique objet manquant
+est sa bague.</i>
+
+1098
+01:27:09,800 --> 01:27:10,994
+<i>Renoncez, Holmes.</i>
+
+1099
+01:27:13,760 --> 01:27:15,876
+<i>Vous ne résoudrez pas cette énigme.</i>
+
+1100
+01:27:22,160 --> 01:27:23,115
+Bonjour.
+
+1101
+01:27:26,760 --> 01:27:27,715
+Allons...
+
+1102
+01:27:28,200 --> 01:27:29,519
+au travail.
+
+1103
+01:27:30,520 --> 01:27:31,555
+Fresque familière.
+
+1104
+01:27:34,720 --> 01:27:35,789
+Vous rayonnez.
+
+1105
+01:27:38,920 --> 01:27:40,797
+Je sentais que vous resteriez.
+
+1106
+01:27:48,760 --> 01:27:50,034
+Vous êtes à la une.
+
+1107
+01:27:50,720 --> 01:27:52,073
+Même pas de photo.
+
+1108
+01:27:53,560 --> 01:27:54,834
+Apparemment...
+
+1109
+01:27:55,400 --> 01:27:57,152
+il faut vous affranchir des lois.
+
+1110
+01:27:57,400 --> 01:27:59,356
+C'est mon domaine de compétences.
+
+1111
+01:27:59,560 --> 01:28:01,312
+Me voilà déjà plus rassuré.
+
+1112
+01:28:03,720 --> 01:28:05,153
+Vous récupérez vite.
+
+1113
+01:28:08,960 --> 01:28:10,996
+J'ai retiré les éclats moi-même.
+
+1114
+01:28:11,440 --> 01:28:13,749
+Mary a qualifié mon médecin d'âne.
+
+1115
+01:28:19,240 --> 01:28:20,468
+Eh bien, je...
+
+1116
+01:28:21,120 --> 01:28:22,235
+suis vraiment...
+
+1117
+01:28:22,600 --> 01:28:24,955
+ravi que vous soyez, disons...
+
+1118
+01:28:26,120 --> 01:28:27,189
+parmi nous.
+
+1119
+01:28:31,840 --> 01:28:34,070
+Vous voilà bien assis,
+je puis...
+
+1120
+01:28:34,280 --> 01:28:35,235
+commencer.
+
+1121
+01:28:36,200 --> 01:28:39,033
+Mon approche initiale
+était par trop étroite.
+
+1122
+01:28:39,240 --> 01:28:42,755
+Blackwood, en sa prison,
+m'a suggéré de voir plus large.
+
+1123
+01:28:43,000 --> 01:28:45,275
+C'était bien le moins
+que je puisse faire.
+
+1124
+01:28:45,760 --> 01:28:49,912
+J'ai peut-être mis fin à des millénaires
+de disparités théologiques.
+
+1125
+01:28:51,360 --> 01:28:53,396
+Mais gardons ça
+pour une autre fois.
+
+1126
+01:28:53,800 --> 01:28:56,792
+La méthode de Blackwood
+repose sur un système de rites
+
+1127
+01:28:57,000 --> 01:28:59,798
+employé par le Temple
+depuis des siècles.
+
+1128
+01:29:00,000 --> 01:29:03,072
+Pour bien comprendre ce système,
+le pénétrer,
+
+1129
+01:29:03,280 --> 01:29:06,556
+j'ai reconstitué la cérémonie
+interrompue dans la crypte.
+
+1130
+01:29:06,760 --> 01:29:08,637
+En l'enjolivant quelque peu.
+
+1131
+01:29:09,760 --> 01:29:12,797
+Je me suis plus enfoncé
+dans le terrier que prévu
+
+1132
+01:29:13,000 --> 01:29:15,673
+et bien que j'aie sali
+ma blanche fourrure,
+
+1133
+01:29:15,880 --> 01:29:17,916
+j'en suis ressorti éclairé.
+
+1134
+01:29:19,240 --> 01:29:21,549
+La fraternité
+qui régit sans bruit l'empire
+
+1135
+01:29:21,760 --> 01:29:24,672
+croit comme les rois,
+pharaons et empereurs d'antan,
+
+1136
+01:29:24,880 --> 01:29:25,676
+que le sphinx
+
+1137
+01:29:25,880 --> 01:29:29,316
+ouvre sur une autre dimension,
+des pouvoirs infinis.
+
+1138
+01:29:29,560 --> 01:29:30,834
+Il est en 4 parties.
+
+1139
+01:29:31,400 --> 01:29:32,310
+Pattes de lion,
+
+1140
+01:29:32,520 --> 01:29:33,555
+queue de bœuf,
+
+1141
+01:29:33,760 --> 01:29:34,909
+ailes d'aigle,
+
+1142
+01:29:35,120 --> 01:29:36,075
+tête d'homme.
+
+1143
+01:29:36,680 --> 01:29:38,716
+<i>Le cabinet secret de Sir Thomas recelait :</i>
+
+1144
+01:29:38,920 --> 01:29:40,353
+<i>os de bœuf, dent de lion,</i>
+
+1145
+01:29:40,600 --> 01:29:42,670
+<i>plume d'aigle
+et cheveux d'homme.</i>
+
+1146
+01:29:43,280 --> 01:29:44,235
+Le plan.
+
+1147
+01:29:48,040 --> 01:29:50,713
+Chaque pointe d'étoile
+est une fille tuée,
+
+1148
+01:29:50,920 --> 01:29:53,275
+mais c'est la croix
+qui nous intéresse.
+
+1149
+01:29:53,960 --> 01:29:55,029
+On estime
+
+1150
+01:29:55,840 --> 01:29:58,559
+que dans l'architecture
+des grandes cités,
+
+1151
+01:29:58,760 --> 01:30:01,149
+il y a des références codées
+à ce système.
+
+1152
+01:30:01,360 --> 01:30:02,679
+Depuis sa résurrection,
+
+1153
+01:30:02,880 --> 01:30:04,313
+Blackwood a tué trois hommes
+
+1154
+01:30:04,520 --> 01:30:07,637
+en des lieux
+directement liés au Temple
+
+1155
+01:30:07,840 --> 01:30:09,273
+et donc au système.
+
+1156
+01:30:09,960 --> 01:30:10,756
+Reordan,
+
+1157
+01:30:10,960 --> 01:30:13,076
+<i>rouquin de petite taille,
+représente l'homme.</i>
+
+1158
+01:30:13,280 --> 01:30:14,838
+Corps trouvé ici.
+
+1159
+01:30:15,920 --> 01:30:17,399
+Sir Thomas, Grand Maître
+
+1160
+01:30:17,600 --> 01:30:19,477
+<i>à bague frappée d'un bœuf.</i>
+
+1161
+01:30:19,760 --> 01:30:20,715
+Mort ici.
+
+1162
+01:30:22,080 --> 01:30:23,991
+Standish,
+ambassadeur d'Amérique,
+
+1163
+01:30:24,200 --> 01:30:26,714
+<i>symbolisée par l'aigle
+depuis plus de 100 ans.</i>
+
+1164
+01:30:26,920 --> 01:30:29,593
+Le Temple des Quatre Ordres
+où il a péri...
+
+1165
+01:30:31,240 --> 01:30:32,195
+est ici.
+
+1166
+01:30:34,000 --> 01:30:36,958
+Ainsi, ce plan situera
+l'acte final de Blackwood.
+
+1167
+01:30:37,520 --> 01:30:39,829
+Nous avons donc
+homme, bœuf, aigle...
+
+1168
+01:30:41,000 --> 01:30:41,955
+Reste le lion.
+
+1169
+01:30:42,560 --> 01:30:43,515
+Ici.
+
+1170
+01:30:45,480 --> 01:30:46,435
+Le Parlement.
+
+1171
+01:30:53,200 --> 01:30:54,713
+Vous quatre, restez.
+
+1172
+01:30:55,240 --> 01:30:56,468
+Les autres, venez.
+
+1173
+01:30:58,240 --> 01:30:59,195
+Par ici.
+
+1174
+01:31:02,960 --> 01:31:04,279
+Honneur aux dames.
+
+1175
+01:31:07,120 --> 01:31:08,314
+Suivez ces instructions.
+
+1176
+01:31:08,520 --> 01:31:09,475
+Et vous ?
+
+1177
+01:31:13,520 --> 01:31:15,351
+Alors, alors, alors ?
+
+1178
+01:31:16,200 --> 01:31:17,792
+Le Diable a rappliqué ?
+
+1179
+01:31:21,120 --> 01:31:22,109
+Consolez-vous.
+
+1180
+01:31:23,200 --> 01:31:24,679
+Vous avez son substitut.
+
+1181
+01:31:47,080 --> 01:31:48,035
+Pardon, milord.
+
+1182
+01:31:48,520 --> 01:31:49,714
+Je sais que c'est
+
+1183
+01:31:49,920 --> 01:31:51,035
+peu orthodoxe.
+
+1184
+01:31:52,360 --> 01:31:53,315
+Mais M. Holmes...
+
+1185
+01:31:54,640 --> 01:31:57,108
+porte de graves accusations
+sur vous
+
+1186
+01:31:58,760 --> 01:31:59,715
+et l'Ordre.
+
+1187
+01:32:02,240 --> 01:32:03,195
+Je vois.
+
+1188
+01:32:04,720 --> 01:32:07,188
+Voilà qui élucide
+votre grade d'inspecteur.
+
+1189
+01:32:12,480 --> 01:32:13,674
+Pardon, milord.
+
+1190
+01:32:15,040 --> 01:32:17,110
+Ça me démangeait
+depuis longtemps.
+
+1191
+01:32:17,640 --> 01:32:20,791
+Je vous en prie,
+j'ai cinq minutes de battement.
+
+1192
+01:32:21,480 --> 01:32:24,631
+Régalez-moi donc
+de vos histoires de conspiration.
+
+1193
+01:32:27,760 --> 01:32:28,715
+Merci, Lestrade.
+
+1194
+01:32:29,640 --> 01:32:30,675
+Milord.
+
+1195
+01:32:36,800 --> 01:32:41,112
+Dites, avez-vous facilité chaque meurtre
+ou juste celui que j'ai déjoué ?
+
+1196
+01:32:43,040 --> 01:32:44,632
+Cousu main très distinctif.
+
+1197
+01:32:47,720 --> 01:32:49,950
+Mais la qualité se paie souvent
+
+1198
+01:32:50,200 --> 01:32:52,270
+par l'empreinte unique qu'elle laisse.
+
+1199
+01:32:53,160 --> 01:32:55,549
+Toutefois,
+je m'avoue totalement vaincu.
+
+1200
+01:32:56,960 --> 01:32:58,871
+Mon enquête m'en a peu appris.
+
+1201
+01:33:00,800 --> 01:33:04,952
+Par chance, il n'est rien
+de plus motivant qu'une affaire têtue.
+
+1202
+01:33:05,960 --> 01:33:08,315
+Combien de députés
+assassinez-vous à midi ?
+
+1203
+01:33:09,640 --> 01:33:10,993
+Homme, bœuf, aigle, lion.
+
+1204
+01:33:12,040 --> 01:33:13,314
+Le lion est le Parlement.
+
+1205
+01:33:16,480 --> 01:33:17,629
+Très fort.
+
+1206
+01:33:18,600 --> 01:33:20,909
+Mais il ne s'agit pas d'assassinat.
+
+1207
+01:33:21,120 --> 01:33:22,394
+C'est de la miséricorde.
+
+1208
+01:33:22,920 --> 01:33:25,070
+Donner aux faibles un puissant berger.
+
+1209
+01:33:25,280 --> 01:33:27,032
+Ne voyez-vous pas
+leur intérêt...
+
+1210
+01:33:30,720 --> 01:33:32,836
+Non, mais je me moque
+de votre avis.
+
+1211
+01:33:33,040 --> 01:33:37,431
+Connaître le lieu de l'ultime cérémonie
+de Blackwood m'a suffi.
+
+1212
+01:33:37,640 --> 01:33:38,675
+Je n'ai rien dit !
+
+1213
+01:33:39,520 --> 01:33:42,353
+Vous ne pourriez parler autant
+que vos habits.
+
+1214
+01:33:42,560 --> 01:33:45,120
+<i>Vos souliers crottés
+disent où vous avez marché.</i>
+
+1215
+01:33:46,000 --> 01:33:47,991
+<i>Vos genoux saupoudrés
+de rouge brique</i>
+
+1216
+01:33:48,200 --> 01:33:49,952
+<i>où vous vous êtes agenouillé.</i>
+
+1217
+01:33:50,200 --> 01:33:51,394
+<i>Un pansement au doigt</i>
+
+1218
+01:33:51,640 --> 01:33:53,278
+<i>où vous avez prêté serment.</i>
+
+1219
+01:33:53,480 --> 01:33:54,993
+<i>Un vague fumet d'excrément</i>
+
+1220
+01:33:55,360 --> 01:33:56,952
+<i>où vous avez stationné.</i>
+
+1221
+01:33:59,520 --> 01:34:00,999
+Vous avez réglé avec Blackwood
+
+1222
+01:34:01,240 --> 01:34:03,800
+la cérémonie
+dans les égouts du Parlement
+
+1223
+01:34:04,000 --> 01:34:05,274
+il y a moins d'une heure.
+
+1224
+01:34:06,560 --> 01:34:08,516
+Les deux Chambres vont se réunir.
+
+1225
+01:34:08,720 --> 01:34:10,551
+Avec le gouvernement au complet.
+
+1226
+01:34:19,840 --> 01:34:21,592
+Dommage
+de s'être aliéné Blackwood.
+
+1227
+01:34:23,560 --> 01:34:25,198
+Vous auriez été précieux.
+
+1228
+01:34:32,480 --> 01:34:34,357
+Qu'il est terrible de savoir
+
+1229
+01:34:34,560 --> 01:34:36,949
+quand le savoir ne sert de rien à qui l'a.
+
+1230
+01:34:37,960 --> 01:34:39,188
+Nous régnons, à midi !
+
+1231
+01:34:40,360 --> 01:34:42,396
+Il n'y a pas de temps à perdre, alors.
+
+1232
+01:35:07,440 --> 01:35:08,236
+Formidable.
+
+1233
+01:35:08,440 --> 01:35:09,873
+Je savais qu'il plongerait
+
+1234
+01:35:10,080 --> 01:35:13,277
+de la fenêtre haute, soldaillon,
+pas de la terrasse.
+
+1235
+01:35:13,480 --> 01:35:15,675
+Ce n'est pas la fenêtre haute,
+moussaillon.
+
+1236
+01:35:15,880 --> 01:35:16,835
+C'est quoi ?
+
+1237
+01:35:17,360 --> 01:35:18,236
+Fenêtre médiane.
+
+1238
+01:35:18,440 --> 01:35:19,395
+Bref !
+
+1239
+01:35:21,160 --> 01:35:23,355
+Sachez que Lestrade
+a excellé dans son rôle.
+
+1240
+01:35:23,560 --> 01:35:24,834
+Cela a même dû l'amuser.
+
+1241
+01:35:25,320 --> 01:35:26,673
+Tâchez d'avoir raison.
+
+1242
+01:35:27,200 --> 01:35:28,155
+Voici la clé.
+
+1243
+01:35:29,440 --> 01:35:30,475
+Coward a parlé ?
+
+1244
+01:35:30,880 --> 01:35:32,791
+Je lui ai fait un coup fumeux.
+
+1245
+01:35:33,840 --> 01:35:34,795
+Tanner ?
+
+1246
+01:35:35,360 --> 01:35:36,429
+Commandant,
+
+1247
+01:35:36,680 --> 01:35:39,240
+après le pont,
+voguez bâbord sur 100 m.
+
+1248
+01:35:39,520 --> 01:35:41,909
+Au-delà, un tunnel
+nous mènera aux égouts.
+
+1249
+01:35:42,920 --> 01:35:43,955
+Tout de suite !
+
+1250
+01:35:50,920 --> 01:35:52,148
+La fin est proche !
+
+1251
+01:35:52,840 --> 01:35:56,628
+Blackwood a ressurgi de l'enfer
+et jeté un maléfice au pays !
+
+1252
+01:35:57,120 --> 01:36:00,351
+Il rôde derrière chaque ombre,
+chaque panache de fumée !
+
+1253
+01:36:41,600 --> 01:36:43,830
+Voyez la magie de Blackwood
+démasquée.
+
+1254
+01:36:44,360 --> 01:36:46,237
+- Qu'est-ce ?
+- Arme chimique.
+
+1255
+01:36:47,120 --> 01:36:48,155
+Première du genre.
+
+1256
+01:36:48,360 --> 01:36:49,952
+D'où le déduisez-vous ?
+
+1257
+01:36:50,400 --> 01:36:51,833
+Du fond de ma poche.
+
+1258
+01:36:52,160 --> 01:36:55,038
+J'ai équeuté un rat assez amorphe
+aux abattoirs.
+
+1259
+01:36:55,240 --> 01:36:58,073
+Notez le bleuissement,
+l'effluve d'amande amère.
+
+1260
+01:36:58,280 --> 01:36:59,838
+Révélateurs du cyanure.
+
+1261
+01:37:04,880 --> 01:37:09,112
+Ainsi, le rouquin de petite taille
+fabriquait une arme révolutionnaire.
+
+1262
+01:37:09,320 --> 01:37:10,548
+Qui tue en masse.
+
+1263
+01:37:10,760 --> 01:37:13,115
+Il est 11 h 53.
+Que faisons-nous ?
+
+1264
+01:37:15,160 --> 01:37:16,639
+Combien d'hommes avez-vous...
+
+1265
+01:37:19,880 --> 01:37:21,279
+Théâtrale, votre muse.
+
+1266
+01:37:51,800 --> 01:37:52,755
+Femme !
+
+1267
+01:37:53,800 --> 01:37:54,710
+Tirez !
+
+1268
+01:37:54,920 --> 01:37:55,875
+Vite !
+
+1269
+01:38:07,560 --> 01:38:08,515
+Messeigneurs...
+
+1270
+01:38:13,040 --> 01:38:14,075
+L'heure a sonné.
+
+1271
+01:38:14,280 --> 01:38:16,430
+Que seuls ceux qui ont la foi
+demeurent.
+
+1272
+01:38:18,520 --> 01:38:19,509
+Accueillons...
+
+1273
+01:38:19,880 --> 01:38:20,949
+Lord Blackwood !
+
+1274
+01:38:34,120 --> 01:38:35,394
+Surpris ?
+
+1275
+01:38:38,200 --> 01:38:41,272
+J'ai ressuscité
+pour accomplir le destin de l'Angleterre
+
+1276
+01:38:42,560 --> 01:38:43,834
+et reculer les frontières
+
+1277
+01:38:44,040 --> 01:38:45,632
+de notre grand empire.
+
+1278
+01:38:48,760 --> 01:38:50,432
+Écoutez la plèbe, au dehors.
+
+1279
+01:38:51,280 --> 01:38:52,315
+Écoutez...
+
+1280
+01:38:53,200 --> 01:38:54,155
+la peur.
+
+1281
+01:38:54,800 --> 01:38:56,199
+Elle sera mon arme
+
+1282
+01:38:56,440 --> 01:38:58,112
+pour les contrôler, eux,
+
+1283
+01:38:58,920 --> 01:38:59,875
+puis le monde.
+
+1284
+01:39:04,200 --> 01:39:05,474
+Jamais rien vu de tel.
+
+1285
+01:39:05,680 --> 01:39:06,635
+Regardez.
+
+1286
+01:39:10,080 --> 01:39:12,116
+Pour empêcher le désamorçage.
+
+1287
+01:39:15,240 --> 01:39:17,959
+Composants conçus
+pour recevoir un signal.
+
+1288
+01:39:18,160 --> 01:39:19,309
+Électromagnétique ?
+
+1289
+01:39:20,080 --> 01:39:23,868
+<i>Alimentées, les électrodes changeront
+ce composé chimique en gaz</i>
+
+1290
+01:39:24,080 --> 01:39:27,550
+<i>qui s'élèvera dans ce conduit
+vers le système d'aération</i>
+
+1291
+01:39:27,760 --> 01:39:29,113
+<i>du Parlement.</i>
+
+1292
+01:39:29,320 --> 01:39:33,438
+<i>En quelques secondes,
+les plus puissants des hommes mourront.</i>
+
+1293
+01:39:33,880 --> 01:39:36,758
+Blackwood doit avoir
+un émetteur à distance.
+
+1294
+01:39:36,960 --> 01:39:38,712
+3 minutes, 10 secondes.
+
+1295
+01:39:39,240 --> 01:39:43,028
+Je vais fonder un empire
+qui perdurera des millénaires.
+
+1296
+01:39:43,760 --> 01:39:45,159
+Indestructible
+
+1297
+01:39:45,480 --> 01:39:46,549
+et éternel.
+
+1298
+01:39:47,240 --> 01:39:48,798
+Plus vite ! Plus vite !
+
+1299
+01:39:49,520 --> 01:39:52,432
+Nous n'avons pas à désamorcer l'engin,
+uniquement...
+
+1300
+01:39:53,840 --> 01:39:55,512
+à enlever ces cylindres.
+
+1301
+01:39:56,520 --> 01:39:58,192
+Sauf qu'ils sont soudés.
+
+1302
+01:39:58,400 --> 01:40:01,312
+Ce qu'il faut,
+c'est une explosion maîtrisée.
+
+1303
+01:40:01,520 --> 01:40:03,033
+Un récipient pour l'orienter.
+
+1304
+01:40:03,240 --> 01:40:05,071
+Ma pipe en terre s'y prêtera.
+
+1305
+01:40:25,160 --> 01:40:27,355
+C'était fortement déconseillé.
+
+1306
+01:40:33,640 --> 01:40:36,791
+Au douzième coup,
+j'invoquerai les pouvoirs obscurs.
+
+1307
+01:40:38,920 --> 01:40:42,549
+Ceux d'entre vous qui me rejoindront
+seront protégés.
+
+1308
+01:40:43,240 --> 01:40:44,195
+Tous les autres
+
+1309
+01:40:44,520 --> 01:40:45,635
+périront !
+
+1310
+01:40:52,720 --> 01:40:53,675
+Votre pipe...
+
+1311
+01:40:57,640 --> 01:40:58,595
+Coup de boule !
+
+1312
+01:41:23,240 --> 01:41:24,195
+- Prêt ?
+- À quoi ?
+
+1313
+01:41:24,840 --> 01:41:25,795
+- Manteau.
+- Là !
+
+1314
+01:42:03,360 --> 01:42:04,315
+L'ordre nouveau...
+
+1315
+01:42:05,960 --> 01:42:06,915
+est en route.
+
+1316
+01:42:13,000 --> 01:42:13,955
+Femme !
+
+1317
+01:42:14,440 --> 01:42:15,395
+Qu'attendez-vous ?
+
+1318
+01:42:18,560 --> 01:42:19,515
+Ça !
+
+1319
+01:42:30,760 --> 01:42:32,159
+Appréhendez Lord Coward !
+
+1320
+01:42:34,760 --> 01:42:35,590
+Ça ira ?
+
+1321
+01:42:35,800 --> 01:42:36,596
+Évidemment !
+
+1322
+01:43:02,520 --> 01:43:03,509
+Détendez-vous.
+
+1323
+01:43:04,040 --> 01:43:04,995
+Je suis médecin.
+
+1324
+01:44:14,280 --> 01:44:15,793
+Vous seriez-vous perdue ?
+
+1325
+01:44:18,480 --> 01:44:19,515
+Nous sommes sauvés.
+
+1326
+01:44:20,600 --> 01:44:21,715
+Intéressant...
+
+1327
+01:44:24,400 --> 01:44:25,355
+Filez !
+
+1328
+01:44:28,120 --> 01:44:29,633
+Fini de vous courir après.
+
+1329
+01:44:31,360 --> 01:44:32,475
+Adieu, donc.
+
+1330
+01:44:38,160 --> 01:44:39,798
+Je n'ai plus envie de fuir.
+
+1331
+01:44:42,720 --> 01:44:43,789
+Je vous dis tout.
+
+1332
+01:44:44,200 --> 01:44:45,155
+Volontiers !
+
+1333
+01:46:12,480 --> 01:46:13,799
+Il n'y eut nulle magie.
+
+1334
+01:46:16,240 --> 01:46:17,434
+Trucages, plutôt.
+
+1335
+01:46:22,240 --> 01:46:23,992
+Le plus simple était de payer.
+
+1336
+01:46:24,200 --> 01:46:25,474
+<i>Tel ce gardien</i>
+
+1337
+01:46:25,680 --> 01:46:27,272
+<i>qui simula l'envoûtement.</i>
+
+1338
+01:46:27,480 --> 01:46:29,835
+Votre réputation et la peur aidant...
+
+1339
+01:46:31,400 --> 01:46:33,789
+D'autres exigèrent
+plus ample préparation.
+
+1340
+01:46:34,000 --> 01:46:37,037
+Telle la dalle de grès
+recouvrant votre tombe.
+
+1341
+01:46:37,920 --> 01:46:39,319
+<i>Brisée avant l'enterrement</i>
+
+1342
+01:46:39,520 --> 01:46:41,317
+et recollée à l'adhésif léger.
+
+1343
+01:46:43,320 --> 01:46:44,833
+Vieille recette égyptienne.
+
+1344
+01:46:45,680 --> 01:46:46,954
+<i>Mélange œuf-miel.</i>
+
+1345
+01:46:48,400 --> 01:46:49,833
+Se dissout sous la pluie.
+
+1346
+01:46:56,800 --> 01:46:57,994
+Noyer votre père
+
+1347
+01:46:58,200 --> 01:47:01,192
+<i>dans son bain a requis
+une science plus récente.</i>
+
+1348
+01:47:01,400 --> 01:47:04,233
+Malin de la part de Reordan,
+ce paralysant
+
+1349
+01:47:04,440 --> 01:47:08,035
+activé par la combinaison cuivre-eau
+et ainsi
+
+1350
+01:47:08,240 --> 01:47:10,549
+<i>indécelable,
+une fois le bain vidé.</i>
+
+1351
+01:47:11,600 --> 01:47:13,192
+J'aurais été dérouté,
+
+1352
+01:47:13,400 --> 01:47:16,039
+<i>s'il ne l'avait aussi testé
+sur d'infortunés...</i>
+
+1353
+01:47:16,280 --> 01:47:17,235
+batraciens.
+
+1354
+01:47:21,400 --> 01:47:24,358
+La mort de Standish
+me déboussola jusqu'à ce que
+
+1355
+01:47:24,560 --> 01:47:27,438
+vous utilisiez le même composé
+pour l'explosion.
+
+1356
+01:47:28,920 --> 01:47:31,070
+<i>Liquide inodore,
+fade et inflammable,</i>
+
+1357
+01:47:31,760 --> 01:47:33,637
+à insolites flammes rosâtres.
+
+1358
+01:47:35,760 --> 01:47:37,239
+Standish a cru qu'il pleuvait
+
+1359
+01:47:37,840 --> 01:47:38,875
+<i>devant le Temple ?</i>
+
+1360
+01:47:40,360 --> 01:47:41,395
+Petite étincelle.
+
+1361
+01:47:45,880 --> 01:47:47,313
+Simple balle piégée.
+
+1362
+01:47:49,440 --> 01:47:50,589
+<i>Ingénieux.</i>
+
+1363
+01:47:50,920 --> 01:47:54,071
+En grand artiste,
+vous aviez un bouquet final.
+
+1364
+01:47:54,680 --> 01:47:57,319
+<i>Arme chimique issue du cyanure
+et affinée</i>
+
+1365
+01:47:57,520 --> 01:47:58,794
+<i>dans des ventres porcins.</i>
+
+1366
+01:47:59,280 --> 01:48:00,429
+En cas de succès,
+
+1367
+01:48:00,640 --> 01:48:03,108
+vos partisans assistaient indemnes
+
+1368
+01:48:03,320 --> 01:48:06,039
+à la mort de leurs collègues,
+autour d'eux.
+
+1369
+01:48:06,240 --> 01:48:08,037
+Ignorant avoir bu l'antidote.
+
+1370
+01:48:08,760 --> 01:48:12,673
+<i>Ils auraient cru à de la magie,
+que vous maîtrisiez</i>
+
+1371
+01:48:12,880 --> 01:48:14,950
+l'ultime pouvoir
+et que le monde suivrait.
+
+1372
+01:48:15,160 --> 01:48:15,910
+La peur
+
+1373
+01:48:16,120 --> 01:48:18,236
+étant la plus redoutable
+des armes.
+
+1374
+01:48:19,040 --> 01:48:21,349
+Priez que ce soit pure superstition,
+
+1375
+01:48:21,960 --> 01:48:24,076
+car vous avez excellé
+dans ces rites.
+
+1376
+01:48:24,840 --> 01:48:26,671
+<i>Le Diable a droit à une âme.</i>
+
+1377
+01:48:28,920 --> 01:48:30,911
+Nom de Dieu, détachez-moi !
+
+1378
+01:48:41,360 --> 01:48:42,110
+D'abord,
+
+1379
+01:48:42,320 --> 01:48:44,311
+le monde verra votre vrai visage.
+
+1380
+01:48:44,520 --> 01:48:45,714
+Celui d'un escroc.
+
+1381
+01:48:46,440 --> 01:48:47,475
+Puis on vous pendra.
+
+1382
+01:48:47,680 --> 01:48:49,272
+Comme il faut, cette fois.
+
+1383
+01:48:49,680 --> 01:48:51,636
+La route est longue d'ici au gibet.
+
+1384
+01:49:41,080 --> 01:49:43,674
+Je ne m'étais jamais
+éveillée menottée.
+
+1385
+01:49:44,720 --> 01:49:45,755
+Moi, si.
+
+1386
+01:49:47,560 --> 01:49:48,549
+Nu.
+
+1387
+01:49:52,840 --> 01:49:54,512
+L'orage approche.
+
+1388
+01:49:55,280 --> 01:49:57,953
+Mais, il nous reste
+un peu de temps.
+
+1389
+01:50:02,400 --> 01:50:03,435
+Moriarty.
+
+1390
+01:50:04,000 --> 01:50:04,955
+Quoi ?
+
+1391
+01:50:05,360 --> 01:50:06,873
+Il s'appelle ainsi.
+
+1392
+01:50:07,680 --> 01:50:09,557
+Et il est bien professeur.
+
+1393
+01:50:11,920 --> 01:50:13,717
+On a tous un point faible.
+
+1394
+01:50:14,400 --> 01:50:16,072
+Il a trouvé le mien.
+
+1395
+01:50:17,800 --> 01:50:19,518
+Où était-il, au juste ?
+
+1396
+01:50:30,200 --> 01:50:31,918
+Ne le sous-estimez pas.
+
+1397
+01:50:33,320 --> 01:50:35,629
+Il est tout aussi brillant que vous.
+
+1398
+01:50:35,840 --> 01:50:37,717
+Et infiniment plus sournois.
+
+1399
+01:50:38,200 --> 01:50:39,599
+Nous verrons cela.
+
+1400
+01:50:56,160 --> 01:50:57,957
+Je vais te manquer, Sherlock.
+
+1401
+01:51:00,200 --> 01:51:01,315
+Hélas...
+
+1402
+01:51:02,520 --> 01:51:03,509
+oui.
+
+1403
+01:51:30,200 --> 01:51:33,636
+Bonjour, monsieur.
+J'ai mis les carnets dans celle-ci.
+
+1404
+01:51:33,840 --> 01:51:35,990
+- Carnets de quoi ?
+- Gribouillis.
+
+1405
+01:51:36,200 --> 01:51:37,792
+- Gribouillis ?
+- Notes.
+
+1406
+01:51:38,000 --> 01:51:39,319
+Sur vos aventures.
+
+1407
+01:51:39,520 --> 01:51:40,953
+J'aimerais les lire.
+
+1408
+01:51:47,160 --> 01:51:48,275
+Qu'y a-t-il ?
+
+1409
+01:51:48,600 --> 01:51:51,068
+Accepte-t-il enfin votre départ ?
+
+1410
+01:51:51,280 --> 01:51:53,555
+Voyez la bague qu'il nous offre.
+
+1411
+01:51:54,920 --> 01:51:57,229
+Cinq minutes
+et on rentre à la maison.
+
+1412
+01:51:57,440 --> 01:51:58,429
+Notre maison.
+
+1413
+01:51:58,840 --> 01:51:59,795
+Montez !
+
+1414
+01:52:08,080 --> 01:52:09,149
+N'ayez crainte.
+
+1415
+01:52:09,520 --> 01:52:11,431
+Le suicide
+n'est pas à son répertoire.
+
+1416
+01:52:11,800 --> 01:52:14,234
+Il s'affectionne bien trop pour cela.
+
+1417
+01:52:18,880 --> 01:52:19,835
+Bonjour.
+
+1418
+01:52:20,280 --> 01:52:21,429
+Je cherchais comment
+
+1419
+01:52:21,640 --> 01:52:23,949
+Blackwood avait survécu à l'exécution.
+
+1420
+01:52:24,160 --> 01:52:25,275
+Pour vous blanchir.
+
+1421
+01:52:26,280 --> 01:52:28,589
+Effet soporifique surprenant.
+
+1422
+01:52:28,800 --> 01:52:30,950
+J'ai chuté
+dans les bras de Morphée
+
+1423
+01:52:31,160 --> 01:52:32,673
+telle une chenille
+en son cocon.
+
+1424
+01:52:32,880 --> 01:52:33,869
+Bonjour, ma chère.
+
+1425
+01:52:34,480 --> 01:52:35,549
+Concluez donc.
+
+1426
+01:52:36,080 --> 01:52:38,753
+Le nœud cachait adroitement
+un crochet.
+
+1427
+01:52:39,560 --> 01:52:42,233
+Ciel, j'ai les jambes engourdies.
+Autant descendre.
+
+1428
+01:52:42,440 --> 01:52:44,556
+Ne devrions-nous pas le détacher ?
+
+1429
+01:52:45,320 --> 01:52:46,435
+Il perdrait le fil.
+
+1430
+01:52:46,920 --> 01:52:47,875
+Poursuivez !
+
+1431
+01:52:49,320 --> 01:52:51,515
+Le bourreau
+a passé ça dans un harnais,
+
+1432
+01:52:51,720 --> 01:52:54,075
+<i>répartissant le poids
+autour de la taille</i>
+
+1433
+01:52:54,280 --> 01:52:56,475
+et conservant le cou intact.
+
+1434
+01:52:56,680 --> 01:52:59,672
+Joues ankylosées.
+Si l'on continuait à terre ?
+
+1435
+01:52:59,880 --> 01:53:01,393
+Comment avez-vous fait ?
+
+1436
+01:53:02,200 --> 01:53:05,033
+Avec bretelles, ceintures
+et une patère.
+
+1437
+01:53:06,320 --> 01:53:08,754
+Que ferez-vous
+si je perds ma langue ?
+
+1438
+01:53:08,960 --> 01:53:09,915
+Il y aurait pire.
+
+1439
+01:53:14,120 --> 01:53:16,270
+Ça n'explique pas
+son pouls inexistant.
+
+1440
+01:53:16,480 --> 01:53:17,435
+Certes.
+
+1441
+01:53:18,280 --> 01:53:19,952
+<i>Passons au mystère médical.</i>
+
+1442
+01:53:20,160 --> 01:53:21,878
+<i>Rétablissons votre réputation.</i>
+
+1443
+01:53:23,880 --> 01:53:27,077
+Une toxine extraite
+du rhododendron ponticum,
+
+1444
+01:53:27,280 --> 01:53:29,748
+<i>très redoutée
+en bord de mer Noire turque,</i>
+
+1445
+01:53:29,960 --> 01:53:33,475
+provoque
+une paralysie en apparence mortelle.
+
+1446
+01:53:34,040 --> 01:53:36,713
+De quoi duper
+même une sommité comme vous.
+
+1447
+01:53:36,920 --> 01:53:37,716
+On l'appelle...
+
+1448
+01:53:37,920 --> 01:53:39,114
+Qu'a donc Gladstone ?
+
+1449
+01:53:39,600 --> 01:53:41,318
+... le mal du miel fou.
+
+1450
+01:53:41,520 --> 01:53:44,830
+Il démontre justement
+les symptômes que j'évoque.
+
+1451
+01:53:45,360 --> 01:53:46,509
+Ça ne le gêne pas.
+
+1452
+01:53:49,160 --> 01:53:51,276
+Mary, il a connu bien pire.
+
+1453
+01:53:51,960 --> 01:53:52,915
+M. Holmes ?
+
+1454
+01:53:55,600 --> 01:53:56,589
+Docteur, Mlle...
+
+1455
+01:53:57,560 --> 01:53:59,710
+L'inspecteur Lestrade
+vous réclame.
+
+1456
+01:54:01,120 --> 01:54:02,633
+Qu'y a-t-il encore ?
+
+1457
+01:54:02,840 --> 01:54:06,628
+Un sergent disparu dans les égouts
+le jour où vous avez pris Blackwood.
+
+1458
+01:54:07,040 --> 01:54:10,271
+<i>Les égoutiers n'ont retrouvé son corps
+que ce matin.</i>
+
+1459
+01:54:11,080 --> 01:54:13,640
+Il avait dû être
+le premier sur les lieux.
+
+1460
+01:54:14,240 --> 01:54:15,468
+<i>Je peux vous aider ?</i>
+
+1461
+01:54:16,600 --> 01:54:17,953
+Une balle dans le crâne.
+
+1462
+01:54:19,280 --> 01:54:20,474
+Petit calibre ?
+
+1463
+01:54:24,320 --> 01:54:25,878
+Sourcils roussis de poudre ?
+
+1464
+01:54:26,480 --> 01:54:27,435
+Exact.
+
+1465
+01:54:30,480 --> 01:54:31,549
+À bout portant ?
+
+1466
+01:54:32,160 --> 01:54:33,115
+Moriarty.
+
+1467
+01:54:35,040 --> 01:54:36,314
+Professeur Moriarty.
+
+1468
+01:54:39,240 --> 01:54:40,639
+Ça, c'est un bon chien.
+
+1469
+01:54:40,920 --> 01:54:42,319
+Tout va bien, là.
+
+1470
+01:54:43,680 --> 01:54:45,113
+Où est l'engin de Blackwood ?
+
+1471
+01:54:45,320 --> 01:54:47,595
+Les services secrets
+ont pris le relais.
+
+1472
+01:54:48,800 --> 01:54:50,199
+Il manquera une pièce.
+
+1473
+01:54:52,840 --> 01:54:55,718
+<i>Moriarty convoitait
+une pièce de la machine.</i>
+
+1474
+01:54:56,200 --> 01:54:57,349
+Non le poison.
+
+1475
+01:54:57,560 --> 01:54:59,869
+Rien de plus fuyant que l'évidence.
+
+1476
+01:55:00,080 --> 01:55:02,355
+<i>L'invention sans fil
+était le but.</i>
+
+1477
+01:55:02,800 --> 01:55:04,870
+Adler n'étant qu'une diversion.
+
+1478
+01:55:05,080 --> 01:55:06,718
+<i>Il savait que je la poursuivrais,</i>
+
+1479
+01:55:06,920 --> 01:55:08,148
+<i>laissant l'engin.</i>
+
+1480
+01:55:08,360 --> 01:55:11,432
+<i>Celui-ci peut valoir
+une fortune considérable.</i>
+
+1481
+01:55:11,960 --> 01:55:15,111
+Imaginez pouvoir commander
+tout engin à distance
+
+1482
+01:55:15,320 --> 01:55:17,151
+par ondes radio.
+
+1483
+01:55:18,400 --> 01:55:20,072
+C'est l'avenir, Watson.
+
+1484
+01:55:22,680 --> 01:55:24,159
+Dernière malle chargée.
+
+1485
+01:55:31,560 --> 01:55:33,471
+Empêchez-le d'atteindre la porte !
+
+1486
+01:55:34,120 --> 01:55:34,552
+Clarkie ?
+
+1487
+01:55:37,840 --> 01:55:39,068
+Enquête rouverte.
+
+1488
+01:56:01,840 --> 01:56:05,071
+<i>Sherlock Holmes et le Dr Watson
+ont été créés par Sir Arthur Conan Doyle</i>

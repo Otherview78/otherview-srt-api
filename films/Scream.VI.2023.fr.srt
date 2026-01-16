@@ -1,0 +1,6457 @@
+1
+00:00:45,129 --> 00:00:46,714
+Hasta El Fuego, ne quittez pas.
+
+2
+00:00:48,883 --> 00:00:50,050
+Suivez-moi.
+
+3
+00:01:19,330 --> 00:01:21,165
+{\an8}Salut !
+
+4
+00:01:25,711 --> 00:01:29,215
+{\an8}C'est gênant...
+
+5
+00:01:29,215 --> 00:01:30,299
+{\an8}Je suis perdu
+
+6
+00:01:40,935 --> 00:01:41,977
+{\an8}Je peux t'appeler ?
+
+7
+00:01:47,233 --> 00:01:49,652
+- Un autre ?
+- Oui.
+
+8
+00:01:50,694 --> 00:01:51,987
+appel entrant...
+
+9
+00:01:54,198 --> 00:01:56,909
+- Salut, Reggie.
+<i>- Laura, bonsoir.</i>
+
+10
+00:01:58,202 --> 00:02:01,205
+<i>Ravi de te parler
+pour cette raison très gênante.</i>
+
+11
+00:02:02,289 --> 00:02:04,625
+C'est rien, t'en fais pas.
+
+12
+00:02:04,625 --> 00:02:08,045
+<i>Ça m'appendra à choisir
+un lieu branché sans enseigne.</i>
+
+13
+00:02:08,963 --> 00:02:10,339
+Pourquoi ils font ça ?
+
+14
+00:02:10,339 --> 00:02:13,175
+<i>Aucune idée.
+Je suis à New York depuis peu.</i>
+
+15
+00:02:13,175 --> 00:02:15,469
+Moi aussi, c'est dingue !
+
+16
+00:02:15,469 --> 00:02:18,097
+En attendant, c'est un resto très stylé.
+
+17
+00:02:18,097 --> 00:02:20,683
+<i>- C'est sur Hudson Street ?</i>
+- Oui.
+
+18
+00:02:20,683 --> 00:02:23,519
+<i>- Je suis sur Hudson ?</i>
+- J'en sais rien.
+
+19
+00:02:23,519 --> 00:02:25,729
+<i>Je suis pas dans cette rue, merde.</i>
+
+20
+00:02:26,981 --> 00:02:28,983
+<i>Je marche vers Hudson.</i>
+
+21
+00:02:28,983 --> 00:02:30,651
+<i>Désolé.</i>
+
+22
+00:02:30,651 --> 00:02:34,029
+<i>C'est pas comme ça
+qu'on impressionne une prof de fac.</i>
+
+23
+00:02:34,613 --> 00:02:37,241
+Je donne juste des cours
+en études de cinéma.
+
+24
+00:02:38,784 --> 00:02:39,785
+T'as rien à craindre.
+
+25
+00:02:39,785 --> 00:02:42,246
+<i>Études de cinéma ? C'est cool.</i>
+
+26
+00:02:42,830 --> 00:02:45,875
+Imagine faire cours sur les slashers
+du 20e siècle
+
+27
+00:02:45,875 --> 00:02:47,960
+à des étudiants en gueule de bois.
+
+28
+00:02:48,502 --> 00:02:51,797
+<i>Les slashers ?
+C'est quoi, ton film d'horreur préféré ?</i>
+
+29
+00:02:53,007 --> 00:02:54,216
+Pas celui-là.
+
+30
+00:02:56,010 --> 00:02:57,636
+<i>Pourquoi les slashers ?</i>
+
+31
+00:02:57,636 --> 00:02:59,930
+Je les trouve intéressants.
+
+32
+00:02:59,930 --> 00:03:02,057
+Ils reflètent la culture contemporaine
+
+33
+00:03:02,057 --> 00:03:03,684
+à travers certains tropes
+
+34
+00:03:03,684 --> 00:03:08,105
+comme le tueur masqué, la <i>final girl</i>,
+les règles du type :
+
+35
+00:03:08,105 --> 00:03:11,525
+ne pas se séparer, ne pas coucher...
+
+36
+00:03:12,860 --> 00:03:15,362
+<i>- Ne pas répondre au téléphone.</i>
+- C'est ça.
+
+37
+00:03:15,362 --> 00:03:16,530
+C'est que des clichés,
+
+38
+00:03:16,530 --> 00:03:20,326
+mais ils sont réinvestis
+par de nouveaux auteurs.
+
+39
+00:03:20,326 --> 00:03:22,745
+Ils sont la voix de ceux qui n'en ont pas.
+
+40
+00:03:24,705 --> 00:03:27,124
+<i>Moi, je préfère
+les comédies romantiques.</i>
+
+41
+00:03:27,625 --> 00:03:30,127
+<i>Bon, j'ai trouvé Hudson Street.</i>
+
+42
+00:03:31,003 --> 00:03:33,047
+<i>De quelle couleur est la façade du resto ?</i>
+
+43
+00:03:33,047 --> 00:03:34,214
+Rouge, je crois.
+
+44
+00:03:34,798 --> 00:03:37,551
+<i>Je vois rien de rouge.</i>
+
+45
+00:03:37,551 --> 00:03:39,929
+Je me trompe peut-être, attends.
+
+46
+00:03:40,429 --> 00:03:42,598
+Je vais aller jeter un œil.
+
+47
+00:03:42,598 --> 00:03:44,308
+<i>Merci.</i>
+
+48
+00:03:48,562 --> 00:03:50,564
+Oui, la façade est bien rouge.
+
+49
+00:03:50,564 --> 00:03:53,734
+<i>Je vois rien de rouge, par ici.</i>
+
+50
+00:03:55,402 --> 00:03:56,528
+Tu es bien sur Hudson ?
+
+51
+00:03:57,363 --> 00:03:59,323
+<i>Mince, c'est la rue d'après.</i>
+
+52
+00:04:00,407 --> 00:04:02,368
+<i>Je peux couper par une ruelle.</i>
+
+53
+00:04:02,368 --> 00:04:04,078
+<i>Tu en vois une ?</i>
+
+54
+00:04:06,664 --> 00:04:08,374
+Oui, je vois une ruelle.
+
+55
+00:04:08,374 --> 00:04:10,542
+<i>Super. J'arrive par là.</i>
+
+56
+00:04:14,588 --> 00:04:15,714
+Je te vois pas.
+
+57
+00:04:16,298 --> 00:04:18,634
+<i>C'est vrai ? Tu es sûre ?</i>
+
+58
+00:04:24,807 --> 00:04:26,934
+<i>Il y a des poubelles à mi-chemin.</i>
+
+59
+00:04:28,227 --> 00:04:30,688
+Je les vois, mais pas toi.
+
+60
+00:04:31,647 --> 00:04:33,273
+<i>Je te vois pas non plus.</i>
+
+61
+00:04:34,692 --> 00:04:36,819
+<i>C'est un peu flippant, non ?</i>
+
+62
+00:04:37,653 --> 00:04:38,654
+Un peu.
+
+63
+00:04:39,488 --> 00:04:41,240
+<i>Les slashers du 20e siècle...</i>
+
+64
+00:04:41,240 --> 00:04:43,575
+Tu es sûr d'aller vers Hudson ?
+
+65
+00:04:43,575 --> 00:04:44,743
+<i>Oui.</i>
+
+66
+00:04:45,369 --> 00:04:47,871
+<i>Je crois que je te vois.
+Tu me fais un signe ?</i>
+
+67
+00:04:48,831 --> 00:04:49,832
+Tu me vois ?
+
+68
+00:04:50,708 --> 00:04:55,379
+<i>La personne que je vois ne bouge pas.
+Elle me fixe.</i>
+
+69
+00:04:55,963 --> 00:04:57,131
+T'es sûr ?
+
+70
+00:04:58,590 --> 00:04:59,675
+<i>C'est bizarre.</i>
+
+71
+00:05:02,302 --> 00:05:03,846
+<i>La personne vient vers moi.</i>
+
+72
+00:05:04,471 --> 00:05:05,472
+Tout va bien ?
+
+73
+00:05:05,472 --> 00:05:07,516
+<i>Merde, il me suit.</i>
+
+74
+00:05:07,516 --> 00:05:09,351
+Je vois personne.
+
+75
+00:05:10,144 --> 00:05:12,229
+<i>Putain, il va s'en prendre à moi !</i>
+
+76
+00:05:12,229 --> 00:05:13,689
+T'es où ?
+
+77
+00:05:13,689 --> 00:05:15,691
+<i>- Il a un couteau !</i>
+- Quoi ?
+
+78
+00:05:15,691 --> 00:05:17,484
+<i>Mais c'est pas le pire.</i>
+
+79
+00:05:18,193 --> 00:05:19,570
+<i>Le pire,</i>
+
+80
+00:05:19,570 --> 00:05:22,197
+<i>c'est que tu donnes un cours
+sur les slashers,</i>
+
+81
+00:05:22,197 --> 00:05:26,660
+<i>mais que tu entres quand même
+dans une ruelle sombre, seule.</i>
+
+82
+00:05:26,660 --> 00:05:28,537
+C'est pas drôle.
+
+83
+00:05:32,541 --> 00:05:33,542
+<i>Non,</i>
+
+84
+00:05:34,626 --> 00:05:35,669
+<i>en effet.</i>
+
+85
+00:06:08,285 --> 00:06:10,829
+Maintenant, je vois du rouge.
+
+86
+00:07:17,020 --> 00:07:18,480
+Salut, Tara.
+
+87
+00:07:18,480 --> 00:07:19,898
+Jason.
+
+88
+00:07:19,898 --> 00:07:21,900
+Greg et toi venez à la soirée ?
+
+89
+00:07:21,900 --> 00:07:24,820
+S'il finit son devoir d'espagnol, oui.
+
+90
+00:07:24,820 --> 00:07:26,113
+Ta sœur sera là ?
+
+91
+00:07:26,113 --> 00:07:28,115
+Sam préfère mourir qu'aller à ces fêtes.
+
+92
+00:07:28,699 --> 00:07:30,242
+Y a une première fois à tout.
+
+93
+00:07:30,242 --> 00:07:31,410
+Pas ce soir.
+
+94
+00:07:31,952 --> 00:07:35,122
+- Tu peux la convaincre ?
+- C'est ton problème, ça.
+
+95
+00:07:35,122 --> 00:07:37,457
+- Garde-moi un verre.
+- Ça marche. À plus.
+
+96
+00:07:49,219 --> 00:07:51,889
+Mon chou, je suis rentré !
+
+97
+00:07:56,560 --> 00:07:57,561
+Greg ?
+
+98
+00:08:28,759 --> 00:08:30,802
+{\an8}APPELS
+
+99
+00:08:35,140 --> 00:08:36,225
+Écoute, je suis désolé.
+
+100
+00:08:36,225 --> 00:08:40,938
+Ça me cassait les couilles d'attendre,
+je voulais m'entraîner.
+
+101
+00:08:41,647 --> 00:08:43,899
+Sois pas vénère. T'es vénère ?
+
+102
+00:08:46,735 --> 00:08:48,779
+<i>Je ne suis pas vénère, Jason.</i>
+
+103
+00:08:48,779 --> 00:08:52,407
+Vieux, on a dit
+qu'on faisait pas la voix entre nous.
+
+104
+00:08:52,407 --> 00:08:54,201
+<i>On a dit beaucoup de choses.</i>
+
+105
+00:08:55,994 --> 00:08:57,788
+C'est bien toi, Greg ?
+
+106
+00:09:00,624 --> 00:09:02,000
+<i>Qui d'autre ça pourrait être ?</i>
+
+107
+00:09:03,126 --> 00:09:05,587
+T'es où ? Je veux te raconter.
+
+108
+00:09:05,587 --> 00:09:06,922
+Au fait,
+
+109
+00:09:07,547 --> 00:09:10,175
+on devrait aller à cette soirée,
+Tara y sera.
+
+110
+00:09:10,175 --> 00:09:12,719
+<i>- Ça t'a fait quoi ?</i>
+- Pas au téléphone.
+
+111
+00:09:12,719 --> 00:09:15,305
+Sérieux, éteins le modulateur.
+
+112
+00:09:15,806 --> 00:09:17,641
+<i>Je m'entraîne à faire la voix.</i>
+
+113
+00:09:18,183 --> 00:09:20,852
+<i>Tu t'es entraîné.
+Maintenant, c'est mon tour.</i>
+
+114
+00:09:21,353 --> 00:09:22,479
+Laisse tomber.
+
+115
+00:09:22,479 --> 00:09:25,065
+<i>Dis-moi ce que ça t'a fait,</i>
+
+116
+00:09:26,066 --> 00:09:27,734
+<i>et je sortirai de ma cachette.</i>
+
+117
+00:09:27,734 --> 00:09:29,111
+Je sais que t'es pas là.
+
+118
+00:09:30,320 --> 00:09:31,488
+<i>Fais-moi plaisir.</i>
+
+119
+00:09:32,072 --> 00:09:33,115
+Bon, d'accord.
+
+120
+00:09:36,243 --> 00:09:40,205
+C'était encore mieux
+que ce qu'on pouvait imaginer.
+
+121
+00:09:41,999 --> 00:09:44,251
+Quand le couteau s'est enfoncé en elle,
+
+122
+00:09:44,251 --> 00:09:48,505
+c'était comme si elle était plus humaine.
+
+123
+00:09:49,506 --> 00:09:50,716
+C'était qu'un animal.
+
+124
+00:09:53,010 --> 00:09:55,637
+À chaque coup de couteau,
+
+125
+00:09:56,263 --> 00:10:00,600
+elle était de moins en moins humaine.
+
+126
+00:10:02,477 --> 00:10:03,478
+À la fin,
+
+127
+00:10:04,813 --> 00:10:07,399
+c'était plus qu'un bout de viande.
+
+128
+00:10:07,399 --> 00:10:10,444
+<i>Ce n'était pas qu'un bout de viande, Jason.</i>
+
+129
+00:10:10,986 --> 00:10:13,739
+<i>C'était une personne,
+notre prof de cinéma.</i>
+
+130
+00:10:13,739 --> 00:10:14,906
+Oui, ben,
+
+131
+00:10:16,033 --> 00:10:17,200
+on l'emmerde.
+
+132
+00:10:20,662 --> 00:10:22,789
+Elle m'a mis C à mon dernier devoir.
+
+133
+00:10:22,789 --> 00:10:25,667
+<i>Tu l'as tuée pour une note ?</i>
+
+134
+00:10:26,418 --> 00:10:29,338
+<i>À qui le tour ?
+Le directeur de ton école primaire ?</i>
+
+135
+00:10:29,338 --> 00:10:32,382
+Tu sais qui ce sera. Pourquoi tu dis ça ?
+
+136
+00:10:32,382 --> 00:10:36,678
+<i>Allez, Jason.
+On se connaît depuis combien de temps ?</i>
+
+137
+00:10:40,432 --> 00:10:41,600
+Dis-le-moi, toi.
+
+138
+00:10:45,645 --> 00:10:49,358
+<i>Huit ans.
+On s'est rencontrés au collège, à Atlanta.</i>
+
+139
+00:10:50,108 --> 00:10:54,946
+<i>Je veux que tu me dises pourquoi
+tu fais ça, avec tes propres mots.</i>
+
+140
+00:10:54,946 --> 00:10:56,448
+On finit le film de Richie.
+
+141
+00:10:56,448 --> 00:10:58,909
+<i>Exactement, en tuant Sam et Tara.</i>
+
+142
+00:10:58,909 --> 00:11:00,327
+Pourquoi tu me prends la tête ?
+
+143
+00:11:01,286 --> 00:11:03,121
+Dis-moi plutôt où t'es.
+
+144
+00:11:03,121 --> 00:11:06,333
+<i>Pourquoi tu redemandes ?
+Je t'ai déjà répondu.</i>
+
+145
+00:11:06,333 --> 00:11:08,043
+<i>Je suis là.</i>
+
+146
+00:11:10,545 --> 00:11:11,797
+<i>On va jouer à un jeu.</i>
+
+147
+00:11:13,548 --> 00:11:15,133
+<i>Tu connais le chaud-froid ?</i>
+
+148
+00:11:15,634 --> 00:11:19,971
+<i>Allez. Trouve-moi,
+et on ira taillader les sœurs Carpenter.</i>
+
+149
+00:11:19,971 --> 00:11:22,182
+Tu te sers des caméras ?
+
+150
+00:11:22,182 --> 00:11:24,017
+<i>Oui, les caméras.</i>
+
+151
+00:11:24,768 --> 00:11:28,105
+<i>Pour l'instant, tu es très, très froid.</i>
+
+152
+00:11:28,105 --> 00:11:29,898
+OK, enfoiré, on va jouer.
+
+153
+00:11:37,781 --> 00:11:38,740
+<i>Froid.</i>
+
+154
+00:11:44,955 --> 00:11:45,956
+<i>Tu te réchauffes.</i>
+
+155
+00:11:52,254 --> 00:11:53,380
+<i>Tu chauffes.</i>
+
+156
+00:11:56,425 --> 00:11:57,634
+<i>Tu chauffes.</i>
+
+157
+00:12:13,900 --> 00:12:17,320
+Bon, c'est débile. Je raccroche.
+
+158
+00:12:17,320 --> 00:12:18,947
+<i>Mais tu te réchauffes.</i>
+
+159
+00:12:23,827 --> 00:12:25,078
+<i>Tu te refroidis.</i>
+
+160
+00:12:32,461 --> 00:12:33,503
+<i>Tu te réchauffes.</i>
+
+161
+00:12:35,464 --> 00:12:36,548
+<i>Tu chauffes.</i>
+
+162
+00:12:37,632 --> 00:12:39,593
+<i>Tu brûles.</i>
+
+163
+00:12:41,553 --> 00:12:42,637
+Putain !
+
+164
+00:12:49,394 --> 00:12:51,897
+Ça fait quoi, d'être un animal ?
+
+165
+00:12:59,029 --> 00:13:00,238
+Un bout de viande ?
+
+166
+00:13:02,908 --> 00:13:05,535
+On doit finir le film.
+
+167
+00:13:05,535 --> 00:13:07,537
+On s'en fout, des films !
+
+168
+00:13:40,904 --> 00:13:43,240
+Le nouveau traitement vous convient ?
+
+169
+00:13:44,616 --> 00:13:45,909
+Ça va, je crois.
+
+170
+00:13:47,494 --> 00:13:49,454
+Je n'ai plus de visions étranges.
+
+171
+00:13:50,622 --> 00:13:52,749
+Mais je m'inquiète beaucoup pour Tara.
+
+172
+00:13:52,749 --> 00:13:55,794
+Et moi, je m'inquiète pour vous.
+
+173
+00:13:55,794 --> 00:13:58,421
+On se voit depuis six mois,
+mais on a seulement parlé
+
+174
+00:13:58,421 --> 00:14:01,967
+de votre sœur qui ne gère pas
+
+175
+00:14:02,551 --> 00:14:05,554
+ce que vous avez vécu ensemble,
+l'année dernière.
+
+176
+00:14:06,179 --> 00:14:10,475
+Vous avez fait allusion
+à une relation abusive avec votre père,
+
+177
+00:14:11,184 --> 00:14:15,313
+mais dès que je vous demande des détails,
+
+178
+00:14:15,438 --> 00:14:16,439
+vous vous fermez.
+
+179
+00:14:18,817 --> 00:14:20,151
+J'ai du mal à faire confiance.
+
+180
+00:14:23,572 --> 00:14:25,240
+Pour que je vous aide,
+
+181
+00:14:26,199 --> 00:14:29,286
+il va falloir que vous me racontiez.
+
+182
+00:14:43,049 --> 00:14:44,718
+Mon père est Billy Loomis,
+
+183
+00:14:45,719 --> 00:14:47,095
+un célèbre tueur en série.
+
+184
+00:14:48,471 --> 00:14:49,931
+Un film a été fait sur lui.
+
+185
+00:14:50,890 --> 00:14:53,059
+En effet.
+
+186
+00:14:53,059 --> 00:14:56,813
+L'an dernier, j'ai appris
+que mon copain était aussi un tueur
+
+187
+00:14:56,813 --> 00:14:59,149
+qui idolâtrait mon père.
+
+188
+00:14:59,774 --> 00:15:02,902
+Lui et sa copine tarée
+ont tué plein de gens,
+
+189
+00:15:02,902 --> 00:15:04,863
+mais comme je suis la fille de Billy,
+
+190
+00:15:04,863 --> 00:15:08,950
+la rumeur a couru sur Internet
+que j'avais tout manigancé.
+
+191
+00:15:15,206 --> 00:15:17,250
+Samantha Carpenter est
+la VRAIE tueuse de Woodsboro
+
+192
+00:15:17,250 --> 00:15:18,543
+Richie a été piégé
+INNOCENT !
+
+193
+00:15:18,543 --> 00:15:20,045
+Richie, c'était mon copain.
+
+194
+00:15:21,963 --> 00:15:25,300
+VA CHIER, SAMANTHA CARPENTER
+
+195
+00:15:26,509 --> 00:15:27,510
+Mais vous n'avez rien fait.
+
+196
+00:15:28,720 --> 00:15:30,889
+Bien sûr que non.
+
+197
+00:15:30,889 --> 00:15:33,725
+Il a failli tuer ma sœur, et moi avec,
+
+198
+00:15:34,601 --> 00:15:36,061
+avant que je l'arrête.
+
+199
+00:15:37,937 --> 00:15:39,898
+Comment l'avez-vous arrêté ?
+
+200
+00:15:40,607 --> 00:15:43,109
+Je l'ai poignardé 22 fois et égorgé,
+
+201
+00:15:44,069 --> 00:15:45,654
+puis je lui ai tiré dans la tête.
+
+202
+00:15:46,154 --> 00:15:47,739
+Mais je suis pas là pour ça.
+
+203
+00:15:50,158 --> 00:15:51,618
+Pourquoi êtes-vous là ?
+
+204
+00:15:53,370 --> 00:15:54,371
+Parce que...
+
+205
+00:15:58,208 --> 00:16:00,377
+ça m'a semblé naturel.
+
+206
+00:16:08,259 --> 00:16:09,386
+On a terminé.
+
+207
+00:16:10,804 --> 00:16:13,890
+Quoi ? Vous vouliez que je vous raconte...
+
+208
+00:16:13,890 --> 00:16:17,060
+Je ne suis pas qualifié pour cela.
+
+209
+00:16:17,060 --> 00:16:20,063
+Je vous en prie, Dr Stone, aidez-moi.
+
+210
+00:16:20,063 --> 00:16:22,732
+Je suis contraint
+d'informer les autorités.
+
+211
+00:16:22,732 --> 00:16:24,651
+Les informer de quoi ?
+
+212
+00:16:25,276 --> 00:16:26,736
+Je ne vais rien faire.
+
+213
+00:16:27,404 --> 00:16:28,905
+Ce n'était pas explicite...
+
+214
+00:16:28,905 --> 00:16:30,073
+Vous savez quoi ?
+
+215
+00:16:31,032 --> 00:16:32,117
+Laissez tomber.
+
+216
+00:16:33,743 --> 00:16:35,370
+Vous êtes comme les autres.
+
+217
+00:16:58,935 --> 00:17:01,479
+<i>Portable de Tara. Envoyez un texto.</i>
+
+218
+00:17:01,479 --> 00:17:03,314
+Quand c'est moi, tu décroches.
+
+219
+00:17:04,149 --> 00:17:05,358
+Je suis sortie plus tôt du psy,
+
+220
+00:17:05,358 --> 00:17:07,861
+je me disais
+qu'on pourrait manger toutes les deux.
+
+221
+00:17:08,445 --> 00:17:10,071
+À tout de suite.
+
+222
+00:17:28,965 --> 00:17:29,966
+Tara ?
+
+223
+00:17:51,321 --> 00:17:52,447
+Quinn ?
+
+224
+00:17:55,950 --> 00:17:57,035
+On fait trop de bruit ?
+
+225
+00:17:58,787 --> 00:18:00,622
+Pas du tout. Tu as vu Tara ?
+
+226
+00:18:02,207 --> 00:18:03,208
+Te fâche pas.
+
+227
+00:18:03,208 --> 00:18:05,210
+- Pourquoi ?
+- Tu te fâches toujours.
+
+228
+00:18:06,002 --> 00:18:07,212
+C'est Paul ?
+
+229
+00:18:07,962 --> 00:18:09,339
+C'est qui, Paul ?
+
+230
+00:18:10,048 --> 00:18:12,634
+Dans la vie, l'important,
+
+231
+00:18:12,634 --> 00:18:14,886
+c'est la variété.
+
+232
+00:18:22,685 --> 00:18:24,521
+- C'est pour toi.
+- Merci.
+
+233
+00:18:24,521 --> 00:18:27,899
+- Où est Tara ?
+- À la soirée Omega Kapa Beta.
+
+234
+00:18:27,899 --> 00:18:29,859
+Je l'ai suppliée de pas y aller.
+
+235
+00:18:29,859 --> 00:18:31,319
+Et voilà, tu te fâches.
+
+236
+00:18:33,154 --> 00:18:35,365
+Tu sais si elle a pris son taser ?
+
+237
+00:18:35,365 --> 00:18:40,954
+Je ne connais pas le niveau d'armement
+de Tara à cette soirée étudiante.
+
+238
+00:18:44,082 --> 00:18:45,583
+Beauté, tu viens ?
+
+239
+00:18:45,583 --> 00:18:47,502
+- Beauté ?
+- Laisse tomber.
+
+240
+00:18:53,967 --> 00:18:55,760
+Le BG est encore torse nu ?
+
+241
+00:18:55,760 --> 00:18:58,179
+- C'est qui, le BG ?
+- Toujours toi.
+
+242
+00:18:58,847 --> 00:18:59,848
+Mon cœur.
+
+243
+00:18:59,848 --> 00:19:02,183
+Vous vous matez depuis des mois.
+
+244
+00:19:02,183 --> 00:19:03,601
+Va lui parler.
+
+245
+00:19:03,601 --> 00:19:06,646
+Je peux pas donner plus,
+niveau sentimental.
+
+246
+00:19:06,646 --> 00:19:09,148
+Je vais chercher Tara.
+
+247
+00:19:09,148 --> 00:19:10,817
+- Je reviens.
+- Salut.
+
+248
+00:19:49,063 --> 00:19:50,315
+Ça te gêne pas
+
+249
+00:19:50,315 --> 00:19:52,483
+d'être à une fête étudiante
+
+250
+00:19:52,483 --> 00:19:56,195
+alors que t'as failli te faire tuer
+à une fête étudiante ?
+
+251
+00:19:56,195 --> 00:19:58,823
+Non, c'est comme être touchée
+par la foudre.
+
+252
+00:19:59,532 --> 00:20:03,036
+Le risque que ça t'arrive deux fois
+est infime.
+
+253
+00:20:04,412 --> 00:20:06,331
+Je vais rester près de toi, alors.
+
+254
+00:20:09,500 --> 00:20:11,169
+- Pardon.
+- Fais gaffe.
+
+255
+00:20:11,169 --> 00:20:12,295
+Salut.
+
+256
+00:20:14,547 --> 00:20:16,007
+Comment ça va, T ?
+
+257
+00:20:18,468 --> 00:20:19,636
+J'y crois pas.
+
+258
+00:20:19,636 --> 00:20:21,220
+Le dernier est à sec.
+
+259
+00:20:21,220 --> 00:20:23,556
+Y a de l'alcool fort dans la cuisine.
+
+260
+00:20:25,558 --> 00:20:26,559
+Frankie.
+
+261
+00:20:27,435 --> 00:20:28,436
+Tara.
+
+262
+00:20:29,562 --> 00:20:30,730
+Je te suis.
+
+263
+00:20:31,439 --> 00:20:33,149
+T'es membre d'Omega Beta Zeta ?
+
+264
+00:20:33,149 --> 00:20:35,610
+Non, mais je vais faire la demande.
+
+265
+00:20:35,610 --> 00:20:38,279
+Donc t'es en première année, cool.
+
+266
+00:20:39,822 --> 00:20:41,324
+T'es d'où ?
+
+267
+00:20:43,409 --> 00:20:44,494
+Du Michigan.
+
+268
+00:20:46,162 --> 00:20:47,622
+Tu sais quoi ?
+
+269
+00:20:48,122 --> 00:20:50,249
+J'ai une bouteille de whisky
+dans ma chambre.
+
+270
+00:20:54,837 --> 00:20:56,422
+Vendu. On y va.
+
+271
+00:20:59,717 --> 00:21:00,969
+J'aime pas ça.
+
+272
+00:21:02,512 --> 00:21:04,013
+Tu veux qu'on rentre ?
+
+273
+00:21:06,891 --> 00:21:08,601
+Je vais rester un peu,
+
+274
+00:21:08,601 --> 00:21:10,353
+m'attendez pas.
+
+275
+00:21:10,353 --> 00:21:13,064
+T'inquiète, je m'occupe d'elle.
+Je suis Frankie.
+
+276
+00:21:13,815 --> 00:21:17,485
+Et moi, je suis complètement
+désintéressée par ta personne.
+
+277
+00:21:20,613 --> 00:21:22,407
+Anika, je suis pas si bourrée.
+
+278
+00:21:23,241 --> 00:21:25,535
+Mais merci de t'inquiéter.
+
+279
+00:21:36,629 --> 00:21:38,756
+Trinquons au duo d'enfer
+
+280
+00:21:38,756 --> 00:21:41,843
+d'Hortense Tower,
+troisième étage, chambre 315.
+
+281
+00:21:46,139 --> 00:21:48,641
+Va falloir s'y mettre.
+
+282
+00:21:48,641 --> 00:21:50,977
+On va te faire rencontrer des filles.
+
+283
+00:21:50,977 --> 00:21:52,103
+Elle ?
+
+284
+00:21:53,730 --> 00:21:54,897
+Canon.
+
+285
+00:21:54,897 --> 00:21:56,482
+- Va lui parler.
+- Je vais pas débarquer...
+
+286
+00:21:56,482 --> 00:21:58,192
+Va lui parler !
+
+287
+00:21:58,192 --> 00:21:59,444
+Tais-toi !
+
+288
+00:21:59,444 --> 00:22:02,572
+Faut croire en soi.
+En plus, t'es à croquer.
+
+289
+00:22:02,572 --> 00:22:04,949
+Y a de quoi boire et manger.
+
+290
+00:22:04,949 --> 00:22:07,035
+- Tu crois ?
+- Oui, regarde-toi.
+
+291
+00:22:07,035 --> 00:22:08,453
+Excuse-moi ?
+
+292
+00:22:08,453 --> 00:22:10,663
+Salut ! Comment ça va ?
+
+293
+00:22:10,663 --> 00:22:13,041
+Mon pote est à croquer, non ?
+
+294
+00:22:16,878 --> 00:22:19,088
+- Ça veut dire quoi ?
+- Tout roule.
+
+295
+00:22:19,088 --> 00:22:20,256
+- Quoi ?
+- Pas grave.
+
+296
+00:22:20,256 --> 00:22:21,591
+Disons qu'on peut s'améliorer.
+
+297
+00:22:21,591 --> 00:22:23,134
+Gros bras, on a besoin de toi.
+
+298
+00:22:25,178 --> 00:22:26,512
+À plus.
+
+299
+00:22:26,512 --> 00:22:30,558
+T'es pas liée aux meurtres à la <i>Stab</i>
+en Californie, l'an dernier ?
+
+300
+00:22:31,059 --> 00:22:33,186
+Non, c'est une autre pirate.
+
+301
+00:22:33,186 --> 00:22:34,812
+Mec.
+
+302
+00:22:36,189 --> 00:22:37,440
+Tara peut rester là.
+
+303
+00:22:38,608 --> 00:22:39,859
+Quoi ? J'ai pas entendu.
+
+304
+00:22:41,527 --> 00:22:43,071
+Si, t'as entendu.
+
+305
+00:22:43,071 --> 00:22:44,280
+Chad.
+
+306
+00:22:45,615 --> 00:22:48,159
+- Tout va bien. J'en ai envie.
+- Tu vois, Chad ?
+
+307
+00:22:48,951 --> 00:22:50,578
+- Ça va.
+- Elle en a envie.
+
+308
+00:22:52,371 --> 00:22:56,375
+- Lâche-la !
+- T'as un problème ? Dégage !
+
+309
+00:22:56,375 --> 00:22:57,668
+Les gars !
+
+310
+00:22:57,668 --> 00:22:59,837
+Va te faire ! Tu crois quoi ?
+
+311
+00:23:01,464 --> 00:23:04,801
+Désolée de vous interrompre.
+Je te tase les burnes.
+
+312
+00:23:07,470 --> 00:23:09,263
+Ne retouche jamais à ma sœur.
+
+313
+00:23:09,263 --> 00:23:11,474
+Connasse !
+
+314
+00:23:12,225 --> 00:23:13,392
+Va te faire foutre !
+
+315
+00:23:13,392 --> 00:23:15,019
+C'est une blague ?
+
+316
+00:23:15,019 --> 00:23:16,521
+Tu m'as suivie ?
+
+317
+00:23:18,439 --> 00:23:20,108
+C'est la cinglée.
+
+318
+00:23:24,987 --> 00:23:27,156
+Tara, tu peux t'arrêter ?
+
+319
+00:23:27,156 --> 00:23:29,242
+Tu m'as foutu la honte.
+
+320
+00:23:29,242 --> 00:23:31,369
+Ce connard allait profiter de toi.
+
+321
+00:23:31,369 --> 00:23:32,745
+Et alors ?
+
+322
+00:23:32,745 --> 00:23:35,456
+Si je veux pécho un con, c'est mon choix !
+
+323
+00:23:36,082 --> 00:23:39,085
+Mon choix. Ça te concerne pas.
+
+324
+00:23:39,085 --> 00:23:40,962
+Tu disparais cinq ans
+
+325
+00:23:40,962 --> 00:23:43,131
+et maintenant,
+tu me lâches pas cinq minutes.
+
+326
+00:23:43,131 --> 00:23:45,842
+Parce que tu refoules
+ce qui nous est arrivé.
+
+327
+00:23:45,842 --> 00:23:47,802
+Tu as vu le psy ?
+
+328
+00:23:47,802 --> 00:23:49,387
+- Non, je le ferai pas.
+- Pourquoi ?
+
+329
+00:23:49,387 --> 00:23:52,723
+J'ai pas envie
+de vivre dans le passé comme toi.
+
+330
+00:23:52,723 --> 00:23:54,517
+- Quoi ?
+- Les filles.
+
+331
+00:23:54,517 --> 00:23:59,063
+Je vais pas laisser ces trois jours
+influencer le reste de ma vie.
+
+332
+00:23:59,689 --> 00:24:02,024
+Donc c'est jamais arrivé ?
+
+333
+00:24:02,608 --> 00:24:04,986
+Qu'est-ce que tu fais ici, à New York ?
+
+334
+00:24:05,736 --> 00:24:09,699
+Tu cumules deux tafs,
+mais c'est quoi, ton plan ?
+
+335
+00:24:11,450 --> 00:24:12,702
+Moi, j'ai un plan.
+
+336
+00:24:13,786 --> 00:24:15,538
+Je vais continuer la fac,
+
+337
+00:24:15,538 --> 00:24:18,207
+décrocher mon diplôme et vivre ma vie.
+
+338
+00:24:18,749 --> 00:24:19,959
+Ma vie.
+
+339
+00:24:20,918 --> 00:24:22,086
+Je sais.
+
+340
+00:24:23,504 --> 00:24:26,716
+Tu m'as suivie
+pour continuer à me surveiller.
+
+341
+00:24:29,468 --> 00:24:31,721
+Je veux juste te protéger.
+
+342
+00:24:33,014 --> 00:24:34,015
+Je sais.
+
+343
+00:24:34,015 --> 00:24:35,391
+Je sais bien.
+
+344
+00:24:37,018 --> 00:24:39,353
+Mais tu me tiendras pas la main
+toute ma vie.
+
+345
+00:24:40,897 --> 00:24:42,440
+Il va falloir que tu me lâches.
+
+346
+00:24:46,527 --> 00:24:47,528
+Meurtrière !
+
+347
+00:24:47,528 --> 00:24:49,947
+T'es malade ou quoi ?
+
+348
+00:24:49,947 --> 00:24:51,199
+Arrête ! Tu veux quoi ?
+
+349
+00:24:51,199 --> 00:24:53,576
+Elle sait ce qu'elle a fait.
+
+350
+00:24:53,576 --> 00:24:55,161
+J'ai rien fait, putain !
+
+351
+00:24:55,161 --> 00:24:56,704
+Mais bien sûr.
+
+352
+00:24:56,704 --> 00:24:57,788
+Casse-toi !
+
+353
+00:24:57,788 --> 00:25:01,083
+J'en ai marre.
+
+354
+00:25:02,001 --> 00:25:04,462
+J'ai des mouchoirs, si tu veux.
+
+355
+00:25:05,755 --> 00:25:07,506
+J'en ai trois.
+
+356
+00:25:32,490 --> 00:25:34,909
+Désolée d'avoir dit à Sam où t'étais.
+
+357
+00:25:34,909 --> 00:25:36,953
+C'est rien.
+
+358
+00:25:38,704 --> 00:25:40,122
+Elle me lâche plus,
+
+359
+00:25:41,040 --> 00:25:42,041
+comme d'hab.
+
+360
+00:25:42,041 --> 00:25:45,920
+Je sais ce que c'est,
+quand ils s'accrochent.
+
+361
+00:25:46,545 --> 00:25:48,547
+Après la...
+
+362
+00:25:50,549 --> 00:25:51,842
+la mort de mon frère,
+
+363
+00:25:53,135 --> 00:25:55,888
+mon père me laissait jamais tranquille.
+
+364
+00:25:56,847 --> 00:25:59,976
+Il a intégré la police d'ici
+quand j'ai commencé la fac.
+
+365
+00:26:00,476 --> 00:26:01,894
+Flippant, non ?
+
+366
+00:26:05,147 --> 00:26:08,734
+J'y vais. Je vais vous laisser discuter.
+
+367
+00:26:13,281 --> 00:26:14,282
+Merci.
+
+368
+00:26:14,282 --> 00:26:15,366
+Tu peux...
+
+369
+00:26:16,242 --> 00:26:17,243
+rentrer,
+
+370
+00:26:17,243 --> 00:26:19,078
+je pense que la baston est terminée.
+
+371
+00:26:19,078 --> 00:26:20,538
+Dommage.
+
+372
+00:26:21,289 --> 00:26:24,333
+Je voulais balancer des droites.
+
+373
+00:26:25,751 --> 00:26:26,836
+Je veux voir ça.
+
+374
+00:26:32,466 --> 00:26:33,634
+Merci
+
+375
+00:26:33,634 --> 00:26:36,512
+de m'avoir empêchée
+de monter les escaliers.
+
+376
+00:26:41,017 --> 00:26:44,061
+J'étais plus bourrée que je le croyais.
+
+377
+00:26:48,774 --> 00:26:50,109
+Les survivants s'entraident.
+
+378
+00:26:52,069 --> 00:26:55,072
+Tu peux faire mieux
+que Frankie l'agresseur sexuel.
+
+379
+00:26:56,282 --> 00:26:57,408
+Tara, tu es...
+
+380
+00:27:00,494 --> 00:27:01,871
+T'es une fille géniale.
+
+381
+00:27:13,716 --> 00:27:15,259
+J'ai dessoûlé.
+
+382
+00:27:17,053 --> 00:27:18,387
+Juste pour info.
+
+383
+00:27:24,185 --> 00:27:25,728
+Mon portable...
+
+384
+00:27:27,563 --> 00:27:28,606
+Vous alliez ken ?
+
+385
+00:27:28,606 --> 00:27:30,608
+- Quoi ?
+- Vous alliez ken, non ?
+
+386
+00:27:30,608 --> 00:27:33,194
+- Pitié.
+- Pas du tout.
+
+387
+00:27:33,194 --> 00:27:34,862
+Arrête de dire ken.
+
+388
+00:27:34,862 --> 00:27:37,823
+- Tu veux quoi ?
+- Mon portable.
+
+389
+00:27:37,823 --> 00:27:40,159
+- Entre pas sans frapper.
+- Je le ferai plus.
+
+390
+00:27:40,159 --> 00:27:41,619
+J'y vais.
+
+391
+00:27:41,619 --> 00:27:43,913
+Repose-toi, dessoûle.
+
+392
+00:27:43,913 --> 00:27:47,083
+Et ne tue pas ta sœur,
+elle t'aime beaucoup.
+
+393
+00:27:48,834 --> 00:27:50,503
+- Bonne nuit.
+- Salut.
+
+394
+00:27:51,337 --> 00:27:54,173
+Je suis désolée.
+
+395
+00:28:49,728 --> 00:28:50,729
+Attention.
+
+396
+00:28:51,897 --> 00:28:53,190
+Quelqu'un pourrait nous voir.
+
+397
+00:28:56,527 --> 00:28:58,154
+T'es toujours si romantique.
+
+398
+00:28:59,697 --> 00:29:01,157
+Danny.
+
+399
+00:29:01,657 --> 00:29:04,910
+Mon truc, c'est les femmes
+qui ont honte d'être avec moi.
+
+400
+00:29:04,910 --> 00:29:08,038
+Tu sais que c'est pas ça.
+
+401
+00:29:08,998 --> 00:29:12,460
+- Je suis pas prête.
+- Je sais. Ta sœur et tes amis
+
+402
+00:29:12,460 --> 00:29:16,130
+ne doivent pas savoir que tu aimes
+le contact physique avec un autre humain.
+
+403
+00:29:16,130 --> 00:29:19,467
+Je comprends. Ton secret sera bien gardé.
+
+404
+00:29:20,342 --> 00:29:23,137
+Sinon, et c'est pas grave,
+
+405
+00:29:23,137 --> 00:29:25,973
+je remarque que tu es couverte
+de soda à la cerise.
+
+406
+00:29:26,474 --> 00:29:28,434
+Je crois que c'est du light.
+
+407
+00:29:29,226 --> 00:29:32,813
+- T'aimes pas ?
+- J'adore.
+
+408
+00:29:32,938 --> 00:29:36,108
+C'est un parfum très sensuel.
+
+409
+00:29:39,153 --> 00:29:41,155
+Encore un fan de théorie du complot ?
+
+410
+00:29:42,031 --> 00:29:44,283
+Être célèbre, c'est pas si cool.
+
+411
+00:29:45,868 --> 00:29:48,913
+Tara m'en veut à nouveau.
+
+412
+00:29:49,580 --> 00:29:51,415
+Elle veut que je la lâche.
+
+413
+00:29:52,917 --> 00:29:54,668
+La famille, c'est pas facile.
+
+414
+00:29:54,668 --> 00:29:56,170
+Sam !
+
+415
+00:29:56,170 --> 00:29:57,880
+Remonte tout de suite !
+
+416
+00:29:59,256 --> 00:30:01,008
+<i>Je suis devant le bâtiment</i>
+
+417
+00:30:01,008 --> 00:30:02,843
+<i>où deux corps mutilés...</i>
+
+418
+00:30:02,843 --> 00:30:04,845
+Le BG. Sympa.
+
+419
+00:30:04,845 --> 00:30:09,308
+<i>...ont été découverts.
+La police vient de donner leurs noms :</i>
+
+420
+00:30:09,308 --> 00:30:10,434
+<i>Jason Carvey et Greg...</i>
+
+421
+00:30:10,434 --> 00:30:12,937
+C'est le loser de mon cours de ciné
+
+422
+00:30:12,937 --> 00:30:14,396
+qui adore Argento.
+
+423
+00:30:14,396 --> 00:30:17,566
+<i>On a retrouvé
+plusieurs costumes de Ghostface,</i>
+
+424
+00:30:17,566 --> 00:30:21,737
+<i>un personnage popularisé
+par la franchise</i> Stab<i>.</i>
+
+425
+00:30:22,613 --> 00:30:24,573
+Fais ton sac. On part dans 10 min.
+
+426
+00:30:24,573 --> 00:30:26,033
+Sam, attends.
+
+427
+00:30:26,033 --> 00:30:27,701
+- On quitte la ville.
+- Quoi ?
+
+428
+00:30:27,701 --> 00:30:29,954
+Merci, le nouveau suspect, ça ira.
+
+429
+00:30:29,954 --> 00:30:33,457
+Bonne soirée, bon retour.
+
+430
+00:30:36,043 --> 00:30:37,753
+- Attends.
+- Viens.
+
+431
+00:30:37,753 --> 00:30:40,172
+On va en discuter un peu.
+
+432
+00:30:40,172 --> 00:30:42,007
+C'est peut-être pas lié à nous.
+
+433
+00:30:42,007 --> 00:30:44,134
+- T'es sérieuse ?
+- C'est grand, ici !
+
+434
+00:30:44,134 --> 00:30:45,886
+À Halloween, y a des masques.
+
+435
+00:30:45,886 --> 00:30:48,305
+Tara, c'est pas une coïncidence.
+
+436
+00:30:49,390 --> 00:30:50,349
+Tu le connaissais.
+
+437
+00:30:50,349 --> 00:30:52,560
+- À peine.
+- Chad, Mindy, aidez-moi.
+
+438
+00:30:52,560 --> 00:30:54,270
+Ça nous...
+
+439
+00:30:54,270 --> 00:30:55,521
+Rappelle des trucs.
+
+440
+00:30:56,397 --> 00:30:57,565
+Tu vois ?
+
+441
+00:30:59,066 --> 00:31:00,901
+Quinn, ton père est flic ?
+
+442
+00:31:00,901 --> 00:31:02,987
+Tu peux lui demander des infos ?
+
+443
+00:31:02,987 --> 00:31:07,825
+Avant que tu décides
+que je quitte la fac et l'État.
+
+444
+00:31:07,825 --> 00:31:09,618
+Je l'appelle.
+
+445
+00:31:09,618 --> 00:31:10,953
+Merci.
+
+446
+00:31:20,170 --> 00:31:21,297
+C'est qui ?
+
+447
+00:31:22,172 --> 00:31:23,799
+{\an8}Refusé
+Gale Weathers
+
+448
+00:31:25,426 --> 00:31:27,595
+Le téléphone vous fait flipper ?
+
+449
+00:31:28,470 --> 00:31:29,722
+Faut suivre, mec.
+
+450
+00:31:29,722 --> 00:31:31,181
+Sam ?
+
+451
+00:31:31,181 --> 00:31:32,891
+Mon père veut te parler.
+
+452
+00:31:33,976 --> 00:31:36,478
+- M. Bailey, bonsoir.
+<i>- Salut, Sam.</i>
+
+453
+00:31:37,396 --> 00:31:39,315
+J'allais justement t'appeler.
+
+454
+00:31:39,315 --> 00:31:41,900
+<i>Ma sœur pense que je panique pour rien.</i>
+
+455
+00:31:42,401 --> 00:31:44,528
+Malheureusement, non.
+
+456
+00:31:44,528 --> 00:31:46,322
+<i>Qu'est-ce qui se passe ?</i>
+
+457
+00:31:47,740 --> 00:31:50,326
+Il va falloir que vous veniez au poste.
+
+458
+00:31:56,248 --> 00:31:57,583
+Sam, attends.
+
+459
+00:31:57,583 --> 00:31:59,960
+Rentre et ferme à clé.
+
+460
+00:31:59,960 --> 00:32:02,338
+Sérieux ? On reste plus ensemble ?
+
+461
+00:32:03,922 --> 00:32:05,007
+OK.
+
+462
+00:32:15,351 --> 00:32:17,353
+Appel entrant
+
+463
+00:32:17,353 --> 00:32:18,812
+Quoi ?
+
+464
+00:32:19,855 --> 00:32:22,024
+J'ai jamais supprimé son contact.
+
+465
+00:32:22,775 --> 00:32:24,735
+- C'est son numéro.
+- Réponds pas.
+
+466
+00:32:25,527 --> 00:32:26,862
+Laisse sonner.
+
+467
+00:32:29,615 --> 00:32:32,451
+- C'est qui ?
+<i>- Bonsoir, Samantha.</i>
+
+468
+00:32:32,951 --> 00:32:34,536
+<i>Je t'ai manqué ?</i>
+
+469
+00:32:34,536 --> 00:32:37,539
+Réfléchis bien
+avant de t'en prendre à nous,
+
+470
+00:32:37,539 --> 00:32:40,542
+parce que les deux derniers sont morts.
+
+471
+00:32:40,542 --> 00:32:43,128
+<i>Tu devrais me remercier, Sam.</i>
+
+472
+00:32:43,879 --> 00:32:46,840
+<i>Jason et Greg allaient vous tuer,
+toi et ta sœur.</i>
+
+473
+00:32:47,716 --> 00:32:51,136
+<i>Je les ai étripés avant.</i>
+
+474
+00:32:57,059 --> 00:32:59,895
+Et donc ? Tu nous protèges, maintenant ?
+
+475
+00:32:59,895 --> 00:33:01,313
+<i>Pas tout à fait.</i>
+
+476
+00:33:01,313 --> 00:33:03,857
+<i>Je vais montrer au monde
+qui tu es vraiment,</i>
+
+477
+00:33:03,857 --> 00:33:05,859
+<i>une menteuse et une meurtrière.</i>
+
+478
+00:33:05,859 --> 00:33:08,487
+<i>Je vais te punir, Sam.</i>
+
+479
+00:33:08,487 --> 00:33:11,323
+Faut pas croire
+tout ce qu'on lit sur Internet.
+
+480
+00:33:11,323 --> 00:33:13,826
+<i>Tu vas payer pour ce que t'as fait.</i>
+
+481
+00:33:13,826 --> 00:33:16,370
+<i>Je m'arrêterai pas
+avant de t'avoir massacrée,</i>
+
+482
+00:33:16,370 --> 00:33:18,455
+<i>toi et quiconque s'interposera.</i>
+
+483
+00:33:18,455 --> 00:33:20,666
+<i>Toi et Tara, surveillez vos arrières.</i>
+
+484
+00:33:20,666 --> 00:33:22,167
+Et toi, les tiens.
+
+485
+00:33:26,213 --> 00:33:27,631
+Viens !
+
+486
+00:33:29,341 --> 00:33:30,592
+Vite !
+
+487
+00:33:30,592 --> 00:33:32,302
+Au secours !
+
+488
+00:33:32,302 --> 00:33:33,387
+Là.
+
+489
+00:33:36,640 --> 00:33:37,766
+S'il vous plaît, aidez-nous !
+
+490
+00:33:37,766 --> 00:33:39,476
+Appelez la police !
+
+491
+00:33:39,476 --> 00:33:41,061
+Faites la queue.
+
+492
+00:33:45,190 --> 00:33:46,692
+T'as un problème, toi ?
+
+493
+00:34:10,340 --> 00:34:12,468
+- Sortez par-derrière !
+- Merci.
+
+494
+00:34:14,887 --> 00:34:17,681
+- C'est fermé.
+- La clé !
+
+495
+00:34:20,100 --> 00:34:21,310
+Attention !
+
+496
+00:36:07,749 --> 00:36:09,835
+Cours !
+
+497
+00:36:16,049 --> 00:36:17,718
+Je vais à l'arrière.
+
+498
+00:36:43,243 --> 00:36:46,288
+On a trouvé ça près du corps,
+dans l'appartement.
+
+499
+00:36:47,331 --> 00:36:51,043
+L'ADN identifié est celui
+de Richie Kirsch.
+
+500
+00:36:53,170 --> 00:36:54,421
+Ça vous parle ?
+
+501
+00:36:56,715 --> 00:36:58,008
+On sait qui c'est.
+
+502
+00:36:58,008 --> 00:37:00,594
+Notre agresseur avait un masque différent.
+
+503
+00:37:01,511 --> 00:37:03,639
+Il avait l'air abîmé, plus ancien.
+
+504
+00:37:06,391 --> 00:37:07,392
+Je dois vous demander.
+
+505
+00:37:08,685 --> 00:37:10,270
+Vous avez un alibi pour ce soir ?
+
+506
+00:37:10,938 --> 00:37:12,773
+J'étais à une fête avec mes amis.
+
+507
+00:37:12,773 --> 00:37:14,232
+J'étais chez mon psy.
+
+508
+00:37:14,733 --> 00:37:17,736
+Je peux vous donner son numéro
+pour vérifier.
+
+509
+00:37:17,736 --> 00:37:19,446
+Ensuite, j'ai rejoint la fête
+
+510
+00:37:19,947 --> 00:37:21,239
+et j'ai tasé un mec.
+
+511
+00:37:22,449 --> 00:37:23,408
+Rien à voir.
+
+512
+00:37:25,118 --> 00:37:26,912
+C'était avant ou après ça ?
+
+513
+00:37:26,912 --> 00:37:29,706
+<i>- Meurtrière !
+- T'es malade ou quoi ?</i>
+
+514
+00:37:29,706 --> 00:37:31,166
+<i>Tu veux quoi ?</i>
+
+515
+00:37:31,166 --> 00:37:32,084
+Avant.
+
+516
+00:37:32,084 --> 00:37:34,461
+On était accompagnées.
+
+517
+00:37:34,461 --> 00:37:36,797
+Donc c'est le père de notre coloc
+
+518
+00:37:37,547 --> 00:37:39,549
+qui, par hasard, mène l'enquête.
+
+519
+00:37:39,549 --> 00:37:42,052
+Quelle coïncidence, non ?
+
+520
+00:37:42,052 --> 00:37:44,680
+L'inspecteur qui s'en chargeait
+me l'a confiée
+
+521
+00:37:44,680 --> 00:37:46,348
+parce que Quinn est concernée.
+
+522
+00:37:47,182 --> 00:37:50,936
+Mais je peux la lui rendre,
+si ça te dérange.
+
+523
+00:37:55,023 --> 00:37:56,024
+Non, ça va.
+
+524
+00:37:56,984 --> 00:37:59,444
+Si l'agresseur a volé
+ton permis de conduire
+
+525
+00:37:59,444 --> 00:38:00,988
+et l'a posé près du corps,
+
+526
+00:38:02,239 --> 00:38:04,366
+ça doit être un proche.
+
+527
+00:38:05,617 --> 00:38:07,452
+Vous connaissez bien vos amis ?
+
+528
+00:38:07,452 --> 00:38:10,956
+On est arrivées avec Mindy et Chad
+le semestre dernier.
+
+529
+00:38:12,165 --> 00:38:15,335
+On a rencontré Quinn, Ethan et Anika
+à cette époque.
+
+530
+00:38:16,628 --> 00:38:19,881
+Je réponds de Quinn,
+ça fait une suspecte en moins.
+
+531
+00:38:20,507 --> 00:38:23,719
+Quelqu'un voudrait-il vous menacer ?
+
+532
+00:38:25,971 --> 00:38:27,264
+Personne encore en vie.
+
+533
+00:38:27,973 --> 00:38:28,974
+Eh ben.
+
+534
+00:38:30,726 --> 00:38:33,061
+Le FBI est là et prend le relais.
+
+535
+00:38:33,061 --> 00:38:34,104
+Ils sont où ?
+
+536
+00:38:40,652 --> 00:38:41,653
+Je peux vous aider ?
+
+537
+00:38:44,698 --> 00:38:48,660
+Agent spécial Kirby Reed, FBI,
+du bureau d'Atlanta.
+
+538
+00:38:48,660 --> 00:38:49,953
+Vous êtes perdue ?
+
+539
+00:38:51,621 --> 00:38:54,916
+Vos deux victimes viennent
+de la même ville que moi.
+
+540
+00:38:54,916 --> 00:38:58,670
+Je surveillais leur activité en ligne
+depuis des mois.
+
+541
+00:39:01,965 --> 00:39:03,050
+Pourquoi ?
+
+542
+00:39:03,050 --> 00:39:06,136
+Je m'intéresse de près à Ghostface.
+
+543
+00:39:06,136 --> 00:39:07,929
+- Kirby ?
+- Bonsoir, Sam.
+
+544
+00:39:11,016 --> 00:39:12,017
+Tara.
+
+545
+00:39:12,893 --> 00:39:13,977
+C'est toi, le FBI ?
+
+546
+00:39:14,853 --> 00:39:16,688
+Vous vous connaissez ?
+
+547
+00:39:17,397 --> 00:39:20,233
+Oui, depuis Woodsboro.
+J'étais en 3e, elle était en terminale.
+
+548
+00:39:20,817 --> 00:39:22,736
+On a un passé en commun.
+
+549
+00:39:23,779 --> 00:39:27,074
+Écoutez, je ne veux pas jouer
+à qui a la plus grosse,
+
+550
+00:39:27,074 --> 00:39:28,408
+mais vous aider.
+
+551
+00:39:29,034 --> 00:39:31,495
+Je vous montre mon matos, etc.
+
+552
+00:39:34,247 --> 00:39:35,248
+Merci.
+
+553
+00:39:36,541 --> 00:39:38,043
+C'est le masque de l'épicerie.
+
+554
+00:39:38,627 --> 00:39:40,253
+ADN de deux individus :
+
+555
+00:39:40,253 --> 00:39:43,006
+Charlie Walker et Jill Roberts,
+tous deux décédés.
+
+556
+00:39:43,965 --> 00:39:46,343
+Les tueurs de 2011.
+
+557
+00:39:47,844 --> 00:39:50,097
+Charlie Walker m'a fait ça.
+
+558
+00:39:50,680 --> 00:39:52,349
+D'où mon intérêt particulier.
+
+559
+00:39:52,349 --> 00:39:54,976
+Il vous a agressées en portant ce masque ?
+
+560
+00:39:57,521 --> 00:39:59,189
+Il les laisse sur place exprès.
+
+561
+00:39:59,189 --> 00:40:02,943
+L'agresseur a donc étudié
+les tueurs précédents.
+
+562
+00:40:02,943 --> 00:40:05,445
+Pour lui, Sam est leur héritière.
+
+563
+00:40:06,446 --> 00:40:08,281
+Bon courage pour l'enquête.
+
+564
+00:40:08,782 --> 00:40:09,991
+On quitte la ville.
+
+565
+00:40:09,991 --> 00:40:11,868
+Désolé, c'est impossible.
+
+566
+00:40:12,577 --> 00:40:15,288
+Vous êtes liées à un double homicide,
+
+567
+00:40:15,288 --> 00:40:17,332
+vous devez rester ici.
+
+568
+00:40:17,332 --> 00:40:19,543
+- C'est vrai ?
+- Oui.
+
+569
+00:40:20,043 --> 00:40:22,170
+- Mais si on fait équipe...
+- On s'en va.
+
+570
+00:40:25,799 --> 00:40:26,842
+Les voilà.
+
+571
+00:40:27,509 --> 00:40:30,387
+Samantha ! Avez-vous un alibi ?
+
+572
+00:40:30,387 --> 00:40:32,430
+Tara, vous ne craignez pas votre sœur ?
+
+573
+00:40:34,724 --> 00:40:36,434
+Gale Weathers, Channel 4.
+
+574
+00:40:37,561 --> 00:40:40,981
+Pensez-vous avoir attiré
+Ghostface à New York ?
+
+575
+00:40:45,360 --> 00:40:48,155
+Bien tenté, ma belle,
+mais j'ai déjà donné.
+
+576
+00:40:51,700 --> 00:40:53,201
+Laissez-nous tranquilles.
+
+577
+00:40:54,077 --> 00:40:55,620
+Vous m'en voulez encore ?
+
+578
+00:40:55,620 --> 00:40:58,415
+Vous aviez promis
+de pas écrire de bouquin,
+
+579
+00:40:58,415 --> 00:41:00,083
+mais vous l'avez écrit.
+
+580
+00:41:00,083 --> 00:41:01,168
+Écoute.
+
+581
+00:41:01,168 --> 00:41:04,129
+Quelqu'un d'autre l'aurait fait.
+Moi, c'est mon métier.
+
+582
+00:41:04,129 --> 00:41:05,922
+Pas de film, cette fois ?
+
+583
+00:41:06,506 --> 00:41:09,593
+Ils misent plutôt
+sur les mini séries criminelles.
+
+584
+00:41:09,593 --> 00:41:11,595
+Après tout ce qu'on a vécu ensemble.
+
+585
+00:41:12,429 --> 00:41:13,430
+Que penserait Dewey ?
+
+586
+00:41:15,932 --> 00:41:17,893
+- C'est mesquin.
+- Comme votre bouquin.
+
+587
+00:41:18,476 --> 00:41:21,146
+Vous m'avez traitée de déséquilibrée
+et de tueuse.
+
+588
+00:41:21,146 --> 00:41:23,231
+C'est sorti de son contexte.
+
+589
+00:41:23,231 --> 00:41:24,441
+Je vous cite.
+
+590
+00:41:24,441 --> 00:41:26,484
+Votre bouquin n'aurait rien à voir
+
+591
+00:41:26,484 --> 00:41:28,111
+avec tout ça ?
+
+592
+00:41:28,111 --> 00:41:29,571
+Viens.
+
+593
+00:41:30,197 --> 00:41:32,032
+J'ai parlé à Sidney.
+
+594
+00:41:35,202 --> 00:41:37,037
+- Elle va pas venir ?
+- Non.
+
+595
+00:41:37,537 --> 00:41:40,832
+Elle vous embrasse. Elle emmène
+Mark et les filles en lieu sûr.
+
+596
+00:41:41,374 --> 00:41:43,627
+Elle mérite son <i>happy end</i>.
+
+597
+00:41:45,545 --> 00:41:46,963
+On est d'accord sur ça.
+
+598
+00:41:48,298 --> 00:41:51,009
+Moi aussi, je veux arrêter cet enfoiré.
+
+599
+00:41:51,009 --> 00:41:52,093
+Peut-être.
+
+600
+00:41:53,053 --> 00:41:55,305
+Ou alors vous craignez que sans Ghostface,
+
+601
+00:41:55,305 --> 00:41:56,890
+tout le monde vous oublie.
+
+602
+00:42:04,231 --> 00:42:06,399
+<i>Imbéciles, vous êtes en danger !</i>
+
+603
+00:42:06,399 --> 00:42:10,820
+<i>Regardez, ils vous traquent !
+Ils nous traquent tous !</i>
+
+604
+00:42:10,820 --> 00:42:13,240
+<i>Nos femmes, nos enfants, tous !</i>
+
+605
+00:42:13,240 --> 00:42:16,785
+<i>Ils sont déjà là !
+C'est vous, le prochain !</i>
+
+606
+00:42:17,577 --> 00:42:22,916
+<i>C'est vous, le prochain !</i>
+
+607
+00:42:31,675 --> 00:42:32,676
+Qui est là ?
+
+608
+00:42:49,526 --> 00:42:53,196
+Vous avez un jour d'avance
+pour la chasse aux bonbons.
+
+609
+00:43:33,486 --> 00:43:35,780
+Les geeks, écoutez-moi.
+
+610
+00:43:36,448 --> 00:43:38,241
+Je sais que c'est terrifiant,
+
+611
+00:43:38,241 --> 00:43:40,493
+mais je vais pouvoir me racheter
+
+612
+00:43:40,493 --> 00:43:43,246
+de ne pas avoir deviné
+les derniers tueurs.
+
+613
+00:43:43,747 --> 00:43:45,915
+C'est pas grave.
+
+614
+00:43:45,915 --> 00:43:49,669
+Selon moi, quelqu'un veut
+donner une suite au requel.
+
+615
+00:43:50,337 --> 00:43:51,338
+C'est quoi, un requel ?
+
+616
+00:43:52,047 --> 00:43:54,507
+Tu es mignonne. Les questions, à la fin.
+
+617
+00:43:54,507 --> 00:43:56,426
+<i>Stab 1</i> se déroule à Woodsboro.
+
+618
+00:43:57,135 --> 00:43:59,387
+<i>Stab 2</i>, à la fac.
+
+619
+00:43:59,387 --> 00:44:01,765
+Le tueur copierait les films ?
+
+620
+00:44:01,765 --> 00:44:03,350
+C'est possible.
+
+621
+00:44:03,350 --> 00:44:05,560
+Les héros sont à la fac : OK.
+
+622
+00:44:05,560 --> 00:44:08,480
+Un nouveau personnage peut devenir suspect
+
+623
+00:44:08,480 --> 00:44:09,564
+et/ou victime.
+
+624
+00:44:09,564 --> 00:44:11,733
+- OK, OK et OK.
+- J'aime pas ça.
+
+625
+00:44:11,733 --> 00:44:14,235
+- Ça se limite pas à <i>Stab 2</i>.
+- Pourquoi ?
+
+626
+00:44:14,235 --> 00:44:17,030
+Ce serait logique pour une suite,
+mais c'est pas ça.
+
+627
+00:44:17,030 --> 00:44:20,658
+On se contente plus de faire des suites.
+
+628
+00:44:23,203 --> 00:44:24,788
+On est dans une franchise,
+
+629
+00:44:24,788 --> 00:44:28,375
+et il y a des règles
+pour que ça fonctionne.
+
+630
+00:44:28,375 --> 00:44:30,502
+- Je me disais aussi.
+- Règle numéro un :
+
+631
+00:44:30,502 --> 00:44:32,212
+tout est multiplié.
+
+632
+00:44:32,212 --> 00:44:35,215
+Budget, casting, nombre de victimes,
+
+633
+00:44:35,215 --> 00:44:37,092
+coups de feu, décapitations...
+
+634
+00:44:37,092 --> 00:44:39,177
+Il faut que le public revienne.
+
+635
+00:44:39,177 --> 00:44:41,221
+- Décapitations ?
+- Oui.
+
+636
+00:44:41,221 --> 00:44:44,766
+Règle numéro deux : il va se passer
+l'inverse de la dernière fois.
+
+637
+00:44:44,766 --> 00:44:47,811
+Pour survivre,
+les franchises doivent dérouter.
+
+638
+00:44:47,811 --> 00:44:50,980
+Les derniers tueurs étaient
+des cinéphiles pleurnichards
+
+639
+00:44:50,980 --> 00:44:53,066
+qui passent leur temps sur Internet.
+
+640
+00:44:53,066 --> 00:44:55,610
+Cette fois, ce sera l'opposé.
+
+641
+00:44:56,152 --> 00:44:58,738
+Règle numéro trois :
+personne n'est en sécurité.
+
+642
+00:44:59,656 --> 00:45:02,242
+Les persos originaux ?
+De la chair à canon.
+
+643
+00:45:02,242 --> 00:45:06,538
+On les fait revenir pour les tuer
+et raviver la nostalgie.
+
+644
+00:45:06,538 --> 00:45:09,249
+C'est pas rassurant pour Gale et Kirby.
+
+645
+00:45:09,249 --> 00:45:11,418
+Mais c'est pas le pire.
+
+646
+00:45:11,418 --> 00:45:13,586
+Là, elle nous balance le pire.
+
+647
+00:45:13,586 --> 00:45:15,171
+Le pire,
+
+648
+00:45:15,171 --> 00:45:20,343
+c'est que les films sortent à intervalles
+réguliers juste pour booster un concept,
+
+649
+00:45:20,343 --> 00:45:24,889
+ce qui veut dire qu'on peut aussi
+sacrifier les persos principaux.
+
+650
+00:45:24,889 --> 00:45:28,351
+Laurie Strode,
+Nancy Thompson, Ellen Ripley,
+
+651
+00:45:28,351 --> 00:45:31,271
+Sally Hardesty, Jigsaw,
+Tony Stark, James Bond,
+
+652
+00:45:31,271 --> 00:45:35,692
+même Luke Skywalker, ils sont tous morts
+pour que leur franchise survive.
+
+653
+00:45:36,192 --> 00:45:38,236
+Y a pas que les amis qui sont menacés.
+
+654
+00:45:38,236 --> 00:45:41,072
+N'importe qui peut mourir à tout moment,
+
+655
+00:45:41,948 --> 00:45:43,658
+surtout Sam et Tara.
+
+656
+00:45:45,660 --> 00:45:47,996
+N'importe qui ?
+
+657
+00:45:47,996 --> 00:45:50,790
+Je fais partie des amis ?
+
+658
+00:45:50,790 --> 00:45:53,084
+Je suis aussi une cible de...
+
+659
+00:45:54,544 --> 00:45:56,045
+Je vais mourir puceau ?
+
+660
+00:45:57,881 --> 00:45:59,424
+On en demandait pas tant,
+
+661
+00:45:59,424 --> 00:46:01,676
+mais ça nous amène à nos suspects :
+
+662
+00:46:02,302 --> 00:46:03,303
+Ethan,
+
+663
+00:46:03,303 --> 00:46:07,015
+l'intello timide jamais suspecté
+parce qu'il est intello et timide.
+
+664
+00:46:07,015 --> 00:46:11,102
+Je suis suspect car on m'a attribué
+la même chambre que Chad ?
+
+665
+00:46:11,102 --> 00:46:13,021
+L'attribution est trucable.
+
+666
+00:46:13,021 --> 00:46:15,273
+T'as pu te rapprocher exprès.
+
+667
+00:46:15,273 --> 00:46:16,524
+Quinn,
+
+668
+00:46:16,524 --> 00:46:19,777
+la coloc chaudasse,
+un classique des films d'horreur.
+
+669
+00:46:19,777 --> 00:46:22,614
+Sexpositive, mais merci.
+
+670
+00:46:23,907 --> 00:46:25,783
+Comment t'as emménagé avec Sam et Tara ?
+
+671
+00:46:25,783 --> 00:46:28,077
+J'ai répondu à leur annonce en ligne.
+
+672
+00:46:28,077 --> 00:46:31,539
+N'en dis pas plus,
+tu t'es déjà assez compromise.
+
+673
+00:46:31,539 --> 00:46:33,291
+L'annonce était anonyme.
+
+674
+00:46:33,291 --> 00:46:35,627
+On s'est informées, et son père est flic.
+
+675
+00:46:35,627 --> 00:46:37,587
+Elle est encore plus suspecte,
+
+676
+00:46:37,587 --> 00:46:39,297
+c'est la caution parfaite.
+
+677
+00:46:39,297 --> 00:46:41,674
+T'as oublié comment ça marche ?
+
+678
+00:46:42,467 --> 00:46:44,219
+Elle est toujours comme ça ?
+
+679
+00:46:44,219 --> 00:46:46,429
+Et enfin, Anika.
+
+680
+00:46:48,848 --> 00:46:50,558
+Toujours se méfier des histoires d'amour.
+
+681
+00:46:53,353 --> 00:46:57,607
+Donc on a les règles et les suspects.
+
+682
+00:46:57,607 --> 00:46:59,400
+Attendez, et vous ?
+
+683
+00:46:59,984 --> 00:47:02,779
+On peut nous écarter,
+
+684
+00:47:02,779 --> 00:47:04,489
+vu ce qu'on a vécu l'année dernière.
+
+685
+00:47:05,281 --> 00:47:07,283
+- Je suis d'accord.
+- Pas moi.
+
+686
+00:47:07,283 --> 00:47:12,539
+Et si les traumatismes endurés faisaient
+craquer l'un ou plusieurs d'entre vous ?
+
+687
+00:47:12,539 --> 00:47:14,999
+Ou si, avec votre célébrité,
+
+688
+00:47:14,999 --> 00:47:16,543
+vous en vouliez encore ?
+
+689
+00:47:16,543 --> 00:47:20,588
+Pour être honnête,
+certaines théories au sujet de Sam...
+
+690
+00:47:20,588 --> 00:47:22,215
+Ferme-la tout de suite.
+
+691
+00:47:22,882 --> 00:47:25,051
+Elle a raison.
+
+692
+00:47:25,051 --> 00:47:26,135
+C'est logique :
+
+693
+00:47:26,135 --> 00:47:28,304
+si on est suspects, vous aussi.
+
+694
+00:47:37,313 --> 00:47:40,733
+Vous vous rappelez l'alibi
+de Samantha Carpenter, le psy ?
+
+695
+00:47:41,609 --> 00:47:43,903
+Il a été poignardé à mort dans le nez.
+
+696
+00:47:45,029 --> 00:47:47,448
+Dans le nez. C'est pas tordu, ça ?
+
+697
+00:47:47,448 --> 00:47:48,992
+C'est hyper tordu.
+
+698
+00:47:50,118 --> 00:47:53,454
+Il a signalé ses propos inquiétants
+et il est mort.
+
+699
+00:47:53,955 --> 00:47:56,082
+Devinez quel dossier a été volé ?
+
+700
+00:47:57,625 --> 00:48:00,336
+Donc Sam tue son alibi
+et vole son propre dossier ?
+
+701
+00:48:01,045 --> 00:48:02,088
+Peut-être.
+
+702
+00:48:03,298 --> 00:48:04,716
+On a aussi trouvé un masque.
+
+703
+00:48:05,717 --> 00:48:07,427
+Avec l'ADN de Roman Bridger.
+
+704
+00:48:08,011 --> 00:48:10,346
+Le Ghostface qui a réalisé <i>Stab 3</i>.
+
+705
+00:48:11,889 --> 00:48:15,018
+Il nous offre des <i>Easter eggs</i>
+dans la vraie vie
+
+706
+00:48:15,018 --> 00:48:18,313
+en remontant l'historique des tueurs.
+
+707
+00:48:19,314 --> 00:48:21,316
+C'est comme un compte à rebours.
+
+708
+00:48:22,483 --> 00:48:24,027
+Et quand il arrivera à un ?
+
+709
+00:48:29,115 --> 00:48:32,118
+Il y a eu neuf tueurs, jusqu'ici.
+
+710
+00:48:32,118 --> 00:48:33,578
+Neuf ? Dans les films...
+
+711
+00:48:33,578 --> 00:48:35,538
+On s'en fiche, des films.
+
+712
+00:48:36,706 --> 00:48:39,709
+Regardez. L'an dernier :
+Amber Freeman et Richie Kirsch.
+
+713
+00:48:39,709 --> 00:48:41,669
+Leur masque était à l'appartement,
+
+714
+00:48:41,669 --> 00:48:45,256
+près des corps des deux étudiants
+qui ont tué leur prof
+
+715
+00:48:45,256 --> 00:48:46,466
+le soir même.
+
+716
+00:48:46,966 --> 00:48:51,262
+Puis Jill Roberts et Charlie Walker,
+le masque à l'épicerie.
+
+717
+00:48:51,262 --> 00:48:53,931
+Roman Bridger, le seul sans acolyte,
+
+718
+00:48:53,931 --> 00:48:55,391
+bravo pour l'ambition.
+
+719
+00:48:55,391 --> 00:48:57,769
+Son masque était chez le psy.
+
+720
+00:48:57,769 --> 00:49:01,439
+Il reste Mickey Altieri,
+Nancy Loomis, Stu Macher...
+
+721
+00:49:01,439 --> 00:49:03,900
+Et Billy Loomis, le premier tueur
+
+722
+00:49:03,900 --> 00:49:05,943
+et le père de notre suspecte principale.
+
+723
+00:49:07,528 --> 00:49:10,782
+Le tueur nous ramène à Sam.
+
+724
+00:49:14,577 --> 00:49:16,079
+Je vous appelle plus tard.
+
+725
+00:49:16,079 --> 00:49:18,206
+Prévenez votre fille :
+
+726
+00:49:18,206 --> 00:49:21,167
+être proche des Carpenter,
+c'est être proche de Ghostface.
+
+727
+00:49:31,177 --> 00:49:33,971
+Jack, tu peux appeler
+le bureau d'Atlanta ?
+
+728
+00:49:34,972 --> 00:49:36,974
+Rassemble des infos sur l'agent Reed.
+
+729
+00:49:43,981 --> 00:49:45,358
+Tu devrais quitter la ville,
+
+730
+00:49:45,358 --> 00:49:47,819
+vu ce qui t'est arrivé, la dernière fois.
+
+731
+00:49:48,611 --> 00:49:50,613
+Je t'en voudrais pas
+
+732
+00:49:51,823 --> 00:49:53,074
+si tu voulais partir.
+
+733
+00:49:55,660 --> 00:49:57,912
+C'est très gentil de ta part,
+
+734
+00:49:59,914 --> 00:50:01,749
+mais j'irai nulle part.
+
+735
+00:50:02,834 --> 00:50:04,544
+Allez, embrassez-vous.
+
+736
+00:50:04,544 --> 00:50:07,088
+- Garde tes commentaires.
+- Bref.
+
+737
+00:50:07,672 --> 00:50:08,798
+Passez à l'action.
+
+738
+00:50:08,798 --> 00:50:09,882
+Tiens.
+
+739
+00:50:11,676 --> 00:50:13,261
+On est pas obligés de rester là.
+
+740
+00:50:14,178 --> 00:50:16,931
+Désolée, j'insiste.
+Le groupe nous protège.
+
+741
+00:50:16,931 --> 00:50:20,059
+Une petite soirée pyjama
+avec le Gang des quatre.
+
+742
+00:50:20,059 --> 00:50:21,561
+Le Gang des quatre ?
+
+743
+00:50:21,561 --> 00:50:23,479
+- T'as inventé un nom ?
+- Oui.
+
+744
+00:50:23,479 --> 00:50:26,733
+On a vécu des trucs difficiles,
+et ça claque.
+
+745
+00:50:26,733 --> 00:50:28,443
+- C'est discutable.
+- Hyper discutable.
+
+746
+00:50:28,443 --> 00:50:30,278
+Tu peux pas t'autonommer.
+
+747
+00:50:30,278 --> 00:50:32,697
+Si, et je viens de le faire.
+
+748
+00:50:32,697 --> 00:50:34,824
+Le Gang des quatre, tope là !
+
+749
+00:50:34,824 --> 00:50:36,200
+- En bas.
+- Dégage.
+
+750
+00:50:36,200 --> 00:50:38,578
+- Je t'en supplie.
+- Le fais pas.
+
+751
+00:50:38,578 --> 00:50:41,289
+Je voudrais bien être soutenu
+
+752
+00:50:41,289 --> 00:50:43,583
+par mes camarades du Gang des quatre.
+
+753
+00:50:44,375 --> 00:50:47,128
+Les gars, il se passe un truc.
+
+754
+00:50:47,128 --> 00:50:49,630
+<i>Selon une source policière,</i>
+
+755
+00:50:49,630 --> 00:50:53,718
+<i>le suspect principal
+est Samantha Carpenter en personne,</i>
+
+756
+00:50:53,718 --> 00:50:57,263
+<i>l'une des survivantes
+des tueries de Woodsboro en 2022.</i>
+
+757
+00:50:57,263 --> 00:51:00,808
+{\an8}<i>On l'a vue attaquer une femme, hier soir.</i>
+
+758
+00:51:00,808 --> 00:51:02,435
+{\an8}<i>T'es malade ou quoi ?</i>
+
+759
+00:51:03,269 --> 00:51:05,146
+{\an8}<i>Tu veux quoi ?</i>
+
+760
+00:51:05,146 --> 00:51:07,231
+<i>Elle sait ce qu'elle a fait.</i>
+
+761
+00:51:07,231 --> 00:51:11,402
+<i>Suite à la tragédie de l'an dernier,
+les rumeurs ont fleuri en ligne</i>
+
+762
+00:51:11,402 --> 00:51:15,031
+<i>accusant Carpenter
+d'être responsable des meurtres</i>
+
+763
+00:51:15,031 --> 00:51:17,867
+<i>et d'avoir fait accuser
+son petit ami Richie Kirsch</i>
+
+764
+00:51:17,867 --> 00:51:19,202
+<i>et Amber Freeman...</i>
+
+765
+00:51:42,433 --> 00:51:45,144
+Je sais que t'apprécies pas
+ma façon de gérer
+
+766
+00:51:45,686 --> 00:51:47,814
+et que j'ai pas été facile.
+
+767
+00:51:47,814 --> 00:51:48,898
+Mais je sais aussi
+
+768
+00:51:50,274 --> 00:51:52,902
+qu'on ne peut pas comprendre
+ce que tu vis.
+
+769
+00:51:56,614 --> 00:51:58,950
+Je suis désolée que tu affrontes ça seule.
+
+770
+00:52:03,955 --> 00:52:05,164
+C'est pas ta faute.
+
+771
+00:52:06,874 --> 00:52:09,669
+Je devrais pas m'inquiéter
+de l'avis des gens.
+
+772
+00:52:11,838 --> 00:52:14,674
+Mais c'est difficile
+d'être aussi détestée.
+
+773
+00:52:17,218 --> 00:52:20,263
+Rappelle-toi
+
+774
+00:52:20,263 --> 00:52:23,516
+que personne te déteste, ici.
+
+775
+00:52:24,100 --> 00:52:27,603
+On a tous vécu
+des trucs super traumatisants
+
+776
+00:52:27,603 --> 00:52:29,564
+et on les gère différemment.
+
+777
+00:52:30,439 --> 00:52:34,443
+Mais on est venus vivre ici
+pour une raison très précise.
+
+778
+00:52:37,238 --> 00:52:38,281
+On fait équipe.
+
+779
+00:52:42,410 --> 00:52:45,288
+On est le Gang des quatre.
+
+780
+00:52:45,288 --> 00:52:47,373
+- Merci.
+- Je me déteste.
+
+781
+00:52:47,373 --> 00:52:49,709
+- Tu l'as dit.
+- J'aime mieux ça.
+
+782
+00:52:49,709 --> 00:52:51,335
+On est le Gang des quatre.
+
+783
+00:52:51,335 --> 00:52:53,462
+- Dis-le.
+- Non, pas maintenant.
+
+784
+00:52:53,462 --> 00:52:56,299
+- On fait équipe, mais...
+- Ça sonne bien.
+
+785
+00:52:57,425 --> 00:52:59,844
+Je couche avec le BG d'en face.
+
+786
+00:53:03,431 --> 00:53:05,182
+Je le savais !
+
+787
+00:53:05,182 --> 00:53:07,685
+- Je le savais !
+- Tu l'avais senti.
+
+788
+00:53:08,436 --> 00:53:10,146
+Depuis le suçon.
+
+789
+00:53:11,772 --> 00:53:16,485
+<i>Les ventes du masque
+dans la région de New York</i>
+
+790
+00:53:16,485 --> 00:53:18,905
+<i>ont bondi, ces dernières 24 heures.</i>
+
+791
+00:53:19,405 --> 00:53:21,991
+<i>J'ai le mien. Et vous, Jay ?</i>
+
+792
+00:53:21,991 --> 00:53:24,619
+<i>- Halloween sera terrifiant.
+- C'est vrai.</i>
+
+793
+00:53:24,619 --> 00:53:26,621
+<i>Passons à la météo.</i>
+
+794
+00:53:27,788 --> 00:53:31,709
+C'est ma coloc, mais toi, t'es policier.
+
+795
+00:53:41,010 --> 00:53:42,887
+Tu fais quoi, connard ?
+
+796
+00:53:48,559 --> 00:53:50,770
+On devrait se taper dans les mains.
+
+797
+00:53:50,770 --> 00:53:54,941
+- Topez-la, le Gang des quatre.
+- Arrête de dire ce nom.
+
+798
+00:53:56,609 --> 00:53:57,693
+C'est mignon.
+
+799
+00:53:59,403 --> 00:54:01,280
+Sam, putain.
+
+800
+00:54:01,280 --> 00:54:03,824
+Elle flippe, elle est parano.
+
+801
+00:54:03,824 --> 00:54:06,285
+Beauté, tu viens ?
+
+802
+00:54:06,285 --> 00:54:10,456
+Non, et utilise pas mes produits,
+ils ont un pH pour les femmes.
+
+803
+00:54:11,499 --> 00:54:12,917
+Décroche.
+
+804
+00:54:14,919 --> 00:54:15,753
+appel entrant
+
+805
+00:54:16,921 --> 00:54:18,005
+C'est lui ?
+
+806
+00:54:19,173 --> 00:54:22,051
+- Arrête, Tara.
+- Quelles sont tes intentions ?
+
+807
+00:54:24,095 --> 00:54:26,430
+C'est pas grave, je le rappellerai.
+
+808
+00:54:26,430 --> 00:54:27,473
+Le pauvre.
+
+809
+00:54:30,810 --> 00:54:33,437
+Quinn et son prétendant s'y remettent.
+
+810
+00:54:33,437 --> 00:54:35,398
+Elle aussi, elle profite.
+
+811
+00:54:47,702 --> 00:54:48,911
+Danny veut partager une photo
+
+812
+00:54:55,543 --> 00:54:56,794
+Tara, attends !
+
+813
+00:55:06,429 --> 00:55:07,430
+Courez.
+
+814
+00:55:12,977 --> 00:55:14,228
+Venez !
+
+815
+00:55:15,271 --> 00:55:17,064
+Putain.
+
+816
+00:55:19,692 --> 00:55:21,235
+T'approche pas !
+
+817
+00:55:50,723 --> 00:55:51,724
+Attends !
+
+818
+00:55:52,433 --> 00:55:53,768
+Elles sont encore là-haut.
+
+819
+00:56:05,780 --> 00:56:08,616
+- T'as les clés ?
+- Elles sont à l'intérieur !
+
+820
+00:56:17,208 --> 00:56:19,418
+Mindy, la porte de la salle de bain.
+
+821
+00:56:22,046 --> 00:56:23,756
+Putain, il est dead !
+
+822
+00:56:57,790 --> 00:56:58,874
+Merde.
+
+823
+00:57:02,378 --> 00:57:03,963
+T'inquiète, je suis là.
+
+824
+00:57:05,756 --> 00:57:07,925
+- Tu déconnes ?
+- T'as une meilleure idée ?
+
+825
+00:57:16,934 --> 00:57:18,102
+Passez une par une.
+
+826
+00:57:19,145 --> 00:57:21,438
+Vous deux d'abord. Mindy.
+
+827
+00:57:21,438 --> 00:57:24,358
+Faut retenir la porte.
+Je m'occuperai d'Anika.
+
+828
+00:57:26,402 --> 00:57:28,863
+Sam, viens. Regarde-moi.
+
+829
+00:57:28,863 --> 00:57:30,322
+Regarde-moi.
+
+830
+00:57:33,993 --> 00:57:36,495
+Je suis là.
+
+831
+00:57:39,456 --> 00:57:40,749
+Chérie, allez.
+
+832
+00:57:41,834 --> 00:57:42,835
+Ça va pas tenir.
+
+833
+00:57:44,670 --> 00:57:46,755
+Elle bougera pas, ça va tenir.
+
+834
+00:57:52,469 --> 00:57:54,722
+Je suis là. Dépêche-toi.
+
+835
+00:57:55,306 --> 00:57:58,767
+- Ça saigne vachement !
+- Dis un truc plus positif.
+
+836
+00:57:59,351 --> 00:58:01,270
+Regarde-moi.
+
+837
+00:58:02,021 --> 00:58:04,690
+Je suis là.
+
+838
+00:58:11,530 --> 00:58:12,948
+Dépêchez-vous !
+
+839
+00:58:12,948 --> 00:58:15,284
+Faut se grouiller !
+
+840
+00:58:15,284 --> 00:58:16,785
+Anika !
+
+841
+00:58:21,165 --> 00:58:23,167
+- Passe en premier.
+- Je peux pas.
+
+842
+00:58:23,167 --> 00:58:25,586
+Il le faut.
+
+843
+00:58:25,586 --> 00:58:28,255
+Non ! Je te suivrai de près, promis.
+
+844
+00:58:37,264 --> 00:58:39,266
+- On est là.
+- Continue.
+
+845
+00:58:40,226 --> 00:58:41,852
+- T'arrête pas.
+- Ça va aller.
+
+846
+00:58:45,606 --> 00:58:48,609
+- Dépêche-toi !
+- Grouille-toi !
+
+847
+00:58:49,360 --> 00:58:51,570
+Anika va te suivre, elle arrive.
+
+848
+00:58:55,783 --> 00:58:58,452
+Anika, vite !
+
+849
+00:58:58,452 --> 00:59:00,996
+Tu vas y arriver.
+
+850
+00:59:00,996 --> 00:59:04,208
+Je vais pas y arriver !
+
+851
+00:59:05,793 --> 00:59:07,586
+- Regarde pas en bas.
+- Vite !
+
+852
+00:59:08,337 --> 00:59:11,006
+C'est bien.
+
+853
+00:59:17,554 --> 00:59:18,639
+Quoi ?
+
+854
+00:59:19,181 --> 00:59:20,683
+Anika, faut foncer ! Magne-toi !
+
+855
+00:59:23,185 --> 00:59:24,478
+Pitié !
+
+856
+00:59:24,478 --> 00:59:25,688
+Dépêche-toi !
+
+857
+00:59:35,990 --> 00:59:37,408
+Avance vers moi !
+
+858
+00:59:38,075 --> 00:59:40,035
+Je veux pas mourir !
+
+859
+00:59:45,124 --> 00:59:47,418
+Donne ta main ! Je te tiens.
+
+860
+01:00:34,590 --> 01:00:36,383
+Ça va ?
+
+861
+01:00:40,846 --> 01:00:42,431
+C'est pas ta faute.
+
+862
+01:00:43,807 --> 01:00:44,808
+Si.
+
+863
+01:00:49,897 --> 01:00:51,648
+Quelqu'un a pris nos couteaux.
+
+864
+01:00:52,524 --> 01:00:54,109
+On pouvait pas se défendre.
+
+865
+01:00:54,985 --> 01:00:56,612
+Je sais pas à qui faire confiance.
+
+866
+01:00:59,073 --> 01:01:02,326
+Alors ne fais confiance à personne,
+ni à tes amis ni à moi.
+
+867
+01:01:03,494 --> 01:01:04,536
+Personne.
+
+868
+01:01:05,037 --> 01:01:06,830
+J'ai encore quelques questions.
+
+869
+01:01:09,166 --> 01:01:10,376
+Par ici.
+
+870
+01:01:17,716 --> 01:01:18,717
+Chad.
+
+871
+01:01:21,887 --> 01:01:23,555
+- T'étais où ?
+- Quand ?
+
+872
+01:01:23,555 --> 01:01:26,016
+- Hier soir !
+- J'avais cours.
+
+873
+01:01:26,016 --> 01:01:28,477
+Tu disparais, et ma sœur se fait attaquer.
+
+874
+01:01:28,477 --> 01:01:32,106
+J'étais dans un amphi avec 100 personnes,
+tu peux demander.
+
+875
+01:01:38,570 --> 01:01:40,823
+- Qui...
+- Anika et Quinn.
+
+876
+01:01:42,866 --> 01:01:44,952
+Mindy, je suis désolé.
+
+877
+01:01:44,952 --> 01:01:46,537
+T'approche pas.
+
+878
+01:01:48,455 --> 01:01:49,873
+T'es mon suspect numéro un.
+
+879
+01:01:50,624 --> 01:01:51,875
+J'avais cours.
+
+880
+01:02:08,267 --> 01:02:09,393
+Je reviens.
+
+881
+01:02:17,484 --> 01:02:18,652
+Navrée pour Quinn.
+
+882
+01:02:20,279 --> 01:02:21,655
+Merci.
+
+883
+01:02:24,408 --> 01:02:25,659
+J'ai perdu mes deux enfants.
+
+884
+01:02:27,119 --> 01:02:28,287
+Toute ma famille
+
+885
+01:02:29,204 --> 01:02:30,205
+est morte.
+
+886
+01:02:34,960 --> 01:02:36,378
+On m'a retiré l'enquête,
+
+887
+01:02:37,337 --> 01:02:39,173
+mais je continuerai à le traquer.
+
+888
+01:02:40,090 --> 01:02:41,592
+Si tu t'en prends à ma famille,
+
+889
+01:02:43,093 --> 01:02:44,052
+tu meurs.
+
+890
+01:02:45,471 --> 01:02:46,472
+Bien dit.
+
+891
+01:02:47,264 --> 01:02:49,725
+Ça va ? Je viens de l'apprendre.
+
+892
+01:02:49,725 --> 01:02:51,268
+Gale, je vous préviens.
+
+893
+01:02:51,935 --> 01:02:54,146
+Je t'assure, je veux vous aider.
+
+894
+01:02:54,146 --> 01:02:55,439
+Bien tenté.
+
+895
+01:02:55,439 --> 01:02:56,982
+Je te promets.
+
+896
+01:02:58,192 --> 01:03:00,027
+OK, tout restera entre nous.
+
+897
+01:03:03,906 --> 01:03:05,699
+Merci.
+
+898
+01:03:10,037 --> 01:03:11,997
+Désolée pour le coup de poing.
+
+899
+01:03:12,748 --> 01:03:14,082
+Vraiment ?
+
+900
+01:03:14,082 --> 01:03:15,167
+Non.
+
+901
+01:03:17,377 --> 01:03:18,712
+C'est vous, le flic ?
+
+902
+01:03:19,421 --> 01:03:22,549
+J'ai investigué
+et j'ai trouvé quelque chose.
+
+903
+01:03:22,549 --> 01:03:25,093
+Je sais d'où viennent les masques.
+
+904
+01:03:25,093 --> 01:03:26,553
+Dites-moi.
+
+905
+01:03:26,553 --> 01:03:27,513
+Mesdames.
+
+906
+01:03:28,597 --> 01:03:29,765
+Kirby ?
+
+907
+01:03:30,599 --> 01:03:31,600
+Gale.
+
+908
+01:03:31,600 --> 01:03:33,936
+- Elle est au FBI.
+- C'est une enfant.
+
+909
+01:03:33,936 --> 01:03:36,313
+Y a des enfants au FBI, maintenant ?
+
+910
+01:03:36,897 --> 01:03:39,191
+- J'ai 30 ans.
+- Et une tête de fœtus.
+
+911
+01:03:39,191 --> 01:03:40,484
+Je porte une arme.
+
+912
+01:03:40,484 --> 01:03:43,362
+Très bien. Ça va t'intéresser aussi.
+
+913
+01:03:45,572 --> 01:03:48,700
+Jason et Greg étaient
+des gosses de riches d'Atlanta.
+
+914
+01:03:48,700 --> 01:03:51,453
+Ils louaient ça sous de faux noms.
+
+915
+01:03:51,453 --> 01:03:52,538
+Comment tu l'as trouvé ?
+
+916
+01:03:53,288 --> 01:03:55,999
+Ça s'appelle
+du journalisme d'investigation.
+
+917
+01:03:56,500 --> 01:03:59,878
+Comment tu l'as pas trouvé ?
+Tu les pistais pas ?
+
+918
+01:03:59,878 --> 01:04:02,839
+J'ai épluché leurs comptes
+des dizaines de fois.
+
+919
+01:04:02,839 --> 01:04:05,842
+Cet endroit n'apparaissait pas.
+Je comprends pas.
+
+920
+01:04:05,842 --> 01:04:09,221
+T'inquiète pas. Je fais bien mon boulot.
+Ça t'arrivera un jour.
+
+921
+01:04:22,317 --> 01:04:25,404
+On est où ? C'est super sécurisé.
+
+922
+01:04:29,616 --> 01:04:30,617
+C'est un cinéma.
+
+923
+01:04:31,577 --> 01:04:32,578
+C'est plus que ça.
+
+924
+01:04:33,870 --> 01:04:34,871
+C'est un sanctuaire.
+
+925
+01:05:08,405 --> 01:05:10,616
+On a toute la franchise, là.
+
+926
+01:05:28,508 --> 01:05:29,801
+C'était à oncle Randy.
+
+927
+01:05:31,094 --> 01:05:32,387
+Ils ont tout.
+
+928
+01:05:35,724 --> 01:05:37,517
+- C'est...
+- Le couteau qui m'a poignardée.
+
+929
+01:05:38,101 --> 01:05:40,020
+Vous avez tous beaucoup souffert.
+
+930
+01:05:41,438 --> 01:05:43,607
+Qui a fait ces dessins ?
+
+931
+01:05:59,498 --> 01:06:00,957
+Où ils ont eu tout ça ?
+
+932
+01:06:02,250 --> 01:06:03,585
+C'est pas des pièces à conviction ?
+
+933
+01:06:03,585 --> 01:06:08,799
+Les flics aiment l'argent, et les pièces
+à conviction se perdent facilement.
+
+934
+01:06:10,592 --> 01:06:12,761
+Je ne parle pas de vous.
+
+935
+01:06:15,806 --> 01:06:18,433
+Pourquoi je suis là ? J'ai un alibi.
+
+936
+01:06:18,433 --> 01:06:21,103
+Pour que je puisse te surveiller, coloc.
+
+937
+01:06:22,229 --> 01:06:25,524
+Le tueur a dû venir ici
+avant de tuer Jason et Greg,
+
+938
+01:06:25,524 --> 01:06:28,652
+et il a pris les masques
+sur les mannequins.
+
+939
+01:06:28,652 --> 01:06:31,863
+Il a pris les neuf : de Stu et Billy
+à Amber et Richie.
+
+940
+01:06:57,597 --> 01:07:00,809
+{\an8}<i>Putain, quel endroit génial.</i>
+
+941
+01:07:00,809 --> 01:07:02,227
+C'est pas vrai...
+
+942
+01:07:02,227 --> 01:07:03,395
+<i>Mais si.</i>
+
+943
+01:07:04,020 --> 01:07:08,191
+Tu te réjouis pas
+qu'on reprenne les meurtres ensemble ?
+
+944
+01:07:08,191 --> 01:07:10,902
+Billy et Sam, la team Loomis.
+
+945
+01:07:11,987 --> 01:07:14,072
+Prépare-toi à découper des enfoirés.
+
+946
+01:07:25,250 --> 01:07:26,251
+Tu fais quoi ?
+
+947
+01:07:31,339 --> 01:07:32,632
+Je sais pas.
+
+948
+01:07:38,930 --> 01:07:41,183
+Quelqu'un a tué ces abrutis
+
+949
+01:07:42,642 --> 01:07:43,935
+et a pris le relais ?
+
+950
+01:07:43,935 --> 01:07:46,646
+Quelqu'un qui pense
+que Sam a manigancé Woodsboro.
+
+951
+01:07:46,646 --> 01:07:49,983
+Dans un <i>Stab</i>,
+ce serait le repaire des tueurs.
+
+952
+01:07:50,484 --> 01:07:52,736
+Mais on n'est pas dans un <i>Stab</i>.
+
+953
+01:08:08,794 --> 01:08:11,588
+La télé qui a tué Stu Macher.
+
+954
+01:08:11,588 --> 01:08:13,256
+Si on croit à sa mort.
+
+955
+01:08:15,425 --> 01:08:17,260
+Alors, t'es fan de films d'horreur ?
+
+956
+01:08:18,094 --> 01:08:19,346
+On dit ça.
+
+957
+01:08:20,931 --> 01:08:22,849
+Le meilleur <i>Freddy</i> ?
+
+958
+01:08:22,849 --> 01:08:23,934
+Le premier.
+
+959
+01:08:24,518 --> 01:08:26,311
+Meilleur <i>Vendredi 13</i> ?
+
+960
+01:08:26,311 --> 01:08:27,646
+- Le deuxième.
+- <i>Le Chapitre final</i>.
+
+961
+01:08:29,397 --> 01:08:30,774
+Je crushais sur Corey Feldman.
+
+962
+01:08:30,774 --> 01:08:32,526
+OK, respect.
+
+963
+01:08:33,819 --> 01:08:34,820
+<i>Psychose 2</i> est...
+
+964
+01:08:34,820 --> 01:08:36,029
+Sous-estimé.
+
+965
+01:08:37,239 --> 01:08:40,158
+<i>Candyman</i> : l'original ou le requel ?
+
+966
+01:08:40,158 --> 01:08:41,159
+Les deux.
+
+967
+01:08:44,913 --> 01:08:46,498
+Les grands esprits se rencontrent.
+
+968
+01:08:53,713 --> 01:08:54,714
+Ça va ?
+
+969
+01:08:57,968 --> 01:09:00,262
+Quand je vais retrouver une vie normale ?
+
+970
+01:09:03,348 --> 01:09:04,349
+J'en sais rien.
+
+971
+01:09:04,933 --> 01:09:06,601
+Je veux plus faire partie de ça.
+
+972
+01:09:07,894 --> 01:09:10,188
+Je veux plus faire partie
+de cette histoire...
+
+973
+01:09:10,188 --> 01:09:11,398
+À cause de moi.
+
+974
+01:09:14,109 --> 01:09:15,110
+Je suis désolée.
+
+975
+01:09:16,361 --> 01:09:17,571
+Laisse tomber, Sam.
+
+976
+01:09:21,366 --> 01:09:22,325
+Je m'en occupe.
+
+977
+01:09:27,330 --> 01:09:28,748
+C'était tendu.
+
+978
+01:09:30,208 --> 01:09:32,752
+Depuis que je suis revenue dans sa vie...
+
+979
+01:09:35,672 --> 01:09:37,090
+j'ai tout foutu en l'air.
+
+980
+01:09:38,758 --> 01:09:40,343
+Et votre mère ?
+
+981
+01:09:41,052 --> 01:09:44,097
+Elle refuse de me voir
+depuis que j'ai parlé de Billy à Tara.
+
+982
+01:09:45,015 --> 01:09:48,351
+Tara s'est éloignée d'elle
+parce qu'elle m'avait rejetée.
+
+983
+01:09:49,185 --> 01:09:51,479
+On a perdu notre mère toutes les deux.
+
+984
+01:09:51,479 --> 01:09:53,899
+Désolée, mais on l'emmerde.
+
+985
+01:09:54,733 --> 01:09:56,151
+Mes parents étaient nuls aussi.
+
+986
+01:09:57,986 --> 01:09:59,988
+Tu peux former ta propre famille,
+
+987
+01:10:00,864 --> 01:10:02,699
+même avec une seule personne.
+
+988
+01:10:06,870 --> 01:10:08,830
+Et si tu perds cette personne ?
+
+989
+01:10:11,291 --> 01:10:12,834
+Tu tiens le coup.
+
+990
+01:10:14,169 --> 01:10:17,547
+Tu trouves une autre âme esseulée,
+et vous vous épaulez.
+
+991
+01:10:26,056 --> 01:10:28,016
+Comment vous avez surmonté l'agression ?
+
+992
+01:10:33,438 --> 01:10:35,357
+J'ai failli mourir poignardée.
+
+993
+01:10:37,192 --> 01:10:38,693
+Techniquement, j'ai été morte
+
+994
+01:10:38,693 --> 01:10:40,278
+pendant quatre minutes.
+
+995
+01:10:43,406 --> 01:10:44,574
+Quand je me suis remise,
+
+996
+01:10:46,409 --> 01:10:47,410
+j'étais furieuse.
+
+997
+01:10:48,328 --> 01:10:51,498
+Je ne voulais pas passer ma vie
+à avoir peur des monstres.
+
+998
+01:10:53,249 --> 01:10:55,752
+Je voulais
+que les monstres aient peur de moi.
+
+999
+01:10:57,045 --> 01:10:58,380
+J'aime bien l'idée.
+
+1000
+01:10:59,339 --> 01:11:00,632
+Désolé de vous interrompre.
+
+1001
+01:11:01,716 --> 01:11:04,886
+Je crois savoir comment coincer ce con.
+
+1002
+01:11:04,886 --> 01:11:05,971
+On vous suit.
+
+1003
+01:11:06,680 --> 01:11:08,640
+Désolée, Gale, pas de journalistes.
+
+1004
+01:11:08,640 --> 01:11:10,850
+Enquête en cours. Je fais bien mon boulot.
+
+1005
+01:11:17,774 --> 01:11:19,275
+T'aurais dû rester avec les autres.
+
+1006
+01:11:19,901 --> 01:11:20,902
+Jamais de la vie.
+
+1007
+01:11:21,778 --> 01:11:24,656
+Inutile de nous mettre
+toutes les deux en danger.
+
+1008
+01:11:24,656 --> 01:11:27,242
+Je le suis pas. Je te protège.
+
+1009
+01:11:31,746 --> 01:11:35,667
+On va tracer l'appel ?
+Ça marche jamais, dans les films.
+
+1010
+01:11:35,667 --> 01:11:38,837
+"Garde-le en ligne, Sam.
+Deux minutes et je l'ai."
+
+1011
+01:11:38,837 --> 01:11:41,506
+Et il raccroche
+juste avant qu'on l'ait repéré.
+
+1012
+01:11:41,506 --> 01:11:45,051
+Je peux tracer un appel
+en moins de 15 secondes.
+
+1013
+01:11:47,429 --> 01:11:50,432
+Elles servent d'appâts.
+
+1014
+01:11:50,432 --> 01:11:52,600
+Le tueur est toujours proche.
+
+1015
+01:11:52,600 --> 01:11:55,979
+Elles sont en sécurité
+de jour, dans un lieu public ?
+
+1016
+01:11:55,979 --> 01:11:58,398
+Je suis là, et Bailey aussi.
+
+1017
+01:11:58,398 --> 01:12:01,109
+Notre oncle Randy est mort comme ça.
+
+1018
+01:12:01,109 --> 01:12:02,902
+De jour, dans un lieu public.
+
+1019
+01:12:02,902 --> 01:12:05,905
+Jeté dans un van, poignardé,
+et paf, plus de Randy.
+
+1020
+01:12:11,828 --> 01:12:15,040
+Ouvrez l'œil, d'accord ?
+
+1021
+01:12:15,040 --> 01:12:16,124
+Ça ira.
+
+1022
+01:12:30,555 --> 01:12:32,766
+Appel entrant
+
+1023
+01:12:39,939 --> 01:12:43,234
+- Tu vas mourir.
+<i>- C'est toi qui vas mourir, Samantha,</i>
+
+1024
+01:12:43,234 --> 01:12:46,905
+<i>en t'étouffant avec ton sang
+pendant que je trucide ta sœur.</i>
+
+1025
+01:12:48,281 --> 01:12:49,616
+Sauf si on te trouve.
+
+1026
+01:12:49,616 --> 01:12:52,827
+<i>Pour une experte,
+t'es pas très intelligente.</i>
+
+1027
+01:12:52,827 --> 01:12:57,332
+<i>Décrocher en espérant que je sois
+dans le coin pour que la police m'arrête ?</i>
+
+1028
+01:13:00,251 --> 01:13:03,379
+<i>Je ne suis pas dans le coin.
+J'ai un coup d'avance.</i>
+
+1029
+01:13:03,963 --> 01:13:06,216
+<i>À bientôt, Samantha.</i>
+
+1030
+01:13:08,176 --> 01:13:09,052
+Tu l'as ?
+
+1031
+01:13:09,052 --> 01:13:12,347
+Oui. La géolocalisation se précise.
+
+1032
+01:13:12,347 --> 01:13:13,515
+LOCALISÉ
+
+1033
+01:13:14,390 --> 01:13:15,892
+Il est dans l'Upper West Side,
+
+1034
+01:13:15,892 --> 01:13:19,229
+<i>dans un appart à l'autre bout de la ville.</i>
+
+1035
+01:13:19,229 --> 01:13:21,731
+- Sur 96th West ?
+- Comment tu le sais ?
+
+1036
+01:13:25,568 --> 01:13:26,778
+Gale.
+
+1037
+01:13:28,696 --> 01:13:29,697
+"Pas de journalistes".
+
+1038
+01:13:29,697 --> 01:13:32,951
+La dernière fois que je t'ai vue,
+t'étais à la crèche.
+
+1039
+01:13:33,618 --> 01:13:35,995
+Désolée de pas te faire confiance.
+
+1040
+01:13:35,995 --> 01:13:37,789
+- Tiens, chérie.
+- Merci.
+
+1041
+01:13:38,540 --> 01:13:41,376
+Danny bosse dans ce quartier,
+il y sera plus vite.
+
+1042
+01:13:41,376 --> 01:13:44,420
+Ou bien il l'achèvera,
+si c'est lui, le tueur.
+
+1043
+01:13:44,420 --> 01:13:46,172
+Faut qu'on se dépêche.
+
+1044
+01:13:46,172 --> 01:13:48,466
+C'est loin, et on est sûrs de rien !
+
+1045
+01:13:48,466 --> 01:13:50,135
+On n'a pas le temps.
+
+1046
+01:13:50,135 --> 01:13:52,095
+On n'a pas le droit à l'erreur.
+
+1047
+01:13:52,095 --> 01:13:53,638
+Il est déjà...
+
+1048
+01:13:54,430 --> 01:13:55,473
+Monte.
+
+1049
+01:13:55,473 --> 01:13:56,724
+Vous faites quoi ?
+
+1050
+01:13:56,724 --> 01:13:58,685
+Sortez de ma voiture.
+
+1051
+01:13:59,477 --> 01:14:01,563
+C'est un véhicule de police !
+
+1052
+01:14:01,688 --> 01:14:02,647
+On met la sirène ?
+
+1053
+01:14:02,647 --> 01:14:05,191
+Tu crois qu'on va se refuser ça ?
+
+1054
+01:14:05,191 --> 01:14:06,860
+- Tu as le permis ?
+- C'est parti.
+
+1055
+01:14:06,860 --> 01:14:08,194
+Qu'est-ce que vous faites ?
+
+1056
+01:14:09,070 --> 01:14:11,656
+Vous pouvez pas voler
+une voiture de police !
+
+1057
+01:14:14,826 --> 01:14:15,952
+Ça doit être le livreur.
+
+1058
+01:14:20,999 --> 01:14:22,458
+Non, c'est pour toi.
+
+1059
+01:14:23,543 --> 01:14:24,627
+C'est qui ?
+
+1060
+01:14:24,627 --> 01:14:26,421
+Qui la demande ?
+
+1061
+01:14:28,214 --> 01:14:29,799
+C'est le tueur.
+
+1062
+01:14:37,015 --> 01:14:39,475
+- Allô.
+<i>- Bonsoir, Gale.</i>
+
+1063
+01:14:39,475 --> 01:14:42,478
+<i>On ne s'était jamais parlé au téléphone.</i>
+
+1064
+01:14:43,062 --> 01:14:44,814
+<i>Il était temps.</i>
+
+1065
+01:14:45,398 --> 01:14:46,399
+Je suis d'accord.
+
+1066
+01:14:46,900 --> 01:14:48,067
+Appelle la police.
+
+1067
+01:14:48,067 --> 01:14:50,987
+<i>J'ai pensé qu'après toutes ces années,</i>
+
+1068
+01:14:50,987 --> 01:14:52,906
+<i>tu voudrais m'interviewer.</i>
+
+1069
+01:14:53,573 --> 01:14:55,783
+C'est vrai.
+
+1070
+01:14:57,577 --> 01:14:59,621
+Quelle est votre motivation, cette fois ?
+
+1071
+01:15:00,622 --> 01:15:03,708
+Un film vous a énervé
+ou vous voulez qu'on parle de vous ?
+
+1072
+01:15:03,708 --> 01:15:05,919
+<i>Je te retourne la question.</i>
+
+1073
+01:15:05,919 --> 01:15:09,547
+<i>Les personnages originaux
+peuvent mourir aussi, maintenant.</i>
+
+1074
+01:15:09,547 --> 01:15:12,091
+<i>On se fout des héros du siècle dernier.</i>
+
+1075
+01:15:12,091 --> 01:15:15,511
+- Alors pourquoi m'appeler ?
+<i>- Par nostalgie.</i>
+
+1076
+01:15:15,511 --> 01:15:17,472
+<i>Ou pour te punir</i>
+
+1077
+01:15:17,472 --> 01:15:20,099
+<i>d'avoir exploité
+les traumatismes des autres.</i>
+
+1078
+01:15:20,600 --> 01:15:25,438
+<i>Il est temps que quelqu'un
+gagne de l'argent en racontant ta mort.</i>
+
+1079
+01:15:25,438 --> 01:15:27,941
+Tu sais que t'es le dixième
+qui me fait le coup ?
+
+1080
+01:15:28,775 --> 01:15:30,068
+Attention, spoiler :
+
+1081
+01:15:30,902 --> 01:15:33,738
+ça finit jamais bien
+pour le débile masqué.
+
+1082
+01:15:35,698 --> 01:15:38,576
+<i>Mais il fait quand même impression, non ?</i>
+
+1083
+01:15:39,077 --> 01:15:42,205
+<i>Richie et Amber ont massacré Dewey</i>
+
+1084
+01:15:42,205 --> 01:15:44,999
+<i>en le découpant comme une dinde de Noël.</i>
+
+1085
+01:15:45,500 --> 01:15:49,420
+<i>Ça fait quoi de perdre le seul homme
+qui t'ait aimée ?</i>
+
+1086
+01:15:49,420 --> 01:15:50,797
+Va te faire foutre !
+
+1087
+01:15:50,797 --> 01:15:54,842
+<i>Ça fait quoi de ne pas avoir été là,
+quand il est mort ?</i>
+
+1088
+01:15:55,718 --> 01:15:58,513
+<i>Tu n'étais pas là pour le réconforter</i>
+
+1089
+01:15:58,513 --> 01:16:01,140
+<i>quand il a crevé en crachant ses viscères.</i>
+
+1090
+01:16:01,140 --> 01:16:03,434
+C'est toi qui vas crever.
+
+1091
+01:16:03,434 --> 01:16:07,063
+<i>Peut-être,
+mais tu ne seras pas là pour le voir.</i>
+
+1092
+01:16:07,063 --> 01:16:09,315
+<i>Tu n'as pas pu sauver Dewey</i>
+
+1093
+01:16:09,315 --> 01:16:11,943
+<i>et tu n'empêcheras pas ça.</i>
+
+1094
+01:17:13,963 --> 01:17:16,674
+Ça te rend nostalgique, ça, connard ?
+
+1095
+01:17:29,562 --> 01:17:30,772
+<i>Tu m'as raté.</i>
+
+1096
+01:17:31,272 --> 01:17:32,648
+Mais bien sûr.
+
+1097
+01:17:32,648 --> 01:17:35,651
+<i>T'as gagné.
+J'ai pris l'ascenseur, je descends.</i>
+
+1098
+01:17:36,611 --> 01:17:37,862
+Je te crois.
+
+1099
+01:17:41,741 --> 01:17:44,410
+<i>Tu m'as peut-être blessé.</i>
+
+1100
+01:17:45,244 --> 01:17:47,747
+<i>Ou je porte peut-être
+un gilet pare-balles.</i>
+
+1101
+01:17:48,247 --> 01:17:50,833
+C'est pour ça
+que je vais t'exploser la tête !
+
+1102
+01:18:03,721 --> 01:18:06,349
+<i>Tu aurais fait
+une très bonne tueuse, Gale.</i>
+
+1103
+01:18:06,849 --> 01:18:09,602
+<i>Sidney, pas crédible,
+Dewey, le chouchou des fans,</i>
+
+1104
+01:18:09,602 --> 01:18:12,063
+<i>mais toi, qui craques sous la pression</i>
+
+1105
+01:18:12,188 --> 01:18:15,691
+<i>et qui deviens Ghostface,
+le rebondissement parfait.</i>
+
+1106
+01:18:15,691 --> 01:18:17,318
+Cause toujours, ducon.
+
+1107
+01:18:18,653 --> 01:18:21,948
+<i>Avec plaisir. Tu veux parler de quoi ?</i>
+
+1108
+01:18:25,034 --> 01:18:27,453
+<i>Tu n'as jamais eu le premier rôle.</i>
+
+1109
+01:18:27,453 --> 01:18:32,667
+<i>On ne parlait que de la pauvre petite
+Sidney qui prenait toute la place.</i>
+
+1110
+01:18:32,667 --> 01:18:34,460
+<i>Et toi, il te restait quoi ?</i>
+
+1111
+01:18:34,961 --> 01:18:36,504
+L'intelligence et le sex-appeal ?
+
+1112
+01:18:38,005 --> 01:18:39,590
+<i>Désolé pour ton copain.</i>
+
+1113
+01:18:40,258 --> 01:18:43,177
+<i>Ses muscles ne l'ont pas beaucoup aidé.</i>
+
+1114
+01:18:43,177 --> 01:18:44,262
+Je vois ça.
+
+1115
+01:18:47,390 --> 01:18:48,558
+Ne quitte pas.
+
+1116
+01:20:13,059 --> 01:20:14,310
+Va te faire foutre !
+
+1117
+01:20:14,852 --> 01:20:15,811
+Connard !
+
+1118
+01:20:30,243 --> 01:20:31,452
+Pardon.
+
+1119
+01:20:31,452 --> 01:20:32,537
+Je suis désolée.
+
+1120
+01:20:34,288 --> 01:20:36,165
+J'aurais dû deviner qu'il vous ciblerait,
+
+1121
+01:20:36,165 --> 01:20:37,333
+je suis désolée.
+
+1122
+01:20:39,293 --> 01:20:40,628
+Il ne m'a pas eue.
+
+1123
+01:20:43,256 --> 01:20:44,298
+Dis à Sidney
+
+1124
+01:20:45,341 --> 01:20:46,968
+qu'il ne m'a pas eue.
+
+1125
+01:20:57,728 --> 01:20:59,522
+Je vous en supplie.
+
+1126
+01:20:59,522 --> 01:21:00,648
+Poussez-vous.
+
+1127
+01:21:00,648 --> 01:21:03,985
+Il faut s'écarter.
+
+1128
+01:21:06,195 --> 01:21:07,655
+- Éloigne-les.
+- Elles doivent reculer.
+
+1129
+01:21:07,655 --> 01:21:09,991
+Venez.
+
+1130
+01:21:11,117 --> 01:21:12,785
+- Préviens-les.
+- Tout de suite.
+
+1131
+01:21:14,704 --> 01:21:16,539
+Je vérifie.
+
+1132
+01:21:20,251 --> 01:21:22,420
+Le pouls est faible, amène la civière.
+
+1133
+01:21:22,420 --> 01:21:23,504
+Faut l'emmener tout de suite.
+
+1134
+01:21:27,466 --> 01:21:29,510
+Civière. On se dépêche.
+
+1135
+01:21:44,942 --> 01:21:46,444
+J'ai fait au plus vite.
+
+1136
+01:21:48,613 --> 01:21:49,822
+T'es sûr ?
+
+1137
+01:21:51,532 --> 01:21:53,284
+J'ai peur.
+
+1138
+01:21:53,284 --> 01:21:55,244
+Je veux pas être encore attaquée.
+
+1139
+01:21:56,287 --> 01:21:57,288
+Moi non plus.
+
+1140
+01:21:59,040 --> 01:22:00,625
+Je veux pas que tu sois attaqué.
+
+1141
+01:22:00,625 --> 01:22:02,543
+Je sais.
+
+1142
+01:22:08,633 --> 01:22:09,967
+On fait quoi ?
+
+1143
+01:22:11,886 --> 01:22:13,846
+Il va peut-être gagner, cette fois.
+
+1144
+01:22:17,266 --> 01:22:19,226
+C'est moi qu'il veut punir.
+
+1145
+01:22:22,021 --> 01:22:23,022
+Moi.
+
+1146
+01:22:24,982 --> 01:22:26,275
+Je peux le laisser faire.
+
+1147
+01:22:27,360 --> 01:22:29,570
+Je me sacrifie.
+
+1148
+01:22:30,863 --> 01:22:32,698
+Si c'est ce que je dois faire
+
+1149
+01:22:33,866 --> 01:22:35,326
+pour vous protéger,
+
+1150
+01:22:36,744 --> 01:22:37,745
+ça vaut le coup.
+
+1151
+01:22:37,745 --> 01:22:39,789
+Hors de question, Sam.
+
+1152
+01:22:39,789 --> 01:22:42,249
+T'es revenue à Woodsboro pour moi.
+
+1153
+01:22:42,249 --> 01:22:44,835
+Tous les jours, tu décides de me protéger.
+
+1154
+01:22:44,835 --> 01:22:47,630
+Aucun de nous ne serait en vie, sans toi.
+
+1155
+01:22:48,381 --> 01:22:50,549
+Cette fois, on te protège.
+
+1156
+01:22:54,303 --> 01:22:55,304
+On est une équipe.
+
+1157
+01:22:55,304 --> 01:22:56,681
+En fait,
+
+1158
+01:22:58,391 --> 01:22:59,392
+on est une famille.
+
+1159
+01:22:59,392 --> 01:23:02,269
+Le Gang des quatre ! Allez.
+
+1160
+01:23:02,269 --> 01:23:03,938
+Le Gang des quatre.
+
+1161
+01:23:03,938 --> 01:23:05,481
+- Le quoi ?
+- C'est perso.
+
+1162
+01:23:07,566 --> 01:23:09,443
+Il va continuer à nous traquer.
+
+1163
+01:23:10,319 --> 01:23:12,947
+Y a pas un endroit où on peut se cacher ?
+
+1164
+01:23:12,947 --> 01:23:14,740
+Il nous trouvera toujours.
+
+1165
+01:23:15,449 --> 01:23:16,492
+Super.
+
+1166
+01:23:18,953 --> 01:23:19,995
+Mais ça peut nous être utile.
+
+1167
+01:23:23,082 --> 01:23:25,835
+On me force à lâcher l'enquête,
+
+1168
+01:23:25,835 --> 01:23:27,044
+et vous voulez faire quoi ?
+
+1169
+01:23:27,044 --> 01:23:29,714
+L'attirer quelque part pour le piéger.
+
+1170
+01:23:31,424 --> 01:23:32,633
+Et ensuite ?
+
+1171
+01:23:33,718 --> 01:23:34,719
+On le tue.
+
+1172
+01:23:40,349 --> 01:23:41,559
+Vous allez nous aider ?
+
+1173
+01:23:44,520 --> 01:23:46,063
+Butons cet enfoiré.
+
+1174
+01:23:46,856 --> 01:23:49,650
+<i>Je dois rester ici,
+mais on a les badges du cinéma.</i>
+
+1175
+01:23:49,650 --> 01:23:53,571
+Il y a des tas de caméras,
+mais on les utilisera contre lui.
+
+1176
+01:23:54,488 --> 01:23:57,199
+<i>Je dis à Kirby de vous rejoindre
+et j'arrive.</i>
+
+1177
+01:23:57,199 --> 01:23:59,827
+- Compris.
+- Utilisez les transports en commun.
+
+1178
+01:23:59,827 --> 01:24:01,829
+Plus vous serez entourés, moins il pourra
+
+1179
+01:24:01,829 --> 01:24:04,248
+<i>vous attaquer en chemin.</i>
+
+1180
+01:24:10,463 --> 01:24:12,089
+C'est une bonne idée ?
+
+1181
+01:24:12,089 --> 01:24:13,799
+Personne te retient.
+
+1182
+01:24:13,799 --> 01:24:16,844
+On se sépare, et il nous cueille
+un par un ? Non merci.
+
+1183
+01:24:17,553 --> 01:24:19,263
+On va au cinéma. Montez.
+
+1184
+01:24:19,263 --> 01:24:23,184
+On flippera moins dans le ciné du tueur.
+
+1185
+01:24:32,818 --> 01:24:35,029
+Où est Mindy ?
+
+1186
+01:24:38,657 --> 01:24:40,159
+Viens ! Merde.
+
+1187
+01:24:40,743 --> 01:24:41,994
+Putain !
+
+1188
+01:24:56,133 --> 01:24:58,594
+Casse-toi, avec ta tronche de Ghostface.
+
+1189
+01:25:07,102 --> 01:25:08,103
+Regarde ailleurs.
+
+1190
+01:25:15,402 --> 01:25:17,279
+- Et Mindy ?
+- Elle a raté la rame.
+
+1191
+01:25:17,279 --> 01:25:19,698
+Il m'a tiré par le bras.
+
+1192
+01:25:19,698 --> 01:25:21,617
+- Restons ensemble.
+- En nous séparant ?
+
+1193
+01:25:24,537 --> 01:25:26,622
+OK, c'est rien.
+
+1194
+01:25:26,622 --> 01:25:27,957
+Je prends le prochain.
+
+1195
+01:25:27,957 --> 01:25:29,291
+Elle est avec Ethan, elle arrive.
+
+1196
+01:25:30,084 --> 01:25:33,295
+<i>Ce train est à destination de South Ferry.</i>
+
+1197
+01:25:33,295 --> 01:25:34,213
+Merde.
+
+1198
+01:25:34,213 --> 01:25:37,007
+<i>Le prochain arrêt est 79th Street.</i>
+
+1199
+01:25:48,185 --> 01:25:49,645
+Combien d'arrêts ?
+
+1200
+01:25:55,150 --> 01:25:56,402
+Dix.
+
+1201
+01:26:30,811 --> 01:26:33,105
+<i>79th Street.</i>
+
+1202
+01:26:47,912 --> 01:26:51,540
+<i>Ce train est à destination de South Ferry.</i>
+
+1203
+01:26:52,207 --> 01:26:55,336
+<i>Le prochain arrêt est 72nd Street.</i>
+
+1204
+01:26:59,673 --> 01:27:02,927
+T dans le prochain ?
+
+1205
+01:27:08,307 --> 01:27:11,435
+Oui avec Ethan alias GF
+
+1206
+01:27:11,435 --> 01:27:13,020
+Envoi...
+
+1207
+01:27:16,899 --> 01:27:20,736
+<i>Ce train est à destination de South Ferry.</i>
+
+1208
+01:27:21,445 --> 01:27:24,448
+<i>Le prochain arrêt est 79th Street.</i>
+
+1209
+01:27:28,953 --> 01:27:30,454
+Déso.
+
+1210
+01:27:54,228 --> 01:27:55,312
+Elle répond pas.
+
+1211
+01:27:55,938 --> 01:27:58,524
+<i>72nd Street.</i>
+
+1212
+01:28:06,991 --> 01:28:07,992
+Les gars.
+
+1213
+01:28:20,713 --> 01:28:24,675
+<i>Le prochain arrêt est 66th Street,
+Lincoln Center.</i>
+
+1214
+01:28:34,226 --> 01:28:35,519
+Connard.
+
+1215
+01:28:35,519 --> 01:28:39,189
+<i>Ce train est à destination de South Ferry.</i>
+
+1216
+01:28:39,982 --> 01:28:43,861
+<i>Le prochain arrêt est 66th Street,
+Lincoln Center.</i>
+
+1217
+01:30:18,080 --> 01:30:21,458
+<i>66th Street, Lincoln Center.</i>
+
+1218
+01:30:28,006 --> 01:30:32,427
+<i>Attention à la marche
+en descendant du train.</i>
+
+1219
+01:30:42,187 --> 01:30:44,273
+Merde, Mindy !
+
+1220
+01:30:44,273 --> 01:30:46,316
+Ça saigne trop.
+
+1221
+01:30:46,859 --> 01:30:48,443
+Aidez-moi !
+
+1222
+01:30:49,027 --> 01:30:50,779
+On va te sortir de là.
+
+1223
+01:30:53,574 --> 01:30:55,492
+Viens.
+
+1224
+01:30:55,492 --> 01:30:57,995
+Appelez les secours !
+
+1225
+01:31:01,874 --> 01:31:03,208
+Ça va ?
+
+1226
+01:31:03,208 --> 01:31:04,501
+Oui, super.
+
+1227
+01:31:04,501 --> 01:31:06,670
+Ça va aller.
+
+1228
+01:31:06,670 --> 01:31:09,882
+Putain, je me suis encore trompée.
+
+1229
+01:31:10,465 --> 01:31:11,675
+Bordel.
+
+1230
+01:31:11,675 --> 01:31:12,759
+Aidez-nous !
+
+1231
+01:31:12,759 --> 01:31:15,762
+Faites venir les secours,
+station 66th Street.
+
+1232
+01:31:15,762 --> 01:31:17,431
+Franchise à la con.
+
+1233
+01:31:28,942 --> 01:31:31,528
+J'ai parlé à Bailey, tout est prêt.
+
+1234
+01:31:32,487 --> 01:31:35,115
+- Où sont Mindy et Ethan ?
+- Ils arrivent dans cinq minutes.
+
+1235
+01:31:35,949 --> 01:31:37,242
+On se rassemble tous là-bas.
+
+1236
+01:31:38,785 --> 01:31:40,329
+- Pas toi.
+- Quoi ?
+
+1237
+01:31:42,748 --> 01:31:44,541
+"Fais confiance à personne."
+
+1238
+01:31:45,500 --> 01:31:46,543
+On te connaît pas.
+
+1239
+01:31:48,670 --> 01:31:49,755
+Pas vraiment.
+
+1240
+01:31:50,297 --> 01:31:51,423
+Toi, tu me connais.
+
+1241
+01:31:51,423 --> 01:31:53,217
+T'es pas de Woodsboro.
+
+1242
+01:31:55,802 --> 01:31:56,803
+Je suis désolée.
+
+1243
+01:31:58,222 --> 01:32:00,724
+C'est rien, je comprends.
+
+1244
+01:32:02,643 --> 01:32:03,852
+Fais attention à toi.
+
+1245
+01:32:07,439 --> 01:32:08,440
+Toi aussi.
+
+1246
+01:32:11,568 --> 01:32:12,778
+T'as bien fait.
+
+1247
+01:32:17,741 --> 01:32:20,160
+J'ai vérifié tout le bâtiment.
+
+1248
+01:32:21,245 --> 01:32:23,956
+C'est la seule entrée et sortie.
+
+1249
+01:32:23,956 --> 01:32:25,707
+Il ouvre la première porte,
+
+1250
+01:32:25,707 --> 01:32:28,418
+les deux portes se verrouillent
+et l'enferment.
+
+1251
+01:32:28,919 --> 01:32:30,754
+Ça devient une <i>kill box</i>.
+
+1252
+01:32:30,754 --> 01:32:33,715
+- Des armes ?
+- Moi seule ai un revolver.
+
+1253
+01:32:34,633 --> 01:32:37,719
+Je suis la seule habilitée,
+c'est comme ça.
+
+1254
+01:32:39,388 --> 01:32:40,639
+On est en sécurité.
+
+1255
+01:32:44,017 --> 01:32:47,104
+Je vais appeler Mindy,
+voir s'ils arrivent.
+
+1256
+01:33:10,127 --> 01:33:12,629
+<i>Salut, c'est moi. Laissez un message.</i>
+
+1257
+01:33:13,213 --> 01:33:14,506
+Vous êtes pas en sécurité.
+
+1258
+01:33:15,007 --> 01:33:17,843
+Si quelqu'un le dit, c'est que c'est faux.
+
+1259
+01:33:17,843 --> 01:33:20,554
+- Pas maintenant.
+- T'es plus maligne que ça.
+
+1260
+01:33:20,554 --> 01:33:22,848
+Prends une arme et vérifie par toi-même.
+
+1261
+01:33:25,434 --> 01:33:26,685
+Tu sais que j'ai raison.
+
+1262
+01:33:42,951 --> 01:33:44,411
+Un excellent choix.
+
+1263
+01:33:46,788 --> 01:33:48,123
+C'est mon préféré.
+
+1264
+01:33:51,126 --> 01:33:52,127
+Kirby ?
+
+1265
+01:34:20,947 --> 01:34:22,616
+Sortez de là, c'est dangereux.
+
+1266
+01:34:22,616 --> 01:34:24,576
+<i>D'après le bureau d'Atlanta,</i>
+
+1267
+01:34:24,576 --> 01:34:26,870
+<i>l'agent Reed va très mal</i>
+
+1268
+01:34:26,870 --> 01:34:28,663
+<i>depuis Woodsboro, l'an dernier.</i>
+
+1269
+01:34:28,663 --> 01:34:29,748
+Quoi ?
+
+1270
+01:34:29,748 --> 01:34:32,876
+Elle a été virée il y a deux mois
+pour troubles mentaux.
+
+1271
+01:34:32,876 --> 01:34:35,379
+<i>- Comment ça ?</i>
+- Elle n'est plus au FBI.
+
+1272
+01:34:49,476 --> 01:34:51,895
+<i>- Écoute-moi, enfoiré.
+- Petite conne,</i>
+
+1273
+01:34:51,895 --> 01:34:54,648
+<i>si tu raccroches,
+je te vide comme un poisson.</i>
+
+1274
+01:34:54,648 --> 01:34:58,693
+<i>- Tu veux quoi ?
+- Voir à quoi ressemblent tes viscères.</i>
+
+1275
+01:35:12,624 --> 01:35:15,043
+Depuis quand ce ciné est fermé ?
+
+1276
+01:35:15,043 --> 01:35:16,795
+Tout est super vieux.
+
+1277
+01:35:22,092 --> 01:35:23,969
+Désolé, prends-les.
+
+1278
+01:35:23,969 --> 01:35:25,762
+Vas-y, toi.
+
+1279
+01:35:25,762 --> 01:35:27,681
+Si tu les veux, prends-les.
+
+1280
+01:35:27,681 --> 01:35:29,057
+- Je voudrais ça ?
+- Je crois.
+
+1281
+01:35:29,057 --> 01:35:30,642
+Ils ont un siècle.
+
+1282
+01:35:31,435 --> 01:35:32,686
+Mais si ça te tente...
+
+1283
+01:35:52,330 --> 01:35:54,916
+J'avais envie de faire ça
+depuis tellement longtemps.
+
+1284
+01:35:55,625 --> 01:35:57,377
+T'aurais pu te décider plus tôt.
+
+1285
+01:35:57,377 --> 01:35:58,462
+Je sais.
+
+1286
+01:35:58,962 --> 01:36:01,131
+Tu le referas plein de fois.
+
+1287
+01:36:16,313 --> 01:36:18,899
+Tara, viens, vite !
+
+1288
+01:36:20,275 --> 01:36:21,485
+Vite !
+
+1289
+01:36:22,444 --> 01:36:25,155
+- C'est Kirby, la tueuse.
+- Merde.
+
+1290
+01:36:25,155 --> 01:36:27,532
+- C'est fermé.
+- On est piégés ?
+
+1291
+01:36:27,532 --> 01:36:30,243
+La <i>kill box</i>, elle est pour nous.
+
+1292
+01:36:30,911 --> 01:36:32,829
+Et là-haut ? Y a une sortie.
+
+1293
+01:36:33,872 --> 01:36:35,373
+Ça donne sur le toit ?
+
+1294
+01:36:35,373 --> 01:36:37,292
+On verra bien, venez.
+
+1295
+01:36:37,292 --> 01:36:38,376
+Bailey va arriver.
+
+1296
+01:36:45,383 --> 01:36:46,384
+Décapitations !
+
+1297
+01:36:48,261 --> 01:36:49,888
+Tara, viens !
+
+1298
+01:36:49,888 --> 01:36:52,807
+Souris, t'es filmé, connard !
+
+1299
+01:36:56,353 --> 01:36:57,437
+Par là !
+
+1300
+01:36:57,437 --> 01:36:59,689
+<i>Elle ferait mieux de sortir !</i>
+
+1301
+01:37:05,570 --> 01:37:06,613
+Magnez-vous !
+
+1302
+01:37:24,589 --> 01:37:25,924
+Tara, recule !
+
+1303
+01:37:39,229 --> 01:37:40,564
+Courez.
+
+1304
+01:37:42,524 --> 01:37:43,525
+Partez.
+
+1305
+01:37:53,868 --> 01:37:55,912
+Par ici.
+
+1306
+01:38:00,417 --> 01:38:01,835
+<i>Tout le monde est suspect.</i>
+
+1307
+01:38:03,837 --> 01:38:06,548
+<i>T'as pas peur, quand même ?</i>
+
+1308
+01:38:11,386 --> 01:38:14,014
+<i>C'est plus flippant
+quand y a pas de mobile.</i>
+
+1309
+01:38:14,014 --> 01:38:15,515
+Prête ?
+
+1310
+01:38:16,141 --> 01:38:17,601
+Reprends-toi. Prête ?
+
+1311
+01:38:18,977 --> 01:38:19,978
+Regarde-moi.
+
+1312
+01:38:21,605 --> 01:38:22,939
+Je suis prête.
+
+1313
+01:38:22,939 --> 01:38:24,983
+Viens là, enfoiré !
+
+1314
+01:38:28,028 --> 01:38:29,029
+Pas de panique.
+
+1315
+01:38:29,779 --> 01:38:32,532
+- Approche pas.
+- On sait que c'est toi.
+
+1316
+01:38:33,617 --> 01:38:35,785
+L'un d'eux m'a assommée.
+
+1317
+01:38:36,453 --> 01:38:39,164
+Kirby, arrêtez. Écartez-vous des filles.
+
+1318
+01:38:41,124 --> 01:38:42,292
+Vous faites quoi ?
+
+1319
+01:38:42,292 --> 01:38:44,753
+Vous avez tué Quinn ?
+Vous avez tué ma fille ?
+
+1320
+01:38:44,753 --> 01:38:46,212
+Bordel !
+
+1321
+01:38:48,423 --> 01:38:51,426
+Je sais pas ce qu'il a raconté,
+mais le croyez pas !
+
+1322
+01:38:51,426 --> 01:38:53,136
+C'est sûrement le tueur.
+
+1323
+01:38:54,054 --> 01:38:54,929
+Derrière vous !
+
+1324
+01:39:05,023 --> 01:39:06,024
+Beau boulot.
+
+1325
+01:39:10,904 --> 01:39:11,905
+Tous les deux.
+
+1326
+01:39:13,740 --> 01:39:15,450
+- Vous ?
+- Eh ouais.
+
+1327
+01:39:16,076 --> 01:39:19,120
+Vous m'avez déçu,
+après ce que vous nous avez fait.
+
+1328
+01:39:19,120 --> 01:39:20,288
+Qui ça, "nous" ?
+
+1329
+01:39:28,129 --> 01:39:31,257
+Mindy avait raison.
+J'ai truqué l'attribution des colocs.
+
+1330
+01:39:31,966 --> 01:39:33,385
+Pour vous rencontrer,
+
+1331
+01:39:33,385 --> 01:39:37,806
+il suffisait de vivre avec un mâle alpha
+arrogant avec un nom à la con comme Chad.
+
+1332
+01:39:38,807 --> 01:39:40,558
+J'ai adoré le buter !
+
+1333
+01:39:41,935 --> 01:39:43,478
+C'était à ta grand-mère, Sam,
+
+1334
+01:39:44,604 --> 01:39:46,106
+Nancy Loomis.
+
+1335
+01:39:46,106 --> 01:39:48,358
+C'est vraiment de famille, putain.
+
+1336
+01:39:48,942 --> 01:39:50,694
+- En parlant de famille...
+- Surprise.
+
+1337
+01:39:50,694 --> 01:39:52,278
+Je m'appelle pas Ethan Landry.
+
+1338
+01:39:52,821 --> 01:39:53,822
+N'est-ce pas, papa ?
+
+1339
+01:39:55,323 --> 01:39:56,616
+"Papa" ?
+
+1340
+01:39:57,117 --> 01:40:00,036
+Attendez.
+En dehors de vous, il reste juste...
+
+1341
+01:40:03,373 --> 01:40:04,582
+Mindy ?
+
+1342
+01:40:12,215 --> 01:40:13,758
+Salut, les colocs.
+
+1343
+01:40:15,051 --> 01:40:16,636
+Vous vous y attendiez pas.
+
+1344
+01:40:16,636 --> 01:40:19,681
+- Parce que t'es morte !
+- Pas vraiment, en fait.
+
+1345
+01:40:20,306 --> 01:40:22,434
+C'était efficace
+pour ne plus être suspecte,
+
+1346
+01:40:22,934 --> 01:40:27,188
+pour poignarder Gale Weathers,
+et Mindy dans le métro, ce genre de trucs.
+
+1347
+01:40:27,188 --> 01:40:29,482
+Je suis arrivé en premier
+
+1348
+01:40:29,482 --> 01:40:31,568
+pour la remplacer par un macchabée.
+
+1349
+01:40:32,402 --> 01:40:34,529
+Un peu de faux sang, des prothèses.
+
+1350
+01:40:34,529 --> 01:40:37,532
+C'est fou comme on passe tout
+à un père en deuil.
+
+1351
+01:40:38,241 --> 01:40:39,826
+J'ai le masque de Stu Macher.
+
+1352
+01:40:40,535 --> 01:40:41,619
+C'était mon préféré.
+
+1353
+01:40:44,497 --> 01:40:46,249
+Parfait. C'est le numéro trois.
+
+1354
+01:40:46,958 --> 01:40:47,959
+Ça, c'est le numéro deux.
+
+1355
+01:40:48,918 --> 01:40:49,919
+Et il reste
+
+1356
+01:40:51,337 --> 01:40:52,589
+ton père.
+
+1357
+01:40:54,924 --> 01:40:57,260
+Voilà où nous mène le compte à rebours.
+
+1358
+01:41:00,513 --> 01:41:02,307
+Tu vas devoir le mettre.
+
+1359
+01:41:04,601 --> 01:41:05,602
+Va te faire !
+
+1360
+01:41:08,563 --> 01:41:10,106
+L'approche pas !
+
+1361
+01:41:10,774 --> 01:41:11,900
+On se calme.
+
+1362
+01:41:11,900 --> 01:41:13,777
+C'est quoi, votre délire ?
+
+1363
+01:41:14,277 --> 01:41:15,612
+Vous faites ça en famille ?
+
+1364
+01:41:15,612 --> 01:41:18,323
+Oui, connasse. Ça te rappelle rien ?
+
+1365
+01:41:18,323 --> 01:41:19,824
+Elles captent pas.
+
+1366
+01:41:19,824 --> 01:41:21,409
+Je sais pas ce que vous croyez,
+
+1367
+01:41:21,910 --> 01:41:24,954
+mais j'ai tué personne à Woodsboro,
+c'était pas moi !
+
+1368
+01:41:24,954 --> 01:41:26,289
+On le sait !
+
+1369
+01:41:26,289 --> 01:41:30,043
+Tu crois qu'on fait ça
+à cause d'une théorie du complot débile ?
+
+1370
+01:41:30,043 --> 01:41:34,506
+Réfléchis.
+Qui a lancé les rumeurs à ton sujet ?
+
+1371
+01:41:36,591 --> 01:41:38,343
+Tu sais comme c'est facile
+
+1372
+01:41:38,343 --> 01:41:42,388
+de faire de l'héroïne de Woodsboro
+une méchante ?
+
+1373
+01:41:42,972 --> 01:41:45,558
+Comme c'est facile
+de pousser le monde entier
+
+1374
+01:41:45,558 --> 01:41:49,813
+à croire le pire, plutôt que le meilleur ?
+
+1375
+01:41:49,813 --> 01:41:52,899
+Ça suffit plus,
+de tuer quelqu'un, de nos jours.
+
+1376
+01:41:53,399 --> 01:41:56,277
+Il faut assassiner sa réputation, d'abord.
+
+1377
+01:41:56,277 --> 01:42:00,448
+Quand papa découvrira
+vos corps déchiquetés
+
+1378
+01:42:01,366 --> 01:42:03,952
+et Sam avec le masque de son père,
+
+1379
+01:42:03,952 --> 01:42:06,162
+il dira qu'un abruti a lu sur Internet
+
+1380
+01:42:06,162 --> 01:42:07,622
+que c'est toi, Ghostface,
+
+1381
+01:42:07,622 --> 01:42:10,416
+et qu'il a voulu rendre justice.
+
+1382
+01:42:10,416 --> 01:42:13,253
+Exactement. C'est l'alibi parfait.
+
+1383
+01:42:13,253 --> 01:42:16,422
+Tout bon mensonge a une part de vérité.
+
+1384
+01:42:18,091 --> 01:42:19,092
+Tu es une tueuse.
+
+1385
+01:42:19,092 --> 01:42:20,760
+- Comme ton père.
+- C'est faux !
+
+1386
+01:42:20,760 --> 01:42:24,597
+Si, connasse, t'as tué notre frère !
+
+1387
+01:42:26,349 --> 01:42:27,642
+Quoi ?
+
+1388
+01:42:27,642 --> 01:42:29,269
+T'as parlé d'un accident de voiture.
+
+1389
+01:42:29,269 --> 01:42:31,312
+Non, petite imbécile.
+
+1390
+01:42:31,980 --> 01:42:33,356
+Il est mort à Woodsboro,
+
+1391
+01:42:34,399 --> 01:42:36,442
+des mains de ta salope de sœur.
+
+1392
+01:42:47,245 --> 01:42:48,371
+Vous êtes la famille de Richie.
+
+1393
+01:42:52,083 --> 01:42:53,084
+Oui.
+
+1394
+01:42:55,336 --> 01:42:56,337
+Vite !
+
+1395
+01:42:56,337 --> 01:42:58,381
+- Elle capte enfin.
+- Maintenant !
+
+1396
+01:42:58,381 --> 01:43:00,049
+C'est en voyant la photo
+
+1397
+01:43:00,049 --> 01:43:02,844
+de ce que tu lui as fait que j'ai su
+
+1398
+01:43:03,469 --> 01:43:05,680
+que tu devais mourir, être punie,
+
+1399
+01:43:05,680 --> 01:43:08,182
+comme tous ceux qui nous font barrage.
+
+1400
+01:43:11,644 --> 01:43:13,146
+La voilà.
+
+1401
+01:43:14,772 --> 01:43:16,482
+Elle est là, notre tueuse.
+
+1402
+01:43:16,482 --> 01:43:20,111
+- Très bon père.
+- Ferme ta gueule !
+
+1403
+01:43:23,364 --> 01:43:25,658
+Suis-je un père parfait ? Non.
+
+1404
+01:43:26,367 --> 01:43:31,289
+Ai-je trop laissé Richie
+regarder ces films ? Oui, peut-être.
+
+1405
+01:43:32,498 --> 01:43:33,833
+Moi, je les trouve sinistres.
+
+1406
+01:43:34,667 --> 01:43:35,627
+Mais...
+
+1407
+01:43:37,879 --> 01:43:39,005
+Richie les adorait.
+
+1408
+01:43:40,048 --> 01:43:41,174
+Il les adorait.
+
+1409
+01:43:42,175 --> 01:43:43,635
+Il réalisait ses propres films.
+
+1410
+01:43:45,094 --> 01:43:46,721
+Vous le saviez ?
+
+1411
+01:43:48,806 --> 01:43:51,184
+<i>Vous croyez que j'ai rien posté à Noël,</i>
+
+1412
+01:43:51,184 --> 01:43:54,562
+<i>mais j'ai essayé, j'ai vraiment essayé.</i>
+
+1413
+01:43:57,690 --> 01:44:00,443
+Il y a un lien très fort entre un père
+
+1414
+01:44:00,443 --> 01:44:02,111
+et son fils aîné.
+
+1415
+01:44:06,366 --> 01:44:08,117
+Je l'ai aidé à réunir cette collection.
+
+1416
+01:44:09,744 --> 01:44:12,080
+Tout ça, c'est à lui ?
+
+1417
+01:44:12,080 --> 01:44:15,458
+Un collectionneur passionné.
+Il faisait des émules.
+
+1418
+01:44:15,458 --> 01:44:19,253
+Il fallait éliminer les deux étudiants
+en cinéma parce que...
+
+1419
+01:44:20,088 --> 01:44:21,464
+c'est nous qui devions te tuer.
+
+1420
+01:44:22,340 --> 01:44:24,133
+J'ai loué le cinéma à leurs noms.
+
+1421
+01:44:24,133 --> 01:44:26,552
+Je n'ai pas eu le temps
+de feindre de le découvrir
+
+1422
+01:44:26,552 --> 01:44:31,182
+parce que Gale Weathers
+est une sacrée journaliste.
+
+1423
+01:44:31,933 --> 01:44:33,810
+J'ai voulu rendre hommage à mon fils.
+
+1424
+01:44:35,103 --> 01:44:37,730
+Donc tu dois mourir ici, Sam,
+
+1425
+01:44:39,065 --> 01:44:41,734
+entourée de ses objets préférés.
+
+1426
+01:44:41,734 --> 01:44:45,238
+Et ensuite ?
+Vous nous tuez et vous disparaissez ?
+
+1427
+01:44:45,238 --> 01:44:47,073
+Non, on va à l'hôpital pour s'assurer
+
+1428
+01:44:47,073 --> 01:44:49,450
+que Mindy et Gale meurent.
+
+1429
+01:44:49,450 --> 01:44:50,785
+Tout le monde crève !
+
+1430
+01:44:50,785 --> 01:44:54,706
+Tous ceux liés à la mort de mon fils
+souffrent et meurent.
+
+1431
+01:44:54,706 --> 01:44:55,915
+Grave.
+
+1432
+01:44:55,915 --> 01:44:57,917
+Mets le masque.
+
+1433
+01:44:59,877 --> 01:45:00,878
+Il était
+
+1434
+01:45:02,088 --> 01:45:03,381
+tellement pathétique.
+
+1435
+01:45:05,633 --> 01:45:06,634
+C'est faux.
+
+1436
+01:45:06,634 --> 01:45:07,593
+Si, votre fils.
+
+1437
+01:45:08,886 --> 01:45:12,765
+C'était un gros pleurnichard
+qui a laissé les meurtres à sa copine.
+
+1438
+01:45:13,599 --> 01:45:15,727
+C'était un jeune homme fort et viril.
+
+1439
+01:45:16,227 --> 01:45:19,897
+C'était une couille molle
+qui a chialé quand je l'ai égorgé.
+
+1440
+01:45:19,897 --> 01:45:22,859
+Ta gueule !
+
+1441
+01:45:27,280 --> 01:45:28,281
+Sam, vite !
+
+1442
+01:45:31,034 --> 01:45:32,326
+Tu le reconnais ?
+
+1443
+01:45:32,326 --> 01:45:33,619
+Va chier !
+
+1444
+01:45:38,249 --> 01:45:39,834
+Désolée, j'ai besoin de ça.
+
+1445
+01:45:42,587 --> 01:45:43,880
+Défonce-les.
+
+1446
+01:45:44,756 --> 01:45:46,257
+Tu vas faire quoi ?
+
+1447
+01:45:58,811 --> 01:45:59,771
+J'appelle les secours.
+
+1448
+01:46:15,119 --> 01:46:16,120
+Fais attention.
+
+1449
+01:46:26,839 --> 01:46:28,341
+Occupe-toi d'elle.
+
+1450
+01:46:28,966 --> 01:46:31,010
+- Je tiens pas.
+- Ça va aller.
+
+1451
+01:46:31,010 --> 01:46:33,930
+J'y arrive pas. J'y arrive pas.
+
+1452
+01:46:38,351 --> 01:46:40,645
+Je vais enfin t'en mettre un coup.
+
+1453
+01:46:40,645 --> 01:46:42,313
+Va chier !
+
+1454
+01:46:50,196 --> 01:46:52,073
+Vous êtes foutues, maintenant.
+
+1455
+01:46:59,163 --> 01:47:00,957
+Lâche-moi.
+
+1456
+01:47:01,541 --> 01:47:03,167
+Allez, Sam, lâche !
+
+1457
+01:47:06,295 --> 01:47:07,672
+Fais-moi confiance.
+
+1458
+01:47:15,972 --> 01:47:17,306
+Il faut que tu me lâches.
+
+1459
+01:47:28,442 --> 01:47:29,360
+Je t'ai eue !
+
+1460
+01:47:49,547 --> 01:47:51,174
+Tu vas crever puceau.
+
+1461
+01:47:59,682 --> 01:48:01,601
+T'as perdu un deuxième frère.
+
+1462
+01:48:11,402 --> 01:48:13,112
+Faut toujours viser la tête.
+
+1463
+01:49:01,619 --> 01:49:03,913
+Appel de
+
+1464
+01:49:07,291 --> 01:49:11,337
+<i>Bonsoir, lieutenant Bailey.
+J'ai une question à te poser.</i>
+
+1465
+01:49:14,173 --> 01:49:15,174
+Laquelle ?
+
+1466
+01:49:16,550 --> 01:49:18,970
+<i>C'est quoi, ton film d'horreur préféré ?</i>
+
+1467
+01:49:20,721 --> 01:49:23,099
+Mon film d'horreur préféré.
+
+1468
+01:49:23,891 --> 01:49:26,227
+<i>Tu es dans un film d'horreur, là.</i>
+
+1469
+01:49:27,144 --> 01:49:28,854
+<i>Et c'est mon film.</i>
+
+1470
+01:49:36,821 --> 01:49:38,990
+Je vois que tu as pris ce qui te revenait,
+
+1471
+01:49:40,366 --> 01:49:41,659
+ton héritage.
+
+1472
+01:49:43,244 --> 01:49:45,037
+C'est poétique que tu meures avec.
+
+1473
+01:49:45,538 --> 01:49:47,665
+<i>C'est ce que tu voulais, non ?</i>
+
+1474
+01:49:51,877 --> 01:49:53,254
+Tu connais la vérité.
+
+1475
+01:49:54,005 --> 01:49:55,172
+Tu as le meurtre dans le sang.
+
+1476
+01:49:58,092 --> 01:49:59,885
+Arrête tes conneries et montre-toi !
+
+1477
+01:50:00,594 --> 01:50:02,513
+<i>Je serais toi, je dirais pas ça.</i>
+
+1478
+01:50:03,806 --> 01:50:05,850
+Je suis flic, merde !
+
+1479
+01:50:05,850 --> 01:50:09,478
+Tu crois que ça finira comment ?
+À ton avis, ils vont croire qui ?
+
+1480
+01:50:11,939 --> 01:50:14,317
+<i>Sûrement le survivant.</i>
+
+1481
+01:50:52,021 --> 01:50:54,774
+Mon père était un meurtrier.
+
+1482
+01:50:57,735 --> 01:50:59,153
+Quoi que tu en penses,
+
+1483
+01:51:00,029 --> 01:51:01,739
+je vaux mieux que ça.
+
+1484
+01:51:04,367 --> 01:51:05,451
+Merci.
+
+1485
+01:51:14,460 --> 01:51:16,545
+Tu t'en es pris à notre famille...
+
+1486
+01:51:31,769 --> 01:51:33,771
+- Joli.
+- Merci.
+
+1487
+01:51:35,564 --> 01:51:36,607
+Ça va ?
+
+1488
+01:51:42,071 --> 01:51:43,072
+Non.
+
+1489
+01:52:21,402 --> 01:52:22,736
+Merci de m'avoir lâchée.
+
+1490
+01:52:26,615 --> 01:52:28,200
+Je savais que tu t'en tirerais.
+
+1491
+01:52:35,708 --> 01:52:37,251
+Je veux faire partie de ta vie,
+
+1492
+01:52:37,835 --> 01:52:39,670
+mais c'est toi qui décides.
+
+1493
+01:52:39,670 --> 01:52:41,046
+Je veux que t'en fasses partie.
+
+1494
+01:52:41,714 --> 01:52:44,425
+Promis, je vais faire une longue thérapie.
+
+1495
+01:52:45,009 --> 01:52:46,051
+Je te jure.
+
+1496
+01:52:52,391 --> 01:52:53,767
+On va s'en sortir.
+
+1497
+01:52:55,311 --> 01:52:56,312
+Ensemble.
+
+1498
+01:53:14,413 --> 01:53:16,832
+J'ai vu ça dans un film d'horreur.
+
+1499
+01:53:34,642 --> 01:53:35,935
+- Ça va ?
+- Oui.
+
+1500
+01:53:37,436 --> 01:53:39,688
+J'ai fait venir du renfort.
+
+1501
+01:53:39,688 --> 01:53:43,025
+J'ai appelé l'hôpital,
+Mindy et Gale vont s'en sortir.
+
+1502
+01:53:43,776 --> 01:53:45,986
+Mindy arrive, personne a pu la retenir.
+
+1503
+01:53:45,986 --> 01:53:47,154
+Pas mal, BG.
+
+1504
+01:53:48,155 --> 01:53:49,156
+Merci.
+
+1505
+01:54:00,709 --> 01:54:03,170
+Si jamais vous avez besoin, appelez-moi.
+
+1506
+01:54:03,671 --> 01:54:06,215
+On forme une grande famille de dingues.
+
+1507
+01:54:06,799 --> 01:54:10,135
+La famille, c'est pas forcément
+une mauvaise chose.
+
+1508
+01:54:19,728 --> 01:54:20,813
+C'est Chad.
+
+1509
+01:54:24,775 --> 01:54:26,193
+On a quelqu'un d'autre.
+
+1510
+01:54:27,570 --> 01:54:29,071
+Attention.
+
+1511
+01:54:33,951 --> 01:54:35,244
+Comment t'as survécu ?
+
+1512
+01:54:39,582 --> 01:54:40,958
+Le Gang des quatre.
+
+1513
+01:54:46,213 --> 01:54:48,007
+Désolée, t'as besoin de ça.
+
+1514
+01:54:48,007 --> 01:54:49,883
+Vous allez bien ?
+
+1515
+01:54:49,883 --> 01:54:52,011
+Les tueurs, c'est Ethan et Bailey.
+
+1516
+01:54:52,845 --> 01:54:55,848
+- Et Quinn.
+- Et Quinn ? Putain !
+
+1517
+01:54:55,848 --> 01:54:57,266
+J'ai encore raté le monologue ?
+
+1518
+01:54:57,850 --> 01:54:59,351
+Ça va ?
+
+1519
+01:54:59,977 --> 01:55:01,228
+On dirait pas.
+
+1520
+01:55:01,228 --> 01:55:04,148
+On a tous survécu, double rebondissement.
+
+1521
+01:55:04,148 --> 01:55:08,027
+On m'a complètement shootée.
+Vous devriez essayer.
+
+1522
+01:55:08,027 --> 01:55:09,903
+Je sens plus mon corps.
+
+1523
+01:55:34,178 --> 01:55:35,262
+Tu viens ?
+
+1524
+02:02:12,200 --> 02:02:14,202
+Sous-titres : Éléonore Boudault
+
+1525
+02:02:17,330 --> 02:02:20,083
+Ça suffit, les scènes post-générique !
