@@ -1,0 +1,7688 @@
+1
+00:00:05,005 --> 00:00:06,047
+Bast,
+
+2
+00:00:07,048 --> 00:00:08,883
+le temps presse.
+
+3
+00:00:10,051 --> 00:00:12,429
+Je t'en prie, aide-moi
+à guérir mon frère de cette maladie,
+
+4
+00:00:13,138 --> 00:00:15,765
+et je ne douterai plus jamais
+de ton existence.
+
+5
+00:00:16,641 --> 00:00:18,361
+Son rythme cardiaque diminue.
+Où en est-on ?
+
+6
+00:00:18,476 --> 00:00:19,756
+Nous terminons une angiographie.
+
+7
+00:00:19,894 --> 00:00:21,438
+GRIOT, donne-moi les commandes.
+
+8
+00:00:21,604 --> 00:00:22,897
+À vos ordres, princesse.
+
+9
+00:00:28,820 --> 00:00:30,196
+Quel est le taux de fiabilité ?
+
+10
+00:00:30,655 --> 00:00:31,823
+25 %.
+
+11
+00:00:32,490 --> 00:00:34,492
+Il faut essayer autre chose.
+
+12
+00:00:34,659 --> 00:00:37,996
+Le rythme cardiaque du roi T'Challa
+est tombé à 31 battements par minute.
+
+13
+00:00:38,163 --> 00:00:40,707
+Princesse, vous devriez
+être à son chevet.
+
+14
+00:00:40,874 --> 00:00:43,293
+Je dois réfléchir.
+Tout le monde dehors.
+
+15
+00:00:44,711 --> 00:00:45,712
+Sortez !
+
+16
+00:00:51,926 --> 00:00:53,154
+Quel est le taux de fiabilité ?
+
+17
+00:00:53,178 --> 00:00:54,554
+29,1 %.
+
+18
+00:00:54,721 --> 00:00:55,722
+Imprime-la !
+
+19
+00:01:00,602 --> 00:01:04,355
+Princesse, je sais qu'il y a urgence,
+mais je dois vous avertir
+
+20
+00:01:04,522 --> 00:01:06,316
+que cette herbe-cœur synthétique
+
+21
+00:01:06,483 --> 00:01:08,803
+n'a que très peu de chances
+de produire les effets désirés.
+
+22
+00:01:08,943 --> 00:01:12,030
+Je m'en fiche ! Il faut que ça marche.
+
+23
+00:01:31,299 --> 00:01:32,300
+GRIOT.
+
+24
+00:01:32,467 --> 00:01:33,468
+Oui, princesse ?
+
+25
+00:01:34,344 --> 00:01:36,024
+Quel est le rythme cardiaque
+de mon frère ?
+
+26
+00:01:40,934 --> 00:01:45,730
+Ton frère est parti
+rejoindre les ancêtres.
+
+27
+00:01:53,113 --> 00:01:54,197
+Non.
+
+28
+00:01:58,326 --> 00:02:05,333
+{\an8}Nous rendons grâce
+au don du roi T'Challa.
+
+29
+00:02:06,376 --> 00:02:11,005
+{\an8}Black Panther.
+
+30
+00:02:12,340 --> 00:02:15,343
+{\an8}Fils du roi T'Chaka.
+
+31
+00:02:15,969 --> 00:02:16,969
+{\an8}Mon fils.
+
+32
+00:02:17,095 --> 00:02:22,433
+{\an8}Descendant du vénéré roi Bashenga,
+
+33
+00:02:23,017 --> 00:02:25,395
+{\an8}le premier Black Panther.
+
+34
+00:02:25,812 --> 00:02:27,647
+{\an8}Nous te libérons.
+
+35
+00:02:27,856 --> 00:02:29,899
+{\an8}Gloire aux ancêtres.
+
+36
+00:02:51,171 --> 00:02:55,008
+T'Challa, T'Challa, T'Challa
+
+37
+00:02:56,009 --> 00:03:00,013
+T'Challa, T'Challa, T'Challa
+
+38
+00:03:00,972 --> 00:03:04,934
+T'Challa, T'Challa, T'Challa
+
+39
+00:03:06,102 --> 00:03:09,689
+T'Challa, T'Challa, T'Challa
+
+40
+00:03:11,107 --> 00:03:15,111
+T'Challa, T'Challa, T'Challa
+
+41
+00:03:16,404 --> 00:03:20,325
+T'Challa, T'Challa, T'Challa
+
+42
+00:03:21,659 --> 00:03:22,744
+T'Challa
+
+43
+00:04:50,331 --> 00:04:52,250
+Je suis désolée.
+
+44
+00:06:26,719 --> 00:06:28,679
+UN AN PLUS TARD
+
+45
+00:06:31,933 --> 00:06:34,685
+{\an8}NATIONS UNIES
+GENÈVE, SUISSE
+
+46
+00:06:35,436 --> 00:06:37,063
+C'est un honneur pour moi
+
+47
+00:06:37,230 --> 00:06:39,816
+d'accueillir sa majesté,
+la reine Ramonda.
+
+48
+00:06:39,982 --> 00:06:40,775
+PRÉSIDENT
+
+49
+00:06:40,858 --> 00:06:43,486
+Fille de Lumumba, souveraine
+du royaume de Wakanda.
+
+50
+00:06:57,166 --> 00:06:59,710
+Monsieur le président,
+
+51
+00:06:59,877 --> 00:07:04,382
+je crois parler au nom
+de tous les États membres ici présents
+
+52
+00:07:04,549 --> 00:07:08,302
+quand je dis que je suis profondément
+déçu par l'échec du Wakanda
+
+53
+00:07:08,469 --> 00:07:13,266
+à tenir ses engagements
+à participer à nos efforts globaux
+
+54
+00:07:13,724 --> 00:07:17,603
+pour affronter les défis mondiaux
+et à partager ses ressources
+
+55
+00:07:17,770 --> 00:07:19,313
+en totale coopération
+
+56
+00:07:19,897 --> 00:07:21,649
+concernant le vibranium.
+
+57
+00:07:39,417 --> 00:07:42,753
+Je donne maintenant la parole
+à Sa Majesté, la reine Ramonda.
+
+58
+00:07:49,886 --> 00:07:52,680
+Nous avons toujours suivi
+la même politique.
+
+59
+00:07:52,847 --> 00:07:57,810
+Ne jamais négocier le vibranium,
+peu importe les circonstances.
+
+60
+00:07:57,977 --> 00:08:02,857
+Pas seulement à cause du danger
+qu'il représente pour le monde,
+
+61
+00:08:03,024 --> 00:08:07,528
+mais également à cause du danger
+que toutes vos nations représentent.
+
+62
+00:08:10,448 --> 00:08:13,117
+{\an8}BASE AVANCÉE WAKANDAISE ANSONGO, MALI
+
+63
+00:08:48,236 --> 00:08:52,698
+Vous faites preuve de politesse ici.
+
+64
+00:08:53,157 --> 00:08:55,493
+Mais nous savons
+ce que vous chuchotez
+
+65
+00:08:55,660 --> 00:08:59,997
+dans les couloirs de vos gouvernements
+et dans vos bases militaires.
+
+66
+00:09:04,919 --> 00:09:07,713
+"Leur Roi est mort."
+
+67
+00:09:09,465 --> 00:09:12,468
+"Leur Black Panther n'est plus."
+
+68
+00:09:14,387 --> 00:09:17,640
+"Ils ont perdu leur protecteur."
+
+69
+00:09:23,437 --> 00:09:26,774
+"C'est maintenant l'heure"
+
+70
+00:09:28,234 --> 00:09:29,402
+"de les attaquer."
+
+71
+00:09:56,345 --> 00:09:58,598
+Aneka, où est ta lance ?
+
+72
+00:09:58,764 --> 00:10:00,099
+Shuri m'a demandé d'essayer ça.
+
+73
+00:10:02,852 --> 00:10:04,562
+C'est bien plus efficace.
+
+74
+00:10:04,729 --> 00:10:06,230
+Nos aïeules nous ont donné la lance
+
+75
+00:10:06,397 --> 00:10:09,191
+parce que c'est une arme
+précise, élégante
+
+76
+00:10:10,818 --> 00:10:12,028
+et mortelle.
+
+77
+00:10:14,905 --> 00:10:17,199
+Ça ne changera pas
+sous mon commandement.
+
+78
+00:10:19,160 --> 00:10:20,578
+Oui, générale.
+
+79
+00:10:21,162 --> 00:10:22,997
+Je t'ai dit de ne pas les apporter.
+
+80
+00:10:25,958 --> 00:10:30,713
+La nuit dernière, il y a eu une autre
+attaque contre une de nos bases.
+
+81
+00:10:31,631 --> 00:10:35,217
+La preuve de la participation
+d'un État membre existe.
+
+82
+00:10:35,384 --> 00:10:39,430
+Elle est téléchargée sur vos appareils
+mobiles en ce moment même.
+
+83
+00:10:40,681 --> 00:10:43,559
+Et je vais vous révéler
+l'identité des assaillants.
+
+84
+00:10:56,113 --> 00:10:57,698
+{\an8}À genoux !
+
+85
+00:11:03,329 --> 00:11:09,293
+Que notre gracieuse réponse à cette
+incursion soit un rameau d'olivier.
+
+86
+00:11:11,087 --> 00:11:14,173
+Toute autre tentative
+d'attaquer nos ressources
+
+87
+00:11:14,340 --> 00:11:17,426
+sera considérée
+comme un acte d'agression
+
+88
+00:11:17,593 --> 00:11:21,347
+et entraînera une réponse
+beaucoup plus robuste.
+
+89
+00:11:23,057 --> 00:11:25,518
+Nous pleurons la mort de notre roi.
+
+90
+00:11:26,435 --> 00:11:31,107
+Mais ne vous imaginez pas un instant
+que le Wakanda a perdu sa capacité
+
+91
+00:11:31,273 --> 00:11:33,818
+à protéger ses ressources.
+
+92
+00:11:34,360 --> 00:11:37,988
+Nous sommes conscients des efforts
+de certains d'entre vous
+
+93
+00:11:38,155 --> 00:11:41,409
+pour trouver du vibranium
+en dehors du Wakanda.
+
+94
+00:11:41,575 --> 00:11:45,705
+Nous vous souhaitons bonne chance.
+
+95
+00:11:50,126 --> 00:11:50,960
+{\an8}OCÉAN ATLANTIQUE
+
+96
+00:11:51,043 --> 00:11:53,963
+{\an8}Ici Rotor 625.
+Demande l'autorisation d'atterrir.
+
+97
+00:11:58,175 --> 00:11:59,255
+Bon. On se retrouve en bas.
+
+98
+00:11:59,343 --> 00:12:00,344
+Oui.
+
+99
+00:12:02,888 --> 00:12:03,973
+Hé !
+
+100
+00:12:04,724 --> 00:12:05,964
+Je vous croyais à la retraite !
+
+101
+00:12:06,100 --> 00:12:07,143
+Je croyais l'être aussi !
+
+102
+00:12:07,309 --> 00:12:10,646
+Cette machine aurait une chance sur
+un milliard de trouver du vibranium.
+
+103
+00:12:10,813 --> 00:12:12,022
+Moins que ça.
+
+104
+00:12:34,086 --> 00:12:35,087
+Nous y voilà.
+
+105
+00:12:35,880 --> 00:12:39,091
+Pression cabine stable
+à moins un kilo par centimètre carré.
+
+106
+00:12:44,472 --> 00:12:45,806
+À 250 mètres,
+
+107
+00:12:45,973 --> 00:12:47,933
+on traverse la thermocline.
+
+108
+00:12:48,100 --> 00:12:49,769
+Équipement de survie dans le vert.
+
+109
+00:12:52,021 --> 00:12:53,021
+Bien reçu.
+
+110
+00:13:02,323 --> 00:13:03,699
+Contact avec le fond.
+
+111
+00:13:11,207 --> 00:13:14,877
+Parfait. Salazar,
+vous devriez être à proximité du site.
+
+112
+00:13:16,086 --> 00:13:18,214
+Oui, et c'est époustouflant.
+
+113
+00:13:20,216 --> 00:13:23,052
+La foreuse semble entrer en contact
+avec une substance métallique.
+
+114
+00:13:24,011 --> 00:13:26,013
+Quoi que ce soit, c'est du solide.
+
+115
+00:13:26,388 --> 00:13:28,682
+Je n'ai jamais vu un foret
+endommagé à ce point.
+
+116
+00:13:32,269 --> 00:13:33,354
+Incroyable.
+
+117
+00:13:34,021 --> 00:13:35,606
+Du vibranium sous l'océan.
+
+118
+00:13:35,773 --> 00:13:37,483
+Sortons le détecteur de là.
+
+119
+00:13:37,650 --> 00:13:39,568
+C'est le seul que nous avons.
+
+120
+00:13:40,528 --> 00:13:42,905
+On se dirige
+vers le détecteur de vibranium.
+
+121
+00:13:54,792 --> 00:13:55,918
+Salazar, on a perdu l'image.
+
+122
+00:13:56,085 --> 00:13:57,670
+Oui. La foreuse n'est plus alimentée.
+
+123
+00:13:58,337 --> 00:14:00,089
+Bien reçu. Je vais arranger ça d'ici.
+
+124
+00:14:16,105 --> 00:14:17,106
+C'était quoi, ça ?
+
+125
+00:14:30,995 --> 00:14:32,329
+Jackson,
+
+126
+00:14:32,496 --> 00:14:34,248
+dis-moi que tu vois ça.
+
+127
+00:14:34,540 --> 00:14:36,518
+Attendez. Le rythme cardiaque
+de Salazar s'emballe.
+
+128
+00:14:36,542 --> 00:14:38,711
+Salazar, je peux avoir un visuel ?
+
+129
+00:14:40,588 --> 00:14:42,715
+C'est une méduse fantôme.
+Je n'en ai jamais vu
+
+130
+00:14:42,882 --> 00:14:43,632
+de cette couleur.
+
+131
+00:14:43,716 --> 00:14:44,716
+PERTE DE SIGNAL
+
+132
+00:14:45,134 --> 00:14:46,635
+Sauveteurs, tenez-vous prêts.
+
+133
+00:14:46,802 --> 00:14:49,555
+Salazar, on vient de perdre
+les signes vitaux de Jackson.
+
+134
+00:14:49,722 --> 00:14:50,848
+Vous le voyez ?
+
+135
+00:14:58,856 --> 00:15:00,649
+Non. Il a disparu.
+
+136
+00:15:00,941 --> 00:15:02,735
+Pouvez-vous préciser ?
+Que voulez-vous dire ?
+
+137
+00:15:04,695 --> 00:15:05,988
+Salazar, vous me recevez ?
+
+138
+00:15:07,531 --> 00:15:08,532
+Salazar ?
+
+139
+00:15:09,033 --> 00:15:10,784
+SIGNAL PERDU
+
+140
+00:15:11,911 --> 00:15:14,288
+Smitty, on a un problème.
+
+141
+00:15:26,216 --> 00:15:27,301
+C'est quoi, ce son ?
+
+142
+00:15:27,635 --> 00:15:29,515
+West, on a un visuel
+sur ce qui produit ce son ?
+
+143
+00:15:36,268 --> 00:15:37,548
+West, vous me recevez ? Terminé.
+
+144
+00:15:40,856 --> 00:15:41,982
+West, on a un visuel ?
+
+145
+00:16:01,210 --> 00:16:02,628
+On dirait une attaque sonique.
+
+146
+00:16:02,795 --> 00:16:04,588
+Hé ! Smitty, bouchons d'oreilles.
+
+147
+00:16:11,720 --> 00:16:12,846
+Nous sommes attaqués.
+
+148
+00:16:13,013 --> 00:16:14,765
+Envoyez immédiatement
+une équipe d'assaut.
+
+149
+00:16:14,932 --> 00:16:17,935
+Bien reçu.
+Mayday, mayday, ici Rotor 625.
+
+150
+00:16:18,018 --> 00:16:19,436
+Nous demandons une aide urgente.
+
+151
+00:16:19,603 --> 00:16:20,604
+Ce sont les Wakandais.
+
+152
+00:16:23,148 --> 00:16:24,149
+Forcément.
+
+153
+00:16:40,249 --> 00:16:41,083
+Henderson.
+
+154
+00:16:41,250 --> 00:16:42,501
+Smitty, on doit y aller.
+
+155
+00:16:43,002 --> 00:16:44,086
+Henderson !
+
+156
+00:16:45,212 --> 00:16:46,212
+Allons-nous-en.
+
+157
+00:16:48,882 --> 00:16:49,925
+Que se passe-t-il ?
+
+158
+00:16:50,718 --> 00:16:51,719
+Ne restez pas au bord.
+
+159
+00:17:08,402 --> 00:17:09,445
+{\an8}Allez-y !
+
+160
+00:17:30,215 --> 00:17:31,216
+Allez, allez !
+
+161
+00:17:38,557 --> 00:17:39,641
+Vite ! Allez !
+
+162
+00:17:39,808 --> 00:17:41,351
+Éjectez-les tous !
+
+163
+00:17:43,020 --> 00:17:44,271
+D'accord. Ils sont partis !
+
+164
+00:17:44,438 --> 00:17:45,564
+Bon sang !
+
+165
+00:18:05,125 --> 00:18:06,126
+Sortez-nous de là.
+
+166
+00:18:06,585 --> 00:18:07,669
+Ça va aller.
+
+167
+00:18:07,961 --> 00:18:08,962
+Ça va.
+
+168
+00:18:09,129 --> 00:18:10,339
+Où est l'équipe d'assaut ?
+
+169
+00:18:10,506 --> 00:18:12,674
+Ce n'était pas les Wakandais.
+Ils étaient bleus.
+
+170
+00:18:12,841 --> 00:18:13,967
+Tout le monde est mort.
+
+171
+00:18:15,803 --> 00:18:17,596
+Merde. Qu'est-ce qui se passe ?
+
+172
+00:18:17,721 --> 00:18:18,222
+On est tirés.
+
+173
+00:18:18,305 --> 00:18:19,305
+DÉFAILLANCE DU ROTOR
+
+174
+00:18:20,390 --> 00:18:21,391
+Mon Dieu.
+
+175
+00:18:27,773 --> 00:18:28,899
+Bon sang ! Accrochez-vous !
+
+176
+00:19:03,976 --> 00:19:05,644
+La reine Ramonda,
+souveraine du Wakanda,
+
+177
+00:19:05,811 --> 00:19:08,105
+a prononcé un discours électrisant
+à l'ONU hier,
+
+178
+00:19:08,272 --> 00:19:10,375
+tandis que des membres de son armée
+ont escorté des mercenaires...
+
+179
+00:19:10,399 --> 00:19:11,191
+LE WAKANDA DÉJOUE UNE ATTAQUE
+
+180
+00:19:11,275 --> 00:19:12,901
+...sur le sol de l'ONU.
+
+181
+00:19:13,110 --> 00:19:14,879
+Un an s'est écoulé
+depuis que la reine Ramonda
+
+182
+00:19:14,903 --> 00:19:16,822
+a retrouvé le trône du Wakanda
+
+183
+00:19:16,989 --> 00:19:20,492
+après la mort subite du roi T'Challa,
+victime d'une mystérieuse maladie.
+
+184
+00:19:20,659 --> 00:19:22,804
+Tous les yeux sont tournés
+vers cette nation petite et puissante,
+
+185
+00:19:22,828 --> 00:19:25,372
+mais de plus en plus isolée
+sur la scène mondiale.
+
+186
+00:19:25,539 --> 00:19:27,249
+{\an8}Majesté.
+
+187
+00:19:27,833 --> 00:19:29,751
+Nous approchons
+des berges de la rivière.
+
+188
+00:19:36,466 --> 00:19:38,010
+Nous sommes à la maison.
+
+189
+00:20:27,851 --> 00:20:28,936
+Princesse.
+
+190
+00:20:29,102 --> 00:20:31,563
+Un instant. Je suis occupée.
+
+191
+00:20:31,730 --> 00:20:33,023
+Je comprends, princesse, mais...
+
+192
+00:20:33,190 --> 00:20:34,942
+Tu m'empêches de réfléchir.
+
+193
+00:20:38,445 --> 00:20:39,446
+Shuri.
+
+194
+00:20:39,988 --> 00:20:40,989
+Mère.
+
+195
+00:20:41,156 --> 00:20:44,034
+C'est ce que j'essayais de vous dire.
+La reine est ici.
+
+196
+00:20:44,451 --> 00:20:46,203
+- Merci.
+- Cette chose m'horripile.
+
+197
+00:20:46,703 --> 00:20:50,207
+Un jour, l'intelligence artificielle
+nous tuera tous.
+
+198
+00:20:50,374 --> 00:20:54,920
+Elle n'est pas comme dans les films.
+Elle fait ce que je lui demande.
+
+199
+00:20:55,087 --> 00:20:57,547
+Oui, si seulement les enfants
+faisaient de même.
+
+200
+00:20:58,757 --> 00:21:01,510
+Tout le monde semble
+travailler d'arrache-pied.
+
+201
+00:21:02,094 --> 00:21:05,722
+Oui. C'est l'équipe
+de réponse rapide à la menace.
+
+202
+00:21:06,265 --> 00:21:07,516
+Il y a un grand nombre
+
+203
+00:21:07,683 --> 00:21:11,019
+de dangers inconnus à l'horizon,
+et ils imaginent des solutions.
+
+204
+00:21:12,062 --> 00:21:14,064
+Qu'est-ce que c'est ?
+
+205
+00:21:14,231 --> 00:21:15,857
+Des exo-armures pour notre armée.
+
+206
+00:21:16,024 --> 00:21:20,570
+Elles confèrent à leur utilisateur
+force, vitesse et résistance.
+
+207
+00:21:20,737 --> 00:21:23,217
+Mais comme chaque fois, je dois
+tenir compte des notes d'Okoye.
+
+208
+00:21:23,532 --> 00:21:24,533
+Quelles sont ses notes ?
+
+209
+00:21:24,741 --> 00:21:25,993
+Elle les déteste.
+
+210
+00:21:31,456 --> 00:21:33,709
+Tu avais parlé
+de recréer l'herbe-cœur.
+
+211
+00:21:33,875 --> 00:21:35,877
+Tu as fait des progrès de ce côté-là ?
+
+212
+00:21:36,044 --> 00:21:37,254
+Excusez-moi, princesse.
+
+213
+00:21:37,421 --> 00:21:40,465
+Nakia, fille de Yaa,
+essaie à nouveau de vous joindre.
+
+214
+00:21:40,632 --> 00:21:41,633
+Vous devriez peut-être...
+
+215
+00:21:41,800 --> 00:21:43,510
+Tu devrais peut-être
+continuer tes calculs
+
+216
+00:21:43,677 --> 00:21:44,678
+comme je te l'ai demandé.
+
+217
+00:21:44,845 --> 00:21:46,555
+À vos ordres, princesse.
+
+218
+00:21:47,848 --> 00:21:52,311
+On n'a pas besoin de l'herbe, mère.
+Il nous faut une nouvelle technologie.
+
+219
+00:21:52,477 --> 00:21:53,770
+Ou plutôt Black Panther ?
+
+220
+00:21:57,065 --> 00:22:00,527
+Son blason a uni notre nation
+pendant des siècles.
+
+221
+00:22:00,694 --> 00:22:02,904
+Black Panther est un vestige, mère.
+
+222
+00:22:03,071 --> 00:22:05,449
+Ce n'est pas son blason
+que je voulais sauver avec l'herbe.
+
+223
+00:22:05,615 --> 00:22:07,743
+J'essayais de sauver mon frère.
+
+224
+00:22:09,828 --> 00:22:10,912
+Shuri.
+
+225
+00:22:24,885 --> 00:22:26,303
+Sais-tu quel jour on est ?
+
+226
+00:22:27,054 --> 00:22:28,263
+Mardi.
+
+227
+00:22:29,056 --> 00:22:30,557
+La date, mon enfant.
+
+228
+00:22:36,730 --> 00:22:38,106
+La mort de mon frère.
+
+229
+00:22:38,607 --> 00:22:40,192
+Il y a un an aujourd'hui.
+
+230
+00:22:49,993 --> 00:22:51,073
+Tu as prévu quelque chose ?
+
+231
+00:22:51,161 --> 00:22:55,082
+Oui. Il faut que tu accompagnes
+ta mère quelque part.
+
+232
+00:22:55,749 --> 00:22:57,084
+- Tout de suite ?
+- Oui.
+
+233
+00:22:57,751 --> 00:22:59,336
+Et laisse tes perles Kimoyo ici.
+
+234
+00:22:59,503 --> 00:23:00,504
+- Mère.
+- Non, non.
+
+235
+00:23:00,670 --> 00:23:02,756
+Là où on va, tu n'en auras pas besoin.
+
+236
+00:23:07,511 --> 00:23:10,305
+Les autres aussi. Oui.
+
+237
+00:23:34,162 --> 00:23:38,041
+Reste assise ici avec moi.
+Et face à toi-même.
+
+238
+00:23:38,208 --> 00:23:40,585
+C'est pour toi
+l'unique moyen de guérir
+
+239
+00:23:40,752 --> 00:23:43,004
+de la blessure causée
+par la mort de T'Challa.
+
+240
+00:23:43,171 --> 00:23:44,464
+Je vais bien, mère.
+
+241
+00:23:45,882 --> 00:23:47,843
+Tu n'as pas à t'inquiéter pour moi.
+
+242
+00:23:49,094 --> 00:23:52,722
+Il est parti, mais je vais de l'avant.
+
+243
+00:23:52,889 --> 00:23:57,602
+T'Challa est mort, mais ça ne veut pas
+dire qu'il est parti.
+
+244
+00:23:58,103 --> 00:24:00,981
+Quand cette maladie
+nous a enlevé ton frère,
+
+245
+00:24:01,148 --> 00:24:05,652
+j'ai dû guider une nation en deuil
+et un monde divisé.
+
+246
+00:24:05,819 --> 00:24:08,530
+Mais j'ai continué
+à explorer la brousse.
+
+247
+00:24:08,697 --> 00:24:11,950
+J'ai erré jusqu'à ce que je trouve
+une source d'eau.
+
+248
+00:24:12,117 --> 00:24:13,493
+Je me suis assise.
+
+249
+00:24:15,120 --> 00:24:16,788
+Puis j'ai fait ce rituel
+
+250
+00:24:16,955 --> 00:24:19,374
+que je vais à présent te révéler.
+
+251
+00:24:21,918 --> 00:24:26,131
+J'ai retrouvé ton frère dans la brise,
+
+252
+00:24:27,424 --> 00:24:30,802
+comme s'il me poussait doucement,
+mais fermement.
+
+253
+00:24:31,803 --> 00:24:33,972
+J'ai senti sa main sur mon épaule.
+
+254
+00:24:36,475 --> 00:24:37,809
+Il a fallu un peu de temps,
+
+255
+00:24:39,186 --> 00:24:41,146
+mais il était là.
+
+256
+00:24:47,360 --> 00:24:48,778
+Il n'était pas là, mère.
+
+257
+00:24:50,572 --> 00:24:51,948
+La présence que tu as ressentie
+
+258
+00:24:52,115 --> 00:24:54,034
+était seulement une construction
+de ton esprit.
+
+259
+00:24:56,244 --> 00:24:59,998
+Conçue pour t'offrir
+un peu de réconfort et d'apaisement.
+
+260
+00:25:00,540 --> 00:25:02,125
+C'est tout.
+
+261
+00:25:09,007 --> 00:25:11,885
+Quelle construction crée ton esprit
+
+262
+00:25:12,052 --> 00:25:14,012
+quand tu penses à ton frère ?
+
+263
+00:25:14,971 --> 00:25:16,932
+Est-ce que cette pensée te réconforte ?
+
+264
+00:25:18,308 --> 00:25:19,684
+Ou elle te tourmente ?
+
+265
+00:25:33,365 --> 00:25:34,449
+Viens, mon enfant.
+
+266
+00:25:46,211 --> 00:25:47,212
+Qui t'a donné ça ?
+
+267
+00:25:47,379 --> 00:25:48,505
+Ça n'a pas d'importance.
+
+268
+00:25:49,339 --> 00:25:51,132
+Quel est le rapport avec ton rituel ?
+
+269
+00:25:52,300 --> 00:25:54,636
+L'incinération
+des vêtements funéraires
+
+270
+00:25:54,803 --> 00:25:57,055
+marque la fin de la période de deuil
+
+271
+00:25:57,222 --> 00:26:00,058
+et le commencement
+d'une nouvelle relation
+
+272
+00:26:00,225 --> 00:26:02,477
+avec nos proches après leur décès.
+
+273
+00:26:02,978 --> 00:26:04,563
+Je refuse de faire ça, mère.
+
+274
+00:26:05,897 --> 00:26:07,274
+Si je m'assieds
+
+275
+00:26:07,440 --> 00:26:09,985
+et que je pense
+à mon frère trop longtemps,
+
+276
+00:26:11,486 --> 00:26:14,281
+ce ne sont pas ses vêtements
+que je brûlerai.
+
+277
+00:26:15,532 --> 00:26:17,075
+Ce sera le monde
+
+278
+00:26:18,493 --> 00:26:20,036
+et tous ses habitants.
+
+279
+00:26:21,246 --> 00:26:22,372
+Shuri...
+
+280
+00:26:26,835 --> 00:26:29,754
+Shuri, il y a quelque chose
+que je dois te dire
+
+281
+00:26:30,338 --> 00:26:31,590
+à propos de ton frère.
+
+282
+00:26:36,094 --> 00:26:37,095
+Mère, attends !
+
+283
+00:26:37,679 --> 00:26:39,097
+Qu'est-ce que tu fais ?
+
+284
+00:27:04,414 --> 00:27:06,334
+J'espère que ça ne fait pas partie
+de ton rituel.
+
+285
+00:27:06,416 --> 00:27:07,751
+Pas du tout.
+
+286
+00:27:09,377 --> 00:27:11,046
+Arrêtez ! Restez où vous êtes !
+
+287
+00:27:11,713 --> 00:27:14,549
+Qui êtes-vous ?
+Comment êtes-vous arrivé ici ?
+
+288
+00:27:16,092 --> 00:27:17,594
+Cet endroit est incroyable.
+
+289
+00:27:18,511 --> 00:27:20,597
+L'air est si pur.
+
+290
+00:27:22,057 --> 00:27:23,058
+Et l'eau...
+
+291
+00:27:24,601 --> 00:27:26,728
+Ma mère parlait souvent
+d'un endroit comme celui-ci.
+
+292
+00:27:27,062 --> 00:27:30,231
+Une terre protégée avec un peuple
+qui n'a jamais besoin de fuir.
+
+293
+00:27:30,398 --> 00:27:32,734
+Qui n'a jamais besoin
+de changer de mode de vie.
+
+294
+00:27:34,319 --> 00:27:37,322
+Pourquoi vous a-t-il fallu
+révéler votre secret au monde ?
+
+295
+00:27:37,489 --> 00:27:40,325
+Je ne suis pas une femme
+qui aime se répéter.
+
+296
+00:27:40,492 --> 00:27:42,369
+Qui êtes-vous ?
+
+297
+00:27:42,535 --> 00:27:43,745
+J'ai de nombreux noms.
+
+298
+00:27:44,371 --> 00:27:47,457
+Mon peuple m'appelle K'uk'ulkan.
+
+299
+00:27:50,377 --> 00:27:52,087
+Mais mes ennemis m'appellent Namor.
+
+300
+00:27:53,880 --> 00:27:58,093
+L'armée américaine a détecté
+du vibranium sous ma nation.
+
+301
+00:27:59,094 --> 00:28:02,639
+J'ai pu les empêcher de le miner,
+
+302
+00:28:03,556 --> 00:28:06,685
+mais il nous faut l'aide du Wakanda
+pour éviter que ça ne se reproduise.
+
+303
+00:28:07,811 --> 00:28:10,772
+Ils utilisent une machine créée
+par une scientifique américaine.
+
+304
+00:28:10,939 --> 00:28:13,441
+Le vibranium n'existe qu'ici.
+
+305
+00:28:13,608 --> 00:28:14,943
+Au Wakanda.
+
+306
+00:28:15,110 --> 00:28:16,486
+Mère, il est couvert de vibranium.
+
+307
+00:28:20,365 --> 00:28:24,119
+Votre fils a dévoilé le pouvoir
+du vibranium au monde.
+
+308
+00:28:24,661 --> 00:28:28,498
+En réaction, d'autres nations
+ont commencé à en chercher partout.
+
+309
+00:28:28,665 --> 00:28:32,085
+Sa décision nous a mis en danger.
+
+310
+00:28:32,877 --> 00:28:36,631
+Le Wakanda pourrait capturer
+cette scientifique et me la livrer.
+
+311
+00:28:37,382 --> 00:28:41,386
+Il serait normal que le Wakanda
+nous aide à résoudre notre problème.
+
+312
+00:28:41,553 --> 00:28:46,808
+Je vous interdis de violer mon pays
+et de me dire ce que je dois faire.
+
+313
+00:28:48,268 --> 00:28:51,354
+J'ai plus de soldats
+que ce pays n'a de brins d'herbe.
+
+314
+00:28:52,147 --> 00:28:54,858
+Et ils ont une force incomparable.
+
+315
+00:28:55,358 --> 00:28:58,486
+Je détesterais revenir
+dans d'autres circonstances.
+
+316
+00:29:04,492 --> 00:29:06,953
+Quand vous aurez la scientifique,
+soufflez dans ceci
+
+317
+00:29:07,120 --> 00:29:08,455
+et placez-le dans l'océan.
+
+318
+00:29:08,913 --> 00:29:10,915
+J'arriverai au bout
+de quelques minutes.
+
+319
+00:29:14,461 --> 00:29:15,670
+Dans votre intérêt,
+
+320
+00:29:16,171 --> 00:29:19,966
+ne parlez de moi à personne
+en dehors du Wakanda.
+
+321
+00:29:28,683 --> 00:29:30,602
+Tu as vu les ailes sur ses chevilles ?
+
+322
+00:29:46,993 --> 00:29:48,203
+Comment a-t-il fait ça ?
+
+323
+00:29:48,953 --> 00:29:50,580
+Nous devons convoquer le Conseil.
+
+324
+00:29:52,415 --> 00:29:56,002
+Les Vigies Célestes n'ont détecté
+aucune activité suspecte.
+
+325
+00:29:58,087 --> 00:30:02,050
+Alors les berges
+de la rivière ont été violées ?
+
+326
+00:30:03,009 --> 00:30:04,469
+Si mes soldats avaient été là,
+
+327
+00:30:04,886 --> 00:30:07,096
+cet "homme-poisson"
+
+328
+00:30:07,263 --> 00:30:09,023
+serait menotté devant nous
+en ce moment même.
+
+329
+00:30:09,182 --> 00:30:11,434
+Si vos brutes idiotes
+avaient été présentes,
+
+330
+00:30:11,601 --> 00:30:14,687
+elles seraient encore là-bas à parader
+dans leurs fourrures et leurs armures.
+
+331
+00:30:14,854 --> 00:30:16,022
+Espèce de démon chauve...
+
+332
+00:30:16,189 --> 00:30:17,982
+Faites preuve de respect, vous deux.
+
+333
+00:30:18,149 --> 00:30:19,150
+De respect ?
+
+334
+00:30:19,317 --> 00:30:21,820
+Ces hommes devraient avoir honte
+de montrer leur visage !
+
+335
+00:30:21,986 --> 00:30:23,386
+Attention à ce que tu dis, Jabari !
+
+336
+00:30:36,417 --> 00:30:37,961
+Comme je le disais,
+
+337
+00:30:38,127 --> 00:30:40,839
+nous n'avons aucune image
+de surveillance aérienne de cet homme.
+
+338
+00:30:41,005 --> 00:30:42,340
+Et rien sur le radar non plus.
+
+339
+00:30:42,507 --> 00:30:45,969
+Alors, il a nagé
+100 kilomètres sous l'eau.
+
+340
+00:30:46,135 --> 00:30:49,931
+Il n'était pas seul. Il prétend
+commander une armée puissante.
+
+341
+00:30:50,098 --> 00:30:54,394
+Il veut qu'on lui livre
+une scientifique américaine ?
+
+342
+00:30:54,561 --> 00:30:55,562
+Afin de la tuer ?
+
+343
+00:30:55,728 --> 00:30:56,728
+Faites-le.
+
+344
+00:30:58,982 --> 00:31:02,610
+Jamais nous n'avons affronté un ennemi
+qui a accès à du vibranium.
+
+345
+00:31:03,570 --> 00:31:05,631
+Et nous n'avons plus Black Panther
+pour nous protéger.
+
+346
+00:31:05,655 --> 00:31:09,951
+Tout ça parce que ce conseil a permis
+à Killmonger de prendre le trône
+
+347
+00:31:10,118 --> 00:31:11,995
+et de brûler toutes
+vos précieuses herbes-cœur.
+
+348
+00:31:12,161 --> 00:31:14,664
+M'Baku, que nous conseillez-vous ?
+
+349
+00:31:14,831 --> 00:31:17,208
+On devrait trouver l'homme-poisson
+et le tuer.
+
+350
+00:31:18,501 --> 00:31:21,963
+Si on fait ce qu'il demande,
+
+351
+00:31:22,130 --> 00:31:26,426
+qu'est-ce qui l'empêchera de revenir
+et de nous en demander plus ?
+
+352
+00:31:35,852 --> 00:31:36,852
+Repos.
+
+353
+00:31:38,605 --> 00:31:42,734
+Je rêve, ou cette chose devient
+de plus en plus laide chaque jour ?
+
+354
+00:31:43,067 --> 00:31:44,068
+Tu rêves.
+
+355
+00:31:44,861 --> 00:31:46,779
+- Alors, ça fonctionne ?
+- Oui.
+
+356
+00:31:46,946 --> 00:31:50,658
+Ça peut détecter les altérations
+de fréquence du vibranium à travers
+
+357
+00:31:50,825 --> 00:31:55,830
+l'eau, les roches et même les métaux.
+C'est un génie qui a conçu ça.
+
+358
+00:31:56,164 --> 00:31:57,582
+Venez voir.
+
+359
+00:31:58,166 --> 00:32:00,835
+Certaines pièces sont faites
+sur mesure et d'autres ont l'air
+
+360
+00:32:01,002 --> 00:32:02,754
+de provenir d'une décharge.
+
+361
+00:32:02,921 --> 00:32:05,506
+J'ai encore du mal à croire
+
+362
+00:32:05,673 --> 00:32:08,217
+que le vibranium existe
+en dehors du Wakanda.
+
+363
+00:32:08,384 --> 00:32:10,637
+Il y a peut-être eu
+plus d'une météorite.
+
+364
+00:32:10,803 --> 00:32:13,598
+Notre planète est recouverte d'eau
+principalement, donc c'est possible
+
+365
+00:32:13,765 --> 00:32:15,808
+qu'une autre soit tombée dans l'océan.
+
+366
+00:32:15,975 --> 00:32:18,061
+Si c'est le cas,
+ça révolutionne nos connaissances.
+
+367
+00:32:18,227 --> 00:32:21,689
+La Grande Montagne.
+Toutes les légendes et les fables.
+
+368
+00:32:22,398 --> 00:32:24,275
+Ces histoires sont gravées
+dans mon esprit.
+
+369
+00:32:24,442 --> 00:32:26,235
+Ça a dû être très douloureux.
+
+370
+00:32:28,529 --> 00:32:30,531
+Alors, on doit
+trouver cette scientifique.
+
+371
+00:32:32,158 --> 00:32:33,326
+J'ai une idée.
+
+372
+00:32:34,661 --> 00:32:36,138
+Je vais avoir besoin de la princesse.
+
+373
+00:32:36,162 --> 00:32:38,164
+Hors de question.
+
+374
+00:32:38,331 --> 00:32:40,375
+Elle n'est pas en état
+de prendre part au combat.
+
+375
+00:32:40,541 --> 00:32:41,793
+{\an8}Majesté.
+
+376
+00:32:42,835 --> 00:32:45,380
+Ça lui ferait du bien de sortir.
+
+377
+00:32:45,838 --> 00:32:48,508
+C'est peut-être exactement
+ce dont elle a besoin.
+
+378
+00:32:49,050 --> 00:32:53,096
+Et je peux réussir cette opération
+américaine les yeux fermés.
+
+379
+00:32:53,262 --> 00:32:56,474
+Ce ne sont pas les Américains
+qui m'inquiètent.
+
+380
+00:32:56,641 --> 00:32:58,059
+C'est ce Namor.
+
+381
+00:32:58,476 --> 00:33:00,395
+Il a échappé à nos lignes de défense.
+
+382
+00:33:00,561 --> 00:33:02,480
+Ça n'arrivera plus jamais.
+
+383
+00:33:02,647 --> 00:33:04,232
+Il n'était pas seul.
+
+384
+00:33:04,983 --> 00:33:06,150
+Elle sera avec moi.
+
+385
+00:33:07,402 --> 00:33:08,403
+Alors,
+
+386
+00:33:09,362 --> 00:33:10,446
+quand est-ce qu'on part
+
+387
+00:33:10,613 --> 00:33:12,907
+pour que je puisse voir
+mon colonisateur préféré ?
+
+388
+00:33:15,660 --> 00:33:18,454
+{\an8}ALEXANDRIA, VIRGINIE
+
+389
+00:33:41,853 --> 00:33:42,854
+Allez.
+
+390
+00:33:44,856 --> 00:33:46,315
+Oui, je te suis.
+
+391
+00:33:47,233 --> 00:33:48,609
+Je te suis.
+
+392
+00:33:50,778 --> 00:33:52,113
+Tu peux ralentir ?
+
+393
+00:33:59,078 --> 00:34:00,371
+Vous auriez pu appeler.
+
+394
+00:34:00,538 --> 00:34:02,623
+Pourquoi aurais-je votre numéro ?
+
+395
+00:34:04,500 --> 00:34:07,670
+Nous recherchons la scientifique
+qui a créé le détecteur de vibranium.
+
+396
+00:34:08,087 --> 00:34:09,647
+Alors, c'était vous,
+dans l'Atlantique ?
+
+397
+00:34:10,423 --> 00:34:12,091
+Allons. Le navire minier.
+
+398
+00:34:12,258 --> 00:34:13,509
+Beaucoup de victimes.
+
+399
+00:34:14,218 --> 00:34:15,219
+Que s'est-il passé ?
+
+400
+00:34:15,386 --> 00:34:16,429
+Sérieusement ?
+
+401
+00:34:18,431 --> 00:34:21,309
+C'était une double opération.
+Nous et les SEAL.
+
+402
+00:34:21,476 --> 00:34:24,437
+Trente de leurs membres d'élite,
+deux de mes meilleurs officiers,
+
+403
+00:34:24,604 --> 00:34:25,605
+de bons amis.
+
+404
+00:34:26,064 --> 00:34:27,065
+Morts.
+
+405
+00:34:27,231 --> 00:34:28,274
+En un instant.
+
+406
+00:34:29,067 --> 00:34:30,878
+Compte tenu du fait
+qu'ils cherchaient du vibranium...
+
+407
+00:34:30,902 --> 00:34:33,571
+Je vous assure que le Wakanda
+n'a rien à voir avec ça.
+
+408
+00:34:34,489 --> 00:34:35,573
+Qui était-ce, alors ?
+
+409
+00:34:37,158 --> 00:34:39,038
+Écoutez, vous savez comme moi
+comment ça marche.
+
+410
+00:34:39,202 --> 00:34:41,346
+Je vous donne mes informations
+et vous me rendez la pareille.
+
+411
+00:34:41,370 --> 00:34:43,998
+On ne peut pas te le dire,
+pour ta propre sécurité.
+
+412
+00:34:44,165 --> 00:34:46,250
+Il est impératif
+qu'on trouve la scientifique
+
+413
+00:34:46,417 --> 00:34:48,137
+avant qu'il arrive
+quoi que ce soit d'autre.
+
+414
+00:34:48,753 --> 00:34:50,505
+Tu me le dois, Ross.
+
+415
+00:34:50,671 --> 00:34:52,173
+Tu le dois à mon frère.
+
+416
+00:34:56,010 --> 00:34:57,011
+Bon, écoute.
+
+417
+00:34:57,804 --> 00:35:00,056
+Il y a des agents qui ont été exécutés
+
+418
+00:35:00,223 --> 00:35:02,308
+pour moins
+que ce que je m'apprête à te dire.
+
+419
+00:35:02,475 --> 00:35:03,995
+Et nous avons une nouvelle directrice.
+
+420
+00:35:04,393 --> 00:35:05,770
+Elle me surveille comme un faucon.
+
+421
+00:35:05,937 --> 00:35:08,523
+Nous serons très, très prudents.
+
+422
+00:35:08,689 --> 00:35:10,691
+Pas seulement ça.
+Vous devrez aussi faire vite.
+
+423
+00:35:10,858 --> 00:35:12,458
+Les États-Unis veulent
+une autre machine.
+
+424
+00:35:12,527 --> 00:35:14,171
+Cette fillette est
+la seule personne au monde
+
+425
+00:35:14,195 --> 00:35:15,363
+à pouvoir la fabriquer.
+
+426
+00:35:15,530 --> 00:35:16,610
+Ils vont venir la chercher.
+
+427
+00:35:16,656 --> 00:35:17,698
+Une enfant ?
+
+428
+00:35:27,750 --> 00:35:28,751
+Salut.
+
+429
+00:35:28,918 --> 00:35:29,961
+Tu as oublié de me payer.
+
+430
+00:35:30,128 --> 00:35:33,089
+J'avais oublié. C'est 800, c'est ça ?
+
+431
+00:35:33,256 --> 00:35:36,134
+Huit cents, c'était hier.
+Aujourd'hui, c'est mille.
+
+432
+00:35:36,300 --> 00:35:37,885
+Tu es une prédatrice.
+
+433
+00:35:39,178 --> 00:35:40,930
+J'ai inventé la main robotique.
+
+434
+00:35:41,097 --> 00:35:43,558
+Tu as juste corrigé mon algorithme.
+
+435
+00:35:43,724 --> 00:35:45,101
+Et tu as eu quelle note ?
+
+436
+00:35:51,566 --> 00:35:52,567
+Merci.
+
+437
+00:35:55,570 --> 00:35:56,654
+Elle a un iPhone ?
+
+438
+00:35:56,821 --> 00:35:57,822
+C'est primitif.
+
+439
+00:35:59,407 --> 00:36:00,407
+{\an8}Majesté...
+
+440
+00:36:01,367 --> 00:36:03,035
+Nous avons localisé la scientifique.
+
+441
+00:36:03,286 --> 00:36:06,873
+Elle est dans l'équivalent américain
+d'une école de village Wakandaise.
+
+442
+00:36:07,039 --> 00:36:08,166
+Une école ?
+
+443
+00:36:08,666 --> 00:36:11,085
+Dites-moi que c'est un professeur.
+
+444
+00:36:11,252 --> 00:36:13,045
+C'est une étudiante, mère.
+
+445
+00:36:13,212 --> 00:36:14,630
+On ne peut pas la livrer à Namor.
+
+446
+00:36:15,464 --> 00:36:18,134
+Ramenez-la au Wakanda.
+
+447
+00:36:19,760 --> 00:36:21,220
+{\an8}Oui, majesté.
+
+448
+00:36:23,681 --> 00:36:24,765
+Je m'en occupe.
+
+449
+00:36:25,391 --> 00:36:27,185
+Attends. Il vaudrait mieux
+que je lui parle.
+
+450
+00:36:27,351 --> 00:36:28,644
+Ce sera plus discret.
+
+451
+00:36:29,937 --> 00:36:31,063
+Je peux être discrète.
+
+452
+00:36:34,817 --> 00:36:35,818
+Quoi ?
+
+453
+00:36:36,235 --> 00:36:37,462
+- Rien.
+- C'est mon maquillage ?
+
+454
+00:36:37,486 --> 00:36:38,487
+Non.
+
+455
+00:36:38,654 --> 00:36:40,924
+- C'est la mauvaise teinte ?
+- Non, c'est la bonne teinte.
+
+456
+00:36:40,948 --> 00:36:42,533
+Fenty 440. Tu es superbe.
+
+457
+00:36:44,160 --> 00:36:46,120
+Mais moi,
+je peux passer pour une étudiante.
+
+458
+00:36:47,246 --> 00:36:48,247
+Je peux le faire.
+
+459
+00:36:52,084 --> 00:36:53,586
+- Je vous laisse cinq minutes.
+- Oui !
+
+460
+00:37:03,471 --> 00:37:05,681
+Résolvez OU NE FRAPPEZ PAS
+
+461
+00:37:05,848 --> 00:37:06,849
+Hé !
+
+462
+00:37:07,016 --> 00:37:08,100
+Riri Williams ?
+
+463
+00:37:11,520 --> 00:37:14,065
+Je ne reçois plus sans rendez-vous.
+Va sur le site Web.
+
+464
+00:37:15,691 --> 00:37:17,610
+C'est un fichier crypté.
+
+465
+00:37:17,777 --> 00:37:19,097
+Je voulais l'envoyer par Airdrop.
+
+466
+00:37:20,154 --> 00:37:21,280
+Vous...
+
+467
+00:37:23,908 --> 00:37:25,493
+Vous êtes la princesse Shuri.
+
+468
+00:37:27,078 --> 00:37:28,663
+Qu'est-ce que vous faites ici ?
+
+469
+00:37:28,829 --> 00:37:30,456
+Bon sang, vous venez me recruter ?
+
+470
+00:37:32,250 --> 00:37:33,251
+Non.
+
+471
+00:37:33,793 --> 00:37:37,171
+Le détecteur de vibranium
+que tu as mis au point pour la CIA.
+
+472
+00:37:38,673 --> 00:37:42,593
+Je n'ai pas fabriqué ça pour la CIA,
+mais pour mon cours de métallurgie.
+
+473
+00:37:42,760 --> 00:37:44,762
+- Un projet scolaire ?
+- Oui.
+
+474
+00:37:45,137 --> 00:37:47,017
+Mon professeur disait
+que je n'y arriverais pas.
+
+475
+00:37:48,474 --> 00:37:50,601
+Mais on peut être jeune,
+brillante et noire.
+
+476
+00:37:53,729 --> 00:37:55,898
+Vous ne dites sûrement pas ça
+au Wakanda.
+
+477
+00:37:58,192 --> 00:37:59,235
+Quel âge as-tu ?
+
+478
+00:38:00,194 --> 00:38:01,487
+Dix-neuf ans.
+
+479
+00:38:01,946 --> 00:38:05,783
+À cet âge-là, un génie a du mal
+à se faire accepter par les anciens.
+
+480
+00:38:07,201 --> 00:38:08,786
+Il t'a fallu combien de temps ?
+
+481
+00:38:08,953 --> 00:38:10,037
+Quelques mois.
+
+482
+00:38:10,204 --> 00:38:11,831
+- Quelques mois ?
+- Le plus dur a été
+
+483
+00:38:11,998 --> 00:38:14,438
+de trouver des feuilles de mylar
+assez grandes pour couvrir...
+
+484
+00:38:15,543 --> 00:38:17,086
+Quoi, j'ai énervé le Wakanda ?
+
+485
+00:38:17,253 --> 00:38:18,254
+Pas seulement nous.
+
+486
+00:38:18,838 --> 00:38:20,339
+Tu n'es plus en sécurité ici.
+
+487
+00:38:21,132 --> 00:38:23,634
+Prends tes affaires et viens avec moi.
+Tout de suite.
+
+488
+00:38:24,510 --> 00:38:27,513
+J'ai un cours d'équations
+différentielles dans quinze minutes.
+
+489
+00:38:30,016 --> 00:38:31,017
+D'accord.
+
+490
+00:38:32,101 --> 00:38:33,311
+D'accord.
+
+491
+00:38:33,477 --> 00:38:35,688
+Attendez-moi ici.
+
+492
+00:38:36,522 --> 00:38:39,191
+Je dois aller aux toilettes.
+Je vais juste...
+
+493
+00:38:42,653 --> 00:38:44,280
+Je contrôlais la situation.
+
+494
+00:38:45,197 --> 00:38:47,700
+J'avais dit cinq minutes.
+On en est à six.
+
+495
+00:38:47,867 --> 00:38:49,535
+Sortez. Sortez de ma chambre.
+
+496
+00:38:50,202 --> 00:38:51,370
+Dehors !
+
+497
+00:38:51,537 --> 00:38:52,538
+Hé !
+
+498
+00:38:52,705 --> 00:38:56,500
+Je vous préviens ! Ne faites pas
+un pas de plus vers moi !
+
+499
+00:38:56,667 --> 00:38:58,787
+C'est ainsi qu'on leur apprend
+à traiter les invités ?
+
+500
+00:39:04,342 --> 00:39:05,622
+Tu es venue ici avec une lance ?
+
+501
+00:39:05,760 --> 00:39:08,137
+Vous avez apporté une lance.
+
+502
+00:39:08,846 --> 00:39:09,972
+Je l'aime bien.
+
+503
+00:39:10,473 --> 00:39:12,767
+Hé ! Pose ça.
+
+504
+00:39:12,933 --> 00:39:14,435
+Tu vas te blesser. Allons.
+
+505
+00:39:14,977 --> 00:39:16,562
+Tout va bien, princesse.
+
+506
+00:39:16,729 --> 00:39:18,064
+Doucement, petite.
+
+507
+00:39:19,148 --> 00:39:22,068
+Je vais te laisser le choix
+entre deux options.
+
+508
+00:39:22,234 --> 00:39:24,403
+Tu peux venir au Wakanda
+
+509
+00:39:24,570 --> 00:39:26,864
+consciente ou inconsciente.
+
+510
+00:39:27,656 --> 00:39:30,409
+Vous avez conscience
+de ressembler à un zombie ?
+
+511
+00:39:30,576 --> 00:39:32,578
+Vous vous êtes roulé le visage
+dans la cendre ?
+
+512
+00:39:34,455 --> 00:39:36,499
+- Ça vous fait rire ?
+- Non, pas du tout.
+
+513
+00:39:37,208 --> 00:39:39,043
+- Je vous l'avais dit !
+- Tu es ravissante.
+
+514
+00:39:39,210 --> 00:39:40,711
+Du calme. On s'en va.
+
+515
+00:39:41,337 --> 00:39:45,466
+Elle n'a qu'à se débrouiller avec
+l'homme-sirène aux chevilles ailées
+
+516
+00:39:45,633 --> 00:39:48,552
+qui veut l'assassiner.
+
+517
+00:39:48,719 --> 00:39:50,888
+- Bonne chance.
+- Avec ton radiateur.
+
+518
+00:39:51,055 --> 00:39:52,181
+Allez. On y va.
+
+519
+00:39:53,099 --> 00:39:54,100
+Quoi ?
+
+520
+00:40:01,190 --> 00:40:02,942
+C'est quoi, cet endroit ?
+
+521
+00:40:03,651 --> 00:40:06,011
+J'ai réparé des camions
+pour le chef des services d'hygiène.
+
+522
+00:40:06,445 --> 00:40:10,241
+Il me laisse travailler
+dans ce garage en échange.
+
+523
+00:40:10,741 --> 00:40:12,326
+Je dois juste prendre mon ordinateur.
+
+524
+00:40:15,037 --> 00:40:17,832
+Ne touchez à rien.
+
+525
+00:40:17,998 --> 00:40:20,126
+Ne t'en fais pas avec ça.
+
+526
+00:40:20,292 --> 00:40:23,921
+Ça ne ressemble pas à grand-chose,
+mais c'est toute l'œuvre de ma vie.
+
+527
+00:40:24,964 --> 00:40:28,384
+Alors, le concept de la machine est
+sur cet ordinateur portable ?
+
+528
+00:40:28,551 --> 00:40:29,552
+Oui.
+
+529
+00:40:29,718 --> 00:40:32,596
+Et tu le laisses sur un bureau
+dans un garage ?
+
+530
+00:40:32,763 --> 00:40:35,724
+J'ai 2065 octets de cryptage
+sur ce truc.
+
+531
+00:40:35,891 --> 00:40:39,019
+C'est impressionnant.
+Tu t'es déjà retrouvée bloquée ?
+
+532
+00:40:39,186 --> 00:40:41,146
+Une fois, et j'ai mis six mois
+à le déverrouiller.
+
+533
+00:40:41,272 --> 00:40:43,432
+J'ai dû mettre au point
+un ordinateur quantique virtuel
+
+534
+00:40:43,482 --> 00:40:45,401
+pour craquer mon propre chiffrage.
+
+535
+00:40:45,568 --> 00:40:48,088
+Qu'est-ce que tu fabriques ici ?
+C'est de la technologie Stark ?
+
+536
+00:40:48,112 --> 00:40:50,030
+Je vous ai dit de ne toucher à rien.
+
+537
+00:40:50,197 --> 00:40:52,700
+Princesse, les forces de l'ordre
+américaines sont arrivées.
+
+538
+00:40:52,867 --> 00:40:54,243
+- Merde.
+- Qui était-ce ?
+
+539
+00:40:54,660 --> 00:40:55,661
+Mon I.A.
+
+540
+00:40:57,288 --> 00:40:58,747
+Ils nous encerclent.
+
+541
+00:41:02,751 --> 00:41:05,379
+Je croyais que c'était un homme-sirène
+qui en avait après moi.
+
+542
+00:41:05,546 --> 00:41:06,589
+Ça, c'est les fédéraux.
+
+543
+00:41:19,977 --> 00:41:22,480
+Je n'avais pas besoin de ça
+en ce moment !
+
+544
+00:41:22,646 --> 00:41:24,773
+Je m'en sortais si bien !
+
+545
+00:41:24,940 --> 00:41:27,568
+Jamais en retard en classe !
+Je dois être complètement débile !
+
+546
+00:41:27,735 --> 00:41:30,362
+Tout ça parce que
+la princesse du Wakanda
+
+547
+00:41:30,529 --> 00:41:33,741
+arrive chez moi et comme une idiote,
+je lui ouvre la porte.
+
+548
+00:41:33,908 --> 00:41:37,578
+Je pense que je vais tenter ma chance
+avec l'homme-sirène
+
+549
+00:41:37,745 --> 00:41:41,373
+parce que lui, au moins,
+n'a pas amené le FBI dans mon garage !
+
+550
+00:41:41,540 --> 00:41:44,877
+Hé ! Namor a coulé un navire rempli
+d'agents de la CIA...
+
+551
+00:41:45,044 --> 00:41:48,589
+- Ici le FBI.
+- ...à cause de ta machine.
+
+552
+00:41:48,756 --> 00:41:50,859
+- Alors, la police dehors...
+- Les lieux sont encerclés.
+
+553
+00:41:50,883 --> 00:41:52,426
+...c'est le dernier de tes soucis.
+
+554
+00:41:52,593 --> 00:41:55,137
+Écoute, il faut
+qu'on collabore pour sortir d'ici.
+
+555
+00:41:55,304 --> 00:41:57,723
+Générale, ils nous ont encerclées.
+
+556
+00:41:57,890 --> 00:41:59,475
+On devrait peut-être se séparer.
+
+557
+00:41:59,934 --> 00:42:01,060
+Hors de question.
+
+558
+00:42:01,227 --> 00:42:02,387
+Ce véhicule fonctionne-t-il ?
+
+559
+00:42:03,771 --> 00:42:04,939
+Non.
+
+560
+00:42:05,940 --> 00:42:09,235
+Tout fonctionne dans ce laboratoire,
+y compris cette moto.
+
+561
+00:42:09,401 --> 00:42:13,405
+C'est même pas la peine d'y penser.
+Sans compter que nous sommes trois.
+
+562
+00:42:13,572 --> 00:42:16,033
+Vous êtes deux.
+Moi, je vais prendre ça.
+
+563
+00:42:17,743 --> 00:42:18,994
+Je le savais.
+
+564
+00:42:19,161 --> 00:42:21,580
+Ne me dis pas
+que tu as fabriqué ça en deux mois.
+
+565
+00:42:21,997 --> 00:42:24,708
+J'ai passé des années là-dessus.
+Par intermittence.
+
+566
+00:42:25,251 --> 00:42:27,670
+Génial. Tu l'as déjà fait voler ?
+
+567
+00:42:27,836 --> 00:42:28,879
+Cette chose peut voler ?
+
+568
+00:42:29,046 --> 00:42:32,424
+Il y a même une chaîne YouTube
+de gens qui m'ont observée en vol.
+
+569
+00:42:32,967 --> 00:42:34,051
+C'est incroyable.
+
+570
+00:42:34,510 --> 00:42:36,178
+- Nous avons un mandat...
+- Viens.
+
+571
+00:42:36,345 --> 00:42:37,697
+...contre l'étudiante Riri Williams.
+
+572
+00:42:37,721 --> 00:42:38,931
+Un transmetteur sans fil
+
+573
+00:42:39,098 --> 00:42:41,338
+- pour qu'on puisse communiquer.
+- N'essaie pas de filer.
+
+574
+00:42:41,475 --> 00:42:43,519
+Générale Okoye, princesse Shuri,
+
+575
+00:42:43,686 --> 00:42:45,729
+sortez les mains en l'air.
+
+576
+00:42:46,438 --> 00:42:47,481
+Quel tas de ferraille.
+
+577
+00:42:47,648 --> 00:42:49,775
+Faites attention.
+
+578
+00:42:49,984 --> 00:42:52,128
+- Vous ne serez pas arrêtées.
+- Les clés sont sur le siège.
+
+579
+00:42:52,152 --> 00:42:53,696
+Une fois qu'on aura traversé le pont,
+
+580
+00:42:53,862 --> 00:42:55,173
+on les sèmera
+dans le trafic de Boston.
+
+581
+00:42:55,197 --> 00:42:56,991
+Générale, nous devons nous séparer.
+
+582
+00:42:57,157 --> 00:43:00,411
+Écoutez-moi. On n'est pas dans votre
+laboratoire. On est sur le terrain.
+
+583
+00:43:00,578 --> 00:43:01,996
+Emmenez-la en voiture.
+
+584
+00:43:02,580 --> 00:43:03,706
+Toujours à me crier après.
+
+585
+00:43:10,504 --> 00:43:15,634
+L'unité tactique forcera l'entrée
+dans trois, deux,
+
+586
+00:43:15,801 --> 00:43:17,136
+un.
+
+587
+00:43:18,512 --> 00:43:20,139
+FBI ! Pas un geste !
+
+588
+00:43:20,806 --> 00:43:21,807
+C'est quoi, ça ?
+
+589
+00:43:21,974 --> 00:43:24,852
+Oh, merde ! Elle porte l'armure
+d'Iron Man ! Repliez-vous !
+
+590
+00:43:25,019 --> 00:43:26,353
+Restez où vous êtes !
+
+591
+00:43:29,898 --> 00:43:31,167
+On dirait bien qu'il peut voler.
+
+592
+00:43:31,191 --> 00:43:32,443
+- GRIOT !
+- Oui, princesse.
+
+593
+00:43:32,610 --> 00:43:34,330
+- Maintenant !
+- Pilotage à distance activé.
+
+594
+00:43:34,361 --> 00:43:35,529
+Shuri ! Non !
+
+595
+00:43:45,581 --> 00:43:46,915
+On y va !
+
+596
+00:43:48,125 --> 00:43:49,126
+GRIOT.
+
+597
+00:43:50,294 --> 00:43:51,587
+Donne-moi un visuel.
+
+598
+00:43:59,678 --> 00:44:01,013
+- GRIOT.
+- Oui, générale ?
+
+599
+00:44:01,180 --> 00:44:03,057
+Conduis-moi à la princesse,
+
+600
+00:44:03,223 --> 00:44:05,893
+ou j'enfoncerai ma lance
+si profondément dans ton processeur
+
+601
+00:44:06,060 --> 00:44:09,229
+que tu ne pourras plus faire
+de divisions pendant mille ans.
+
+602
+00:44:09,396 --> 00:44:10,564
+Un instant, générale.
+
+603
+00:44:10,939 --> 00:44:12,259
+Okoye, je suis en route vers toi.
+
+604
+00:44:23,327 --> 00:44:26,455
+GRIOT, donne-moi le contrôle
+de ce véhicule tout de suite !
+
+605
+00:44:26,622 --> 00:44:28,666
+Je dégage le passage.
+
+606
+00:44:33,462 --> 00:44:34,713
+À vous de jouer, générale.
+
+607
+00:44:34,880 --> 00:44:36,757
+Pilotage manuel engagé.
+
+608
+00:44:53,482 --> 00:44:55,002
+Il faut trouver un point d'extraction.
+
+609
+00:44:55,109 --> 00:44:56,629
+Il y en a un
+de l'autre côté du fleuve.
+
+610
+00:45:02,825 --> 00:45:04,368
+Ils coupent l'accès au pont.
+
+611
+00:45:08,580 --> 00:45:11,500
+Princesse, il y a un drone
+de surveillance verrouillé sur vous.
+
+612
+00:45:11,667 --> 00:45:12,667
+À quelle altitude ?
+
+613
+00:45:12,751 --> 00:45:14,086
+Neuf mille mètres.
+
+614
+00:45:20,092 --> 00:45:21,093
+Tenez bon.
+
+615
+00:45:21,802 --> 00:45:22,803
+Je m'en charge.
+
+616
+00:45:26,473 --> 00:45:27,474
+Allez, Riri.
+
+617
+00:45:27,891 --> 00:45:30,144
+J'ai besoin
+de ces équations différentielles.
+
+618
+00:45:30,310 --> 00:45:32,247
+Une fois que j'aurai atteint
+une vélocité relative...
+
+619
+00:45:32,271 --> 00:45:34,207
+Riri, je ne crois pas
+que tu puisses atteindre ce drone
+
+620
+00:45:34,231 --> 00:45:35,232
+sans masque à oxygène.
+
+621
+00:45:37,860 --> 00:45:40,529
+Le taux d'oxygène est de 55 %.
+
+622
+00:45:41,488 --> 00:45:43,365
+Huit mille cinq cents mètres.
+
+623
+00:45:44,742 --> 00:45:47,327
+Le taux d'oxygène est de 30 %.
+
+624
+00:45:50,456 --> 00:45:53,459
+Vitesse maximale. En ajustant
+mon angle de rotation, je devrais...
+
+625
+00:45:54,209 --> 00:45:55,461
+Je vais croiser son chemin.
+
+626
+00:46:01,967 --> 00:46:03,802
+Oxygène à 0 %.
+
+627
+00:46:07,181 --> 00:46:09,141
+Le drone ne suit plus
+vos déplacements.
+
+628
+00:46:10,058 --> 00:46:12,060
+Altitude, 150 mètres, en chute rapide.
+
+629
+00:46:12,227 --> 00:46:13,395
+Riri ! Tout va bien ?
+
+630
+00:46:14,730 --> 00:46:15,773
+- Riri !
+- Oui.
+
+631
+00:46:19,359 --> 00:46:20,444
+Je vais bien.
+
+632
+00:46:21,361 --> 00:46:22,404
+- En approche !
+- Dégagez !
+
+633
+00:46:22,654 --> 00:46:23,655
+{\an8}C'est dingue !
+
+634
+00:46:23,822 --> 00:46:24,924
+- Merde !
+- Ne vous en faites pas.
+
+635
+00:46:24,948 --> 00:46:26,950
+J'ai une livraison spéciale
+pour vous dans trois,
+
+636
+00:46:27,117 --> 00:46:28,535
+deux, un...
+
+637
+00:46:30,078 --> 00:46:31,205
+Bien joué, Riri !
+
+638
+00:46:40,422 --> 00:46:41,422
+Riri !
+
+639
+00:47:09,326 --> 00:47:11,578
+Que s'est-il passé ? Shuri !
+
+640
+00:47:12,120 --> 00:47:13,121
+Shuri !
+
+641
+00:47:29,221 --> 00:47:31,473
+Les signes vitaux de la princesse
+sont stables, générale.
+
+642
+00:47:31,640 --> 00:47:34,226
+Elle devrait reprendre
+connaissance sous peu.
+
+643
+00:48:08,677 --> 00:48:10,762
+Faites un seul pas de plus
+
+644
+00:48:11,555 --> 00:48:13,056
+et je vous tuerai tous.
+
+645
+00:48:13,765 --> 00:48:14,766
+Lâchez vos armes !
+
+646
+00:48:17,603 --> 00:48:18,770
+{\an8}Tue la scientifique.
+
+647
+00:48:18,937 --> 00:48:20,564
+{\an8}Je me charge des témoins.
+
+648
+00:48:21,148 --> 00:48:22,148
+{\an8}OK.
+
+649
+00:48:23,567 --> 00:48:24,693
+{\an8}Elle est bleue ?
+
+650
+00:48:26,653 --> 00:48:28,363
+{\an8}Tuez d'abord cette femme.
+
+651
+00:48:29,573 --> 00:48:30,574
+Lâchez votre arme !
+
+652
+00:49:04,650 --> 00:49:06,693
+{\an8}Rejoignez Namora.
+
+653
+00:50:15,804 --> 00:50:18,306
+{\an8}Tu n'es pas digne de ma lame.
+
+654
+00:50:30,944 --> 00:50:32,487
+{\an8}Pourquoi c'est si long ?
+
+655
+00:50:32,863 --> 00:50:35,490
+{\an8}Pas le temps de jouer.
+
+656
+00:50:44,666 --> 00:50:45,751
+Okoye !
+
+657
+00:50:47,252 --> 00:50:48,253
+Attendez !
+
+658
+00:50:48,420 --> 00:50:49,713
+Traduction simultanée activée.
+
+659
+00:50:49,880 --> 00:50:50,881
+Je suis Shuri.
+
+660
+00:50:51,048 --> 00:50:52,340
+Princesse du Wakanda.
+
+661
+00:50:52,799 --> 00:50:54,593
+J'exige d'être conduite devant Namor.
+
+662
+00:50:54,760 --> 00:50:56,845
+Ne faites pas de mal à cette fille.
+
+663
+00:50:59,556 --> 00:51:01,641
+On les capture
+toutes les deux vivantes ?
+
+664
+00:51:02,601 --> 00:51:04,227
+Oui, Attuma.
+
+665
+00:51:20,535 --> 00:51:21,661
+Respirez.
+
+666
+00:51:30,587 --> 00:51:31,588
+Shuri !
+
+667
+00:51:50,023 --> 00:51:52,692
+Ross. Je fais partie de l'Agence.
+Vous avez des témoins ?
+
+668
+00:51:52,859 --> 00:51:55,070
+Aucun. On pense
+que c'était les Wakandais.
+
+669
+00:51:55,487 --> 00:51:56,488
+Pardon ?
+
+670
+00:51:56,655 --> 00:51:58,740
+Langley a informé notre bureau
+qu'ils allaient venir.
+
+671
+00:51:58,907 --> 00:52:00,700
+Qui a fait cet appel ?
+
+672
+00:52:01,743 --> 00:52:03,120
+- C'est elle.
+- Madame de Fontaine.
+
+673
+00:52:05,539 --> 00:52:06,748
+Madame la directrice.
+
+674
+00:52:06,915 --> 00:52:07,916
+Vraiment ?
+
+675
+00:52:08,083 --> 00:52:09,084
+Eh bien...
+
+676
+00:52:10,085 --> 00:52:11,962
+L'agent pense
+que c'était les Wakandais.
+
+677
+00:52:12,504 --> 00:52:15,149
+Oui, on les surveille attentivement
+depuis qu'ils ont coulé notre navire.
+
+678
+00:52:15,173 --> 00:52:16,653
+C'est pour ça que je t'ai fait venir.
+
+679
+00:52:17,676 --> 00:52:18,677
+Tu as l'air en forme.
+
+680
+00:52:19,219 --> 00:52:20,428
+J'essaie.
+
+681
+00:52:20,595 --> 00:52:22,013
+Tu as enfin ton gym à la maison ?
+
+682
+00:52:22,180 --> 00:52:23,181
+Oui. Ça fait un an.
+
+683
+00:52:23,348 --> 00:52:26,059
+Je devrais peut-être passer te voir
+et faire du vélo stationnaire.
+
+684
+00:52:26,810 --> 00:52:27,811
+Bonjour.
+
+685
+00:52:27,978 --> 00:52:29,038
+On m'a confié cette affaire.
+
+686
+00:52:29,062 --> 00:52:31,898
+Félicitations. Vous me présentez
+les pièces à conviction ?
+
+687
+00:52:32,065 --> 00:52:34,234
+- Oui. Après vous.
+- D'accord.
+
+688
+00:52:34,401 --> 00:52:35,681
+- Bon.
+- Que s'est-il passé ici ?
+
+689
+00:52:36,153 --> 00:52:37,873
+On pense
+que c'était un accident de voiture,
+
+690
+00:52:37,904 --> 00:52:39,698
+mais on a du mal
+à retrouver les voitures.
+
+691
+00:52:39,990 --> 00:52:42,075
+Comment ça ?
+C'était comme ça à votre arrivée ?
+
+692
+00:52:42,242 --> 00:52:44,846
+Oui. On pense qu'un des protagonistes
+s'est débarrassé des véhicules.
+
+693
+00:52:44,870 --> 00:52:47,747
+- Comment ?
+- En les jetant dans le fleuve.
+
+694
+00:52:47,914 --> 00:52:49,124
+Vous vous moquez de moi.
+
+695
+00:52:50,167 --> 00:52:51,751
+Il y a un autocollant du MIT.
+
+696
+00:52:51,918 --> 00:52:54,296
+Transférez ça à la NSA immédiatement.
+
+697
+00:52:54,462 --> 00:52:56,548
+Ross ? Tu as fait le plein ?
+
+698
+00:52:56,715 --> 00:52:58,383
+Tu pourrais me ramener à Langley ?
+
+699
+00:52:59,134 --> 00:53:00,677
+C'est à huit heures de route.
+
+700
+00:53:00,844 --> 00:53:02,280
+Oui, mais on pourra
+parler de l'affaire.
+
+701
+00:53:02,304 --> 00:53:03,704
+Et en fait, j'aimerais te présenter
+
+702
+00:53:04,764 --> 00:53:08,059
+des excuses pour des choses
+que j'ai dites pendant notre mariage.
+
+703
+00:53:11,438 --> 00:53:12,689
+Ils étaient bleus.
+
+704
+00:53:13,732 --> 00:53:15,567
+Ils avaient une force surhumaine.
+
+705
+00:53:16,484 --> 00:53:19,321
+Et ils sont sortis de l'eau
+à dos de baleines.
+
+706
+00:53:20,197 --> 00:53:23,325
+J'ai asséné à trois d'entre eux
+des coups qui auraient dû les tuer,
+
+707
+00:53:23,491 --> 00:53:25,202
+mais ils se sont relevés.
+
+708
+00:53:25,368 --> 00:53:28,622
+Je souhaite partir immédiatement
+pour retrouver notre princesse.
+
+709
+00:53:40,425 --> 00:53:41,635
+Okoye,
+
+710
+00:53:42,010 --> 00:53:46,431
+je vous retire votre grade de générale
+des forces armées du Wakanda
+
+711
+00:53:46,598 --> 00:53:49,559
+ainsi que votre statut de Dora Milaje.
+
+712
+00:53:54,356 --> 00:53:55,523
+{\an8}Permission de parler,
+
+713
+00:53:55,690 --> 00:53:56,690
+{\an8}majesté ?
+
+714
+00:53:57,859 --> 00:53:58,902
+{\an8}Parlez.
+
+715
+00:53:59,402 --> 00:54:00,862
+{\an8}Je vous en supplie.
+
+716
+00:54:02,864 --> 00:54:04,324
+J'ai tout sacrifié.
+
+717
+00:54:05,283 --> 00:54:09,079
+Laissez-moi mourir
+en sauvant mon pays et votre trône.
+
+718
+00:54:09,246 --> 00:54:11,248
+{\an8}Je vous en prie, mère.
+
+719
+00:54:11,414 --> 00:54:13,208
+Permettez-moi de réparer mes erreurs.
+
+720
+00:54:13,375 --> 00:54:14,584
+Réparer vos erreurs ?
+
+721
+00:54:16,211 --> 00:54:19,339
+J'ignore si ma fille est
+vivante ou morte.
+
+722
+00:54:19,506 --> 00:54:22,759
+Peut-être sommes-nous trop pressés.
+
+723
+00:54:24,844 --> 00:54:29,224
+N'oubliez pas, elle a brandi une lance
+contre son mari pour le Wakanda.
+
+724
+00:54:29,391 --> 00:54:31,935
+Où est ce traître de mari, maintenant ?
+
+725
+00:54:32,102 --> 00:54:36,398
+En prison, où elle peut lui rendre
+visite si elle le veut. Le mien...
+
+726
+00:54:37,691 --> 00:54:39,567
+Il est avec les ancêtres.
+
+727
+00:54:39,734 --> 00:54:44,447
+Je suis la reine de la nation
+la plus puissante du monde,
+
+728
+00:54:44,614 --> 00:54:47,826
+et toute ma famille a disparu !
+
+729
+00:54:48,660 --> 00:54:51,454
+N'ai-je pas suffisamment donné ?
+
+730
+00:55:00,630 --> 00:55:02,549
+Debout, générale.
+
+731
+00:55:08,722 --> 00:55:10,932
+Je vous ai soutenue
+
+732
+00:55:11,099 --> 00:55:14,728
+lorsque Killmonger
+s'est emparé du trône,
+
+733
+00:55:14,894 --> 00:55:18,481
+et que vous et tous les anciens ici
+avez pris son parti
+
+734
+00:55:18,648 --> 00:55:22,277
+pendant que je courais demander
+aux Jabari leur protection.
+
+735
+00:55:23,653 --> 00:55:28,033
+Je ne voulais pas que ma fille
+se joigne à votre mission,
+
+736
+00:55:28,199 --> 00:55:30,118
+et vous êtes revenue sans elle.
+
+737
+00:55:30,869 --> 00:55:32,370
+Alors, aujourd'hui,
+
+738
+00:55:33,288 --> 00:55:34,622
+c'est terminé.
+
+739
+00:56:21,544 --> 00:56:24,089
+Tu es là, GRIOT ?
+
+740
+00:56:25,423 --> 00:56:26,674
+Oui, majesté.
+
+741
+00:56:27,717 --> 00:56:31,096
+Étais-tu avec Shuri
+quand elle s'est fait enlever ?
+
+742
+00:56:31,262 --> 00:56:32,555
+Oui.
+
+743
+00:56:32,722 --> 00:56:35,475
+Peux-tu localiser ses perles Kimoyo ?
+
+744
+00:56:35,642 --> 00:56:38,144
+La balistique a trouvé des douilles
+dans tout Cambridge.
+
+745
+00:56:38,311 --> 00:56:40,647
+Ces Wakandais ont fait
+le tour de la ville.
+
+746
+00:56:40,814 --> 00:56:43,209
+J'ignore comment ils ont su
+qui avait construit le détecteur.
+
+747
+00:56:43,233 --> 00:56:45,652
+Cette information est secrète.
+
+748
+00:56:49,406 --> 00:56:51,408
+- C'est quoi ? Une nouvelle sonnerie ?
+- Merde.
+
+749
+00:56:52,992 --> 00:56:54,832
+Pardon, madame la directrice.
+Je dois répondre.
+
+750
+00:56:54,994 --> 00:56:56,955
+Arrête avec le titre.
+Réponds, je m'en fiche.
+
+751
+00:56:57,122 --> 00:56:58,706
+Salut, ma chérie.
+
+752
+00:57:00,458 --> 00:57:03,002
+Non, je suis avec ma patronne.
+En ce moment.
+
+753
+00:57:03,711 --> 00:57:05,088
+En fait, elle s'en va.
+
+754
+00:57:05,255 --> 00:57:06,256
+D'accord.
+
+755
+00:57:06,423 --> 00:57:08,883
+Je vais rentrer à la maison
+et prendre une douche.
+
+756
+00:57:16,266 --> 00:57:17,767
+Everett Ross.
+
+757
+00:57:17,934 --> 00:57:19,060
+Reine Ramonda ?
+
+758
+00:57:19,227 --> 00:57:21,267
+Comment avez-vous eu
+les perles Kimoyo de ma fille ?
+
+759
+00:57:21,354 --> 00:57:23,290
+Je ne savais pas
+que c'était les siennes. D'accord ?
+
+760
+00:57:23,314 --> 00:57:25,567
+Je les ai trouvées
+sur une horrible scène de crime.
+
+761
+00:57:26,609 --> 00:57:27,735
+Vous avez l'étudiante ?
+
+762
+00:57:28,611 --> 00:57:31,573
+Shuri voulait la sauver
+quand elles se sont fait capturer.
+
+763
+00:57:32,490 --> 00:57:33,950
+Quoi ? Par qui ?
+
+764
+00:57:35,535 --> 00:57:37,579
+Mon agence croit
+que vous êtes derrière tout ça.
+
+765
+00:57:37,745 --> 00:57:39,706
+Et j'ai très peur qu'ils apprennent
+
+766
+00:57:39,873 --> 00:57:42,041
+que j'ai envoyé Shuri et Okoye
+dans la bonne direction.
+
+767
+00:57:42,208 --> 00:57:43,978
+Bon, si elles sont en danger,
+je veux vous aider.
+
+768
+00:57:44,002 --> 00:57:45,920
+Mais je dois savoir ce qui se passe.
+
+769
+00:57:46,087 --> 00:57:48,798
+Je crains qu'une nouvelle
+puissance mondiale soit impliquée.
+
+770
+00:57:49,215 --> 00:57:52,177
+Une nation déjà sur notre radar
+ou une nouvelle puissance ?
+
+771
+00:57:52,343 --> 00:57:54,345
+C'est tout ce que je peux dire
+pour l'instant.
+
+772
+00:57:54,512 --> 00:57:55,513
+S'il vous plaît,
+
+773
+00:57:55,930 --> 00:58:00,310
+alertez-moi si votre gouvernement
+décide d'agir sur ses soupçons.
+
+774
+00:58:00,477 --> 00:58:02,145
+Oui. Bien sûr.
+
+775
+00:58:02,353 --> 00:58:06,107
+Si je peux faire quoi que ce soit
+pour vous aider, dites-le-moi.
+
+776
+00:58:06,274 --> 00:58:08,067
+Shuri m'a sauvé la vie.
+
+777
+00:58:08,818 --> 00:58:12,739
+GRIOT, est-ce que Shuri portait
+ses boucles d'oreille ?
+
+778
+00:58:12,906 --> 00:58:15,450
+J'en ai perdu la trace
+quelque part dans l'Atlantique Nord,
+
+779
+00:58:15,617 --> 00:58:18,786
+mais ses ravisseurs parlaient
+le maya du Yucatan.
+
+780
+00:58:36,387 --> 00:58:37,972
+{\an8}Vous venez voir la directrice ?
+
+781
+00:59:19,305 --> 00:59:20,557
+Reine-mère.
+
+782
+00:59:22,392 --> 00:59:24,686
+Tout ici est une leçon
+pour les enfants.
+
+783
+00:59:24,852 --> 00:59:27,855
+C'est eux qui ont peint les murs,
+qui nourrissent les poissons,
+
+784
+00:59:28,022 --> 00:59:30,316
+et qui cultivent
+tout ce que nous mangeons.
+
+785
+00:59:30,483 --> 00:59:33,111
+Oui, je reconnais certains
+de ces concepts.
+
+786
+00:59:33,278 --> 00:59:35,238
+Mais vous utilisez
+de nouveaux matériaux.
+
+787
+00:59:35,405 --> 00:59:38,741
+Oui. Nous n'utilisons
+que ce que nous trouvons ici en Haïti.
+
+788
+00:59:40,743 --> 00:59:44,080
+Tu nous as manqué
+aux funérailles de T'Challa.
+
+789
+00:59:55,842 --> 00:59:57,051
+Reine-mère.
+
+790
+00:59:57,218 --> 01:00:00,179
+Il y a six ans que tu nous as quittés.
+
+791
+01:00:00,346 --> 01:00:03,516
+Nous pensions au moins
+te revoir à la cérémonie.
+
+792
+01:00:06,269 --> 01:00:08,563
+J'avais peur
+
+793
+01:00:08,730 --> 01:00:12,442
+que ses funérailles soient
+trop définitives pour moi.
+
+794
+01:00:12,609 --> 01:00:15,570
+Nakia, fille de Yaa,
+
+795
+01:00:16,946 --> 01:00:20,825
+où que tu ailles,
+tu seras toujours wakandaise
+
+796
+01:00:20,992 --> 01:00:24,621
+et tu sais
+que la mort n'est pas la fin.
+
+797
+01:00:29,709 --> 01:00:31,002
+{\an8}Merci.
+
+798
+01:00:35,757 --> 01:00:37,508
+Comment va tout le monde ?
+
+799
+01:00:37,675 --> 01:00:40,011
+Shuri a été enlevée.
+
+800
+01:00:40,720 --> 01:00:41,721
+Quoi ?
+
+801
+01:00:42,138 --> 01:00:45,141
+Tu as déjà infiltré
+de nombreuses nations.
+
+802
+01:00:45,558 --> 01:00:47,477
+{\an8}C'était il y a longtemps.
+
+803
+01:00:47,644 --> 01:00:48,924
+Je n'étais pas la même personne.
+
+804
+01:00:48,978 --> 01:00:52,023
+J'ai besoin de toi
+pour découvrir où elle est emprisonnée
+
+805
+01:00:52,190 --> 01:00:55,234
+et pour la sauver
+sans te faire repérer.
+
+806
+01:00:55,610 --> 01:00:58,446
+Qui voudrait risquer une guerre
+avec le Wakanda ?
+
+807
+01:01:00,823 --> 01:01:01,824
+Mon Dieu.
+
+808
+01:01:01,991 --> 01:01:03,284
+Du calme.
+
+809
+01:01:03,451 --> 01:01:04,827
+Ne me dites pas de me calmer.
+
+810
+01:01:04,994 --> 01:01:05,995
+Où sommes-nous ?
+
+811
+01:01:06,162 --> 01:01:08,206
+Dans une caverne. Je ne sais pas où.
+
+812
+01:01:08,373 --> 01:01:09,374
+Bon sang !
+
+813
+01:01:10,166 --> 01:01:11,501
+C'est quoi, ça ?
+
+814
+01:01:11,668 --> 01:01:14,462
+Des vers luisants.
+Leurs larves émettent de la lumière.
+
+815
+01:01:15,421 --> 01:01:16,422
+Calme-toi.
+
+816
+01:01:16,839 --> 01:01:18,716
+Il n'y aurait pas
+de nouveau Black Panther
+
+817
+01:01:18,883 --> 01:01:21,052
+- qui peut venir nous sauver ?
+- Non.
+
+818
+01:01:21,219 --> 01:01:22,220
+Pourquoi ?
+
+819
+01:01:22,387 --> 01:01:24,097
+Parce que ça ne fonctionne plus
+comme ça.
+
+820
+01:01:24,847 --> 01:01:26,432
+Black Panther n'est plus.
+
+821
+01:01:27,100 --> 01:01:29,740
+Vous n'avez plus de Black Panther
+au moment où je me fais enlever ?
+
+822
+01:01:34,774 --> 01:01:35,774
+{\an8}Princesse.
+
+823
+01:01:36,943 --> 01:01:39,070
+{\an8}La royauté porte
+un costume traditionnel.
+
+824
+01:01:39,487 --> 01:01:41,656
+{\an8}Nous avons fait ceci pour vous.
+
+825
+01:01:42,365 --> 01:01:44,534
+Vous comprenez ce qu'elle dit ?
+
+826
+01:01:44,701 --> 01:01:46,202
+Pas entièrement.
+
+827
+01:01:48,287 --> 01:01:49,497
+Non.
+
+828
+01:01:49,664 --> 01:01:52,104
+On ne doit pas accepter de mettre ça,
+c'est sûrement un piège.
+
+829
+01:01:52,166 --> 01:01:53,501
+C'est comme dans tous les films.
+
+830
+01:01:53,668 --> 01:01:54,919
+Princesse Leia.
+
+831
+01:01:55,086 --> 01:01:56,337
+Belle dans La Belle et la Bête.
+
+832
+01:01:56,504 --> 01:01:59,048
+La fille blanche dans Indiana Jones.
+
+833
+01:01:59,215 --> 01:02:00,215
+Ça va.
+
+834
+01:02:00,341 --> 01:02:02,885
+Tu devrais voir ce que je porte
+dans nos cérémonies.
+
+835
+01:02:09,308 --> 01:02:10,309
+{\an8}Suivez-moi.
+
+836
+01:02:11,310 --> 01:02:12,645
+Attendez.
+
+837
+01:02:12,812 --> 01:02:15,273
+Vous n'allez pas
+me laisser ici toute seule ?
+
+838
+01:02:15,440 --> 01:02:16,816
+Je reviens.
+
+839
+01:02:17,483 --> 01:02:18,693
+Je reviens.
+
+840
+01:02:18,860 --> 01:02:20,778
+Reste calme.
+
+841
+01:02:28,161 --> 01:02:29,161
+{\an8}Manger ?
+
+842
+01:02:34,500 --> 01:02:37,253
+{\an8}PÉNINSULE DU YUCATÁN, MEXIQUE
+
+843
+01:02:43,342 --> 01:02:45,052
+{\an8}Bonjour, madame, enchantée.
+
+844
+01:02:45,219 --> 01:02:46,262
+{\an8}Vous voulez quoi ?
+
+845
+01:02:47,638 --> 01:02:50,349
+{\an8}Je m'appelle Maria Aldana.
+J'étudie à Merida.
+
+846
+01:02:50,683 --> 01:02:52,393
+{\an8}Ça ne m'intéresse pas. Partez.
+
+847
+01:02:52,560 --> 01:02:56,564
+{\an8}Je ne veux pas vous ennuyer.
+Accordez-moi une seconde.
+
+848
+01:02:57,023 --> 01:02:59,025
+{\an8}Mon professeur a parlé d'une étude
+
+849
+01:02:59,192 --> 01:03:03,738
+{\an8}où vous auriez dit
+avoir rencontré quelque chose.
+
+850
+01:03:04,572 --> 01:03:06,824
+{\an8}Quelqu'un d'inimaginable.
+
+851
+01:03:07,700 --> 01:03:10,244
+{\an8}Parler à ces étrangers
+ne m'a rien valu de bon.
+
+852
+01:03:10,411 --> 01:03:11,829
+{\an8}Je vous en prie.
+
+853
+01:03:11,996 --> 01:03:13,164
+{\an8}Allez-vous-en.
+
+854
+01:03:14,832 --> 01:03:16,959
+{\an8}Je l'ai rencontré aussi.
+
+855
+01:03:28,513 --> 01:03:32,433
+{\an8}On apercevait parfois
+un homme aux pieds ailés
+
+856
+01:03:33,684 --> 01:03:35,353
+{\an8}au bord de la plage.
+
+857
+01:03:36,103 --> 01:03:37,980
+{\an8}On le prenait pour un esprit.
+
+858
+01:03:38,856 --> 01:03:40,399
+{\an8}Le K'uk'ulkan.
+
+859
+01:03:40,900 --> 01:03:43,361
+{\an8}Notre Dieu Serpent à Plumes,
+
+860
+01:03:44,153 --> 01:03:47,114
+{\an8}dans ce royaume et les profondeurs.
+
+861
+01:03:47,949 --> 01:03:50,618
+{\an8}J'aimerais beaucoup voir cette plage.
+
+862
+01:03:51,786 --> 01:03:52,786
+{\an8}Prenez garde.
+
+863
+01:03:53,120 --> 01:03:58,918
+{\an8}K'uk'ulkan est là
+depuis plus longtemps que vous et moi.
+
+864
+01:03:59,252 --> 01:04:01,337
+{\an8}D'autres, qui l'ont cherché
+
+865
+01:04:01,587 --> 01:04:03,214
+{\an8}avec la haine au cœur,
+
+866
+01:04:03,756 --> 01:04:04,756
+{\an8}ne sont jamais revenus.
+
+867
+01:04:05,883 --> 01:04:07,343
+{\an8}Perdus dans les flots...
+
+868
+01:04:08,803 --> 01:04:10,763
+{\an8}à jamais...
+
+869
+01:04:29,824 --> 01:04:31,450
+Princesse.
+
+870
+01:04:31,617 --> 01:04:32,618
+Bienvenue.
+
+871
+01:04:34,579 --> 01:04:37,039
+Avancez, je vous prie.
+
+872
+01:04:44,297 --> 01:04:45,590
+C'est magnifique.
+
+873
+01:04:46,424 --> 01:04:48,175
+C'était à ma mère.
+
+874
+01:04:58,227 --> 01:05:00,771
+Ce sont des objets mésoaméricains.
+
+875
+01:05:02,231 --> 01:05:04,108
+Je pense qu'ils datent du XVle siècle.
+
+876
+01:05:05,318 --> 01:05:07,528
+Étiez-vous déjà en vie à cette époque ?
+
+877
+01:05:09,488 --> 01:05:11,032
+Votre mère était humaine.
+
+878
+01:05:12,491 --> 01:05:13,492
+Elle l'était.
+
+879
+01:05:13,659 --> 01:05:15,870
+Puis, elle est devenue autre chose.
+
+880
+01:05:16,037 --> 01:05:18,080
+Comment ?
+
+881
+01:05:18,664 --> 01:05:21,125
+Le comment n'est jamais
+aussi important que le pourquoi.
+
+882
+01:05:23,461 --> 01:05:25,087
+{\an8}1571 après J-C ZAMÁ, YUCATÁN
+
+883
+01:05:32,386 --> 01:05:35,514
+Ma mère et son village furent chassés
+de leurs fermes
+
+884
+01:05:35,681 --> 01:05:39,435
+par des conquistadors espagnols
+qui ont répandu la variole,
+
+885
+01:05:39,602 --> 01:05:42,480
+la haine, la violence
+et les dogmes d'un autre monde.
+
+886
+01:05:44,273 --> 01:05:45,983
+Confronté à la famine,
+
+887
+01:05:46,150 --> 01:05:47,985
+à la guerre et à la maladie,
+
+888
+01:05:48,444 --> 01:05:50,237
+mon peuple s'est tourné vers Chaac,
+
+889
+01:05:51,906 --> 01:05:53,783
+notre dieu de la pluie
+et de l'abondance.
+
+890
+01:05:55,993 --> 01:05:58,871
+Chaac a envoyé une vision
+à notre chamane.
+
+891
+01:05:59,455 --> 01:06:02,041
+Un moyen de sauver tous les siens.
+
+892
+01:06:05,586 --> 01:06:09,966
+Chaac l'a guidé vers une plante
+qui poussait sur un rocher bleu.
+
+893
+01:06:23,437 --> 01:06:25,648
+Ma mère était enceinte de moi,
+à l'époque,
+
+894
+01:06:25,815 --> 01:06:28,067
+et elle ne voulait pas
+ingérer cette plante,
+
+895
+01:06:28,234 --> 01:06:30,444
+par peur
+de ce qu'elle pourrait me faire.
+
+896
+01:06:30,945 --> 01:06:32,113
+{\an8}Non. Mon bébé.
+
+897
+01:06:32,613 --> 01:06:34,490
+Mais le chaman était persuasif.
+
+898
+01:06:43,082 --> 01:06:45,001
+{\an8}Ton bébé est malade.
+
+899
+01:06:45,584 --> 01:06:47,294
+{\an8}Seule cette plante le guérira.
+
+900
+01:06:47,795 --> 01:06:51,424
+{\an8}Il sera le premier-né
+de notre nouveau foyer.
+
+901
+01:06:53,050 --> 01:06:54,260
+{\an8}Ce don est une promesse.
+
+902
+01:06:54,427 --> 01:06:57,930
+{\an8}Il sera notre nouveau roi.
+
+903
+01:07:06,355 --> 01:07:08,190
+Ils sont tous tombés malades.
+
+904
+01:07:09,358 --> 01:07:11,193
+Et leur vie,
+
+905
+01:07:11,360 --> 01:07:13,487
+leur existence,
+
+906
+01:07:13,654 --> 01:07:14,947
+a pris fin.
+
+907
+01:07:26,834 --> 01:07:29,086
+La plante leur a enlevé
+leur capacité respiratoire,
+
+908
+01:07:29,253 --> 01:07:33,049
+mais leur a permis
+de filtrer l'oxygène de l'océan.
+
+909
+01:07:36,385 --> 01:07:38,137
+Ils se sont établis
+dans les profondeurs,
+
+910
+01:07:38,804 --> 01:07:41,932
+loin de la guerre et des maladies.
+
+911
+01:07:44,518 --> 01:07:45,603
+{\an8}En avant !
+
+912
+01:08:11,087 --> 01:08:13,255
+Ma mère m'a mis au monde là-bas.
+
+913
+01:08:13,547 --> 01:08:16,801
+Et je suis devenu le premier-né
+du royaume de Talocan.
+
+914
+01:08:17,259 --> 01:08:19,345
+La plante m'avait donné
+des chevilles ailées
+
+915
+01:08:19,512 --> 01:08:21,931
+et des oreilles pointant
+vers les nuages.
+
+916
+01:08:22,389 --> 01:08:23,641
+J'étais un mutant.
+
+917
+01:08:24,558 --> 01:08:27,812
+Je pouvais nager dans le ciel
+et vieillir moins vite.
+
+918
+01:08:27,978 --> 01:08:30,481
+Respirer l'air
+que nos ancêtres respiraient.
+
+919
+01:08:31,732 --> 01:08:33,317
+En vieillissant,
+
+920
+01:08:34,652 --> 01:08:38,239
+ma mère a commencé à regretter
+la vie terrestre qu'elle avait connue.
+
+921
+01:08:40,157 --> 01:08:41,909
+Elle est morte le cœur brisé.
+
+922
+01:08:44,662 --> 01:08:48,624
+Elle m'a fait promettre de l'enterrer
+dans le sol de sa patrie.
+
+923
+01:08:53,754 --> 01:08:57,091
+Mais rien ne pouvait me préparer
+à ce que j'y trouverais.
+
+924
+01:09:04,056 --> 01:09:05,056
+{\an8}À qui est cet enfant ?
+
+925
+01:09:20,698 --> 01:09:21,698
+{\an8}Tirez !
+
+926
+01:09:22,241 --> 01:09:23,241
+{\an8}Feu !
+
+927
+01:09:39,466 --> 01:09:40,801
+{\an8}Tu es un démon.
+
+928
+01:09:41,594 --> 01:09:42,845
+{\an8}Le fils de Satan.
+
+929
+01:09:43,012 --> 01:09:45,014
+Un homme de foi espagnol m'a maudit.
+
+930
+01:09:45,181 --> 01:09:47,057
+En mourant de ma main,
+
+931
+01:09:47,224 --> 01:09:48,267
+il m'a appelé...
+
+932
+01:09:48,475 --> 01:09:49,643
+{\an8}Un enfant sans amour.
+
+933
+01:09:50,477 --> 01:09:51,645
+{\an8}L'enfant sans amour.
+
+934
+01:09:53,689 --> 01:09:55,900
+L'enfant sans amour.
+
+935
+01:09:56,442 --> 01:09:57,902
+C'est de là que vient mon nom.
+
+936
+01:10:03,282 --> 01:10:04,992
+"Namor."
+
+937
+01:10:05,159 --> 01:10:07,995
+Parce que je n'ai aucun amour
+pour le monde de la surface.
+
+938
+01:10:09,997 --> 01:10:12,082
+Pourquoi me racontez-vous tout ça ?
+
+939
+01:10:13,500 --> 01:10:16,629
+Pour que vous compreniez
+pourquoi je dois tuer la scientifique.
+
+940
+01:10:16,795 --> 01:10:18,380
+Et si on l'emmenait au Wakanda ?
+
+941
+01:10:19,757 --> 01:10:20,966
+Laissez-nous partir.
+
+942
+01:10:21,926 --> 01:10:23,385
+Je vous donne ma parole.
+
+943
+01:10:23,552 --> 01:10:25,012
+Elle restera dans mon pays.
+
+944
+01:10:25,221 --> 01:10:26,823
+Je ne peux pas
+prendre ce risque, princesse.
+
+945
+01:10:26,847 --> 01:10:28,474
+Alors gardez-moi à la place.
+
+946
+01:10:30,434 --> 01:10:32,061
+J'aimerais voir votre nation.
+
+947
+01:10:33,395 --> 01:10:36,023
+Vous ne pouvez pas
+y aller vêtue ainsi.
+
+948
+01:10:38,067 --> 01:10:41,528
+L'hypothermie vous ferait mourir
+presque instantanément.
+
+949
+01:10:41,695 --> 01:10:43,948
+Votre sang deviendrait toxique
+
+950
+01:10:44,114 --> 01:10:47,952
+et la pression de l'océan réduirait
+en miettes chacun de vos os.
+
+951
+01:10:51,038 --> 01:10:52,289
+Il vous faut une combinaison.
+
+952
+01:10:52,706 --> 01:10:54,458
+Nous en avons. Venez.
+
+953
+01:10:57,544 --> 01:10:58,545
+Restez près de moi.
+
+954
+01:12:02,901 --> 01:12:04,570
+Hé ! Namor, attendez !
+
+955
+01:13:15,808 --> 01:13:19,061
+TALOKAN
+CAPITALE
+
+956
+01:14:08,152 --> 01:14:09,611
+Bonjour.
+
+957
+01:14:38,182 --> 01:14:39,308
+C'est magnifique.
+
+958
+01:14:41,143 --> 01:14:42,478
+Il est fait de vibranium.
+
+959
+01:14:42,644 --> 01:14:43,645
+Oui.
+
+960
+01:14:43,812 --> 01:14:45,314
+Dans les profondeurs de l'océan,
+
+961
+01:14:45,731 --> 01:14:47,983
+j'ai apporté le soleil à mon peuple.
+
+962
+01:14:50,068 --> 01:14:53,530
+Je sais que vous voulez que j'épargne
+la vie de la scientifique,
+
+963
+01:14:53,906 --> 01:14:56,158
+mais vous voyez maintenant
+ce que je dois protéger.
+
+964
+01:15:20,974 --> 01:15:23,060
+Nakia, votre intuition était juste.
+
+965
+01:15:23,227 --> 01:15:26,230
+J'ai localisé les boucles d'oreille
+Kimoyo de Shuri.
+
+966
+01:15:59,596 --> 01:16:02,224
+Le signal provient
+d'une caverne sous-marine
+
+967
+01:16:02,391 --> 01:16:05,852
+à environ 140 mètres sous la surface.
+
+968
+01:16:06,478 --> 01:16:08,772
+Reine-mère, j'ai capté son signal.
+
+969
+01:16:08,939 --> 01:16:11,942
+Il provient d'une caverne sous-marine.
+
+970
+01:16:12,109 --> 01:16:14,778
+Si elle est là-bas,
+je pense rencontrer de la résistance.
+
+971
+01:16:15,737 --> 01:16:18,407
+Comment voulez-vous que je procède ?
+
+972
+01:16:18,574 --> 01:16:22,953
+Retrouve la princesse
+par tous les moyens nécessaires.
+
+973
+01:16:23,120 --> 01:16:26,331
+Je vais tenter d'éloigner Namor.
+
+974
+01:17:01,241 --> 01:17:04,494
+Vous êtes la première personne
+de la surface à découvrir Talocan.
+
+975
+01:17:05,495 --> 01:17:07,539
+Acceptez ceci en gage
+de notre gratitude.
+
+976
+01:17:14,713 --> 01:17:17,299
+Il a été fait avec la plante
+qui a sauvé Talocan.
+
+977
+01:17:20,093 --> 01:17:21,470
+Vous êtes jeune, princesse.
+
+978
+01:17:22,346 --> 01:17:25,265
+Quand vous aurez mon âge,
+vous comprendrez
+
+979
+01:17:25,432 --> 01:17:28,185
+que nous perdons tous
+ceux que nous aimons.
+
+980
+01:17:28,352 --> 01:17:29,936
+Mais quand j'ai perdu mon frère,
+
+981
+01:17:30,103 --> 01:17:31,730
+ce n'était pas pareil.
+
+982
+01:17:31,897 --> 01:17:33,565
+Il a souffert en silence.
+
+983
+01:17:34,149 --> 01:17:37,152
+Et quand il m'a enfin demandé
+de l'aider, je n'ai pas pu.
+
+984
+01:17:38,236 --> 01:17:40,739
+Comment est-il possible
+
+985
+01:17:40,906 --> 01:17:44,576
+que mes ancêtres m'aient donné
+des dons et des talents
+
+986
+01:17:44,743 --> 01:17:47,496
+et que je ne puisse même pas
+sauver mon frère ?
+
+987
+01:17:48,997 --> 01:17:49,998
+Pourquoi ?
+
+988
+01:17:52,459 --> 01:17:54,961
+Je n'ai pas la réponse
+à cette question.
+
+989
+01:17:57,089 --> 01:17:59,633
+Mes ancêtres disaient souvent
+
+990
+01:18:00,008 --> 01:18:03,428
+que seules les personnes brisées
+par la vie font de grands chefs.
+
+991
+01:18:07,182 --> 01:18:09,351
+J'admire ce que vous avez bâti ici.
+
+992
+01:18:11,645 --> 01:18:14,106
+Et comment vous avez protégé
+votre peuple.
+
+993
+01:18:14,898 --> 01:18:17,943
+Mais en tant
+que princesse du Wakanda,
+
+994
+01:18:18,110 --> 01:18:20,570
+je ne vous laisserai pas
+mettre à mort cette jeune femme.
+
+995
+01:18:22,280 --> 01:18:25,367
+Ma nation n'aura aucun répit
+jusqu'à mon retour.
+
+996
+01:18:26,785 --> 01:18:28,912
+Et je ne partirai pas sans elle.
+
+997
+01:18:29,663 --> 01:18:33,375
+Nous devons trouver
+un moyen pacifique de résoudre ça.
+
+998
+01:18:37,045 --> 01:18:38,885
+Il ne s'agit plus seulement
+de la scientifique.
+
+999
+01:18:40,841 --> 01:18:45,345
+Depuis des siècles, les nations
+de la surface envahissent tout.
+
+1000
+01:18:46,012 --> 01:18:47,472
+Pour nos ressources.
+
+1001
+01:18:48,890 --> 01:18:51,143
+Depuis le jour
+où j'ai enterré ma mère,
+
+1002
+01:18:51,309 --> 01:18:55,147
+je prépare mon peuple pour le jour
+où ils viendront nous chercher.
+
+1003
+01:18:55,313 --> 01:18:59,526
+Et cette machine est le signe
+que ce jour est venu.
+
+1004
+01:19:01,403 --> 01:19:06,742
+Il faut que je sache si le Wakanda est
+un allié ou un ennemi.
+
+1005
+01:19:07,159 --> 01:19:09,035
+Il n'y a aucune demi-mesure.
+
+1006
+01:19:11,163 --> 01:19:14,875
+Alors vous prévoyez
+faire la guerre au monde entier
+
+1007
+01:19:15,459 --> 01:19:17,794
+et vous voulez
+que le Wakanda vous aide ?
+
+1008
+01:19:18,712 --> 01:19:19,880
+C'est de la folie.
+
+1009
+01:19:20,046 --> 01:19:24,676
+Toutes les nation pilleraient
+le Wakanda si elles le pouvaient.
+
+1010
+01:19:26,011 --> 01:19:27,929
+Si nous faisons alliance,
+
+1011
+01:19:28,096 --> 01:19:30,807
+nous pouvons nous protéger
+en les attaquant en premier.
+
+1012
+01:19:31,349 --> 01:19:35,604
+Quand la menace de ces nations
+aura été totalement éliminée,
+
+1013
+01:19:35,771 --> 01:19:38,398
+la scientifique pourra
+revenir au Wakanda.
+
+1014
+01:19:38,815 --> 01:19:41,610
+Et si le Wakanda refuse votre offre,
+vous ferez quoi ?
+
+1015
+01:19:42,694 --> 01:19:44,654
+La scientifique mourra,
+
+1016
+01:19:45,655 --> 01:19:48,575
+et le Wakanda sera
+la première nation à tomber.
+
+1017
+01:19:48,825 --> 01:19:50,368
+Une attaque contre mon peuple ?
+
+1018
+01:19:50,702 --> 01:19:52,162
+Oui.
+
+1019
+01:19:52,329 --> 01:19:54,706
+Et écoutez-moi bien.
+
+1020
+01:19:54,873 --> 01:19:58,752
+Le Wakanda ne peut pas gagner
+une guerre contre Talokan.
+
+1021
+01:20:01,922 --> 01:20:04,049
+{\an8}Nous t'avons invoqué...
+
+1022
+01:20:04,216 --> 01:20:05,425
+{\an8}K'uk'ulkan.
+
+1023
+01:20:09,679 --> 01:20:13,975
+Je vous ai entendue ce soir-là
+avec votre mère, près du fleuve.
+
+1024
+01:20:15,268 --> 01:20:18,021
+Vous disiez
+que vous vouliez brûler le monde.
+
+1025
+01:20:24,194 --> 01:20:26,530
+Alors, brûlons-le ensemble.
+
+1026
+01:20:34,371 --> 01:20:36,057
+{\an8}La Reine Ramonda refuse
+de nous vendre du vibranium.
+
+1027
+01:20:36,081 --> 01:20:37,916
+{\an8}CIA, LANGLEY, VIRGINIE
+
+1028
+01:20:37,999 --> 01:20:40,877
+Et elle a fait enlever la jeune femme
+qui a construit la machine.
+
+1029
+01:20:41,044 --> 01:20:44,005
+Avec tout mon respect,
+Riri Williams est une enfant prodige
+
+1030
+01:20:44,172 --> 01:20:46,453
+dont l'intelligence dépasse
+celle de tous ses professeurs.
+
+1031
+01:20:46,508 --> 01:20:49,386
+Les Wakandais l'ont juste recrutée
+pour leur programme de développement.
+
+1032
+01:20:49,553 --> 01:20:50,971
+Rien de plus. Puis,
+
+1033
+01:20:51,137 --> 01:20:53,515
+vous avez envoyé le SWAT
+en pleine nuit
+
+1034
+01:20:53,682 --> 01:20:57,102
+pour arrêter la princesse
+d'une superpuissance internationale.
+
+1035
+01:21:00,272 --> 01:21:03,108
+Le président souhaite passer
+à l'offensive contre le Wakanda.
+
+1036
+01:21:04,484 --> 01:21:06,361
+Quel type d'offensive ?
+
+1037
+01:21:07,070 --> 01:21:08,613
+La déstabilisation.
+
+1038
+01:21:09,781 --> 01:21:13,118
+L'agent spécial Ross est notre expert.
+
+1039
+01:21:13,285 --> 01:21:15,495
+Ross, votre avis ?
+
+1040
+01:21:15,662 --> 01:21:18,456
+Mes sources m'ont affirmé
+que le coupable est ailleurs.
+
+1041
+01:21:19,374 --> 01:21:21,294
+- Une autre nation ?
+- Peut-être. Je ne sais pas.
+
+1042
+01:21:21,376 --> 01:21:23,646
+Vous devez me laisser le temps
+de mener l'enquête comme il faut,
+
+1043
+01:21:23,670 --> 01:21:25,755
+sinon on va se retrouver en guerre
+
+1044
+01:21:25,922 --> 01:21:27,674
+face à un pays
+dont la capacité militaire
+
+1045
+01:21:27,841 --> 01:21:29,801
+dépasse notre entendement.
+
+1046
+01:21:31,386 --> 01:21:32,387
+Madame la directrice ?
+
+1047
+01:21:32,846 --> 01:21:35,098
+Je pense que c'est lui, l'expert.
+
+1048
+01:21:35,265 --> 01:21:38,184
+Je pense que ce serait une erreur
+d'attaquer le Wakanda.
+
+1049
+01:21:44,983 --> 01:21:45,984
+Oui ?
+
+1050
+01:21:46,151 --> 01:21:47,152
+Nous avons un problème.
+
+1051
+01:21:48,486 --> 01:21:50,322
+{\an8}CURRAL VELHO, CAP-VERT
+
+1052
+01:22:08,632 --> 01:22:10,967
+Ma fille est-elle vivante ?
+
+1053
+01:22:11,134 --> 01:22:13,094
+La princesse est en vie
+et elle va bien.
+
+1054
+01:22:13,803 --> 01:22:16,640
+C'est elle qui a demandé
+de venir à Talocan.
+
+1055
+01:22:16,806 --> 01:22:19,184
+Elle va y rester pour le moment.
+
+1056
+01:22:22,812 --> 01:22:26,066
+Que puis-je vous offrir en échange ?
+
+1057
+01:22:26,483 --> 01:22:27,484
+Rien.
+
+1058
+01:22:27,943 --> 01:22:29,653
+J'ai du mal à le croire.
+
+1059
+01:22:29,819 --> 01:22:33,198
+Les Américains tiennent
+mon pays responsable
+
+1060
+01:22:33,365 --> 01:22:36,117
+de votre attaque contre leur navire.
+
+1061
+01:22:36,284 --> 01:22:39,245
+Rendez-nous ma fille
+et la jeune scientifique
+
+1062
+01:22:39,412 --> 01:22:42,999
+ou je les informerai
+de votre existence.
+
+1063
+01:22:49,714 --> 01:22:51,841
+Si vous parlez de nous aux Américains,
+
+1064
+01:22:53,343 --> 01:22:55,512
+si vous essayez de nous trouver
+
+1065
+01:22:56,596 --> 01:23:00,392
+ou si je vois un seul navire wakandais
+à la surface de l'océan,
+
+1066
+01:23:01,184 --> 01:23:02,644
+je tuerai la princesse.
+
+1067
+01:23:04,187 --> 01:23:05,981
+Je viendrai au Wakanda
+
+1068
+01:23:06,147 --> 01:23:08,108
+et je vous tuerai aussi.
+
+1069
+01:23:17,450 --> 01:23:18,493
+Que s'est-il passé ?
+
+1070
+01:23:20,370 --> 01:23:23,373
+Il veut partir en guerre
+contre le monde de la surface
+
+1071
+01:23:23,540 --> 01:23:25,333
+et m'a demandé de l'aider.
+
+1072
+01:23:29,838 --> 01:23:31,965
+Je dois réfléchir.
+
+1073
+01:23:32,132 --> 01:23:34,092
+On ne sortira jamais d'ici.
+
+1074
+01:23:46,396 --> 01:23:47,689
+{\an8}Lâchez votre lance !
+
+1075
+01:23:47,856 --> 01:23:49,315
+{\an8}Tuez la princesse !
+
+1076
+01:23:55,405 --> 01:23:56,740
+{\an8}Lâchez ce couteau.
+
+1077
+01:23:57,490 --> 01:23:58,490
+{\an8}Vous...
+
+1078
+01:23:58,992 --> 01:24:00,118
+{\an8}Vous l'avez tuée.
+
+1079
+01:24:00,994 --> 01:24:02,287
+{\an8}Relâchez-la
+
+1080
+01:24:02,495 --> 01:24:04,456
+{\an8}et vous n'aurez pas à mourir.
+
+1081
+01:24:07,542 --> 01:24:08,542
+{\an8}Shuri...
+
+1082
+01:24:09,461 --> 01:24:11,046
+{\an8}Bouge ton bras gauche.
+
+1083
+01:24:15,675 --> 01:24:16,801
+Est-ce que ça va ?
+
+1084
+01:24:17,594 --> 01:24:18,970
+Est-ce que ça va ?
+
+1085
+01:24:19,220 --> 01:24:20,500
+- Donne-moi tes perles !
+- Allez.
+
+1086
+01:24:20,638 --> 01:24:23,099
+- Donne-les-moi. Je peux la sauver.
+- Il faut y aller.
+
+1087
+01:24:23,266 --> 01:24:25,703
+Shuri, j'ignore qui est cette dame,
+mais je pense qu'on devrait l'écouter.
+
+1088
+01:24:25,727 --> 01:24:27,038
+Je lui ai envoyé une décharge sonique.
+
+1089
+01:24:27,062 --> 01:24:29,182
+C'est mortel à cette distance.
+Elle n'a aucune chance.
+
+1090
+01:24:29,272 --> 01:24:31,274
+Tu ne comprends pas,
+ce sera la guerre.
+
+1091
+01:24:31,441 --> 01:24:33,818
+- On doit partir.
+- Attends !
+
+1092
+01:25:17,403 --> 01:25:18,404
+Ils t'ont fait du mal ?
+
+1093
+01:25:18,571 --> 01:25:20,115
+Non. Non.
+
+1094
+01:25:21,658 --> 01:25:22,867
+Merci.
+
+1095
+01:25:23,618 --> 01:25:24,869
+{\an8}De rien.
+
+1096
+01:25:26,371 --> 01:25:27,497
+- GRIOT.
+- Oui, majesté.
+
+1097
+01:25:27,664 --> 01:25:29,707
+Ramène-nous immédiatement au Wakanda.
+
+1098
+01:25:33,545 --> 01:25:35,380
+{\an8}Qu'est-il arrivé, mon enfant ?
+
+1099
+01:25:37,340 --> 01:25:39,175
+{\an8}Les Wakandaises.
+
+1100
+01:25:39,968 --> 01:25:41,761
+{\an8}Elles sont venues pour elle.
+
+1101
+01:25:44,389 --> 01:25:46,432
+{\an8}K'uk'ulkan...
+
+1102
+01:25:48,935 --> 01:25:52,397
+{\an8}tu peux me sauver ?
+
+1103
+01:26:05,743 --> 01:26:07,120
+{\an8}Elle est morte ?
+
+1104
+01:26:09,497 --> 01:26:10,582
+{\an8}Oui.
+
+1105
+01:26:19,257 --> 01:26:21,593
+{\an8}Repose-toi, mon enfant.
+
+1106
+01:26:24,137 --> 01:26:25,555
+{\an8}Elles sont venues...
+
+1107
+01:26:26,014 --> 01:26:29,976
+{\an8}pendant que tu parlais à la reine ?
+
+1108
+01:26:31,394 --> 01:26:34,814
+{\an8}Nous aurions dû nous méfier d'elle.
+
+1109
+01:26:35,523 --> 01:26:38,526
+{\an8}La princesse a vu notre royaume.
+
+1110
+01:26:38,985 --> 01:26:41,196
+{\an8}Qui les empêchera
+
+1111
+01:26:41,613 --> 01:26:43,740
+{\an8}de venir à Talokan ?
+
+1112
+01:26:45,992 --> 01:26:47,285
+{\an8}Moi.
+
+1113
+01:27:22,153 --> 01:27:23,613
+{\an8}Debout, Talokan !
+
+1114
+01:27:26,115 --> 01:27:27,742
+{\an8}Debout, Talokan !
+
+1115
+01:27:33,039 --> 01:27:35,083
+{\an8}J'étais aveuglé
+
+1116
+01:27:35,291 --> 01:27:36,626
+{\an8}par l'espoir
+
+1117
+01:27:36,793 --> 01:27:38,503
+{\an8}d'un partenariat.
+
+1118
+01:27:40,421 --> 01:27:41,422
+{\an8}Et...
+
+1119
+01:27:42,048 --> 01:27:44,300
+{\an8}j'ai mis en danger
+
+1120
+01:27:44,884 --> 01:27:47,011
+{\an8}chacun de nous.
+
+1121
+01:27:47,804 --> 01:27:48,930
+{\an8}Talokan
+
+1122
+01:27:49,347 --> 01:27:50,807
+{\an8}ne fera plus
+
+1123
+01:27:50,974 --> 01:27:52,392
+{\an8}le premier pas.
+
+1124
+01:27:53,476 --> 01:27:54,476
+{\an8}Namora.
+
+1125
+01:27:55,603 --> 01:27:56,603
+{\an8}Attuma.
+
+1126
+01:27:58,481 --> 01:28:01,484
+{\an8}Quand nous en aurons fini avec eux,
+
+1127
+01:28:04,404 --> 01:28:06,739
+{\an8}ils ne penseront plus
+
+1128
+01:28:06,906 --> 01:28:08,950
+{\an8}à approcher
+
+1129
+01:28:09,117 --> 01:28:10,576
+{\an8}de Talokan !
+
+1130
+01:28:12,954 --> 01:28:14,289
+{\an8}Debout, Talokan !
+
+1131
+01:28:26,634 --> 01:28:29,137
+Princesse, quelle joie de vous revoir.
+
+1132
+01:28:29,345 --> 01:28:31,389
+La ville est à cran
+depuis votre départ.
+
+1133
+01:28:32,307 --> 01:28:33,308
+Allez.
+
+1134
+01:28:33,474 --> 01:28:36,060
+Renforcez la barrière sonique
+de toutes les voies navigables.
+
+1135
+01:28:36,227 --> 01:28:37,228
+Princesse ?
+
+1136
+01:28:38,146 --> 01:28:39,147
+Neka.
+
+1137
+01:28:41,107 --> 01:28:43,484
+Gloire aux ancêtres.
+
+1138
+01:28:43,818 --> 01:28:47,030
+Je voudrais vous rendre ceci.
+
+1139
+01:28:48,239 --> 01:28:50,408
+Non. Garde-les.
+
+1140
+01:28:50,575 --> 01:28:52,076
+Tu pourrais en avoir besoin.
+
+1141
+01:28:52,994 --> 01:28:54,996
+Celles-là viennent de là-bas ?
+
+1142
+01:28:57,957 --> 01:29:01,336
+Vous avez vraiment vu
+un empire sous-marin ?
+
+1143
+01:29:02,587 --> 01:29:03,713
+Oui.
+
+1144
+01:29:05,006 --> 01:29:06,591
+C'est magnifique.
+
+1145
+01:29:07,842 --> 01:29:10,470
+Mais ce peuple est dangereux, Aneka.
+
+1146
+01:29:30,656 --> 01:29:33,451
+Alors, Riri Williams,
+
+1147
+01:29:34,202 --> 01:29:36,371
+comment trouvez-vous le Wakanda ?
+
+1148
+01:29:36,537 --> 01:29:39,457
+Les légendes
+ne lui rendent pas justice.
+
+1149
+01:29:41,667 --> 01:29:42,710
+C'est magnifique.
+
+1150
+01:29:42,877 --> 01:29:44,629
+Mais j'aimerais vraiment
+rentrer chez moi.
+
+1151
+01:29:46,089 --> 01:29:47,673
+Vous devrez être patiente.
+
+1152
+01:29:47,840 --> 01:29:49,884
+Puis-je au moins appeler ma mère ?
+
+1153
+01:29:56,307 --> 01:29:59,602
+La Princesse a été ramenée
+par la guerrière Nakia.
+
+1154
+01:29:59,769 --> 01:30:01,145
+Gloire à Hanuman.
+
+1155
+01:30:01,312 --> 01:30:02,688
+Gloire à Hanuman.
+
+1156
+01:30:03,856 --> 01:30:07,318
+Cette espionne a sauvé le Wakanda
+encore une fois.
+
+1157
+01:30:07,902 --> 01:30:09,362
+La reine la récompensera
+
+1158
+01:30:09,529 --> 01:30:12,031
+en la bannissant à vie, probablement.
+
+1159
+01:30:14,492 --> 01:30:15,952
+Okoye.
+
+1160
+01:30:18,413 --> 01:30:19,414
+{\an8}Merci, ma sœur.
+
+1161
+01:30:21,582 --> 01:30:22,834
+Après l'attaque de Thanos,
+
+1162
+01:30:23,292 --> 01:30:25,420
+quand tu es partie sans dire un mot,
+
+1163
+01:30:26,045 --> 01:30:27,213
+ça m'a fait mal.
+
+1164
+01:30:31,175 --> 01:30:34,595
+Je regretterai toujours
+de ne pas avoir été avec vous.
+
+1165
+01:30:36,097 --> 01:30:37,390
+Ça n'a pas été facile.
+
+1166
+01:30:38,182 --> 01:30:39,183
+Il était...
+
+1167
+01:30:39,851 --> 01:30:43,688
+Le roi et Black Panther
+pour tout le monde.
+
+1168
+01:30:44,355 --> 01:30:45,940
+Mais pour moi...
+
+1169
+01:30:52,280 --> 01:30:53,990
+Il était toute ma vie.
+
+1170
+01:30:55,867 --> 01:30:57,827
+Mon T'Challa.
+
+1171
+01:30:59,162 --> 01:31:02,123
+Quand il m'a été enlevé comme ça,
+en un instant,
+
+1172
+01:31:02,874 --> 01:31:04,750
+j'ai dû partir
+
+1173
+01:31:05,668 --> 01:31:07,295
+pour vivre ma peine.
+
+1174
+01:31:09,964 --> 01:31:11,966
+Je ne pouvais pas
+
+1175
+01:31:12,133 --> 01:31:15,511
+continuer comme si de rien n'était.
+
+1176
+01:31:33,362 --> 01:31:34,363
+On nous attaque.
+
+1177
+01:31:42,205 --> 01:31:43,205
+Tiens.
+
+1178
+01:31:50,129 --> 01:31:51,129
+{\an8}Occupe-t'en !
+
+1179
+01:31:51,964 --> 01:31:53,549
+Ça va ? Vous allez bien ?
+
+1180
+01:31:53,716 --> 01:31:55,593
+GRIOT, active le Sunbird.
+
+1181
+01:31:55,760 --> 01:31:56,928
+Shuri, où es-tu ?
+
+1182
+01:31:57,094 --> 01:31:58,554
+Je me dirige vers la ville.
+
+1183
+01:31:58,721 --> 01:32:00,181
+Arrête ! C'est un ordre !
+
+1184
+01:32:00,348 --> 01:32:02,708
+Mère, je suis avec Aneka.
+On peut fournir un soutien aérien.
+
+1185
+01:32:02,808 --> 01:32:05,478
+- Aneka, empêche-la de sortir.
+- Mère, ça coupe.
+
+1186
+01:32:05,645 --> 01:32:06,788
+- On ne t'entend pas.
+- Shuri !
+
+1187
+01:32:06,812 --> 01:32:07,812
+Je t'aime. Au revoir !
+
+1188
+01:32:09,857 --> 01:32:11,084
+Vous venez de raccrocher
+au nez de la reine.
+
+1189
+01:32:11,108 --> 01:32:12,252
+Je viens de raccrocher
+au nez de ma mère.
+
+1190
+01:32:12,276 --> 01:32:13,861
+Ce n'est pas pareil. Viens. Allons-y !
+
+1191
+01:32:46,310 --> 01:32:48,187
+Des envahisseurs !
+
+1192
+01:32:53,776 --> 01:32:56,988
+Maman ! Maman !
+
+1193
+01:32:59,907 --> 01:33:01,450
+{\an8}Demi-tour !
+
+1194
+01:33:05,413 --> 01:33:08,332
+L'unité de secours souffre
+d'une forme d'hypnose sonique.
+
+1195
+01:33:11,002 --> 01:33:12,128
+{\an8}Emmène l'enfant.
+
+1196
+01:33:12,295 --> 01:33:14,130
+Générale, bouchez-vous les oreilles.
+
+1197
+01:33:14,297 --> 01:33:15,381
+Oui, ma reine.
+
+1198
+01:34:01,802 --> 01:34:02,553
+Je peux vous aider ?
+
+1199
+01:34:02,720 --> 01:34:03,929
+Venez vite.
+
+1200
+01:34:10,853 --> 01:34:12,396
+{\an8}Guerrière !
+
+1201
+01:34:14,732 --> 01:34:15,732
+{\an8}Croise tes bras...
+
+1202
+01:34:15,816 --> 01:34:16,816
+{\an8}... mon enfant.
+
+1203
+01:34:21,656 --> 01:34:22,281
+{\an8}Nakia.
+
+1204
+01:34:22,448 --> 01:34:23,448
+{\an8}Oui.
+
+1205
+01:34:23,783 --> 01:34:24,783
+{\an8}On retrouvera ta maman.
+
+1206
+01:34:36,754 --> 01:34:38,047
+L'homme-poisson.
+
+1207
+01:34:42,343 --> 01:34:45,012
+{\an8}Les défenses ont été attirées
+hors du palais.
+
+1208
+01:34:45,304 --> 01:34:47,348
+{\an8}À toi de jouer.
+
+1209
+01:36:06,510 --> 01:36:07,510
+{\an8}S.O.S.!
+
+1210
+01:36:08,053 --> 01:36:09,053
+{\an8}S.O.S.!
+
+1211
+01:36:26,405 --> 01:36:28,605
+- Il est trop rapide.
+- Il l'est encore plus sous l'eau.
+
+1212
+01:36:54,433 --> 01:36:55,851
+- Je prends les commandes.
+- Non.
+
+1213
+01:36:56,018 --> 01:36:58,658
+- Attends ! Je vais arranger ça.
+- Vous avez besoin de moi, Shuri !
+
+1214
+01:37:15,496 --> 01:37:16,496
+Tu la vois ?
+
+1215
+01:37:16,580 --> 01:37:17,998
+Oui. Juste là.
+
+1216
+01:37:31,470 --> 01:37:32,471
+Partez, mon enfant.
+
+1217
+01:37:33,931 --> 01:37:35,391
+Que je parte ?
+En vous abandonnant ?
+
+1218
+01:37:35,558 --> 01:37:36,600
+Courez !
+
+1219
+01:37:51,240 --> 01:37:52,700
+Okoye, allez !
+
+1220
+01:38:53,677 --> 01:38:54,677
+{\an8}Sauve l'enfant.
+
+1221
+01:39:00,434 --> 01:39:01,518
+C'est sa faute.
+
+1222
+01:39:05,564 --> 01:39:09,485
+Dans une semaine, je reviendrai
+avec mon armée au complet.
+
+1223
+01:39:09,652 --> 01:39:12,905
+Et vous vous joindrez à nous
+contre le monde de la surface,
+
+1224
+01:39:13,072 --> 01:39:16,033
+ou bien j'effacerai le Wakanda
+de la surface de la Terre.
+
+1225
+01:39:16,992 --> 01:39:17,992
+{\an8}Je vous en prie, majesté.
+
+1226
+01:39:18,994 --> 01:39:19,995
+Mère.
+
+1227
+01:39:20,454 --> 01:39:22,164
+- Empêchez-la de s'approcher !
+- Mère !
+
+1228
+01:39:22,498 --> 01:39:25,209
+- Mère !
+- Enterre tes morts.
+
+1229
+01:39:25,960 --> 01:39:27,544
+Et pleure les tiens.
+
+1230
+01:39:30,839 --> 01:39:32,424
+Tu es reine maintenant.
+
+1231
+01:39:32,675 --> 01:39:33,676
+Mère !
+
+1232
+01:39:34,385 --> 01:39:35,386
+Non !
+
+1233
+01:39:38,555 --> 01:39:40,099
+Lâche-moi ! Mère !
+
+1234
+01:39:40,849 --> 01:39:42,726
+Maman !
+
+1235
+01:39:49,566 --> 01:39:51,068
+Maman !
+
+1236
+01:39:51,694 --> 01:39:53,112
+Maman !
+
+1237
+01:39:53,696 --> 01:39:54,863
+Mère !
+
+1238
+01:39:55,572 --> 01:39:56,572
+{\an8}Réveillez-vous, majesté.
+
+1239
+01:39:58,617 --> 01:39:59,743
+{\an8}Laisse-moi voir.
+
+1240
+01:40:00,536 --> 01:40:01,536
+{\an8}Réveillez-vous.
+
+1241
+01:40:02,413 --> 01:40:03,747
+{\an8}Aidez-moi !
+
+1242
+01:40:03,914 --> 01:40:05,207
+{\an8}Maman !
+
+1243
+01:40:08,711 --> 01:40:09,878
+{\an8}Réveillez-vous, mère.
+
+1244
+01:40:10,546 --> 01:40:11,755
+{\an8}Elle est morte.
+
+1245
+01:40:12,715 --> 01:40:14,133
+Maman !
+
+1246
+01:40:55,549 --> 01:41:00,721
+Le peuple Jabari vous offre
+son réconfort et ses condoléances.
+
+1247
+01:41:07,352 --> 01:41:09,021
+Vous devez la pleurer
+
+1248
+01:41:09,188 --> 01:41:13,108
+conformément aux rituels
+de vos ancêtres.
+
+1249
+01:41:15,069 --> 01:41:16,904
+Ne vous enfermez pas
+dans votre technologie.
+
+1250
+01:41:17,071 --> 01:41:18,322
+Pourquoi êtes-vous venu ?
+
+1251
+01:41:20,199 --> 01:41:21,909
+J'ai promis à votre frère
+
+1252
+01:41:22,076 --> 01:41:24,369
+que je vous conseillerais
+
+1253
+01:41:24,536 --> 01:41:25,954
+et que je vous protégerais.
+
+1254
+01:41:28,415 --> 01:41:30,626
+Mais aujourd'hui,
+j'ai besoin de vos conseils.
+
+1255
+01:41:34,463 --> 01:41:38,092
+Vos aînés tribaux sont venus à moi
+avec une proposition.
+
+1256
+01:41:39,510 --> 01:41:42,763
+Ils souhaitent évacuer la cité
+et établir un campement
+
+1257
+01:41:42,930 --> 01:41:44,431
+chez les Jabari.
+
+1258
+01:41:44,598 --> 01:41:47,768
+Vous sollicitez l'avis d'une fillette
+
+1259
+01:41:48,435 --> 01:41:50,104
+qui bafoue les traditions ?
+
+1260
+01:41:54,316 --> 01:41:55,317
+Le monde...
+
+1261
+01:41:57,236 --> 01:41:59,905
+Le monde vous a déjà pris
+beaucoup trop
+
+1262
+01:42:00,656 --> 01:42:03,909
+pour qu'on continue
+à vous voir comme une fillette.
+
+1263
+01:42:07,037 --> 01:42:08,914
+Dans l'intérêt de mon peuple,
+je dois savoir
+
+1264
+01:42:09,081 --> 01:42:11,500
+de quel côté vous penchez.
+
+1265
+01:42:13,377 --> 01:42:15,087
+Les aînés sont désespérés.
+
+1266
+01:42:16,713 --> 01:42:18,632
+La cité est vulnérable.
+
+1267
+01:42:20,843 --> 01:42:23,011
+Si vous leur offrez votre aide,
+
+1268
+01:42:24,138 --> 01:42:26,390
+ils auront une dette envers vous.
+
+1269
+01:42:28,475 --> 01:42:30,185
+Et que vous dit votre cœur ?
+
+1270
+01:42:33,730 --> 01:42:35,732
+De quel côté penche-t-il ?
+
+1271
+01:42:37,609 --> 01:42:40,571
+Je viens d'enterrer la dernière
+personne qui me connaissait vraiment.
+
+1272
+01:42:44,074 --> 01:42:45,742
+Mon cœur est mort avec elle.
+
+1273
+01:43:22,821 --> 01:43:23,821
+Merde.
+
+1274
+01:43:24,615 --> 01:43:26,533
+Ton huile d'olive est presque périmée.
+
+1275
+01:43:26,700 --> 01:43:27,780
+Qu'est-ce que tu fais ici ?
+
+1276
+01:43:27,868 --> 01:43:30,537
+J'avais faim. Et...
+
+1277
+01:43:30,954 --> 01:43:32,956
+{\an8}Une tragédie frappe
+la communauté internationale.
+
+1278
+01:43:33,123 --> 01:43:37,252
+{\an8}Nos sources confirment que la reine
+Ramonda, fille de Lumumba, est morte.
+
+1279
+01:43:37,878 --> 01:43:41,590
+D'après les alliés occidentaux,
+une guerre civile serait la cause...
+
+1280
+01:43:44,134 --> 01:43:45,135
+Alors...
+
+1281
+01:43:45,510 --> 01:43:46,845
+Tu as un commentaire ?
+
+1282
+01:43:49,014 --> 01:43:52,184
+J'espère que tes amis
+ne te cachent rien d'autre.
+
+1283
+01:43:52,851 --> 01:43:54,019
+De quoi tu parles ?
+
+1284
+01:43:54,186 --> 01:43:57,731
+Je n'ai aucun contact non autorisé
+avec le royaume du Wakanda.
+
+1285
+01:44:00,108 --> 01:44:02,277
+Et les perles ?
+
+1286
+01:44:03,445 --> 01:44:04,571
+Quoi ?
+
+1287
+01:44:04,738 --> 01:44:05,739
+Les perles.
+
+1288
+01:44:05,906 --> 01:44:07,175
+Je les ai fait mettre sur écoute
+
+1289
+01:44:07,199 --> 01:44:08,867
+avant même que tu arrives sur place.
+
+1290
+01:44:09,034 --> 01:44:12,871
+J'ai été informée de toutes
+tes conversations récentes,
+
+1291
+01:44:13,038 --> 01:44:15,624
+y compris cet appel de trahison
+avec la reine.
+
+1292
+01:44:15,791 --> 01:44:17,167
+Paix à son âme.
+
+1293
+01:44:17,584 --> 01:44:18,877
+Mais c'est une bonne chose.
+
+1294
+01:44:19,044 --> 01:44:20,087
+Enfin, pour nous.
+
+1295
+01:44:20,254 --> 01:44:22,965
+Tu sais quoi ?
+Les Wakandais m'ont sauvé la vie !
+
+1296
+01:44:23,465 --> 01:44:24,585
+Ce sont des gens honorables.
+
+1297
+01:44:25,175 --> 01:44:27,219
+Tu t'es demandé un instant
+
+1298
+01:44:27,386 --> 01:44:29,012
+ce qu'ils pourraient faire ?
+
+1299
+01:44:29,179 --> 01:44:30,657
+Tu t'es demandé
+ce qu'on serait en train de faire
+
+1300
+01:44:30,681 --> 01:44:33,892
+si les États-Unis étaient le seul pays
+au monde avec du vibranium ?
+
+1301
+01:44:35,185 --> 01:44:38,438
+J'en rêve constamment.
+
+1302
+01:44:41,275 --> 01:44:42,943
+Val. Val, je t'en prie.
+
+1303
+01:44:43,318 --> 01:44:45,112
+C'est madame la directrice.
+
+1304
+01:44:47,823 --> 01:44:50,993
+Votre mère m'a protégée
+comme si j'étais sa fille.
+
+1305
+01:44:52,286 --> 01:44:55,126
+Le moins que je puisse faire serait
+d'essayer de lui rendre la pareille.
+
+1306
+01:44:57,082 --> 01:44:59,459
+Nous devons trouver un moyen
+d'affaiblir Namor.
+
+1307
+01:44:59,626 --> 01:45:01,795
+Même affaibli,
+il sera toujours un problème.
+
+1308
+01:45:01,962 --> 01:45:05,382
+Black Panther n'a jamais manqué
+de protéger le Wakanda.
+
+1309
+01:45:06,133 --> 01:45:08,135
+Je croyais que Black Panther était mort.
+
+1310
+01:45:17,853 --> 01:45:19,187
+Mon frère est mort.
+
+1311
+01:45:20,939 --> 01:45:23,525
+Mais ça ne signifie pas
+que Black Panther l'est aussi.
+
+1312
+01:45:41,293 --> 01:45:42,836
+GRIOT ?
+
+1313
+01:45:43,003 --> 01:45:45,630
+Commençons par lancer
+une analyse comparée
+
+1314
+01:45:45,797 --> 01:45:49,384
+entre nos tentatives
+pour créer une herbe-cœur de synthèse
+
+1315
+01:45:52,095 --> 01:45:54,056
+et les fibres de ce bracelet.
+
+1316
+01:45:54,639 --> 01:45:55,932
+Oui, princesse.
+
+1317
+01:45:59,227 --> 01:46:01,980
+Puisqu'elles ont poussé
+dans un sol riche en vibranium,
+
+1318
+01:46:03,231 --> 01:46:06,693
+elles partagent peut-être des similitudes
+basiques qu'on pourrait exploiter.
+
+1319
+01:46:06,860 --> 01:46:08,153
+À vos ordres, princesse.
+
+1320
+01:46:12,449 --> 01:46:14,868
+Télécharge également l'ADN de mon frère.
+
+1321
+01:46:15,035 --> 01:46:16,161
+Téléchargement en cours.
+
+1322
+01:46:47,734 --> 01:46:49,134
+Pourquoi il ne leur ressemble pas ?
+
+1323
+01:46:49,236 --> 01:46:51,446
+Sa physiologie est
+complètement différente.
+
+1324
+01:46:51,613 --> 01:46:54,282
+Aucun d'eux ne vole
+ou n'a d'oreilles pointues comme lui.
+
+1325
+01:46:54,783 --> 01:46:56,928
+Les femmes qui nous surveillaient avaient
+de l'eau sur la bouche
+
+1326
+01:46:56,952 --> 01:46:58,662
+et sur le cou.
+
+1327
+01:46:58,829 --> 01:46:59,829
+Pas lui.
+
+1328
+01:46:59,913 --> 01:47:05,335
+Certains n'ont pas besoin de branchies
+pour extraire l'oxygène dans l'eau,
+
+1329
+01:47:05,502 --> 01:47:07,045
+comme les méduses.
+
+1330
+01:47:07,212 --> 01:47:11,007
+Il absorbe l'oxygène par sa peau.
+
+1331
+01:47:12,426 --> 01:47:14,636
+- On appelle ça la diffusion.
+- La diffusion.
+
+1332
+01:47:38,952 --> 01:47:41,746
+Chaque jour qui passe
+sans qu'on choisisse notre chef
+
+1333
+01:47:41,913 --> 01:47:43,290
+est un jour perdu.
+
+1334
+01:47:43,457 --> 01:47:46,877
+Nous devons en finir avec Namor
+avant qu'il ne ramène son armée ici.
+
+1335
+01:47:47,043 --> 01:47:49,713
+Et comment en finir avec un homme
+qui a autant de pouvoir ?
+
+1336
+01:47:50,589 --> 01:47:52,349
+Pendant l'attaque,
+avant d'abattre ton avion,
+
+1337
+01:47:52,466 --> 01:47:53,717
+il a fallu qu'il replonge.
+
+1338
+01:47:53,884 --> 01:47:55,635
+Et si c'était ce qui le rend si fort ?
+
+1339
+01:47:55,802 --> 01:47:59,347
+Il respire l'air et filtre l'oxygène
+de l'eau sur sa peau.
+
+1340
+01:47:59,514 --> 01:48:02,767
+Si on trouvait un moyen de le déshydrater,
+il ne serait peut-être pas aussi fort.
+
+1341
+01:48:03,101 --> 01:48:04,269
+Oui, voilà.
+
+1342
+01:48:04,436 --> 01:48:05,436
+GRIOT.
+
+1343
+01:48:05,562 --> 01:48:09,274
+Il faut convertir le Faucon Royal
+en chambre de pervaporation au plus vite.
+
+1344
+01:48:09,441 --> 01:48:10,525
+Est-ce que c'est possible ?
+
+1345
+01:48:10,692 --> 01:48:11,860
+Oui.
+
+1346
+01:48:13,361 --> 01:48:15,280
+Tu vas nous aider à le piéger.
+
+1347
+01:48:16,114 --> 01:48:18,116
+Montre son poste de travail
+à Mlle Williams.
+
+1348
+01:48:18,283 --> 01:48:19,826
+Par ici.
+
+1349
+01:48:23,705 --> 01:48:26,166
+Tu avais quel âge quand tu as construit
+ta première machine ?
+
+1350
+01:48:26,333 --> 01:48:27,417
+Trois ans.
+
+1351
+01:48:27,584 --> 01:48:31,046
+Mon beau-père était mécanicien automobile.
+Il voulait construire des avions.
+
+1352
+01:48:31,213 --> 01:48:33,673
+Il m'a offert des outils
+et il m'a laissé carte blanche.
+
+1353
+01:48:37,594 --> 01:48:39,888
+Qui t'a appris
+à faire tout ce que tu fais ?
+
+1354
+01:48:40,222 --> 01:48:41,473
+Mon grand frère.
+
+1355
+01:48:44,518 --> 01:48:47,854
+J'étais le fer de lance
+de l'armée du Wakanda.
+
+1356
+01:48:48,021 --> 01:48:50,440
+Ce n'est pas pour moi.
+
+1357
+01:48:50,941 --> 01:48:53,109
+De toute façon,
+je suis une civile, maintenant.
+
+1358
+01:48:54,194 --> 01:48:55,570
+J'ai rendu mon arme.
+
+1359
+01:48:56,196 --> 01:48:57,864
+Je t'ai fait faire une nouvelle lance.
+
+1360
+01:48:59,741 --> 01:49:00,742
+Une nouvelle ?
+
+1361
+01:49:00,909 --> 01:49:01,952
+Oui.
+
+1362
+01:49:03,286 --> 01:49:05,664
+Et vous l'appelez comment, cet engin ?
+
+1363
+01:49:05,830 --> 01:49:07,290
+Le Midnight Angel.
+
+1364
+01:49:07,457 --> 01:49:08,833
+Midnight Angel.
+
+1365
+01:49:09,000 --> 01:49:10,752
+{\an8}Écoute-moi.
+
+1366
+01:49:11,836 --> 01:49:14,047
+Ça va nous mettre à égalité contre eux.
+
+1367
+01:49:14,214 --> 01:49:16,675
+Ma sœur, je veux que tu sois prête
+quand je ferai appel à toi.
+
+1368
+01:49:18,510 --> 01:49:19,719
+Je t'en prie.
+
+1369
+01:49:24,307 --> 01:49:25,517
+Shuri.
+
+1370
+01:49:26,184 --> 01:49:27,352
+Oui.
+
+1371
+01:49:28,979 --> 01:49:30,564
+Combien en avez-vous fabriqué ?
+
+1372
+01:49:32,691 --> 01:49:34,651
+Je t'ai cherchée à l'avant-poste Jabari.
+
+1373
+01:49:34,818 --> 01:49:36,498
+Personne ne m'obligera
+à quitter ma maison.
+
+1374
+01:49:36,653 --> 01:49:39,197
+Tu as vraiment l'esprit d'une rebelle.
+
+1375
+01:49:39,364 --> 01:49:40,740
+Pourquoi t'es-tu jointe aux Dora ?
+
+1376
+01:49:41,783 --> 01:49:42,951
+Ça ne te regarde pas.
+
+1377
+01:49:50,208 --> 01:49:52,711
+Je reste comme autrefois
+disposée au combat.
+
+1378
+01:49:53,211 --> 01:49:56,339
+Dis-moi, Aneka, fille de Kyana,
+
+1379
+01:49:57,007 --> 01:49:59,217
+es-tu aussi disposée au combat ?
+
+1380
+01:49:59,384 --> 01:50:01,803
+Qu'est-ce que tu as en tête ?
+
+1381
+01:50:26,453 --> 01:50:27,454
+GRIOT,
+
+1382
+01:50:28,997 --> 01:50:30,457
+quel est le taux de fiabilité ?
+
+1383
+01:50:31,082 --> 01:50:33,376
+Il est de 98,7 %, princesse.
+
+1384
+01:50:33,752 --> 01:50:37,422
+Voulez-vous que j'imprime l'herbe-cœur ?
+
+1385
+01:50:40,467 --> 01:50:42,969
+{\an8}Bonjour, Shuri.
+
+1386
+01:50:43,720 --> 01:50:46,014
+Je te croyais repartie pour Haïti.
+
+1387
+01:50:47,140 --> 01:50:48,683
+Je suis toujours Wakandaise.
+
+1388
+01:50:52,729 --> 01:50:53,730
+Alors...
+
+1389
+01:50:55,023 --> 01:50:57,984
+Voilà ce que tu mijotes.
+
+1390
+01:50:58,777 --> 01:50:59,944
+Oui.
+
+1391
+01:51:00,111 --> 01:51:02,030
+Ce que tu as maintenant,
+
+1392
+01:51:03,281 --> 01:51:07,494
+c'est une chance de restaurer
+le protecteur du Wakanda.
+
+1393
+01:51:08,745 --> 01:51:12,999
+Ce serait le plus beau des cadeaux,
+
+1394
+01:51:13,458 --> 01:51:15,794
+depuis que Bashenga nous a été révélé.
+
+1395
+01:51:20,924 --> 01:51:23,176
+Nous le saurons bientôt. Viens.
+
+1396
+01:51:26,304 --> 01:51:27,764
+- GRIOT ?
+- Oui, princesse.
+
+1397
+01:51:27,931 --> 01:51:28,932
+Imprime-la.
+
+1398
+01:51:33,103 --> 01:51:34,813
+Comment saurons-nous si ça fonctionne ?
+
+1399
+01:51:35,605 --> 01:51:36,856
+Elle brillera.
+
+1400
+01:51:45,990 --> 01:51:47,158
+{\an8}Tu as réussi !
+
+1401
+01:51:51,996 --> 01:51:54,374
+Est-ce qu'on devrait brûler de l'encens ?
+
+1402
+01:51:54,999 --> 01:51:58,169
+Seul Bast sait comment
+les ancêtres arriveront dans ce labo.
+
+1403
+01:52:08,513 --> 01:52:10,393
+Tu es sûre que tu ne veux pas
+que je t'enterre ?
+
+1404
+01:52:10,515 --> 01:52:11,516
+J'en suis sûre.
+
+1405
+01:52:12,100 --> 01:52:14,144
+Tu dois avoir accès à ma poitrine
+
+1406
+01:52:14,310 --> 01:52:16,354
+au cas où je ferais un arrêt cardiaque.
+
+1407
+01:52:16,938 --> 01:52:18,481
+Un arrêt cardiaque ?
+
+1408
+01:52:19,566 --> 01:52:20,608
+Elle plaisante,
+
+1409
+01:52:21,151 --> 01:52:22,402
+pas vrai ?
+
+1410
+01:52:24,404 --> 01:52:25,405
+Pas vrai ?
+
+1411
+01:52:30,368 --> 01:52:34,205
+Fais en sorte que cette herbe-cœur
+
+1412
+01:52:34,581 --> 01:52:37,625
+te confère la force de Black Panther
+
+1413
+01:52:38,042 --> 01:52:40,462
+et te mène jusqu'au plan ancestral.
+
+1414
+01:52:42,964 --> 01:52:44,340
+{\an8}Ramonda...
+
+1415
+01:52:44,716 --> 01:52:49,721
+{\an8}nous t'en supplions,
+viens vers ta fille.
+
+1416
+01:53:59,749 --> 01:54:00,750
+Mère ?
+
+1417
+01:54:14,097 --> 01:54:15,348
+N'Jadaka.
+
+1418
+01:54:15,932 --> 01:54:17,100
+Petite cousine.
+
+1419
+01:54:17,475 --> 01:54:18,476
+Comment ?
+
+1420
+01:54:18,685 --> 01:54:21,396
+Le comment n'est jamais aussi important
+que le pourquoi, pas vrai ?
+
+1421
+01:54:23,189 --> 01:54:24,440
+Tu m'as choisi.
+
+1422
+01:54:24,607 --> 01:54:27,485
+Impossible. Je ne te choisirais jamais.
+
+1423
+01:54:27,652 --> 01:54:29,320
+Pourquoi as-tu pris l'herbe ?
+
+1424
+01:54:30,321 --> 01:54:31,321
+Pour voir ma famille.
+
+1425
+01:54:31,364 --> 01:54:32,364
+Non, c'est des foutaises.
+
+1426
+01:54:33,241 --> 01:54:36,244
+Tu ne pensais pas que le plan ancestral
+était réel, n'est-ce pas ?
+
+1427
+01:54:39,372 --> 01:54:40,373
+Non.
+
+1428
+01:54:41,124 --> 01:54:42,375
+Pourquoi l'as-tu prise, alors ?
+
+1429
+01:54:44,085 --> 01:54:45,461
+Pas besoin de me mentir.
+
+1430
+01:54:46,296 --> 01:54:47,797
+Pour devenir forte.
+
+1431
+01:54:48,172 --> 01:54:49,674
+Forte dans quel but ?
+
+1432
+01:54:52,552 --> 01:54:53,553
+Tu vois ?
+
+1433
+01:54:55,096 --> 01:54:57,056
+On se ressemble plus que tu le penses.
+
+1434
+01:54:58,975 --> 01:55:00,935
+Je l'ai prise pour venger
+mes ancêtres, moi aussi.
+
+1435
+01:55:01,102 --> 01:55:02,270
+Je ne suis pas comme toi.
+
+1436
+01:55:03,730 --> 01:55:05,481
+Tu l'as prise pour toi-même,
+
+1437
+01:55:05,648 --> 01:55:07,191
+avant de détruire le reste.
+
+1438
+01:55:08,693 --> 01:55:09,903
+Un roi indigne
+
+1439
+01:55:10,737 --> 01:55:12,238
+qui avait peur d'être remplacé.
+
+1440
+01:55:13,323 --> 01:55:14,324
+Un lâche ignoble.
+
+1441
+01:55:14,490 --> 01:55:15,491
+Non.
+
+1442
+01:55:15,658 --> 01:55:18,378
+J'ai eu le courage de faire
+ce qu'il fallait pour changer le Wakanda.
+
+1443
+01:55:19,662 --> 01:55:21,223
+Le Wakanda protégeait
+combien de personnes
+
+1444
+01:55:21,247 --> 01:55:23,625
+comme ta scientifique
+avant que j'occupe le trône ?
+
+1445
+01:55:24,667 --> 01:55:25,668
+Les lâches.
+
+1446
+01:55:25,835 --> 01:55:28,922
+Ce sont les Black Panthers
+qui étaient là avant moi
+
+1447
+01:55:29,088 --> 01:55:30,089
+et avant T'Challa.
+
+1448
+01:55:30,256 --> 01:55:32,091
+Ne mentionne pas mon frère.
+
+1449
+01:55:32,425 --> 01:55:34,093
+C'est à cause de toi qu'il est mort.
+
+1450
+01:55:34,594 --> 01:55:37,847
+Tu as brûlé l'herbe,
+nous laissant sans protecteur.
+
+1451
+01:55:38,014 --> 01:55:40,266
+Puis Namor a frappé et a tué ma mère.
+
+1452
+01:55:40,433 --> 01:55:42,268
+Tu portes leur sang sur tes mains.
+
+1453
+01:55:43,436 --> 01:55:44,771
+Rien à voir avec moi.
+
+1454
+01:55:45,313 --> 01:55:46,689
+Et ne t'avise pas
+
+1455
+01:55:46,856 --> 01:55:48,691
+de déprécier ta mère.
+
+1456
+01:55:48,858 --> 01:55:52,362
+Elle a sacrifié sa vie pour protéger
+une fillette de la tribu perdue.
+
+1457
+01:55:53,738 --> 01:55:56,407
+Ton père n'était qu'un hypocrite.
+
+1458
+01:55:57,909 --> 01:55:59,661
+Il aurait tué cette fillette.
+
+1459
+01:56:00,370 --> 01:56:02,288
+Comme il a tué son propre frère.
+
+1460
+01:56:03,873 --> 01:56:06,542
+T'Challa était trop noble.
+
+1461
+01:56:08,711 --> 01:56:11,047
+Il a épargné l'homme
+qui avait tué ton père.
+
+1462
+01:56:13,174 --> 01:56:14,842
+Voilà où tu en es.
+
+1463
+01:56:20,515 --> 01:56:22,642
+Tu veux être aussi noble que ton frère
+
+1464
+01:56:22,809 --> 01:56:24,894
+ou prendre les choses en main
+
+1465
+01:56:25,603 --> 01:56:26,729
+comme moi ?
+
+1466
+01:56:29,565 --> 01:56:30,566
+Est-ce que ça va ?
+
+1467
+01:56:32,735 --> 01:56:33,903
+{\an8}Ça va ?
+
+1468
+01:56:36,447 --> 01:56:37,532
+Qui as-tu vu ?
+
+1469
+01:56:43,037 --> 01:56:44,038
+Personne.
+
+1470
+01:56:47,333 --> 01:56:48,333
+{\an8}Comment ça ?
+
+1471
+01:56:48,918 --> 01:56:50,336
+J'ai échoué.
+
+1472
+01:56:50,503 --> 01:56:51,504
+Ça n'a pas fonctionné.
+
+1473
+01:56:51,671 --> 01:56:52,671
+Shuri.
+
+1474
+01:56:55,758 --> 01:56:56,758
+Ils m'ont abandonnée.
+
+1475
+01:56:56,884 --> 01:56:58,052
+Ils ne feraient jamais ça.
+
+1476
+01:56:58,219 --> 01:56:59,863
+J'ai fait
+tout ce que j'étais censée faire.
+
+1477
+01:56:59,887 --> 01:57:01,180
+J'ai recréé l'herbe.
+
+1478
+01:57:01,347 --> 01:57:03,808
+- D'accord.
+- J'ai fait ton stupide rituel pour rien.
+
+1479
+01:57:03,975 --> 01:57:05,577
+- Du calme.
+- Pourquoi ne sont-ils pas venus ?
+
+1480
+01:57:05,601 --> 01:57:06,728
+Calme-toi.
+
+1481
+01:57:13,818 --> 01:57:15,111
+Merde.
+
+1482
+01:57:19,449 --> 01:57:20,783
+Je peux en avoir aussi ?
+
+1483
+01:57:28,207 --> 01:57:29,250
+Je pense
+
+1484
+01:57:30,793 --> 01:57:32,253
+qu'il va te falloir un costume.
+
+1485
+01:58:03,868 --> 01:58:05,787
+De plus en plus de gens
+arrivent de la ville.
+
+1486
+01:58:05,953 --> 01:58:07,580
+Ils ont besoin d'espace.
+
+1487
+01:58:07,747 --> 01:58:08,748
+Et alors ?
+
+1488
+01:58:09,624 --> 01:58:11,876
+Vous êtes des visiteurs.
+
+1489
+01:58:12,043 --> 01:58:15,379
+D'ailleurs, ça m'étonne qu'on arrive
+à faire quoi que ce soit avec vous.
+
+1490
+01:58:41,030 --> 01:58:42,698
+La princesse !
+
+1491
+01:59:16,232 --> 01:59:17,525
+Elle a réussi !
+
+1492
+01:59:18,234 --> 01:59:21,279
+Longue vie à Black Panther !
+
+1493
+01:59:39,088 --> 01:59:41,507
+Namor pense
+que le Wakanda est à genoux.
+
+1494
+01:59:43,968 --> 01:59:45,428
+Notre reine assassinée.
+
+1495
+01:59:47,930 --> 01:59:49,473
+Notre capitale détruite.
+
+1496
+01:59:51,142 --> 01:59:52,977
+Il croit
+que nous n'avons plus de protecteur.
+
+1497
+01:59:54,979 --> 01:59:55,980
+Mais maintenant...
+
+1498
+01:59:57,773 --> 01:59:59,775
+L'heure est venue de passer à l'attaque.
+
+1499
+01:59:59,942 --> 02:00:03,529
+Comment, alors qu'on ne sait même pas
+où le trouver ?
+
+1500
+02:00:04,113 --> 02:00:05,823
+Nous amènerons Namor à nous.
+
+1501
+02:00:05,990 --> 02:00:07,533
+- Ici, encore ?
+- Non.
+
+1502
+02:00:07,700 --> 02:00:10,036
+Dans un lieu lointain, sur l'océan.
+
+1503
+02:00:10,203 --> 02:00:11,203
+D'accord.
+
+1504
+02:00:11,704 --> 02:00:13,164
+Admettons que ça fonctionne.
+
+1505
+02:00:15,583 --> 02:00:17,210
+En supposant qu'on puisse tuer
+
+1506
+02:00:17,376 --> 02:00:20,421
+cet homme volant,
+potentiellement aussi fort que Hulk,
+
+1507
+02:00:23,174 --> 02:00:25,593
+est-ce que l'éliminer est
+la bonne solution ?
+
+1508
+02:00:26,052 --> 02:00:28,012
+Mais vous réclamiez sa tête
+
+1509
+02:00:28,179 --> 02:00:30,514
+lorsque son seul crime
+était l'intimidation.
+
+1510
+02:00:30,681 --> 02:00:32,475
+Qu'est-ce qui a changé, Seigneur M'Baku ?
+
+1511
+02:00:32,642 --> 02:00:33,851
+Ses soldats
+
+1512
+02:00:34,018 --> 02:00:35,645
+ne l'appelaient pas général ou roi.
+
+1513
+02:00:35,811 --> 02:00:38,481
+Ils l'appelaient K'uk'ulkan.
+
+1514
+02:00:38,648 --> 02:00:39,857
+Qu'est-ce que ça veut dire ?
+
+1515
+02:00:40,024 --> 02:00:42,151
+Le dieu serpent à plumes.
+
+1516
+02:00:42,735 --> 02:00:43,736
+Quoi ?
+
+1517
+02:00:43,903 --> 02:00:45,903
+Vous croyez que parce qu'on vit
+dans les montagnes,
+
+1518
+02:00:45,988 --> 02:00:47,865
+on n'a pas accès aux livres ?
+
+1519
+02:00:48,324 --> 02:00:49,617
+Chers anciens,
+
+1520
+02:00:50,034 --> 02:00:51,410
+avec votre permission,
+
+1521
+02:00:51,577 --> 02:00:55,289
+j'aimerais m'entretenir
+avec le Seigneur M'Baku en privé.
+
+1522
+02:00:56,666 --> 02:00:57,666
+{\an8}Bien.
+
+1523
+02:00:57,833 --> 02:00:58,833
+{\an8}Bien.
+
+1524
+02:01:05,424 --> 02:01:06,759
+Namor n'est pas vaincu.
+
+1525
+02:01:08,177 --> 02:01:11,264
+Il a promis
+d'anéantir le monde de la surface.
+
+1526
+02:01:11,430 --> 02:01:13,766
+Nous avons une chance de tuer cet homme.
+
+1527
+02:01:13,933 --> 02:01:16,185
+- De quoi avez-vous peur ?
+- De la guerre.
+
+1528
+02:01:16,602 --> 02:01:19,939
+Si Namor est vraiment un dieu
+pour son peuple,
+
+1529
+02:01:20,106 --> 02:01:22,733
+le tuer pourrait entraîner
+une guerre sans fin.
+
+1530
+02:01:22,900 --> 02:01:23,985
+Et alors ?
+
+1531
+02:01:24,527 --> 02:01:27,005
+La mort de ma mère ne justifie-t-elle pas
+une guerre sans fin ?
+
+1532
+02:01:27,029 --> 02:01:28,406
+Bien sûr que oui.
+
+1533
+02:01:29,407 --> 02:01:33,494
+Bien sûr.
+
+1534
+02:01:35,496 --> 02:01:38,708
+Mais ce n'est pas
+ce qu'elle aurait voulu pour vous.
+
+1535
+02:01:44,171 --> 02:01:45,881
+Et ce n'est pas ce que je veux
+
+1536
+02:01:48,509 --> 02:01:50,261
+pour mon peuple.
+
+1537
+02:02:00,604 --> 02:02:03,649
+Vous parlez de ma mère
+comme si elle était encore là.
+
+1538
+02:02:04,567 --> 02:02:06,607
+Vous pensez savoir
+ce qu'elle aurait voulu pour moi.
+
+1539
+02:02:07,653 --> 02:02:09,947
+Ses espoirs et ses rêves.
+
+1540
+02:02:13,117 --> 02:02:14,618
+Mais elle est morte.
+
+1541
+02:02:15,661 --> 02:02:16,662
+Elle est partie !
+
+1542
+02:02:18,372 --> 02:02:22,251
+Namor l'a noyée juste devant moi !
+
+1543
+02:02:23,669 --> 02:02:24,962
+Alors, ses rêves,
+
+1544
+02:02:25,129 --> 02:02:28,215
+ses idéaux, ses espoirs pour moi,
+
+1545
+02:02:31,552 --> 02:02:32,803
+tout ça n'existe plus.
+
+1546
+02:02:35,514 --> 02:02:37,058
+Ça n'a plus d'importance.
+
+1547
+02:02:39,143 --> 02:02:42,021
+Ce qui compte, c'est ce que je veux,
+
+1548
+02:02:42,188 --> 02:02:44,899
+et ce que je veux,
+c'est que Namor soit tué !
+
+1549
+02:02:48,903 --> 02:02:51,530
+Et vous allez m'aider à y arriver.
+
+1550
+02:02:58,120 --> 02:02:59,288
+{\an8}C'est clair ?
+
+1551
+02:03:06,837 --> 02:03:08,464
+Nous partons à la première heure.
+
+1552
+02:03:34,281 --> 02:03:35,282
+Bonjour.
+
+1553
+02:03:35,449 --> 02:03:36,450
+Bonjour.
+
+1554
+02:03:39,078 --> 02:03:40,287
+Si jamais on survit à ça,
+
+1555
+02:03:41,956 --> 02:03:45,167
+je veux que tu saches
+que tu es la bienvenue chez moi, à Haïti.
+
+1556
+02:03:48,003 --> 02:03:50,339
+Tiens. Prends mes mains.
+
+1557
+02:03:53,634 --> 02:03:54,635
+{\an8}Respire.
+
+1558
+02:03:59,014 --> 02:04:01,517
+Shuri, je veux
+que tu sois honnête avec moi.
+
+1559
+02:04:01,684 --> 02:04:04,728
+Qui as-tu vu quand tu as pris l'herbe ?
+
+1560
+02:04:09,900 --> 02:04:11,610
+Si tu pars au combat pour te venger,
+
+1561
+02:04:11,777 --> 02:04:14,196
+ça n'apaisera pas la douleur laissée
+par sa perte.
+
+1562
+02:04:14,780 --> 02:04:16,657
+Elle ne fera que croître
+
+1563
+02:04:16,824 --> 02:04:18,284
+et te consumera totalement.
+
+1564
+02:04:20,536 --> 02:04:21,912
+C'est déjà le cas.
+
+1565
+02:04:27,293 --> 02:04:34,049
+{\an8}K'uk'ulkan, un autre détecteur de
+vibranium a été activé sous l'océan.
+
+1566
+02:04:35,050 --> 02:04:36,135
+{\an8}Où ?
+
+1567
+02:04:37,678 --> 02:04:40,848
+{\an8}OCÉAN ATLANTIQUE
+
+1568
+02:05:05,456 --> 02:05:06,624
+{\an8}Sortez de l'eau !
+
+1569
+02:05:51,293 --> 02:05:52,586
+Pour la reine.
+
+1570
+02:07:06,660 --> 02:07:08,412
+Riri, comment ça se passe là-haut ?
+
+1571
+02:07:08,912 --> 02:07:10,080
+M. GRIOT.
+
+1572
+02:07:10,247 --> 02:07:11,850
+J'ai vraiment besoin de renforts
+au plus vite.
+
+1573
+02:07:11,874 --> 02:07:13,834
+Vous le demandez enfin.
+
+1574
+02:07:19,632 --> 02:07:20,633
+Merde.
+
+1575
+02:07:25,095 --> 02:07:26,472
+Il est rapide.
+
+1576
+02:07:27,139 --> 02:07:28,349
+Mais je le suis encore plus.
+
+1577
+02:07:48,327 --> 02:07:49,370
+Je te tiens !
+
+1578
+02:07:55,709 --> 02:07:57,044
+C'est à vous maintenant, Shuri.
+
+1579
+02:08:06,220 --> 02:08:07,930
+- Princesse.
+- Non.
+
+1580
+02:08:08,097 --> 02:08:11,600
+Je suis Black Panther
+et je suis ici pour me venger !
+
+1581
+02:08:12,267 --> 02:08:15,270
+Cellules de pervaporation activées.
+
+1582
+02:08:24,697 --> 02:08:25,698
+Qu'est-ce qui ne va pas ?
+
+1583
+02:08:26,448 --> 02:08:27,848
+Vous avez besoin d'un verre d'eau ?
+
+1584
+02:08:31,745 --> 02:08:32,746
+On a réussi.
+
+1585
+02:08:32,913 --> 02:08:34,540
+- Bien !
+- Namor a été capturé.
+
+1586
+02:08:34,915 --> 02:08:36,083
+{\an8}En retraite !
+
+1587
+02:08:40,963 --> 02:08:42,464
+On retourne au Wakanda !
+
+1588
+02:08:48,178 --> 02:08:49,179
+En avant !
+
+1589
+02:09:14,246 --> 02:09:15,414
+Qu'est-ce qui se passe ?
+
+1590
+02:09:16,248 --> 02:09:18,125
+Ils ont détruit l'émetteur sonique.
+
+1591
+02:09:40,355 --> 02:09:41,857
+Ce n'est pas bon, ça.
+
+1592
+02:10:13,972 --> 02:10:16,141
+Panther, le Léopard des Mers a perdu
+de la puissance
+
+1593
+02:10:16,308 --> 02:10:18,268
+et nous déplorons
+de nombreuses pertes humaines.
+
+1594
+02:10:19,812 --> 02:10:20,813
+Okoye.
+
+1595
+02:10:20,979 --> 02:10:22,314
+Panther.
+
+1596
+02:10:23,398 --> 02:10:24,483
+Aneka.
+
+1597
+02:10:26,026 --> 02:10:26,735
+Okoye.
+
+1598
+02:10:26,902 --> 02:10:28,153
+C'est l'heure.
+
+1599
+02:10:39,039 --> 02:10:40,082
+Pour le Wakanda !
+
+1600
+02:10:40,791 --> 02:10:42,000
+Wakanda !
+
+1601
+02:10:50,342 --> 02:10:51,969
+GRIOT, quels sont les dommages ?
+
+1602
+02:10:52,135 --> 02:10:54,429
+Catastrophiques.
+Sa lance est en pur vibranium.
+
+1603
+02:10:54,596 --> 02:10:57,015
+- Le navire risque d'exploser.
+- Emmène-nous dans le désert.
+
+1604
+02:11:15,826 --> 02:11:16,827
+Non !
+
+1605
+02:11:45,439 --> 02:11:46,982
+{\an8}Coulez le navire !
+
+1606
+02:12:14,551 --> 02:12:15,552
+Je vous couvre.
+
+1607
+02:12:15,719 --> 02:12:16,720
+Tenez bon.
+
+1608
+02:13:21,034 --> 02:13:22,369
+{\an8}Guerrier !
+
+1609
+02:13:25,831 --> 02:13:28,125
+{\an8}Tu parles la langue maternelle ?
+
+1610
+02:13:28,417 --> 02:13:30,794
+{\an8}Salue tes ancêtres avec...
+
+1611
+02:14:00,907 --> 02:14:02,117
+Lâchez-moi !
+
+1612
+02:14:14,171 --> 02:14:15,380
+Allez, approche.
+
+1613
+02:14:18,675 --> 02:14:22,054
+{\an8}Tu vas saluer tes ancêtres.
+
+1614
+02:14:45,994 --> 02:14:47,662
+Que les ancêtres nous protègent
+
+1615
+02:14:47,829 --> 02:14:49,372
+si la princesse n'y arrive pas.
+
+1616
+02:14:49,539 --> 02:14:51,249
+On va peut-être les rejoindre.
+
+1617
+02:14:52,167 --> 02:14:53,251
+Si c'est le cas,
+
+1618
+02:14:53,418 --> 02:14:55,670
+tentons d'emmener le plus possible
+d'ennemis avec nous !
+
+1619
+02:15:25,784 --> 02:15:27,202
+Ça aurait pu se passer autrement.
+
+1620
+02:15:31,790 --> 02:15:33,250
+{\an8}J'ai besoin d'eau.
+
+1621
+02:15:50,016 --> 02:15:52,144
+Tu veux être aussi noble que ton frère
+
+1622
+02:15:52,310 --> 02:15:53,687
+ou prendre les choses en main
+
+1623
+02:15:53,854 --> 02:15:54,896
+comme moi ?
+
+1624
+02:15:55,063 --> 02:15:56,606
+Je ne suis pas mon frère.
+
+1625
+02:15:58,024 --> 02:16:00,026
+Namor me suppliera de l'épargner
+
+1626
+02:16:00,694 --> 02:16:03,238
+et je le regarderai mourir avec joie.
+
+1627
+02:16:42,152 --> 02:16:44,529
+{\an8}Imperius Rex.
+
+1628
+02:16:47,199 --> 02:16:48,408
+Longue vie au Wakanda !
+
+1629
+02:18:37,058 --> 02:18:38,560
+Shuri.
+
+1630
+02:18:40,103 --> 02:18:41,104
+Maman.
+
+1631
+02:18:44,065 --> 02:18:45,358
+Montre-lui
+
+1632
+02:18:45,734 --> 02:18:47,277
+qui tu es.
+
+1633
+02:18:54,117 --> 02:18:55,118
+Soumets-toi,
+
+1634
+02:18:56,328 --> 02:18:58,663
+et le Wakanda protégera tes océans.
+
+1635
+02:18:58,830 --> 02:19:01,082
+Nous protégerons vos secrets.
+
+1636
+02:19:01,249 --> 02:19:02,250
+Soumets-toi,
+
+1637
+02:19:03,501 --> 02:19:05,211
+et ton peuple vivra.
+
+1638
+02:19:09,299 --> 02:19:11,634
+La vengeance nous a consumés.
+
+1639
+02:19:12,093 --> 02:19:14,721
+On ne peut pas la laisser
+consumer notre peuple.
+
+1640
+02:19:23,521 --> 02:19:25,273
+{\an8}Je me soumets.
+
+1641
+02:19:50,256 --> 02:19:52,425
+{\an8}Talokanile'ex !
+
+1642
+02:19:54,344 --> 02:19:55,887
+{\an8}Rentrons chez nous.
+
+1643
+02:19:56,429 --> 02:19:57,847
+{\an8}Notre combat est terminé.
+
+1644
+02:20:10,735 --> 02:20:12,612
+Longue vie au Wakanda !
+
+1645
+02:20:13,071 --> 02:20:14,656
+Longue vie au Wakanda !
+
+1646
+02:20:59,033 --> 02:21:00,535
+Merci, mon amour.
+
+1647
+02:21:24,350 --> 02:21:25,518
+Hé !
+
+1648
+02:21:30,023 --> 02:21:31,149
+Prête à rentrer chez toi ?
+
+1649
+02:21:31,316 --> 02:21:33,876
+Tant que tu es sûre que la police
+ne m'attendra pas à l'aéroport.
+
+1650
+02:21:34,027 --> 02:21:35,653
+Ne t'en fais pas. Je m'en suis occupée.
+
+1651
+02:21:35,820 --> 02:21:39,449
+Mais tu devrais ralentir un peu
+tes activités parascolaires.
+
+1652
+02:21:39,616 --> 02:21:41,910
+Si tu te refais prendre,
+je ne pourrai pas t'aider.
+
+1653
+02:21:43,203 --> 02:21:45,038
+Il paraît
+que tu as autre chose à me dire ?
+
+1654
+02:21:45,205 --> 02:21:46,206
+Oui.
+
+1655
+02:21:46,539 --> 02:21:49,751
+Ton armure. C'est un concept génial,
+
+1656
+02:21:50,293 --> 02:21:51,687
+mais je ne peux pas te laisser l'emporter.
+
+1657
+02:21:51,711 --> 02:21:52,921
+Ce n'est pas grave.
+
+1658
+02:21:53,087 --> 02:21:56,049
+Il faut bien que j'aide le Wakanda
+à nettoyer mes dégâts.
+
+1659
+02:21:57,300 --> 02:21:58,801
+J'ai encore une chose à te montrer.
+
+1660
+02:21:59,219 --> 02:22:00,220
+Viens.
+
+1661
+02:22:04,224 --> 02:22:07,310
+J'ai mis du temps à trouver
+toutes les pièces dans le fleuve,
+
+1662
+02:22:07,477 --> 02:22:08,853
+mais ça en valait la peine.
+
+1663
+02:22:09,521 --> 02:22:10,522
+Comment as-tu...
+
+1664
+02:22:11,856 --> 02:22:13,399
+C'est la voiture de mon père.
+
+1665
+02:22:14,651 --> 02:22:16,361
+On travaillait dessus avant...
+
+1666
+02:22:22,325 --> 02:22:24,202
+- Tu es sûre que c'est celle-là ?
+- Totalement.
+
+1667
+02:22:24,369 --> 02:22:25,828
+Je vais l'envoyer à Boston.
+
+1668
+02:22:25,995 --> 02:22:27,288
+Elle arrivera avant toi.
+
+1669
+02:22:32,877 --> 02:22:33,878
+Je t'adore !
+
+1670
+02:22:37,423 --> 02:22:41,719
+Panther, le véhicule
+de Mlle Williams est arrivé.
+
+1671
+02:22:42,345 --> 02:22:43,888
+Prends soin de toi.
+
+1672
+02:22:44,222 --> 02:22:46,641
+Tu es sûre que tu ne veux pas
+venir à Chicago ?
+
+1673
+02:22:46,808 --> 02:22:48,008
+Pour voir un match des Bulls ?
+
+1674
+02:22:49,143 --> 02:22:53,606
+Ce serait amusant, mais j'ai autre chose
+dont je dois m'occuper.
+
+1675
+02:23:18,339 --> 02:23:20,800
+Et maintenant, je vous présente
+
+1676
+02:23:20,967 --> 02:23:22,135
+la princesse Shuri,
+
+1677
+02:23:22,302 --> 02:23:23,595
+notre Black Panther !
+
+1678
+02:23:42,071 --> 02:23:44,907
+Votre Black Panther
+vous adresse ses salutations,
+
+1679
+02:23:45,700 --> 02:23:47,702
+mais elle ne se joindra pas
+à nous aujourd'hui.
+
+1680
+02:23:48,828 --> 02:23:50,788
+Moi, M'Baku,
+
+1681
+02:23:50,955 --> 02:23:53,499
+chef de la tribu des Jabari,
+
+1682
+02:23:53,666 --> 02:23:55,126
+fils du Wakanda,
+
+1683
+02:23:56,628 --> 02:23:58,379
+souhaite défier votre reine
+
+1684
+02:23:59,464 --> 02:24:00,840
+pour le trône.
+
+1685
+02:24:06,304 --> 02:24:07,972
+{\an8}Tu es troublée, mon enfant ?
+
+1686
+02:24:09,849 --> 02:24:16,856
+{\an8}J'ai attendu toute ma vie
+de me battre à tes côtés.
+
+1687
+02:24:17,815 --> 02:24:22,904
+{\an8}T'imaginer à genoux
+devant les Wakandais...
+
+1688
+02:24:23,279 --> 02:24:28,117
+{\an8}Black Panther
+avait toutes les raisons de me tuer.
+
+1689
+02:24:28,951 --> 02:24:32,080
+{\an8}Pourquoi penses-tu qu'elle a reculé ?
+
+1690
+02:24:33,915 --> 02:24:38,419
+{\an8}Black Panther est la personne
+la plus puissante
+
+1691
+02:24:38,795 --> 02:24:44,509
+{\an8}de la plus puissante nation
+de la surface.
+
+1692
+02:24:44,759 --> 02:24:47,762
+{\an8}Mais elle n'a pas d'alliés.
+
+1693
+02:24:48,137 --> 02:24:52,725
+{\an8}Elle a de l'empathie
+pour le peuple de Talokan.
+
+1694
+02:24:54,560 --> 02:24:56,646
+{\an8}Par cette alliance...
+
+1695
+02:24:57,355 --> 02:25:04,362
+{\an8}Talokan sera plus fort que jamais.
+
+1696
+02:25:04,821 --> 02:25:08,700
+{\an8}Le monde de la surface
+s'en prendra au Wakanda,
+
+1697
+02:25:09,534 --> 02:25:12,412
+{\an8}et le Wakanda se tournera vers nous.
+
+1698
+02:25:14,080 --> 02:25:15,707
+{\an8}Crois-moi.
+
+1699
+02:25:32,432 --> 02:25:33,683
+C'est quoi, ça ?
+
+1700
+02:25:33,850 --> 02:25:35,059
+On peut faire demi-tour ?
+
+1701
+02:25:36,686 --> 02:25:38,646
+Je ne sais pas. On va perdre une heure.
+
+1702
+02:25:40,064 --> 02:25:41,482
+Va donc voir.
+
+1703
+02:25:41,649 --> 02:25:42,859
+D'accord.
+
+1704
+02:25:45,653 --> 02:25:46,946
+Ici Shauver.
+
+1705
+02:25:47,363 --> 02:25:49,365
+Il y a un arbre qui bloque la route.
+
+1706
+02:25:49,532 --> 02:25:51,284
+Que voulez-vous qu'on fasse ?
+
+1707
+02:25:51,784 --> 02:25:52,785
+Qu'est-ce que...
+
+1708
+02:26:04,797 --> 02:26:07,133
+Un colonisateur enchaîné.
+
+1709
+02:26:07,800 --> 02:26:09,886
+J'aurai tout vu.
+
+1710
+02:26:10,052 --> 02:26:11,053
+Très drôle.
+
+1711
+02:26:12,054 --> 02:26:13,054
+{\an8}En route.
+
+1712
+02:26:41,000 --> 02:26:42,000
+{\an8}Bienvenue.
+
+1713
+02:26:46,714 --> 02:26:47,715
+Salut.
+
+1714
+02:26:49,050 --> 02:26:50,593
+{\an8}Bienvenue !
+
+1715
+02:26:52,386 --> 02:26:53,805
+Je suis contente de te voir.
+
+1716
+02:26:54,555 --> 02:26:55,765
+Tout est prêt.
+
+1717
+02:26:55,932 --> 02:26:57,308
+Donne-moi un instant.
+
+1718
+02:26:57,475 --> 02:26:58,810
+En fait,
+
+1719
+02:26:58,976 --> 02:27:00,853
+je pense que je devrais le faire seule.
+
+1720
+02:27:02,063 --> 02:27:03,439
+Bien sûr.
+
+1721
+02:28:59,513 --> 02:29:02,475
+Réalisé par
+
+1722
+02:29:03,100 --> 02:29:07,063
+Scénario Histoire originale
+
+1723
+02:29:07,688 --> 02:29:11,233
+Produit par
+
+1724
+02:29:11,776 --> 02:29:14,779
+Producteur délégué
+
+1725
+02:29:15,363 --> 02:29:18,157
+Productrice déléguée
+
+1726
+02:29:18,950 --> 02:29:21,953
+Producteur délégué
+
+1727
+02:29:22,453 --> 02:29:25,289
+Co-producteur
+
+1728
+02:29:26,040 --> 02:29:28,960
+Productrice associée
+
+1729
+02:29:29,627 --> 02:29:32,505
+Directrice de la photographie
+
+1730
+02:29:33,214 --> 02:29:36,092
+Cheffe décoratrice
+
+1731
+02:29:36,801 --> 02:29:40,721
+Montage
+
+1732
+02:29:41,389 --> 02:29:44,850
+D'APRÈS LES COMICS MARVEL
+
+1733
+02:29:45,476 --> 02:29:48,479
+Cheffe costumière
+
+1734
+02:29:49,021 --> 02:29:51,899
+Superviseur des effets visuels
+
+1735
+02:29:52,483 --> 02:29:55,403
+Productrice des effets visuels
+
+1736
+02:29:56,028 --> 02:29:59,281
+Musique
+
+1737
+02:29:59,573 --> 02:30:02,827
+"Lift Me Up" interprété par
+
+1738
+02:30:03,119 --> 02:30:06,414
+Superviseur de la musique
+
+1739
+02:30:06,664 --> 02:30:09,917
+Partie Vocale
+
+1740
+02:30:10,209 --> 02:30:13,504
+Casting
+
+1741
+02:30:51,625 --> 02:30:54,879
+Pour la première fois à l'écran
+
+1742
+02:30:55,212 --> 02:30:58,466
+avec
+
+1743
+02:30:58,799 --> 02:31:02,053
+avec
+
+1744
+02:31:02,386 --> 02:31:05,639
+et
+
+1745
+02:31:08,768 --> 02:31:12,021
+MARVEL STUDIOS PRÉSENTE
+
+1746
+02:31:16,734 --> 02:31:23,741
+BLACK PANTHER :
+LONGUE VIE AU WAKANDA
+
+1747
+02:31:38,464 --> 02:31:39,465
+Shuri,
+
+1748
+02:31:40,800 --> 02:31:42,510
+on peut venir maintenant ?
+
+1749
+02:31:45,596 --> 02:31:48,641
+Voici mon fils, Toussaint.
+
+1750
+02:31:49,809 --> 02:31:50,810
+Toussaint,
+
+1751
+02:31:51,477 --> 02:31:54,605
+voici ta tante, Shuri.
+
+1752
+02:31:56,023 --> 02:31:57,024
+Salut.
+
+1753
+02:32:17,962 --> 02:32:20,631
+On a décidé qu'il valait mieux
+pour lui de grandir ici.
+
+1754
+02:32:20,798 --> 02:32:23,884
+Loin de la pression du trône.
+
+1755
+02:32:25,261 --> 02:32:26,470
+Ton père,
+
+1756
+02:32:27,096 --> 02:32:28,848
+ton baba,
+
+1757
+02:32:29,014 --> 02:32:31,684
+nous a préparés à sa mort prochaine,
+n'est-ce pas ?
+
+1758
+02:32:36,355 --> 02:32:38,399
+Mais il ne voulait pas
+qu'on aille à ses funérailles
+
+1759
+02:32:39,233 --> 02:32:42,153
+parce qu'il pensait
+qu'il était encore trop tôt.
+
+1760
+02:32:42,862 --> 02:32:45,656
+Alors, nous avons organisé
+une cérémonie privée ici.
+
+1761
+02:32:47,408 --> 02:32:49,034
+Ma mère a-t-elle vu son petit-fils ?
+
+1762
+02:32:49,201 --> 02:32:50,201
+Oui.
+
+1763
+02:32:59,670 --> 02:33:00,856
+Je suis contente de te rencontrer.
+
+1764
+02:33:00,880 --> 02:33:02,173
+Moi aussi.
+
+1765
+02:33:02,339 --> 02:33:03,883
+Toussaint est un très beau prénom.
+
+1766
+02:33:04,383 --> 02:33:06,510
+Et il a une longue histoire.
+
+1767
+02:33:06,677 --> 02:33:09,972
+Merci. Le tien aussi est génial.
+
+1768
+02:33:13,267 --> 02:33:15,394
+Ma mère dit
+que tu sais garder des secrets.
+
+1769
+02:33:15,561 --> 02:33:16,561
+C'est vrai ?
+
+1770
+02:33:17,771 --> 02:33:20,566
+Oui, je ne révèle jamais un secret.
+
+1771
+02:33:23,569 --> 02:33:25,863
+Toussaint est mon nom haïtien.
+
+1772
+02:33:28,824 --> 02:33:29,992
+{\an8}Qui es-tu ?
+
+1773
+02:33:30,910 --> 02:33:35,122
+Je m'appelle prince T'Challa,
+fils du roi T'Challa.
+
+1774
+02:33:57,561 --> 02:34:01,023
+En mémoire de notre ami
+
+1775
+02:40:59,650 --> 02:41:01,652
+Sous-titres : Marieve Guerin
+
+1776
+02:41:05,238 --> 02:41:08,492
+BLACK PANTHER REVIENDRA

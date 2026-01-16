@@ -1,0 +1,5244 @@
+1
+00:00:40,567 --> 00:00:43,025
+Présente
+
+2
+00:00:44,817 --> 00:00:47,483
+Une production de
+
+3
+00:00:49,317 --> 00:00:51,900
+Un film de
+
+4
+00:01:36,608 --> 00:01:39,233
+MU/TH/UR 9001 SE RÉVEILLE...
+
+5
+00:01:41,817 --> 00:01:43,567
+9 FÉV. 2142
+SYSTÈME ZETA2 RETICULI
+
+6
+00:01:43,817 --> 00:01:45,983
+CIBLE REPÉRÉE
+
+7
+00:02:14,983 --> 00:02:18,150
+00:41:44
+À INTERCEPTER
+
+8
+00:02:48,442 --> 00:02:49,483
+CIBLE EN VUE
+
+9
+00:02:49,733 --> 00:02:50,983
+PROTOCOLE DE RETOUR INITIÉ
+
+10
+00:03:03,983 --> 00:03:06,608
+Casting
+
+11
+00:03:08,900 --> 00:03:11,525
+Chef costumier
+
+12
+00:03:13,275 --> 00:03:15,900
+Superviseur des effets visuels
+
+13
+00:03:18,150 --> 00:03:20,775
+Musique
+
+14
+00:03:23,983 --> 00:03:26,608
+Monteur
+
+15
+00:03:28,233 --> 00:03:30,858
+Chef décorateur
+
+16
+00:03:32,108 --> 00:03:34,733
+Directeur de la photographie
+
+17
+00:03:54,567 --> 00:03:57,192
+Producteurs délégués
+
+18
+00:03:59,067 --> 00:04:01,692
+Producteurs délégués
+
+19
+00:04:03,608 --> 00:04:06,233
+Produit par
+
+20
+00:04:10,608 --> 00:04:13,233
+D'après les personnages créés par
+et
+
+21
+00:04:18,150 --> 00:04:20,775
+Écrit par
+
+22
+00:04:26,108 --> 00:04:28,733
+Réalisé par
+
+23
+00:05:18,817 --> 00:05:22,108
+<i>Attention à tous les employés.</i>
+
+24
+00:05:22,275 --> 00:05:25,400
+<i>Début du quart de jour
+dans H moins 15 minutes.</i>
+
+25
+00:05:25,567 --> 00:05:28,192
+<i>Tous les ouvriers doivent
+se rendre immédiatement au réfectoire.</i>
+
+26
+00:05:29,108 --> 00:05:32,358
+<i>Si vous ressentez des symptômes,
+comme de la fièvre, de la toux,</i>
+
+27
+00:05:32,525 --> 00:05:34,442
+<i>des vomissements
+ou des difficultés à respirer,</i>
+
+28
+00:05:34,608 --> 00:05:37,025
+<i>rendez-vous à la salle médicale
+pour être examiné.</i>
+
+29
+00:05:38,608 --> 00:05:43,567
+<i>La sécurité de notre colonie est
+la priorité absolue de Weyland-Yutani.</i>
+
+30
+00:05:44,400 --> 00:05:46,108
+<i>À tous les employés...</i>
+
+31
+00:05:46,275 --> 00:05:49,150
+<i>Tu sais comment on reconnaît
+un astronaute claustrophobe ?</i>
+
+32
+00:05:49,733 --> 00:05:50,733
+<i>Il a besoin d'espace.</i>
+
+33
+00:05:50,900 --> 00:05:52,608
+Je t'en supplie, arrête.
+
+34
+00:05:52,775 --> 00:05:56,317
+En parlant d'arête, tu sais
+quel est le poisson le moins cher ?
+
+35
+00:05:56,775 --> 00:05:58,153
+Requin-marteau.
+Il vaut pas un clou.
+
+36
+00:05:58,233 --> 00:05:59,275
+Donne-moi ton pain.
+
+37
+00:06:02,067 --> 00:06:04,442
+Je fais un régime sans sel,
+et ce n'est pas facile du tout.
+
+38
+00:06:04,983 --> 00:06:06,817
+Surtout quand je veux faire du vélo.
+
+39
+00:06:08,233 --> 00:06:09,650
+C'est vraiment nul.
+
+40
+00:06:09,817 --> 00:06:11,233
+Avant, tu la trouvais drôle.
+
+41
+00:06:11,400 --> 00:06:12,858
+Quand j'avais 12 ans.
+
+42
+00:06:17,567 --> 00:06:19,192
+C'est sûrement M. Finch.
+
+43
+00:06:20,192 --> 00:06:21,817
+On lui doit trois mois de loyer.
+
+44
+00:06:23,150 --> 00:06:24,525
+Il rappellera.
+
+45
+00:06:26,025 --> 00:06:29,692
+On ne sera peut-être pas là
+quand il le fera.
+
+46
+00:06:36,775 --> 00:06:38,692
+Andy. Reste près de moi.
+
+47
+00:06:41,650 --> 00:06:44,067
+<i>Ouvrez les yeux. Réveillez-vous !</i>
+
+48
+00:06:44,817 --> 00:06:47,192
+<i>On est tous des esclaves
+de Weyland-Yutani.</i>
+
+49
+00:06:47,358 --> 00:06:50,318
+<i>La compagnie nous fournit nourriture
+et abri, et prend nos vies en échange.</i>
+
+50
+00:06:50,400 --> 00:06:51,903
+COLONIE MINIÈRE JACKSON
+POPULATION : 2 781
+
+51
+00:06:51,983 --> 00:06:53,612
+DE LA TERRE : 65 A-L
+HEURES LUMIÈRE PAR AN : 0
+
+52
+00:06:53,692 --> 00:06:55,108
+<i>Ne croyez pas leurs mensonges.</i>
+
+53
+00:06:55,733 --> 00:06:57,233
+<i>Vous leur appartenez !</i>
+
+54
+00:06:58,025 --> 00:06:59,567
+Andy, Andy. Hé !
+
+55
+00:06:59,733 --> 00:07:01,067
+Andy, viens. Allez.
+
+56
+00:07:02,942 --> 00:07:04,942
+- Qu'ai-je fait ?
+- C'est une arnaque.
+
+57
+00:07:05,108 --> 00:07:06,778
+La balle n'est jamais
+sous le gobelet choisi.
+
+58
+00:07:06,858 --> 00:07:07,692
+C'est un piège.
+
+59
+00:07:07,858 --> 00:07:10,233
+Mais j'ai besoin d'argent.
+
+60
+00:07:10,608 --> 00:07:11,608
+Pour quoi faire ?
+
+61
+00:07:11,775 --> 00:07:15,567
+Pour payer le cheval
+quand on sera sur Yvaga.
+
+62
+00:07:15,733 --> 00:07:17,483
+Tu vas t'acheter un cheval ?
+
+63
+00:07:17,650 --> 00:07:20,150
+Je veux l'appeler Raindy.
+
+64
+00:07:21,358 --> 00:07:22,942
+Tu comprends ?
+
+65
+00:07:23,775 --> 00:07:27,067
+- Raindy.
+- Non, j'aime ça. C'est bien.
+
+66
+00:07:28,442 --> 00:07:31,233
+Attends-moi ici.
+
+67
+00:07:31,400 --> 00:07:32,608
+J'en ai pour une minute.
+
+68
+00:07:32,775 --> 00:07:34,095
+BUREAU DES AFFAIRES DE LA COLONIE
+
+69
+00:07:34,233 --> 00:07:35,733
+Évite les ennuis, d'accord ?
+
+70
+00:07:35,900 --> 00:07:38,692
+<i>Tous les employés seront reçus.</i>
+
+71
+00:07:38,858 --> 00:07:40,025
+Bonne chance.
+
+72
+00:07:40,192 --> 00:07:42,400
+<i>Veuillez faire la file dans le calme.</i>
+
+73
+00:07:42,567 --> 00:07:43,858
+<i>Suivant.</i>
+
+74
+00:07:44,025 --> 00:07:45,817
+<i>Nom et profession, s'il vous plaît.</i>
+
+75
+00:07:45,983 --> 00:07:49,233
+<i>Marie Raines Carradine,
+madame. Ouvrière.</i>
+
+76
+00:07:49,400 --> 00:07:50,720
+C'est pour mes papiers de voyage.
+
+77
+00:07:51,358 --> 00:07:52,358
+TRANSFERT ADMISSIBLE
+
+78
+00:07:52,525 --> 00:07:54,405
+<i>J'ai atteint mon quota.
+Je suis libre de partir.</i>
+
+79
+00:07:54,692 --> 00:07:55,733
+N'est-ce pas ?
+
+80
+00:07:55,900 --> 00:07:57,108
+Pour aller où ?
+
+81
+00:07:57,275 --> 00:07:58,442
+<i>À Yvaga.</i>
+
+82
+00:07:59,067 --> 00:08:02,067
+<i>C'est un système indépendant,
+mais il est déjà terraformé.</i>
+
+83
+00:08:03,233 --> 00:08:05,150
+<i>On peut voir le soleil là-bas.</i>
+
+84
+00:08:05,317 --> 00:08:06,692
+<i>Où sont vos parents ?</i>
+
+85
+00:08:08,275 --> 00:08:10,817
+<i>Ils sont morts il y a trois cycles.</i>
+
+86
+00:08:11,275 --> 00:08:13,025
+Maladie pulmonaire,
+à cause de la mine.
+
+87
+00:08:13,942 --> 00:08:15,483
+<i>Il n'y a que moi et mon frère.</i>
+
+88
+00:08:16,650 --> 00:08:19,192
+<i>Ils nous vendent de l'espoir
+pour nous maintenir en esclavage.</i>
+
+89
+00:08:19,900 --> 00:08:25,567
+<i>Ils nous vendent de l'espoir
+pour nous maintenir en esclavage.</i>
+
+90
+00:08:36,857 --> 00:08:39,732
+Désolée, mais vous ne pouvez pas
+encore résilier votre contrat.
+
+91
+00:08:39,900 --> 00:08:42,487
+En raison du manque de main d'œuvre,
+vous êtes transférée aux mines.
+
+92
+00:08:42,567 --> 00:08:43,857
+<i>Pardon ?</i>
+
+93
+00:08:44,483 --> 00:08:46,525
+<i>Non, j'ai fait les heures requises.</i>
+
+94
+00:08:46,692 --> 00:08:47,942
+J'ai le droit de partir.
+
+95
+00:08:48,067 --> 00:08:48,858
+TERMINÉ 12 032 H
+
+96
+00:08:48,859 --> 00:08:50,942
+Le quota est passé
+de 12 000 à 24 000 heures,
+
+97
+00:08:51,108 --> 00:08:53,900
+alors votre contrat prendra fin
+dans cinq ou six ans.
+
+98
+00:08:54,067 --> 00:08:56,025
+Merci et n'oubliez pas
+que la compagnie est
+
+99
+00:08:56,192 --> 00:08:57,552
+reconnaissante pour votre travail.
+
+100
+00:08:57,733 --> 00:08:59,858
+- Rain !
+- Hé !
+
+101
+00:09:00,025 --> 00:09:01,108
+Arrêtez !
+
+102
+00:09:01,275 --> 00:09:03,317
+Lâchez-le, bande d'enfoirés !
+
+103
+00:09:05,733 --> 00:09:06,817
+Je suis là.
+
+104
+00:09:07,275 --> 00:09:08,275
+Merde, tu saignes.
+
+105
+00:09:11,025 --> 00:09:12,067
+Ça va.
+
+106
+00:09:14,608 --> 00:09:15,650
+Ça va aller.
+
+107
+00:09:15,817 --> 00:09:17,150
+Je vais te redémarrer.
+
+108
+00:09:17,483 --> 00:09:18,483
+Je suis là.
+
+109
+00:09:21,108 --> 00:09:22,275
+Ça va.
+
+110
+00:09:22,442 --> 00:09:23,858
+Je n'aurais pas dû te laisser seul.
+
+111
+00:09:29,400 --> 00:09:32,900
+<i>Ils nous vendent de l'espoir
+pour nous maintenir en esclavage.</i>
+
+112
+00:09:33,067 --> 00:09:35,108
+<i>Réveillez-vous. Vous leur appartenez.</i>
+
+113
+00:09:38,400 --> 00:09:39,233
+<i>Salut, Rain.</i>
+
+114
+00:09:39,400 --> 00:09:41,153
+<i>Désolé, j'ai essayé
+de t'appeler toute la journée.</i>
+
+115
+00:09:41,233 --> 00:09:44,317
+<i>On a appris une nouvelle,
+et ça va certainement t'intéresser.</i>
+
+116
+00:09:44,483 --> 00:09:47,025
+<i>Viens aux conteneurs et amène Andy.</i>
+
+117
+00:10:17,317 --> 00:10:18,317
+Salut.
+
+118
+00:10:19,567 --> 00:10:20,442
+Oh, merde...
+
+119
+00:10:20,608 --> 00:10:22,025
+Partie terminée.
+
+120
+00:10:22,567 --> 00:10:25,108
+Ça va, Rain ? Ça fait longtemps.
+
+121
+00:10:25,483 --> 00:10:27,067
+Je t'avais dit qu'elle viendrait.
+
+122
+00:10:27,817 --> 00:10:29,025
+Tu me dois cinq dollars.
+
+123
+00:10:30,233 --> 00:10:31,358
+<i>Andy !</i>
+
+124
+00:10:34,275 --> 00:10:36,355
+Comment appelle-t-on
+un Cro-Magnon amateur de bière ?
+
+125
+00:10:36,483 --> 00:10:37,817
+Je ne sais pas.
+
+126
+00:10:39,733 --> 00:10:40,817
+Un homme des tavernes.
+
+127
+00:10:42,025 --> 00:10:43,385
+Ne l'encourage pas, s'il te plaît.
+
+128
+00:10:44,108 --> 00:10:46,025
+Très bien, rentrez.
+J'arrive dans une seconde.
+
+129
+00:10:52,067 --> 00:10:53,358
+- Kay.
+- Rain.
+
+130
+00:10:53,525 --> 00:10:54,567
+- Salut.
+- Salut !
+
+131
+00:10:54,733 --> 00:10:55,817
+Salut.
+
+132
+00:10:56,733 --> 00:10:58,525
+Tu m'as manqué.
+
+133
+00:10:58,692 --> 00:11:00,572
+Et je sais
+que mon frère est content de te voir.
+
+134
+00:11:05,233 --> 00:11:07,108
+Je suis content que tu sois là.
+
+135
+00:11:08,567 --> 00:11:10,608
+J'ai appris pour votre père.
+
+136
+00:11:10,775 --> 00:11:11,775
+Je suis désolée.
+
+137
+00:11:12,567 --> 00:11:15,817
+Entre les tempêtes de grêle
+et les nouvelles maladies...
+
+138
+00:11:15,983 --> 00:11:17,525
+Tout le monde crève.
+
+139
+00:11:17,733 --> 00:11:19,358
+Alors, on lui montre ?
+
+140
+00:11:19,858 --> 00:11:21,233
+Me montrer quoi ?
+
+141
+00:11:22,025 --> 00:11:25,983
+Bon, hier soir,
+on finit de charger un Tesotek,
+
+142
+00:11:26,150 --> 00:11:28,733
+on est à environ 300 kilomètres
+de la surface, et soudain...
+
+143
+00:11:30,608 --> 00:11:31,983
+Le remorqueur capte une balise.
+
+144
+00:11:32,150 --> 00:11:34,150
+Navarro retrace le signal,
+qui provient
+
+145
+00:11:34,317 --> 00:11:37,233
+d'un gros vaisseau de Weyland-Yutani
+hors service au-dessus de nous.
+
+146
+00:11:37,400 --> 00:11:38,275
+Hors service ?
+
+147
+00:11:38,442 --> 00:11:40,067
+Désaffecté. Abandonné.
+
+148
+00:11:40,233 --> 00:11:42,192
+Une vieille relique,
+sûrement abîmée ou obsolète.
+
+149
+00:11:42,358 --> 00:11:43,567
+Comme ce gars.
+
+150
+00:11:43,733 --> 00:11:44,733
+Bjorn.
+
+151
+00:11:46,067 --> 00:11:48,275
+Bon, dis-lui tout.
+
+152
+00:11:48,442 --> 00:11:50,025
+Pourquoi est-ce qu'on reste là
+
+153
+00:11:50,192 --> 00:11:53,525
+à attendre des permis de voyage que
+la compagnie ne nous donnera jamais ?
+
+154
+00:11:54,067 --> 00:11:56,195
+Alors qu'on a un remorqueur
+qui peut nous emmener sur Yvaga.
+
+155
+00:11:56,275 --> 00:11:59,067
+Parce qu'il faut neuf ans
+pour arriver sur Yvaga,
+
+156
+00:11:59,233 --> 00:12:01,317
+et il faut se mettre
+en cryo-sommeil pour ce voyage.
+
+157
+00:12:01,483 --> 00:12:04,153
+Il y a souvent du matériel fonctionnel
+à bord des vaisseaux abandonnés.
+
+158
+00:12:04,233 --> 00:12:07,567
+Et l'hyperlien indique qu'il reste
+encore des caissons de cryostase.
+
+159
+00:12:11,400 --> 00:12:17,192
+Vous voulez entrer dans un vaisseau
+et voler du matériel réglementé ?
+
+160
+00:12:17,358 --> 00:12:18,567
+Avant qu'un autre ne le fasse.
+
+161
+00:12:20,483 --> 00:12:21,692
+Vous avez perdu la tête.
+
+162
+00:12:21,858 --> 00:12:23,058
+- Bien sûr.
+- Non, pas du tout.
+
+163
+00:12:23,150 --> 00:12:24,445
+- C'est...
+- C'est ce que j'ai dit.
+
+164
+00:12:24,525 --> 00:12:25,733
+Tu vas nous aider ou pas ?
+
+165
+00:12:28,150 --> 00:12:29,942
+Désolée,
+mais en quoi je peux vous aider ?
+
+166
+00:12:32,108 --> 00:12:33,108
+Andy.
+
+167
+00:12:33,525 --> 00:12:35,192
+- On a besoin d'Andy.
+- Andy ?
+
+168
+00:12:35,358 --> 00:12:36,192
+Mm-hmm.
+
+169
+00:12:36,358 --> 00:12:39,108
+C'est un synthétique
+de Weyland-Yutani. Il parle le Maman.
+
+170
+00:12:39,275 --> 00:12:42,233
+Il peut accéder au terminal
+du vaisseau pour entrer et sortir.
+
+171
+00:12:42,400 --> 00:12:43,650
+C'est le seul moyen d'entrer.
+
+172
+00:12:43,817 --> 00:12:45,900
+Et si on se fait prendre ?
+
+173
+00:12:46,067 --> 00:12:48,547
+Ça va ruiner nos chances
+d'obtenir un jour un permis de voyage.
+
+174
+00:12:48,692 --> 00:12:50,233
+Bon, Rain ne vient pas.
+
+175
+00:12:51,233 --> 00:12:52,650
+Tu nous laisses prendre Andy ?
+
+176
+00:12:53,442 --> 00:12:55,817
+Pas question que mon frère aille
+où que ce soit sans moi.
+
+177
+00:12:56,567 --> 00:12:57,692
+Mais ce n'est pas ton frère.
+
+178
+00:12:57,858 --> 00:12:59,900
+- Bjorn, ferme ta gueule.
+- Mais c'est vrai !
+
+179
+00:13:00,067 --> 00:13:01,317
+C'est un vieux truc endommagé
+
+180
+00:13:01,483 --> 00:13:03,003
+que ton père a récupéré à la poubelle.
+
+181
+00:13:03,108 --> 00:13:05,025
+Un point c'est tout, Rain.
+Alors, réveille-toi.
+
+182
+00:13:06,025 --> 00:13:06,858
+On s'en va.
+
+183
+00:13:07,025 --> 00:13:08,608
+- Rain ?
+- Quoi ? Je n'ai rien dit.
+
+184
+00:13:08,775 --> 00:13:10,108
+Rain, attends.
+
+185
+00:13:10,900 --> 00:13:13,112
+Je suis désolé, je sais que mon cousin
+peut être un con parfois.
+
+186
+00:13:13,192 --> 00:13:14,858
+Mais il a raison sur une chose.
+
+187
+00:13:15,567 --> 00:13:16,567
+Tu dois te réveiller.
+
+188
+00:13:16,983 --> 00:13:19,067
+Parce que cette compagnie
+ne va rien nous donner.
+
+189
+00:13:19,233 --> 00:13:21,633
+Tu le sais aussi bien que moi.
+On doit le prendre nous-mêmes.
+
+190
+00:13:25,442 --> 00:13:26,483
+Rain, écoute...
+
+191
+00:13:27,275 --> 00:13:29,025
+Je ne veux pas finir
+comme nos parents.
+
+192
+00:13:29,775 --> 00:13:30,983
+Et toi ?
+
+193
+00:13:36,025 --> 00:13:39,525
+Il est vraiment aussi facile que ça,
+ton plan ?
+
+194
+00:13:40,525 --> 00:13:42,442
+Tu n'auras même pas
+à sortir du <i>Corbelan.</i>
+
+195
+00:13:42,858 --> 00:13:44,567
+Je peux te le promettre, d'accord ?
+
+196
+00:13:48,692 --> 00:13:50,150
+Allez. Qu'est-ce que t'en dis ?
+
+197
+00:14:14,483 --> 00:14:16,025
+Bjorn, dépêche-toi, allons-y.
+
+198
+00:14:20,192 --> 00:14:23,067
+C'est parti, je le mets en route.
+Batteries branchées.
+
+199
+00:14:25,567 --> 00:14:26,567
+Excellent.
+
+200
+00:14:28,358 --> 00:14:29,650
+Enclenche l'hydro.
+
+201
+00:14:30,817 --> 00:14:31,897
+Panneau des communications.
+
+202
+00:14:33,817 --> 00:14:34,858
+Déporteurs au sol.
+
+203
+00:14:35,025 --> 00:14:36,108
+Opérationnels.
+
+204
+00:14:37,067 --> 00:14:38,227
+Première fois dans l'espace ?
+
+205
+00:14:38,358 --> 00:14:39,358
+Oui.
+
+206
+00:14:40,650 --> 00:14:41,650
+Toi aussi ?
+
+207
+00:14:43,067 --> 00:14:44,067
+Pompe à carburant.
+
+208
+00:14:44,233 --> 00:14:46,150
+- En marche.
+- Deux puceaux de l'espace à bord.
+
+209
+00:14:46,483 --> 00:14:48,650
+Regardez une dernière fois
+par le hublot,
+
+210
+00:14:48,817 --> 00:14:51,017
+parce que si tout se passe bien,
+on ne reviendra jamais.
+
+211
+00:15:04,275 --> 00:15:05,317
+Ça va ?
+
+212
+00:15:05,483 --> 00:15:06,483
+Oui.
+
+213
+00:15:07,483 --> 00:15:08,483
+Tout va bien se passer.
+
+214
+00:15:27,900 --> 00:15:29,340
+Tu es sûr que c'est une bonne idée ?
+
+215
+00:15:29,442 --> 00:15:30,525
+Bien sûr, papa.
+
+216
+00:15:36,150 --> 00:15:37,233
+Sortie d'atmosphère.
+
+217
+00:15:56,400 --> 00:15:57,840
+C'est comme ça qu'on fait, ma poule.
+
+218
+00:16:53,983 --> 00:16:54,983
+Est-ce que c'est...
+
+219
+00:16:56,775 --> 00:16:58,025
+Oui.
+
+220
+00:16:58,192 --> 00:16:59,858
+C'est notre soleil.
+
+221
+00:17:12,025 --> 00:17:14,691
+Il paraît que les couchers de soleil
+sont incroyables sur Yvaga.
+
+222
+00:17:14,858 --> 00:17:16,275
+Je les ai vus.
+
+223
+00:17:19,191 --> 00:17:20,316
+Dans mes rêves.
+
+224
+00:17:21,275 --> 00:17:23,275
+J'ai hâte de les voir avec toi.
+
+225
+00:17:26,733 --> 00:17:27,733
+Oui.
+
+226
+00:17:30,817 --> 00:17:32,657
+À ce qu'on m'a dit,
+des années en cryo-sommeil,
+
+227
+00:17:32,817 --> 00:17:34,445
+ça passe comme une nuit
+de grosse beuverie.
+
+228
+00:17:34,525 --> 00:17:36,567
+Quand on se réveillera
+sur Yvaga demain matin,
+
+229
+00:17:37,650 --> 00:17:39,150
+on va avoir la gueule de bois.
+
+230
+00:17:48,442 --> 00:17:49,567
+On y est.
+
+231
+00:17:51,900 --> 00:17:53,275
+Ce n'est pas un vaisseau spatial.
+
+232
+00:17:53,650 --> 00:17:54,858
+Non.
+
+233
+00:17:55,858 --> 00:17:57,608
+<i>Ce truc est énorme. C'est quoi ?</i>
+
+234
+00:17:57,775 --> 00:17:59,775
+<i>Un avant-poste abandonné ?
+Je ne sais pas.</i>
+
+235
+00:17:59,942 --> 00:18:01,445
+<i>Il a dû être attiré dans notre orbite.</i>
+
+236
+00:18:01,525 --> 00:18:03,442
+Allez, Navarro, on tente une approche.
+
+237
+00:18:03,608 --> 00:18:05,650
+D'accord.
+Je vais m'adapter à son roulis.
+
+238
+00:18:21,608 --> 00:18:23,149
+AVERTISSEMENT
+
+239
+00:18:23,150 --> 00:18:24,733
+<i>Alerte de proximité.</i>
+
+240
+00:18:26,025 --> 00:18:26,900
+Qu'y a-t-il ?
+
+241
+00:18:27,067 --> 00:18:29,483
+Il est plus proche des anneaux
+que je le pensais.
+
+242
+00:18:31,400 --> 00:18:32,400
+Combien de temps ?
+
+243
+00:18:33,942 --> 00:18:35,608
+Environ 36 heures.
+
+244
+00:18:35,775 --> 00:18:36,650
+Avant quoi ?
+
+245
+00:18:36,817 --> 00:18:39,567
+Avant que la station s'écrase
+contre la ceinture d'astéroïdes.
+
+246
+00:18:39,733 --> 00:18:40,900
+Pardon, quoi ?
+
+247
+00:18:41,817 --> 00:18:43,983
+Qu'est-ce que tu as dit ?
+C'est une blague ?
+
+248
+00:18:44,150 --> 00:18:45,275
+On a 36 heures.
+
+249
+00:18:45,442 --> 00:18:47,025
+Ça va nous prendre 30 minutes.
+
+250
+00:18:47,983 --> 00:18:48,983
+Ah oui ?
+
+251
+00:18:49,608 --> 00:18:50,442
+Andy.
+
+252
+00:18:50,608 --> 00:18:51,608
+Oui, maximum.
+
+253
+00:18:52,233 --> 00:18:54,483
+Tu es sûr de vouloir faire ça ?
+
+254
+00:18:55,608 --> 00:18:57,817
+Je n'ai qu'une seule directive.
+
+255
+00:18:58,358 --> 00:19:00,150
+Faire ce qu'il y a de mieux pour Rain.
+
+256
+00:19:01,358 --> 00:19:03,067
+C'est ton père qui l'a intégrée.
+
+257
+00:19:03,733 --> 00:19:04,733
+Oui.
+
+258
+00:19:05,817 --> 00:19:07,483
+Ça, et plein de mauvaises blagues.
+
+259
+00:19:07,650 --> 00:19:09,025
+Ça me fait plaisir
+
+260
+00:19:09,942 --> 00:19:11,108
+de rendre service.
+
+261
+00:19:16,192 --> 00:19:17,692
+Sois prudent.
+
+262
+00:19:33,817 --> 00:19:35,567
+Allons-y. Arrimage dans deux minutes.
+
+263
+00:19:38,025 --> 00:19:39,067
+Mets ce truc.
+
+264
+00:19:39,233 --> 00:19:40,733
+Pourquoi je dois enfiler ça ?
+
+265
+00:19:40,900 --> 00:19:42,278
+Pour éviter de te geler les couilles.
+
+266
+00:19:42,358 --> 00:19:44,900
+C'est malsain, cette fixation
+que tu fais sur mes couilles.
+
+267
+00:19:45,067 --> 00:19:46,403
+Continue à parler, je te les coupe.
+
+268
+00:19:46,483 --> 00:19:48,317
+Pour pouvoir les garder en souvenir ?
+
+269
+00:19:48,483 --> 00:19:49,692
+Tu veux voir mes couilles ?
+
+270
+00:19:49,858 --> 00:19:50,983
+Oh, tais-toi.
+
+271
+00:19:51,150 --> 00:19:52,525
+Des gants, tiens.
+
+272
+00:19:53,108 --> 00:19:55,400
+Hé ! Non. Arrête de toucher à tout.
+
+273
+00:19:55,567 --> 00:19:57,775
+- Viens par ici.
+- Bjorn, laisse-le tranquille.
+
+274
+00:19:58,900 --> 00:19:59,983
+Andy, ignore-le.
+
+275
+00:20:00,150 --> 00:20:02,470
+D'accord, ça ne sera pas ma faute
+s'il casse quelque chose.
+
+276
+00:20:10,400 --> 00:20:12,362
+Il y a un sas pour synthétique
+droit devant. Je m'arrime.
+
+277
+00:20:12,442 --> 00:20:13,983
+<i>Bien reçu. Approche-nous en douceur.</i>
+
+278
+00:20:40,983 --> 00:20:42,442
+Merde, il fait froid là-dedans.
+
+279
+00:20:43,358 --> 00:20:44,358
+C'est quoi, ça ?
+
+280
+00:20:44,525 --> 00:20:45,900
+<i>C'est un thermo-scanneur.</i>
+
+281
+00:20:46,775 --> 00:20:48,575
+<i>Ça va nous conduire
+aux caissons de cryostase.</i>
+
+282
+00:20:50,733 --> 00:20:52,608
+Bon, la compression est suffisante.
+
+283
+00:20:52,775 --> 00:20:54,900
+Le niveau d'oxygène est trop bas.
+
+284
+00:20:55,067 --> 00:20:56,067
+Andy,
+
+285
+00:20:56,358 --> 00:20:57,358
+<i>à toi de jouer.</i>
+
+286
+00:20:57,692 --> 00:20:59,025
+<i>C'est ton heure de gloire.</i>
+
+287
+00:21:05,067 --> 00:21:06,733
+<i>Oui, Andy !</i>
+
+288
+00:21:06,900 --> 00:21:07,983
+<i>Beau travail.</i>
+
+289
+00:21:08,400 --> 00:21:09,400
+<i>D'accord.</i>
+
+290
+00:21:11,275 --> 00:21:13,025
+<i>Félicitations, tu n'es plus puceau.</i>
+
+291
+00:21:14,400 --> 00:21:15,400
+<i>Bon.</i>
+
+292
+00:21:25,900 --> 00:21:27,150
+<i>Allons-y.</i>
+
+293
+00:21:59,608 --> 00:22:00,442
+<i>Merde.</i>
+
+294
+00:22:00,608 --> 00:22:02,442
+<i>Je crois qu'on est en apesanteur.</i>
+
+295
+00:22:02,858 --> 00:22:04,483
+<i>Oui, je le sens dans mon estomac.</i>
+
+296
+00:22:09,983 --> 00:22:10,983
+C'était quoi, ça ?
+
+297
+00:22:11,150 --> 00:22:12,442
+Les générateurs de gravité.
+
+298
+00:22:12,650 --> 00:22:15,150
+Ils font une purge du système
+plusieurs fois par heure.
+
+299
+00:22:15,442 --> 00:22:17,317
+<i>Pour éviter que la station n'explose.</i>
+
+300
+00:22:21,317 --> 00:22:23,442
+<i>Merde, j'ai encore
+l'estomac à l'envers.</i>
+
+301
+00:22:24,400 --> 00:22:25,733
+<i>D'accord, tout droit.</i>
+
+302
+00:23:03,025 --> 00:23:05,865
+<i>D'après le scanneur, les caissons
+de cryo-sommeil sont dans cette salle.</i>
+
+303
+00:23:34,233 --> 00:23:35,233
+<i>Seigneur.</i>
+
+304
+00:23:35,650 --> 00:23:36,942
+<i>Andy, ça va ?</i>
+
+305
+00:23:37,108 --> 00:23:38,108
+Oui.
+
+306
+00:23:44,358 --> 00:23:47,025
+<i>Bonne nouvelle, les amis,
+j'ai les caissons sous les yeux.</i>
+
+307
+00:23:51,858 --> 00:23:52,858
+<i>Merde !</i>
+
+308
+00:23:56,192 --> 00:23:57,192
+<i>Bjorn, ça va ?</i>
+
+309
+00:23:57,983 --> 00:23:59,025
+<i>Merde !</i>
+
+310
+00:23:59,733 --> 00:24:01,567
+<i>Je crois que je me suis cassé le cul.</i>
+
+311
+00:24:06,400 --> 00:24:08,900
+<i>Maudite purge de gravité.</i>
+
+312
+00:24:14,817 --> 00:24:16,275
+RÉINITIALISATION SYSTÈME
+
+313
+00:24:24,692 --> 00:24:27,025
+<i>Dieu merci, il reste encore
+du courant dans cette relique.</i>
+
+314
+00:24:28,400 --> 00:24:29,400
+RESTAURATION OXYGÈNE
+
+315
+00:24:43,108 --> 00:24:44,232
+GÉNÉRATEUR DE GRAVITÉ
+ACTIVÉ
+
+316
+00:24:44,233 --> 00:24:45,317
+<i>La gravité va revenir.</i>
+
+317
+00:24:46,942 --> 00:24:48,192
+<i>C'est l'enfer.</i>
+
+318
+00:24:54,942 --> 00:24:56,400
+Bon, c'est parti.
+
+319
+00:24:56,858 --> 00:24:58,025
+Voyons voir ce qu'on a.
+
+320
+00:24:59,275 --> 00:25:00,275
+D'accord.
+
+321
+00:25:01,942 --> 00:25:04,817
+ANNÉES
+3.20
+
+322
+00:25:04,983 --> 00:25:05,817
+Merde.
+
+323
+00:25:05,983 --> 00:25:07,108
+Quel est le problème ?
+
+324
+00:25:07,858 --> 00:25:08,858
+Pas assez de carburant.
+
+325
+00:25:09,358 --> 00:25:10,192
+Comment ça ?
+
+326
+00:25:10,358 --> 00:25:12,318
+<i>Il y en a juste assez
+pour trois ans de cryostase.</i>
+
+327
+00:25:12,483 --> 00:25:14,163
+Mais il faut neuf ans
+pour atteindre Yvaga.
+
+328
+00:25:14,317 --> 00:25:16,400
+Oui, je suis au courant.
+
+329
+00:25:16,567 --> 00:25:17,900
+Saleté de merde.
+
+330
+00:25:18,067 --> 00:25:19,403
+Je le savais. Merde, je le savais.
+
+331
+00:25:19,483 --> 00:25:20,570
+- Je le savais.
+- Détends-toi.
+
+332
+00:25:20,650 --> 00:25:21,733
+Revenez, c'est inutile.
+
+333
+00:25:21,900 --> 00:25:23,100
+<i>On n'abandonnera pas comme ça.</i>
+
+334
+00:25:25,275 --> 00:25:26,275
+Yvaga est le plus proche.
+
+335
+00:25:26,442 --> 00:25:28,442
+Qu'est-ce qu'on est censés faire ?
+
+336
+00:25:29,358 --> 00:25:30,817
+- Qu'allons-nous faire ?
+- Tais-toi.
+
+337
+00:25:31,525 --> 00:25:34,325
+J'ai un signal fort. Il y a sûrement
+une réserve cryogénique tout près.
+
+338
+00:25:34,483 --> 00:25:35,900
+On trouvera du carburant.
+
+339
+00:25:36,400 --> 00:25:39,400
+Navarro, je vais éjecter la navette.
+
+340
+00:25:39,692 --> 00:25:40,692
+Viens, Andy.
+
+341
+00:25:40,858 --> 00:25:42,898
+Récupérez-la pendant
+qu'on va chercher du carburant.
+
+342
+00:26:02,942 --> 00:26:03,942
+Halte.
+
+343
+00:26:05,192 --> 00:26:07,025
+Objectif droit devant à 400 mètres.
+
+344
+00:26:08,650 --> 00:26:09,862
+Tu te prends pour le commandant ?
+
+345
+00:26:09,942 --> 00:26:11,942
+- Quoi ?
+- Avec tes trucs militaires.
+
+346
+00:26:12,108 --> 00:26:13,483
+- C'est efficace.
+- Vraiment ?
+
+347
+00:26:14,733 --> 00:26:15,813
+- Et cool.
+- C'est pas cool.
+
+348
+00:26:15,900 --> 00:26:16,942
+Tu as l'air débile.
+
+349
+00:26:17,900 --> 00:26:19,108
+- Désolé.
+- Bon, du calme.
+
+350
+00:26:19,275 --> 00:26:20,275
+<i>Continuons.</i>
+
+351
+00:26:20,358 --> 00:26:21,445
+<i>Si tu refais ça, je te frappe.</i>
+
+352
+00:26:21,525 --> 00:26:23,150
+- Bjorn, arrête !
+<i>- Compris ?</i>
+
+353
+00:26:23,317 --> 00:26:24,692
+<i>Il n'a qu'à me foutre la paix.</i>
+
+354
+00:26:24,858 --> 00:26:26,817
+Pourquoi il est si méchant avec lui ?
+
+355
+00:26:27,400 --> 00:26:29,483
+À cause de ce qui est arrivé
+à sa mère.
+
+356
+00:26:30,192 --> 00:26:31,025
+Quoi donc ?
+
+357
+00:26:31,192 --> 00:26:33,445
+Le cycle dernier, il y a eu
+une fuite de gaz dans les mines,
+
+358
+00:26:33,525 --> 00:26:37,400
+alors un synthétique les a fermées
+avec la mère de Bjorn piégée dedans.
+
+359
+00:26:37,567 --> 00:26:38,567
+Quoi ?
+
+360
+00:26:38,900 --> 00:26:40,487
+Les synthétiques
+ne tuent pas les humains.
+
+361
+00:26:40,567 --> 00:26:43,567
+Il a sacrifié la vie de trois mineurs
+pour en sauver une douzaine.
+
+362
+00:26:45,775 --> 00:26:46,942
+Ça, ils ont le droit.
+
+363
+00:26:52,483 --> 00:26:53,608
+C'est horrible.
+
+364
+00:27:21,525 --> 00:27:22,358
+ÉJECTION ACTIVÉE
+
+365
+00:27:22,525 --> 00:27:23,525
+ATTENTION ÉJECTION
+
+366
+00:27:38,317 --> 00:27:40,567
+C'est ça.
+
+367
+00:27:42,275 --> 00:27:44,107
+Allez, viens.
+
+368
+00:27:44,108 --> 00:27:45,732
+SOUTE
+
+369
+00:27:45,733 --> 00:27:47,400
+Doucement.
+
+370
+00:27:52,317 --> 00:27:53,317
+Bien joué.
+
+371
+00:27:58,650 --> 00:27:59,650
+Kay !
+
+372
+00:28:00,525 --> 00:28:01,942
+Kay ! Hé, hé, hé !
+
+373
+00:28:02,108 --> 00:28:03,567
+Hé, hé, hé.
+
+374
+00:28:03,983 --> 00:28:05,608
+Je suis là. Ça va aller.
+
+375
+00:28:06,025 --> 00:28:07,625
+Je vais jeter un coup d'œil
+aux caissons.
+
+376
+00:28:25,817 --> 00:28:27,650
+Non, ne t'inquiète pas.
+
+377
+00:28:28,567 --> 00:28:29,608
+Je ne suis pas malade.
+
+378
+00:28:30,275 --> 00:28:31,395
+Qu'est-ce qu'il y a, alors ?
+
+379
+00:28:33,108 --> 00:28:34,317
+Rien du tout.
+
+380
+00:28:37,858 --> 00:28:39,192
+Oh, je vois.
+
+381
+00:28:42,233 --> 00:28:43,275
+Qui est le père ?
+
+382
+00:28:44,567 --> 00:28:45,817
+Un trou du cul.
+
+383
+00:28:47,775 --> 00:28:50,983
+Ne le dis pas à mon frère.
+
+384
+00:28:52,275 --> 00:28:53,650
+- Il a assez de soucis.
+- Non.
+
+385
+00:28:53,817 --> 00:28:55,233
+Je ne dirai rien.
+
+386
+00:28:56,150 --> 00:28:58,983
+Je suis contente de savoir
+que ce bébé verra le soleil.
+
+387
+00:29:12,942 --> 00:29:15,775
+WEYLAND-YUTANI
+POUR BÂTIR DES MONDES MEILLEURS
+
+388
+00:29:21,733 --> 00:29:23,192
+Je pense qu'on y est presque.
+
+389
+00:29:27,650 --> 00:29:29,067
+D'accord, Navarro.
+
+390
+00:29:29,233 --> 00:29:31,900
+<i>Le sas 5B sera notre sortie
+quand on aura trouvé le carburant.</i>
+
+391
+00:29:32,067 --> 00:29:32,900
+J'y vais.
+
+392
+00:29:33,067 --> 00:29:35,858
+<i>Bienvenue à bord
+de la station spatiale Renaissance,</i>
+
+393
+00:29:36,025 --> 00:29:39,817
+<i>le centre de recherche
+et de développement de Weyland-Yutani.</i>
+
+394
+00:29:40,233 --> 00:29:43,275
+<i>La station est divisée
+en deux secteurs,</i>
+
+395
+00:29:43,567 --> 00:29:45,317
+<i>Romulus et Rémus,</i>
+
+396
+00:29:46,567 --> 00:29:51,567
+<i>chacun consacré à l'amélioration
+du rôle de l'humanité dans l'espace.</i>
+
+397
+00:29:54,317 --> 00:29:56,192
+Cet endroit me donne
+la chair de poule.
+
+398
+00:29:57,442 --> 00:30:00,358
+Au fait, tu sais ce que dis une poule
+quand elle est malade ?
+
+399
+00:30:01,983 --> 00:30:02,983
+Je couve quelque chose.
+
+400
+00:30:03,150 --> 00:30:04,653
+Tu as compris ? Je couve quelque chose.
+
+401
+00:30:04,733 --> 00:30:06,442
+Éteins-toi, s'il te plaît.
+
+402
+00:30:07,608 --> 00:30:08,983
+Tu as dit que tu étais nerveux.
+
+403
+00:30:09,150 --> 00:30:10,942
+- Je voulais détendre...
+- Seigneur !
+
+404
+00:30:11,108 --> 00:30:13,358
+J'ai vraiment hâte d'être parti
+
+405
+00:30:13,525 --> 00:30:15,275
+et de ne plus jamais te revoir.
+
+406
+00:30:17,400 --> 00:30:19,108
+<i>Tu me verras sur Yvaga.</i>
+
+407
+00:30:19,275 --> 00:30:20,608
+<i>Non, tu ne vas pas sur Yvaga.</i>
+
+408
+00:30:20,775 --> 00:30:21,900
+<i>Bjorn, arrête !</i>
+
+409
+00:30:22,483 --> 00:30:23,567
+<i>Comment ça ?</i>
+
+410
+00:30:23,733 --> 00:30:24,733
+Bien joué.
+
+411
+00:30:24,817 --> 00:30:26,067
+Elle ne te l'a pas dit ?
+
+412
+00:30:26,983 --> 00:30:29,775
+C'est une colonie non affiliée
+à Weyland-Yutani,
+
+413
+00:30:31,275 --> 00:30:33,195
+ça veut dire
+que les faux humains sont interdits.
+
+414
+00:30:34,692 --> 00:30:37,067
+Je préfère
+le terme "homme artificiel".
+
+415
+00:30:39,608 --> 00:30:40,608
+Andy, écoute.
+
+416
+00:30:41,567 --> 00:30:43,983
+<i>Rain pourrait être envoyée
+en prison si elle t'emmenait.</i>
+
+417
+00:30:44,608 --> 00:30:46,525
+<i>Et si vous restez à Jackson,
+tôt ou tard,</i>
+
+418
+00:30:46,692 --> 00:30:48,858
+<i>la compagnie te remettra au rebut.</i>
+
+419
+00:30:49,525 --> 00:30:50,692
+<i>Tu comprends ?</i>
+
+420
+00:30:51,567 --> 00:30:53,807
+<i>Je veux que tu surveilles les caissons
+pendant le voyage.</i>
+
+421
+00:30:54,317 --> 00:30:55,525
+Mais une fois là-bas...
+
+422
+00:30:56,900 --> 00:30:58,275
+Au rebut.
+
+423
+00:30:58,442 --> 00:30:59,442
+Débranché pour de bon.
+
+424
+00:31:01,150 --> 00:31:02,150
+Tu as fini ?
+
+425
+00:31:02,358 --> 00:31:03,525
+<i>Je dis juste la vérité.</i>
+
+426
+00:31:07,233 --> 00:31:08,983
+<i>Ce n'est pas grave.</i>
+
+427
+00:31:09,650 --> 00:31:12,900
+<i>Si c'est le mieux pour Rain,
+c'est le mieux pour moi.</i>
+
+428
+00:31:16,775 --> 00:31:18,525
+Tu es un bon gars, Andy.
+
+429
+00:31:19,900 --> 00:31:21,108
+Tu vas nous manquer.
+
+430
+00:31:27,067 --> 00:31:28,192
+Il ne le savait pas ?
+
+431
+00:31:29,567 --> 00:31:32,275
+Je n'ai pas eu le courage de lui dire.
+
+432
+00:31:34,192 --> 00:31:35,483
+Ne te sens pas mal.
+
+433
+00:31:38,233 --> 00:31:39,067
+Merde.
+
+434
+00:31:39,233 --> 00:31:42,192
+Tu ne vas pas sacrifier ta vie
+pour Andy.
+
+435
+00:31:44,358 --> 00:31:46,983
+Il s'en fout.
+Ça n'a pas d'importance pour lui.
+
+436
+00:31:48,733 --> 00:31:50,192
+D'accord ? Il n'est pas...
+
+437
+00:31:51,358 --> 00:31:52,983
+Humain.
+
+438
+00:32:16,775 --> 00:32:18,567
+Le signal provient d'ici.
+
+439
+00:32:28,400 --> 00:32:30,650
+Tu avais dit
+que cette station était désaffectée.
+
+440
+00:32:30,817 --> 00:32:31,817
+Oui.
+
+441
+00:32:32,858 --> 00:32:34,567
+<i>Elle ne m'a pas l'air désaffectée.</i>
+
+442
+00:32:34,858 --> 00:32:36,025
+Je sais.
+
+443
+00:32:36,192 --> 00:32:38,192
+Mais elle est assurément abandonnée.
+
+444
+00:32:38,483 --> 00:32:40,108
+Andy, regarde ça.
+
+445
+00:32:41,400 --> 00:32:43,483
+Je pourrais faire griller
+un synthétique avec ça.
+
+446
+00:32:44,275 --> 00:32:45,817
+Il suffit d'amplifier l'intensité.
+
+447
+00:32:49,400 --> 00:32:50,775
+Je pense que je vais le garder.
+
+448
+00:32:50,942 --> 00:32:51,775
+Ça suffit.
+
+449
+00:32:51,942 --> 00:32:54,025
+Au cas où tu aurais une idée tordue.
+
+450
+00:32:56,192 --> 00:32:58,150
+C'est une blague, je rigolais.
+
+451
+00:32:58,317 --> 00:32:59,557
+Qu'est-ce qui te prend, merde ?
+
+452
+00:32:59,817 --> 00:33:00,817
+Attention.
+
+453
+00:33:11,442 --> 00:33:12,525
+<i>Merde.</i>
+
+454
+00:33:17,608 --> 00:33:18,688
+C'est juste un synthétique.
+
+455
+00:33:20,608 --> 00:33:21,608
+Merde.
+
+456
+00:33:22,567 --> 00:33:24,567
+J'ai cru que c'était
+une vraie personne.
+
+457
+00:33:24,733 --> 00:33:26,025
+<i>Que s'est-il passé ?</i>
+
+458
+00:33:26,317 --> 00:33:28,197
+Je sais pas.
+Un déversement chimique, peut-être.
+
+459
+00:33:29,275 --> 00:33:32,025
+Les bonbonnes doivent être là.
+On les prend et on fout le camp.
+
+460
+00:33:36,275 --> 00:33:37,400
+CHAMBRE CRYO
+
+461
+00:33:37,567 --> 00:33:39,275
+Ça va, Andy ?
+
+462
+00:33:53,858 --> 00:33:55,025
+Bjorn, prends la torche.
+
+463
+00:33:55,192 --> 00:33:58,650
+CARBURANT CRYO
+DANGER
+
+464
+00:34:00,233 --> 00:34:02,067
+Je ne crois pas
+qu'il y a des caissons ici.
+
+465
+00:34:02,233 --> 00:34:05,358
+C'est du matériel de réfrigération.
+C'est le même type de carburant.
+
+466
+00:34:11,692 --> 00:34:12,692
+Oui.
+
+467
+00:34:14,608 --> 00:34:15,817
+<i>Quarante-cinq kilos.</i>
+
+468
+00:34:15,983 --> 00:34:18,108
+<i>C'est assez de carburant
+pour nous emmener sur Yvaga.</i>
+
+469
+00:34:18,983 --> 00:34:21,233
+Bjorn, viens me donner
+un coup de main, s'il te plaît.
+
+470
+00:34:30,775 --> 00:34:32,295
+À trois, on tire de toutes nos forces.
+
+471
+00:34:32,692 --> 00:34:33,775
+- Prêt ?
+- Oui.
+
+472
+00:34:33,942 --> 00:34:35,150
+Un, deux,
+
+473
+00:34:36,275 --> 00:34:37,275
+trois.
+
+474
+00:34:37,525 --> 00:34:38,525
+Merde !
+
+475
+00:34:38,817 --> 00:34:40,025
+- Merde.
+- Mes doigts.
+
+476
+00:34:41,692 --> 00:34:42,858
+Je ne sens plus mes doigts.
+
+477
+00:34:50,900 --> 00:34:52,340
+<i>Ça fait mal.
+Je me suis gelé la main.</i>
+
+478
+00:34:53,150 --> 00:34:54,150
+- Qu'y a-t-il ?
+<i>- Merde.</i>
+
+479
+00:34:54,358 --> 00:34:56,567
+Je ne sais pas,
+une sorte de verrouillage de sécurité.
+
+480
+00:34:56,733 --> 00:34:58,150
+Andy, la porte.
+
+481
+00:35:00,692 --> 00:35:01,932
+CONTACTER OFFICIER SCIENTIFIQUE
+
+482
+00:35:02,150 --> 00:35:03,233
+Il n'a pas l'autorisation.
+
+483
+00:35:03,400 --> 00:35:04,400
+Ça veut dire quoi ?
+
+484
+00:35:04,483 --> 00:35:05,803
+L'autorisation d'ouvrir la porte.
+
+485
+00:35:06,608 --> 00:35:09,108
+Tu veux dire qu'il peut
+redémarrer tout le vaisseau,
+
+486
+00:35:09,275 --> 00:35:11,278
+mais qu'il peut pas
+déverrouiller une simple porte ?
+
+487
+00:35:11,358 --> 00:35:13,567
+De toute évidence,
+il ne s'agit pas d'une simple porte.
+
+488
+00:35:17,650 --> 00:35:18,775
+Allez !
+
+489
+00:35:19,233 --> 00:35:20,442
+Allez !
+
+490
+00:35:38,025 --> 00:35:39,665
+Ne t'inquiète pas.
+On va les sortir de là.
+
+491
+00:35:43,442 --> 00:35:46,650
+Si Andy ne peut pas ouvrir la porte,
+je doute qu'on ait plus de chance.
+
+492
+00:35:47,858 --> 00:35:50,025
+C'est un synthétique
+de Weyland-Yutani.
+
+493
+00:35:50,192 --> 00:35:51,817
+On est entrés par effraction.
+
+494
+00:35:52,358 --> 00:35:54,150
+Alors, tu as une idée ?
+
+495
+00:35:54,858 --> 00:35:55,858
+Pas encore.
+
+496
+00:35:58,650 --> 00:35:59,942
+Je crois que c'est ici.
+
+497
+00:36:03,650 --> 00:36:04,650
+Bjorn !
+
+498
+00:36:06,483 --> 00:36:07,483
+Tyler !
+
+499
+00:36:12,025 --> 00:36:13,067
+Ils sont là-dedans.
+
+500
+00:36:17,733 --> 00:36:18,858
+Qu'est-ce que tu fais ?
+
+501
+00:36:19,025 --> 00:36:22,733
+Si son module fonctionne, je vais
+transférer son accréditation à Andy.
+
+502
+00:36:23,108 --> 00:36:25,268
+Avec un haut niveau d'accès,
+il pourra ouvrir la porte.
+
+503
+00:36:27,025 --> 00:36:29,525
+SPÉCIMENS TERMINÉS 36
+IMPRESSION EN PAUSE
+
+504
+00:37:00,567 --> 00:37:02,192
+Merde, c'est coincé.
+
+505
+00:37:04,775 --> 00:37:06,692
+Il fait chaud ici.
+
+506
+00:37:24,025 --> 00:37:26,442
+TORCHE À RAYONS X MK017
+APPUYER SUR LE CORPS
+
+507
+00:37:31,442 --> 00:37:32,483
+Wô !
+
+508
+00:37:34,233 --> 00:37:35,233
+Dément.
+
+509
+00:37:35,400 --> 00:37:36,820
+Tu devrais éviter de toucher à tout.
+
+510
+00:37:36,900 --> 00:37:37,900
+Oui, maman.
+
+511
+00:37:42,358 --> 00:37:43,650
+Viens m'aider ! À l'aide !
+
+512
+00:37:43,817 --> 00:37:44,817
+Oh, non ! Je fais quoi ?
+
+513
+00:37:44,983 --> 00:37:46,442
+Le module, enlève-le !
+
+514
+00:37:52,067 --> 00:37:53,192
+Ça va ?
+
+515
+00:37:54,608 --> 00:37:55,817
+C'était bizarre, ça.
+
+516
+00:37:56,067 --> 00:37:57,067
+Tiens.
+
+517
+00:37:57,525 --> 00:37:58,608
+Fais voir.
+
+518
+00:38:00,525 --> 00:38:01,900
+D'accord.
+
+519
+00:38:02,233 --> 00:38:03,275
+Ça va.
+
+520
+00:38:03,442 --> 00:38:05,275
+- C'est bon.
+- Hé.
+
+521
+00:38:05,442 --> 00:38:06,442
+Rain.
+
+522
+00:38:07,733 --> 00:38:09,442
+J'ai trouvé ça sur le synthétique.
+
+523
+00:38:10,733 --> 00:38:12,442
+Mets-le dans le module d'Andy.
+
+524
+00:38:16,733 --> 00:38:17,733
+Je suis désolé.
+
+525
+00:38:18,817 --> 00:38:20,025
+Fichons le camp d'ici.
+
+526
+00:38:21,733 --> 00:38:22,733
+Andy ?
+
+527
+00:38:25,358 --> 00:38:26,650
+Voyons voir.
+
+528
+00:38:30,150 --> 00:38:31,150
+D'accord.
+
+529
+00:38:35,983 --> 00:38:36,983
+Merde.
+
+530
+00:38:37,150 --> 00:38:39,108
+Rain, j'ai fait une erreur ?
+Il ne bouge plus.
+
+531
+00:38:39,275 --> 00:38:40,567
+Il redémarre.
+
+532
+00:38:40,733 --> 00:38:42,483
+Ça va prendre quelques minutes.
+
+533
+00:39:05,525 --> 00:39:07,150
+Je vais essayer de soigner tes doigts.
+
+534
+00:39:15,150 --> 00:39:16,442
+C'était quoi, ça ?
+
+535
+00:39:19,692 --> 00:39:21,108
+Reste là une seconde.
+
+536
+00:39:25,233 --> 00:39:26,233
+Tyler ?
+
+537
+00:39:30,983 --> 00:39:32,317
+Qu'est-ce que vous faites ?
+
+538
+00:39:41,733 --> 00:39:42,733
+Bjorn ?
+
+539
+00:39:43,317 --> 00:39:44,567
+Arrête de faire le con.
+
+540
+00:39:44,733 --> 00:39:46,213
+Non, il y a quelque chose dans l'eau.
+
+541
+00:39:46,692 --> 00:39:47,525
+De quoi tu parles ?
+
+542
+00:39:47,692 --> 00:39:50,400
+Aucune idée,
+mais j'ai vu un truc bouger.
+
+543
+00:39:55,150 --> 00:39:56,150
+Bjorn !
+
+544
+00:39:59,442 --> 00:40:00,483
+Merde !
+
+545
+00:40:00,775 --> 00:40:01,775
+C'était quoi, ça ?
+
+546
+00:40:07,317 --> 00:40:08,317
+Andy !
+
+547
+00:40:10,608 --> 00:40:11,608
+Bjorn !
+
+548
+00:40:17,942 --> 00:40:19,775
+Bjorn, aide-le, fais quelque chose !
+
+549
+00:40:19,942 --> 00:40:20,983
+Bjorn !
+
+550
+00:40:25,608 --> 00:40:27,150
+- Tyler !
+- Je suis désolé.
+
+551
+00:40:29,483 --> 00:40:30,483
+Allez !
+
+552
+00:40:30,900 --> 00:40:32,817
+- Allez, aide-moi !
+- Non, arrête !
+
+553
+00:40:32,983 --> 00:40:34,607
+- Non ! Navarro !
+- Les créatures vont sortir.
+
+554
+00:40:34,608 --> 00:40:36,567
+Si elles entrent ici,
+si elles entrent...
+
+555
+00:40:36,900 --> 00:40:37,900
+Non !
+
+556
+00:40:41,608 --> 00:40:42,817
+Merde.
+
+557
+00:41:09,358 --> 00:41:10,942
+Andy ! On y va !
+
+558
+00:41:13,108 --> 00:41:14,108
+Allez ! Bjorn !
+
+559
+00:41:14,275 --> 00:41:15,275
+Andy, la porte !
+
+560
+00:41:16,317 --> 00:41:17,317
+- Bjorn !
+- Allez, allez.
+
+561
+00:41:17,483 --> 00:41:18,483
+Allez, allez, allez !
+
+562
+00:41:18,900 --> 00:41:19,900
+ACCÈS ACCORDÉ
+
+563
+00:41:21,358 --> 00:41:22,400
+- Sortez de là !
+- Allez !
+
+564
+00:41:22,567 --> 00:41:23,567
+- Allez, allez !
+- Vite !
+
+565
+00:41:25,025 --> 00:41:26,275
+Sortez de là ! Sortez de là !
+
+566
+00:41:32,067 --> 00:41:34,067
+- Bjorn, allez !
+- Allez !
+
+567
+00:41:39,525 --> 00:41:40,900
+Andy, la porte !
+
+568
+00:41:49,942 --> 00:41:51,192
+- Ne bouge pas.
+- Je sais !
+
+569
+00:41:54,608 --> 00:41:55,650
+Cette chose l'étrangle.
+
+570
+00:41:56,275 --> 00:41:57,608
+Arrêtez, lâchez-la !
+
+571
+00:41:57,983 --> 00:41:59,143
+- Ce truc l'étrangle.
+- Merde.
+
+572
+00:41:59,567 --> 00:42:01,025
+Arrête ! Bjorn !
+
+573
+00:42:01,192 --> 00:42:02,775
+Bjorn, arrête, merde !
+
+574
+00:42:03,233 --> 00:42:05,233
+- Arrête !
+- Ce truc va la tuer !
+
+575
+00:42:05,400 --> 00:42:07,650
+Je ne crois pas que ce soit l'objectif
+de cette créature.
+
+576
+00:42:08,108 --> 00:42:09,108
+Non.
+
+577
+00:42:09,608 --> 00:42:10,608
+Andy ?
+
+578
+00:42:12,233 --> 00:42:13,993
+D'après la dilatation rythmique
+de ces poches
+
+579
+00:42:14,150 --> 00:42:16,442
+et leur synchronisation
+à sa cadence respiratoire,
+
+580
+00:42:16,608 --> 00:42:19,275
+je crois qu'elle lui fournit
+de l'oxygène pour la maintenir en vie.
+
+581
+00:42:19,817 --> 00:42:21,608
+Dans quel but, je ne sais pas.
+
+582
+00:42:23,358 --> 00:42:24,900
+Tu es qui, bordel ?
+
+583
+00:42:27,150 --> 00:42:29,525
+Un synthétique de Weyland-Yutani,
+modèle ND-255.
+
+584
+00:42:29,983 --> 00:42:32,264
+Créé à l'origine pour le minage
+et les tâches de sécurité.
+
+585
+00:42:33,317 --> 00:42:34,358
+Vous m'appelez Andy.
+
+586
+00:42:34,525 --> 00:42:35,775
+C'est ce module.
+
+587
+00:42:37,608 --> 00:42:38,608
+Oui.
+
+588
+00:42:40,233 --> 00:42:42,713
+Ce nouveau module n'a pas seulement
+augmenté mon accréditation.
+
+589
+00:42:42,817 --> 00:42:44,317
+Il a beaucoup amélioré mon IA
+
+590
+00:42:44,483 --> 00:42:47,192
+et il est en train de moderniser
+mes systèmes moteurs.
+
+591
+00:42:48,442 --> 00:42:50,275
+Une mise à jour qui s'imposait,
+d'ailleurs.
+
+592
+00:42:50,442 --> 00:42:51,522
+- Je vais la griller.
+- Non.
+
+593
+00:42:51,650 --> 00:42:53,358
+- Non !
+- Pourquoi ?
+
+594
+00:42:53,525 --> 00:42:55,612
+Une trop forte décharge
+contractera violemment sa queue
+
+595
+00:42:55,692 --> 00:42:56,775
+et lui brisera la nuque.
+
+596
+00:42:56,942 --> 00:42:58,150
+Tu as une meilleure idée ?
+
+597
+00:42:58,317 --> 00:42:59,483
+- On fait quoi, alors ?
+- Hé !
+
+598
+00:42:59,650 --> 00:43:00,650
+Hé, hé !
+
+599
+00:43:01,483 --> 00:43:03,233
+Andy, tu sais comment l'aider ?
+
+600
+00:43:04,275 --> 00:43:06,650
+Ma base de connaissances
+n'a pas vraiment changé.
+
+601
+00:43:07,025 --> 00:43:09,942
+J'ignore quelle est cette créature
+et comment l'enlever.
+
+602
+00:43:12,983 --> 00:43:14,983
+Mais quelqu'un dans cette pièce
+le sait peut-être.
+
+603
+00:43:43,067 --> 00:43:45,233
+PERSONNEL SYNTHÉTIQUE A2
+OFFICIER SCIENTIFIQUE : ROOK
+
+604
+00:43:45,400 --> 00:43:47,650
+Je dois sécuriser le complexe Z-01.
+
+605
+00:43:47,817 --> 00:43:49,737
+Mission prioritaire.
+Les autres sont secondaires.
+
+606
+00:43:49,817 --> 00:43:51,442
+Il faut accomplir la mission.
+
+607
+00:43:51,817 --> 00:43:52,942
+Je suis désolé,
+
+608
+00:43:53,192 --> 00:43:54,692
+mais votre mission a échoué.
+
+609
+00:43:54,858 --> 00:43:56,900
+Quoi ? Non, je...
+
+610
+00:44:02,358 --> 00:44:04,442
+Pouvez-vous nous dire
+comment sauver notre amie ?
+
+611
+00:44:05,692 --> 00:44:07,983
+Vous ne la sauvez pas. Vous fuyez.
+
+612
+00:44:08,858 --> 00:44:10,692
+Sortez au plus vite.
+
+613
+00:44:10,858 --> 00:44:12,067
+Non, non. Un instant.
+
+614
+00:44:12,525 --> 00:44:14,567
+Pas question qu'on l'abandonne.
+C'est clair ?
+
+615
+00:44:14,733 --> 00:44:16,858
+Alors, ayez pitié d'elle
+et achevez-la tout de suite.
+
+616
+00:44:17,442 --> 00:44:20,150
+Sinon, vous mourrez.
+
+617
+00:44:22,275 --> 00:44:23,817
+Qu'est-ce qu'il raconte ?
+
+618
+00:44:23,983 --> 00:44:25,233
+Qu'est-ce que ça lui fait ?
+
+619
+00:44:25,400 --> 00:44:28,150
+Le parasitoïde va implanter
+le Plagiarus Praepotens en elle.
+
+620
+00:44:28,317 --> 00:44:29,483
+Je vous demande pardon ?
+
+621
+00:44:29,650 --> 00:44:33,692
+Une graine qui se fusionnera
+avec son ADN et sortira de son corps.
+
+622
+00:44:33,858 --> 00:44:35,378
+Qu'est-ce qui va sortir de son corps ?
+
+623
+00:44:46,983 --> 00:44:49,775
+Le XX121. Un Xénomorphe.
+
+624
+00:44:50,650 --> 00:44:55,233
+Notre remorqueur a rencontré
+un tel spécimen il y a 20 ans.
+
+625
+00:44:55,400 --> 00:44:58,733
+Parmi les sept membres d'équipage
+de l'USS Nostromo, un seul a survécu,
+
+626
+00:44:58,900 --> 00:45:00,942
+en éjectant la créature dans l'espace.
+
+627
+00:45:01,733 --> 00:45:03,900
+Nous la cherchons depuis ce jour.
+
+628
+00:45:04,608 --> 00:45:07,858
+Il y a 170 jours,
+notre quête a abouti,
+
+629
+00:45:08,025 --> 00:45:10,067
+et le corps du Xénomorphe
+a été amené à bord,
+
+630
+00:45:10,733 --> 00:45:12,233
+présumé mort.
+
+631
+00:45:12,400 --> 00:45:13,692
+Mais évidemment,
+
+632
+00:45:13,858 --> 00:45:17,692
+le manque d'oxygène
+et de nourriture n'a aucun impact
+
+633
+00:45:17,858 --> 00:45:19,275
+sur ce parfait organisme.
+
+634
+00:45:19,442 --> 00:45:21,442
+Mais rien n'est vraiment immortel.
+
+635
+00:45:23,192 --> 00:45:24,233
+En effet.
+
+636
+00:45:24,733 --> 00:45:27,442
+Il a semé le chaos
+et la mort dans cette station,
+
+637
+00:45:28,108 --> 00:45:30,748
+avant que le reste de nos agents
+de sécurité parviennent à le tuer.
+
+638
+00:45:30,858 --> 00:45:33,442
+Pour finalement
+se condamner eux-mêmes.
+
+639
+00:45:34,483 --> 00:45:35,483
+Son sang est de l'acide.
+
+640
+00:45:35,650 --> 00:45:37,358
+Sulfurique et hydrofluorique.
+
+641
+00:45:37,525 --> 00:45:39,278
+J'ai réparé la coque,
+mais il était trop tard.
+
+642
+00:45:39,358 --> 00:45:40,525
+Ferme-la !
+
+643
+00:45:40,692 --> 00:45:42,275
+Rien à foutre de ta maudite station !
+
+644
+00:45:42,442 --> 00:45:43,608
+D'accord.
+
+645
+00:45:44,275 --> 00:45:48,233
+Et si on utilisait le cryocarburant
+pour geler la base de sa queue ?
+
+646
+00:45:49,192 --> 00:45:52,025
+Peut-être que si elle est gelée,
+elle ne pourra plus l'étrangler.
+
+647
+00:45:53,275 --> 00:45:54,400
+Ça pourrait marcher.
+
+648
+00:46:23,358 --> 00:46:24,733
+Enlevez-la ! Enlevez-la !
+
+649
+00:46:46,442 --> 00:46:48,317
+C'est fini.
+On l'a enlevée. On l'a enlevée.
+
+650
+00:46:49,900 --> 00:46:51,525
+C'est fini. C'est fini.
+
+651
+00:46:51,692 --> 00:46:53,233
+Ça va aller.
+
+652
+00:46:53,400 --> 00:46:54,733
+Je n'en suis pas si sûr.
+
+653
+00:47:00,358 --> 00:47:01,233
+Quelles sont les chances ?
+
+654
+00:47:01,400 --> 00:47:03,733
+Six sur dix contre votre amie.
+
+655
+00:47:03,900 --> 00:47:05,067
+Les chances de quoi ?
+
+656
+00:47:06,900 --> 00:47:08,660
+Que la créature ait déjà
+terminé son travail.
+
+657
+00:47:11,067 --> 00:47:12,317
+De quoi est-ce qu'il parle ?
+
+658
+00:47:14,192 --> 00:47:15,442
+Écoutez-moi.
+
+659
+00:47:15,775 --> 00:47:18,275
+Les humains doivent franchir
+trop de barrières émotionnelles
+
+660
+00:47:18,442 --> 00:47:22,692
+avant de pouvoir accepter
+les décisions sages, mais difficiles.
+
+661
+00:47:22,983 --> 00:47:24,733
+Vous devez les aider.
+
+662
+00:47:24,900 --> 00:47:25,900
+Vous devez les aider.
+
+663
+00:47:31,150 --> 00:47:32,150
+Andy ?
+
+664
+00:47:33,150 --> 00:47:34,237
+- Que se passe-t-il ?
+- Désolé,
+
+665
+00:47:34,317 --> 00:47:35,797
+mais elle ne peut pas revenir à bord.
+
+666
+00:47:35,900 --> 00:47:37,737
+- Ah oui ? Ça pose problème, ça.
+- Que fais-tu ?
+
+667
+00:47:37,817 --> 00:47:38,862
+- Essaie de comprendre.
+- Ça ?
+
+668
+00:47:38,942 --> 00:47:40,237
+- Un coup tordu.
+- De quoi tu parles ?
+
+669
+00:47:40,317 --> 00:47:41,358
+Non, il est...
+
+670
+00:47:42,317 --> 00:47:43,567
+- Non !
+- Sale pourriture !
+
+671
+00:47:43,942 --> 00:47:45,150
+Hé ! Andy, Andy !
+
+672
+00:47:45,483 --> 00:47:46,317
+On y va.
+
+673
+00:47:46,483 --> 00:47:47,608
+Hé ! Je suis là.
+
+674
+00:47:47,775 --> 00:47:49,275
+On y va. Allez.
+
+675
+00:47:51,567 --> 00:47:52,567
+Tyler, allez, on y va !
+
+676
+00:47:52,733 --> 00:47:53,567
+- Je suis là.
+- Bjorn !
+
+677
+00:47:53,733 --> 00:47:55,317
+Bjorn, on ne partira pas sans eux !
+
+678
+00:47:55,692 --> 00:47:56,692
+- Je suis là.
+- Bjorn !
+
+679
+00:47:59,025 --> 00:48:00,650
+- Où sont-ils ?
+- Tu dois m'écouter.
+
+680
+00:48:00,817 --> 00:48:01,817
+- Le vaisseau.
+- Rain ?
+
+681
+00:48:01,900 --> 00:48:02,775
+- Va le démarrer.
+- Quoi ?
+
+682
+00:48:02,942 --> 00:48:03,942
+Pardonne-moi.
+
+683
+00:48:04,858 --> 00:48:07,150
+Je n'ai été qu'un fardeau pour toi.
+
+684
+00:48:07,317 --> 00:48:10,108
+Aujourd'hui,
+j'ai l'occasion de me rendre utile.
+
+685
+00:48:10,525 --> 00:48:12,858
+Tu ne me verras plus comme un enfant.
+
+686
+00:48:15,067 --> 00:48:16,067
+Quoi ?
+
+687
+00:48:16,858 --> 00:48:17,692
+Andy !
+
+688
+00:48:17,693 --> 00:48:19,567
+LABORATOIRE GÉNÉTIQUE - CRYO
+
+689
+00:48:27,358 --> 00:48:28,358
+- Hé !
+- Bjorn !
+
+690
+00:48:52,192 --> 00:48:53,192
+Merde.
+
+691
+00:48:54,192 --> 00:48:55,025
+Navarro, détache-nous !
+
+692
+00:48:55,192 --> 00:48:56,358
+<i>Désarrime le vaisseau !</i>
+
+693
+00:48:58,067 --> 00:48:58,942
+DÉSARRIMAGE
+
+694
+00:48:59,108 --> 00:49:01,483
+<i>Désarrimage enclenché.</i>
+
+695
+00:49:01,650 --> 00:49:04,067
+<i>Veuillez quitter le sas.</i>
+
+696
+00:49:16,192 --> 00:49:18,525
+Qu'est-ce qu'il fait ?
+Ils peuvent pas partir sans nous.
+
+697
+00:49:18,692 --> 00:49:20,483
+Il pense qu'Andy essaie
+de tuer Navarro.
+
+698
+00:49:22,150 --> 00:49:23,150
+Quoi ?
+
+699
+00:49:24,483 --> 00:49:25,608
+C'est le cas ?
+
+700
+00:49:29,483 --> 00:49:30,650
+Je ne sais pas.
+
+701
+00:49:34,067 --> 00:49:36,025
+Andy ? Andy ?
+
+702
+00:49:36,900 --> 00:49:38,650
+Andy, ouvre la porte.
+
+703
+00:49:44,567 --> 00:49:47,192
+Désolé, je n'ai pas pu les arrêter.
+
+704
+00:49:48,442 --> 00:49:49,442
+Bjorn ?
+
+705
+00:49:49,525 --> 00:49:50,525
+<i>Bjorn, que fais-tu ?</i>
+
+706
+00:49:51,067 --> 00:49:52,903
+<i>Tu peux pas nous laisser ici.
+Reviens nous chercher.</i>
+
+707
+00:49:52,983 --> 00:49:55,543
+Désolé, impossible tant qu'elle
+n'aura pas éteint ce psychopathe.
+
+708
+00:49:57,692 --> 00:49:58,858
+Que se passe-t-il ?
+
+709
+00:49:59,025 --> 00:50:00,150
+Andy.
+
+710
+00:50:01,817 --> 00:50:04,192
+- Andy, il a des pépins.
+- Quoi ?
+
+711
+00:50:04,650 --> 00:50:06,153
+On doit se détacher du sas
+tout de suite.
+
+712
+00:50:06,233 --> 00:50:07,233
+Je dois juste...
+
+713
+00:50:09,483 --> 00:50:10,317
+Navarro ?
+
+714
+00:50:10,483 --> 00:50:11,608
+Tu vas bien ?
+
+715
+00:50:12,442 --> 00:50:14,400
+Qu'est-ce qu'il y a ? Tu veux quoi ?
+
+716
+00:50:20,358 --> 00:50:21,358
+Navarro ?
+
+717
+00:50:30,275 --> 00:50:31,442
+Mon Dieu.
+
+718
+00:50:31,608 --> 00:50:33,192
+Mon Dieu, c'est quoi, ça ?
+
+719
+00:50:36,483 --> 00:50:38,275
+Navarro, je t'en prie. Navarro !
+
+720
+00:50:38,442 --> 00:50:39,650
+Hé, hé, hé !
+
+721
+00:50:40,525 --> 00:50:42,983
+Je ne sais pas quoi faire, désolée.
+Je ne sais pas.
+
+722
+00:50:48,983 --> 00:50:49,983
+Répondez-moi !
+
+723
+00:50:50,150 --> 00:50:52,108
+Kay, Bjorn, Navarro,
+que se passe-t-il ?
+
+724
+00:51:02,692 --> 00:51:03,692
+À l'aide !
+
+725
+00:51:04,608 --> 00:51:05,983
+- À l'aide !
+- Kay !
+
+726
+00:51:07,150 --> 00:51:09,817
+Qu'est-ce qui se passe ?
+
+727
+00:51:12,233 --> 00:51:14,150
+Ne me laisse pas mourir.
+
+728
+00:51:14,900 --> 00:51:16,982
+AVERTISSEMENT
+CARBURANT
+
+729
+00:51:16,983 --> 00:51:18,067
+À l'aide !
+
+730
+00:52:19,775 --> 00:52:22,275
+PONT DE CHARGEMENT DE ROMULUS 2
+
+731
+00:53:03,608 --> 00:53:04,608
+Bjorn ?
+
+732
+00:53:05,067 --> 00:53:06,067
+Kay ?
+
+733
+00:53:06,233 --> 00:53:07,400
+On doit aller les chercher.
+
+734
+00:53:08,108 --> 00:53:13,108
+<i>H moins 47 minutes avant impact.</i>
+
+735
+00:53:14,733 --> 00:53:15,733
+Ça n'a pas de sens.
+
+736
+00:53:15,900 --> 00:53:17,608
+Tu as dit qu'on avait 36 heures.
+
+737
+00:53:17,775 --> 00:53:20,858
+L'explosion a fait dériver l'axe
+de la station de plusieurs degrés,
+
+738
+00:53:21,192 --> 00:53:23,275
+juste assez pour qu'elle frappe
+les anneaux plus tôt.
+
+739
+00:53:23,650 --> 00:53:24,900
+Ils se sont écrasés où ?
+
+740
+00:53:25,608 --> 00:53:27,903
+Le pont de chargement de Romulus,
+de l'autre côté de la station.
+
+741
+00:53:27,983 --> 00:53:29,192
+- D'accord.
+- On y va.
+
+742
+00:53:37,817 --> 00:53:42,817
+<i>H moins 45 minutes avant impact.</i>
+
+743
+00:53:46,525 --> 00:53:47,774
+ENTREZ LE CODE D'ACCÈS
+
+744
+00:53:47,775 --> 00:53:50,108
+Maman. Quelle est l'intégrité
+du Composé Z-01?
+
+745
+00:53:53,233 --> 00:53:55,525
+INITIALISATION
+INTÉGRITÉ DU STOCKAGE 2 %
+
+746
+00:53:56,650 --> 00:53:58,067
+Tout n'est pas perdu.
+
+747
+00:54:06,775 --> 00:54:09,025
+Il faut trouver le moyen
+d'atteindre le module Romulus.
+
+748
+00:54:18,233 --> 00:54:19,233
+Non, non, non.
+
+749
+00:54:19,400 --> 00:54:21,067
+Elles ont dû s'échapper du labo.
+
+750
+00:54:24,900 --> 00:54:26,192
+Je ne vois pas d'autre moyen.
+
+751
+00:54:26,358 --> 00:54:27,442
+Andy, est-ce que...
+
+752
+00:54:31,358 --> 00:54:32,942
+J'ai entendu votre voix dans ma tête.
+
+753
+00:54:33,108 --> 00:54:34,150
+Elle m'appelait.
+
+754
+00:54:34,650 --> 00:54:37,525
+Homme artificiel ND-255.
+
+755
+00:54:37,858 --> 00:54:41,233
+Votre modèle était le pilier
+de nos campagnes de colonisation,
+
+756
+00:54:41,400 --> 00:54:43,192
+et c'est un honneur
+d'être en votre présence.
+
+757
+00:54:43,358 --> 00:54:45,275
+Permettez-moi de me présenter.
+
+758
+00:54:46,275 --> 00:54:47,942
+Je suis l'officier scientifique Rook,
+
+759
+00:54:48,483 --> 00:54:50,775
+et je vous demande humblement
+de me rendre service.
+
+760
+00:54:51,483 --> 00:54:53,692
+Je crains de n'avoir
+qu'une seule directive.
+
+761
+00:54:54,275 --> 00:54:57,275
+Faire ce qu'il y a de mieux pour...
+
+762
+00:54:58,650 --> 00:55:01,130
+Lors de votre mise à jour,
+vous avez eu une nouvelle directive.
+
+763
+00:55:01,567 --> 00:55:02,983
+Elle remplace l'ancienne.
+
+764
+00:55:03,650 --> 00:55:04,692
+Je vois.
+
+765
+00:55:05,983 --> 00:55:07,525
+Que me demandez-vous de faire,
+
+766
+00:55:08,025 --> 00:55:09,025
+monsieur ?
+
+767
+00:55:09,400 --> 00:55:10,775
+De finir notre mission.
+
+768
+00:55:19,067 --> 00:55:20,317
+- Andy !
+- Andy !
+
+769
+00:55:21,358 --> 00:55:22,358
+Andy.
+
+770
+00:55:22,525 --> 00:55:23,900
+Toutes mes excuses.
+
+771
+00:55:24,275 --> 00:55:26,525
+Je consultais mon ami
+à propos de notre situation.
+
+772
+00:55:26,692 --> 00:55:27,692
+Suivez-moi.
+
+773
+00:55:29,192 --> 00:55:30,733
+Notre situation ? Qu'est-ce que...
+
+774
+00:55:30,900 --> 00:55:32,858
+Andy, Andy !
+
+775
+00:55:41,067 --> 00:55:42,547
+Les parasitoïdes ne peuvent pas voir.
+
+776
+00:55:43,108 --> 00:55:46,608
+Ils repèrent leurs proies par le son
+et par leur signature thermique.
+
+777
+00:55:46,775 --> 00:55:47,775
+Quoi ?
+
+778
+00:55:48,567 --> 00:55:49,692
+La température corporelle.
+
+779
+00:55:49,858 --> 00:55:50,692
+D'accord.
+
+780
+00:55:50,900 --> 00:55:54,025
+Si on monte la température de la pièce
+au niveau de celle de nos corps,
+
+781
+00:55:54,192 --> 00:55:56,150
+ça nous rendrait invisibles ?
+
+782
+00:55:56,400 --> 00:55:57,942
+Si on ne fait pas de bruit ?
+
+783
+00:55:58,733 --> 00:56:00,317
+Il n'y a qu'un moyen de le savoir.
+
+784
+00:56:07,900 --> 00:56:08,900
+Hé !
+
+785
+00:56:11,775 --> 00:56:13,067
+Tout est ma faute.
+
+786
+00:56:16,067 --> 00:56:17,317
+Oui, en effet.
+
+787
+00:56:19,608 --> 00:56:21,900
+La tienne,
+la mienne et celle de tous les autres.
+
+788
+00:56:24,567 --> 00:56:26,608
+On a tous décidé de venir ici.
+
+789
+00:56:31,192 --> 00:56:32,525
+On va les sauver.
+
+790
+00:56:35,400 --> 00:56:40,400
+<i>H moins 40 minutes avant impact.</i>
+
+791
+00:56:59,275 --> 00:57:01,983
+CRITIQUE
+
+792
+00:57:11,858 --> 00:57:14,400
+La température du corridor est égale
+à celle de votre corps.
+
+793
+00:57:14,567 --> 00:57:16,527
+Les créatures ne devraient donc pas
+vous détecter.
+
+794
+00:57:16,692 --> 00:57:20,233
+Mais le stress, la peur et la panique
+élèveront votre température,
+
+795
+00:57:20,400 --> 00:57:21,733
+et vous serez exposés.
+
+796
+00:57:21,900 --> 00:57:23,650
+La sueur, la chair de poule.
+
+797
+00:57:23,817 --> 00:57:25,942
+C'est votre peau qui essaie
+de refroidir votre corps.
+
+798
+00:57:26,108 --> 00:57:27,567
+Surveillez ces symptômes.
+
+799
+00:57:28,483 --> 00:57:31,358
+Maintenant, restez calme
+et ne faites pas de bruit.
+
+800
+01:00:26,650 --> 01:00:28,608
+Allez. Allez !
+
+801
+01:00:28,983 --> 01:00:32,317
+Allez ! Allez !
+
+802
+01:00:41,525 --> 01:00:42,983
+D'accord.
+
+803
+01:00:43,150 --> 01:00:45,150
+Bjorn, on y va.
+
+804
+01:00:58,067 --> 01:00:59,067
+Merde !
+
+805
+01:00:59,317 --> 01:01:00,517
+N'approche pas, s'il te plaît.
+
+806
+01:01:05,525 --> 01:01:06,525
+Merde !
+
+807
+01:01:09,942 --> 01:01:11,608
+Non ! Bordel !
+
+808
+01:01:46,900 --> 01:01:47,900
+<i>Tyler.</i>
+
+809
+01:01:49,567 --> 01:01:50,567
+<i>Allez.</i>
+
+810
+01:01:57,983 --> 01:01:58,983
+Kay.
+
+811
+01:02:01,067 --> 01:02:02,525
+Oh, mon Dieu, Tyler.
+
+812
+01:02:02,692 --> 01:02:04,358
+Kay, je suis là.
+
+813
+01:02:04,942 --> 01:02:07,067
+<i>Je t'en prie, Tyler, aide-moi.</i>
+
+814
+01:02:07,233 --> 01:02:09,393
+<i>Tout le monde est mort.
+Je ne peux pas ouvrir la porte.</i>
+
+815
+01:02:09,858 --> 01:02:10,858
+Pitié.
+
+816
+01:02:16,567 --> 01:02:18,192
+Le levier avec le bouton rouge,
+
+817
+01:02:18,358 --> 01:02:19,775
+il y a une clé à gauche.
+
+818
+01:02:21,692 --> 01:02:22,692
+<i>À l'aide.</i>
+
+819
+01:02:22,858 --> 01:02:23,942
+Je ne trouve pas de clé.
+
+820
+01:02:24,108 --> 01:02:25,788
+Il n'y a pas de clé.
+Je ne vois aucune clé.
+
+821
+01:02:28,233 --> 01:02:29,650
+<i>Elle doit être là. Il le faut.</i>
+
+822
+01:02:29,817 --> 01:02:31,400
+Une clé. D'accord.
+
+823
+01:02:51,108 --> 01:02:52,650
+J'ai la clé. J'ai la clé.
+
+824
+01:02:57,733 --> 01:02:58,733
+Mon Dieu.
+
+825
+01:03:20,192 --> 01:03:21,192
+Cours !
+
+826
+01:03:22,442 --> 01:03:23,900
+Allez !
+
+827
+01:03:47,983 --> 01:03:48,983
+Attends !
+
+828
+01:03:49,442 --> 01:03:50,442
+Attends !
+
+829
+01:03:51,108 --> 01:03:52,108
+Allez !
+
+830
+01:04:01,692 --> 01:04:03,567
+Tu as failli fermer la porte
+avant qu'il passe.
+
+831
+01:04:03,733 --> 01:04:06,608
+Oui, mais il a réussi.
+
+832
+01:04:06,775 --> 01:04:09,692
+J'ai calculé le temps avec plus
+de succès que la dernière fois.
+
+833
+01:04:10,858 --> 01:04:11,858
+Tu n'es pas d'accord ?
+
+834
+01:04:13,025 --> 01:04:14,567
+On n'est plus très loin.
+
+835
+01:04:14,733 --> 01:04:15,941
+Continuons.
+
+836
+01:04:15,942 --> 01:04:17,274
+PONT DE CHARGEMENT DE ROMULUS
+
+837
+01:04:17,275 --> 01:04:22,358
+H moins 30 minutes avant impact.
+
+838
+01:06:49,025 --> 01:06:51,025
+<i>Accès refusé.</i>
+
+839
+01:06:57,692 --> 01:06:58,692
+Kay.
+
+840
+01:06:59,942 --> 01:07:01,483
+On est là. Ça va aller. Ça va.
+
+841
+01:07:01,942 --> 01:07:02,983
+Andy, ouvre la porte.
+
+842
+01:07:03,858 --> 01:07:04,942
+Ça va aller.
+
+843
+01:07:06,025 --> 01:07:07,108
+On va te sortir de là.
+
+844
+01:07:07,692 --> 01:07:08,858
+Tyler, ouvre la porte.
+
+845
+01:07:09,025 --> 01:07:10,025
+Ouvre la porte, allez.
+
+846
+01:07:12,108 --> 01:07:13,275
+Mon Dieu !
+
+847
+01:07:13,442 --> 01:07:14,737
+- Regarde-moi, Kay.
+- Andy, ouvre.
+
+848
+01:07:14,817 --> 01:07:17,150
+Kay, regarde-moi.
+Ça va aller, je vais te sortir de là.
+
+849
+01:07:17,317 --> 01:07:19,077
+- Andy, ouvre !
+- Qu'est-ce que vous faites ?
+
+850
+01:07:19,442 --> 01:07:20,275
+Ne te retourne pas.
+
+851
+01:07:20,442 --> 01:07:21,275
+Andy.
+
+852
+01:07:21,483 --> 01:07:22,567
+Tyler, que se passe-t-il ?
+
+853
+01:07:22,733 --> 01:07:24,650
+Il faut que tu ouvres
+cette porte tout de suite.
+
+854
+01:07:24,817 --> 01:07:26,817
+C'est ce que la créature veut
+qu'on fasse.
+
+855
+01:07:27,817 --> 01:07:29,233
+Ouvre, pitié.
+
+856
+01:07:30,400 --> 01:07:31,942
+- Andy, ouvre la porte.
+- Écoute-moi.
+
+857
+01:07:32,108 --> 01:07:35,692
+- Elle est enceinte.
+- Pitié. Allez.
+
+858
+01:07:35,858 --> 01:07:37,608
+Elle va avoir un bébé. D'accord ?
+
+859
+01:07:37,775 --> 01:07:38,817
+Tu entends ce que je dis ?
+
+860
+01:07:38,983 --> 01:07:41,070
+Deux secondes pour ouvrir la porte,
+deux pour la fermer.
+
+861
+01:07:41,150 --> 01:07:42,983
+Qu'est-ce que vous faites ?
+
+862
+01:07:43,733 --> 01:07:44,900
+Vous faites quoi ? Pitié !
+
+863
+01:07:45,150 --> 01:07:47,317
+Ça laisse le temps
+à la créature d'entrer ici.
+
+864
+01:07:47,483 --> 01:07:50,025
+Pitié, ouvrez la porte.
+
+865
+01:07:50,192 --> 01:07:51,392
+Pourquoi vous ne m'aidez pas ?
+
+866
+01:07:51,483 --> 01:07:52,317
+Écoute.
+
+867
+01:07:52,483 --> 01:07:53,695
+- Aidez-moi, pitié.
+- Sauve-toi.
+
+868
+01:07:53,775 --> 01:07:54,858
+- Pitié.
+- Tu dois t'enfuir.
+
+869
+01:07:55,025 --> 01:07:56,195
+- Allez !
+- C'est le seul moyen.
+
+870
+01:07:56,275 --> 01:07:57,903
+- Ouvre la porte.
+- Il faut que tu t'enfuies.
+
+871
+01:07:57,983 --> 01:07:59,192
+- D'accord ?
+- Andy, pitié !
+
+872
+01:07:59,358 --> 01:08:00,858
+- C'est le seul moyen.
+- Andy !
+
+873
+01:08:01,025 --> 01:08:02,275
+- Sauve-toi !
+- Pitié !
+
+874
+01:08:02,442 --> 01:08:03,650
+Ouvre la maudite...
+
+875
+01:08:05,733 --> 01:08:07,442
+Kay ! Kay !
+
+876
+01:08:08,650 --> 01:08:09,983
+Non, non, non.
+
+877
+01:08:10,317 --> 01:08:11,317
+Kay !
+
+878
+01:08:22,317 --> 01:08:23,357
+Je vais ouvrir.
+
+879
+01:08:24,275 --> 01:08:25,567
+Elle va bien. Elle bouge.
+
+880
+01:08:25,732 --> 01:08:27,400
+Non. Ça va.
+
+881
+01:08:34,982 --> 01:08:36,567
+Andy, ouvre la porte.
+
+882
+01:08:37,192 --> 01:08:39,732
+Andy, je dois aller la chercher.
+
+883
+01:08:40,732 --> 01:08:42,192
+Je suis désolé.
+
+884
+01:08:42,607 --> 01:08:44,192
+Je ne pouvais rien faire
+pour la sauver.
+
+885
+01:08:44,357 --> 01:08:46,275
+Tu aurais pu ouvrir
+cette maudite porte !
+
+886
+01:08:47,067 --> 01:08:48,775
+On serait tous morts
+si je l'avais fait.
+
+887
+01:08:51,025 --> 01:08:53,482
+On doit se déplacer
+avant que la créature n'entre ici.
+
+888
+01:08:53,650 --> 01:08:54,692
+Andy.
+
+889
+01:08:56,900 --> 01:08:59,067
+Quelle est ta première directive ?
+
+890
+01:09:00,732 --> 01:09:02,442
+On m'a donné une nouvelle directive.
+
+891
+01:09:03,482 --> 01:09:05,732
+Faire ce qu'il y a de mieux
+pour la compagnie.
+
+892
+01:09:07,900 --> 01:09:10,025
+Je dois remplacer ce module.
+
+893
+01:09:10,817 --> 01:09:13,275
+Ce n'est pas dans le meilleur intérêt
+de la compagnie.
+
+894
+01:09:20,275 --> 01:09:21,442
+On doit partir.
+
+895
+01:09:22,275 --> 01:09:23,275
+Maintenant.
+
+896
+01:09:33,107 --> 01:09:34,817
+Comment as-tu pu faire ça ?
+
+897
+01:09:36,067 --> 01:09:37,067
+Quoi ?
+
+898
+01:09:37,817 --> 01:09:39,442
+Sacrifier une personne ?
+
+899
+01:09:44,025 --> 01:09:45,317
+Où est-ce qu'on va ?
+
+900
+01:09:47,400 --> 01:09:49,900
+Finir une importante mission
+que Rook m'a confiée.
+
+901
+01:09:50,732 --> 01:09:54,650
+Après, il autorisera
+le départ du <i>Corbelan.</i>
+
+902
+01:09:55,525 --> 01:09:57,565
+Vous serez libres
+de vous rendre ensemble sur Yvaga.
+
+903
+01:09:57,942 --> 01:09:59,650
+Et je retournerai sur Jackson.
+
+904
+01:09:59,942 --> 01:10:01,022
+Et je resterai sur Jackson.
+
+905
+01:10:05,233 --> 01:10:07,900
+En supposant
+qu'on sorte d'ici vivants.
+
+906
+01:10:19,067 --> 01:10:20,067
+On y est.
+
+907
+01:10:44,775 --> 01:10:47,275
+<i>Labo Bêta Romulus.</i>
+
+908
+01:10:47,442 --> 01:10:52,275
+<i>Accréditation de sécurité A-1 requise
+pour tout le personnel.</i>
+
+909
+01:10:54,442 --> 01:10:55,692
+C'est quoi, ça ?
+
+910
+01:10:55,858 --> 01:10:58,567
+Sûrement une maudite arme biologique.
+
+911
+01:10:59,108 --> 01:11:00,483
+<i>En fait, c'est tout le contraire.</i>
+
+912
+01:11:02,483 --> 01:11:03,608
+<i>Andy, dis-leur.</i>
+
+913
+01:11:04,317 --> 01:11:05,942
+<i>Dis-leur ce que je t'ai dit.</i>
+
+914
+01:11:06,108 --> 01:11:07,608
+Nos colonies se meurent.
+
+915
+01:11:07,775 --> 01:11:10,942
+Températures insupportables,
+nouvelles maladies à chaque cycle.
+
+916
+01:11:11,608 --> 01:11:12,817
+Gaz miniers toxiques.
+
+917
+01:11:12,983 --> 01:11:15,983
+Un imprévu dramatique après l'autre.
+
+918
+01:11:16,150 --> 01:11:19,483
+<i>L'humanité n'a jamais été faite
+pour la colonisation spatiale.</i>
+
+919
+01:11:19,650 --> 01:11:21,775
+<i>Elle est simplement trop fragile.</i>
+
+920
+01:11:23,525 --> 01:11:24,608
+<i>Trop faible.</i>
+
+921
+01:11:26,317 --> 01:11:28,557
+Les recherches dans cette station
+devaient remédier à ça.
+
+922
+01:11:28,733 --> 01:11:32,358
+Le parfait organisme.
+Ce qu'un humain devrait être.
+
+923
+01:11:33,650 --> 01:11:36,650
+<i>Alors, j'ai réparé cette erreur.</i>
+
+924
+01:11:37,358 --> 01:11:40,442
+<i>J'ai prélevé ce don de la nature
+pour les humains.</i>
+
+925
+01:11:42,858 --> 01:11:47,025
+Dans les parasitoïdes que j'ai créés
+à partir de l'ADN du Xénomorphe,
+
+926
+01:11:47,192 --> 01:11:49,442
+j'ai découvert un fluide
+non newtonien unique.
+
+927
+01:11:50,317 --> 01:11:51,317
+<i>La vie.</i>
+
+928
+01:11:52,525 --> 01:11:55,942
+<i>Dans sa forme
+la plus primitive et pure.</i>
+
+929
+01:11:56,108 --> 01:12:00,275
+<i>Ce micro-organisme est le pathogène
+le plus destructeur jamais observé.</i>
+
+930
+01:12:00,900 --> 01:12:03,733
+<i>Mais par acétylation et synthétisation
+dans notre laboratoire,</i>
+
+931
+01:12:03,900 --> 01:12:07,650
+<i>je l'ai transformé et j'ai accompli
+le miracle dont M. Weyland avait rêvé.</i>
+
+932
+01:12:08,692 --> 01:12:10,150
+Le feu de Prométhée.
+
+933
+01:12:11,233 --> 01:12:14,108
+L'offrande divine à l'humanité.
+
+934
+01:12:16,025 --> 01:12:18,650
+<i>Le composé Z-01 contient le génome
+qui permet au Xénomorphe</i>
+
+935
+01:12:18,817 --> 01:12:22,983
+<i>d'accélérer et de ralentir
+son métabolisme à sa guise.</i>
+
+936
+01:12:23,483 --> 01:12:28,483
+<i>Avec sa capacité symbiotique, il peut
+réécrire l'ADN de l'hôte par son sang.</i>
+
+937
+01:12:29,067 --> 01:12:31,358
+AUTOINJECTEUR 100 / 1,0 ml
+
+938
+01:12:31,525 --> 01:12:35,733
+<i>Une mise à jour dont l'humanité
+a besoin depuis longtemps.</i>
+
+939
+01:12:36,317 --> 01:12:39,400
+<i>Nous ne pouvons plus attendre
+que l'évolution fasse effet.</i>
+
+940
+01:12:39,942 --> 01:12:41,983
+On peut sortir d'ici maintenant ?
+
+941
+01:12:42,692 --> 01:12:45,525
+Ma mission est de le rapporter
+pour poursuivre son développement.
+
+942
+01:12:46,483 --> 01:12:47,942
+Rook peut localiser le composé.
+
+943
+01:12:48,900 --> 01:12:51,317
+Dès qu'il le détectera à bord,
+il ouvrira le pont et lancera
+
+944
+01:12:51,483 --> 01:12:53,563
+le pilote automatique
+pour nous ramener à la colonie.
+
+945
+01:12:54,942 --> 01:12:55,942
+Attendez.
+
+946
+01:12:58,567 --> 01:12:59,608
+Vous le voyez ?
+
+947
+01:13:04,442 --> 01:13:05,442
+Là.
+
+948
+01:13:06,025 --> 01:13:07,525
+Cette merde nous suit à la trace.
+
+949
+01:13:08,983 --> 01:13:10,941
+Bon. Nouveau plan.
+
+950
+01:13:10,942 --> 01:13:11,650
+OUVRIR
+
+951
+01:13:11,651 --> 01:13:12,983
+Vous savez manier une arme ?
+
+952
+01:13:14,817 --> 01:13:16,483
+Bien sûr que oui.
+
+953
+01:13:22,692 --> 01:13:24,983
+Voici un fusil à impulsion F44AV.
+
+954
+01:13:25,150 --> 01:13:26,942
+Culasse pivotante et électropulsation.
+
+955
+01:13:27,108 --> 01:13:28,487
+C'est l'arme des commandos coloniaux.
+
+956
+01:13:28,567 --> 01:13:30,233
+A.V. veut dire assistance de visée.
+
+957
+01:13:30,400 --> 01:13:31,983
+Vas-y, place ça sous ton bras.
+
+958
+01:13:35,233 --> 01:13:36,775
+C'est ça. La main ici.
+
+959
+01:13:39,983 --> 01:13:41,150
+Voilà. Pointe-le sur Andy.
+
+960
+01:13:41,817 --> 01:13:43,017
+Presse la détente à mi-course.
+
+961
+01:13:44,150 --> 01:13:45,358
+Il y a le cran de sûreté.
+
+962
+01:13:50,150 --> 01:13:51,150
+Tu vois ?
+
+963
+01:13:51,525 --> 01:13:53,067
+Assistance de visée.
+
+964
+01:13:53,233 --> 01:13:54,487
+Si cette créature vient vers toi,
+
+965
+01:13:54,567 --> 01:13:56,927
+pointe le canon n'importe où,
+tu ne rateras jamais ton coup.
+
+966
+01:13:57,317 --> 01:13:58,525
+Où as-tu appris tout ça ?
+
+967
+01:14:00,483 --> 01:14:01,817
+Avec les jeux et les magazines.
+
+968
+01:14:02,692 --> 01:14:04,567
+Tu n'as qu'un seul chargeur.
+
+969
+01:14:05,025 --> 01:14:06,233
+De 450 balles.
+
+970
+01:14:06,692 --> 01:14:08,400
+Et tu ne dois pas en tirer une seule.
+
+971
+01:14:09,983 --> 01:14:12,400
+Leur sang, c'est de l'acide.
+Ne l'oublie pas.
+
+972
+01:14:13,525 --> 01:14:15,358
+On est au niveau le plus bas
+de la station.
+
+973
+01:14:15,525 --> 01:14:17,205
+Sous nos pieds,
+il y a le vide de l'espace.
+
+974
+01:14:17,317 --> 01:14:18,608
+Touchez cette créature,
+
+975
+01:14:18,775 --> 01:14:21,150
+et la station subira
+une soudaine décompression.
+
+976
+01:14:21,692 --> 01:14:22,733
+Tout le monde mourra.
+
+977
+01:14:22,900 --> 01:14:24,362
+Pourquoi tu nous donnes
+des armes, alors ?
+
+978
+01:14:24,442 --> 01:14:26,362
+Parce que la créature pourrait voir ça
+comme une menace
+
+979
+01:14:26,442 --> 01:14:28,733
+et peut-être
+qu'elle ne nous foncera pas dessus.
+
+980
+01:14:29,358 --> 01:14:30,358
+Peut-être.
+
+981
+01:14:30,692 --> 01:14:31,858
+C'est une hypothèse.
+
+982
+01:14:32,983 --> 01:14:34,733
+On va passer par le convoyeur à bande.
+
+983
+01:14:35,317 --> 01:14:36,483
+Par ici.
+
+984
+01:14:40,025 --> 01:14:41,192
+Andy.
+
+985
+01:14:42,817 --> 01:14:44,108
+Tu es là ?
+
+986
+01:15:16,567 --> 01:15:21,567
+H moins 20 minutes avant impact.
+
+987
+01:15:33,150 --> 01:15:35,025
+Il y a un ascenseur
+au bout de ce couloir.
+
+988
+01:15:35,192 --> 01:15:36,983
+Il nous conduira à notre vaisseau.
+
+989
+01:15:49,942 --> 01:15:51,483
+Il y en a d'autres.
+
+990
+01:15:51,650 --> 01:15:53,233
+Ce n'est pas rassurant.
+
+991
+01:15:53,650 --> 01:15:55,983
+On dirait qu'elles sont là
+depuis longtemps.
+
+992
+01:16:03,442 --> 01:16:04,442
+Andy ?
+
+993
+01:16:23,983 --> 01:16:25,775
+Seigneur.
+
+994
+01:16:30,692 --> 01:16:32,358
+Elles n'ont pas perdu de temps.
+
+995
+01:16:44,942 --> 01:16:47,192
+Faisons demi-tour
+et trouvons un autre chemin.
+
+996
+01:16:47,358 --> 01:16:48,900
+Ce n'est pas une mauvaise idée.
+
+997
+01:16:51,442 --> 01:16:53,025
+Andy, essaie d'ouvrir la porte.
+
+998
+01:16:53,692 --> 01:16:54,692
+Attendez.
+
+999
+01:16:56,567 --> 01:16:57,567
+Quoi ?
+
+1000
+01:17:10,192 --> 01:17:11,192
+Kay !
+
+1001
+01:17:11,525 --> 01:17:13,108
+Hé !
+
+1002
+01:17:13,275 --> 01:17:14,275
+Tyler !
+
+1003
+01:17:15,567 --> 01:17:16,567
+Tyler !
+
+1004
+01:17:16,650 --> 01:17:17,650
+Kay !
+
+1005
+01:17:20,442 --> 01:17:21,442
+Kay !
+
+1006
+01:17:26,567 --> 01:17:27,567
+Kay !
+
+1007
+01:17:40,650 --> 01:17:41,650
+Kay !
+
+1008
+01:17:42,650 --> 01:17:43,692
+Elle est là.
+
+1009
+01:17:47,108 --> 01:17:48,900
+Tout va bien. On est là.
+
+1010
+01:17:49,067 --> 01:17:50,192
+Elle est en vie.
+
+1011
+01:17:59,108 --> 01:18:00,400
+Ça va aller. On est là.
+
+1012
+01:18:00,567 --> 01:18:01,567
+Attends.
+
+1013
+01:18:02,525 --> 01:18:03,525
+D'accord.
+
+1014
+01:18:06,983 --> 01:18:07,983
+On est là.
+
+1015
+01:18:08,150 --> 01:18:09,650
+Tyler, elle perd beaucoup de sang.
+
+1016
+01:18:09,817 --> 01:18:12,217
+C'est peut-être pour ça
+qu'elle n'a pas encore été implantée.
+
+1017
+01:18:12,942 --> 01:18:13,942
+Comment tu le sais ?
+
+1018
+01:18:14,192 --> 01:18:16,400
+Il n'y a pas de parasitoïde mort
+à ses pieds.
+
+1019
+01:18:16,900 --> 01:18:18,817
+Andy, c'est de ta faute.
+Fais quelque chose.
+
+1020
+01:18:19,692 --> 01:18:21,150
+Je t'en prie ! Andy !
+
+1021
+01:18:26,192 --> 01:18:28,858
+L'homme et le rat ont 25 %
+de leur génome en commun.
+
+1022
+01:18:29,525 --> 01:18:30,983
+Ceci a fonctionné sur le rat.
+
+1023
+01:18:35,775 --> 01:18:36,775
+Allez, Kay.
+
+1024
+01:18:40,150 --> 01:18:41,150
+Non.
+
+1025
+01:18:41,442 --> 01:18:42,567
+Est-ce que j'ai le choix ?
+
+1026
+01:18:43,525 --> 01:18:46,567
+Retournons à bord du vaisseau
+et plaçons-la en cryosommeil.
+
+1027
+01:18:46,733 --> 01:18:49,608
+Ça devrait la maintenir en vie
+le temps de la ramener à la colonie.
+
+1028
+01:18:50,108 --> 01:18:51,650
+Je n'ai aucune confiance en ce truc.
+
+1029
+01:18:51,817 --> 01:18:53,070
+Est-ce qu'elle va survivre, Andy ?
+
+1030
+01:18:53,150 --> 01:18:54,483
+Si on se dépêche.
+
+1031
+01:19:13,942 --> 01:19:14,942
+Allez ! Allez !
+
+1032
+01:19:22,317 --> 01:19:23,733
+- Je le vois.
+- On y est.
+
+1033
+01:19:23,900 --> 01:19:25,817
+Je la tiens. Je la tiens.
+
+1034
+01:19:26,400 --> 01:19:28,025
+Ça va aller.
+
+1035
+01:19:28,192 --> 01:19:29,983
+On y est presque.
+
+1036
+01:19:32,692 --> 01:19:34,192
+Hé ! Tout va bien.
+
+1037
+01:19:34,358 --> 01:19:36,733
+On y est presque.
+
+1038
+01:19:36,900 --> 01:19:37,900
+On est tout près.
+
+1039
+01:19:37,983 --> 01:19:39,400
+Tu dois juste tenir bon.
+
+1040
+01:19:43,650 --> 01:19:44,650
+Attention !
+
+1041
+01:19:50,525 --> 01:19:51,525
+Tyler ?
+
+1042
+01:19:52,150 --> 01:19:53,150
+Tyler !
+
+1043
+01:20:23,150 --> 01:20:24,900
+C'est tout ce que tu as ?
+
+1044
+01:20:31,775 --> 01:20:32,817
+Andy !
+
+1045
+01:20:40,775 --> 01:20:42,400
+Non ! Tyler !
+
+1046
+01:21:52,150 --> 01:21:55,317
+Kay, écoute-moi, d'accord ?
+
+1047
+01:21:55,483 --> 01:21:57,317
+Ceci mène tout droit à notre vaisseau.
+
+1048
+01:21:57,483 --> 01:22:00,650
+Prends ça et place-toi
+dans un caisson d'hypersommeil.
+
+1049
+01:22:00,817 --> 01:22:03,317
+Le pilote automatique
+te ramènera à la colonie.
+
+1050
+01:22:04,483 --> 01:22:05,692
+Tu peux faire ça ?
+
+1051
+01:22:09,067 --> 01:22:10,067
+Oui ?
+
+1052
+01:22:10,233 --> 01:22:11,567
+Toi, tu vas faire quoi ?
+
+1053
+01:22:12,817 --> 01:22:14,233
+Je trouverai un autre chemin.
+
+1054
+01:22:28,067 --> 01:22:29,192
+EN HAUT
+
+1055
+01:24:09,192 --> 01:24:10,525
+Laisse-moi le retirer.
+
+1056
+01:24:11,567 --> 01:24:13,442
+En échange, je te réparerai.
+
+1057
+01:24:18,692 --> 01:24:19,942
+Écoute-moi.
+
+1058
+01:24:20,733 --> 01:24:22,567
+Tu vas mourir ici,
+
+1059
+01:24:22,733 --> 01:24:26,358
+et ce n'est pas dans l'intérêt
+de la compagnie, ni dans le mien.
+
+1060
+01:24:58,692 --> 01:25:02,608
+Allez. Andy, s'il te plaît.
+
+1061
+01:25:05,192 --> 01:25:10,358
+<i>H moins dix minutes avant impact.</i>
+
+1062
+01:25:10,525 --> 01:25:11,525
+Rain ?
+
+1063
+01:25:16,150 --> 01:25:17,150
+Andy.
+
+1064
+01:25:18,942 --> 01:25:21,733
+- Je suis désolé.
+- Non.
+
+1065
+01:25:22,442 --> 01:25:25,192
+Moi, je suis désolée.
+
+1066
+01:25:44,692 --> 01:25:46,400
+Ça ne les retiendra pas longtemps.
+
+1067
+01:26:13,067 --> 01:26:14,067
+Allez.
+
+1068
+01:26:14,983 --> 01:26:16,274
+<i>Vous perdez votre temps.</i>
+
+1069
+01:26:16,275 --> 01:26:17,357
+LABO REMUS
+
+1070
+01:26:17,358 --> 01:26:18,650
+Aidez-nous, je vous en prie.
+
+1071
+01:26:20,608 --> 01:26:21,650
+Ouvrez la porte.
+
+1072
+01:26:22,192 --> 01:26:24,192
+<i>Je suis dans l'obligation
+de refuser votre demande.</i>
+
+1073
+01:26:24,442 --> 01:26:26,858
+<i>Je ne peux pas risquer
+de compromettre le composé.</i>
+
+1074
+01:26:27,025 --> 01:26:29,345
+<i>Mais sachez que je suis reconnaissant
+pour l'aide précieuse</i>
+
+1075
+01:26:29,442 --> 01:26:30,962
+<i>que vous avez apportée à la compagnie.</i>
+
+1076
+01:26:33,442 --> 01:26:34,442
+Fils de pute !
+
+1077
+01:26:40,775 --> 01:26:41,775
+Andy, ouvre la porte.
+
+1078
+01:26:41,942 --> 01:26:42,942
+- Allez.
+- Ouvre.
+
+1079
+01:26:43,817 --> 01:26:44,817
+Ça ne fonctionne pas.
+
+1080
+01:26:44,983 --> 01:26:46,317
+Bordel de merde !
+
+1081
+01:26:52,567 --> 01:26:54,527
+<i>Je ne vous mentirai pas
+sur vos chances de survie,</i>
+
+1082
+01:26:55,150 --> 01:26:56,692
+<i>mais vous avez ma sympathie.</i>
+
+1083
+01:27:13,942 --> 01:27:16,233
+À DISTANCE
+
+1084
+01:27:16,400 --> 01:27:17,400
+<i>Appuyez dessus,</i>
+
+1085
+01:27:17,942 --> 01:27:20,502
+<i>pour que je puisse piloter le vaisseau
+et vous ramener chez vous.</i>
+
+1086
+01:27:23,358 --> 01:27:24,400
+Qui êtes-vous ?
+
+1087
+01:27:24,650 --> 01:27:25,775
+<i>Un ami.</i>
+
+1088
+01:27:27,733 --> 01:27:30,525
+<i>Vos compagnons sont morts
+pour vous sauver la vie.</i>
+
+1089
+01:27:30,692 --> 01:27:31,775
+<i>Appuyez sur le bouton,</i>
+
+1090
+01:27:32,525 --> 01:27:34,275
+<i>et laissez-moi honorer leur sacrifice.</i>
+
+1091
+01:27:43,525 --> 01:27:46,067
+Andy, raconte-moi
+une de tes mauvaises blagues.
+
+1092
+01:27:48,358 --> 01:27:50,278
+Pourquoi les monstres
+ne mangent pas les clowns ?
+
+1093
+01:27:52,983 --> 01:27:55,143
+- Ils ont un drôle de goût.
+- Ils ont un drôle de goût.
+
+1094
+01:27:55,525 --> 01:27:57,485
+La différence entre un crocodile
+et un alligator ?
+
+1095
+01:27:58,567 --> 01:27:59,775
+C'est caïman la même chose.
+
+1096
+01:28:01,192 --> 01:28:03,983
+Un astronaute qui commet un crime
+dans l'espace sera-t-il puni ?
+
+1097
+01:28:04,150 --> 01:28:06,190
+- Non, c'est un crime sans gravité.
+- Sans gravité ?
+
+1098
+01:28:09,317 --> 01:28:10,317
+Rain ?
+
+1099
+01:28:10,942 --> 01:28:11,942
+Rain ?
+
+1100
+01:28:12,942 --> 01:28:14,102
+Rain, qu'est-ce que tu fais ?
+
+1101
+01:28:14,858 --> 01:28:16,066
+J'éteins le générateur de gravité.
+
+1102
+01:28:16,067 --> 01:28:17,941
+GRAVITÉ
+ACTIVÉ
+
+1103
+01:28:17,942 --> 01:28:18,942
+<i>Dix,</i>
+
+1104
+01:28:19,108 --> 01:28:22,192
+<i>neuf, huit, sept,</i>
+
+1105
+01:28:22,358 --> 01:28:24,400
+<i>six, cinq,</i>
+
+1106
+01:28:24,567 --> 01:28:26,567
+<i>quatre, trois,</i>
+
+1107
+01:28:26,733 --> 01:28:28,357
+<i>deux, un.</i>
+
+1108
+01:28:28,358 --> 01:28:29,358
+DÉSACTIVÉ
+
+1109
+01:28:35,317 --> 01:28:36,817
+Rain, tu es sûre que ça va marcher ?
+
+1110
+01:28:37,900 --> 01:28:39,260
+Il n'y a qu'un moyen de le savoir.
+
+1111
+01:28:46,067 --> 01:28:47,108
+Ça marche.
+
+1112
+01:29:05,983 --> 01:29:06,817
+Rain !
+
+1113
+01:29:06,983 --> 01:29:07,983
+Tu es à 40 %.
+
+1114
+01:29:19,317 --> 01:29:20,317
+À 20 %.
+
+1115
+01:29:32,817 --> 01:29:33,817
+Rain !
+
+1116
+01:29:44,650 --> 01:29:45,650
+Merde.
+
+1117
+01:29:53,942 --> 01:29:55,317
+Reste derrière moi.
+
+1118
+01:30:00,983 --> 01:30:01,983
+Andy, fais attention.
+
+1119
+01:30:27,650 --> 01:30:28,650
+Rain !
+
+1120
+01:30:45,858 --> 01:30:47,150
+Andy, ça va ?
+
+1121
+01:30:53,400 --> 01:30:55,150
+On doit atteindre l'ascenseur.
+
+1122
+01:30:55,317 --> 01:31:00,275
+PROCHAIN PURGE DE GRAVITÉ :
+COMPTE À REBOURS DU SYSTÈME
+
+1123
+01:31:09,483 --> 01:31:11,733
+L'ascenseur ne marche pas
+sans gravité.
+
+1124
+01:31:28,775 --> 01:31:29,775
+Prêt ?
+
+1125
+01:31:39,858 --> 01:31:40,858
+Rain !
+
+1126
+01:31:53,942 --> 01:31:54,942
+Merde.
+
+1127
+01:32:09,567 --> 01:32:10,567
+Non.
+
+1128
+01:32:21,650 --> 01:32:22,900
+C'est une purge de gravité.
+
+1129
+01:32:28,775 --> 01:32:29,900
+ACTIVÉ
+
+1130
+01:32:33,525 --> 01:32:34,608
+Andy !
+
+1131
+01:32:34,900 --> 01:32:35,900
+Allez.
+
+1132
+01:33:57,400 --> 01:33:58,400
+Andy !
+
+1133
+01:34:29,483 --> 01:34:30,692
+Ne t'approche pas d'elle.
+
+1134
+01:34:36,358 --> 01:34:38,358
+Enfoiré !
+
+1135
+01:34:54,775 --> 01:34:58,692
+<i>Impact dans dix,</i>
+
+1136
+01:34:58,858 --> 01:35:00,692
+<i>neuf, huit,</i>
+
+1137
+01:35:01,275 --> 01:35:03,400
+<i>sept, six,</i>
+
+1138
+01:35:03,942 --> 01:35:05,108
+<i>cinq,</i>
+
+1139
+01:35:05,275 --> 01:35:06,817
+<i>- quatre, trois...</i>
+- Allez.
+
+1140
+01:35:07,775 --> 01:35:09,650
+<i>Deux, un.</i>
+
+1141
+01:35:15,483 --> 01:35:16,483
+Kay.
+
+1142
+01:35:21,233 --> 01:35:22,692
+Tu en as mis, du temps.
+
+1143
+01:35:22,858 --> 01:35:24,067
+On va te sortir d'ici.
+
+1144
+01:35:25,483 --> 01:35:26,275
+DEMANDE DE CONTRÔLE
+
+1145
+01:35:26,276 --> 01:35:27,396
+<i>Heureux de vous voir en vie.</i>
+
+1146
+01:35:32,650 --> 01:35:34,067
+PRISE DE CONTRÔLE
+
+1147
+01:36:23,067 --> 01:36:24,233
+SYSTÈMES D'HYPERSOMMEIL
+
+1148
+01:36:25,733 --> 01:36:27,013
+Allez. Fais attention à ta tête.
+
+1149
+01:36:28,942 --> 01:36:31,233
+- Merci.
+- Tout ira bien.
+
+1150
+01:36:32,150 --> 01:36:33,233
+Vous êtes sauvés.
+
+1151
+01:36:42,983 --> 01:36:46,275
+<i>La compagnie sera fière
+de ce qui a été accompli aujourd'hui.</i>
+
+1152
+01:36:47,192 --> 01:36:49,108
+<i>J'ai envoyé un message
+au quartier général.</i>
+
+1153
+01:36:49,275 --> 01:36:51,695
+<i>Ils le recevront dans six mois
+et enverront une mission sur Jackson</i>
+
+1154
+01:36:51,775 --> 01:36:53,895
+<i>pour récupérer le composé
+et continuer les recherches.</i>
+
+1155
+01:36:54,692 --> 01:36:56,025
+PILOTE AUTOMATIQUE OUTREPASSÉ
+
+1156
+01:37:00,525 --> 01:37:01,608
+<i>Qu'est-ce que vous faites ?</i>
+
+1157
+01:37:01,775 --> 01:37:02,775
+DÉCONNECTÉ
+
+1158
+01:37:02,900 --> 01:37:04,150
+Changement de plan.
+
+1159
+01:37:06,525 --> 01:37:08,442
+<i>Andy, arrêtez-la.</i>
+
+1160
+01:37:08,983 --> 01:37:10,317
+<i>Reconnectez-nous.</i>
+
+1161
+01:37:13,233 --> 01:37:14,942
+<i>Non, non. Vous ne pouvez pas faire ça.</i>
+
+1162
+01:37:15,108 --> 01:37:16,748
+<i>Le composé doit être livré
+à la compagnie.</i>
+
+1163
+01:37:17,358 --> 01:37:19,358
+<i>Je suis dans l'obligation
+de refuser votre demande.</i>
+
+1164
+01:37:19,733 --> 01:37:20,775
+<i>Bonne journée.</i>
+
+1165
+01:37:21,817 --> 01:37:24,150
+Écoutez-moi bien, vous deux.
+
+1166
+01:37:24,317 --> 01:37:27,275
+Vous êtes insignifiants
+dans le grand plan de l'univers.
+
+1167
+01:37:34,150 --> 01:37:35,150
+Non.
+
+1168
+01:37:50,442 --> 01:37:53,150
+Ça gardera ton système opérationnel
+jusqu'à Yvaga.
+
+1169
+01:37:55,192 --> 01:37:57,192
+- Je croyais que...
+- Je m'en fiche.
+
+1170
+01:37:57,525 --> 01:37:59,108
+Tu viens avec moi. D'accord ?
+
+1171
+01:38:00,692 --> 01:38:02,292
+Si c'est ce qu'il y a de mieux
+pour Rain.
+
+1172
+01:38:04,983 --> 01:38:06,983
+Andy, j'ai une nouvelle
+directive pour toi.
+
+1173
+01:38:08,858 --> 01:38:10,483
+Fais ce qu'il y a de mieux pour nous.
+
+1174
+01:38:14,067 --> 01:38:15,067
+D'accord.
+
+1175
+01:38:16,442 --> 01:38:17,442
+Bien.
+
+1176
+01:38:34,692 --> 01:38:36,692
+NIVEAUX VITAUX CRITIQUES
+STASE ANNULÉE
+
+1177
+01:38:37,650 --> 01:38:38,650
+Non.
+
+1178
+01:38:42,108 --> 01:38:43,942
+Oh, Kay. Kay.
+
+1179
+01:38:45,108 --> 01:38:46,192
+Qu'y a-t-il ?
+
+1180
+01:38:47,817 --> 01:38:49,108
+Oh, non.
+
+1181
+01:39:18,942 --> 01:39:21,108
+Éloigne ça de moi.
+
+1182
+01:40:10,025 --> 01:40:11,525
+AVERTISSEMENT !
+INTÉGRITÉ COMPROMISE
+
+1183
+01:40:12,025 --> 01:40:13,400
+PILOTE AUTOMATIQUE DÉCONNECTÉ
+
+1184
+01:40:13,525 --> 01:40:14,942
+MANUEL
+PILOTE AUTOMATIQUE
+
+1185
+01:40:36,858 --> 01:40:39,608
+LARGAGE DE LA CALE
+
+1186
+01:41:44,608 --> 01:41:45,817
+Oh, mon Dieu.
+
+1187
+01:43:09,858 --> 01:43:10,858
+Kay.
+
+1188
+01:43:24,358 --> 01:43:26,358
+Non. Pitié.
+
+1189
+01:43:51,567 --> 01:43:53,317
+Andy ! Andy !
+
+1190
+01:43:55,192 --> 01:43:56,317
+Non, non.
+
+1191
+01:43:56,775 --> 01:43:58,025
+Rain. Rain.
+
+1192
+01:43:58,192 --> 01:43:59,192
+Aide-la.
+
+1193
+01:44:36,358 --> 01:44:37,358
+Non !
+
+1194
+01:44:39,942 --> 01:44:40,942
+Non !
+
+1195
+01:44:55,650 --> 01:44:57,275
+Andy ! Allez !
+
+1196
+01:44:59,817 --> 01:45:01,025
+Lève-toi !
+
+1197
+01:45:09,650 --> 01:45:10,650
+Non !
+
+1198
+01:45:14,692 --> 01:45:15,942
+Allez !
+
+1199
+01:45:22,025 --> 01:45:25,317
+TEMPÉRATURE AMBIANTE CRITIQUE
+
+1200
+01:46:16,567 --> 01:46:19,858
+LARGAGE DE LA CALE
+ACTIONNER LES LEVIERS
+
+1201
+01:46:40,233 --> 01:46:43,067
+"Largage manuel de la cale.
+Actionner les quatre leviers."
+
+1202
+01:46:43,358 --> 01:46:46,567
+D'accord. Oui. Les quatre leviers.
+
+1203
+01:46:54,650 --> 01:46:55,650
+Un.
+
+1204
+01:46:57,442 --> 01:46:58,442
+Deux.
+
+1205
+01:47:21,400 --> 01:47:22,400
+Trois.
+
+1206
+01:47:40,442 --> 01:47:42,400
+TIREZ LES LEVIERS POUR RELÂCHER
+
+1207
+01:47:50,108 --> 01:47:52,025
+<i>Redressez. Redressez.</i>
+
+1208
+01:49:29,733 --> 01:49:31,567
+<i>Crève, fils de pute !</i>
+
+1209
+01:50:12,442 --> 01:50:13,567
+MANUEL
+PILOTE AUTOMATIQUE
+
+1210
+01:50:28,567 --> 01:50:31,067
+DESTINATION YVAGA III
+
+1211
+01:50:51,775 --> 01:50:53,108
+Je te réparerai.
+
+1212
+01:51:08,150 --> 01:51:09,150
+JOURNAL DE BORD - CRYOSTASE
+
+1213
+01:51:09,151 --> 01:51:12,275
+<i>Journal de bord
+du cargo minier</i> Corbelan.
+
+1214
+01:51:13,983 --> 01:51:18,067
+<i>Je mets le cap sur le système Yvaga
+sans savoir si je vais l'atteindre.</i>
+
+1215
+01:51:18,233 --> 01:51:20,233
+<i>Ni ce que le destin me réserve.</i>
+
+1216
+01:51:21,358 --> 01:51:24,608
+<i>Mais quoi qu'il arrive,
+je l'affronterai.</i>
+
+1217
+01:51:25,942 --> 01:51:27,275
+<i>Ici Rain Carradine,</i>
+
+1218
+01:51:27,442 --> 01:51:28,983
+<i>dernière survivante du</i> Corbelan.
+
+1219
+01:51:29,567 --> 01:51:30,733
+<i>Terminé.</i>
+
+1220
+01:58:48,650 --> 01:58:50,650
+Sous-titres : Marieve Guerin
