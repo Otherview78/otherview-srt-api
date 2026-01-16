@@ -1,0 +1,5327 @@
+1
+00:01:01,528 --> 00:01:05,862
+L'ILLUSIONNISTE
+
+2
+00:03:50,697 --> 00:03:53,689
+Ah ! C'est elle !
+Je sais que c'est elle !
+
+3
+00:03:53,766 --> 00:03:56,326
+Elle veut s'adresser à nous !
+Il faut faire quelque chose !
+
+4
+00:03:56,402 --> 00:03:58,802
+- S'il vous plaît !
+- En position ! À l'avant !
+
+5
+00:03:58,871 --> 00:04:02,272
+- Ça suffit !
+- Vous interrompez le spectacle !
+
+6
+00:04:02,342 --> 00:04:04,936
+- Mais c'est la police !
+- En place !
+
+7
+00:04:11,317 --> 00:04:13,547
+Au nom de
+sa Majesté impériale
+
+8
+00:04:13,620 --> 00:04:15,554
+et de la Ville de Vienne,
+
+9
+00:04:15,622 --> 00:04:17,556
+par la présente, j'arrête
+
+10
+00:04:17,624 --> 00:04:20,252
+Edward Abramovitz,
+connu sous le nom
+
+11
+00:04:20,326 --> 00:04:22,294
+d'Eisenheim l'illusionniste !
+
+12
+00:04:22,362 --> 00:04:25,559
+- Pour avoir troublé l'ordre pub...
+- Non ! Honte à vous !
+
+13
+00:04:25,632 --> 00:04:27,463
+...pour charlatanisme et pour
+
+14
+00:04:27,533 --> 00:04:29,125
+menaces contre l'Empire !
+
+15
+00:04:29,202 --> 00:04:30,897
+Laissez-le tranquille !
+
+16
+00:04:30,970 --> 00:04:32,403
+Honte à vous !
+
+17
+00:04:32,472 --> 00:04:33,905
+Arrêtez ! Laissez-le !
+
+18
+00:04:34,974 --> 00:04:36,202
+Bandits !
+
+19
+00:04:36,276 --> 00:04:38,335
+Ils vont l'arrêter !
+
+20
+00:04:38,411 --> 00:04:39,969
+Ils arrêtent Eisenheim !
+
+21
+00:05:02,802 --> 00:05:04,770
+Le chef inspecteur Uhl.
+
+22
+00:05:16,649 --> 00:05:18,879
+- Vous êtes en retard.
+- Je vous prie de m'excuser,
+
+23
+00:05:18,951 --> 00:05:21,511
+votre Altesse,
+je voyais à certains détails
+
+24
+00:05:21,587 --> 00:05:23,054
+mal ficelés de l'affaire.
+
+25
+00:05:23,122 --> 00:05:26,956
+- Il en reste encore ?
+- Mais très peu.
+
+26
+00:05:27,026 --> 00:05:29,017
+L'a-t-il refait ?
+
+27
+00:05:31,464 --> 00:05:32,863
+Comment est-ce qu'il fait ?
+
+28
+00:05:32,932 --> 00:05:35,799
+Je ne l'ai pas encore trouvé,
+malheureusement.
+
+29
+00:05:38,004 --> 00:05:39,904
+Vous lui avez demandé ?
+
+30
+00:05:39,972 --> 00:05:42,406
+Il garde le silence
+pour l'instant.
+
+31
+00:05:42,475 --> 00:05:45,967
+Mais je suis persuadé
+que vous avez... des méthodes
+
+32
+00:05:46,045 --> 00:05:48,707
+pour ce genre de choses.
+
+33
+00:05:50,350 --> 00:05:52,784
+Je veux que vous
+y mettiez un terme.
+
+34
+00:05:52,852 --> 00:05:55,320
+Vous devez avoir quelque
+reproche à lui faire...
+
+35
+00:05:55,388 --> 00:05:57,822
+quelque chose de son passé,
+peut-être ?
+
+36
+00:05:59,592 --> 00:06:02,220
+Oui...
+
+37
+00:06:02,295 --> 00:06:05,230
+Oui, je crois que oui.
+
+38
+00:06:10,303 --> 00:06:13,272
+<i>En fait, nous savons tout de sa vie</i>.
+
+39
+00:06:15,408 --> 00:06:18,900
+<i>Nous avons parlé à pratiquement</i>
+<i>tous ceux qui l'ont connu</i>.
+
+40
+00:06:25,318 --> 00:06:27,343
+<i>On me dit que</i>
+<i>lorsqu'il était enfant,</i>
+
+41
+00:06:27,420 --> 00:06:30,287
+<i>il a rencontré par hasard</i>
+<i>un magicien itinérant</i>.
+
+42
+00:06:34,827 --> 00:06:37,022
+Petit.
+
+43
+00:07:09,929 --> 00:07:12,363
+<i>Une version de cette histoire</i>
+<i>veut que l'homme lui-même</i>
+
+44
+00:07:12,432 --> 00:07:15,162
+<i>se soit évanoui</i>.
+
+45
+00:07:15,234 --> 00:07:18,169
+<i>Ainsi que l'arbre</i>.
+
+46
+00:07:18,237 --> 00:07:20,501
+<i>Qui sait ce qui s'est</i>
+<i>réellement passé ?</i>
+
+47
+00:07:34,620 --> 00:07:36,554
+<i>Les gens commencèrent</i>
+<i>à croire</i>
+
+48
+00:07:36,622 --> 00:07:39,420
+<i>qu'il avait une sorte</i>
+<i>de pouvoir spécial,</i>
+
+49
+00:07:39,492 --> 00:07:43,087
+<i>ou à tout le moins,</i>
+<i>qu'il était un peu</i>... <i>différent</i>.
+
+50
+00:07:48,134 --> 00:07:50,102
+<i>Et un jour, il a rencontré</i>
+<i>la jeune fille</i>.
+
+51
+00:08:00,146 --> 00:08:02,910
+- Ne le laisse pas tomber !
+- Attention, tu vas trébucher !
+
+52
+00:08:02,982 --> 00:08:04,347
+Laisse-le tomber,
+espèce de bouseux !
+
+53
+00:08:04,417 --> 00:08:07,045
+- Attention au trou !
+- Rat de ruelle !
+
+54
+00:08:07,119 --> 00:08:09,110
+Laisse-le tomber !
+
+55
+00:08:20,800 --> 00:08:22,700
+Prends une carte.
+
+56
+00:08:25,538 --> 00:08:28,234
+Remets-la dans le paquet.
+
+57
+00:08:34,480 --> 00:08:36,277
+Maintenant, regarde.
+
+58
+00:08:46,826 --> 00:08:49,226
+Duchesse von Teschen !
+
+59
+00:08:49,295 --> 00:08:52,822
+Que faites-vous dans un tel
+endroit ? Ce sont des paysans !
+
+60
+00:08:52,899 --> 00:08:54,958
+Rappelez-vous votre rang !
+
+61
+00:09:25,531 --> 00:09:27,465
+<i>On la ramena au château</i>
+
+62
+00:09:27,533 --> 00:09:29,763
+<i>et il leur fut interdit de se revoir</i>.
+
+63
+00:09:29,835 --> 00:09:32,804
+<i>Mais bien vite, c'est</i>
+<i>exactement ce qu'ils firent</i>.
+
+64
+00:09:32,872 --> 00:09:34,703
+<i>Au cours des années suivantes,</i>
+
+65
+00:09:34,774 --> 00:09:37,402
+<i>ils trouvèrent toujours</i>
+<i>le moyen d'être ensemble</i>.
+
+66
+00:09:37,476 --> 00:09:38,943
+Viens vite.
+
+67
+00:09:44,817 --> 00:09:48,184
+En Chine, il y a un magicien
+qui peut faire disparaître
+
+68
+00:09:48,254 --> 00:09:50,381
+n'importe quoi : une maison,
+une carriole, tout.
+
+69
+00:09:50,456 --> 00:09:52,390
+Nous irons lui rendre visite.
+
+70
+00:09:52,458 --> 00:09:55,256
+Ils n'arriveront pas
+à nous empêcher de nous voir.
+
+71
+00:09:55,328 --> 00:09:57,853
+Ils ne nous retrouveront jamais.
+
+72
+00:09:57,930 --> 00:10:00,262
+Tu me promets de
+m'emmener avec toi ?
+
+73
+00:10:00,333 --> 00:10:02,301
+Un jour, je le ferai.
+
+74
+00:10:04,637 --> 00:10:07,105
+Un jour, nous nous enfuirons
+tous les deux.
+
+75
+00:10:07,173 --> 00:10:09,403
+Nous disparaîtrons.
+
+76
+00:10:46,512 --> 00:10:50,608
+Il y a un secret à apprendre
+pour l'ouvrir.
+
+77
+00:11:03,362 --> 00:11:05,330
+Je voulais un portrait.
+
+78
+00:11:24,483 --> 00:11:26,451
+Sophie, tu es là ?
+
+79
+00:11:28,854 --> 00:11:31,721
+Ils approchent.
+Il faut se dépêcher.
+
+80
+00:11:36,362 --> 00:11:38,796
+Duchesse von Teschen !
+
+81
+00:11:38,864 --> 00:11:42,459
+Duchesse von Teschen !
+
+82
+00:11:45,871 --> 00:11:48,635
+Fais-nous disparaître. Je t'en
+prie, fais-nous disparaître.
+
+83
+00:11:48,708 --> 00:11:50,835
+Duchesse von Teschen !
+
+84
+00:11:56,215 --> 00:11:57,807
+Stop. Stop.
+
+85
+00:11:57,883 --> 00:12:00,317
+Attendez. Venez voir ici.
+
+86
+00:12:01,754 --> 00:12:03,517
+Les voilà !
+
+87
+00:12:03,589 --> 00:12:05,523
+- Venez par ici !
+- Ne faites pas ça !
+
+88
+00:12:05,591 --> 00:12:06,785
+- Non, arrêtez !
+- Lâchez-moi !
+
+89
+00:12:06,859 --> 00:12:08,326
+Allez, duchesse,
+venez avec nous.
+
+90
+00:12:08,394 --> 00:12:09,793
+- Laissez-moi !
+- Arrêtez !
+
+91
+00:12:09,862 --> 00:12:11,955
+- Lâchez-la !
+- Toi, reste là !
+
+92
+00:12:12,031 --> 00:12:14,329
+- S'il vous plaît !
+- Edward !
+
+93
+00:12:14,400 --> 00:12:16,925
+- Arrêtez ! Non !
+- Allez-y, duchesse.
+
+94
+00:12:17,002 --> 00:12:19,493
+- Lâchez-moi !
+- Lâche-la, toi, lâche-la !
+
+95
+00:12:19,572 --> 00:12:21,938
+Laissez-nous, s'il vous plaît !
+
+96
+00:12:22,007 --> 00:12:24,703
+- Non ! Arrêtez !
+- Sophie !
+
+97
+00:12:24,777 --> 00:12:26,677
+- Suivez-nous.
+- Edward !
+
+98
+00:12:26,746 --> 00:12:28,680
+- Sophie !
+- Edward !
+
+99
+00:12:28,748 --> 00:12:30,773
+Sophie.
+
+100
+00:12:30,850 --> 00:12:33,580
+Toi, ne t'approche plus
+d'elle ou la prochaine fois,
+
+101
+00:12:33,652 --> 00:12:35,313
+on t'arrête
+avec toute ta famille.
+
+102
+00:12:45,364 --> 00:12:47,798
+<i>Ce qui s'est passé par la suite</i>
+
+103
+00:12:47,867 --> 00:12:49,334
+<i>demeure un mystère</i>.
+
+104
+00:12:49,401 --> 00:12:52,336
+<i>On sait qu'il a parcouru le monde,</i>
+
+105
+00:12:52,404 --> 00:12:55,396
+<i>qu'il a commencé à présenter</i>
+<i>sa magie en public,</i>
+
+106
+00:12:55,474 --> 00:12:57,840
+<i>qu'il a changé son nom</i>
+<i>en Eisenheim</i>...
+
+107
+00:12:59,879 --> 00:13:02,746
+<i>et que près de 15 ans plus tard,</i>
+
+108
+00:13:02,815 --> 00:13:05,283
+<i>il apparut à Vienne</i>.
+
+109
+00:13:12,324 --> 00:13:14,918
+La vie et la mort.
+
+110
+00:13:14,994 --> 00:13:18,259
+L'espace et le temps.
+
+111
+00:13:18,330 --> 00:13:21,561
+Le destin et le hasard.
+
+112
+00:13:21,634 --> 00:13:25,195
+Telles sont les forces
+de l'univers.
+
+113
+00:13:25,271 --> 00:13:27,762
+Ce soir, mesdames et messieurs,
+
+114
+00:13:27,840 --> 00:13:30,206
+je vous présente un homme
+qui a...
+
+115
+00:13:30,276 --> 00:13:33,768
+résolu ces mystères.
+
+116
+00:13:33,846 --> 00:13:36,576
+Depuis les plus lointaines
+régions du monde
+
+117
+00:13:36,649 --> 00:13:39,777
+où les arts noirs
+règnent encore en maîtres,
+
+118
+00:13:39,852 --> 00:13:42,446
+voilà qu'il nous revient
+nous démontrer
+
+119
+00:13:42,521 --> 00:13:46,958
+que les lois de la nature
+ne sont pas immuables.
+
+120
+00:13:47,026 --> 00:13:51,053
+Je vous offre Eisenheim.
+
+121
+00:13:58,604 --> 00:14:01,072
+Si quelqu'un a un mouchoir,
+
+122
+00:14:01,140 --> 00:14:03,438
+je lui serai gré
+de me le prêter.
+
+123
+00:14:06,312 --> 00:14:08,109
+Vous, madame ?
+
+124
+00:14:22,828 --> 00:14:24,295
+Merci beaucoup.
+
+125
+00:14:25,331 --> 00:14:26,764
+Ah-ah.
+
+126
+00:14:26,832 --> 00:14:29,266
+Un peu de patience.
+
+127
+00:14:29,335 --> 00:14:31,496
+Alors si vous le voulez bien,
+
+128
+00:14:31,570 --> 00:14:32,662
+maintenant
+j'aimerais qu'ensemble,
+
+129
+00:14:32,738 --> 00:14:35,764
+nous nous penchions
+sur le temps.
+
+130
+00:14:35,841 --> 00:14:38,605
+Au moment même
+où nous entrons dans cette vie,
+
+131
+00:14:38,677 --> 00:14:40,770
+le temps nous aspire.
+
+132
+00:14:40,846 --> 00:14:43,508
+Nous le mesurons
+et nous le marquons.
+
+133
+00:14:43,582 --> 00:14:45,516
+Mais il reste le maître.
+
+134
+00:14:45,584 --> 00:14:47,677
+L'accélérer,
+nous ne pourrons jamais.
+
+135
+00:14:47,753 --> 00:14:49,550
+Ni le ralentir.
+
+136
+00:14:51,290 --> 00:14:52,757
+Ah non, vraiment ?
+
+137
+00:14:54,860 --> 00:14:57,556
+Qui d'entre nous n'a pas connu
+cette sensation
+
+138
+00:14:57,630 --> 00:14:59,996
+qu'un merveilleux moment
+semble passer trop vite...
+
+139
+00:15:00,065 --> 00:15:03,466
+ni souhaité qu'il veuille
+bien s'attarder...
+
+140
+00:15:06,138 --> 00:15:09,742
+ou trouvé le temps
+un peu lent, un jour d'ennui,
+
+141
+00:15:09,875 --> 00:15:13,436
+et souhaité pouvoir
+l'accélérer un peu ?
+
+142
+00:16:19,845 --> 00:16:22,609
+Je vous assure
+que ce sont des vraies.
+
+143
+00:16:22,681 --> 00:16:24,842
+Alors, elles sont vraies ?
+
+144
+00:16:24,917 --> 00:16:26,384
+Et vous, madame ?
+
+145
+00:16:26,452 --> 00:16:28,420
+Où est votre mouchoir ?
+
+146
+00:16:51,210 --> 00:16:53,405
+- Bravo !
+- Bravo !
+
+147
+00:16:54,947 --> 00:16:56,107
+Encore !
+
+148
+00:16:56,181 --> 00:16:58,615
+- Bravo !
+- Bravo !
+
+149
+00:16:58,684 --> 00:16:59,582
+Bravo !
+
+150
+00:16:59,651 --> 00:17:01,551
+- Bravo !
+- Bravo !
+
+151
+00:17:01,620 --> 00:17:02,746
+Magnifique.
+
+152
+00:17:02,821 --> 00:17:05,153
+- Bravo !
+- Bravo !
+
+153
+00:17:05,357 --> 00:17:08,588
+Donnez-nous quelque chose,
+s'il vous plaît !
+
+154
+00:17:08,660 --> 00:17:09,752
+Donnez-nous quelque chose,
+monsieur !
+
+155
+00:17:09,828 --> 00:17:12,422
+- S'il vous plaît...
+- Quoi ? Qu'est-ce qu'il y a ?
+
+156
+00:17:12,498 --> 00:17:14,022
+On est pauvres.
+
+157
+00:17:14,099 --> 00:17:16,897
+- Vous vous croyez pauvres ?
+- Oui.
+
+158
+00:17:16,969 --> 00:17:18,903
+Ô, monsieur.
+
+159
+00:17:18,971 --> 00:17:21,235
+Regardez bien
+ce que je vais vous montrer.
+
+160
+00:17:21,306 --> 00:17:22,864
+Vous n'êtes pas pauvres.
+
+161
+00:17:22,941 --> 00:17:25,739
+Vous avez tout
+ce qu'il vous faut.
+
+162
+00:17:25,811 --> 00:17:27,745
+Vous voyez ?
+
+163
+00:17:27,813 --> 00:17:29,280
+Merci, monsieur.
+
+164
+00:17:31,316 --> 00:17:32,783
+Merci, monsieur.
+
+165
+00:17:34,820 --> 00:17:37,254
+Merci.
+
+166
+00:17:37,322 --> 00:17:39,290
+Et ça, c'est à toi.
+
+167
+00:17:40,993 --> 00:17:43,621
+- Et... ça aussi.
+- Oh !
+
+168
+00:17:43,695 --> 00:17:46,664
+Tout ça pour nous !
+
+169
+00:17:46,732 --> 00:17:48,666
+On va pouvoir manger
+comme on veut !
+
+170
+00:17:48,734 --> 00:17:50,361
+Y en a une là !
+
+171
+00:18:00,679 --> 00:18:02,579
+- Bonjour.
+- Bonjour.
+
+172
+00:18:04,783 --> 00:18:06,717
+- Café ?
+- Non, merci.
+
+173
+00:18:06,785 --> 00:18:10,084
+- Strudel ? J'en ai deux.
+- Non, rien, merci beaucoup.
+
+174
+00:18:12,458 --> 00:18:14,619
+Tu m'as l'air de
+très bonne humeur, Josef.
+
+175
+00:18:14,693 --> 00:18:16,627
+- Comment est la recette ?
+- Pas mal.
+
+176
+00:18:16,695 --> 00:18:19,220
+- On a fait trois quarts de salle.
+- Bravo.
+
+177
+00:18:19,298 --> 00:18:21,732
+Mais on va remplir
+avant longtemps. Écoute ça.
+
+178
+00:18:21,800 --> 00:18:24,234
+Écoute. "Il est indiscutable
+
+179
+00:18:24,303 --> 00:18:26,498
+"que ses illusions troublantes
+le séparent nettement
+
+180
+00:18:26,572 --> 00:18:27,834
+"du reste des magiciens
+
+181
+00:18:27,906 --> 00:18:30,033
+"de music-hall ordinaire.
+
+182
+00:18:30,109 --> 00:18:33,237
+"Certains de ses effets
+transcendent la pure illusion
+
+183
+00:18:33,312 --> 00:18:36,247
+"et approchent
+le royaume de l'art.
+
+184
+00:18:36,315 --> 00:18:39,307
+Il est vraiment très jeune
+pour être à ce point magistral."
+
+185
+00:18:39,384 --> 00:18:41,852
+Tu vois ? Avec cette critique,
+
+186
+00:18:41,920 --> 00:18:43,251
+on va jouer à guichets fermés.
+
+187
+00:18:43,322 --> 00:18:45,813
+On va s'en mettre plein les poches,
+au-delà de tes rêves.
+
+188
+00:18:45,891 --> 00:18:47,722
+Et si c'était mécanique ?
+
+189
+00:18:47,793 --> 00:18:50,762
+Peut-être qu'il l'enveloppe
+dans une sorte de... d'écorce ?
+
+190
+00:18:50,829 --> 00:18:52,820
+Ouais, bien sûr, j'y ai pensé.
+
+191
+00:18:52,898 --> 00:18:54,593
+C'est les papillons
+que j'aimerais élucider.
+
+192
+00:18:54,666 --> 00:18:57,260
+Pour l'amour du ciel...
+des fils invisibles, voyons.
+
+193
+00:18:57,336 --> 00:19:00,328
+Non, trop évident. Combien d'hommes
+avez-vous détachés pour ce soir ?
+
+194
+00:19:00,405 --> 00:19:02,270
+Nous avons huit hommes
+à l'intérieur
+
+195
+00:19:02,341 --> 00:19:03,399
+et huit autres devant.
+
+196
+00:19:03,475 --> 00:19:05,739
+Vous pourrez peut-être
+revoir vos papillons.
+
+197
+00:19:11,617 --> 00:19:13,209
+Venez !
+
+198
+00:19:13,285 --> 00:19:16,049
+Regardez bien partout ! Allez-y !
+
+199
+00:19:16,121 --> 00:19:17,748
+Par là !
+
+200
+00:19:36,808 --> 00:19:39,572
+- Vous ! Laissez ça !
+- Ah !
+
+201
+00:19:39,645 --> 00:19:40,577
+- Posez ça !
+- Eisenheim !
+
+202
+00:19:40,646 --> 00:19:42,671
+Qui êtes-vous ? Où est-ce
+que vous vous croyez ?
+
+203
+00:19:42,748 --> 00:19:44,579
+Je suis le chef inspecteur
+Walter Uhl.
+
+204
+00:19:44,650 --> 00:19:46,413
+Et j'inspecte votre théâtre.
+
+205
+00:19:46,485 --> 00:19:49,613
+J'ai vu votre spectacle.
+Vous êtes remarquable.
+
+206
+00:19:49,688 --> 00:19:51,383
+Vraiment remarquable.
+
+207
+00:19:51,456 --> 00:19:53,390
+Que pouvons-nous pour vous,
+inspecteur ?
+
+208
+00:19:53,458 --> 00:19:56,086
+Vous serez sûrement honoré
+de savoir que le prince héritier
+
+209
+00:19:56,161 --> 00:19:58,095
+pense assister à
+la représentation de ce soir.
+
+210
+00:19:58,163 --> 00:20:00,063
+- Le prince héritier ?
+- Oui !
+
+211
+00:20:00,132 --> 00:20:01,759
+Vous comprenez pourquoi
+nous devons
+
+212
+00:20:01,833 --> 00:20:03,858
+- inspecter le théâtre.
+- Je crois que ce vase
+
+213
+00:20:03,936 --> 00:20:05,767
+est un peu petit
+pour un assassin, non ?
+
+214
+00:20:05,837 --> 00:20:08,772
+Ah-ah... Oui, oui, l'oranger...
+
+215
+00:20:08,840 --> 00:20:12,776
+J'ai souvent vu ce genre
+de choses auparavant, mais...
+
+216
+00:20:12,844 --> 00:20:14,471
+jamais comme ça.
+
+217
+00:20:14,546 --> 00:20:16,776
+- C'est extraordinaire.
+- Merci.
+
+218
+00:20:16,848 --> 00:20:20,409
+J'arrête pas de me creuser
+la tête pour découvrir le truc,
+
+219
+00:20:20,485 --> 00:20:23,454
+en particulier les...
+papillons volants.
+
+220
+00:20:23,522 --> 00:20:25,786
+Je vous assure
+que votre secret
+
+221
+00:20:25,857 --> 00:20:27,188
+ne risque rien avec moi.
+
+222
+00:20:27,259 --> 00:20:29,989
+Ne suis-je pas un officier
+de la loi, après tout ?
+
+223
+00:20:30,062 --> 00:20:31,996
+Et à mes heures,
+un peu prestidigitateur.
+
+224
+00:20:32,064 --> 00:20:34,362
+- Ah, vraiment ?
+- Ouais.
+
+225
+00:20:34,433 --> 00:20:37,368
+Enfin... tours de cartes,
+de pièces...
+
+226
+00:20:37,436 --> 00:20:39,802
+quelques escamotages, oui.
+
+227
+00:20:39,871 --> 00:20:42,339
+Mais rien de bien méchant.
+
+228
+00:20:42,407 --> 00:20:44,375
+Vous pourriez me donner
+un petit truc ?
+
+229
+00:20:45,911 --> 00:20:47,811
+Avec plaisir.
+
+230
+00:20:47,879 --> 00:20:49,403
+En voici un que j'aime bien.
+
+231
+00:20:49,481 --> 00:20:50,470
+Vous êtes joueur, inspecteur ?
+
+232
+00:20:50,549 --> 00:20:52,676
+- Vous aimez les paris ?
+- À l'occasion, oui.
+
+233
+00:20:52,751 --> 00:20:55,151
+Je vous parie
+le secret de l'oranger
+
+234
+00:20:55,220 --> 00:20:57,313
+que je devinerai quelle main
+dissimule ceci.
+
+235
+00:20:57,389 --> 00:20:59,357
+- À tous les coups.
+- Excellent.
+
+236
+00:21:01,159 --> 00:21:02,888
+Mettez l'objet
+dans votre poing.
+
+237
+00:21:02,961 --> 00:21:04,724
+Appuyez votre main
+sur votre front.
+
+238
+00:21:04,796 --> 00:21:07,765
+Concentrez-vous,
+faites-vous une image mentale.
+
+239
+00:21:07,833 --> 00:21:09,596
+- D'accord.
+- Vous l'avez ?
+
+240
+00:21:09,668 --> 00:21:11,795
+- Oui.
+- Mettez vos mains devant vous.
+
+241
+00:21:15,841 --> 00:21:18,275
+Dans la main gauche.
+
+242
+00:21:18,343 --> 00:21:20,106
+- Bon.
+- Un coup de chance,
+
+243
+00:21:20,178 --> 00:21:21,941
+- peut-être bien.
+- Vous avez un compère
+
+244
+00:21:22,014 --> 00:21:23,777
+- qui vous envoie des signaux.
+- Non.
+
+245
+00:21:23,849 --> 00:21:25,373
+C'est plus primitif que ça.
+
+246
+00:21:25,450 --> 00:21:27,941
+Quand vous appuyez la main
+sur votre front,
+
+247
+00:21:28,020 --> 00:21:29,544
+moins de sang lui parvient.
+
+248
+00:21:29,621 --> 00:21:32,146
+Elle sera plus pâle
+à tous les coups.
+
+249
+00:21:36,361 --> 00:21:38,295
+Oh...
+
+250
+00:21:38,363 --> 00:21:41,025
+Voilà une chose
+que j'aime infiniment.
+
+251
+00:21:41,099 --> 00:21:43,533
+Prenez-la.
+Avec mes compliments.
+
+252
+00:21:43,602 --> 00:21:45,399
+Merci, de tout cur.
+
+253
+00:21:45,470 --> 00:21:46,528
+Moins de sang
+
+254
+00:21:46,605 --> 00:21:48,300
+- qui passe.
+- Alors...
+
+255
+00:21:48,373 --> 00:21:50,000
+- Inspecteur ?
+- Hum ?
+
+256
+00:21:50,075 --> 00:21:53,010
+Si ça ne vous dérange pas,
+je dois me préparer pour donner
+
+257
+00:21:53,078 --> 00:21:55,046
+- mon spectacle.
+- Ah.
+
+258
+00:22:04,823 --> 00:22:08,259
+Levez-vous pour accueillir
+son Altesse impériale,
+
+259
+00:22:08,327 --> 00:22:11,262
+le prince héritier Leopold !
+
+260
+00:22:38,357 --> 00:22:40,291
+Je vous propose
+de finir cette soirée
+
+261
+00:22:40,359 --> 00:22:42,919
+par une discussion sur l'âme.
+
+262
+00:22:42,994 --> 00:22:45,121
+Toutes les grandes religions
+
+263
+00:22:45,197 --> 00:22:49,293
+parlent de la pérennité
+de l'âme au-delà de la vie.
+
+264
+00:22:49,368 --> 00:22:52,303
+Que signifie à ce moment-là...
+
+265
+00:22:52,371 --> 00:22:54,566
+mourir ?
+
+266
+00:22:56,041 --> 00:22:58,475
+J'aurais besoin
+d'un volontaire dans la salle...
+
+267
+00:22:58,543 --> 00:23:00,511
+qui n'ait pas peur de la mort.
+
+268
+00:23:02,914 --> 00:23:04,848
+Allons. Une personne ?
+
+269
+00:23:04,916 --> 00:23:08,283
+Je vous assure qu'aucune
+tragédie ne vous tombera dessus.
+
+270
+00:23:08,353 --> 00:23:09,820
+Ici.
+
+271
+00:23:38,350 --> 00:23:40,318
+C'est un honneur,
+duchesse von Teschen.
+
+272
+00:23:53,031 --> 00:23:55,556
+Est-ce que vous me connaissez ?
+
+273
+00:23:57,502 --> 00:23:58,469
+Non.
+
+274
+00:24:00,505 --> 00:24:03,235
+Vous êtes certaine que nous
+ne nous sommes jamais croisés ?
+
+275
+00:24:03,308 --> 00:24:05,037
+Oui, absolument.
+
+276
+00:24:18,824 --> 00:24:22,692
+Alors maintenant,
+regardez droit dans mes yeux.
+
+277
+00:24:22,761 --> 00:24:24,820
+Nulle part ailleurs.
+
+278
+00:25:00,966 --> 00:25:02,866
+Faites-vous un signe.
+
+279
+00:25:06,304 --> 00:25:08,272
+Faites un tour complet.
+
+280
+00:25:15,046 --> 00:25:17,207
+Et maintenant, saluez-vous.
+
+281
+00:25:59,858 --> 00:26:01,587
+Disparaissez !
+
+282
+00:26:50,642 --> 00:26:52,371
+Vous n'allez pas me faire croire
+
+283
+00:26:52,444 --> 00:26:54,435
+que vous imaginez
+que c'est de la magie.
+
+284
+00:26:54,512 --> 00:26:56,309
+Il y a un truc, c'est évident.
+
+285
+00:26:56,381 --> 00:26:58,406
+Récemment, à Paris,
+j'ai eu l'occasion
+
+286
+00:26:58,483 --> 00:27:00,815
+de voir un spectacle donné
+par un magicien
+
+287
+00:27:00,885 --> 00:27:03,649
+tout à fait exceptionnel...
+
+288
+00:27:03,722 --> 00:27:05,815
+Ils ont dû apprécier
+ton spectacle;
+
+289
+00:27:05,890 --> 00:27:07,687
+ils t'attendent depuis
+presque cinq minutes.
+
+290
+00:27:09,294 --> 00:27:11,558
+Votre Altesse,
+puis-je vous présenter
+
+291
+00:27:11,630 --> 00:27:13,427
+Eisenheim l'illusionniste ?
+
+292
+00:27:17,268 --> 00:27:18,701
+Félicitations.
+
+293
+00:27:18,770 --> 00:27:21,261
+Merci d'être venu.
+Ça vous a plu, votre Altesse ?
+
+294
+00:27:21,339 --> 00:27:23,136
+Oh, mais plus que ça.
+
+295
+00:27:23,208 --> 00:27:25,938
+Ça a... provoqué un débat enflammé
+entre nous, non ?
+
+296
+00:27:26,011 --> 00:27:28,741
+À l'exception de votre assistante,
+la duchesse von Teschen.
+
+297
+00:27:28,813 --> 00:27:32,271
+Apparemment, vous l'avez privée
+de la parole; un exploit s'il en fut.
+
+298
+00:27:32,350 --> 00:27:33,715
+Vous l'avez hypnotisée ?
+
+299
+00:27:33,785 --> 00:27:36,117
+Si on veut, oui.
+
+300
+00:27:36,187 --> 00:27:37,711
+Si seulement
+je savais le faire...
+
+301
+00:27:39,290 --> 00:27:40,848
+Rainer est convaincu
+
+302
+00:27:40,925 --> 00:27:44,588
+que vous avez
+des pouvoirs surnaturels.
+
+303
+00:27:44,663 --> 00:27:46,858
+Vous avez de tels pouvoirs
+surnaturels ?
+
+304
+00:27:46,931 --> 00:27:50,594
+Je n'ai jamais dit
+quoi que ce soit du genre.
+
+305
+00:27:50,669 --> 00:27:52,136
+Donc vous répondrez
+
+306
+00:27:52,203 --> 00:27:54,603
+- à une ou deux questions ?
+- Non, ne gâchons pas tout.
+
+307
+00:27:54,673 --> 00:27:55,970
+Vous n'aurez pas à révéler
+
+308
+00:27:56,041 --> 00:27:58,737
+- ce que je ne pourrai deviner.
+- Comme vous voulez.
+
+309
+00:27:58,810 --> 00:28:01,643
+Vos assistants sont placés
+derrière le miroir,
+
+310
+00:28:01,713 --> 00:28:04,204
+dans des capes,
+sans le moindre doute...
+
+311
+00:28:04,282 --> 00:28:06,648
+des lampes dans l'encadrement
+peut-être, pour les illuminer,
+
+312
+00:28:06,718 --> 00:28:08,208
+et des miroirs en angle.
+
+313
+00:28:08,286 --> 00:28:11,255
+Ce serait un des moyens
+de le faire.
+
+314
+00:28:11,322 --> 00:28:14,257
+Je crois que j'ai tout deviné,
+à l'exception du fantôme.
+
+315
+00:28:14,325 --> 00:28:16,156
+C'est vraiment magnifique.
+
+316
+00:28:16,227 --> 00:28:19,128
+Une autre soirée,
+peut-être bien.
+
+317
+00:28:19,197 --> 00:28:21,131
+Faites votre prochain
+spectacle au Hofbourg
+
+318
+00:28:21,199 --> 00:28:22,291
+pour une petite réception.
+
+319
+00:28:22,367 --> 00:28:24,995
+Mais avec plaisir.
+
+320
+00:28:25,070 --> 00:28:27,470
+Eh bien, soit.
+
+321
+00:28:27,539 --> 00:28:29,905
+Sophie.
+
+322
+00:28:36,314 --> 00:28:37,906
+Et nous réunirons
+
+323
+00:28:37,982 --> 00:28:39,813
+nos plus fins esprits,
+cette fois-là.
+
+324
+00:28:39,884 --> 00:28:41,784
+Vous allez avoir tout un défi.
+
+325
+00:28:41,853 --> 00:28:44,481
+Alors je vous monterai
+un numéro spécial.
+
+326
+00:28:44,556 --> 00:28:46,854
+Par exemple, je vous ferai
+peut-être disparaître...
+
+327
+00:28:59,270 --> 00:29:02,171
+Mon Dieu, quand il l'a envoyée
+sur la scène,
+
+328
+00:29:02,240 --> 00:29:04,231
+j'ai cru entendre le son que ferait
+
+329
+00:29:04,309 --> 00:29:06,038
+la montagne d'or
+me tombant dessus.
+
+330
+00:29:06,111 --> 00:29:08,443
+Il n'y aura plus une seule dame
+en vue à Vienne
+
+331
+00:29:08,513 --> 00:29:10,208
+qui ne veuille faire partie
+de ton spectacle.
+
+332
+00:29:10,281 --> 00:29:11,873
+Mais quel poseur !
+
+333
+00:29:11,950 --> 00:29:14,214
+Son père aurait eu une attaque
+devant un étalage pareil.
+
+334
+00:29:14,285 --> 00:29:16,480
+Oui. Elle non plus
+n'a pas paru trop joyeuse.
+
+335
+00:29:16,554 --> 00:29:18,545
+- Elle va bien devoir s'y faire.
+- Pourquoi ?
+
+336
+00:29:18,623 --> 00:29:21,217
+Il paraît qu'elle l'épousera
+bientôt.
+
+337
+00:29:21,292 --> 00:29:23,556
+- Ah oui ?
+- Elle court un risque,
+
+338
+00:29:23,628 --> 00:29:25,721
+- si tu veux mon avis.
+- Pourquoi ?
+
+339
+00:29:25,797 --> 00:29:28,095
+Il a cette habitude
+de maltraiter ses maîtresses
+
+340
+00:29:28,166 --> 00:29:29,155
+de temps à autre.
+
+341
+00:29:29,234 --> 00:29:32,328
+On dit même qu'il en a
+précipité une en bas du balcon
+
+342
+00:29:32,403 --> 00:29:34,769
+afin de cacher les blessures
+qu'il lui avait faites.
+
+343
+00:30:02,834 --> 00:30:05,670
+<i>To Herr Eisenheim</i>.
+
+344
+00:30:47,545 --> 00:30:49,274
+Bonjour, Sophie.
+
+345
+00:30:53,718 --> 00:30:55,652
+Quand je suis montée
+sur la scène,
+
+346
+00:30:55,720 --> 00:30:58,280
+tu as su que c'était moi.
+Immédiatement.
+
+347
+00:30:58,356 --> 00:31:00,824
+Ça m'a pris un peu de temps.
+
+348
+00:31:00,892 --> 00:31:03,588
+Mais... oui, j'ai su.
+
+349
+00:31:03,661 --> 00:31:06,095
+- Tu aurais pu dire un mot.
+- J'ai pensé
+
+350
+00:31:06,164 --> 00:31:08,257
+que tu finirais
+par le savoir aussi.
+
+351
+00:31:08,333 --> 00:31:10,233
+Bien sûr, j'aurais fini
+par le savoir.
+
+352
+00:31:10,301 --> 00:31:12,667
+Je me serais portée volontaire
+en venant un autre soir.
+
+353
+00:31:12,737 --> 00:31:15,137
+Je serais montée sur scène
+en disant : "Alors, ça va ?"
+
+354
+00:31:15,206 --> 00:31:17,367
+Et là, tu aurais eu
+à réagir très vite.
+
+355
+00:31:17,442 --> 00:31:19,910
+Oui, j'imagine que c'est
+ce que tu aurais fait.
+
+356
+00:31:22,347 --> 00:31:24,406
+Je ne vois vraiment pas pourquoi.
+
+357
+00:31:28,353 --> 00:31:29,820
+Peut-être pour la même raison
+
+358
+00:31:29,888 --> 00:31:32,618
+que tu as trouvé plus prudent
+de me rencontrer en voiture.
+
+359
+00:31:32,690 --> 00:31:36,353
+C'est un jeu auquel je suis
+bien forcée de me prêter malgré moi.
+
+360
+00:31:37,862 --> 00:31:39,796
+Ils me suivent partout.
+
+361
+00:31:39,864 --> 00:31:42,424
+C'est, en principe,
+pour ma protection.
+
+362
+00:31:44,702 --> 00:31:46,294
+Oui...
+
+363
+00:31:46,371 --> 00:31:47,963
+Alors ?
+
+364
+00:31:48,039 --> 00:31:50,803
+On dit que des félicitations
+sont de rigueur.
+
+365
+00:31:50,875 --> 00:31:52,672
+Pour quelle raison ?
+
+366
+00:31:54,379 --> 00:31:56,313
+On dit que tu vas
+devenir princesse.
+
+367
+00:31:56,381 --> 00:31:58,315
+Il n'y a rien de décidé encore.
+
+368
+00:31:58,383 --> 00:31:59,714
+Ah.
+
+369
+00:31:59,784 --> 00:32:03,743
+Ce projet a un certain sens,
+je suppose.
+
+370
+00:32:03,821 --> 00:32:05,550
+Nous nous connaissons
+depuis des années,
+
+371
+00:32:05,623 --> 00:32:07,090
+et bien sûr nos familles.
+
+372
+00:32:07,158 --> 00:32:08,887
+Il est vraiment intelligent.
+
+373
+00:32:08,960 --> 00:32:13,124
+Et même un peu trop intelligent
+pour son propre bien.
+
+374
+00:32:17,335 --> 00:32:19,769
+Tu as de la chance, tu sais...
+
+375
+00:32:19,837 --> 00:32:22,305
+de t'être libéré
+comme tu l'as fait.
+
+376
+00:32:24,842 --> 00:32:27,310
+J'ai souvent souhaité qu'un jour...
+
+377
+00:32:31,349 --> 00:32:33,044
+Oui, quoi ?
+
+378
+00:32:35,853 --> 00:32:38,981
+J'ai souvent souhaité
+qu'un jour, je te reverrais.
+
+379
+00:32:43,594 --> 00:32:45,824
+Et voilà, c'est arrivé.
+
+380
+00:32:47,865 --> 00:32:49,332
+Oui.
+
+381
+00:32:50,868 --> 00:32:52,563
+C'est arrivé.
+
+382
+00:32:58,576 --> 00:33:01,374
+Je serai fort heureux
+de te revoir au Hofbourg.
+
+383
+00:33:01,446 --> 00:33:03,778
+On s'y reverra.
+
+384
+00:33:27,338 --> 00:33:29,772
+Voici le rapport
+sur la duchesse von Teschen.
+
+385
+00:33:29,841 --> 00:33:31,775
+Hum. Des choses intéressantes ?
+
+386
+00:33:31,843 --> 00:33:33,811
+Voyez vous-même.
+
+387
+00:33:41,352 --> 00:33:43,616
+Le magicien ?
+
+388
+00:33:43,688 --> 00:33:45,918
+Ils ont fait un tour
+de voiture d'une demi-heure
+
+389
+00:33:45,990 --> 00:33:47,821
+et puis il est descendu
+près du théâtre.
+
+390
+00:33:51,863 --> 00:33:53,831
+Qu'est-ce qu'on fait maintenant ?
+
+391
+00:34:05,810 --> 00:34:07,277
+Monsieur.
+
+392
+00:34:11,816 --> 00:34:13,784
+Nous vous offrons un verre ?
+
+393
+00:34:20,892 --> 00:34:23,190
+Je vous en prie.
+
+394
+00:34:33,204 --> 00:34:35,138
+Vous voudriez manger un peu ?
+
+395
+00:34:35,206 --> 00:34:36,639
+Ou bien un petit verre ?
+
+396
+00:34:36,707 --> 00:34:38,470
+- Non, merci.
+- Herr Eisenheim,
+
+397
+00:34:38,543 --> 00:34:41,774
+je vais vous poser
+une question...
+
+398
+00:34:41,846 --> 00:34:46,010
+qui paraîtra assez peu amicale,
+mais je vous assure qu'en fait,
+
+399
+00:34:46,084 --> 00:34:47,984
+elle l'est.
+
+400
+00:34:50,021 --> 00:34:51,488
+Quelles relations entretenez-vous
+
+401
+00:34:51,556 --> 00:34:54,047
+avec la duchesse von Teschen ?
+
+402
+00:34:54,125 --> 00:34:56,855
+En effet,
+voilà qui a l'air inamical.
+
+403
+00:34:56,928 --> 00:34:59,123
+Ah, mais non,
+c'est précisément mon idée.
+
+404
+00:34:59,197 --> 00:35:02,564
+Voyez-vous, là où d'autres
+pourraient juger
+
+405
+00:35:02,633 --> 00:35:07,229
+une balade discrète en voiture
+pour ce qu'elle a semblé être,
+
+406
+00:35:07,305 --> 00:35:09,773
+moi, je suis prêt
+à essayer de découvrir
+
+407
+00:35:09,841 --> 00:35:11,706
+ce qu'elle a été en réalité.
+
+408
+00:35:11,776 --> 00:35:14,176
+Très bien.
+
+409
+00:35:14,245 --> 00:35:16,179
+Nous nous connaissions enfants.
+
+410
+00:35:16,247 --> 00:35:17,646
+Vous vous connaissiez... ?
+
+411
+00:35:17,715 --> 00:35:20,240
+Des amis d'enfance.
+
+412
+00:35:20,318 --> 00:35:23,253
+Mon père était ébéniste.
+
+413
+00:35:23,321 --> 00:35:25,789
+Il faisait des meubles
+pour sa famille.
+
+414
+00:35:27,325 --> 00:35:30,351
+Je vois. Un fils d'ébéniste
+devenant l'ami d'une...
+
+415
+00:35:30,428 --> 00:35:32,259
+Quelqu'un s'est plaint peut-être ?
+
+416
+00:35:32,330 --> 00:35:35,265
+Ah non, non !
+Si quelqu'un s'était plaint...
+
+417
+00:35:35,333 --> 00:35:37,392
+nous pourrions avoir
+une conversation
+
+418
+00:35:37,468 --> 00:35:38,901
+très, très différente.
+
+419
+00:35:38,970 --> 00:35:41,268
+Ah... oui...
+
+420
+00:35:41,339 --> 00:35:44,900
+Il compte sur vous pour
+ce genre d'affaire, c'est ça ?
+
+421
+00:35:44,976 --> 00:35:46,637
+Je ne suis rien de plus
+
+422
+00:35:46,711 --> 00:35:47,905
+qu'un simple fonctionnaire,
+Herr Eisenheim.
+
+423
+00:35:47,979 --> 00:35:50,106
+Ce n'est pas ce qu'on dit.
+
+424
+00:35:50,181 --> 00:35:53,776
+Vous seriez nommé
+chef de la police bientôt.
+
+425
+00:35:53,851 --> 00:35:56,547
+Même maire de Vienne
+et secrétaire du Parti.
+
+426
+00:35:56,621 --> 00:35:58,384
+Si son caprice le veut ainsi.
+
+427
+00:35:58,456 --> 00:36:01,516
+Espérons pour vous qu'il
+ne dissoudra pas le Parlement
+
+428
+00:36:01,592 --> 00:36:02,581
+avant que vous y soyez.
+
+429
+00:36:02,660 --> 00:36:04,525
+Le prince a des idées
+progressistes, c'est sûr,
+
+430
+00:36:04,595 --> 00:36:06,062
+mais il peut être
+un bon empereur.
+
+431
+00:36:06,130 --> 00:36:07,961
+On dit que vous êtes
+très proche de lui.
+
+432
+00:36:08,032 --> 00:36:09,897
+Je suis sûr que tout
+va bien aller pour vous.
+
+433
+00:36:09,967 --> 00:36:11,559
+Écoutez...
+
+434
+00:36:11,636 --> 00:36:15,572
+oui, c'est vrai, on dit que je suis
+plutôt proche du prince.
+
+435
+00:36:15,640 --> 00:36:18,734
+Mais la simple vérité, en fait,
+c'est que je ne suis finalement
+
+436
+00:36:18,809 --> 00:36:23,246
+qu'un pauvre fils de boucher
+et qu'il est l'héritier de l'Empire.
+
+437
+00:36:23,314 --> 00:36:25,111
+Serons-nous jamais proches
+
+438
+00:36:25,183 --> 00:36:26,707
+de ce genre d'hommes ? Hum ?
+
+439
+00:36:26,784 --> 00:36:28,945
+Vous voyez ce que je veux dire.
+
+440
+00:36:33,324 --> 00:36:37,124
+N'allez pas croire que vous pouvez
+prendre part à leurs jeux.
+
+441
+00:36:38,829 --> 00:36:42,094
+J'ai servi le long du terrain
+pendant...
+
+442
+00:36:42,166 --> 00:36:44,600
+beaucoup, beaucoup d'années.
+
+443
+00:36:44,669 --> 00:36:46,603
+Et je vous dis avec certitude
+
+444
+00:36:46,671 --> 00:36:49,970
+qu'il n'y a aucun truc
+qu'il n'ait déjà vu.
+
+445
+00:36:52,843 --> 00:36:54,811
+Ça ne vaut pas le coup.
+
+446
+00:37:01,686 --> 00:37:03,586
+Mon invité de ce soir
+
+447
+00:37:03,654 --> 00:37:06,214
+n'est pas du tout
+un homme de scène...
+
+448
+00:37:06,290 --> 00:37:08,656
+mais plutôt un sorcier
+
+449
+00:37:08,726 --> 00:37:12,253
+qui a vendu son âme au diable
+
+450
+00:37:12,330 --> 00:37:15,766
+pour des pouvoirs impies.
+
+451
+00:37:15,833 --> 00:37:18,768
+Enfin, c'est ce que certains
+amis ici présents
+
+452
+00:37:18,836 --> 00:37:21,304
+voudraient nous faire gober.
+Mais n'ayez crainte,
+
+453
+00:37:21,372 --> 00:37:26,742
+tout pourra être
+très facilement expliqué.
+
+454
+00:37:26,811 --> 00:37:28,745
+Tous les mystères...
+
+455
+00:37:28,813 --> 00:37:31,179
+pénétrés.
+
+456
+00:37:31,249 --> 00:37:32,580
+Bravo !
+
+457
+00:37:32,650 --> 00:37:34,311
+On compte sur vous,
+votre Altesse.
+
+458
+00:37:34,385 --> 00:37:35,852
+Bravo !
+
+459
+00:37:59,844 --> 00:38:02,677
+- Est-ce là l'empereur ?
+- Oui, ton père !
+
+460
+00:38:02,747 --> 00:38:06,046
+J'ignorais que
+tu l'avais invité, lui !
+
+461
+00:38:10,388 --> 00:38:12,356
+- Bravo !
+- Bravo !
+
+462
+00:38:17,328 --> 00:38:19,296
+Une bonne ressemblance
+avec le vieux.
+
+463
+00:38:21,165 --> 00:38:23,156
+Trop moderne, ce style pour lui,
+bien sûr.
+
+464
+00:38:23,234 --> 00:38:25,361
+J'ai peur d'être un peintre
+plutôt médiocre.
+
+465
+00:38:25,436 --> 00:38:27,370
+En effet. Les coups de pinceau
+
+466
+00:38:27,438 --> 00:38:30,737
+sont absents sur cette peinture.
+C'est évident.
+
+467
+00:38:30,808 --> 00:38:32,241
+Oui.
+
+468
+00:38:32,310 --> 00:38:34,540
+Donc si on veut
+obtenir la couleur,
+
+469
+00:38:34,612 --> 00:38:36,876
+il faut qu'une espèce
+de produit chimique
+
+470
+00:38:36,947 --> 00:38:38,744
+puisse interagir,
+vraisemblablement.
+
+471
+00:38:38,816 --> 00:38:41,046
+Une sorte de pulvérisateur
+dans votre manche ?
+
+472
+00:38:41,118 --> 00:38:42,551
+Puis-je ?
+
+473
+00:38:42,620 --> 00:38:44,383
+Si vous insistez, bien sûr.
+
+474
+00:38:44,455 --> 00:38:46,616
+J'insiste.
+
+475
+00:38:48,326 --> 00:38:49,759
+Laissez-le un peu
+faire son numéro.
+
+476
+00:38:49,827 --> 00:38:51,761
+Vous voulez
+que je reste assis là
+
+477
+00:38:51,829 --> 00:38:54,297
+- alors que c'est si manifeste ?
+- Oui, je le veux.
+
+478
+00:38:54,365 --> 00:38:56,424
+Il essaie de vous rouler.
+
+479
+00:38:56,500 --> 00:38:58,434
+J'essaie de vous éclairer.
+
+480
+00:38:58,502 --> 00:39:00,595
+Quelle est la plus noble
+poursuite ?
+
+481
+00:39:00,671 --> 00:39:02,434
+Puis-je avoir les lumières ?
+
+482
+00:39:02,506 --> 00:39:04,701
+Pour que son Altesse voie mieux.
+
+483
+00:39:04,775 --> 00:39:07,266
+Allez, arrête, Leopold,
+laisse-nous voir le spectacle.
+
+484
+00:39:07,345 --> 00:39:08,607
+Oui, oui, allez,
+
+485
+00:39:08,679 --> 00:39:11,910
+- Leopold, laisse tomber ça !
+- Eh bien...
+
+486
+00:39:11,982 --> 00:39:13,950
+je propose un défi.
+
+487
+00:39:14,018 --> 00:39:16,543
+Pourquoi ne pas...
+
+488
+00:39:16,620 --> 00:39:18,952
+nous éblouir,
+
+489
+00:39:19,023 --> 00:39:21,218
+si vous pouvez,
+
+490
+00:39:21,292 --> 00:39:23,817
+mais sans tous les...
+
+491
+00:39:23,894 --> 00:39:25,828
+toutes les ficelles ?
+
+492
+00:39:25,896 --> 00:39:28,456
+Si vous voulez.
+
+493
+00:39:30,501 --> 00:39:32,662
+Votre épée est magnifique.
+
+494
+00:39:32,737 --> 00:39:34,466
+Puis-je la voir ?
+
+495
+00:39:34,538 --> 00:39:36,506
+Si vous voulez.
+
+496
+00:39:39,310 --> 00:39:40,777
+Puis-je ?
+
+497
+00:39:47,318 --> 00:39:48,945
+D'où le pouvoir
+
+498
+00:39:49,019 --> 00:39:51,510
+émane-t-il ?
+
+499
+00:39:51,589 --> 00:39:53,523
+Adresse ou destinée ?
+
+500
+00:39:53,591 --> 00:39:55,855
+Ou droit divin ?
+
+501
+00:39:57,895 --> 00:39:59,795
+Nous connaissons tous
+l'histoire
+
+502
+00:39:59,864 --> 00:40:01,798
+d'une épée appelée Excalibur...
+
+503
+00:40:03,567 --> 00:40:06,798
+dont la lame massive
+était fichée dans le roc.
+
+504
+00:40:10,841 --> 00:40:13,207
+Et elle restait là.
+
+505
+00:40:15,346 --> 00:40:17,041
+Bien des preux chevaliers
+
+506
+00:40:17,114 --> 00:40:19,275
+essayèrent d'arracher l'épée
+au roc.
+
+507
+00:40:19,350 --> 00:40:22,808
+Seul Arthur réussit,
+
+508
+00:40:22,887 --> 00:40:24,821
+prouvant son droit à régner.
+
+509
+00:40:24,889 --> 00:40:27,722
+Qui peut arracher l'épée ?
+
+510
+00:40:27,792 --> 00:40:30,283
+Monsieur ?
+
+511
+00:40:30,361 --> 00:40:32,659
+- Vous pouvez l'arracher ?
+- Allez, vas-y.
+
+512
+00:40:52,983 --> 00:40:55,144
+Pas de surprise là.
+
+513
+00:40:55,219 --> 00:40:57,710
+- Peut-être bien monsieur ?
+- Ah oui !
+
+514
+00:40:59,657 --> 00:41:01,557
+Pas trop de hâte, cousin.
+
+515
+00:41:04,328 --> 00:41:06,819
+Allez...
+Un peu de courage !
+
+516
+00:41:06,897 --> 00:41:09,263
+- Mais oui, mais oui, Franz !
+- Allez, Franz.
+
+517
+00:41:09,333 --> 00:41:10,800
+Bel effort, allez-y.
+
+518
+00:41:10,868 --> 00:41:13,098
+- Allez, duc !
+- Ah non...
+
+519
+00:41:13,170 --> 00:41:14,228
+Allez !
+
+520
+00:41:18,042 --> 00:41:20,010
+Tu vivras une longue vie.
+
+521
+00:41:22,346 --> 00:41:25,247
+Merci de votre indulgence.
+Merci.
+
+522
+00:41:37,995 --> 00:41:40,759
+Leopold, si tu n'y arrives pas,
+tu ne seras jamais empereur.
+
+523
+00:41:40,831 --> 00:41:42,799
+Votre père va vivre
+jusqu'à 100 ans !
+
+524
+00:41:56,146 --> 00:41:58,910
+À son juste propriétaire !
+
+525
+00:41:58,983 --> 00:42:03,386
+- Oui ! Félicitations, Altesse !
+- Bravo !
+
+526
+00:42:03,454 --> 00:42:06,116
+- Bravo !
+- Bravo !
+
+527
+00:42:06,190 --> 00:42:09,125
+Bravo ! Bravo !
+
+528
+00:42:09,193 --> 00:42:10,717
+Les divertissements légers
+
+529
+00:42:10,794 --> 00:42:13,126
+sont terminés pour ce soir.
+
+530
+00:42:13,197 --> 00:42:15,131
+Pour de plus sérieuses
+discussions,
+
+531
+00:42:15,199 --> 00:42:17,167
+je vous prie de venir
+prendre un verre.
+
+532
+00:42:17,234 --> 00:42:18,929
+Oui !
+
+533
+00:42:19,003 --> 00:42:21,597
+Bravo ! Bravo !
+
+534
+00:42:30,347 --> 00:42:32,611
+- Interdisez-le.
+- Mais il est...
+
+535
+00:42:32,683 --> 00:42:34,446
+très populaire, votre Altesse.
+
+536
+00:42:34,518 --> 00:42:36,486
+Je suis sûr que
+vous trouverez un moyen.
+
+537
+00:42:43,193 --> 00:42:45,127
+Qu'est-ce que tu lui as fait ?
+
+538
+00:42:45,195 --> 00:42:47,789
+Je n'ai fait que lui donner
+ce qu'il demandait.
+
+539
+00:42:47,865 --> 00:42:49,355
+Qu'est-ce qui t'a pris
+
+540
+00:42:49,433 --> 00:42:51,264
+de faire une chose
+aussi inconséquente ?
+
+541
+00:42:51,335 --> 00:42:53,667
+Duchesse von Teschen !
+
+542
+00:42:53,737 --> 00:42:56,205
+Venez donc avec nous, ma chère.
+
+543
+00:42:56,273 --> 00:42:58,207
+Nous ne voulons pas
+faire attendre le prince.
+
+544
+00:42:58,275 --> 00:43:00,505
+Vous avez aimé le spectacle ?
+
+545
+00:43:00,578 --> 00:43:02,409
+C'était merveilleux, non ?
+
+546
+00:43:02,479 --> 00:43:04,538
+C'était très amusant.
+
+547
+00:43:41,785 --> 00:43:44,413
+Qui t'a dit
+où tu pouvais me trouver ?
+
+548
+00:43:44,488 --> 00:43:46,285
+Ton imprésario.
+
+549
+00:43:46,357 --> 00:43:49,019
+Je lui ai expliqué que si
+vous vouliez rester à Vienne,
+
+550
+00:43:49,093 --> 00:43:51,288
+- tu avais besoin de mon aide.
+- On veut me forcer
+
+551
+00:43:51,362 --> 00:43:52,989
+à partir de la ville, c'est ça ?
+Excellent !
+
+552
+00:43:53,063 --> 00:43:54,860
+- J'en serai enchanté !
+- Ne dis pas ça !
+
+553
+00:43:54,932 --> 00:43:58,629
+Je suis venue ici
+pour essayer de t'aider !
+
+554
+00:43:58,702 --> 00:44:00,533
+Pourquoi ?
+Pourquoi serais-tu préoccupée
+
+555
+00:44:00,604 --> 00:44:02,504
+de ce qui peut m'arriver
+maintenant ?
+
+556
+00:44:02,573 --> 00:44:05,007
+T'étais mon ami, Edward.
+Je suis ton amie.
+
+557
+00:44:05,075 --> 00:44:06,736
+Nous nous sommes connus
+très brièvement.
+
+558
+00:44:06,810 --> 00:44:07,970
+Et il y a longtemps.
+
+559
+00:44:08,045 --> 00:44:10,013
+Mais tu ne me connais pas
+du tout.
+
+560
+00:44:10,080 --> 00:44:11,775
+Alors pourquoi
+m'as-tu adressé la parole ?
+
+561
+00:44:11,849 --> 00:44:14,283
+Pourquoi est-ce que tu t'es
+même donné la peine...
+
+562
+00:45:30,828 --> 00:45:33,353
+Tu l'as gardé
+depuis tout ce temps.
+
+563
+00:45:35,232 --> 00:45:38,167
+Souvent, je restais assise là,
+à regarder ton portrait...
+
+564
+00:45:38,235 --> 00:45:41,295
+essayant d'imaginer où tu étais.
+
+565
+00:45:43,340 --> 00:45:45,274
+La nuit, je...
+je faisais des rêves
+
+566
+00:45:45,342 --> 00:45:47,674
+où j'étais partie avec toi.
+
+567
+00:45:47,745 --> 00:45:51,306
+Et là, je me réveillais
+pour réaliser où je me trouvais.
+
+568
+00:45:58,489 --> 00:46:01,151
+Mais dans mes rêves,
+tu avais les cheveux courts
+
+569
+00:46:01,225 --> 00:46:04,353
+et le menton nu.
+
+570
+00:46:10,968 --> 00:46:14,267
+Où es-tu allé quand tu es parti ?
+
+571
+00:46:16,807 --> 00:46:19,241
+Chez mon oncle,
+dans sa ferme près de Prague.
+
+572
+00:46:19,309 --> 00:46:22,506
+Tellement exotique.
+
+573
+00:46:25,816 --> 00:46:28,478
+Je suis allé en Russie.
+
+574
+00:46:28,552 --> 00:46:30,747
+Après, en Asie mineure.
+
+575
+00:46:30,821 --> 00:46:32,755
+Et puis en Orient
+pendant des années.
+
+576
+00:46:32,823 --> 00:46:34,723
+Tant d'années.
+
+577
+00:46:34,792 --> 00:46:37,625
+J'ai toujours pensé revenir.
+
+578
+00:46:40,330 --> 00:46:42,264
+J'ai juste...
+
+579
+00:46:42,332 --> 00:46:43,594
+Je pensais tout le temps
+
+580
+00:46:43,667 --> 00:46:45,760
+que j'allais le trouver
+d'un jour à l'autre.
+
+581
+00:46:45,836 --> 00:46:47,303
+Quoi ?
+
+582
+00:46:49,840 --> 00:46:51,603
+Un vrai mystère.
+
+583
+00:46:54,344 --> 00:46:56,574
+J'ai vu des choses remarquables.
+
+584
+00:46:56,647 --> 00:47:00,139
+Le seul mystère que
+je n'ai jamais résolu, c'est...
+
+585
+00:47:00,217 --> 00:47:03,118
+pourquoi mon cur ne pouvait
+se détacher de toi ?
+
+586
+00:47:23,807 --> 00:47:26,173
+Il me demande d'aller à Budapest...
+
+587
+00:47:26,243 --> 00:47:29,303
+la semaine prochaine avec lui
+pour annoncer nos fiançailles.
+
+588
+00:47:31,515 --> 00:47:35,451
+Il veut que les Hongrois
+l'appuient à fond.
+
+589
+00:47:35,519 --> 00:47:37,612
+Ils vont le couronner roi bientôt.
+
+590
+00:47:37,688 --> 00:47:40,452
+À mon avis, son père aura
+son mot à dire là-dedans.
+
+591
+00:47:40,524 --> 00:47:42,754
+Il pense renverser son père.
+
+592
+00:47:42,826 --> 00:47:46,125
+Ça risque de tourner mal pour lui.
+
+593
+00:47:47,831 --> 00:47:49,264
+Et pour toi.
+
+594
+00:47:49,333 --> 00:47:52,769
+Tu ne devrais pas
+être mêlée à ça.
+
+595
+00:47:52,836 --> 00:47:54,770
+Je fais partie de son plan.
+
+596
+00:47:54,838 --> 00:47:57,807
+Il n'aura la Hongrie que par
+une alliance avec ma famille.
+
+597
+00:47:57,875 --> 00:48:00,400
+Quitte cet homme.
+
+598
+00:48:00,477 --> 00:48:02,104
+Ce n'est pas si facile.
+
+599
+00:48:02,179 --> 00:48:05,945
+Laisse tout tomber
+et pars avec moi.
+
+600
+00:48:06,016 --> 00:48:09,247
+Ou alors ne dis rien
+et allons-nous-en.
+
+601
+00:48:11,788 --> 00:48:14,222
+Tant que nous serons en vie,
+
+602
+00:48:14,291 --> 00:48:16,555
+il sera à nos trousses.
+
+603
+00:48:16,627 --> 00:48:19,289
+Et quand il nous trouvera,
+il nous tuera.
+
+604
+00:48:33,143 --> 00:48:34,667
+Regarde-moi.
+
+605
+00:48:37,314 --> 00:48:39,282
+Tu veux vraiment partir avec moi ?
+
+606
+00:48:44,321 --> 00:48:45,982
+Oui.
+
+607
+00:48:46,056 --> 00:48:47,853
+Je le veux.
+
+608
+00:49:23,527 --> 00:49:25,222
+Ah, te voilà !
+
+609
+00:49:25,295 --> 00:49:27,559
+Je l'avais prédit !
+Ils nous ont interdits !
+
+610
+00:49:27,631 --> 00:49:29,223
+Tu es content maintenant, hum ?
+
+611
+00:49:29,299 --> 00:49:32,200
+Tu as dit ce que
+tu avais à dire !
+
+612
+00:49:32,269 --> 00:49:35,204
+Peu importe que nous ayons vendu
+tous les billets !
+
+613
+00:49:35,272 --> 00:49:36,899
+Non, du moment...
+
+614
+00:49:36,974 --> 00:49:39,204
+que tu as dit ce que tu avais
+sur le cur !
+
+615
+00:49:39,276 --> 00:49:41,210
+- On a un peu d'argent ?
+- Quoi ?
+
+616
+00:49:41,278 --> 00:49:43,075
+De l'argent pour survivre.
+
+617
+00:49:43,146 --> 00:49:46,582
+Oui, un peu, mais nous aurions
+pu en avoir beaucoup plus !
+
+618
+00:49:46,650 --> 00:49:50,017
+Hum. Ça devra suffire.
+
+619
+00:49:51,822 --> 00:49:53,813
+Et le deuxième compte.
+Au complet.
+
+620
+00:49:53,890 --> 00:49:55,858
+Tout de suite, Herr Eisenheim.
+
+621
+00:50:01,331 --> 00:50:03,265
+Merci.
+
+622
+00:50:56,853 --> 00:51:00,220
+Et vous êtes sûr qu'il s'agissait
+de la duchesse von Teschen ?
+
+623
+00:51:00,290 --> 00:51:02,258
+J'en mettrais ma main
+à couper.
+
+624
+00:51:02,325 --> 00:51:05,260
+Et qu'est-ce qu'il y avait
+dans cette valise ?
+
+625
+00:51:05,328 --> 00:51:07,125
+Je n'en sais rien.
+
+626
+00:51:17,841 --> 00:51:19,809
+Le premier wagon.
+
+627
+00:51:45,869 --> 00:51:47,894
+La carte vous indiquera
+le lieu de rendez-vous.
+
+628
+00:51:47,971 --> 00:51:50,940
+Quand ce sera fait,
+vous partirez en avant avec elle
+
+629
+00:51:51,007 --> 00:51:52,167
+et je vous rejoindrai.
+
+630
+00:51:52,242 --> 00:51:55,006
+Et elle comprend bien
+tout ce que cela implique ?
+
+631
+00:51:55,078 --> 00:51:56,807
+Absolument.
+
+632
+00:51:56,880 --> 00:51:58,814
+Nous n'avons pas
+beaucoup de temps,
+
+633
+00:51:58,882 --> 00:52:01,248
+mais tout est bien...
+
+634
+00:52:30,080 --> 00:52:32,742
+Comme vous le savez,
+par moments,
+
+635
+00:52:32,816 --> 00:52:36,308
+nous suivons la duchesse
+von Teschen pour sa protection.
+
+636
+00:52:38,355 --> 00:52:40,949
+Hier, elle a été aperçue
+en compagnie d'un autre homme.
+
+637
+00:52:41,024 --> 00:52:42,685
+Quel homme ?
+
+638
+00:52:42,759 --> 00:52:46,422
+Eisenheim l'illusionniste.
+
+639
+00:52:47,864 --> 00:52:49,388
+Que faisaient-ils ?
+
+640
+00:52:49,466 --> 00:52:51,400
+Ils se sont rencontrés et...
+
+641
+00:52:51,468 --> 00:52:53,902
+Ils se touchaient ?
+S'embrassaient ?
+
+642
+00:52:53,970 --> 00:52:55,631
+Est-ce qu'ils baisaient ?
+
+643
+00:52:55,705 --> 00:52:58,799
+Pas que nous ayons observé, non.
+
+644
+00:52:58,875 --> 00:53:00,706
+Toutefois, j'ai des raisons
+de penser
+
+645
+00:53:00,777 --> 00:53:02,642
+qu'ils préparent peut-être
+un coup bas,
+
+646
+00:53:02,712 --> 00:53:04,304
+tous les deux.
+
+647
+00:53:04,381 --> 00:53:06,315
+Il est possible
+qu'ils disparaissent.
+
+648
+00:53:06,383 --> 00:53:08,544
+Je ne suis pas encore sûr
+de quoi que ce soit,
+
+649
+00:53:08,618 --> 00:53:11,280
+- votre Altesse...
+- Merci, inspecteur.
+
+650
+00:53:11,354 --> 00:53:13,515
+Nous pourrions bien sûr acquérir
+plus d'informations...
+
+651
+00:53:44,354 --> 00:53:48,290
+Il a passé l'après-midi
+à Vienne avec son père.
+
+652
+00:53:48,358 --> 00:53:50,326
+Il ne va plus tarder.
+
+653
+00:54:22,859 --> 00:54:25,657
+Quelle surprise.
+
+654
+00:54:25,729 --> 00:54:28,823
+Je croyais que vous n'aimiez pas
+cet endroit.
+
+655
+00:54:32,836 --> 00:54:35,304
+Je suppose que vous
+vous croyez très habile.
+
+656
+00:54:36,840 --> 00:54:39,400
+Et plutôt... démocratique
+
+657
+00:54:39,476 --> 00:54:41,410
+dans vos amitiés, n'est-ce pas ?
+
+658
+00:54:41,478 --> 00:54:44,038
+De quoi est-ce que
+vous parlez, Leopold ?
+
+659
+00:54:44,114 --> 00:54:47,277
+Votre ami le magicien.
+
+660
+00:54:47,350 --> 00:54:49,545
+Je sais que vous avez vu
+cet homme.
+
+661
+00:54:51,354 --> 00:54:53,185
+C'est juste.
+
+662
+00:54:53,256 --> 00:54:55,190
+Nous sommes amis
+depuis notre enfance.
+
+663
+00:54:55,258 --> 00:54:57,055
+Vous faites l'amour
+avec tous vos amis d'enfance ?
+
+664
+00:54:57,127 --> 00:54:59,152
+Je ne me laisserai pas
+parler de cette façon.
+
+665
+00:54:59,229 --> 00:55:01,697
+Et moi, je vous parlerai
+de la façon qu'il me plaira !
+
+666
+00:55:01,765 --> 00:55:03,733
+Vous êtes soûl.
+
+667
+00:55:03,800 --> 00:55:07,167
+Vous vieillissez,
+tout compte fait, non ?
+
+668
+00:55:07,237 --> 00:55:09,569
+Vous savez, ma mère avait 16 ans
+
+669
+00:55:09,639 --> 00:55:11,834
+quand elle a épousé mon père.
+Êtes-vous seulement capable
+
+670
+00:55:11,908 --> 00:55:14,376
+d'avoir des enfants ?
+Êtes-vous utile à quelque chose ?
+
+671
+00:55:14,444 --> 00:55:17,880
+- Vous essayez de m'embarrasser ?
+- Ça n'a rien à voir avec...
+
+672
+00:55:17,947 --> 00:55:20,745
+Si, ça a tout à voir avec moi !
+
+673
+00:55:20,817 --> 00:55:22,614
+Vous ne partagerez
+jamais mon lit
+
+674
+00:55:22,686 --> 00:55:24,847
+si vous avez couché
+avec cet homme !
+
+675
+00:55:26,890 --> 00:55:29,825
+Vous ne comprenez rien.
+
+676
+00:55:29,893 --> 00:55:32,862
+Il n'est pas question
+que je partage votre lit.
+
+677
+00:55:34,898 --> 00:55:38,493
+Il n'est pas question que
+j'aille à Budapest avec vous.
+
+678
+00:55:38,568 --> 00:55:41,765
+Je ne veux pas faire partie
+de votre plan.
+
+679
+00:55:41,838 --> 00:55:44,398
+Et je ne vous épouserai pas.
+
+680
+00:55:47,844 --> 00:55:50,176
+J'ose espérer que vous
+n'avez pas été assez idiote
+
+681
+00:55:50,246 --> 00:55:51,838
+pour lui dire quoi que ce soit.
+
+682
+00:55:51,915 --> 00:55:53,507
+Parce que si vous gâchez
+mes plans,
+
+683
+00:55:53,583 --> 00:55:55,744
+vous ne me servirez plus à rien.
+Vous comprenez ?
+
+684
+00:56:02,826 --> 00:56:05,727
+Alors vous allez partir
+pour Budapest demain.
+
+685
+00:56:05,795 --> 00:56:08,161
+Je vous recommande
+d'arriver tôt ici...
+
+686
+00:56:08,231 --> 00:56:10,631
+prête à partir avec vos bagages.
+
+687
+00:56:10,700 --> 00:56:13,260
+Et ne faites plus rien
+pour m'embarrasser.
+
+688
+00:56:15,105 --> 00:56:16,572
+Au revoir.
+
+689
+00:56:19,809 --> 00:56:21,970
+Qu'entendez-vous par "au revoir" ?
+
+690
+00:56:22,045 --> 00:56:23,512
+Revenez ici.
+
+691
+00:56:28,551 --> 00:56:30,280
+Revenez ici !
+
+692
+00:56:43,533 --> 00:56:45,330
+Ne me désobéissez plus !
+
+693
+00:56:45,402 --> 00:56:48,530
+Espèce de putain !
+
+694
+00:56:54,611 --> 00:56:56,238
+Ôtez-vous
+de mon chemin.
+
+695
+00:56:56,312 --> 00:56:57,973
+S'il vous plaît.
+
+696
+00:56:58,047 --> 00:56:59,275
+Non !
+
+697
+00:56:59,349 --> 00:57:00,611
+Ah !
+
+698
+00:57:27,310 --> 00:57:30,279
+Non, laissez ça ici.
+Et laissez toutes les lanternes.
+
+699
+00:58:36,579 --> 00:58:39,070
+Duchesse von Teschen !
+
+700
+00:58:41,317 --> 00:58:43,581
+Duchesse von Teschen !
+
+701
+00:58:45,788 --> 00:58:47,415
+Duchesse von Teschen !
+
+702
+00:58:52,695 --> 00:58:54,356
+Allez voir par là !
+
+703
+00:58:59,335 --> 00:59:01,098
+Par ici !
+
+704
+00:59:02,305 --> 00:59:04,170
+- La voilà !
+- Oh, mon Dieu...
+
+705
+00:59:04,240 --> 00:59:06,174
+On l'a trouvée !
+
+706
+00:59:06,242 --> 00:59:07,709
+Elle est là.
+
+707
+00:59:26,429 --> 00:59:28,659
+Elle a été retrouvée !
+
+708
+00:59:53,356 --> 00:59:54,516
+Wo !
+
+709
+00:59:56,259 --> 00:59:57,226
+Wo !
+
+710
+01:00:02,865 --> 01:00:04,765
+Je croyais que vous l'aviez vue
+
+711
+01:00:04,834 --> 01:00:06,461
+monter dans le train avec lui.
+
+712
+01:00:06,536 --> 01:00:08,731
+Non, monsieur.
+On les attendait à Vienne,
+
+713
+01:00:08,805 --> 01:00:10,432
+sauf qu'ils sont partis
+de Baden.
+
+714
+01:00:10,506 --> 01:00:12,406
+On croyait bien qu'elle était
+avec lui.
+
+715
+01:00:12,475 --> 01:00:14,375
+Voulez-vous que je câble
+au prince héritier, à Budapest ?
+
+716
+01:00:14,444 --> 01:00:15,877
+C'est déjà fait.
+
+717
+01:00:15,945 --> 01:00:18,072
+Qui êtes-vous ?
+
+718
+01:00:18,147 --> 01:00:20,775
+Je suis le médecin de famille.
+
+719
+01:00:20,850 --> 01:00:22,374
+Êtes-vous le chef inspecteur ?
+
+720
+01:00:22,452 --> 01:00:26,320
+En effet. Vous savez que ça regarde
+la police maintenant ?
+
+721
+01:00:26,389 --> 01:00:27,822
+Mais bien sûr que je le sais.
+
+722
+01:00:27,890 --> 01:00:28,788
+D'accord, d'accord.
+
+723
+01:00:28,858 --> 01:00:31,190
+Vous avez établi
+la cause de la mort ?
+
+724
+01:00:31,260 --> 01:00:33,319
+Elle s'est vidée de son sang.
+
+725
+01:00:33,396 --> 01:00:36,365
+Elle a une blessure à la gorge,
+
+726
+01:00:36,432 --> 01:00:39,026
+juste à proximité
+de la clavicule,
+
+727
+01:00:39,102 --> 01:00:41,662
+provoquée par une lame
+quelconque.
+
+728
+01:00:41,738 --> 01:00:44,002
+Je peux jeter un coup d'il ?
+
+729
+01:00:55,918 --> 01:00:57,044
+Hum...
+
+730
+01:01:06,763 --> 01:01:09,823
+Inspecteur ! Je ne peux pas
+vous laisser faire ça.
+
+731
+01:01:09,899 --> 01:01:12,026
+Le prince héritier
+ne le tolérera pas.
+
+732
+01:01:12,101 --> 01:01:14,331
+Il s'agit pas d'un spectacle
+de foire.
+
+733
+01:01:16,606 --> 01:01:19,006
+Mille pardons, docteur.
+Bien sûr.
+
+734
+01:01:24,380 --> 01:01:26,610
+Je vous remercie.
+
+735
+01:01:29,485 --> 01:01:31,646
+Le vol probablement.
+
+736
+01:01:31,721 --> 01:01:33,780
+Des romanichels, peut-être.
+
+737
+01:01:33,856 --> 01:01:36,051
+Avec tous ces diamants,
+dur de dire non.
+
+738
+01:01:36,125 --> 01:01:38,559
+Chef inspecteur !
+
+739
+01:01:38,628 --> 01:01:41,119
+Il y a une chose que
+vous devriez savoir.
+
+740
+01:01:41,197 --> 01:01:42,755
+Oui, quoi ?
+
+741
+01:01:42,832 --> 01:01:44,424
+Dans les plis de sa robe,
+
+742
+01:01:44,500 --> 01:01:47,867
+j'ai trouvé cette petite
+pierre précieuse.
+
+743
+01:02:04,754 --> 01:02:06,847
+"Vue jeudi dernier,
+chevauchant non accompagnée
+
+744
+01:02:06,923 --> 01:02:09,949
+vers le pavillon de chasse
+impérial à 19h30."
+
+745
+01:02:10,026 --> 01:02:13,120
+Selon le palefrenier,
+elle est arrivée vers 20h30.
+
+746
+01:02:13,196 --> 01:02:15,494
+Qu'est-ce qu'elle faisait
+à cheval toute seule ?
+
+747
+01:02:18,267 --> 01:02:20,667
+C'est lui qui a fait ça !
+Vous savez que c'est lui !
+
+748
+01:02:20,737 --> 01:02:23,137
+- Je sais que qui a fait quoi ?
+- Le prince héritier !
+
+749
+01:02:23,206 --> 01:02:25,800
+Il l'a tuée ! Il en a tué avant
+elle, et vous le savez !
+
+750
+01:02:25,875 --> 01:02:27,240
+Je ne sais rien de ça.
+
+751
+01:02:27,310 --> 01:02:28,743
+Comment l'aurait-il fait ?
+Il est à Budapest.
+
+752
+01:02:28,811 --> 01:02:30,506
+Il l'a fait avant de partir.
+
+753
+01:02:30,580 --> 01:02:32,275
+Les faits ne soutiennent pas
+votre théorie.
+
+754
+01:02:34,383 --> 01:02:35,907
+Elle voulait le quitter.
+
+755
+01:02:35,985 --> 01:02:37,976
+- Pour qui donc, vous ?
+- Oui.
+
+756
+01:02:38,054 --> 01:02:40,079
+Ne soyez pas absurde
+Herr Eisenheim.
+
+757
+01:02:40,156 --> 01:02:43,387
+Il ne voulait pas qu'elle
+s'en aille et il l'a tuée.
+
+758
+01:02:43,459 --> 01:02:44,517
+Elle connaissait son secret.
+
+759
+01:02:44,594 --> 01:02:46,494
+Quel secret ?
+
+760
+01:02:46,562 --> 01:02:48,427
+- Votre inspecteur le connaît.
+- Arrêtez immédiatement,
+
+761
+01:02:48,498 --> 01:02:50,523
+Herr Eisenheim !
+
+762
+01:02:50,600 --> 01:02:52,761
+Êtes-vous complètement
+corrompu ?
+
+763
+01:02:52,835 --> 01:02:54,996
+Non, pas complètement, non !
+
+764
+01:02:56,939 --> 01:02:58,804
+Et c'est pourquoi
+je vous conseille
+
+765
+01:02:58,875 --> 01:02:59,773
+de n'accuser personne,
+
+766
+01:02:59,842 --> 01:03:02,333
+et surtout pas son Altesse
+impériale, c'est clair ?
+
+767
+01:03:02,411 --> 01:03:04,106
+Ou vous finirez en prison,
+vous-même.
+
+768
+01:03:26,369 --> 01:03:28,701
+Où est le garde
+qui l'a vue sortir à la grille ?
+
+769
+01:03:28,771 --> 01:03:30,238
+Il est parti avec le prince.
+
+770
+01:03:30,306 --> 01:03:31,796
+Un des serviteurs
+l'aurait vue partir ?
+
+771
+01:03:31,874 --> 01:03:33,307
+- Tous endormis.
+- Ah !
+
+772
+01:03:33,376 --> 01:03:34,968
+Et lui, là ?
+
+773
+01:03:35,044 --> 01:03:38,207
+Il a amené le cheval dans la
+première stalle à son arrivée.
+
+774
+01:03:38,281 --> 01:03:39,441
+Ah !
+
+775
+01:03:44,120 --> 01:03:46,111
+- Celle-là ?
+- Hum...
+
+776
+01:03:55,498 --> 01:03:59,229
+Nous n'avons pas juridiction
+sur les propriétés impériales.
+
+777
+01:03:59,302 --> 01:04:00,997
+Merci. Je suis au courant.
+
+778
+01:04:02,905 --> 01:04:04,395
+Alors, que faites-vous ?
+
+779
+01:04:07,510 --> 01:04:09,273
+Je fais enquête.
+
+780
+01:04:10,079 --> 01:04:12,411
+Vous écoutez ce magicien,
+c'est ça ?
+
+781
+01:04:15,651 --> 01:04:18,142
+À ce que nous sachions,
+c'est lui qui l'a fait.
+
+782
+01:04:18,221 --> 01:04:21,452
+Non, j'en doute fort.
+
+783
+01:04:21,524 --> 01:04:23,389
+Il est de retour, le prince.
+
+784
+01:04:31,400 --> 01:04:32,765
+Chef inspecteur ?
+
+785
+01:04:33,836 --> 01:04:35,770
+Il faut partir.
+
+786
+01:04:35,838 --> 01:04:37,772
+Tout de suite.
+
+787
+01:04:40,710 --> 01:04:41,836
+Qu'avez-vous découvert ?
+
+788
+01:04:41,911 --> 01:04:45,847
+On l'a vue arrivant à cheval
+ici toute seule.
+
+789
+01:04:45,915 --> 01:04:48,110
+Oui, et sur la base
+de vos informations,
+
+790
+01:04:48,184 --> 01:04:49,378
+je l'ai ensuite jetée dehors.
+
+791
+01:04:49,452 --> 01:04:50,680
+Elle ne s'est pas suicidée ?
+
+792
+01:04:50,753 --> 01:04:53,381
+Non, c'est à coup sûr
+un meurtre.
+
+793
+01:04:53,456 --> 01:04:54,889
+Vous avez un suspect ?
+
+794
+01:04:54,957 --> 01:04:57,016
+Ça ne saurait tarder,
+votre Altesse.
+
+795
+01:05:04,233 --> 01:05:07,031
+<i>Plus tard dans la semaine</i>
+<i>nous arrêtâmes un homme</i>
+
+796
+01:05:07,103 --> 01:05:08,331
+<i>et l'accusâmes de meurtre</i>.
+
+797
+01:05:08,404 --> 01:05:12,306
+<i>Mais je savais que ça ne</i>
+<i>satisferait pas Eisenheim</i>.
+
+798
+01:05:17,880 --> 01:05:20,906
+<i>J'ordonnai à mes hommes</i>
+<i>de continuer à le surveiller</i>.
+
+799
+01:05:35,665 --> 01:05:38,190
+<i>Il finit par émerger de son chagrin</i>
+
+800
+01:05:38,267 --> 01:05:40,462
+<i>et acheta un théâtre à l'abandon</i>.
+
+801
+01:05:40,536 --> 01:05:41,969
+C'est parfait.
+
+802
+01:05:48,244 --> 01:05:50,235
+<i>Il renvoya son impresario</i>
+
+803
+01:05:50,313 --> 01:05:54,079
+<i>et commença à répéter</i>
+<i>un autre genre de spectacle</i>.
+
+804
+01:07:58,240 --> 01:07:59,605
+Mais qui est-ce ?
+
+805
+01:08:01,510 --> 01:08:03,444
+Mon nom est Frankel.
+
+806
+01:08:03,512 --> 01:08:06,310
+D'où venez-vous comme ça,
+monsieur ?
+
+807
+01:08:06,382 --> 01:08:09,374
+Je viens de Brünn.
+
+808
+01:08:09,452 --> 01:08:11,818
+Mon père est polisseur
+de lentilles là.
+
+809
+01:08:11,887 --> 01:08:13,718
+Comment avez-vous pu
+aboutir ici ce soir ?
+
+810
+01:08:18,327 --> 01:08:20,261
+Je n'en sais rien.
+
+811
+01:08:20,329 --> 01:08:23,594
+Êtes-vous vivant ?
+
+812
+01:08:25,167 --> 01:08:28,261
+Que pouvez-vous nous dire
+sur l'autre côté ?
+
+813
+01:08:28,337 --> 01:08:29,235
+Comment est-ce ?
+
+814
+01:08:29,305 --> 01:08:32,365
+Oui, dites-le-nous.
+Vous devez savoir des choses.
+
+815
+01:08:32,441 --> 01:08:33,567
+Des choses secrètes.
+
+816
+01:08:57,032 --> 01:09:00,729
+Ils ne semblent pas croire
+qu'il y a un truc.
+
+817
+01:09:09,145 --> 01:09:12,478
+<i>Le public de Eisenheim</i>
+<i>avait toujours été enthousiaste</i>.
+
+818
+01:09:12,548 --> 01:09:15,984
+<i>Mais il attirait maintenant</i>
+<i>des partisans plus</i>...
+
+819
+01:09:16,051 --> 01:09:17,416
+<i>passionnés</i>.
+
+820
+01:09:19,155 --> 01:09:21,589
+Le voilà.
+
+821
+01:09:21,657 --> 01:09:23,124
+C'est lui.
+
+822
+01:09:24,160 --> 01:09:25,991
+Il fait des miracles.
+
+823
+01:09:46,849 --> 01:09:48,646
+Madame, s'il vous plaît.
+
+824
+01:09:56,859 --> 01:09:58,994
+Avec ces esprits,
+
+825
+01:09:58,994 --> 01:10:02,157
+ces manifestations,
+
+826
+01:10:02,231 --> 01:10:05,394
+Eisenheim nous a fourni
+une tangible preuve
+
+827
+01:10:05,467 --> 01:10:07,264
+de l'immortalité de l'âme.
+
+828
+01:10:07,336 --> 01:10:08,769
+Une pensée
+
+829
+01:10:08,837 --> 01:10:10,930
+a été réaffirmée
+
+830
+01:10:11,006 --> 01:10:13,873
+face au matérialisme
+scientifique moderne.
+
+831
+01:10:13,943 --> 01:10:15,672
+L'uvre du spiritualisme
+
+832
+01:10:15,744 --> 01:10:17,678
+élèvera la conscience
+de l'humanité
+
+833
+01:10:17,746 --> 01:10:20,112
+à une rigueur morale
+toute nouvelle.
+
+834
+01:10:20,182 --> 01:10:23,049
+"C'est une révolution
+en mouvement
+
+835
+01:10:23,118 --> 01:10:26,986
+qui transformera cet empire
+en une république spirituelle."
+
+836
+01:10:28,824 --> 01:10:31,156
+Vous croyez que Eisenheim
+est derrière tout ça ?
+
+837
+01:10:37,399 --> 01:10:39,629
+Pourquoi dois-je me laisser
+casser les pieds
+
+838
+01:10:39,702 --> 01:10:42,296
+par un magicien ?
+
+839
+01:10:42,371 --> 01:10:45,340
+Il a fait la preuve
+qu'il était plus qu'un magicien,
+
+840
+01:10:45,407 --> 01:10:46,965
+votre Altesse.
+
+841
+01:10:47,042 --> 01:10:50,068
+C'est un charlatan, un imposteur.
+
+842
+01:10:50,145 --> 01:10:54,912
+S'il prétend avoir
+des pouvoirs surnaturels,
+
+843
+01:10:54,984 --> 01:10:57,646
+poursuivez-le pour fraude.
+
+844
+01:10:59,622 --> 01:11:01,715
+Avant, il faudra prouver
+qu'il y a fraude.
+
+845
+01:11:01,790 --> 01:11:04,486
+Alors faites-le. Trouvez
+le truc et ensuite, arrêtez-le.
+
+846
+01:11:13,902 --> 01:11:16,097
+Ce n'est qu'une mauvaise
+démonstration, inspecteur,
+
+847
+01:11:16,171 --> 01:11:18,366
+mais vous voyez
+comment on pourrait faire.
+
+848
+01:11:26,348 --> 01:11:29,317
+Oui, je vois. C'est bien.
+C'est bien.
+
+849
+01:11:33,322 --> 01:11:35,847
+Il nous faut un espion
+dans la troupe de Eisenheim.
+
+850
+01:11:35,924 --> 01:11:38,256
+Mais ces orientaux
+ne veulent rien nous dire.
+
+851
+01:11:38,327 --> 01:11:40,318
+- J'ai déjà essayé.
+- Oui.
+
+852
+01:11:40,396 --> 01:11:42,364
+Essayez peut-être autre chose.
+
+853
+01:12:49,665 --> 01:12:52,395
+- Venez, c'est par ici !
+- Où ça ?
+
+854
+01:12:58,674 --> 01:13:00,574
+Il est parti par là.
+Y a pas de doute.
+
+855
+01:13:00,642 --> 01:13:02,371
+Qu'est-ce qui s'est passé ici ?
+
+856
+01:13:02,444 --> 01:13:04,776
+C'est un de ces fantômes
+du théâtre, dans la rue.
+
+857
+01:13:04,847 --> 01:13:06,815
+- Oui, là-bas. Allez voir.
+- Où ça ?
+
+858
+01:13:06,882 --> 01:13:09,510
+Juste là.
+C'est un petit garçon.
+
+859
+01:13:09,585 --> 01:13:10,882
+Venez par ici !
+
+860
+01:13:10,953 --> 01:13:12,784
+- C'est malsain, tout ça.
+- Allez-y voir.
+
+861
+01:13:16,058 --> 01:13:17,719
+Où est cette chose ?
+
+862
+01:13:17,793 --> 01:13:20,023
+Là-bas, là !
+
+863
+01:13:20,095 --> 01:13:22,393
+- Vous l'avez vue ?
+- Hum-hum.
+
+864
+01:13:25,801 --> 01:13:27,769
+C'est à peine croyable.
+
+865
+01:13:27,836 --> 01:13:29,827
+- Vous l'avez vue ?
+- Oui.
+
+866
+01:13:29,905 --> 01:13:32,203
+Il est passé tout près.
+
+867
+01:13:32,274 --> 01:13:34,504
+Il se tenait juste là.
+
+868
+01:14:32,701 --> 01:14:35,636
+Je veux savoir
+comment vous faites.
+
+869
+01:14:35,704 --> 01:14:38,571
+D'abord le rejet, maintenant, ça.
+
+870
+01:14:38,640 --> 01:14:40,164
+Ce sont les secrets
+de ma profession.
+
+871
+01:14:40,242 --> 01:14:41,834
+Dois-je tous les livrer
+à la police ?
+
+872
+01:14:41,910 --> 01:14:44,208
+Dans ce cas, oui, ou je me
+verrai forcé de vous arrêter.
+
+873
+01:14:44,279 --> 01:14:45,337
+Sous quel chef ?
+
+874
+01:14:45,414 --> 01:14:48,474
+Nous commencerons par fraude...
+
+875
+01:14:48,550 --> 01:14:50,381
+- Excusez-moi, chef inspecteur.
+- Quoi ?
+
+876
+01:14:50,452 --> 01:14:53,285
+Je crois que vous devriez
+regarder par la fenêtre.
+
+877
+01:15:05,467 --> 01:15:07,196
+Qui sont-ils ?
+
+878
+01:15:07,269 --> 01:15:08,736
+Ils sont là pour lui.
+
+879
+01:15:08,804 --> 01:15:11,102
+Ah ?
+
+880
+01:15:11,173 --> 01:15:14,574
+Mon Dieu, vous avez
+des partisans dévoués.
+
+881
+01:15:14,643 --> 01:15:17,612
+Mais qu'est-ce
+qu'ils espèrent de vous ?
+
+882
+01:15:17,679 --> 01:15:19,613
+Je n'en ai aucune idée.
+
+883
+01:15:19,681 --> 01:15:21,615
+Qu'est-ce que vos espions
+vous racontent ?
+
+884
+01:15:21,683 --> 01:15:23,651
+Que vous complotez pour renverser
+la monarchie, par exemple.
+
+885
+01:15:23,719 --> 01:15:26,279
+Pourquoi ?
+
+886
+01:15:26,355 --> 01:15:29,791
+Juste parce que le prince
+héritier est un meurtrier ?
+
+887
+01:15:29,858 --> 01:15:31,325
+Ce n'est pas un meurtrier.
+
+888
+01:15:31,393 --> 01:15:34,157
+Nous avons le vrai meurtrier
+en prison, il a plaidé coupable.
+
+889
+01:15:34,229 --> 01:15:35,719
+Vous n'avez pas le bon.
+
+890
+01:15:35,797 --> 01:15:37,424
+Vous ne savez pas ça.
+
+891
+01:15:37,499 --> 01:15:39,126
+Non, mais vous, oui.
+
+892
+01:15:45,374 --> 01:15:48,468
+Herr Eisenheim, vous aussi,
+vous allez aller en prison
+
+893
+01:15:48,544 --> 01:15:51,843
+si vous ne me dites pas exactement
+ce que vous êtes en train de faire.
+
+894
+01:15:51,914 --> 01:15:53,643
+Laissez partir Eisenheim
+
+895
+01:15:53,715 --> 01:15:56,275
+ou nous attaquerons l'édifice !
+
+896
+01:15:56,351 --> 01:15:58,319
+Et la sentence sera
+plus sérieuse
+
+897
+01:15:58,387 --> 01:15:59,820
+si cette populace donne l'assaut.
+
+898
+01:15:59,888 --> 01:16:02,789
+Eisenheim !
+Eisenheim ! Eisenheim !
+
+899
+01:16:02,858 --> 01:16:04,655
+Alors ?
+
+900
+01:16:04,726 --> 01:16:07,661
+Eisenheim !
+Eisenheim ! Eisenheim !
+
+901
+01:16:09,398 --> 01:16:10,831
+Qu'est-ce que vous faites ? Non !
+
+902
+01:16:10,899 --> 01:16:13,094
+Arrêtez !
+
+903
+01:16:13,168 --> 01:16:15,500
+- Eisenheim ! Eisenheim !
+- C'est lui !
+
+904
+01:16:15,571 --> 01:16:17,801
+Écoutez-moi, s'il vous plaît !
+
+905
+01:16:17,873 --> 01:16:21,400
+S'il vous plaît,
+laissez-moi parler !
+
+906
+01:16:23,712 --> 01:16:26,408
+Je vous remercie
+de votre présence.
+
+907
+01:16:26,481 --> 01:16:28,449
+Je me suis entretenu
+avec le chef inspecteur.
+
+908
+01:16:30,118 --> 01:16:33,178
+Et je crois qu'il y a eu
+un sérieux malentendu.
+
+909
+01:16:35,257 --> 01:16:37,987
+Je veux que vous sachiez tous
+que toutes les bizarreries
+
+910
+01:16:38,060 --> 01:16:41,496
+que vous avez vues dans
+mon théâtre sont une illusion.
+
+911
+01:16:44,566 --> 01:16:46,500
+Ce n'est pas réel.
+
+912
+01:16:48,904 --> 01:16:53,568
+Je ne peux ramener
+vos chers disparus à la vie.
+
+913
+01:16:53,642 --> 01:16:56,236
+Je ne reçois pas de messages
+depuis l'au-delà.
+
+914
+01:16:56,311 --> 01:17:00,941
+Je vous demande de me pardonner
+si je vous ai donné de faux espoirs.
+
+915
+01:17:01,016 --> 01:17:05,476
+Mon intention n'aura jamais été
+que de divertir,
+
+916
+01:17:05,554 --> 01:17:07,021
+rien de plus.
+
+917
+01:17:09,958 --> 01:17:13,121
+Alors j'apprécie votre appui,
+
+918
+01:17:13,195 --> 01:17:15,220
+mais vous devez rentrer chez vous.
+
+919
+01:17:15,297 --> 01:17:18,357
+Partez, maintenant.
+
+920
+01:17:30,278 --> 01:17:32,712
+Voilà, je leur ai tout expliqué.
+
+921
+01:17:32,781 --> 01:17:34,874
+Donc, il n'y a pas fraude.
+
+922
+01:17:34,950 --> 01:17:37,111
+Puis-je m'en aller ?
+
+923
+01:18:00,008 --> 01:18:03,239
+Il vous a envoûté, inspecteur ?
+
+924
+01:18:03,311 --> 01:18:04,744
+Non, votre Altesse.
+
+925
+01:18:04,813 --> 01:18:06,906
+Alors pourquoi n'êtes-vous
+plus avec moi ?
+
+926
+01:18:11,820 --> 01:18:13,788
+J'avais confiance en vous.
+
+927
+01:18:15,857 --> 01:18:18,417
+Je croyais
+que vous étiez un homme
+
+928
+01:18:18,493 --> 01:18:21,826
+qui aurait pu m'accompagner
+dans ma montée au trône.
+
+929
+01:18:21,897 --> 01:18:23,762
+Me suis-je trompé sur vous ?
+
+930
+01:18:23,832 --> 01:18:25,959
+Non, vous ne vous êtes pas
+trompé, votre Altesse.
+
+931
+01:18:26,034 --> 01:18:28,935
+Je veux des hommes
+qui sachent accomplir
+
+932
+01:18:29,004 --> 01:18:31,199
+les tâches qu'on leur a confiées !
+
+933
+01:18:38,680 --> 01:18:41,240
+Au lieu de ça, je me vois
+entouré de médiocres.
+
+934
+01:18:41,316 --> 01:18:45,218
+Pour finir, je dois tout faire
+moi-même.
+
+935
+01:18:45,287 --> 01:18:48,313
+Je vois que cette affaire
+ne sera pas différente.
+
+936
+01:19:07,142 --> 01:19:08,734
+De quoi ai-je l'air ?
+
+937
+01:19:08,810 --> 01:19:11,938
+De l'homme de la rue,
+votre Altesse.
+
+938
+01:19:12,013 --> 01:19:13,981
+De l'homme de la rue.
+
+939
+01:19:17,953 --> 01:19:20,513
+Je crois que ça va me plaire,
+cette soirée.
+
+940
+01:19:40,976 --> 01:19:43,274
+Personne ne vous reconnaît.
+
+941
+01:19:43,345 --> 01:19:45,279
+Bien.
+
+942
+01:19:45,347 --> 01:19:46,780
+Gardez vos distances.
+
+943
+01:19:46,848 --> 01:19:49,874
+Je ne veux pas qu'on me voie
+avec un policier.
+
+944
+01:21:09,431 --> 01:21:12,332
+Qui êtes-vous ?
+
+945
+01:21:12,400 --> 01:21:14,561
+Êtes-vous la duchesse
+von Teschen ?
+
+946
+01:21:14,636 --> 01:21:15,967
+Oui.
+
+947
+01:21:16,037 --> 01:21:19,097
+Qu'est-ce qui vous est arrivé ?
+
+948
+01:21:19,174 --> 01:21:21,938
+- Elle a été assassinée ?
+- On vous a assassinée ?
+
+949
+01:21:24,212 --> 01:21:25,645
+Par qui ?
+
+950
+01:21:27,515 --> 01:21:28,982
+Ont-ils arrêté
+le vrai meurtrier ?
+
+951
+01:21:29,050 --> 01:21:31,314
+Dites-le-nous, s'il vous plaît.
+Qui vous a assassinée ?
+
+952
+01:21:33,021 --> 01:21:35,615
+Une personne dans la salle.
+
+953
+01:21:37,192 --> 01:21:38,454
+Dites-nous qui ! Montrez-le !
+
+954
+01:21:38,526 --> 01:21:40,357
+Est-ce le prince héritier ?
+
+955
+01:21:40,428 --> 01:21:43,829
+Il avait déjà tué une femme
+avant ça !
+
+956
+01:21:43,899 --> 01:21:45,696
+Le prince héritier
+est même pas là !
+
+957
+01:21:45,767 --> 01:21:48,497
+- Le prince héritier l'a tuée !
+- Il faut faire quelque chose !
+
+958
+01:22:15,363 --> 01:22:17,092
+Chef inspecteur, êtes-vous sûr
+d'avoir le coupable ?
+
+959
+01:22:17,165 --> 01:22:18,223
+Tout à fait. Excusez-moi.
+
+960
+01:22:18,300 --> 01:22:20,234
+Vous avez mené une enquête
+sur le prince ?
+
+961
+01:22:20,302 --> 01:22:22,031
+Il ne peut pas continuer
+si c'est vrai;
+
+962
+01:22:22,103 --> 01:22:23,593
+il doit être amené
+devant la justice.
+
+963
+01:22:23,672 --> 01:22:25,833
+Faux. Un tour de passe-passe
+n'est pas une preuve.
+
+964
+01:22:25,907 --> 01:22:26,965
+Votre nom, s'il vous plaît ?
+
+965
+01:22:27,042 --> 01:22:28,976
+Je ne vois pas
+en quoi ça importe.
+
+966
+01:22:29,044 --> 01:22:32,343
+Je vous conseille de surveiller
+vos paroles, monsieur.
+
+967
+01:22:37,319 --> 01:22:39,913
+Cette actrice ne ressemblait
+même pas à Sophie.
+
+968
+01:22:39,988 --> 01:22:42,582
+Mais les spectateurs
+sont stupides, et il le sait.
+
+969
+01:22:42,657 --> 01:22:43,783
+Il les manipule. Voilà.
+
+970
+01:22:43,858 --> 01:22:47,021
+Il n'a rien dit lui-même.
+
+971
+01:22:47,095 --> 01:22:48,722
+Son actrice n'a rien dit
+de subversif.
+
+972
+01:22:48,797 --> 01:22:51,664
+Il a laissé à la foule le soin
+de proférer des accusations.
+
+973
+01:22:51,733 --> 01:22:55,032
+Tous ces sarcasmes,
+payés par lui, bien entendu.
+
+974
+01:22:55,103 --> 01:22:57,765
+Vous n'aurez pas pris note
+de ces gens-là, je suppose ?
+
+975
+01:22:57,839 --> 01:22:59,807
+Malheureusement, nous n'avions
+pas les hommes qu'il fallait.
+
+976
+01:22:59,874 --> 01:23:01,000
+À la prochaine représentation,
+
+977
+01:23:01,076 --> 01:23:02,873
+vous allez m'arrêter
+tous ces gens.
+
+978
+01:23:02,944 --> 01:23:04,741
+Je dis bien tous ces gens,
+
+979
+01:23:04,813 --> 01:23:06,610
+plus Eisenheim
+et toute sa troupe.
+
+980
+01:23:06,681 --> 01:23:10,242
+Nous en ferons
+un exemple impitoyable
+
+981
+01:23:10,318 --> 01:23:12,616
+devant tous ses partisans.
+
+982
+01:23:16,291 --> 01:23:18,555
+C'était vraiment
+de la folie hier soir.
+
+983
+01:23:20,595 --> 01:23:22,460
+Ah...
+
+984
+01:23:22,530 --> 01:23:24,691
+Vous ne pouvez pas
+le détruire, vous savez.
+
+985
+01:23:24,766 --> 01:23:26,666
+Vous ne pouvez pas anéantir
+la monarchie.
+
+986
+01:23:26,735 --> 01:23:28,635
+Oh, pas moi, ça, je sais.
+
+987
+01:23:28,703 --> 01:23:31,228
+Ne la faites pas apparaître
+à nouveau alors.
+
+988
+01:23:31,306 --> 01:23:33,774
+Ne provoquez pas
+ces questions.
+
+989
+01:23:38,046 --> 01:23:41,038
+Herr Eisenheim, je ne veux pas
+vous arrêter.
+
+990
+01:23:43,585 --> 01:23:45,644
+Je suis un homme cynique,
+Dieu sait,
+
+991
+01:23:45,720 --> 01:23:48,086
+mais si vos manifestations
+sont quelque peu réelles
+
+992
+01:23:48,156 --> 01:23:52,354
+et même moi, je dois admettre
+que vous êtes un homme spécial -
+
+993
+01:23:52,427 --> 01:23:55,487
+ou s'il y a un truc, alors c'est
+tout aussi impressionnant.
+
+994
+01:23:55,563 --> 01:23:57,531
+De toute manière
+vous avez un don !
+
+995
+01:23:57,599 --> 01:24:00,966
+Alors ne me forcez pas
+à vous mettre en prison !
+
+996
+01:24:01,036 --> 01:24:03,027
+Promettez-moi
+de ne pas refaire ça.
+
+997
+01:24:03,104 --> 01:24:06,369
+Je vous promets que vous
+aimerez le prochain spectacle.
+
+998
+01:24:08,376 --> 01:24:10,367
+Qu'est-ce que vous voulez ?
+
+999
+01:24:10,445 --> 01:24:12,345
+Rien du tout.
+
+1000
+01:24:12,414 --> 01:24:14,780
+Alors dites-moi pourquoi
+vous la ramenez !
+
+1001
+01:24:16,751 --> 01:24:18,742
+Juste pour être avec elle.
+
+1002
+01:24:21,790 --> 01:24:23,485
+Pour être avec elle.
+
+1003
+01:24:33,768 --> 01:24:35,395
+- Tout est prêt ?
+- Oui, monsieur.
+
+1004
+01:24:35,470 --> 01:24:37,097
+Nous essayons d'évaluer
+comment il pourrait s'échapper.
+
+1005
+01:24:37,172 --> 01:24:39,606
+Je veux un garde
+à chaque porte et fenêtre.
+
+1006
+01:24:39,674 --> 01:24:41,107
+À vos ordres.
+
+1007
+01:24:49,017 --> 01:24:51,586
+<i>Je te demande de m'excuser</i>
+<i>pour ma conduite récente</i>.
+
+1008
+01:24:51,586 --> 01:24:54,419
+Mais je voudrais me faire pardonner
+en te faisant une proposition.
+
+1009
+01:24:54,489 --> 01:24:55,615
+Oh, j'en sais rien.
+
+1010
+01:24:55,690 --> 01:24:58,090
+Je te promets que ça vaudra
+le coup, Josef.
+
+1011
+01:24:58,159 --> 01:25:00,150
+Tu sais, j'ai pas beaucoup
+de temps, ces jours-ci.
+
+1012
+01:25:00,228 --> 01:25:02,492
+Je ne suis pas resté assis
+à attendre de tes nouvelles.
+
+1013
+01:25:02,564 --> 01:25:03,929
+Non, non, bien sûr.
+
+1014
+01:25:07,936 --> 01:25:11,303
+Je veux que tu deviennes
+administrateur de mes finances
+
+1015
+01:25:11,372 --> 01:25:13,738
+et de mes avoirs.
+
+1016
+01:25:13,808 --> 01:25:15,503
+En fait, tout.
+
+1017
+01:25:15,577 --> 01:25:18,102
+- Vraiment tout ?
+- Oui.
+
+1018
+01:25:18,179 --> 01:25:19,339
+Incluant ce théâtre
+
+1019
+01:25:19,414 --> 01:25:23,475
+ainsi que la recette de
+la représentation de ce soir
+
+1020
+01:25:23,551 --> 01:25:25,178
+avec mes remerciements sincères.
+
+1021
+01:25:28,223 --> 01:25:30,885
+Qu'est-ce que tu en dis ?
+
+1022
+01:25:30,959 --> 01:25:32,483
+Très bien.
+
+1023
+01:25:32,560 --> 01:25:35,495
+- Je suis d'accord.
+- Bien, excellent.
+
+1024
+01:25:37,031 --> 01:25:39,932
+Tu veux que je fasse ta
+présentation sur scène ce soir ?
+
+1025
+01:25:40,001 --> 01:25:43,437
+Non.
+Ce soir, savoure le spectacle.
+
+1026
+01:26:05,226 --> 01:26:06,318
+Excusez-moi, chef inspecteur.
+
+1027
+01:26:06,394 --> 01:26:08,988
+Mon nom est Josef Fischer,
+je suis son impresario.
+
+1028
+01:26:09,063 --> 01:26:11,190
+Oui, je vous replace,
+monsieur.
+
+1029
+01:26:11,266 --> 01:26:13,257
+Que se passe-t-il ?
+Pourquoi tous ces policiers ?
+
+1030
+01:26:13,334 --> 01:26:15,700
+Par précaution, Herr Fischer,
+par précaution.
+
+1031
+01:26:15,770 --> 01:26:17,829
+Vous avez l'intention
+d'arrêter Eisenheim ?
+
+1032
+01:26:17,906 --> 01:26:20,204
+Je n'en sais rien,
+ça dépendra de lui.
+
+1033
+01:27:04,219 --> 01:27:05,618
+C'est la duchesse
+von Teschen !
+
+1034
+01:27:18,032 --> 01:27:19,693
+On vous a assassinée.
+Pourquoi ?
+
+1035
+01:27:21,703 --> 01:27:24,069
+- Je voulais le quitter.
+- Quitter qui ?
+
+1036
+01:27:24,138 --> 01:27:25,230
+Le prince héritier ?
+
+1037
+01:27:25,306 --> 01:27:27,001
+Bien sûr
+que c'est le prince héritier !
+
+1038
+01:27:27,075 --> 01:27:29,873
+J'ai voulu essayer de partir.
+
+1039
+01:27:34,749 --> 01:27:36,740
+J'avais mon médaillon
+quand j'ai été tuée.
+
+1040
+01:27:36,818 --> 01:27:38,843
+Mais il a disparu; il est perdu.
+
+1041
+01:27:38,920 --> 01:27:41,548
+S'il vous plaît,
+dites-nous qui vous a tuée !
+
+1042
+01:27:41,623 --> 01:27:42,851
+C'est le prince héritier ?
+
+1043
+01:27:42,924 --> 01:27:45,392
+Nous n'allons pas accepter
+une chose pareille !
+
+1044
+01:27:45,460 --> 01:27:47,087
+S'il vous plaît, monsieur,
+venez par ici.
+
+1045
+01:27:47,161 --> 01:27:49,220
+- Je n'ai rien fait !
+- Non ! Laissez-le ! Laissez-le !
+
+1046
+01:27:53,434 --> 01:27:56,733
+- Placez-vous en avant !
+- En position, en avant !
+
+1047
+01:27:56,804 --> 01:27:59,034
+En place !
+
+1048
+01:27:59,107 --> 01:28:00,938
+Vous n'avez pas le droit
+de faire ça !
+
+1049
+01:28:03,411 --> 01:28:05,345
+Au nom de sa Majesté impériale,
+
+1050
+01:28:05,413 --> 01:28:06,607
+et de la ville de Vienne,
+
+1051
+01:28:06,681 --> 01:28:09,673
+j'arrête, par la présente,
+Edward Abramovitz,
+
+1052
+01:28:09,751 --> 01:28:13,278
+connu sous le nom
+de Eisenheim l'illusionniste
+
+1053
+01:28:13,354 --> 01:28:16,721
+sous l'accusation d'avoir
+troublé l'ordre public,
+
+1054
+01:28:16,791 --> 01:28:20,056
+de charlatanisme et de menace
+contre l'empire.
+
+1055
+01:28:20,128 --> 01:28:21,789
+Non !
+
+1056
+01:29:16,484 --> 01:29:18,884
+- Regardez ses yeux !
+- Il est en transe !
+
+1057
+01:29:18,953 --> 01:29:21,581
+Il disparaît !
+
+1058
+01:29:31,332 --> 01:29:33,562
+Trouvez-le-moi !
+
+1059
+01:29:43,611 --> 01:29:45,806
+- Où est-il ?
+- Il était juste là.
+
+1060
+01:29:45,880 --> 01:29:47,814
+Comment fait-il ce truc ?
+
+1061
+01:29:47,882 --> 01:29:49,247
+- Aucun truc.
+- Comment fait-il ?
+
+1062
+01:29:49,317 --> 01:29:50,875
+Je n'en sais rien.
+Personne sait.
+
+1063
+01:29:59,093 --> 01:30:00,458
+Bon sang !
+
+1064
+01:30:10,138 --> 01:30:12,470
+- Dépêchons ! Par ici !
+- Allez à l'arrière !
+
+1065
+01:30:12,540 --> 01:30:15,236
+Cherchez partout ! Faites
+le tour de tous les étages !
+
+1066
+01:30:41,068 --> 01:30:42,501
+"L'oranger."
+
+1067
+01:33:29,971 --> 01:33:31,768
+Ah...
+
+1068
+01:33:47,421 --> 01:33:49,946
+<i>J'ai chargé mon cocher</i>
+<i>d'emporter l'épée</i>
+
+1069
+01:33:50,024 --> 01:33:52,584
+<i>au quartier général de la police</i>.
+
+1070
+01:33:52,660 --> 01:33:54,628
+<i>Mes hommes</i>
+<i>vont l'examiner pour voir</i>
+
+1071
+01:33:54,695 --> 01:33:57,027
+<i>si elle correspond</i>
+<i>à la pierre précieuse</i>
+
+1072
+01:33:57,098 --> 01:33:59,157
+<i>trouvée sur le corps</i>
+<i>de la duchesse von Teschen,</i>
+
+1073
+01:33:59,233 --> 01:34:01,531
+<i>ce dont je ne doute pas</i>.
+
+1074
+01:34:04,338 --> 01:34:07,637
+Et ensuite, je suis venu ici.
+
+1075
+01:34:07,708 --> 01:34:10,768
+Et vous m'avez demandé
+les raisons de mon retard.
+
+1076
+01:34:10,978 --> 01:34:13,947
+Vous avez volé
+une propriété impériale.
+
+1077
+01:34:14,015 --> 01:34:16,245
+Ça semble peu de chose,
+comparé au meurtre.
+
+1078
+01:34:16,317 --> 01:34:18,751
+Même si c'était vrai, vous
+n'avez aucune juridiction ici.
+
+1079
+01:34:18,819 --> 01:34:19,751
+Oui, c'est juste.
+
+1080
+01:34:19,854 --> 01:34:23,119
+Vous pouvez faire
+ce que vous voulez ici,
+
+1081
+01:34:23,190 --> 01:34:24,384
+sans aucune conséquence.
+
+1082
+01:34:24,458 --> 01:34:27,791
+Et personne ne peut sévir
+contre vous.
+
+1083
+01:34:27,862 --> 01:34:30,296
+- Un seul homme le peut.
+- Et qui est-ce ?
+
+1084
+01:34:30,398 --> 01:34:31,956
+L'empereur.
+
+1085
+01:34:32,033 --> 01:34:34,797
+Je ne pense pas qu'il laissera
+sa couronne à un meurtrier.
+
+1086
+01:34:34,869 --> 01:34:36,268
+Et vous ?
+
+1087
+01:34:39,573 --> 01:34:41,097
+Sauf que jamais il ne vous croira.
+
+1088
+01:34:41,175 --> 01:34:43,006
+Peut-être.
+
+1089
+01:34:46,981 --> 01:34:49,074
+Mais j'ai écrit une lettre
+à son état-major
+
+1090
+01:34:49,150 --> 01:34:52,176
+leur racontant tout,
+
+1091
+01:34:52,253 --> 01:34:55,848
+y compris votre plan
+pour renverser l'empereur.
+
+1092
+01:34:55,923 --> 01:34:57,447
+Ça, je sais qu'ils l'écouteront.
+
+1093
+01:34:57,525 --> 01:35:00,153
+Vous ne prendrez pas le trône
+
+1094
+01:35:00,227 --> 01:35:01,717
+avec mon aide, du moins.
+
+1095
+01:35:01,796 --> 01:35:04,765
+Vous ne voulez plus être nommé
+chef de police ?
+
+1096
+01:35:04,832 --> 01:35:06,356
+Maire de Vienne ?
+
+1097
+01:35:06,434 --> 01:35:10,530
+Vous ne voulez pas devenir
+baron, un aristocrate ?
+
+1098
+01:35:10,604 --> 01:35:14,096
+J'ai peur que ce soit
+hors de question à ce point-ci.
+
+1099
+01:35:19,847 --> 01:35:22,839
+Vous êtes fou.
+Il vous roule, il vous manipule.
+
+1100
+01:35:22,917 --> 01:35:25,112
+Il a eu l'épée
+lors d'un spectacle au Hofbourg.
+
+1101
+01:35:25,186 --> 01:35:26,619
+Il a pu dessertir les pierres
+
+1102
+01:35:26,687 --> 01:35:28,655
+et fabriquer des preuves
+en les plaçant ici.
+
+1103
+01:35:28,723 --> 01:35:32,625
+- Vous étiez soûl.
+- Tout est truqué.
+
+1104
+01:35:32,693 --> 01:35:34,354
+C'est une illusion.
+
+1105
+01:35:36,263 --> 01:35:39,130
+Mais il y a peut-être
+une vérité dans cette illusion.
+
+1106
+01:35:52,046 --> 01:35:54,480
+Vous allez câbler à votre
+cocher de renvoyer l'épée ici.
+
+1107
+01:35:54,582 --> 01:35:56,243
+Sinon quoi ?
+
+1108
+01:35:56,317 --> 01:35:58,410
+Je vous descends.
+Peut-être que je vous descendrai
+
+1109
+01:35:58,486 --> 01:35:59,418
+de toute manière.
+
+1110
+01:35:59,487 --> 01:36:01,978
+Vous aurez tué un inspecteur
+de police et une duchesse.
+
+1111
+01:36:02,056 --> 01:36:03,990
+Ou bien vous vous tuerez
+vous-même.
+
+1112
+01:36:04,091 --> 01:36:05,683
+Oui, vous vous serez suicidé,
+
+1113
+01:36:05,760 --> 01:36:07,728
+désespéré d'avoir manqué
+à votre chef.
+
+1114
+01:36:24,745 --> 01:36:26,007
+Ah...
+
+1115
+01:36:26,080 --> 01:36:29,072
+Sûrement des officiers
+de l'état-major général.
+
+1116
+01:36:29,150 --> 01:36:31,414
+J'imagine qu'ils ont reçu
+ma lettre.
+
+1117
+01:36:39,960 --> 01:36:41,723
+Et que voulez-vous ?
+
+1118
+01:36:41,796 --> 01:36:44,287
+Je ne veux rien du tout.
+
+1119
+01:36:44,365 --> 01:36:47,232
+Bien. Bien.
+
+1120
+01:36:47,301 --> 01:36:49,269
+Alors vous n'aurez rien du tout.
+
+1121
+01:36:57,011 --> 01:36:58,501
+Allons, messieurs.
+
+1122
+01:36:58,612 --> 01:37:01,274
+La situation est si manifeste.
+
+1123
+01:37:01,348 --> 01:37:04,374
+Tout le monde est
+complètement incompétent.
+
+1124
+01:37:04,451 --> 01:37:06,885
+Mon père est en train
+de couler l'empire.
+
+1125
+01:37:06,954 --> 01:37:08,717
+Personne ne voit rien
+ou ne veut s'en occuper.
+
+1126
+01:37:08,789 --> 01:37:09,949
+Je propose de faire le ménage
+
+1127
+01:37:10,024 --> 01:37:11,423
+et vous me remerciez
+en me trahissant.
+
+1128
+01:37:11,492 --> 01:37:14,120
+Eh bien, vous allez tous devenir
+sans importance,
+
+1129
+01:37:14,195 --> 01:37:15,457
+tous remplacés !
+
+1130
+01:37:15,529 --> 01:37:18,293
+Et le pays sera administré
+par des bâtards !
+
+1131
+01:37:18,365 --> 01:37:20,424
+Un millier de voix vont s'élever
+en hurlant
+
+1132
+01:37:20,501 --> 01:37:23,095
+pour se faire entendre
+et il ne se passera rien !
+
+1133
+01:37:23,170 --> 01:37:27,106
+Rien du tout ! Tout ce que
+j'ai pu faire, je l'ai fait !
+
+1134
+01:37:27,174 --> 01:37:28,937
+Et même plus !
+
+1135
+01:37:32,413 --> 01:37:33,846
+Beaucoup plus.
+
+1136
+01:37:33,914 --> 01:37:37,145
+Votre Altesse, vous êtes là ?
+
+1137
+01:37:37,218 --> 01:37:38,651
+Votre Altesse, ouvrez la porte !
+
+1138
+01:37:38,752 --> 01:37:41,846
+S'il vous plaît,
+ouvrez la porte !
+
+1139
+01:37:44,158 --> 01:37:46,092
+Au nom de l'autorité
+de votre père,
+
+1140
+01:37:46,160 --> 01:37:48,958
+j'insiste pour que
+vous ouvriez la porte !
+
+1141
+01:37:49,029 --> 01:37:51,293
+- Vous devez ouvrir cette porte !
+- Tous des fous !
+
+1142
+01:37:52,867 --> 01:37:54,494
+Je vous en prie,
+votre Altesse.
+
+1143
+01:37:54,568 --> 01:37:56,160
+Et je ne peux le souffrir.
+
+1144
+01:37:57,605 --> 01:37:59,163
+Et je ne pourrai le souffrir.
+
+1145
+01:38:01,208 --> 01:38:03,176
+Enfoncez la porte.
+Enfoncez-la !
+
+1146
+01:38:07,514 --> 01:38:09,106
+Qu'est-ce qui s'est passé ?
+
+1147
+01:38:09,183 --> 01:38:12,346
+Le prince héritier s'est tiré
+une balle dans la tête.
+
+1148
+01:38:58,265 --> 01:38:59,630
+C'est vous, le chef inspecteur Uhl ?
+
+1149
+01:38:59,700 --> 01:39:02,100
+Enfin, c'était moi.
+
+1150
+01:39:13,781 --> 01:39:14,839
+"L'oranger."
+
+1151
+01:39:26,160 --> 01:39:27,593
+Attends !
+
+1152
+01:39:27,695 --> 01:39:30,061
+Qui t'a donné ça ?
+
+1153
+01:39:32,499 --> 01:39:34,990
+- Qui t'a donné ça ?
+- Herr Eisenheim.
+
+1154
+01:39:35,069 --> 01:39:37,003
+Quand ?
+
+1155
+01:40:00,327 --> 01:40:01,624
+Attention !
+
+1156
+01:41:04,691 --> 01:41:06,955
+Tout le monde à bord !
+
+1157
+01:41:07,027 --> 01:41:08,961
+Ticket et papiers.
+
+1158
+01:41:44,498 --> 01:41:45,931
+<i>Ce sera fait</i>.
+
+1159
+01:41:45,999 --> 01:41:48,365
+<i>Vous partirez en avant</i>
+<i>avec elle et je vous rejoindrai</i>.
+
+1160
+01:41:48,435 --> 01:41:49,993
+<i>Et vous êtes sûr</i>
+<i>qu'elle saisit bien</i>
+
+1161
+01:41:50,070 --> 01:41:51,833
+<i>tout ce que cela implique ?</i>
+
+1162
+01:41:51,905 --> 01:41:53,770
+- <i>Absolument</i>.
+- <i>Vous croyez que Eisenheim</i>
+
+1163
+01:41:53,841 --> 01:41:55,775
+<i>est derrière tout ça ?</i>
+
+1164
+01:41:58,011 --> 01:42:01,777
+<i>Alors que signifie... mourir ?</i>
+
+1165
+01:42:03,817 --> 01:42:05,250
+<i>Que voulez-vous ?</i>
+
+1166
+01:42:06,487 --> 01:42:07,613
+<i>Être avec elle</i>.
+
+1167
+01:42:08,355 --> 01:42:10,050
+<i>Être avec elle</i>.
+
+1168
+01:42:14,995 --> 01:42:16,963
+<i>Chef inspecteur,</i>
+<i>il y a une chose</i>
+
+1169
+01:42:17,064 --> 01:42:19,123
+<i>que vous devriez savoir</i>.
+
+1170
+01:42:22,302 --> 01:42:25,032
+<i>Votre épée est magnifique</i>.
+<i>Puis-je la voir ?</i>
+
+1171
+01:42:25,105 --> 01:42:26,197
+<i>Vous êtes soûl</i>.
+
+1172
+01:42:26,273 --> 01:42:28,207
+<i>Vous étiez soûl</i>.
+
+1173
+01:42:40,721 --> 01:42:43,212
+<i>C'est un charlatan, un imposteur</i>.
+
+1174
+01:42:43,290 --> 01:42:45,485
+<i>Il a fabriqué des preuves</i>.
+
+1175
+01:42:57,471 --> 01:43:00,565
+<i>Toutes les bizarreries que</i>
+vous avez vues dans mon théâtre
+
+1176
+01:43:00,641 --> 01:43:02,973
+<i>sont une illusion</i>.
+<i>C'est un truc</i>.
+
+1177
+01:44:25,859 --> 01:44:30,819
+Sous-titrage : CNST, Montréal

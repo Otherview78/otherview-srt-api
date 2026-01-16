@@ -1,0 +1,6879 @@
+1
+00:01:09,100 --> 00:01:13,100
+SEUL SUR MARS
+
+2
+00:02:05,200 --> 00:02:07,600
+Équipage, restons groupés en visu.
+
+3
+00:02:07,600 --> 00:02:08,900
+Faisons honneur à la NASA aujourd'hui.
+
+4
+00:02:09,000 --> 00:02:10,100
+NASA - ARÈS III - SITE D'ATTERRISSAGE
+JOUR DE MISSION : SOL 18
+
+5
+00:02:10,100 --> 00:02:11,700
+T'en es où, Watney ?
+
+6
+00:02:11,700 --> 00:02:14,000
+Tu seras heureux d'apprendre que...
+
+7
+00:02:14,700 --> 00:02:16,300
+dans la zone 14 28,
+
+8
+00:02:16,300 --> 00:02:19,100
+les particules étaient plutôt grossières
+
+9
+00:02:19,100 --> 00:02:21,000
+mais dans la 29, elles sont...
+
+10
+00:02:21,400 --> 00:02:22,500
+plus fines,
+
+11
+00:02:22,500 --> 00:02:24,300
+idéales pour l'analyse chimique.
+
+12
+00:02:24,600 --> 00:02:27,900
+Oyez, oyez !
+Mark a découvert la poussière.
+
+13
+00:02:28,000 --> 00:02:30,800
+- On alerte les médias ?
+- Et toi, Martinez ?
+
+14
+00:02:31,100 --> 00:02:33,200
+Tu vérifies si le VAM est debout ?
+
+15
+00:02:33,200 --> 00:02:34,900
+L'inspection visuelle
+
+16
+00:02:34,900 --> 00:02:37,000
+assure le succès de la mission.
+
+17
+00:02:37,100 --> 00:02:39,900
+Et je te le confirme,
+le VAM est toujours debout.
+
+18
+00:02:40,500 --> 00:02:42,600
+Watney, votre radio est allumée.
+
+19
+00:02:42,700 --> 00:02:44,300
+Du coup, Martinez vous répond,
+
+20
+00:02:44,700 --> 00:02:47,200
+du coup, on vous entend
+et ça m'agace.
+
+21
+00:02:47,800 --> 00:02:50,200
+Martinez, le commandant te demande
+
+22
+00:02:50,700 --> 00:02:52,700
+de fermer ta grande bouche.
+
+23
+00:02:53,100 --> 00:02:56,500
+Concernant Martinez,
+le mot "bouche" me semble gentil.
+
+24
+00:02:56,500 --> 00:02:58,400
+C'est Beck qui m'insulte ?
+
+25
+00:02:58,500 --> 00:03:00,000
+"Docteur" Beck. Et... oui.
+
+26
+00:03:00,700 --> 00:03:04,100
+Je peux les débrancher, commandant.
+Donnez l'ordre.
+
+27
+00:03:04,500 --> 00:03:07,100
+Johanssen, nous devons communiquer...
+
+28
+00:03:07,100 --> 00:03:08,000
+Débranchez-les !
+
+29
+00:03:09,500 --> 00:03:10,500
+Je m'excuse !
+
+30
+00:03:11,700 --> 00:03:13,500
+Pardonnez mes compatriotes, Vogel.
+
+31
+00:03:14,000 --> 00:03:15,000
+Je les absous.
+
+32
+00:03:15,300 --> 00:03:17,100
+Combien d'échantillons ?
+
+33
+00:03:17,500 --> 00:03:18,500
+Sept.
+
+34
+00:03:18,500 --> 00:03:19,700
+De 100 grammes chacun.
+
+35
+00:03:26,400 --> 00:03:28,300
+Un message d'alerte-tempête.
+
+36
+00:03:28,700 --> 00:03:31,500
+Commandant, rentrez voir ça.
+
+37
+00:03:31,500 --> 00:03:33,400
+- Précisez.
+- Alerte-tempête.
+
+38
+00:03:33,700 --> 00:03:35,200
+J'ai vu ça ce matin.
+
+39
+00:03:35,200 --> 00:03:37,000
+On sera rentrés avant.
+
+40
+00:03:37,500 --> 00:03:40,000
+Ils ont mis à jour l'évaluation.
+
+41
+00:03:40,300 --> 00:03:41,700
+La tempête s'aggrave.
+
+42
+00:03:48,300 --> 00:03:50,200
+Martinez, qu'en pensez-vous ?
+
+43
+00:03:51,500 --> 00:03:52,500
+C'est pas bon.
+
+44
+00:03:54,600 --> 00:03:58,600
+1 200 km de diamètre,
+cap à 21,41º.
+
+45
+00:03:58,600 --> 00:03:59,900
+Elle vient vers nous.
+
+46
+00:03:59,900 --> 00:04:03,700
+Selon les derniers calculs,
+sa force est de... 8 600 newtons ?
+
+47
+00:04:04,700 --> 00:04:05,900
+À combien on annule ?
+
+48
+00:04:06,200 --> 00:04:07,700
+À 7 500.
+
+49
+00:04:09,000 --> 00:04:11,100
+Au-delà, le VAM basculera.
+
+50
+00:04:11,200 --> 00:04:13,700
+- On dégage ?
+- Entamez la procédure.
+
+51
+00:04:14,400 --> 00:04:16,700
+En tenant compte de la marge d'erreur,
+
+52
+00:04:16,800 --> 00:04:18,200
+on peut attendre qu'elle passe.
+
+53
+00:04:18,900 --> 00:04:20,200
+Attendons qu'elle passe.
+
+54
+00:04:21,800 --> 00:04:22,900
+Attendons.
+
+55
+00:04:24,800 --> 00:04:25,300
+Commandant ?
+
+56
+00:04:26,900 --> 00:04:28,800
+Préparez décollage d'urgence.
+
+57
+00:04:29,600 --> 00:04:31,400
+On dégage. C'est un ordre.
+
+58
+00:04:42,200 --> 00:04:44,400
+Départ dans combien de temps ?
+
+59
+00:04:44,800 --> 00:04:45,700
+12 minutes.
+
+60
+00:04:49,200 --> 00:04:51,000
+Quasi zéro visibilité.
+
+61
+00:04:51,100 --> 00:04:53,300
+Si vous vous perdez,
+suivez ma télémétrie.
+
+62
+00:04:53,600 --> 00:04:54,400
+Prêts ?
+
+63
+00:04:54,500 --> 00:04:55,600
+Prêt.
+
+64
+00:04:58,300 --> 00:05:00,000
+Commandant, ça va ?
+
+65
+00:05:00,000 --> 00:05:00,900
+Ça va.
+
+66
+00:05:25,500 --> 00:05:28,200
+On est à 10º, le VAM basculera à 12,3º.
+
+67
+00:05:29,700 --> 00:05:32,400
+On peut l'empêcher de basculer.
+
+68
+00:05:32,400 --> 00:05:33,500
+Comment ?
+
+69
+00:05:33,500 --> 00:05:36,300
+Avec les câbles du mât de communication.
+
+70
+00:05:36,700 --> 00:05:38,200
+On l'ancrerait aux rovers.
+
+71
+00:05:38,700 --> 00:05:39,500
+Attention !
+
+72
+00:05:43,000 --> 00:05:43,700
+Watney !
+
+73
+00:05:45,800 --> 00:05:48,000
+Alerte. Brèche combinaison.
+
+74
+00:05:48,300 --> 00:05:49,900
+- Qu'y a-t-il ?
+- Il est blessé.
+
+75
+00:05:49,900 --> 00:05:51,400
+Watney, situation !
+
+76
+00:05:51,400 --> 00:05:54,200
+Son alarme-décompression
+s'est déclenchée.
+
+77
+00:05:54,300 --> 00:05:56,500
+- Johanssen ?
+- Il est déconnecté.
+
+78
+00:05:56,800 --> 00:05:58,700
+Ses constantes disent quoi ?
+
+79
+00:05:58,800 --> 00:06:00,500
+Perte de signal totale.
+
+80
+00:06:00,500 --> 00:06:01,300
+Beck !
+
+81
+00:06:01,600 --> 00:06:04,100
+Temps de survie à une décompression ?
+
+82
+00:06:04,100 --> 00:06:05,200
+Moins d'une minute.
+
+83
+00:06:05,900 --> 00:06:07,900
+Alignez-vous. Direction ouest.
+
+84
+00:06:08,400 --> 00:06:10,900
+Attention de pas le piétiner.
+
+85
+00:06:12,200 --> 00:06:13,100
+Commandant...
+
+86
+00:06:13,500 --> 00:06:15,000
+On est à 10,5º.
+
+87
+00:06:16,000 --> 00:06:17,500
+On monte à 11,
+
+88
+00:06:17,700 --> 00:06:19,000
+à cause des rafales.
+
+89
+00:06:19,500 --> 00:06:20,700
+Bien reçu.
+
+90
+00:06:21,000 --> 00:06:23,200
+Calez-vous sur Martinez
+
+91
+00:06:23,300 --> 00:06:25,300
+pour rentrer au VAM
+et vous préparer.
+
+92
+00:06:25,800 --> 00:06:27,200
+Et vous, commandant ?
+
+93
+00:06:27,200 --> 00:06:30,000
+Je continue à le chercher.
+Foncez !
+
+94
+00:06:30,700 --> 00:06:31,700
+Allez !
+
+95
+00:06:35,100 --> 00:06:36,000
+Watney !
+
+96
+00:06:36,800 --> 00:06:38,000
+Watney, situation.
+
+97
+00:06:38,500 --> 00:06:40,600
+Inclinaison à 11,6º.
+
+98
+00:06:41,200 --> 00:06:42,500
+Une rafale de plus, on bascule.
+
+99
+00:06:42,600 --> 00:06:43,800
+Si ça bascule, décollez.
+
+100
+00:06:44,200 --> 00:06:47,000
+- Je vous abandonne pas.
+- C'est un ordre.
+
+101
+00:06:48,100 --> 00:06:49,000
+Mark !
+
+102
+00:06:51,500 --> 00:06:52,900
+Vous m'entendez ?
+
+103
+00:06:54,500 --> 00:06:55,500
+Martinez !
+
+104
+00:06:55,600 --> 00:06:57,500
+Et le radar de proximité,
+
+105
+00:06:57,600 --> 00:06:59,000
+il peut détecter Watney ?
+
+106
+00:06:59,400 --> 00:07:03,100
+Il peut voir l'Hermès en orbite,
+pas du métal dans une combi.
+
+107
+00:07:03,100 --> 00:07:04,900
+- Essayez.
+- Bien reçu.
+
+108
+00:07:05,300 --> 00:07:07,700
+Elle sait que c'est impossible.
+
+109
+00:07:07,700 --> 00:07:09,900
+Elle s'accroche à ce qu'elle peut.
+
+110
+00:07:10,000 --> 00:07:12,000
+Négatif pour le radar de proximité.
+
+111
+00:07:12,300 --> 00:07:13,300
+Rien du tout ?
+
+112
+00:07:13,400 --> 00:07:15,300
+On ne voit même pas l'Habitat.
+
+113
+00:07:16,500 --> 00:07:18,400
+Vous ne voulez pas l'entendre mais...
+
+114
+00:07:18,900 --> 00:07:19,800
+Mark est mort.
+
+115
+00:07:24,100 --> 00:07:25,400
+Ça va pas ou quoi ?
+
+116
+00:07:25,400 --> 00:07:27,900
+Mark est mort.
+Je veux pas perdre Lewis.
+
+117
+00:07:27,900 --> 00:07:29,200
+Alerte stabilité.
+
+118
+00:07:29,300 --> 00:07:30,400
+On bascule !
+
+119
+00:07:30,800 --> 00:07:34,000
+Commandant,
+revenez au vaisseau immédiatement.
+
+120
+00:07:34,400 --> 00:07:35,900
+13º.
+
+121
+00:07:36,000 --> 00:07:37,500
+Si on bascule, c'est irréversible.
+
+122
+00:07:37,800 --> 00:07:40,300
+Je tente un truc
+et après je suis les ordres.
+
+123
+00:07:42,300 --> 00:07:43,800
+Tu lances le SMO ?
+
+124
+00:07:44,500 --> 00:07:45,300
+Affirmatif.
+
+125
+00:07:49,400 --> 00:07:50,400
+Commandant !
+
+126
+00:07:51,000 --> 00:07:52,200
+Je rentre.
+
+127
+00:07:55,900 --> 00:07:57,000
+Johanssen, on y va !
+
+128
+00:08:18,900 --> 00:08:20,100
+11,5º, stabilisé.
+
+129
+00:08:24,000 --> 00:08:25,700
+J'attends vos ordres.
+
+130
+00:08:27,400 --> 00:08:28,400
+Parés au décollage.
+
+131
+00:08:29,900 --> 00:08:30,900
+Commandant.
+
+132
+00:08:31,500 --> 00:08:33,300
+Vous devez le dire.
+
+133
+00:08:33,400 --> 00:08:34,200
+Décollage.
+
+134
+00:09:15,900 --> 00:09:18,800
+À environ 4 h 30,
+heure centrale standard,
+
+135
+00:09:18,900 --> 00:09:21,200
+nos satellites ont détecté une tempête
+
+136
+00:09:21,300 --> 00:09:24,200
+s'approchant du site d'Arès 3 sur Mars.
+
+137
+00:09:24,200 --> 00:09:27,500
+À 6 h 45,
+la tempête s'étant fortement aggravée,
+
+138
+00:09:27,600 --> 00:09:30,700
+nous avons été contraints
+d'annuler la mission.
+
+139
+00:09:30,800 --> 00:09:33,400
+Grâce à la réactivité
+du commandant Lewis,
+
+140
+00:09:33,500 --> 00:09:36,700
+les astronautes Beck,
+Johanssen, Martinez et Vogel
+
+141
+00:09:36,700 --> 00:09:39,500
+ont pu regagner le véhicule d'ascension
+
+142
+00:09:39,600 --> 00:09:43,700
+et effectuer un décollage d'urgence
+à 7 h 28, heure centrale.
+
+143
+00:09:44,700 --> 00:09:47,100
+Malheureusement,
+pendant l'évacuation,
+
+144
+00:09:47,100 --> 00:09:51,700
+l'astronaute Mark Watney,
+heurté par un débris, a été tué.
+
+145
+00:09:52,600 --> 00:09:57,000
+Lewis et son équipage
+ont réussi à intercepter l'Hermès
+
+146
+00:09:57,100 --> 00:09:59,200
+et sont sur le trajet du retour.
+
+147
+00:09:59,300 --> 00:10:01,800
+Mais Mark Watney est mort.
+
+148
+00:10:02,100 --> 00:10:03,300
+M. le directeur !
+
+149
+00:10:04,500 --> 00:10:05,600
+M. Sanders !
+
+150
+00:10:37,800 --> 00:10:39,900
+Niveau oxygène critique.
+
+151
+00:12:15,300 --> 00:12:16,800
+Pression stable.
+
+152
+00:15:17,600 --> 00:15:18,400
+Putain.
+
+153
+00:15:52,700 --> 00:15:54,100
+Bonjour, je suis...
+
+154
+00:15:54,100 --> 00:15:56,400
+Mark Watney, astronaute.
+
+155
+00:15:57,400 --> 00:16:00,100
+Ce journal servira de témoignage
+
+156
+00:16:00,800 --> 00:16:02,900
+au cas où je m'en sortirais pas.
+
+157
+00:16:03,500 --> 00:16:04,600
+Il est...
+
+158
+00:16:06,300 --> 00:16:07,900
+6 h 53
+
+159
+00:16:08,500 --> 00:16:10,800
+à Sol 19 et...
+
+160
+00:16:11,800 --> 00:16:13,100
+je suis vivant.
+
+161
+00:16:14,300 --> 00:16:15,800
+Manifestement.
+
+162
+00:16:16,500 --> 00:16:20,800
+Mais ça va faire un choc
+à mes coéquipiers et à la Nasa.
+
+163
+00:16:21,700 --> 00:16:24,300
+Ainsi qu'au monde entier. Donc...
+
+164
+00:16:27,500 --> 00:16:28,600
+Surprise !
+
+165
+00:16:30,100 --> 00:16:32,400
+Je ne suis pas mort à Sol 18.
+
+166
+00:16:32,800 --> 00:16:34,400
+La seule explication,
+
+167
+00:16:34,500 --> 00:16:38,300
+c'est que l'antenne de communications
+s'est brisée
+
+168
+00:16:38,400 --> 00:16:40,600
+et a transpercé mon bio-moniteur
+
+169
+00:16:40,700 --> 00:16:43,500
+et mon corps, par la même occasion.
+
+170
+00:16:43,800 --> 00:16:47,000
+Mais l'antenne et mon sang
+
+171
+00:16:47,000 --> 00:16:50,700
+ont scellé la brèche dans ma tenue
+et m'ont sauvé la vie.
+
+172
+00:16:50,800 --> 00:16:53,300
+Alors que l'équipage me croyait mort.
+
+173
+00:16:54,000 --> 00:16:56,200
+Je n'ai aucun moyen
+de contacter la Nasa.
+
+174
+00:16:56,700 --> 00:16:58,600
+Et même si j'y parvenais,
+
+175
+00:16:59,000 --> 00:17:02,400
+je devrais attendre 4 ans
+une prochaine mission.
+
+176
+00:17:03,000 --> 00:17:05,500
+Cet Habitat est conçu
+pour durer 31 jours.
+
+177
+00:17:05,600 --> 00:17:07,800
+Si l'oxygénateur me lâche, je suffoque.
+
+178
+00:17:07,900 --> 00:17:10,400
+Si c'est le recycleur d'eau,
+je crève de soif.
+
+179
+00:17:10,400 --> 00:17:12,800
+Si l'Habitat se fissure,
+
+180
+00:17:12,800 --> 00:17:14,000
+j'implose.
+
+181
+00:17:15,200 --> 00:17:18,000
+Et si par miracle,
+rien de tout ça n'arrive,
+
+182
+00:17:18,800 --> 00:17:20,900
+j'aurai plus rien à manger.
+
+183
+00:17:22,600 --> 00:17:23,600
+Donc...
+
+184
+00:19:20,100 --> 00:19:21,700
+Je crèverai pas ici.
+
+185
+00:20:02,000 --> 00:20:03,200
+32...
+
+186
+00:20:04,400 --> 00:20:05,700
+33...
+
+187
+00:20:07,800 --> 00:20:09,000
+34...
+
+188
+00:20:10,500 --> 00:20:12,200
+35, 36.
+
+189
+00:20:12,500 --> 00:20:14,900
+Poulet aigre-doux.
+
+190
+00:20:40,200 --> 00:20:42,400
+Ne pas ouvrir avant Thanksgiving !!
+
+191
+00:20:43,400 --> 00:20:44,800
+C'est quoi, ça ?
+
+192
+00:20:55,400 --> 00:20:57,600
+Bon, calculons un peu.
+
+193
+00:20:58,000 --> 00:21:01,600
+Notre mission en surface
+était censée durer 31 Sols.
+
+194
+00:21:01,700 --> 00:21:05,000
+Ils ont envoyé 68 Sols de vivres
+pour 6 personnes.
+
+195
+00:21:05,100 --> 00:21:07,800
+Moi tout seul,
+j'ai de quoi tenir 300 Sols,
+
+196
+00:21:07,800 --> 00:21:10,000
+que je peux allonger à 400.
+
+197
+00:21:10,100 --> 00:21:12,500
+Donc,
+faut que je trouve le moyen
+
+198
+00:21:12,800 --> 00:21:14,100
+de cultiver
+
+199
+00:21:14,400 --> 00:21:16,500
+assez de nourriture pour 3 ans.
+
+200
+00:21:17,000 --> 00:21:19,200
+Sur une planète
+où rien ne pousse.
+
+201
+00:21:20,000 --> 00:21:21,100
+Par chance,
+
+202
+00:21:23,900 --> 00:21:25,400
+je suis botaniste.
+
+203
+00:21:28,800 --> 00:21:29,900
+Mars
+
+204
+00:21:29,900 --> 00:21:31,800
+aura bientôt les jetons
+
+205
+00:21:32,000 --> 00:21:33,600
+de mes pouvoirs de botaniste.
+
+206
+00:21:37,500 --> 00:21:39,500
+Excréments humains
+
+207
+00:22:18,400 --> 00:22:20,000
+Pression stable.
+
+208
+00:22:30,700 --> 00:22:32,100
+Une agrafe a sauté.
+
+209
+00:23:22,200 --> 00:23:23,600
+Je t'emmerde, Mars.
+
+210
+00:23:39,100 --> 00:23:40,500
+Johanssen, putain...
+
+211
+00:24:42,600 --> 00:24:44,400
+Le problème, c'est l'eau.
+
+212
+00:24:45,400 --> 00:24:50,000
+J'ai créé 126 mètres carrés de terre,
+
+213
+00:24:50,600 --> 00:24:54,200
+mais un mètre cube de terre
+nécessite 40 litres d'eau
+
+214
+00:24:54,200 --> 00:24:55,700
+pour être cultivable.
+
+215
+00:24:56,000 --> 00:24:59,000
+Il faut donc que je produise
+beaucoup plus d'eau.
+
+216
+00:25:00,000 --> 00:25:02,000
+Heureusement, j'ai la recette :
+
+217
+00:25:02,600 --> 00:25:04,500
+hydrogène et oxygène brûlés.
+
+218
+00:25:05,200 --> 00:25:06,500
+Je dispose
+
+219
+00:25:06,900 --> 00:25:09,100
+de centaines de litres d'hydrazine
+
+220
+00:25:09,100 --> 00:25:10,500
+dans le VDM.
+
+221
+00:25:10,900 --> 00:25:13,500
+Passée dans un catalyseur en iridium,
+
+222
+00:25:13,900 --> 00:25:15,900
+elle se décompose en N2 et H2.
+
+223
+00:25:16,500 --> 00:25:18,800
+Ensuite, je dirige l'hydrogène
+
+224
+00:25:18,800 --> 00:25:20,500
+vers une petite zone
+
+225
+00:25:21,100 --> 00:25:22,400
+et je le brûle.
+
+226
+00:25:23,200 --> 00:25:25,300
+Ce qui est rassurant,
+c'est que depuis toujours,
+
+227
+00:25:26,300 --> 00:25:29,000
+il n'est jamais rien arrivé
+de bien grave
+
+228
+00:25:29,100 --> 00:25:30,900
+en brûlant de l'hydrogène.
+
+229
+00:25:31,700 --> 00:25:33,500
+La Nasa a horreur du feu.
+
+230
+00:25:33,500 --> 00:25:37,700
+C'est bien connu : "S'il y a le feu,
+tout le monde crève, dans l'espace."
+
+231
+00:25:37,800 --> 00:25:41,300
+Donc, tout notre matériel est ignifugé,
+
+232
+00:25:41,600 --> 00:25:44,000
+à l'exception notable...
+
+233
+00:25:45,700 --> 00:25:47,700
+des effets personnels de Martinez.
+
+234
+00:25:48,500 --> 00:25:49,900
+Désolé, Martinez,
+
+235
+00:25:49,900 --> 00:25:52,100
+mais fallait pas me laisser pour mort
+
+236
+00:25:52,100 --> 00:25:54,000
+sur une planète déserte.
+
+237
+00:25:54,900 --> 00:25:58,800
+Et Toi, j'imagine que Tu m'en voudras
+pas trop, vu ma situation.
+
+238
+00:26:01,200 --> 00:26:02,600
+Je compte sur Toi.
+
+239
+00:26:36,400 --> 00:26:37,800
+Bon, voilà,
+
+240
+00:26:37,900 --> 00:26:39,600
+j'ai tout fait sauter.
+
+241
+00:26:40,100 --> 00:26:41,300
+À mon avis,
+
+242
+00:26:42,400 --> 00:26:44,100
+j'ai oublié de...
+
+243
+00:26:45,100 --> 00:26:47,800
+tenir compte de l'excédent d'oxygène
+
+244
+00:26:48,700 --> 00:26:52,100
+que j'exhale,
+quand j'ai fait les calculs.
+
+245
+00:26:52,900 --> 00:26:54,600
+Parce que je suis très con.
+
+246
+00:26:57,700 --> 00:26:59,800
+Allez, je vais m'y remettre,
+
+247
+00:27:00,000 --> 00:27:02,600
+dès que j'entendrai plus ce sifflement.
+
+248
+00:27:07,400 --> 00:27:11,600
+Notez que c'est comme ça
+que le Jet Propulsion Lab a été créé.
+
+249
+00:27:11,600 --> 00:27:15,300
+Cinq étudiants de Caltech,
+en faisant du carburant pour fusées,
+
+250
+00:27:15,300 --> 00:27:17,200
+ont failli cramer leur dortoir.
+
+251
+00:27:17,300 --> 00:27:19,700
+Plutôt que de les virer,
+on les a enfermés
+
+252
+00:27:20,500 --> 00:27:23,100
+dans une ferme
+en leur disant de continuer.
+
+253
+00:27:23,800 --> 00:27:26,000
+Notre programme spatial était né.
+
+254
+00:28:47,600 --> 00:28:48,700
+Salut, toi.
+
+255
+00:28:59,200 --> 00:29:02,500
+Mark a été une bénédiction
+pour notre programme spatial.
+
+256
+00:29:03,100 --> 00:29:05,400
+Tandis que nous pleurerons sa perte,
+
+257
+00:29:05,400 --> 00:29:08,100
+les hommes et femmes de la Nasa
+poursuivront
+
+258
+00:29:08,100 --> 00:29:10,100
+sans relâche
+leur mission au sein de l'agence.
+
+259
+00:29:10,100 --> 00:29:11,500
+TEDDY SANDERS
+Directeur de la Nasa
+
+260
+00:29:11,500 --> 00:29:15,500
+Ils font ainsi honneur à l'héritage
+que Mark laisse derrière lui.
+
+261
+00:29:16,000 --> 00:29:16,900
+Grâce à eux,
+
+262
+00:29:17,000 --> 00:29:18,500
+il ne sera pas mort en vain.
+
+263
+00:29:18,500 --> 00:29:20,500
+CENTRE SPATIAL JOHNSON
+HOUSTON, TEXAS
+
+264
+00:29:23,700 --> 00:29:26,600
+VINCENT KAPOOR
+Directeur des missions martiennes, Nasa
+
+265
+00:29:30,500 --> 00:29:33,500
+Je ne parle pas seulement
+au nom de la Nasa,
+
+266
+00:29:34,000 --> 00:29:35,700
+mais pour le monde entier...
+
+267
+00:29:35,800 --> 00:29:37,800
+J'ai beaucoup aimé votre discours.
+
+268
+00:29:41,000 --> 00:29:44,000
+- Donnez-moi du temps satellite.
+- Pas question.
+
+269
+00:29:44,400 --> 00:29:48,600
+On nous a financé 5 missions Arès,
+le Congrès en autorisera une 6e.
+
+270
+00:29:49,000 --> 00:29:53,300
+Arès 3 a évacué au bout de 18 Sols,
+la moitié des vivres y est encore.
+
+271
+00:29:53,300 --> 00:29:55,800
+Ça coûterait
+une fraction du prix normal.
+
+272
+00:29:55,900 --> 00:29:58,400
+Je dois savoir le matériel qui reste.
+
+273
+00:29:58,500 --> 00:30:02,100
+Le temps satellite est précieux.
+On doit ravitailler Arès 4,
+
+274
+00:30:02,100 --> 00:30:04,600
+priorité au cratère de Schiaparelli.
+
+275
+00:30:04,600 --> 00:30:06,500
+Sur 12 satellites, on peut...
+
+276
+00:30:06,600 --> 00:30:08,800
+Ce n'est pas la question, Vincent.
+
+277
+00:30:08,800 --> 00:30:11,100
+En tant qu'organisation publique,
+
+278
+00:30:11,200 --> 00:30:12,900
+on a un devoir de transparence.
+
+279
+00:30:13,200 --> 00:30:17,300
+Si on pointe un satellite sur l'Habitat,
+j'expose la dépouille de Watney.
+
+280
+00:30:17,600 --> 00:30:19,200
+Vous avez peur des médias ?
+
+281
+00:30:19,200 --> 00:30:20,900
+Évidemment !
+
+282
+00:30:20,900 --> 00:30:22,200
+Une autre mission ?
+
+283
+00:30:22,300 --> 00:30:24,700
+Le Congrès ne remboursera pas
+nos trombones
+
+284
+00:30:24,800 --> 00:30:27,800
+si j'affiche un astronaute mort
+à la une du Washington Post.
+
+285
+00:30:28,100 --> 00:30:30,400
+Il va pas s'envoler, Teddy.
+
+286
+00:30:31,100 --> 00:30:32,800
+Il va pas se décomposer.
+
+287
+00:30:32,800 --> 00:30:34,800
+Il est là-haut pour toujours.
+
+288
+00:30:35,200 --> 00:30:39,100
+Les climatologues estiment
+qu'il sera recouvert de sable en un an.
+
+289
+00:30:39,400 --> 00:30:41,100
+Un an ? On a du boulot !
+
+290
+00:30:41,200 --> 00:30:44,000
+Arès 5 ne décolle que dans 5 ans,
+on a le temps.
+
+291
+00:30:49,400 --> 00:30:51,100
+Voici ce que je vous propose.
+
+292
+00:30:52,300 --> 00:30:53,300
+Pour l'instant,
+
+293
+00:30:53,800 --> 00:30:57,100
+les gens sont de notre côté,
+ils ont de la peine pour les Watney.
+
+294
+00:30:57,700 --> 00:31:00,300
+Arès 6 pourrait rapatrier son corps.
+
+295
+00:31:01,200 --> 00:31:04,700
+Sans en être le but,
+ça ferait partie de la mission.
+
+296
+00:31:04,700 --> 00:31:05,900
+On présente ça comme ça.
+
+297
+00:31:06,600 --> 00:31:09,900
+Le Congrès nous soutiendra,
+mais pas dans un an.
+
+298
+00:31:10,800 --> 00:31:13,100
+Dans un an, tout le monde s'en foutra.
+
+299
+00:31:28,700 --> 00:31:32,400
+CENTRE DE CONTRÔLE, NASA
+Centre spatial Johnson, Houston, Texas
+
+300
+00:31:38,400 --> 00:31:42,900
+MINDY PARK
+Communications satellite, Nasa
+
+301
+00:31:45,100 --> 00:31:46,100
+Vincent Kapoor...
+
+302
+00:31:47,500 --> 00:31:49,700
+Bonsoir Mindy,
+Vérifiez ces coordonnées
+
+303
+00:31:52,600 --> 00:31:53,700
+6, 2...
+
+304
+00:31:55,400 --> 00:31:56,700
+7, 6, 2.
+
+305
+00:32:00,400 --> 00:32:02,200
+Acidalia Planitia...
+
+306
+00:32:14,000 --> 00:32:14,800
+Mais...
+
+307
+00:32:30,100 --> 00:32:31,200
+La sécurité ?
+
+308
+00:32:31,600 --> 00:32:35,700
+Mindy Park, de SatCon.
+Le numéro d'urgence de Vincent Kapoor.
+
+309
+00:32:36,500 --> 00:32:37,500
+Oui, lui.
+
+310
+00:32:38,400 --> 00:32:40,000
+Oui, c'est une urgence !
+
+311
+00:32:45,300 --> 00:32:46,200
+C'est sûr ?
+
+312
+00:32:46,800 --> 00:32:47,800
+À 100 %.
+
+313
+00:32:48,500 --> 00:32:50,300
+Vous vous foutez de moi ?
+
+314
+00:32:50,300 --> 00:32:51,300
+ANNIE MONTROSE
+Directrice des relations médias, Nasa
+
+315
+00:32:51,300 --> 00:32:52,500
+Prouvez-le-moi.
+
+316
+00:32:54,600 --> 00:32:55,800
+D'abord,
+
+317
+00:32:57,300 --> 00:32:59,400
+les panneaux solaires ont été nettoyés.
+
+318
+00:32:59,800 --> 00:33:01,200
+Par le vent, peut-être.
+
+319
+00:33:01,500 --> 00:33:02,400
+Reculez.
+
+320
+00:33:02,800 --> 00:33:03,900
+Le Rover 2.
+
+321
+00:33:04,000 --> 00:33:08,100
+Le commandant Lewis l'a sorti à Sol 17
+et l'a branché à l'Habitat.
+
+322
+00:33:08,800 --> 00:33:10,000
+Il a été déplacé.
+
+323
+00:33:10,100 --> 00:33:11,800
+Elle aura oublié de le consigner.
+
+324
+00:33:12,300 --> 00:33:13,600
+C'est peu probable.
+
+325
+00:33:13,600 --> 00:33:17,100
+Demandons à Lewis par Capcom.
+
+326
+00:33:17,800 --> 00:33:20,500
+Si Watney est vivant,
+Arès 3 ne doit rien savoir.
+
+327
+00:33:21,300 --> 00:33:22,800
+Vous n'allez pas leur dire ?
+
+328
+00:33:22,900 --> 00:33:25,000
+Il leur reste 10 mois de voyage.
+
+329
+00:33:25,000 --> 00:33:27,900
+C'est dangereux.
+Évitons de les perturber.
+
+330
+00:33:28,000 --> 00:33:29,200
+Ils le croient mort.
+
+331
+00:33:29,200 --> 00:33:32,200
+Ils seraient atterrés
+de l'avoir abandonné en vie.
+
+332
+00:33:32,600 --> 00:33:34,900
+Vous n'avez pas bien réfléchi.
+
+333
+00:33:35,000 --> 00:33:37,300
+Qu'est-ce qu'on va dire ?
+
+334
+00:33:37,300 --> 00:33:41,500
+"Chère Amérique,
+l'astronaute qu'on a tué et enterré,
+
+335
+00:33:41,500 --> 00:33:44,300
+"il est vivant,
+on l'a laissé sur Mars, désolés.
+
+336
+00:33:44,300 --> 00:33:45,600
+Signé : la Nasa."
+
+337
+00:33:46,000 --> 00:33:48,700
+Vous imaginez
+dans quelle merde on va être ?
+
+338
+00:33:48,800 --> 00:33:49,900
+On dit quoi au public ?
+
+339
+00:33:51,400 --> 00:33:54,000
+On a 24 h pour diffuser ces images.
+
+340
+00:33:54,100 --> 00:33:57,000
+Joignons un communiqué,
+que les gens soient avertis.
+
+341
+00:33:58,200 --> 00:33:59,200
+Oui, monsieur.
+
+342
+00:33:59,600 --> 00:34:02,800
+Mais il aura crevé de faim
+avant qu'on puisse l'aider.
+
+343
+00:34:05,900 --> 00:34:08,300
+Vous imaginez ce qu'il vit, là-haut ?
+
+344
+00:34:08,600 --> 00:34:11,800
+Il est à 80 millions de km de chez lui,
+il se croit seul,
+
+345
+00:34:11,800 --> 00:34:13,300
+abandonné.
+
+346
+00:34:14,000 --> 00:34:16,900
+Qu'est-ce que ça peut donner,
+psychologiquement ?
+
+347
+00:34:18,400 --> 00:34:20,300
+À quoi il peut bien penser ?
+
+348
+00:34:24,300 --> 00:34:26,700
+C'est sûr, je vais crever ici
+
+349
+00:34:27,300 --> 00:34:31,300
+si je dois me taper un titre de plus
+de cette bouillie disco.
+
+350
+00:34:31,800 --> 00:34:36,100
+Commandant Lewis, vous auriez pu
+prendre des trucs de ce siècle !
+
+351
+00:34:38,200 --> 00:34:41,900
+Non, je vais pas "turn the beat around".
+Je refuse.
+
+352
+00:34:42,500 --> 00:34:43,900
+Vous ignoriez qu'il était vivant ?
+
+353
+00:34:46,300 --> 00:34:49,400
+Avez-vous essayé de contacter
+Mark Watney ?
+
+354
+00:34:49,400 --> 00:34:50,800
+Nous nous y efforçons.
+
+355
+00:34:51,400 --> 00:34:52,800
+A-t-il assez de vivres ?
+
+356
+00:34:53,100 --> 00:34:54,700
+Nous allons vérifier.
+
+357
+00:34:54,900 --> 00:34:57,400
+Et la Nasa ?
+Vous allez démissionner ?
+
+358
+00:34:57,800 --> 00:34:58,500
+Non.
+
+359
+00:35:04,600 --> 00:35:06,900
+Il est temps de réfléchir à long terme.
+
+360
+00:35:07,500 --> 00:35:09,700
+La prochaine mission, Arès 4,
+
+361
+00:35:09,700 --> 00:35:12,400
+doit se poser
+au cratère de Schiaparelli,
+
+362
+00:35:12,800 --> 00:35:14,900
+à 3 200 kilomètres d'ici.
+
+363
+00:35:15,000 --> 00:35:18,600
+3 200 kilomètres.
+
+364
+00:35:19,400 --> 00:35:23,300
+Dans 4 ans, quand ils arriveront,
+faudra que j'y sois.
+
+365
+00:35:24,300 --> 00:35:26,700
+Donc, je dois me rendre au cratère.
+
+366
+00:35:28,700 --> 00:35:30,500
+Alors, je vous explique le hic.
+
+367
+00:35:30,600 --> 00:35:32,400
+Un seul rover fonctionne
+
+368
+00:35:32,400 --> 00:35:36,000
+et il est conçu pour parcourir
+35 km maximum.
+
+369
+00:35:36,000 --> 00:35:39,000
+Ensuite,
+il faut le recharger à l'Habitat.
+
+370
+00:35:39,700 --> 00:35:40,800
+Problème nº 1.
+
+371
+00:35:41,700 --> 00:35:42,900
+Problème nº 2 :
+
+372
+00:35:43,500 --> 00:35:45,500
+il va me falloir
+
+373
+00:35:45,600 --> 00:35:48,600
+à peu près 50 jours pour arriver là-bas.
+
+374
+00:35:48,600 --> 00:35:50,900
+Je vais devoir passer 50 jours
+
+375
+00:35:51,000 --> 00:35:54,500
+dans un rover
+affublé d'un énorme système de survie.
+
+376
+00:35:55,700 --> 00:35:56,400
+Donc,
+
+377
+00:35:57,400 --> 00:36:01,000
+devant ces probabilités catastrophiques,
+j'ai plus le choix.
+
+378
+00:36:01,800 --> 00:36:04,700
+Va falloir que j'en chie, de la science.
+
+379
+00:36:32,900 --> 00:36:34,200
+J'y suis arrivé.
+
+380
+00:36:39,100 --> 00:36:43,400
+J'ai doublé la durée de ma batterie
+en piquant celle du Rover 1.
+
+381
+00:36:44,400 --> 00:36:47,200
+Mais si je mets le chauffage,
+
+382
+00:36:48,600 --> 00:36:51,800
+je vais épuiser la moitié de mon énergie
+
+383
+00:36:51,900 --> 00:36:53,000
+chaque jour.
+
+384
+00:36:54,700 --> 00:36:57,000
+Et si j'utilise pas le chauffage,
+
+385
+00:36:57,400 --> 00:36:58,500
+je finirai
+
+386
+00:36:59,600 --> 00:37:02,700
+par mourir
+à cause des lois de la thermodynamique.
+
+387
+00:37:03,100 --> 00:37:06,500
+Je serais ravi de régler le problème
+là tout de suite,
+
+388
+00:37:07,000 --> 00:37:08,100
+mais hélas,
+
+389
+00:37:08,500 --> 00:37:10,600
+j'ai les couilles congelées.
+
+390
+00:37:12,600 --> 00:37:14,300
+Basta, j'arrête.
+
+391
+00:37:27,000 --> 00:37:30,300
+Bonne nouvelle :
+j'ai une piste, pour le chauffage.
+
+392
+00:37:30,800 --> 00:37:31,900
+Mauvaise nouvelle :
+
+393
+00:37:31,900 --> 00:37:35,900
+il faut déterrer le générateur
+thermoélectrique à radio-isotope.
+
+394
+00:37:35,900 --> 00:37:40,000
+Il me semble qu'en formation,
+l'un des cours était intitulé :
+
+395
+00:37:40,000 --> 00:37:43,400
+"Ne déterrez pas
+la grosse boîte de plutonium, Mark."
+
+396
+00:37:43,400 --> 00:37:47,500
+Si le GTR, utile dans un vaisseau,
+se fissure en présence d'humains,
+
+397
+00:37:47,600 --> 00:37:48,800
+terminé, les humains.
+
+398
+00:37:48,800 --> 00:37:50,500
+Donc, on l'a enterré
+
+399
+00:37:51,300 --> 00:37:56,200
+et on a planté un drapeau
+pour éviter de s'en approcher bêtement.
+
+400
+00:37:57,000 --> 00:37:59,100
+Mais bon, tant que je l'abîme pas...
+
+401
+00:37:59,600 --> 00:38:02,500
+J'ai failli dire : "Tout ira bien"
+à voix haute.
+
+402
+00:38:02,800 --> 00:38:04,900
+L'essentiel, c'est que j'ai plus froid.
+
+403
+00:38:04,900 --> 00:38:07,100
+Bien sûr, je pourrais me dire
+
+404
+00:38:07,200 --> 00:38:11,900
+que j'ai chaud grâce à un isotope
+radioactif en fin de carrière,
+
+405
+00:38:12,100 --> 00:38:14,400
+mais j'ai d'autres chats à fouetter.
+
+406
+00:38:14,700 --> 00:38:19,300
+J'ai exploré de long en large
+la clé USB du commandant Lewis.
+
+407
+00:38:19,400 --> 00:38:23,700
+C'est officiel, voici le titre
+le moins disco de sa collection.
+
+408
+00:38:58,900 --> 00:39:00,300
+Où va Watney ?
+
+409
+00:39:00,300 --> 00:39:02,600
+Il se prépare pour un long trajet.
+
+410
+00:39:02,700 --> 00:39:04,800
+Il fait des essais progressifs,
+
+411
+00:39:04,800 --> 00:39:07,800
+en emmenant le Rover 2
+de plus en plus loin.
+
+412
+00:39:10,100 --> 00:39:12,600
+Pourquoi quitterait-il
+la sécurité de l'Habitat ?
+
+413
+00:39:13,200 --> 00:39:17,300
+Pour rejoindre le site de lancement
+d'Arès 4 afin de nous contacter.
+
+414
+00:39:17,400 --> 00:39:19,300
+Mais ce serait très risqué.
+
+415
+00:39:19,400 --> 00:39:22,100
+Nous aimerions lui dire
+de rester où il est
+
+416
+00:39:22,200 --> 00:39:24,800
+et de croire que nous faisons tout
+
+417
+00:39:24,900 --> 00:39:26,600
+pour le ramener au pays en vie.
+
+418
+00:39:27,000 --> 00:39:28,100
+Je vous remercie.
+
+419
+00:39:31,100 --> 00:39:33,100
+Ne dites pas "le ramener en vie".
+
+420
+00:39:33,400 --> 00:39:35,600
+Ces interviews sont difficiles.
+
+421
+00:39:35,700 --> 00:39:39,300
+Pardon si j'essaie
+d'avoir un discours proactif et positif.
+
+422
+00:39:39,400 --> 00:39:40,200
+Annie !
+
+423
+00:39:40,200 --> 00:39:42,300
+Fini les télés pour Vincent.
+C'est noté.
+
+424
+00:39:42,900 --> 00:39:45,700
+76 km, c'est bien ce qui est écrit ?
+
+425
+00:39:46,400 --> 00:39:47,800
+Vous me le demandez ?
+
+426
+00:39:48,000 --> 00:39:50,000
+- Absolument.
+- Oui, monsieur.
+
+427
+00:39:50,300 --> 00:39:53,300
+Mark a roulé 2 heures depuis l'Habitat.
+
+428
+00:39:53,300 --> 00:39:55,300
+Après une AEV, encore 2 heures.
+
+429
+00:39:55,300 --> 00:39:58,200
+Sans doute un arrêt
+pour changer de batteries.
+
+430
+00:39:58,200 --> 00:40:00,700
+Il n'avait pas chargé son support-vie ?
+
+431
+00:40:01,200 --> 00:40:03,900
+Toutes les 41 h,
+il y a 17 min de coupure
+
+432
+00:40:04,000 --> 00:40:06,200
+en raison des orbites, donc...
+
+433
+00:40:06,200 --> 00:40:09,000
+on a pu louper quelque chose.
+
+434
+00:40:09,100 --> 00:40:10,900
+Réduisez les coupures à 4 min.
+
+435
+00:40:10,900 --> 00:40:15,100
+Je vous donne carte blanche
+pour modifier les trajectoires orbitales.
+
+436
+00:40:15,200 --> 00:40:16,000
+Débrouillez-vous.
+
+437
+00:40:19,200 --> 00:40:23,000
+Si Mlle Park n'a rien loupé,
+Mark ne va pas vers Arès 4.
+
+438
+00:40:23,100 --> 00:40:23,800
+Pas encore.
+
+439
+00:40:24,200 --> 00:40:27,600
+Mais il sait que ce serait
+sa seule chance.
+
+440
+00:40:27,600 --> 00:40:30,000
+Bruce, quel délai
+pour un envoi de vivres ?
+
+441
+00:40:30,600 --> 00:40:33,600
+Au vu des positions de la Terre et de Mars,
+il faut compter 9 mois.
+
+442
+00:40:33,600 --> 00:40:35,800
+BRUCE NG
+Directeur du jet propulsion laboratory
+
+443
+00:40:35,800 --> 00:40:38,100
+6 mois pour fabriquer le cargo.
+
+444
+00:40:38,200 --> 00:40:39,100
+3 mois.
+
+445
+00:40:40,000 --> 00:40:41,000
+3 ? C'est...
+
+446
+00:40:41,000 --> 00:40:46,200
+Vous allez dire : "C'est impossible",
+je ferai l'éloge de vos équipes,
+
+447
+00:40:46,300 --> 00:40:48,600
+vous referez vos calculs et direz :
+
+448
+00:40:48,600 --> 00:40:50,600
+"En heures sup', ce sera l'enfer."
+
+449
+00:40:50,600 --> 00:40:52,900
+En heures sup', ce sera l'enfer.
+
+450
+00:40:52,900 --> 00:40:53,900
+Au travail.
+
+451
+00:40:54,000 --> 00:40:55,200
+Je vous trouverai l'argent.
+
+452
+00:40:56,600 --> 00:40:57,600
+Il faut le dire à l'équipage.
+
+453
+00:40:57,700 --> 00:40:58,400
+MITCH HENDERSON
+Responsable du vol Hermès, Nasa
+
+454
+00:40:58,400 --> 00:41:00,800
+- On l'a évoqué.
+- "Vous" l'avez évoqué.
+
+455
+00:41:01,300 --> 00:41:04,300
+Moi seul décide
+du bien-être de l'équipage.
+
+456
+00:41:05,700 --> 00:41:07,000
+Ils méritent de savoir.
+
+457
+00:41:08,800 --> 00:41:11,900
+Pas avant d'avoir
+un plan de sauvetage viable.
+
+458
+00:41:12,500 --> 00:41:15,000
+Bruce a 3 mois pour envoyer les vivres.
+
+459
+00:41:15,000 --> 00:41:16,800
+C'est la priorité absolue.
+
+460
+00:41:16,800 --> 00:41:17,900
+Nous ferons au mieux.
+
+461
+00:41:18,700 --> 00:41:21,000
+Mark mourra, si vous échouez.
+
+462
+00:41:22,600 --> 00:41:24,300
+Ça fait 48 Sols
+
+463
+00:41:24,300 --> 00:41:26,400
+que j'ai planté les pommes de terre.
+
+464
+00:41:26,500 --> 00:41:28,600
+C'est le moment
+de récolter et replanter.
+
+465
+00:41:28,600 --> 00:41:30,900
+Elles sont plus grosses que prévu.
+
+466
+00:41:31,400 --> 00:41:34,500
+Je possède maintenant
+400 pieds de patates saines.
+
+467
+00:41:34,500 --> 00:41:37,600
+Je les déterre
+en veillant à ne pas les abîmer.
+
+468
+00:41:37,600 --> 00:41:41,800
+Je replanterai les petites
+et consommerai les plus grosses.
+
+469
+00:41:41,900 --> 00:41:45,600
+Des pommes de terre
+100 % bio d'origine martienne.
+
+470
+00:41:45,600 --> 00:41:47,700
+On voit pas ça tous les jours !
+
+471
+00:41:48,600 --> 00:41:50,500
+Mais ça servira à rien
+
+472
+00:41:50,500 --> 00:41:53,300
+si j'arrive pas à contacter la Nasa.
+
+473
+00:42:15,000 --> 00:42:16,400
+Je sais ce que je vais faire.
+
+474
+00:42:45,200 --> 00:42:46,600
+Il repart.
+
+475
+00:42:46,600 --> 00:42:48,600
+Mais il va où comme ça ?
+
+476
+00:42:49,100 --> 00:42:51,500
+C'est le même cap depuis 13 jours.
+
+477
+00:42:51,600 --> 00:42:53,400
+Il est loin d'Arès 4.
+
+478
+00:42:53,900 --> 00:42:57,400
+À moins qu'il fasse des détours
+pour essayer
+
+479
+00:42:57,400 --> 00:42:59,800
+de contourner un obstacle.
+
+480
+00:43:00,000 --> 00:43:01,200
+Quel obstacle ?
+
+481
+00:43:01,800 --> 00:43:05,200
+À Acidalia Planitia,
+il n'y a rien sauf...
+
+482
+00:43:07,600 --> 00:43:08,600
+Quoi ?
+
+483
+00:43:12,200 --> 00:43:13,600
+J'ai besoin d'une carte.
+
+484
+00:43:22,200 --> 00:43:24,400
+- Vous vous croyez où ?
+- Tout va bien.
+
+485
+00:43:24,400 --> 00:43:25,700
+Je vous l'emprunte.
+
+486
+00:43:26,100 --> 00:43:28,000
+Où se trouve l'Habitat ?
+
+487
+00:43:28,500 --> 00:43:31,100
+31,2º nord, 28,5º ouest.
+
+488
+00:43:32,100 --> 00:43:33,100
+Et Watney ?
+
+489
+00:43:34,200 --> 00:43:35,100
+Ici.
+
+490
+00:43:44,600 --> 00:43:46,000
+Je sais où il va.
+
+491
+00:43:46,000 --> 00:43:47,400
+Je saute dans un avion.
+
+492
+00:44:17,800 --> 00:44:20,100
+JET PROPULSION LABORATORY
+PASADENA, CALIFORNIE
+
+493
+00:44:20,200 --> 00:44:21,800
+Vincent ! Comment va ?
+
+494
+00:44:21,900 --> 00:44:22,900
+Bonjour.
+
+495
+00:44:23,000 --> 00:44:24,000
+Bon vol ?
+
+496
+00:44:26,100 --> 00:44:28,600
+Il est entreposé à deux minutes d'ici.
+
+497
+00:45:03,100 --> 00:45:05,100
+Content de vous revoir, Vincent.
+
+498
+00:45:05,500 --> 00:45:07,900
+Mark peut le réactiver ?
+
+499
+00:45:07,900 --> 00:45:11,500
+Difficile à dire.
+On a perdu le contact en 1997.
+
+500
+00:45:11,700 --> 00:45:14,000
+Panne de batterie, je crois.
+
+501
+00:45:14,000 --> 00:45:18,000
+Néanmoins, elle a tenu
+3 fois plus longtemps que prévu.
+
+502
+00:45:18,000 --> 00:45:21,200
+On vous reproche rien.
+Je veux voir l'équipe de 97.
+
+503
+00:45:21,200 --> 00:45:23,300
+Ils sont déjà là.
+Les gars...
+
+504
+00:45:23,400 --> 00:45:26,700
+Vincent Kapoor,
+directeur des missions martiennes.
+
+505
+00:45:26,800 --> 00:45:28,400
+Notre équipe actuelle.
+
+506
+00:45:29,400 --> 00:45:30,800
+Et celle de 97.
+
+507
+00:45:46,700 --> 00:45:48,600
+- C'est la réplique ?
+- Oui.
+
+508
+00:45:48,800 --> 00:45:50,000
+Voyons ça.
+
+509
+00:45:51,200 --> 00:45:52,400
+Pathfinder.
+
+510
+00:45:58,100 --> 00:45:59,400
+Pathfinder.
+
+511
+00:47:33,100 --> 00:47:34,200
+Nom de Dieu !
+
+512
+00:47:35,800 --> 00:47:38,300
+En attente de signal télémétrie.
+
+513
+00:47:41,400 --> 00:47:42,600
+Signal acquis.
+
+514
+00:47:45,400 --> 00:47:46,100
+Caméra.
+
+515
+00:48:36,100 --> 00:48:37,300
+Réception.
+
+516
+00:48:40,900 --> 00:48:42,200
+"Me recevez-vous ?"
+
+517
+00:48:43,500 --> 00:48:44,200
+"Oui."
+
+518
+00:48:44,700 --> 00:48:45,400
+"Non."
+
+519
+00:48:48,200 --> 00:48:49,900
+Pointez-la sur "oui".
+
+520
+00:48:49,900 --> 00:48:52,300
+32 minutes aller-retour.
+
+521
+00:48:52,300 --> 00:48:55,900
+On doit répondre par oui ou par non
+avec une caméra.
+
+522
+00:48:56,000 --> 00:48:58,600
+C'est pas les réparties qui vont fuser !
+
+523
+00:48:58,600 --> 00:48:59,500
+C'est une blague ?
+
+524
+00:48:59,500 --> 00:49:00,500
+Tim...
+
+525
+00:49:00,500 --> 00:49:02,000
+Pointez la caméra.
+
+526
+00:49:02,900 --> 00:49:04,800
+Je pointe la caméra.
+
+527
+00:49:19,800 --> 00:49:20,600
+Oui !
+
+528
+00:49:22,400 --> 00:49:23,400
+Oui !
+
+529
+00:49:24,800 --> 00:49:26,100
+Voilà le hic.
+
+530
+00:49:27,100 --> 00:49:32,000
+On doit tenir des conversations complexes
+sur l'ingénierie astrophysique
+
+531
+00:49:32,500 --> 00:49:35,500
+à l'aide d'une caméra à capture d'images
+
+532
+00:49:36,400 --> 00:49:38,100
+datant de 1996.
+
+533
+00:49:41,400 --> 00:49:42,500
+Par chance,
+
+534
+00:49:44,400 --> 00:49:46,200
+c'est une caméra rotative.
+
+535
+00:49:47,000 --> 00:49:48,800
+Je dois créer un alphabet.
+
+536
+00:49:49,400 --> 00:49:51,200
+Ça peut pas être le nôtre.
+
+537
+00:49:51,200 --> 00:49:56,000
+26 caractères plus une carte-question,
+sur 360º, ça les sépare de 13º.
+
+538
+00:49:56,100 --> 00:50:00,200
+C'est trop serré. Je saurai pas
+quelle carte la caméra désigne.
+
+539
+00:50:12,700 --> 00:50:13,800
+L'hexadécimal.
+
+540
+00:50:18,300 --> 00:50:20,000
+L'hexadécimal
+à la rescousse.
+
+541
+00:50:20,600 --> 00:50:24,300
+Je me suis dit que l'un d'entre vous
+avait un tableau ASCII.
+
+542
+00:50:24,400 --> 00:50:25,700
+J'avais raison.
+
+543
+00:50:26,100 --> 00:50:29,400
+On applaudit notre super-geek,
+Beth Johanssen.
+
+544
+00:50:30,900 --> 00:50:33,100
+Qui a aussi le jeu Zork II
+
+545
+00:50:33,200 --> 00:50:35,900
+et Les Déesses de cuir de Phobos
+sur son PC.
+
+546
+00:50:37,400 --> 00:50:38,800
+Franchement, Johanssen,
+
+547
+00:50:38,800 --> 00:50:41,300
+tu mérites le prix Nobel de la solitude.
+
+548
+00:50:41,900 --> 00:50:43,500
+Mais j'ai rien à t'envier,
+
+549
+00:50:43,800 --> 00:50:45,900
+pour ce qui est de la solitude.
+
+550
+00:51:06,100 --> 00:51:08,200
+Je sais où il va avec ça.
+
+551
+00:51:49,300 --> 00:51:50,000
+F...
+
+552
+00:51:50,300 --> 00:51:51,200
+O...
+
+553
+00:51:56,300 --> 00:51:57,600
+F... O...
+
+554
+00:51:58,800 --> 00:52:00,400
+7... W...
+
+555
+00:52:09,900 --> 00:52:13,500
+COMMENT SURVÉCU ?
+
+556
+00:52:20,400 --> 00:52:21,400
+Réveillez-vous.
+
+557
+00:52:26,400 --> 00:52:29,100
+Empalé par antenne
+Bio-moniteur détruit
+
+558
+00:52:29,200 --> 00:52:32,200
+Équipage raison me croire mort
+Pas leur faute
+
+559
+00:52:33,200 --> 00:52:36,100
+Depuis qu'on communique mieux,
+
+560
+00:52:36,200 --> 00:52:39,400
+les cerveaux de la Nasa
+m'ont appris à pirater
+
+561
+00:52:39,400 --> 00:52:42,400
+le Rover pour qu'il parle à Pathfinder.
+
+562
+00:52:42,400 --> 00:52:44,200
+Si j'entre un bout de code,
+
+563
+00:52:44,300 --> 00:52:47,400
+disons 20 instructions,
+dans l'OS du Rover,
+
+564
+00:52:47,900 --> 00:52:50,800
+la Nasa reliera le Rover
+à la fréquence de Pathfinder
+
+565
+00:52:51,700 --> 00:52:53,200
+et le tour sera joué.
+
+566
+00:53:07,400 --> 00:53:08,200
+"Mark,
+
+567
+00:53:08,900 --> 00:53:10,400
+c'est Vincent Kapoor.
+
+568
+00:53:11,300 --> 00:53:14,400
+Nous vous observons depuis Sol 54.
+
+569
+00:53:15,700 --> 00:53:17,900
+Le monde entier vous soutient.
+
+570
+00:53:18,900 --> 00:53:20,600
+Excellente idée
+
+571
+00:53:20,600 --> 00:53:22,300
+de récupérer Pathfinder.
+
+572
+00:53:22,600 --> 00:53:24,400
+On cherche des plans de sauvetage.
+
+573
+00:53:25,000 --> 00:53:28,200
+En attendant,
+on prépare un envoi de vivres
+
+574
+00:53:28,200 --> 00:53:29,500
+pour vous nourrir
+
+575
+00:53:30,100 --> 00:53:32,700
+jusqu'à l'arrivée d'Arès 4."
+
+576
+00:53:53,800 --> 00:53:55,400
+Heureux de l'apprendre.
+
+577
+00:54:02,700 --> 00:54:05,100
+"J'ai hâte de ne pas mourir."
+
+578
+00:54:17,500 --> 00:54:18,900
+"Qu'a dit l'équipage
+
+579
+00:54:19,000 --> 00:54:21,500
+en apprenant que j'avais survécu ?"
+
+580
+00:54:37,900 --> 00:54:40,400
+Vous me recevez ?
+
+581
+00:54:42,700 --> 00:54:44,900
+Un peu d'espace, s'il vous plaît.
+
+582
+00:54:45,600 --> 00:54:46,400
+Moi aussi ?
+
+583
+00:54:46,400 --> 00:54:47,300
+Vous aussi.
+
+584
+00:54:47,900 --> 00:54:48,900
+Pour une seconde.
+
+585
+00:54:55,600 --> 00:54:56,800
+Dites-lui.
+
+586
+00:55:05,700 --> 00:55:08,100
+"Nous n'avons pas dit à l'équipage
+
+587
+00:55:09,100 --> 00:55:10,800
+que vous étiez en vie.
+
+588
+00:55:10,800 --> 00:55:11,500
+Pas encore.
+
+589
+00:55:13,300 --> 00:55:15,500
+Pour qu'ils restent concentrés
+
+590
+00:55:16,100 --> 00:55:17,400
+sur leur mission."
+
+591
+00:55:42,000 --> 00:55:43,300
+Il dit :
+
+592
+00:55:43,300 --> 00:55:44,800
+"Ils sont pas au courant ?
+
+593
+00:55:44,800 --> 00:55:49,500
+Mais p... de b... de m...,
+vous êtes malades ?"
+
+594
+00:55:52,100 --> 00:55:52,700
+"Mark,
+
+595
+00:55:53,200 --> 00:55:55,900
+surveillez votre langage.
+
+596
+00:55:55,900 --> 00:55:59,600
+Tout ce que vous tapez
+est diffusé en direct
+
+597
+00:55:59,600 --> 00:56:01,800
+aux quatre coins du monde."
+
+598
+00:56:04,700 --> 00:56:05,600
+Ah ouais ?
+
+599
+00:56:18,000 --> 00:56:20,800
+Oui, monsieur.
+Il est extrêmement stressé.
+
+600
+00:56:22,400 --> 00:56:23,600
+Nous y veillerons.
+
+601
+00:56:24,300 --> 00:56:26,000
+Il ne le pensait pas.
+
+602
+00:56:26,300 --> 00:56:27,800
+Merci, M. le Président.
+
+603
+00:56:29,800 --> 00:56:31,000
+Mark a raison.
+
+604
+00:56:31,000 --> 00:56:34,700
+Plus on attend, pire ce sera.
+Il faut le dire aux autres.
+
+605
+00:56:35,200 --> 00:56:39,200
+Vincent est à Pasadena
+et ne peut pas vous contrecarrer.
+
+606
+00:56:39,200 --> 00:56:40,900
+J'ai pas à répondre à Vincent.
+
+607
+00:56:41,200 --> 00:56:42,500
+Ni à personne.
+
+608
+00:56:44,900 --> 00:56:46,300
+Il est temps, Teddy.
+
+609
+00:56:49,600 --> 00:56:53,900
+L'HERMÈS
+4 mois après le départ de Mars
+
+610
+00:57:10,400 --> 00:57:11,700
+Commandant Lewis ?
+
+611
+00:57:12,100 --> 00:57:13,100
+Allez-y.
+
+612
+00:57:14,100 --> 00:57:15,900
+Le transfert de données est terminé.
+
+613
+00:57:16,900 --> 00:57:18,400
+Bien reçu. J'arrive.
+
+614
+00:57:31,600 --> 00:57:32,900
+Vous êtes bien pressé.
+
+615
+00:57:34,500 --> 00:57:36,400
+Mon fils a eu 3 ans hier.
+
+616
+00:57:36,500 --> 00:57:38,400
+Il doit y avoir des photos.
+
+617
+00:57:49,100 --> 00:57:51,000
+J'ai des messages personnels.
+
+618
+00:57:51,000 --> 00:57:53,100
+Je les transfère sur vos PC.
+
+619
+00:57:54,300 --> 00:57:57,700
+Je lirai pas les mails fétichistes
+de Vogel en allemand.
+
+620
+00:57:57,700 --> 00:57:59,600
+Des mises à jour télémétriques.
+
+621
+00:57:59,600 --> 00:58:00,800
+Chacun son kif.
+
+622
+00:58:02,000 --> 00:58:03,600
+J'ai un message vidéo
+
+623
+00:58:03,600 --> 00:58:05,300
+adressé à tout l'équipage.
+
+624
+00:58:06,100 --> 00:58:07,800
+Ouvrez-le. Venez tous.
+
+625
+00:58:08,600 --> 00:58:10,400
+Ça me branche, ta télémétrie.
+
+626
+00:58:14,400 --> 00:58:15,500
+Bonjour.
+
+627
+00:58:15,600 --> 00:58:17,000
+Je suis Mitch Henderson.
+
+628
+00:58:17,800 --> 00:58:19,500
+J'ai une nouvelle.
+
+629
+00:58:19,600 --> 00:58:22,200
+Je dois vous l'annoncer sans détour.
+
+630
+00:58:23,000 --> 00:58:24,900
+Mark Watney est toujours en vie.
+
+631
+00:58:27,000 --> 00:58:28,400
+J'imagine votre surprise
+
+632
+00:58:28,900 --> 00:58:30,800
+et vos nombreuses questions.
+
+633
+00:58:31,200 --> 00:58:33,200
+Mais en deux mots,
+
+634
+00:58:33,600 --> 00:58:34,700
+il est vivant
+
+635
+00:58:34,700 --> 00:58:36,400
+et se porte bien.
+
+636
+00:58:37,800 --> 00:58:41,800
+Nous le savons depuis 2 mois
+mais vous l'avons caché.
+
+637
+00:58:41,800 --> 00:58:43,300
+Deux mois !
+
+638
+00:58:43,300 --> 00:58:45,300
+J'étais contre cette décision.
+
+639
+00:58:46,000 --> 00:58:48,800
+On vous l'annonce maintenant
+parce que...
+
+640
+00:58:48,800 --> 00:58:51,300
+on a enfin établi
+une communication avec lui
+
+641
+00:58:51,800 --> 00:58:54,400
+et on a un plan de sauvetage.
+
+642
+00:58:54,800 --> 00:58:58,600
+Vous aurez un rapport détaillé
+de la situation.
+
+643
+00:58:58,700 --> 00:59:02,800
+Mais ce n'est pas votre faute.
+Mark insiste beaucoup sur ce point.
+
+644
+00:59:08,400 --> 00:59:10,400
+Prenez le temps d'encaisser le choc.
+
+645
+00:59:11,000 --> 00:59:12,000
+Et...
+
+646
+00:59:12,400 --> 00:59:15,100
+nous répondrons à toutes vos questions.
+
+647
+00:59:16,600 --> 00:59:18,200
+Henderson, terminé.
+
+648
+00:59:18,700 --> 00:59:20,300
+Il est vivant.
+
+649
+00:59:21,400 --> 00:59:22,900
+Je l'ai abandonné.
+
+650
+00:59:23,700 --> 00:59:25,500
+On est partis ensemble.
+
+651
+00:59:25,600 --> 00:59:27,500
+Vous exécutiez mes ordres.
+
+652
+00:59:31,000 --> 00:59:32,600
+Moi, je l'ai abandonné.
+
+653
+00:59:42,200 --> 00:59:44,800
+Depuis que la Nasa me parle,
+elle me soûle.
+
+654
+00:59:45,500 --> 00:59:47,200
+Ils veulent des nouvelles
+
+655
+00:59:47,200 --> 00:59:48,600
+en permanence.
+
+656
+00:59:49,400 --> 00:59:52,400
+Et plein de gens
+veulent gérer ma plantation.
+
+657
+00:59:52,400 --> 00:59:53,800
+Qui déchire.
+
+658
+00:59:54,700 --> 00:59:56,600
+Sans prétention,
+
+659
+00:59:56,700 --> 01:00:00,700
+je suis le meilleur botaniste
+sur cette planète.
+
+660
+01:00:03,000 --> 01:00:06,200
+Un point positif
+de cette communication avec la Nasa,
+
+661
+01:00:06,300 --> 01:00:07,800
+je reçois des mails,
+
+662
+01:00:07,800 --> 01:00:10,400
+des tonnes de mails,
+comme dans l'Hermès.
+
+663
+01:00:10,400 --> 01:00:11,700
+Dont un du Président.
+
+664
+01:00:12,400 --> 01:00:15,900
+Mais le plus cool
+vient de l'université de Chicago,
+
+665
+01:00:15,900 --> 01:00:17,700
+où j'ai fait mes études.
+
+666
+01:00:18,100 --> 01:00:20,700
+Selon eux, quand on exploite un sol,
+
+667
+01:00:20,800 --> 01:00:22,700
+on l'a officiellement colonisé.
+
+668
+01:00:23,500 --> 01:00:25,600
+Alors, en théorie,
+
+669
+01:00:26,800 --> 01:00:28,000
+j'ai colonisé Mars.
+
+670
+01:00:33,200 --> 01:00:35,000
+Dans ta face, Neil Armstrong.
+
+671
+01:00:35,900 --> 01:00:37,700
+Nouvelle requête de la Terre :
+
+672
+01:00:37,800 --> 01:00:41,600
+je dois leur envoyer un selfie
+à ma prochaine transmission.
+
+673
+01:00:42,700 --> 01:00:46,400
+J'hésite entre la pose
+"lycéen de terminale"
+
+674
+01:00:47,000 --> 01:00:49,300
+ou "ingénue aguicheuse".
+
+675
+01:00:50,300 --> 01:00:51,300
+Mais...
+
+676
+01:00:52,100 --> 01:00:54,600
+ça donnera quoi, en tenue d'astronaute ?
+
+677
+01:01:24,700 --> 01:01:26,300
+Qu'est-ce qu'il fabrique ?
+
+678
+01:01:26,300 --> 01:01:28,600
+Je veux une photo et je reçois Fonzie ?
+
+679
+01:01:28,700 --> 01:01:30,500
+Il aurait pu ne rien envoyer.
+
+680
+01:01:30,500 --> 01:01:33,800
+Elle me sert à rien,
+on doit voir son visage.
+
+681
+01:01:33,900 --> 01:01:35,500
+Il pourrait enlever son casque,
+
+682
+01:01:35,600 --> 01:01:37,300
+mais alors, il... mourrait.
+
+683
+01:01:38,800 --> 01:01:41,300
+On la diffusera
+après l'annonce du sauvetage.
+
+684
+01:01:41,400 --> 01:01:44,500
+Annonçons qu'on lui enverra des vivres
+l'an prochain
+
+685
+01:01:44,500 --> 01:01:46,100
+durant la fenêtre de Hohmann.
+
+686
+01:01:46,700 --> 01:01:49,000
+Bruce, toujours dans les temps ?
+
+687
+01:01:49,100 --> 01:01:51,000
+C'est serré, mais on y arrivera.
+
+688
+01:01:51,100 --> 01:01:55,200
+9 mois de voyage,
+le cargo arrivera sur Mars à Sol 868.
+
+689
+01:01:55,200 --> 01:01:57,100
+Et les analyses des botanistes ?
+
+690
+01:01:57,200 --> 01:02:00,700
+Les récoltes de Mark
+devraient tenir jusqu'à Sol 912.
+
+691
+01:02:00,700 --> 01:02:03,700
+Ils admettent à contrecur
+qu'il assure.
+
+692
+01:02:03,800 --> 01:02:04,900
+À contrecur ?
+
+693
+01:02:05,500 --> 01:02:08,600
+Mark les envoie déféquer
+dès qu'ils le critiquent.
+
+694
+01:02:09,000 --> 01:02:10,100
+Recadrez-le.
+
+695
+01:02:10,200 --> 01:02:12,300
+On ne peut tolérer de tensions.
+
+696
+01:02:12,300 --> 01:02:15,400
+Je n'aime pas cette marge.
+912 Sols de nourriture.
+
+697
+01:02:15,400 --> 01:02:17,400
+On arrive à Sol 868.
+
+698
+01:02:18,200 --> 01:02:20,400
+Si tout se passe bien.
+
+699
+01:03:05,900 --> 01:03:08,100
+Brèche combinaison détectée.
+
+700
+01:03:16,200 --> 01:03:18,500
+Niveau d'oxygène critique.
+
+701
+01:03:32,300 --> 01:03:34,200
+Oxygène : 10 %.
+
+702
+01:03:49,700 --> 01:03:52,100
+Oxygène : 5 %.
+
+703
+01:04:01,700 --> 01:04:03,500
+Pression combinaison stable.
+
+704
+01:05:59,600 --> 01:06:01,100
+Pression stable.
+
+705
+01:06:35,200 --> 01:06:37,800
+Merde ! Merde !
+
+706
+01:06:57,000 --> 01:06:58,400
+La récolte est morte.
+
+707
+01:06:59,000 --> 01:07:01,400
+La dépressurisation
+a fait évaporer l'eau.
+
+708
+01:07:01,400 --> 01:07:04,400
+Les bactéries
+ont succombé au froid extrême
+
+709
+01:07:04,400 --> 01:07:06,600
+de l'atmosphère martienne.
+
+710
+01:07:06,700 --> 01:07:08,200
+Il tiendra longtemps ?
+
+711
+01:07:09,700 --> 01:07:13,100
+Comme il ne peut plus cultiver
+de pommes de terre,
+
+712
+01:07:13,800 --> 01:07:16,200
+ça lui donne... 200 Sols.
+
+713
+01:07:16,600 --> 01:07:19,700
+En se rationnant,
+il ira jusqu'à Sol 409 ?
+
+714
+01:07:20,300 --> 01:07:22,600
+Avec les pommes de terre, Sol 609.
+
+715
+01:07:22,600 --> 01:07:25,400
+À Sol 868,
+il sera mort depuis longtemps.
+
+716
+01:07:25,500 --> 01:07:28,800
+Il faut lancer au plus vite,
+ce qui change notre agenda.
+
+717
+01:07:30,300 --> 01:07:31,700
+On est dessus.
+
+718
+01:07:32,800 --> 01:07:36,700
+Première estimation :
+le voyage durera 414 jours.
+
+719
+01:07:37,600 --> 01:07:39,800
+On est à Sol 135.
+
+720
+01:07:39,800 --> 01:07:43,000
+Il faut 13 jours
+pour monter les boosters et inspecter,
+
+721
+01:07:43,100 --> 01:07:45,700
+ce qui donne à l'équipe de Bruce...
+
+722
+01:07:46,600 --> 01:07:48,800
+47 jours pour fabriquer le cargo.
+
+723
+01:07:50,100 --> 01:07:51,700
+Je vous laisse appeler Bruce
+
+724
+01:07:51,900 --> 01:07:53,300
+pour lui annoncer.
+
+725
+01:08:01,100 --> 01:08:03,600
+J'ai besoin de me changer.
+
+726
+01:08:12,100 --> 01:08:13,300
+"Cher Mark,
+
+727
+01:08:14,400 --> 01:08:15,800
+apparemment,
+
+728
+01:08:16,700 --> 01:08:19,000
+la Nasa nous autorise à te parler
+
+729
+01:08:20,500 --> 01:08:23,700
+et c'est moi
+qui ai tiré la courte paille.
+
+730
+01:08:27,600 --> 01:08:28,700
+Désolé
+
+731
+01:08:29,600 --> 01:08:31,300
+de t'avoir abandonné sur Mars,
+
+732
+01:08:31,700 --> 01:08:33,900
+mais en fait, on peut pas te saquer.
+
+733
+01:08:36,300 --> 01:08:37,500
+Qui plus est,
+
+734
+01:08:37,900 --> 01:08:39,600
+c'est bien plus spacieux
+
+735
+01:08:39,900 --> 01:08:41,400
+dans l'Hermès sans toi.
+
+736
+01:08:42,300 --> 01:08:43,900
+On doit se relayer
+
+737
+01:08:43,900 --> 01:08:45,400
+pour exécuter tes tâches,
+
+738
+01:08:46,400 --> 01:08:47,700
+mais finalement,
+
+739
+01:08:48,200 --> 01:08:50,000
+c'est que de la botanique,
+
+740
+01:08:51,100 --> 01:08:53,000
+pas de la vraie science.
+
+741
+01:08:55,500 --> 01:08:57,100
+Comment va Mars ?"
+
+742
+01:09:01,300 --> 01:09:03,100
+"Cher Martinez,
+
+743
+01:09:03,700 --> 01:09:05,000
+Mars va bien.
+
+744
+01:09:06,000 --> 01:09:08,100
+J'ai fait sauter l'Habitat.
+
+745
+01:09:08,800 --> 01:09:10,100
+Mais malheureusement,
+
+746
+01:09:10,800 --> 01:09:13,800
+toute la musique disco
+du commandant Lewis
+
+747
+01:09:13,800 --> 01:09:15,200
+a survécu."
+
+748
+01:09:16,000 --> 01:09:18,900
+"... toute la musique disco
+du commandant Lewis
+
+749
+01:09:18,900 --> 01:09:20,300
+a survécu."
+
+750
+01:09:21,600 --> 01:09:26,100
+"Chaque jour,
+je sors regarder les vastes horizons."
+
+751
+01:09:26,200 --> 01:09:29,900
+"Chaque jour,
+je sors regarder les vastes horizons."
+
+752
+01:09:30,000 --> 01:09:31,400
+"Puisque je suis là."
+
+753
+01:09:32,100 --> 01:09:33,900
+"Puisque je suis là.
+
+754
+01:09:34,800 --> 01:09:37,500
+Dis aux autres que je les salue bien."
+
+755
+01:09:40,300 --> 01:09:41,900
+"Ce sera fait, mon pote."
+
+756
+01:11:11,700 --> 01:11:13,200
+Pression stable.
+
+757
+01:11:53,500 --> 01:11:55,200
+5, 10...
+
+758
+01:12:00,400 --> 01:12:01,500
+40...
+
+759
+01:12:02,300 --> 01:12:03,300
+52.
+
+760
+01:12:20,500 --> 01:12:24,500
+JET PROPULSION LABORATORY
+PASADENA, CALIFORNIE
+
+761
+01:12:32,300 --> 01:12:33,300
+Rich ?
+
+762
+01:12:36,100 --> 01:12:37,200
+Réveille-toi.
+
+763
+01:12:38,000 --> 01:12:39,800
+RICH PURNELL
+Astrodynamique
+
+764
+01:12:40,200 --> 01:12:42,700
+- Ils demandent les trajectoires.
+- Il est quelle heure ?
+
+765
+01:12:44,500 --> 01:12:45,900
+3 h 42.
+
+766
+01:12:51,000 --> 01:12:53,400
+Je sais, on prend les choses à l'envers
+
+767
+01:12:53,400 --> 01:12:56,600
+mais on peut pas lancer
+avec autant d'inconnues.
+
+768
+01:12:57,900 --> 01:12:59,000
+Pas de souci.
+
+769
+01:12:59,700 --> 01:13:02,500
+Les 25 trajectoires mettent 414 jours.
+
+770
+01:13:02,500 --> 01:13:06,000
+Légères variations de poussée
+et besoins en fuel identiques.
+
+771
+01:13:07,400 --> 01:13:09,500
+C'est pas le moment de lancer...
+
+772
+01:13:10,700 --> 01:13:12,600
+La Terre et Mars sont mal positionnés.
+
+773
+01:13:12,700 --> 01:13:15,100
+Ce serait presque plus facile de...
+
+774
+01:13:17,400 --> 01:13:18,400
+De quoi ?
+
+775
+01:13:19,700 --> 01:13:21,000
+J'ai besoin de café.
+
+776
+01:13:23,400 --> 01:13:25,200
+- Ça va ?
+- Nickel.
+
+777
+01:13:30,200 --> 01:13:31,400
+Plus facile de quoi ?
+
+778
+01:13:43,000 --> 01:13:44,900
+T'es au courant
+que c'est moi ton chef ?
+
+779
+01:13:51,000 --> 01:13:54,400
+Posons la question
+qui coûte très très cher.
+
+780
+01:13:55,200 --> 01:13:56,800
+Le cargo sera-t-il prêt ?
+
+781
+01:13:56,900 --> 01:13:58,700
+- On est en retard.
+- Un chiffre.
+
+782
+01:13:58,800 --> 01:14:02,300
+15 jours de plus
+pour finir dans les temps.
+
+783
+01:14:02,300 --> 01:14:05,200
+On va les créer.
+13 jours pour monter le cargo.
+
+784
+01:14:05,300 --> 01:14:06,700
+On peut réduire ?
+
+785
+01:14:06,700 --> 01:14:09,100
+Il ne faut que 3 jours pour le monter.
+
+786
+01:14:09,200 --> 01:14:10,900
+Qu'on peut ramener à 2, non ?
+
+787
+01:14:11,000 --> 01:14:12,600
+C'est faisable.
+
+788
+01:14:12,600 --> 01:14:14,400
+10 jours de tests et d'inspections.
+
+789
+01:14:14,500 --> 01:14:17,200
+Qui révèlent souvent des problèmes ?
+
+790
+01:14:18,300 --> 01:14:19,800
+Quoi, pas d'inspections ?
+
+791
+01:14:19,900 --> 01:14:22,200
+Je dis : révèlent-elles des problèmes ?
+
+792
+01:14:22,300 --> 01:14:23,500
+Une fois sur vingt.
+
+793
+01:14:23,500 --> 01:14:26,400
+- Mais ça justifie un arrêt du décompte.
+- Trop risqué.
+
+794
+01:14:26,500 --> 01:14:28,800
+Qui a un moyen plus sûr
+de gagner du temps ?
+
+795
+01:14:33,300 --> 01:14:35,800
+Gagnez 4 jours en le rationnant.
+
+796
+01:14:35,800 --> 01:14:37,600
+C'est dur mais on a nos 15 jours.
+
+797
+01:14:37,900 --> 01:14:39,900
+On annule les inspections.
+
+798
+01:14:39,900 --> 01:14:41,700
+- Si les médias...
+- J'assume.
+
+799
+01:14:42,100 --> 01:14:44,800
+Vous avez vos deux semaines.
+Au travail !
+
+800
+01:14:45,900 --> 01:14:50,000
+Donc, je dois tenir
+jusqu'à l'arrivée du cargo de vivres.
+
+801
+01:14:50,100 --> 01:14:52,700
+Vous voulez voir
+mon menu "calories minimum" ?
+
+802
+01:14:52,700 --> 01:14:56,700
+Rationnement réglementaire,
+mais au lieu de trois portions
+
+803
+01:14:56,700 --> 01:14:58,100
+une fois par jour,
+
+804
+01:14:58,400 --> 01:14:59,600
+ce sera
+
+805
+01:14:59,700 --> 01:15:02,200
+une portion tous les trois jours.
+
+806
+01:15:03,800 --> 01:15:05,800
+Et voilà qu'ils me demandent
+
+807
+01:15:06,700 --> 01:15:07,700
+de faire ça.
+
+808
+01:15:12,600 --> 01:15:13,700
+Une chose est sûre :
+
+809
+01:15:15,300 --> 01:15:18,300
+réduire mes rations
+pour tenir 4 jours de plus,
+
+810
+01:15:19,300 --> 01:15:21,000
+ça me fait mal au cul.
+
+811
+01:15:25,100 --> 01:15:27,800
+Je vais tremper cette patate
+dans de la Vicodine.
+
+812
+01:15:29,900 --> 01:15:31,500
+Personne m'en empêchera.
+
+813
+01:15:41,900 --> 01:15:45,000
+Ça fait 7 jours
+que j'ai plus de ketchup.
+
+814
+01:15:48,500 --> 01:15:50,000
+Encore sur la brèche, messieurs.
+
+815
+01:15:50,000 --> 01:15:51,500
+JET PROPULSION LABORATORY
+CARGO IRIS
+
+816
+01:15:52,000 --> 01:15:53,600
+4 semaines plus tard
+
+817
+01:15:57,000 --> 01:15:58,200
+Plus haut.
+
+818
+01:16:04,200 --> 01:16:07,100
+CAP CANAVERAL
+Lancement du cargo Iris
+
+819
+01:16:08,400 --> 01:16:11,300
+Ici directeur de vol.
+Procédez aux vérifications.
+
+820
+01:16:11,400 --> 01:16:12,500
+Bien reçu, DDO.
+
+821
+01:16:12,600 --> 01:16:14,200
+Vérifications.
+
+822
+01:16:14,200 --> 01:16:16,200
+Vous croyez en Dieu, Vincent ?
+
+823
+01:16:17,600 --> 01:16:18,600
+Oui.
+
+824
+01:16:19,500 --> 01:16:23,700
+Mon père était hindou,
+ma mère est baptiste, donc...
+
+825
+01:16:23,800 --> 01:16:25,600
+je crois en plusieurs dieux.
+
+826
+01:16:28,100 --> 01:16:29,900
+Leur aide sera la bienvenue.
+
+827
+01:16:29,900 --> 01:16:31,600
+Vérifications terminées.
+
+828
+01:16:32,100 --> 01:16:33,500
+À tous de DDO.
+
+829
+01:16:33,600 --> 01:16:35,000
+Parés au lancement.
+
+830
+01:16:35,100 --> 01:16:36,200
+Attention, pour le décompte.
+
+831
+01:16:36,300 --> 01:16:37,900
+10, 9...
+
+832
+01:16:40,800 --> 01:16:42,300
+Allumage moteur principal.
+
+833
+01:16:44,600 --> 01:16:45,500
+Mise à feu.
+
+834
+01:16:47,600 --> 01:16:48,800
+Décollage.
+
+835
+01:16:51,400 --> 01:16:52,500
+Bonne propulsion.
+
+836
+01:16:56,800 --> 01:16:58,400
+Paramètres nominaux.
+
+837
+01:17:11,800 --> 01:17:13,600
+Les données sont bonnes.
+
+838
+01:17:15,500 --> 01:17:16,900
+Tout va bien, DDO.
+
+839
+01:17:16,900 --> 01:17:18,200
+Propulsion nominale.
+
+840
+01:17:26,700 --> 01:17:29,800
+Légère augmentation
+du vecteur de propulsion.
+
+841
+01:17:29,800 --> 01:17:31,100
+On a du flottement.
+
+842
+01:17:32,500 --> 01:17:33,500
+Pardon ?
+
+843
+01:17:34,100 --> 01:17:36,200
+Nous avons une très grosse précession.
+
+844
+01:17:36,400 --> 01:17:37,400
+Ça va aller ?
+
+845
+01:17:38,800 --> 01:17:40,400
+Niveau d'alerte atteint.
+
+846
+01:17:40,400 --> 01:17:42,900
+En rotation, précession 17º.
+
+847
+01:17:44,400 --> 01:17:46,100
+Lancement, que se passe-t-il ?
+
+848
+01:17:46,100 --> 01:17:47,700
+Iris encaisse 7 G.
+
+849
+01:17:48,200 --> 01:17:49,700
+On a perdu le signal.
+
+850
+01:17:58,300 --> 01:17:59,400
+Récupération des données ?
+
+851
+01:17:59,900 --> 01:18:01,200
+On l'a perdu.
+
+852
+01:18:05,100 --> 01:18:06,300
+SatCon ?
+
+853
+01:18:06,300 --> 01:18:08,800
+Aucune acquisition de signal satellite.
+
+854
+01:18:09,500 --> 01:18:10,600
+Confirmez.
+
+855
+01:18:11,300 --> 01:18:12,500
+Signal perdu.
+
+856
+01:18:12,900 --> 01:18:13,900
+Ici aussi.
+
+857
+01:18:14,000 --> 01:18:15,900
+Le destroyer Stockton
+
+858
+01:18:15,900 --> 01:18:17,700
+signale une chute de débris.
+
+859
+01:18:17,800 --> 01:18:19,100
+Centre de contrôle,
+
+860
+01:18:19,200 --> 01:18:20,600
+tout le monde reste en poste.
+
+861
+01:18:20,700 --> 01:18:22,700
+Contrôle au sol, verrouillez la salle.
+
+862
+01:18:26,700 --> 01:18:28,700
+Comment s'est passé le lancement ?
+
+863
+01:18:51,400 --> 01:18:52,800
+"Commandant Lewis,
+
+864
+01:18:53,600 --> 01:18:55,900
+vous allez pouvoir faire quelque chose
+
+865
+01:18:55,900 --> 01:18:57,100
+pour moi.
+
+866
+01:18:58,500 --> 01:18:59,800
+Si je meurs,
+
+867
+01:19:00,700 --> 01:19:03,600
+il faudrait que vous alliez voir
+mes parents.
+
+868
+01:19:04,700 --> 01:19:08,000
+Ils voudront savoir
+tout ce qu'on a vécu, sur Mars.
+
+869
+01:19:09,600 --> 01:19:11,200
+Je sais, c'est pas cool.
+
+870
+01:19:11,700 --> 01:19:14,800
+Ce sera pas facile de parler à un couple
+
+871
+01:19:15,900 --> 01:19:17,800
+de leur fils mort.
+
+872
+01:19:19,300 --> 01:19:21,200
+C'est beaucoup vous demander.
+
+873
+01:19:23,500 --> 01:19:25,400
+Donc, c'est à vous que je le demande.
+
+874
+01:19:26,800 --> 01:19:28,700
+Je ne baisse pas les bras.
+
+875
+01:19:28,800 --> 01:19:32,900
+Mais il faut bien se préparer
+à toutes les éventualités.
+
+876
+01:19:35,500 --> 01:19:37,200
+S'il vous plaît, dites-leur
+
+877
+01:19:40,100 --> 01:19:41,600
+que j'adore mon métier
+
+878
+01:19:45,700 --> 01:19:47,000
+et que je suis un as.
+
+879
+01:19:49,800 --> 01:19:52,000
+Et que je meurs
+
+880
+01:19:54,100 --> 01:19:56,300
+pour un projet immense
+
+881
+01:19:58,000 --> 01:19:59,500
+et magnifique.
+
+882
+01:20:04,100 --> 01:20:05,700
+Plus grand que moi.
+
+883
+01:20:08,000 --> 01:20:10,600
+Dites-leur que j'accepte mon sort.
+
+884
+01:20:11,800 --> 01:20:13,200
+Et dites-leur
+
+885
+01:20:14,400 --> 01:20:16,000
+merci d'être
+
+886
+01:20:16,500 --> 01:20:18,300
+mon père et ma mère.
+
+887
+01:20:19,400 --> 01:20:21,600
+CNSA - ADMINISTRATION SPATIALE
+NATIONALE CHINOISE PÉKIN
+
+888
+01:20:21,600 --> 01:20:22,900
+On a mis des cubes protéinés
+
+889
+01:20:23,000 --> 01:20:23,900
+au lieu des sachets.
+
+890
+01:20:24,000 --> 01:20:27,800
+La poussée du lancement
+et les vibrations latérales
+
+891
+01:20:27,900 --> 01:20:30,400
+ont liquéfié les cubes et provoqué
+
+892
+01:20:31,300 --> 01:20:32,600
+un déséquilibrage.
+
+893
+01:20:32,700 --> 01:20:35,800
+Ce point n'avait pas été vérifié ?
+
+894
+01:20:35,800 --> 01:20:37,600
+La fenêtre de lancement
+
+895
+01:20:37,600 --> 01:20:39,300
+nous a obligés à accélérer.
+
+896
+01:20:41,300 --> 01:20:43,500
+Leur astronaute va mourir.
+
+897
+01:20:43,500 --> 01:20:45,300
+GUO MING
+Directeur de la CNSA
+
+898
+01:20:45,300 --> 01:20:47,300
+Il y a d'autres solutions.
+
+899
+01:20:47,400 --> 01:20:49,400
+ZHU TAO
+Directrice adjointe
+
+900
+01:20:49,500 --> 01:20:52,200
+Notre lanceur Taiyang Shen peut réussir
+
+901
+01:20:52,400 --> 01:20:55,200
+une injection en orbite martienne.
+
+902
+01:20:56,300 --> 01:20:57,700
+Et la Nasa ne demande rien ?
+
+903
+01:20:58,100 --> 01:20:59,200
+Ils ne le savent pas.
+
+904
+01:20:59,800 --> 01:21:02,100
+Notre technologie est classifiée.
+
+905
+01:21:04,800 --> 01:21:07,700
+Donc, si on ne fait rien...
+
+906
+01:21:08,300 --> 01:21:12,400
+Personne ne saura jamais
+que nous aurions pu apporter notre aide.
+
+907
+01:21:13,500 --> 01:21:18,300
+Imaginons que nous décidions
+de les aider.
+
+908
+01:21:19,000 --> 01:21:22,800
+Nous sacrifierions un lanceur
+et annulerions la mission.
+
+909
+01:21:24,000 --> 01:21:29,000
+Cela ne sortira pas des milieux
+scientifiques. Une coopération spatiale.
+
+910
+01:21:31,900 --> 01:21:32,800
+Oui.
+
+911
+01:21:34,500 --> 01:21:35,900
+Oui, je comprends.
+
+912
+01:21:39,400 --> 01:21:40,300
+Merci.
+
+913
+01:21:47,600 --> 01:21:51,400
+Grâce à mon tonton en Chine,
+on a une nouvelle chance.
+
+914
+01:21:51,500 --> 01:21:54,500
+On avait fabriqué le cargo Iris
+en 62 jours.
+
+915
+01:21:54,600 --> 01:21:58,000
+Celui-ci, on va devoir le faire en 28.
+
+916
+01:21:59,900 --> 01:22:03,900
+PLÉIADES
+Supercalculateur de la Nasa
+
+917
+01:22:23,700 --> 01:22:26,600
+Pas besoin de système d'atterrissage,
+pour des vivres.
+
+918
+01:22:26,600 --> 01:22:28,100
+On peut le crasher sur Mars.
+
+919
+01:22:29,800 --> 01:22:30,900
+Raccrochez.
+
+920
+01:22:31,400 --> 01:22:32,500
+Vous êtes qui ?
+
+921
+01:22:32,500 --> 01:22:35,700
+Rich Purnell, astrodynamique.
+Raccrochez.
+
+922
+01:22:38,000 --> 01:22:38,900
+C'est bon.
+
+923
+01:22:39,900 --> 01:22:41,100
+Je vous rappelle.
+
+924
+01:22:42,500 --> 01:22:44,400
+Je sais comment sauver Watney.
+
+925
+01:22:45,300 --> 01:22:49,200
+Le cargo, ça marchera pas.
+Trop aléatoire. J'ai mieux.
+
+926
+01:22:49,200 --> 01:22:50,800
+Astrodynamique ?
+
+927
+01:22:52,000 --> 01:22:54,300
+C'est quoi, le "projet Elrond" ?
+
+928
+01:22:54,700 --> 01:22:56,100
+C'est ce qui m'est venu.
+
+929
+01:22:56,100 --> 01:22:57,500
+Mais "Elrond" ?
+
+930
+01:22:58,200 --> 01:23:00,300
+C'est une réunion secrète.
+
+931
+01:23:00,300 --> 01:23:03,000
+Quel rapport entre Elrond
+et une réunion secrète ?
+
+932
+01:23:03,100 --> 01:23:05,600
+Le Conseil d'Elrond,
+du Seigneur des Anneaux.
+
+933
+01:23:06,000 --> 01:23:07,100
+C'est la réunion
+
+934
+01:23:07,100 --> 01:23:09,000
+où ils décident
+de détruire l'Anneau.
+
+935
+01:23:09,100 --> 01:23:11,000
+Si on l'appelle "projet Elrond",
+
+936
+01:23:11,000 --> 01:23:13,500
+mon nom de code sera Glorfindel.
+
+937
+01:23:13,800 --> 01:23:15,500
+Je vous déteste tous.
+
+938
+01:23:15,500 --> 01:23:17,600
+Teddy n'est pas au courant ?
+
+939
+01:23:18,100 --> 01:23:19,300
+Qui êtes-vous ?
+
+940
+01:23:19,300 --> 01:23:21,000
+Rich Purnell. Astrodynamique.
+
+941
+01:23:22,200 --> 01:23:23,500
+Répétez-leur.
+
+942
+01:23:24,000 --> 01:23:26,800
+Je peux renvoyer l'Hermès sur Mars
+d'ici Sol 561.
+
+943
+01:23:28,700 --> 01:23:29,500
+Comment ?
+
+944
+01:23:34,100 --> 01:23:36,900
+Vous pourriez vous mettre là,
+s'il vous plaît ?
+
+945
+01:23:38,300 --> 01:23:39,300
+Merci.
+
+946
+01:23:39,300 --> 01:23:40,600
+Ici, voilà.
+
+947
+01:23:40,700 --> 01:23:41,800
+Et vous...
+
+948
+01:23:42,200 --> 01:23:44,600
+mettez-vous là, voilà.
+
+949
+01:23:50,200 --> 01:23:52,200
+Imaginons que cette agrafeuse,
+
+950
+01:23:52,500 --> 01:23:54,100
+c'est l'Hermès.
+
+951
+01:23:54,100 --> 01:23:55,500
+Vous, vous êtes...
+
+952
+01:23:55,800 --> 01:23:56,900
+C'est quoi, votre nom ?
+
+953
+01:23:57,400 --> 01:23:58,300
+Teddy.
+
+954
+01:23:58,600 --> 01:24:00,500
+Je suis le directeur de la Nasa.
+
+955
+01:24:01,100 --> 01:24:03,200
+Cool.
+Teddy, vous êtes la Terre.
+
+956
+01:24:03,300 --> 01:24:05,500
+L'Hermès se dirige vers vous.
+
+957
+01:24:05,600 --> 01:24:08,200
+Il a un mois pour décélérer.
+
+958
+01:24:08,200 --> 01:24:11,100
+Au lieu de ça,
+ce que je propose, c'est...
+
+959
+01:24:15,000 --> 01:24:19,000
+On remet les gaz dans la foulée
+pour gagner de la vélocité.
+
+960
+01:24:19,000 --> 01:24:21,700
+On s'approche suffisamment de la Terre
+
+961
+01:24:21,700 --> 01:24:24,100
+pour profiter
+de la force gravitationnelle.
+
+962
+01:24:24,100 --> 01:24:25,600
+Et à ce moment-là...
+
+963
+01:24:28,200 --> 01:24:29,800
+on ravitaille avec le lanceur...
+
+964
+01:24:29,800 --> 01:24:31,100
+Le Taiyang Shen.
+
+965
+01:24:31,200 --> 01:24:35,400
+... on prend les provisions nécessaires
+et on accélère vers Mars.
+
+966
+01:24:37,700 --> 01:24:38,800
+Vous êtes Mars.
+
+967
+01:24:39,200 --> 01:24:42,400
+On va trop vite
+pour une mise en orbite, mais...
+
+968
+01:24:42,400 --> 01:24:43,700
+on peut survoler.
+
+969
+01:24:43,700 --> 01:24:46,100
+À quoi bon, si on récupère pas Watney ?
+
+970
+01:24:46,800 --> 01:24:50,300
+Watney rejoindrait l'Hermès
+avec le VAM.
+
+971
+01:24:54,300 --> 01:24:55,600
+Et hop, on rentre.
+
+972
+01:25:00,700 --> 01:25:03,000
+J'ai tout calculé. Ça le fait.
+
+973
+01:25:05,100 --> 01:25:06,400
+- Rich.
+- Oui, chef.
+
+974
+01:25:06,400 --> 01:25:07,600
+Sortez.
+
+975
+01:25:15,100 --> 01:25:16,400
+Il a raison ?
+
+976
+01:25:17,100 --> 01:25:19,000
+Bruce, qu'en dites-vous ?
+
+977
+01:25:19,600 --> 01:25:20,900
+Si Vincent le dit...
+
+978
+01:25:22,500 --> 01:25:24,700
+Nous avons besoin du Taiyang Shen.
+
+979
+01:25:26,200 --> 01:25:28,100
+Pourquoi est-ce important ?
+
+980
+01:25:28,100 --> 01:25:29,400
+C'est l'un ou l'autre.
+
+981
+01:25:29,500 --> 01:25:31,800
+On lui envoie des vivres
+jusqu'à Arès 4
+
+982
+01:25:31,800 --> 01:25:34,000
+ou on envoie l'Hermès
+le récupérer.
+
+983
+01:25:34,500 --> 01:25:37,500
+Dans les deux cas, avec le Taiyang Shen.
+Il faut choisir.
+
+984
+01:25:38,100 --> 01:25:40,600
+Et l'équipage de l'Hermès ?
+Ça leur ferait
+
+985
+01:25:40,700 --> 01:25:44,800
+533 jours à ajouter
+à la durée de leur mission.
+
+986
+01:25:44,800 --> 01:25:47,000
+Ils n'hésiteraient pas une seconde.
+
+987
+01:25:47,600 --> 01:25:50,800
+L'Hermès peut-il fonctionner
+533 jours de plus ?
+
+988
+01:25:50,800 --> 01:25:52,000
+C'est sûr.
+
+989
+01:25:52,100 --> 01:25:56,100
+Il a été conçu pour toute la mission,
+il n'en est qu'à la moitié de sa vie.
+
+990
+01:25:56,800 --> 01:25:58,000
+Mais en cas de problème...
+
+991
+01:25:58,000 --> 01:25:59,400
+On perd l'équipage.
+
+992
+01:25:59,800 --> 01:26:01,400
+Donc, on a un grand risque
+
+993
+01:26:01,500 --> 01:26:03,300
+de tuer une personne
+
+994
+01:26:03,600 --> 01:26:06,200
+ou un risque faible d'en tuer six.
+
+995
+01:26:06,200 --> 01:26:07,600
+Comment faire un choix ?
+
+996
+01:26:07,700 --> 01:26:10,500
+C'est pas à nous de le faire.
+C'est à lui.
+
+997
+01:26:10,900 --> 01:26:11,900
+N'importe quoi !
+
+998
+01:26:12,400 --> 01:26:14,600
+C'est au commandant Lewis de décider.
+
+999
+01:26:14,700 --> 01:26:17,600
+Nous pouvons ramener 5 astronautes
+à bon port.
+
+1000
+01:26:17,700 --> 01:26:19,500
+Je ne mets pas leur vie en jeu.
+
+1001
+01:26:20,700 --> 01:26:22,300
+Laissez-les en décider.
+
+1002
+01:26:23,200 --> 01:26:25,700
+Mitch, on part sur la première option.
+
+1003
+01:26:27,700 --> 01:26:29,600
+Espèce de dégonflé.
+
+1004
+01:26:48,100 --> 01:26:49,800
+- Johanssen ?
+- Oui.
+
+1005
+01:26:50,700 --> 01:26:53,200
+T'es en pause, mais je peux t'embêter ?
+
+1006
+01:26:53,200 --> 01:26:55,200
+- Vas-y.
+- T'es où ?
+
+1007
+01:26:55,300 --> 01:26:56,400
+À la salle.
+
+1008
+01:27:18,200 --> 01:27:19,400
+Qu'est-ce qu'il y a ?
+
+1009
+01:27:19,600 --> 01:27:24,100
+J'ai reçu un mail de ma femme,
+avec pour objet : "Nos enfants".
+
+1010
+01:27:24,100 --> 01:27:25,900
+La pièce jointe s'ouvre pas.
+
+1011
+01:27:28,900 --> 01:27:29,800
+On va voir ça.
+
+1012
+01:27:36,600 --> 01:27:37,600
+Alors...
+
+1013
+01:27:39,800 --> 01:27:41,000
+C'est pas un JPEG.
+
+1014
+01:27:42,300 --> 01:27:44,500
+C'est un simple fichier ASCII.
+
+1015
+01:27:47,400 --> 01:27:48,800
+C'est pas clair.
+
+1016
+01:27:49,400 --> 01:27:50,900
+Manuvre Rich Purnell
+
+1017
+01:27:51,500 --> 01:27:53,300
+T'y comprends quelque chose ?
+
+1018
+01:27:54,100 --> 01:27:55,700
+"Manuvre Rich Purnell".
+
+1019
+01:27:56,400 --> 01:27:59,300
+C'est une trajectoire pour l'Hermès.
+
+1020
+01:28:04,700 --> 01:28:07,200
+On rentrerait en orbite terrestre
+
+1021
+01:28:07,200 --> 01:28:08,500
+211 jours plus tard.
+
+1022
+01:28:09,900 --> 01:28:11,200
+Ça marcherait ?
+
+1023
+01:28:11,900 --> 01:28:13,700
+Les calculs se tiennent.
+
+1024
+01:28:13,700 --> 01:28:15,200
+C'est génial.
+
+1025
+01:28:15,600 --> 01:28:18,300
+Alors, pourquoi tant de mystère ?
+
+1026
+01:28:18,400 --> 01:28:20,600
+Parce que la Nasa est contre.
+
+1027
+01:28:21,300 --> 01:28:24,500
+Si on le fait,
+ils devront nous ravitailler.
+
+1028
+01:28:24,500 --> 01:28:27,400
+On a la possibilité
+de leur forcer la main.
+
+1029
+01:28:30,300 --> 01:28:31,600
+On va le faire ?
+
+1030
+01:28:32,800 --> 01:28:34,500
+Moi, je serais déjà en route.
+
+1031
+01:28:34,900 --> 01:28:36,800
+C'est vous qui décidez, non ?
+
+1032
+01:28:37,500 --> 01:28:38,700
+Pas cette fois.
+
+1033
+01:28:38,800 --> 01:28:41,800
+La Nasa a expressément
+rejeté cette solution.
+
+1034
+01:28:42,600 --> 01:28:45,900
+Ce serait une mutinerie,
+un mot que je ne prends pas à la légère.
+
+1035
+01:28:46,000 --> 01:28:48,800
+On y va
+si on est tous d'accord.
+
+1036
+01:28:48,800 --> 01:28:51,600
+Et avant de répondre,
+pensez aux conséquences.
+
+1037
+01:28:52,000 --> 01:28:55,000
+Si on manque le ravitaillement,
+on est morts.
+
+1038
+01:28:55,000 --> 01:28:57,900
+Si on manque l'assistance
+gravitationnelle, on est morts.
+
+1039
+01:28:58,000 --> 01:29:00,300
+Si on fait tout à la perfection,
+
+1040
+01:29:00,600 --> 01:29:03,500
+on ajoute 533 jours à notre mission.
+
+1041
+01:29:04,600 --> 01:29:08,300
+533 jours supplémentaires
+avant de retrouver nos familles.
+
+1042
+01:29:08,800 --> 01:29:11,800
+533 jours
+
+1043
+01:29:11,800 --> 01:29:14,700
+de voyage spatial non préparé,
+où tout peut mal tourner.
+
+1044
+01:29:15,100 --> 01:29:17,000
+S'il y a une panne critique,
+
+1045
+01:29:17,300 --> 01:29:18,200
+on est morts.
+
+1046
+01:29:19,100 --> 01:29:20,100
+Je m'inscris.
+
+1047
+01:29:20,200 --> 01:29:22,000
+Doucement, cow-boy.
+
+1048
+01:29:22,000 --> 01:29:23,700
+On était dans l'armée.
+
+1049
+01:29:23,800 --> 01:29:25,700
+On aura droit à la cour martiale.
+
+1050
+01:29:26,500 --> 01:29:27,800
+Quant à vous tous,
+
+1051
+01:29:27,900 --> 01:29:30,700
+ils ne vous renverront jamais là-haut.
+
+1052
+01:29:31,000 --> 01:29:31,900
+Bon.
+
+1053
+01:29:31,900 --> 01:29:35,600
+Alors, si on décide de le faire,
+ça se passe comment ?
+
+1054
+01:29:35,600 --> 01:29:38,400
+- Je programme la trajectoire.
+- Et la commande à distance ?
+
+1055
+01:29:38,800 --> 01:29:41,000
+Le Contrôle peut piloter l'Hermès.
+
+1056
+01:29:42,500 --> 01:29:44,500
+Pouvez-vous la désactiver ?
+
+1057
+01:29:44,500 --> 01:29:49,300
+Chacun des 4 ordinateurs de bords
+est connecté à 3 systèmes de comm.
+
+1058
+01:29:49,400 --> 01:29:52,200
+Sans comm,
+on perd télémétrie et guidage.
+
+1059
+01:29:52,200 --> 01:29:53,900
+Sans ordinateur,
+
+1060
+01:29:53,900 --> 01:29:55,700
+impossible de piloter.
+
+1061
+01:29:55,700 --> 01:29:59,100
+Il faudrait désactiver 
+la commande à distance de chaque système.
+
+1062
+01:29:59,100 --> 01:30:01,300
+Je devrais modifier le code...
+
+1063
+01:30:01,400 --> 01:30:03,900
+En clair, ça veut dire quoi ?
+
+1064
+01:30:06,100 --> 01:30:07,600
+C'est dans mes cordes.
+
+1065
+01:30:08,400 --> 01:30:09,100
+Super.
+
+1066
+01:30:10,900 --> 01:30:12,400
+Il faut l'unanimité.
+
+1067
+01:30:13,400 --> 01:30:14,900
+Si on se lance,
+
+1068
+01:30:14,900 --> 01:30:18,000
+on aura passé plus de 900 jours
+dans l'espace.
+
+1069
+01:30:20,400 --> 01:30:23,900
+C'est plus qu'il n'en faut
+pour une vie entière, alors...
+
+1070
+01:30:24,700 --> 01:30:25,600
+oui.
+
+1071
+01:30:26,100 --> 01:30:27,400
+Je vote oui.
+
+1072
+01:30:30,000 --> 01:30:31,400
+On va le chercher.
+
+1073
+01:30:34,300 --> 01:30:35,200
+Johanssen ?
+
+1074
+01:30:36,200 --> 01:30:36,900
+Oui.
+
+1075
+01:30:41,100 --> 01:30:43,800
+Mise à jour imprévue de l'Hermès.
+
+1076
+01:30:43,900 --> 01:30:45,100
+Lisez-la.
+
+1077
+01:30:45,100 --> 01:30:47,900
+C'est un message :
+"Houston, Rich Purnell
+
+1078
+01:30:47,900 --> 01:30:49,900
+est une bête de la balistique."
+
+1079
+01:30:50,900 --> 01:30:52,600
+DDO de Guidage.
+
+1080
+01:30:52,600 --> 01:30:54,500
+L'Hermès a quitté sa trajectoire.
+
+1081
+01:30:54,500 --> 01:30:57,500
+Prévenez l'Hermès qu'ils dérivent.
+Corrigez ça.
+
+1082
+01:30:57,600 --> 01:31:00,700
+Ils ne dérivent pas.
+Ils ont ajusté leur trajectoire.
+
+1083
+01:31:00,800 --> 01:31:01,900
+C'est pas possible...
+
+1084
+01:31:02,500 --> 01:31:05,200
+Possible défaillance des instruments ?
+
+1085
+01:31:05,200 --> 01:31:06,900
+- Négatif.
+- Guidage.
+
+1086
+01:31:07,000 --> 01:31:09,600
+Combien de temps
+avant que ce soit irréversible ?
+
+1087
+01:31:09,700 --> 01:31:11,100
+Je lance les calculs.
+
+1088
+01:31:11,800 --> 01:31:12,800
+Qui est Rich Purnell ?
+
+1089
+01:31:13,700 --> 01:31:14,900
+Aucune idée.
+
+1090
+01:31:15,400 --> 01:31:17,200
+Trouvez-moi qui est ce Purnell.
+
+1091
+01:31:18,100 --> 01:31:20,500
+Ce matin, Annie informera les médias
+
+1092
+01:31:20,600 --> 01:31:23,800
+que la Nasa
+a dérouté l'Hermès sur Mars.
+
+1093
+01:31:24,800 --> 01:31:26,500
+Ça semble raisonnable,
+
+1094
+01:31:27,500 --> 01:31:29,500
+vu les circonstances.
+
+1095
+01:31:30,400 --> 01:31:32,800
+Celui qui leur a envoyé la manuvre
+
+1096
+01:31:32,800 --> 01:31:35,100
+n'a fait que transmettre une info.
+
+1097
+01:31:35,200 --> 01:31:37,000
+L'équipage a décidé seul.
+
+1098
+01:31:38,700 --> 01:31:40,400
+Vous les avez peut-être tués.
+
+1099
+01:31:42,700 --> 01:31:44,500
+Nous menons la même guerre.
+
+1100
+01:31:44,500 --> 01:31:47,800
+Au moindre problème,
+le monde oublie pourquoi nous volons.
+
+1101
+01:31:47,800 --> 01:31:51,400
+J'essaie de nous garder à flot.
+C'est une cause plus grande qu'une vie.
+
+1102
+01:31:53,600 --> 01:31:56,000
+Non, c'est faux.
+
+1103
+01:31:57,500 --> 01:32:01,000
+Quand tout sera terminé,
+j'attendrai votre démission.
+
+1104
+01:32:04,500 --> 01:32:05,600
+Je comprends.
+
+1105
+01:32:06,100 --> 01:32:08,000
+Ramenez-nous nos astronautes.
+
+1106
+01:32:11,400 --> 01:32:14,400
+Chaque mission
+nécessite 3 ans de ravitaillement.
+
+1107
+01:32:14,400 --> 01:32:20,000
+La Nasa a décidé qu'il était plus simple
+d'envoyer du matériel en avance.
+
+1108
+01:32:20,000 --> 01:32:23,600
+Donc, en conséquence,
+le MAV pour Arès 4
+
+1109
+01:32:23,700 --> 01:32:26,500
+est déjà au cratère de Schiaparelli.
+
+1110
+01:32:27,000 --> 01:32:31,000
+Le plan, c'est que je m'en serve
+pour entrer en orbite
+
+1111
+01:32:31,000 --> 01:32:34,000
+à l'instant exact où l'Hermès passe
+
+1112
+01:32:34,100 --> 01:32:37,000
+et j'imagine qu'ils m'attraperont...
+
+1113
+01:32:38,500 --> 01:32:39,800
+dans l'espace.
+
+1114
+01:32:43,400 --> 01:32:45,600
+J'ai 200 Sols pour trouver
+
+1115
+01:32:45,600 --> 01:32:48,400
+comment embarquer
+tout ce qui me maintient en vie,
+
+1116
+01:32:48,500 --> 01:32:51,600
+l'oxygénateur, le recycleur d'eau,
+le régulateur atmosphérique,
+
+1117
+01:32:52,300 --> 01:32:54,200
+pour tout emporter avec moi.
+
+1118
+01:32:54,200 --> 01:32:55,900
+Heureusement,
+
+1119
+01:32:56,000 --> 01:32:58,500
+les plus grands esprits
+de la planète Terre,
+
+1120
+01:32:58,600 --> 01:33:01,200
+l'ensemble de la matière grise
+disponible,
+
+1121
+01:33:01,300 --> 01:33:03,200
+m'aide à tout mettre sur pied.
+
+1122
+01:33:03,300 --> 01:33:05,000
+Leur meilleure trouvaille :
+
+1123
+01:33:05,000 --> 01:33:09,300
+"Percez des trous sur le toit du Rover
+et tapez dessus avec un rocher."
+
+1124
+01:33:10,900 --> 01:33:12,200
+On va y arriver.
+
+1125
+01:34:06,500 --> 01:34:08,100
+Au revoir, Mars
+
+1126
+01:34:12,300 --> 01:34:14,900
+533 jours de plus
+
+1127
+01:34:15,000 --> 01:34:16,900
+et tu as dit oui ?
+
+1128
+01:34:17,000 --> 01:34:18,600
+Il l'aurait fait pour moi.
+
+1129
+01:34:25,100 --> 01:34:27,800
+- On me regarde.
+- "Cheese". Vous connaissez ?
+
+1130
+01:34:29,700 --> 01:34:30,900
+Il a pas fait "cheese".
+
+1131
+01:34:40,300 --> 01:34:41,500
+Salut, chérie.
+
+1132
+01:34:42,700 --> 01:34:44,300
+J'ai un cadeau pour toi.
+
+1133
+01:34:44,400 --> 01:34:46,100
+Trouvé au marché aux puces.
+
+1134
+01:34:46,100 --> 01:34:47,800
+Premier pressage.
+
+1135
+01:34:51,100 --> 01:34:52,300
+Il est nickel.
+
+1136
+01:34:52,300 --> 01:34:53,600
+J'adore.
+
+1137
+01:34:53,700 --> 01:34:57,000
+Avec tout le respect
+que je dois à la CNSA,
+
+1138
+01:34:57,000 --> 01:34:59,500
+on ne procède plus comme ça
+
+1139
+01:34:59,500 --> 01:35:01,200
+depuis Apollo 9.
+
+1140
+01:35:03,000 --> 01:35:03,700
+Vous avez compris ?
+
+1141
+01:37:32,800 --> 01:37:35,600
+7 mois plus tard
+
+1142
+01:38:14,100 --> 01:38:16,900
+J'ai réfléchi à l'application des lois
+sur Mars.
+
+1143
+01:38:16,900 --> 01:38:20,200
+Aucun pays n'a le droit de s'approprier
+
+1144
+01:38:20,200 --> 01:38:21,800
+ce qui n'est pas sur Terre.
+
+1145
+01:38:21,800 --> 01:38:25,100
+Et sur un territoire
+qui n'appartient à aucun pays,
+
+1146
+01:38:25,100 --> 01:38:26,500
+la loi maritime s'applique.
+
+1147
+01:38:26,600 --> 01:38:29,200
+Donc, Mars se trouve
+dans les eaux internationales.
+
+1148
+01:38:30,200 --> 01:38:34,600
+La Nasa, agence américaine civile,
+est propriétaire de l'Habitat.
+
+1149
+01:38:34,700 --> 01:38:37,500
+Mais à l'extérieur,
+je suis dans les eaux internationales.
+
+1150
+01:38:37,600 --> 01:38:39,000
+Là, ça devient cool :
+
+1151
+01:38:39,000 --> 01:38:40,800
+à Schiaparelli,
+
+1152
+01:38:40,800 --> 01:38:42,800
+je piloterai le VAM d'Arès 4.
+
+1153
+01:38:42,900 --> 01:38:46,000
+Personne ne peut
+m'y autoriser officiellement
+
+1154
+01:38:46,000 --> 01:38:48,400
+avant que je sois à bord d'Arès 4.
+
+1155
+01:38:48,400 --> 01:38:52,000
+Donc, je vais piloter un vaisseau
+dans les eaux internationales
+
+1156
+01:38:52,000 --> 01:38:53,300
+sans autorisation.
+
+1157
+01:38:53,300 --> 01:38:54,800
+Par définition,
+
+1158
+01:38:55,500 --> 01:38:57,400
+ça fait de moi un pirate.
+
+1159
+01:38:58,100 --> 01:38:59,300
+Mark Watney,
+
+1160
+01:39:00,100 --> 01:39:01,600
+pirate de l'espace.
+
+1161
+01:39:31,500 --> 01:39:33,000
+Pirate de l'espace.
+
+1162
+01:40:33,900 --> 01:40:35,700
+Où que j'aille,
+
+1163
+01:40:35,800 --> 01:40:37,200
+je suis le premier.
+
+1164
+01:40:38,500 --> 01:40:40,100
+Sensation étrange.
+
+1165
+01:40:40,700 --> 01:40:44,100
+Je descends du Rover :
+je suis le premier à être là.
+
+1166
+01:40:44,700 --> 01:40:47,700
+Cette colline,
+je suis le premier à la gravir.
+
+1167
+01:40:49,100 --> 01:40:52,500
+En 4,5 milliards d'années,
+jamais personne.
+
+1168
+01:40:53,300 --> 01:40:54,500
+Et maintenant,
+
+1169
+01:40:55,000 --> 01:40:56,100
+moi.
+
+1170
+01:40:57,300 --> 01:41:00,800
+Je suis le premier à me retrouver seul
+sur une planète entière.
+
+1171
+01:41:15,900 --> 01:41:17,400
+Comment il va ?
+
+1172
+01:41:19,100 --> 01:41:20,500
+Jusqu'ici, ça va.
+
+1173
+01:41:20,800 --> 01:41:22,800
+Il suit les horaires prévus.
+
+1174
+01:41:23,200 --> 01:41:25,400
+Il roule 4 heures avant midi,
+
+1175
+01:41:26,300 --> 01:41:29,700
+il attend 13 heures
+que les panneaux solaires se rechargent,
+
+1176
+01:41:29,800 --> 01:41:33,800
+il dort un peu pendant ce temps-là
+et il se remet en route.
+
+1177
+01:41:35,900 --> 01:41:37,000
+Comment il va ?
+
+1178
+01:41:39,400 --> 01:41:42,100
+Il veut qu'on l'appelle
+Capitaine Barbe-Blonde.
+
+1179
+01:41:44,200 --> 01:41:46,100
+Les lois maritimes...
+
+1180
+01:41:46,200 --> 01:41:47,400
+Il nous l'a expliqué.
+
+1181
+01:41:49,700 --> 01:41:50,600
+Il est où ?
+
+1182
+01:41:52,100 --> 01:41:52,900
+Là.
+
+1183
+01:43:40,700 --> 01:43:44,200
+Vous n'allez pas aimer
+ce que vous allez entendre.
+
+1184
+01:43:46,600 --> 01:43:49,100
+Le souci,
+c'est la vitesse d'interception.
+
+1185
+01:43:49,100 --> 01:43:50,300
+L'Hermès
+
+1186
+01:43:51,500 --> 01:43:54,000
+ne peut pas entrer en orbite
+autour de Mars.
+
+1187
+01:43:54,000 --> 01:43:57,100
+Il n'aurait plus assez de carburant
+pour rentrer.
+
+1188
+01:43:57,400 --> 01:44:00,500
+Le VAM n'est conçu
+que pour se positionner
+
+1189
+01:44:00,600 --> 01:44:01,800
+en orbite basse.
+
+1190
+01:44:02,100 --> 01:44:07,600
+Pour que Mark échappe à la gravitation
+et intercepte l'Hermès...
+
+1191
+01:44:07,700 --> 01:44:09,500
+Il lui faudra de la vitesse.
+
+1192
+01:44:09,600 --> 01:44:12,100
+Donc, il faut alléger le VAM.
+
+1193
+01:44:12,200 --> 01:44:14,600
+Considérablement. De 5 000 kg.
+
+1194
+01:44:14,700 --> 01:44:15,900
+Vous pouvez le faire ?
+
+1195
+01:44:16,000 --> 01:44:18,000
+Déjà, il y a des choses évidentes :
+
+1196
+01:44:18,100 --> 01:44:21,100
+le VAM est censé transporter
+500 kg de sol martien.
+
+1197
+01:44:21,500 --> 01:44:22,800
+On fait une croix dessus.
+
+1198
+01:44:23,200 --> 01:44:26,800
+Et il n'y aura qu'un passager
+au lieu de six.
+
+1199
+01:44:26,900 --> 01:44:29,600
+Combis, équipement, ça fait... 500 kg ?
+
+1200
+01:44:29,600 --> 01:44:31,700
+On vire le système de survie.
+
+1201
+01:44:31,700 --> 01:44:33,600
+Mark portera sa combi d'AEV.
+
+1202
+01:44:34,400 --> 01:44:37,100
+En combi, comment il va manuvrer ?
+
+1203
+01:44:38,200 --> 01:44:39,200
+Pas besoin.
+
+1204
+01:44:39,300 --> 01:44:43,000
+C'est Martinez qui pilotera le VAM
+depuis l'Hermès.
+
+1205
+01:44:43,100 --> 01:44:45,700
+On n'a jamais piloté un vaisseau habité
+à distance.
+
+1206
+01:44:48,400 --> 01:44:51,500
+Ravi d'imaginer
+les horizons que ça va nous ouvrir.
+
+1207
+01:44:51,900 --> 01:44:54,400
+Du coup, on enlève le tableau de bord,
+
+1208
+01:44:54,500 --> 01:44:56,800
+la comm secondaire et tertiaire...
+
+1209
+01:44:57,300 --> 01:45:01,400
+Une ascension pilotée à distance
+sans comm de secours ?
+
+1210
+01:45:03,600 --> 01:45:06,200
+Et il a pas abordé le plus méchant.
+
+1211
+01:45:06,300 --> 01:45:07,500
+Allez-y, alors !
+
+1212
+01:45:08,100 --> 01:45:11,200
+Il faut enlever le sas frontal,
+les hublots
+
+1213
+01:45:11,300 --> 01:45:12,500
+et le panneau 19.
+
+1214
+01:45:14,300 --> 01:45:15,900
+Retirer l'avant du vaisseau ?
+
+1215
+01:45:15,900 --> 01:45:17,000
+Oui.
+
+1216
+01:45:17,100 --> 01:45:19,500
+Le sas frontal pèse 400 kg.
+
+1217
+01:45:20,000 --> 01:45:22,500
+Vous le lancez
+dans un vaisseau ouvert ?
+
+1218
+01:45:22,500 --> 01:45:23,400
+Non.
+
+1219
+01:45:24,800 --> 01:45:27,900
+Le trou sera recouvert
+de la toile de l'Habitat.
+
+1220
+01:45:29,500 --> 01:45:32,400
+La coque sert
+à empêcher l'air de sortir.
+
+1221
+01:45:32,500 --> 01:45:35,700
+Sur Mars, l'atmosphère
+offre peu de résistance.
+
+1222
+01:45:35,700 --> 01:45:39,100
+Quand il ira assez vite
+pour que la résistance le gêne,
+
+1223
+01:45:39,200 --> 01:45:41,700
+il sera tellement haut
+qu'il n'y aura plus d'air.
+
+1224
+01:45:41,800 --> 01:45:44,300
+Vous l'envoyez dans l'espace
+sous une bâche.
+
+1225
+01:45:44,600 --> 01:45:45,500
+Oui.
+
+1226
+01:45:46,800 --> 01:45:47,800
+Je continue ?
+
+1227
+01:45:48,500 --> 01:45:49,500
+Non.
+
+1228
+01:45:51,300 --> 01:45:53,300
+Vous déconnez, les mecs ?
+
+1229
+01:45:56,100 --> 01:45:57,900
+À votre avis, il veut dire :
+
+1230
+01:45:58,800 --> 01:46:00,100
+"Vous déconnez, les mecs ?"
+
+1231
+01:46:01,900 --> 01:46:02,800
+Ou plutôt :
+
+1232
+01:46:03,400 --> 01:46:05,000
+"Vous déconnez, les mecs !"
+
+1233
+01:46:06,000 --> 01:46:07,600
+Je penche pour la 2e version.
+
+1234
+01:46:09,600 --> 01:46:10,700
+Ou la première.
+
+1235
+01:46:12,200 --> 01:46:13,800
+"Vous déconnez, les mecs ?"
+
+1236
+01:46:13,900 --> 01:46:15,500
+Oui, c'est peut-être ça.
+
+1237
+01:46:29,100 --> 01:46:33,200
+CRATÈRE DE SCHIAPARELLI
+Site d'atterrissage d'Arès 4
+
+1238
+01:46:39,800 --> 01:46:41,600
+Je sais ce qu'ils font.
+
+1239
+01:46:43,100 --> 01:46:45,300
+Je sais exactement ce qu'ils font.
+
+1240
+01:46:45,800 --> 01:46:47,600
+Ils me répètent en boucle :
+
+1241
+01:46:47,600 --> 01:46:50,400
+"L'astronaute
+le plus rapide de l'Histoire."
+
+1242
+01:46:50,900 --> 01:46:54,200
+Pour pas que je me dise
+que c'est un plan de malades.
+
+1243
+01:46:55,900 --> 01:46:59,500
+C'est sûr, je serai l'astronaute
+le plus rapide de l'Histoire :
+
+1244
+01:46:59,500 --> 01:47:01,200
+vous m'envoyez dans l'espace
+
+1245
+01:47:01,200 --> 01:47:02,500
+en décapotable.
+
+1246
+01:47:02,800 --> 01:47:06,000
+Pire : je le piloterai même pas, l'engin.
+
+1247
+01:47:06,500 --> 01:47:08,600
+Et à propos, les physiciens,
+
+1248
+01:47:09,300 --> 01:47:12,000
+quand ils décrivent l'accélération,
+
+1249
+01:47:12,100 --> 01:47:14,400
+n'emploient pas le mot "rapide".
+
+1250
+01:47:15,400 --> 01:47:19,600
+S'ils l'emploient,
+c'est pour que je ne m'oppose pas
+
+1251
+01:47:20,600 --> 01:47:22,100
+à cette folie.
+
+1252
+01:47:23,400 --> 01:47:27,600
+J'aime l'expression "l'astronaute
+le plus rapide de l'Histoire".
+
+1253
+01:47:29,600 --> 01:47:31,400
+Je l'aime beaucoup.
+
+1254
+01:47:32,900 --> 01:47:34,400
+Je la kiffe grave.
+
+1255
+01:47:37,300 --> 01:47:39,100
+Mais je leur dirai pas.
+
+1256
+01:47:45,400 --> 01:47:46,400
+Allez.
+
+1257
+01:47:48,100 --> 01:47:49,200
+C'est parti.
+
+1258
+01:50:20,900 --> 01:50:26,200
+Beck, Vogel, vous serez dans le sas 2,
+porte ouverte, avant que le VAM décolle.
+
+1259
+01:50:26,200 --> 01:50:28,000
+Martinez pilote le VAM.
+
+1260
+01:50:28,300 --> 01:50:30,200
+Johanssen gère l'ascension.
+
+1261
+01:50:30,300 --> 01:50:32,200
+Une fois à l'interception,
+
+1262
+01:50:32,300 --> 01:50:34,200
+Beck sort chercher Watney.
+
+1263
+01:50:34,300 --> 01:50:36,500
+- On est prêts.
+- Comment on l'intercepte ?
+
+1264
+01:50:37,500 --> 01:50:39,800
+On a relié les câbles entre eux.
+
+1265
+01:50:39,900 --> 01:50:42,100
+On arrive à 214 m.
+
+1266
+01:50:42,200 --> 01:50:44,500
+Avec le MMU,
+je me déplacerai facilement.
+
+1267
+01:50:44,800 --> 01:50:46,600
+Vitesse relative maximum ?
+
+1268
+01:50:48,000 --> 01:50:50,200
+Je peux agripper le VAM à 5 m/s.
+
+1269
+01:50:50,600 --> 01:50:54,500
+Au-delà de 10, c'est comme
+un train en marche, je risque de louper.
+
+1270
+01:50:54,800 --> 01:50:56,600
+On aura un peu de marge :
+
+1271
+01:50:58,300 --> 01:51:00,000
+le décollage prend 12 min
+
+1272
+01:51:00,400 --> 01:51:03,600
+et on aura 52 min avant l'interception.
+
+1273
+01:51:03,700 --> 01:51:06,100
+Quand son moteur s'éteindra,
+on connaîtra
+
+1274
+01:51:06,200 --> 01:51:08,500
+le point d'interception et la vélocité.
+
+1275
+01:51:08,800 --> 01:51:10,400
+Vogel, vous assistez Beck.
+
+1276
+01:51:10,500 --> 01:51:13,200
+Si tout va bien,
+vous les ramenez avec le câble.
+
+1277
+01:51:13,200 --> 01:51:16,000
+Si ça tourne mal,
+vous allez le chercher.
+
+1278
+01:51:20,700 --> 01:51:22,200
+Allons le récupérer.
+
+1279
+01:51:57,700 --> 01:52:01,300
+Prenez soin de ce rover.
+Il m'a sauvé la vie.
+
+1280
+01:52:24,400 --> 01:52:27,600
+La tension et l'anxiété sont palpables.
+
+1281
+01:52:27,900 --> 01:52:31,200
+Une foule est venue voir ici
+
+1282
+01:52:31,300 --> 01:52:35,200
+si la mission de sauvetage de Mark Watney
+sera couronnée de succès.
+
+1283
+01:52:35,700 --> 01:52:39,000
+Leurs contacts avec lui sont limités.
+
+1284
+01:52:39,100 --> 01:52:41,600
+Et gardez à l'esprit que nous sommes
+
+1285
+01:52:41,700 --> 01:52:42,800
+en direct.
+
+1286
+01:52:42,800 --> 01:52:45,000
+Nous vous tiendrons informés
+
+1287
+01:52:45,000 --> 01:52:46,500
+du déroulement des faits.
+
+1288
+01:52:46,500 --> 01:52:47,500
+Écoutons
+
+1289
+01:52:47,500 --> 01:52:49,800
+la Nasa établir le contact
+
+1290
+01:52:49,800 --> 01:52:51,500
+avec Mark Watney.
+
+1291
+01:52:58,400 --> 01:53:00,700
+Que peut faire le Centre de contrôle ?
+
+1292
+01:53:01,400 --> 01:53:02,600
+Que dalle.
+
+1293
+01:53:03,900 --> 01:53:06,200
+Ils sont à 12 minutes-lumière.
+
+1294
+01:53:06,200 --> 01:53:09,400
+Nos réponses mettent 24 min
+à leur parvenir.
+
+1295
+01:53:10,800 --> 01:53:13,200
+Le lancement prend 12 min, donc...
+
+1296
+01:53:14,600 --> 01:53:16,200
+ils sont livrés à eux-mêmes.
+
+1297
+01:54:08,000 --> 01:54:11,100
+QG de la CNSA - Pékin
+
+1298
+01:54:19,900 --> 01:54:21,300
+TRAFALGAR SQUARE
+LONDRES
+
+1299
+01:54:21,300 --> 01:54:23,200
+... Mark est totalement seul sur Mars.
+
+1300
+01:54:23,200 --> 01:54:26,400
+Un expert psychologue nous expliquera...
+
+1301
+01:54:49,300 --> 01:54:50,700
+Pression du carburant, OK.
+
+1302
+01:54:51,400 --> 01:54:53,400
+Alignement des moteurs, impeccable.
+
+1303
+01:54:53,700 --> 01:54:55,600
+Communications, 5 sur 5.
+
+1304
+01:54:56,600 --> 01:54:59,400
+Parés pour la check-list finale,
+commandant.
+
+1305
+01:55:00,000 --> 01:55:02,400
+Contrôle, ici l'Hermès.
+
+1306
+01:55:02,400 --> 01:55:04,400
+Nous lancerons à l'heure prévue.
+
+1307
+01:55:04,400 --> 01:55:07,700
+Lancement
+dans H moins 2 min et 10 secondes.
+
+1308
+01:55:09,100 --> 01:55:10,100
+2 minutes.
+
+1309
+01:55:10,200 --> 01:55:11,700
+Comment ça va ?
+
+1310
+01:55:11,700 --> 01:55:12,900
+Ça va.
+
+1311
+01:55:13,700 --> 01:55:15,600
+J'ai hâte de vous rejoindre.
+
+1312
+01:55:16,100 --> 01:55:18,500
+- Merci d'être revenus.
+- On est sur le coup.
+
+1313
+01:55:18,500 --> 01:55:22,100
+Vous allez encaisser du G,
+vous pourriez perdre connaissance.
+
+1314
+01:55:22,100 --> 01:55:24,800
+Vous êtes dans les mains de Martinez.
+
+1315
+01:55:24,800 --> 01:55:26,800
+Qu'il évite les tonneaux, l'enfoiré.
+
+1316
+01:55:28,300 --> 01:55:29,500
+Bien reçu, VAM.
+
+1317
+01:55:30,100 --> 01:55:31,100
+Capcom.
+
+1318
+01:55:32,300 --> 01:55:33,500
+Commande à distance ?
+
+1319
+01:55:34,300 --> 01:55:35,500
+Récupération ?
+
+1320
+01:55:36,500 --> 01:55:37,900
+Récupération auxiliaire ?
+
+1321
+01:55:39,100 --> 01:55:40,000
+Pilote ?
+
+1322
+01:55:42,700 --> 01:55:43,700
+Pilote ?
+
+1323
+01:55:45,300 --> 01:55:46,200
+Bien reçu.
+
+1324
+01:55:47,500 --> 01:55:49,800
+Contrôle,
+nous sommes prêts au lancement.
+
+1325
+01:55:50,800 --> 01:55:51,800
+H - 10...
+
+1326
+01:55:52,900 --> 01:55:53,900
+Allumage moteur.
+
+1327
+01:55:57,000 --> 01:55:58,700
+Pinces d'amarrage décrochées.
+
+1328
+01:55:58,700 --> 01:56:00,500
+5 secondes. On y est.
+
+1329
+01:56:00,500 --> 01:56:02,000
+À tout de suite, commandant.
+
+1330
+01:56:02,300 --> 01:56:03,400
+4...
+
+1331
+01:56:04,200 --> 01:56:05,300
+3...
+
+1332
+01:56:05,900 --> 01:56:07,000
+2...
+
+1333
+01:56:07,500 --> 01:56:08,200
+1.
+
+1334
+01:56:44,700 --> 01:56:47,100
+Vélocité : 741 mètres par seconde.
+
+1335
+01:56:47,200 --> 01:56:49,300
+Altitude : 1 350 mètres.
+
+1336
+01:56:49,300 --> 01:56:50,600
+C'est trop bas.
+
+1337
+01:56:50,700 --> 01:56:51,700
+Il me résiste.
+
+1338
+01:56:55,600 --> 01:56:56,700
+Watney...
+
+1339
+01:56:58,000 --> 01:56:59,200
+vous m'entendez ?
+
+1340
+01:57:04,800 --> 01:57:06,200
+Séparation booster.
+
+1341
+01:57:06,500 --> 01:57:07,900
+Vélocité : 850.
+
+1342
+01:57:08,000 --> 01:57:09,500
+Altitude : 1 843.
+
+1343
+01:57:09,600 --> 01:57:10,900
+Il est trop bas.
+
+1344
+01:57:10,900 --> 01:57:12,000
+De combien ?
+
+1345
+01:57:12,600 --> 01:57:13,600
+Je vérifie.
+
+1346
+01:57:14,500 --> 01:57:15,500
+Watney.
+
+1347
+01:57:16,200 --> 01:57:17,000
+Vous m'entendez ?
+
+1348
+01:57:17,900 --> 01:57:21,400
+Il est dans les vapes,
+il s'est mangé 12 G. Attendez.
+
+1349
+01:57:21,500 --> 01:57:22,600
+Bien reçu.
+
+1350
+01:57:25,000 --> 01:57:26,200
+Extinction moteur dans 3...
+
+1351
+01:57:27,000 --> 01:57:28,500
+2... 1...
+
+1352
+01:57:29,400 --> 01:57:30,200
+Extinction.
+
+1353
+01:57:32,000 --> 01:57:33,800
+Retour sur guidage automatique.
+
+1354
+01:57:34,400 --> 01:57:35,800
+Extinction confirmée.
+
+1355
+01:57:38,300 --> 01:57:40,100
+Carburant épuisé.
+
+1356
+01:57:42,000 --> 01:57:43,000
+Watney,
+
+1357
+01:57:43,700 --> 01:57:44,800
+vous m'entendez ?
+
+1358
+01:57:45,900 --> 01:57:48,500
+Il y a un petit problème
+de transmission.
+
+1359
+01:57:55,700 --> 01:57:57,200
+Je reçois des signaux.
+
+1360
+01:57:57,500 --> 01:57:59,500
+Vélocité d'interception : 11 m/s.
+
+1361
+01:57:59,800 --> 01:58:01,200
+Je peux y arriver.
+
+1362
+01:58:02,100 --> 01:58:04,200
+La distance à l'interception sera...
+
+1363
+01:58:04,900 --> 01:58:06,500
+de 68 kilomètres.
+
+1364
+01:58:07,000 --> 01:58:08,600
+68 kilomètres ?
+
+1365
+01:58:09,000 --> 01:58:11,200
+Elle a bien dit 68 kilomètres ?
+
+1366
+01:58:12,200 --> 01:58:14,100
+Allez, on cherche une solution.
+
+1367
+01:58:15,000 --> 01:58:16,600
+Combien de temps ?
+
+1368
+01:58:17,300 --> 01:58:19,100
+39 minutes 12 secondes.
+
+1369
+01:58:19,800 --> 01:58:20,800
+Martinez,
+
+1370
+01:58:20,800 --> 01:58:23,600
+on peut se propulser
+dans la même direction ?
+
+1371
+01:58:23,700 --> 01:58:26,200
+Ça dépend du carburant à garder
+
+1372
+01:58:26,200 --> 01:58:27,700
+pour le retour.
+
+1373
+01:58:27,700 --> 01:58:29,000
+Combien en faut-il ?
+
+1374
+01:58:29,000 --> 01:58:30,500
+Je peux me contenter
+
+1375
+01:58:30,600 --> 01:58:33,300
+de 20 % de ce qui nous reste.
+
+1376
+01:58:34,300 --> 01:58:37,700
+Avec 75,5 % du carburant d'ajustement,
+
+1377
+01:58:37,700 --> 01:58:40,100
+on ramène la distance d'interception
+à zéro.
+
+1378
+01:58:40,100 --> 01:58:41,300
+On y va.
+
+1379
+01:58:41,800 --> 01:58:44,900
+Attendez, ça ramène la distance à zéro,
+
+1380
+01:58:44,900 --> 01:58:47,800
+mais la vélocité sera de 42 m/s.
+
+1381
+01:58:47,800 --> 01:58:49,300
+C'est beaucoup trop.
+
+1382
+01:58:50,000 --> 01:58:53,300
+On a 39 minutes
+pour trouver comment ralentir.
+
+1383
+01:58:56,500 --> 01:58:58,200
+Enclenchez les verniers.
+
+1384
+01:58:58,500 --> 01:58:59,500
+Bien reçu.
+
+1385
+01:59:22,400 --> 01:59:24,100
+VAM à l'Hermès.
+
+1386
+01:59:24,500 --> 01:59:25,500
+Watney ?
+
+1387
+01:59:25,600 --> 01:59:26,700
+Affirmatif.
+
+1388
+01:59:30,700 --> 01:59:31,900
+Vos constantes ?
+
+1389
+01:59:32,600 --> 01:59:33,800
+J'ai mal à la poitrine.
+
+1390
+01:59:34,500 --> 01:59:35,700
+J'ai des côtes cassées.
+
+1391
+01:59:36,700 --> 01:59:37,900
+Et vous ?
+
+1392
+01:59:37,900 --> 01:59:40,700
+On s'approche,
+il y a eu une complication.
+
+1393
+01:59:40,800 --> 01:59:42,100
+Bien reçu.
+
+1394
+01:59:42,800 --> 01:59:44,300
+C'est grave ?
+
+1395
+01:59:44,300 --> 01:59:47,800
+On a corrigé la distance,
+mais on a un problème de vélocité.
+
+1396
+01:59:48,200 --> 01:59:49,500
+Un gros problème ?
+
+1397
+01:59:49,500 --> 01:59:50,900
+42 m/s.
+
+1398
+01:59:53,800 --> 01:59:54,800
+Merde.
+
+1399
+02:00:00,100 --> 02:00:02,200
+Commandant, j'ai une idée.
+
+1400
+02:00:02,200 --> 02:00:03,400
+Je vous écoute.
+
+1401
+02:00:05,000 --> 02:00:06,900
+Avec un truc pointu,
+
+1402
+02:00:06,900 --> 02:00:09,800
+je pourrais trouer le gant de ma combi.
+
+1403
+02:00:09,900 --> 02:00:12,500
+L'air qui s'échapperait me propulserait
+
+1404
+02:00:12,600 --> 02:00:14,100
+vers vous.
+
+1405
+02:00:14,200 --> 02:00:17,000
+Ce serait facile à contrôler,
+sur mon bras.
+
+1406
+02:00:17,500 --> 02:00:19,400
+Vous n'auriez aucun contrôle.
+
+1407
+02:00:19,400 --> 02:00:23,500
+Vous navigueriez au jugé.
+Le vecteur de poussée serait aléatoire.
+
+1408
+02:00:23,900 --> 02:00:27,100
+Oui, ce sont de très bonnes remarques.
+
+1409
+02:00:27,800 --> 02:00:28,800
+Mais
+
+1410
+02:00:29,300 --> 02:00:30,700
+d'un autre côté,
+
+1411
+02:00:32,700 --> 02:00:35,100
+ça me ferait voler comme Iron Man.
+
+1412
+02:00:36,800 --> 02:00:38,100
+Commandant ?
+
+1413
+02:00:38,400 --> 02:00:39,900
+On se fait Iron Man.
+
+1414
+02:00:43,000 --> 02:00:46,300
+- Perte de signal.
+- Communication interrompue.
+
+1415
+02:00:47,600 --> 02:00:50,200
+Ce n'est pas une si mauvaise idée.
+
+1416
+02:00:50,200 --> 02:00:52,200
+C'est la pire idée qui soit.
+
+1417
+02:00:52,200 --> 02:00:53,400
+Pas ce qu'il a dit.
+
+1418
+02:00:53,700 --> 02:00:55,600
+L'atmosphère comme propulseur.
+
+1419
+02:00:57,900 --> 02:00:59,500
+On peut faire sauter le SV ?
+
+1420
+02:00:59,900 --> 02:01:01,800
+Ouvrir le sas véhiculaire ?
+
+1421
+02:01:02,200 --> 02:01:05,300
+- Ça nous propulserait.
+- Mais la coiffe sauterait...
+
+1422
+02:01:05,300 --> 02:01:08,400
+Et l'air s'échapperait.
+Sans air, on meurt.
+
+1423
+02:01:08,400 --> 02:01:11,900
+On scellerait la passerelle.
+Le vide se ferait ailleurs.
+
+1424
+02:01:12,700 --> 02:01:13,600
+Vogel.
+
+1425
+02:01:13,700 --> 02:01:14,900
+Oui, commandant ?
+
+1426
+02:01:15,400 --> 02:01:17,900
+Rentrez nous fabriquer une... bombe.
+
+1427
+02:01:18,800 --> 02:01:19,700
+Pardon ?
+
+1428
+02:01:19,800 --> 02:01:22,600
+Vous êtes chimiste.
+On a de quoi faire une bombe ?
+
+1429
+02:01:24,300 --> 02:01:25,600
+Probablement.
+
+1430
+02:01:26,700 --> 02:01:30,100
+Mais je rappelle
+que déclencher un engin explosif
+
+1431
+02:01:30,100 --> 02:01:32,700
+dans un vaisseau spatial
+est une très mauvaise idée.
+
+1432
+02:01:33,400 --> 02:01:35,800
+Vous fabriquez une bombe sans moi ?
+
+1433
+02:01:36,200 --> 02:01:38,100
+Bien reçu. Vous pouvez le faire ?
+
+1434
+02:01:44,600 --> 02:01:47,800
+Nous allons délibérément
+détruire le sas véhiculaire
+
+1435
+02:01:47,800 --> 02:01:49,300
+pour inverser la poussée.
+
+1436
+02:01:50,600 --> 02:01:54,300
+Beck, rejoignez Johanssen dans le sas 1,
+porte extérieure ouverte.
+
+1437
+02:01:54,300 --> 02:01:58,800
+Placez la charge sur la porte intérieure
+et revenez au sas 2.
+
+1438
+02:01:58,800 --> 02:02:00,700
+Reçu. J'y vais.
+
+1439
+02:02:07,900 --> 02:02:09,400
+Je suis rentré, commandant.
+
+1440
+02:02:09,700 --> 02:02:10,500
+Bien reçu.
+
+1441
+02:02:19,800 --> 02:02:21,200
+Vogel, t'es où ?
+
+1442
+02:02:21,700 --> 02:02:23,000
+Dans la cuisine.
+
+1443
+02:02:27,600 --> 02:02:28,600
+Commandant !
+
+1444
+02:02:29,000 --> 02:02:32,800
+Ne faites pas ça.
+Je suis prêt à trouer ma combi.
+
+1445
+02:02:32,800 --> 02:02:34,500
+Il n'en est pas question.
+
+1446
+02:02:34,600 --> 02:02:36,300
+Le truc, c'est que je suis égoïste.
+
+1447
+02:02:36,800 --> 02:02:39,600
+Je veux toutes les commémorations
+pour moi.
+
+1448
+02:02:39,600 --> 02:02:40,700
+Moi tout seul.
+
+1449
+02:02:40,800 --> 02:02:42,800
+J'aurais dû le laisser sur Mars.
+
+1450
+02:02:47,400 --> 02:02:48,200
+Du sucre ?
+
+1451
+02:02:53,500 --> 02:02:54,800
+Tiens-moi ça.
+
+1452
+02:02:55,400 --> 02:02:56,900
+De l'oxygène liquide
+
+1453
+02:02:57,500 --> 02:02:59,800
+mélangé à du détachant
+qui contient
+
+1454
+02:02:59,800 --> 02:03:01,000
+de l'ammoniac.
+
+1455
+02:03:04,400 --> 02:03:05,500
+Ce truc-là,
+
+1456
+02:03:06,200 --> 02:03:09,200
+c'est 5 fois plus puissant
+qu'un bâton de dynamite.
+
+1457
+02:03:09,300 --> 02:03:10,600
+Ça s'active comment ?
+
+1458
+02:03:10,700 --> 02:03:13,300
+Connecte ça à un panneau lumineux.
+
+1459
+02:03:17,300 --> 02:03:18,300
+Attention.
+
+1460
+02:03:24,900 --> 02:03:26,300
+Ouverture sas 1.
+
+1461
+02:03:32,100 --> 02:03:33,200
+Je rejoins Beck.
+
+1462
+02:03:37,700 --> 02:03:39,500
+Espérons que ça tienne la route.
+
+1463
+02:03:39,800 --> 02:03:41,700
+- C'est sûr.
+- Ouverture A1.
+
+1464
+02:03:52,000 --> 02:03:53,100
+Tu la tiens ?
+
+1465
+02:03:59,100 --> 02:04:01,700
+Barre-toi avant que ça explose.
+
+1466
+02:04:05,100 --> 02:04:06,900
+Attention, dehors,
+
+1467
+02:04:06,900 --> 02:04:08,000
+dans l'espace.
+
+1468
+02:04:12,300 --> 02:04:14,300
+Dis à personne que j'ai fait ça.
+
+1469
+02:04:24,300 --> 02:04:25,300
+Bombe en place.
+
+1470
+02:04:34,100 --> 02:04:36,400
+Je quitte le sas 1.
+
+1471
+02:04:41,500 --> 02:04:44,000
+Même si l'explosion se passe bien,
+
+1472
+02:04:44,400 --> 02:04:45,600
+l'angle sera pas bon.
+
+1473
+02:04:46,000 --> 02:04:48,600
+Distance d'interception ?
+Johanssen ?
+
+1474
+02:04:48,900 --> 02:04:51,400
+260 mètres, approximativement.
+
+1475
+02:04:51,400 --> 02:04:52,600
+C'est trop.
+
+1476
+02:05:01,700 --> 02:05:02,800
+Commandant !
+
+1477
+02:05:03,200 --> 02:05:04,700
+Fermez le sas !
+
+1478
+02:05:08,500 --> 02:05:09,800
+Ouvrez D3.
+
+1479
+02:05:10,500 --> 02:05:11,800
+Laissez ouvert.
+
+1480
+02:05:41,000 --> 02:05:42,400
+Ouvrez B2.
+
+1481
+02:05:47,000 --> 02:05:47,900
+Johanssen,
+
+1482
+02:05:48,200 --> 02:05:50,600
+délai avant explosion,
+une fois activée ?
+
+1483
+02:05:50,700 --> 02:05:51,700
+15 secondes.
+
+1484
+02:05:52,200 --> 02:05:54,000
+On aime vivre dangereusement.
+
+1485
+02:05:55,200 --> 02:05:56,000
+Commandant.
+
+1486
+02:05:56,300 --> 02:05:58,000
+C'est trop loin. J'y vais.
+
+1487
+02:05:59,000 --> 02:06:00,900
+- J'y arriverai.
+- Ne discutez pas.
+
+1488
+02:06:01,000 --> 02:06:02,500
+Assez de vies risquées.
+
+1489
+02:06:03,100 --> 02:06:04,300
+Beck est revenu.
+
+1490
+02:06:04,700 --> 02:06:06,200
+Johanssen, activez la bombe.
+
+1491
+02:06:06,700 --> 02:06:07,700
+10 secondes.
+
+1492
+02:06:08,000 --> 02:06:08,900
+Attachez-vous.
+
+1493
+02:06:09,700 --> 02:06:10,700
+5...
+
+1494
+02:06:11,100 --> 02:06:11,800
+4...
+
+1495
+02:06:12,800 --> 02:06:13,600
+3...
+
+1496
+02:06:13,600 --> 02:06:15,200
+Parés pour décélération.
+
+1497
+02:06:16,100 --> 02:06:16,900
+1.
+
+1498
+02:06:16,900 --> 02:06:18,400
+Activation panneau 41.
+
+1499
+02:06:40,300 --> 02:06:41,600
+Passerelle intacte.
+
+1500
+02:06:41,800 --> 02:06:42,800
+Dégâts ?
+
+1501
+02:06:42,800 --> 02:06:44,200
+On verra plus tard.
+
+1502
+02:06:44,200 --> 02:06:45,800
+Vélocité relative ?
+
+1503
+02:06:45,900 --> 02:06:46,900
+12 m/s.
+
+1504
+02:06:47,600 --> 02:06:48,600
+Bien reçu.
+
+1505
+02:06:51,600 --> 02:06:52,800
+Attachez-moi.
+
+1506
+02:06:54,000 --> 02:06:54,900
+C'est fait.
+
+1507
+02:07:05,100 --> 02:07:06,600
+J'ai le VAM en visuel.
+
+1508
+02:07:08,100 --> 02:07:09,600
+Distance d'interception ?
+
+1509
+02:07:10,100 --> 02:07:11,100
+Je vérifie.
+
+1510
+02:07:12,300 --> 02:07:13,800
+312 mètres.
+
+1511
+02:07:13,900 --> 02:07:15,900
+T'as bien dit 312 ?
+
+1512
+02:07:16,500 --> 02:07:18,800
+Super, je vous ferai coucou en passant.
+
+1513
+02:07:28,300 --> 02:07:30,100
+Vous êtes trop loin, Mark.
+
+1514
+02:07:30,200 --> 02:07:32,100
+- Je ne vais pas y arriver.
+- Je sais.
+
+1515
+02:07:32,400 --> 02:07:33,900
+Beck, détachez-moi.
+
+1516
+02:07:34,300 --> 02:07:35,300
+Commandant,
+
+1517
+02:07:35,600 --> 02:07:36,800
+laissez-moi faire.
+
+1518
+02:07:50,800 --> 02:07:52,100
+Situation ?
+
+1519
+02:07:52,700 --> 02:07:54,000
+J'arrive, commandant.
+
+1520
+02:07:54,700 --> 02:07:55,500
+Merde.
+
+1521
+02:08:05,500 --> 02:08:07,700
+Quelle est ma vélocité relative ?
+
+1522
+02:08:08,000 --> 02:08:09,700
+5,2 m/s.
+
+1523
+02:08:10,000 --> 02:08:11,400
+J'ajuste la trajectoire.
+
+1524
+02:08:17,400 --> 02:08:19,000
+3,1 m/s.
+
+1525
+02:08:21,800 --> 02:08:23,700
+Distance : 24 mètres.
+
+1526
+02:08:25,900 --> 02:08:27,400
+11 mètres.
+
+1527
+02:08:30,500 --> 02:08:31,200
+6 mètres.
+
+1528
+02:08:43,200 --> 02:08:44,200
+Accrochez-vous !
+
+1529
+02:09:12,000 --> 02:09:12,900
+Je le tiens.
+
+1530
+02:09:16,000 --> 02:09:17,000
+Je le tiens.
+
+1531
+02:09:18,200 --> 02:09:19,000
+Je le tiens.
+
+1532
+02:09:19,400 --> 02:09:21,000
+Bien joué, Iron Man.
+
+1533
+02:09:24,100 --> 02:09:25,300
+Beck, ramenez-nous.
+
+1534
+02:09:28,600 --> 02:09:30,100
+Content de vous revoir.
+
+1535
+02:09:32,000 --> 02:09:32,900
+Vous...
+
+1536
+02:09:35,000 --> 02:09:38,100
+avez des goûts de chiotte,
+niveau musique.
+
+1537
+02:09:47,900 --> 02:09:49,900
+Houston, ici l'Hermès.
+
+1538
+02:09:50,000 --> 02:09:50,900
+On l'a récupéré.
+
+1539
+02:09:53,100 --> 02:09:54,300
+Watney est sain et sauf.
+
+1540
+02:09:59,800 --> 02:10:01,900
+Un contact dans l'espace avec Watney.
+
+1541
+02:10:01,900 --> 02:10:03,900
+Après une si longue attente,
+
+1542
+02:10:03,900 --> 02:10:06,300
+ils ont réussi l'impossible.
+
+1543
+02:10:06,300 --> 02:10:10,100
+C'est confirmé : Mark Watney est sauvé.
+
+1544
+02:10:14,000 --> 02:10:15,500
+Attrapez-le.
+
+1545
+02:10:17,700 --> 02:10:19,000
+Salut, bogosse !
+
+1546
+02:10:19,000 --> 02:10:20,400
+Fermez l'écoutille.
+
+1547
+02:10:23,800 --> 02:10:25,100
+Salut, les mecs !
+
+1548
+02:10:29,900 --> 02:10:32,900
+Les 6 membres de l'équipage
+sont à bord.
+
+1549
+02:10:36,500 --> 02:10:38,700
+C'est un grand moment pour la nation,
+
+1550
+02:10:38,800 --> 02:10:40,700
+pour le monde et bien sûr,
+
+1551
+02:10:40,700 --> 02:10:42,700
+pour la conquête spatiale internationale.
+
+1552
+02:10:43,200 --> 02:10:45,500
+C'est fou comme tout vous réussit.
+
+1553
+02:10:53,100 --> 02:10:54,500
+Ça sent pas la rose !
+
+1554
+02:10:55,300 --> 02:10:58,200
+Je me suis pas douché
+depuis un an et demi !
+
+1555
+02:10:58,500 --> 02:11:00,700
+Me faites pas rire,
+j'ai des côtes cassées.
+
+1556
+02:11:35,000 --> 02:11:36,200
+Salut, toi.
+
+1557
+02:11:44,600 --> 02:11:45,600
+Monsieur.
+
+1558
+02:11:46,100 --> 02:11:47,200
+Très honoré, monsieur...
+
+1559
+02:12:01,600 --> 02:12:04,000
+JOUR 1
+
+1560
+02:12:13,500 --> 02:12:15,600
+Bienvenue à l'École supérieure
+d'astronautique.
+
+1561
+02:12:16,400 --> 02:12:18,200
+Écoutez-moi bien.
+
+1562
+02:12:18,300 --> 02:12:20,400
+Ça pourrait vous sauver la vie.
+
+1563
+02:12:20,400 --> 02:12:22,000
+Et je sais de quoi je parle.
+
+1564
+02:12:23,200 --> 02:12:25,400
+Deux ou trois choses, d'abord.
+
+1565
+02:12:25,500 --> 02:12:29,200
+Oui, j'ai survécu sur une planète déserte
+
+1566
+02:12:29,300 --> 02:12:31,800
+en cultivant des patates
+dans ma propre merde.
+
+1567
+02:12:32,500 --> 02:12:36,600
+Oui, c'est pire que ça en a l'air,
+alors on évitera le sujet.
+
+1568
+02:12:38,100 --> 02:12:40,800
+L'autre question qu'on me pose, c'est...
+
+1569
+02:12:41,300 --> 02:12:43,900
+quand j'étais là-haut, abandonné,
+
+1570
+02:12:44,000 --> 02:12:46,100
+me disais-je que j'allais mourir ?
+
+1571
+02:12:46,900 --> 02:12:48,600
+Oui, absolument.
+
+1572
+02:12:49,500 --> 02:12:52,400
+Autant vous le dire tout de suite,
+ça vous arrivera.
+
+1573
+02:12:53,000 --> 02:12:56,300
+On est dans l'espace.
+Il est pas coopératif.
+
+1574
+02:12:56,600 --> 02:12:59,500
+Y a forcément un moment
+où tout part en vrille.
+
+1575
+02:12:59,500 --> 02:13:02,600
+Tout part en vrille
+et on se dit : "Ça y est,
+
+1576
+02:13:02,600 --> 02:13:04,200
+mon heure est venue."
+
+1577
+02:13:05,600 --> 02:13:07,100
+Soit on l'accepte,
+
+1578
+02:13:07,700 --> 02:13:09,400
+soit on se met au boulot.
+
+1579
+02:13:10,700 --> 02:13:12,600
+C'est aussi simple que ça.
+
+1580
+02:13:12,700 --> 02:13:14,400
+Il faut s'y mettre.
+
+1581
+02:13:15,400 --> 02:13:18,100
+On réfléchit, on règle un problème,
+
+1582
+02:13:18,500 --> 02:13:19,900
+et on passe au suivant.
+
+1583
+02:13:20,500 --> 02:13:24,100
+Et au suivant.
+Si on en règle assez, on peut rentrer.
+
+1584
+02:13:26,200 --> 02:13:27,200
+Des questions ?
+
+1585
+02:13:32,200 --> 02:13:34,700
+Après la check-list finale,
+
+1586
+02:13:34,700 --> 02:13:36,900
+nous procéderons au lancement.
+
+1587
+02:13:37,000 --> 02:13:40,700
+L'équipage d'Arès 5 rejoindra l'Hermès
+approximativement
+
+1588
+02:13:40,700 --> 02:13:42,700
+48 minutes après le décollage.
+
+1589
+02:13:42,700 --> 02:13:44,900
+L'équipage aura 414 jours
+
+1590
+02:13:44,900 --> 02:13:46,500
+à passer dans l'espace.
+
+1591
+02:13:46,500 --> 02:13:50,800
+L'objectif a-t-il changé, depuis
+la mission précédente, pour Arès 5 ?
+
+1592
+02:13:50,900 --> 02:13:53,000
+Quels résultats espérez-vous obtenir ?
+
+1593
+02:13:53,000 --> 02:13:54,700
+Les objectifs sont les mêmes
+
+1594
+02:13:54,800 --> 02:13:57,300
+quelles que soient les missions Arès,
+
+1595
+02:13:57,400 --> 02:14:01,000
+mais cette fois, nous espérons
+ramener tout l'équipage d'un coup.
+
+1596
+02:14:01,400 --> 02:14:03,200
+Guidage : contrôles corrects.
+
+1597
+02:14:03,200 --> 02:14:04,700
+Reçu, Guidage.
+
+1598
+02:14:04,700 --> 02:14:06,200
+À tous de DDO,
+
+1599
+02:14:06,200 --> 02:14:07,700
+parés au lancement.
+
+1600
+02:14:07,800 --> 02:14:11,100
+Paramètres corrects,
+servo vérins conformes à l'attendu.
+
+1601
+02:14:11,200 --> 02:14:13,100
+CAG dans les limites.
+
+1602
+02:14:13,200 --> 02:14:14,100
+C'est exact.
+
+1603
+02:14:14,200 --> 02:14:15,500
+Comm équipage correcte.
+
+1604
+02:14:19,000 --> 02:14:21,300
+Contrôle final des ailerons effectué.
+
+1605
+02:14:21,400 --> 02:14:24,400
+Tout est prêt
+pour le lancement d'Arès 5.
+
+1606
+02:14:25,100 --> 02:14:26,200
+20 secondes.
+
+1607
+02:14:27,800 --> 02:14:29,500
+Attention, pour le décompte.
+
+1608
+02:14:29,600 --> 02:14:31,700
+H moins 10, 9...
+
+1609
+02:14:32,300 --> 02:14:33,600
+Allumage moteur principal.
+
+1610
+02:14:41,100 --> 02:14:42,400
+Et décollage.
+
+1611
+02:14:42,500 --> 02:14:44,900
+L'équipage d'Arès 5
+
+1612
+02:14:44,900 --> 02:14:48,400
+entame un nouveau chapitre
+de la conquête spatiale américaine.
+
+1613
+02:15:02,400 --> 02:15:05,700
+Centrales inertielles alignées.
+Précision GPS correcte.
+
+1614
+02:15:09,300 --> 02:15:10,400
+Joli.
+
+1615
+02:15:10,400 --> 02:15:14,200
+C'est parti.
+5 ans après le sauvetage de Mark Watney,
+
+1616
+02:15:14,200 --> 02:15:17,100
+Arès 5 est en route pour Mars.
