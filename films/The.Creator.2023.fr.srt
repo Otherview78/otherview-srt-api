@@ -1,0 +1,6127 @@
+1
+00:00:55,292 --> 00:00:59,958
+Nir-ma-ta
+(du népalais signifiant "le créateur")
+
+2
+00:01:00,125 --> 00:01:04,750
+1. Mystérieux architecte inconnu
+de l'IA de pointe.
+
+3
+00:01:04,917 --> 00:01:07,083
+2. Être vénéré
+par les intelligences artificielles,
+
+4
+00:01:07,167 --> 00:01:09,667
+leur sauveur, leur Dieu.
+
+5
+00:01:12,625 --> 00:01:13,625
+DEMAIN AUJOURD'HUI
+
+6
+00:01:13,792 --> 00:01:17,042
+{\an8}ACTUALITÉS DU SIÈCLE
+
+7
+00:01:17,208 --> 00:01:19,708
+<i>Bienvenue dans l'avenir
+de la robotique.</i>
+
+8
+00:01:20,333 --> 00:01:21,500
+<i>Laissez les machines vous aider.</i>
+
+9
+00:01:21,667 --> 00:01:25,458
+{\an8}<i>Les tâches ménagères ?
+Il n'y a rien qui leur échappe.</i>
+
+10
+00:01:30,500 --> 00:01:32,625
+{\an8}<i>La nouvelle avancée
+en matière de robotique</i>
+
+11
+00:01:33,042 --> 00:01:35,458
+<i>est l'intelligence artificielle.</i>
+
+12
+00:01:35,625 --> 00:01:37,250
+<i>Après avoir analysé le cerveau humain,</i>
+
+13
+00:01:37,417 --> 00:01:40,750
+{\an8}<i>on a donné aux robots la pensée
+autonome afin qu'ils puissent</i>
+
+14
+00:01:40,917 --> 00:01:46,000
+{\an8}<i>contribuer à la main-d'œuvre
+américaine comme les humains.</i>
+
+15
+00:01:49,292 --> 00:01:52,833
+<i>Une nouvelle technologie réduit
+l'écart entre les humains et l'IA,</i>
+
+16
+00:01:53,000 --> 00:01:54,375
+<i>nous rendant
+plus similaires que jamais.</i>
+
+17
+00:01:54,667 --> 00:01:56,875
+<i>On peut scanner les traits
+de votre visage</i>
+
+18
+00:01:57,042 --> 00:01:59,250
+<i>et les intégrer
+à un corps entièrement robotisé</i>
+
+19
+00:01:59,417 --> 00:02:01,792
+<i>pour lui donner une apparence
+encore plus humaine.</i>
+
+20
+00:02:01,958 --> 00:02:02,792
+{\an8}SIMPLEMENT Simulant
+DEMANDEZ UN SCAN
+
+21
+00:02:02,958 --> 00:02:04,958
+{\an8}<i>Grâce aux simulants, l'avenir est
+plus prometteur que jamais.</i>
+
+22
+00:02:06,917 --> 00:02:10,375
+<i>L'IA s'est intégrée
+dans toutes les sphères de notre vie.</i>
+
+23
+00:02:10,542 --> 00:02:11,875
+<i>Ils préparent nos repas,</i>
+
+24
+00:02:12,042 --> 00:02:13,583
+<i>ils conduisent nos voitures,</i>
+
+25
+00:02:13,750 --> 00:02:15,625
+<i>ils sont nos fonctionnaires</i>
+
+26
+00:02:15,792 --> 00:02:17,125
+<i>et ils maintiennent l'ordre public.</i>
+
+27
+00:02:17,292 --> 00:02:19,042
+<i>Grâce au nouveau système
+de défense dernier cri,</i>
+
+28
+00:02:19,417 --> 00:02:20,292
+<i>ils peuvent même...</i>
+
+29
+00:02:37,833 --> 00:02:42,458
+<i>Il y a dix ans aujourd'hui, une ogive
+nucléaire a explosé à Los Angeles.</i>
+
+30
+00:02:43,708 --> 00:02:46,625
+<i>Près d'un million de personnes
+ont été carbonisées</i>
+
+31
+00:02:47,500 --> 00:02:49,083
+<i>de manière instantanée</i>
+
+32
+00:02:49,250 --> 00:02:52,333
+<i>par l'intelligence artificielle
+qui devait les protéger.</i>
+
+33
+00:02:53,458 --> 00:02:55,417
+<i>Le monde occidental a banni l'IA</i>
+
+34
+00:02:56,333 --> 00:02:58,375
+<i>pour éviter qu'une telle catastrophe
+se reproduise.</i>
+
+35
+00:03:00,417 --> 00:03:02,542
+<i>Mais les républiques
+de la Nouvelle-Asie</i>
+
+36
+00:03:03,292 --> 00:03:06,583
+<i>ne partagent pas nos inquiétudes,
+et elles continuent de développer l'IA</i>
+
+37
+00:03:06,750 --> 00:03:08,708
+<i>et de traiter les robots
+comme leurs égaux.</i>
+
+38
+00:03:08,875 --> 00:03:10,500
+<i>Ne vous méprenez pas.</i>
+
+39
+00:03:10,667 --> 00:03:15,042
+<i>On est en guerre contre l'IA,
+pas contre la Nouvelle-Asie.</i>
+
+40
+00:03:17,167 --> 00:03:20,167
+<i>Ceci est un combat
+pour la survie de notre existence.</i>
+
+41
+00:03:21,250 --> 00:03:23,542
+<i>Tant que l'IA représentera une menace,</i>
+
+42
+00:03:23,708 --> 00:03:26,167
+<i>nous la traquerons sans interruption.</i>
+
+43
+00:03:40,708 --> 00:03:45,833
+{\an8}KO NANG, NOUVELLE-ASIE 2065
+
+44
+00:03:59,333 --> 00:04:01,125
+<i>Nomad. Ici Bravo, en approche.</i>
+
+45
+00:04:01,292 --> 00:04:03,917
+<i>En direction
+de quatre, un, trois, neuf.</i>
+
+46
+00:04:04,083 --> 00:04:05,208
+<i>Bien reçu. En route.</i>
+
+47
+00:04:07,083 --> 00:04:08,292
+<i>Vous êtes sur le radar...</i>
+
+48
+00:04:19,208 --> 00:04:20,458
+<i>L'escouade est en chemin.</i>
+
+49
+00:04:20,625 --> 00:04:23,625
+<i>Ici </i>Nomad.<i> Bien reçu.
+J'envoie les coordonnées de la frappe.</i>
+
+50
+00:04:39,958 --> 00:04:41,083
+Petite fille.
+
+51
+00:04:42,042 --> 00:04:44,625
+Soit elle sera très intelligente,
+
+52
+00:04:44,792 --> 00:04:46,542
+soit elle sera comme toi.
+
+53
+00:04:48,000 --> 00:04:49,208
+- Elle est fâchée.
+- C'était...
+
+54
+00:04:49,375 --> 00:04:51,292
+C'était un coup de pied d'assentiment.
+
+55
+00:04:51,458 --> 00:04:52,833
+- Un coup de pied d'assentiment ?
+- Oui.
+
+56
+00:04:53,000 --> 00:04:54,583
+- C'était... Oui.
+- Elle dit :
+
+57
+00:04:54,750 --> 00:04:55,917
+"Ne parle pas à papa comme ça.
+
+58
+00:04:56,083 --> 00:04:57,458
+"Ne dis pas ça à papa."
+
+59
+00:04:57,625 --> 00:05:00,333
+Attends. Tu es vraiment sûre
+que c'est moi, le père ?
+
+60
+00:05:03,583 --> 00:05:04,708
+Non.
+
+61
+00:05:05,042 --> 00:05:06,292
+- Essaie de comprendre...
+- Oh, ouah !
+
+62
+00:05:06,458 --> 00:05:07,667
+Quand elle viendra au monde,
+
+63
+00:05:07,833 --> 00:05:10,833
+si elle commence à agir en idiote,
+tu sauras que c'est la tienne.
+
+64
+00:05:11,000 --> 00:05:12,458
+- Bon sang !
+- Je plaisante.
+
+65
+00:05:12,625 --> 00:05:14,125
+- Non, tu sais quoi ? Ça va.
+- Je plaisante.
+
+66
+00:05:14,292 --> 00:05:16,167
+- Je vais m'en aller.
+- Je plaisante. Pardon.
+
+67
+00:05:16,333 --> 00:05:17,875
+- Non, je suis blessé.
+- Je fais des blagues.
+
+68
+00:05:18,042 --> 00:05:19,708
+- Je me sens mal...
+- Chut.
+
+69
+00:05:19,875 --> 00:05:21,708
+Je ne sais pas si je peux continuer.
+
+70
+00:06:13,333 --> 00:06:14,583
+Que se passe-t-il ?
+
+71
+00:06:17,542 --> 00:06:18,875
+Nous avons trouvé un Américain.
+
+72
+00:06:25,417 --> 00:06:26,667
+Qui vous a dit où nous étions ?
+
+73
+00:06:28,375 --> 00:06:29,500
+- Harun.
+- Oh, pitié.
+
+74
+00:06:29,667 --> 00:06:33,167
+Mon frère, ils nous ont trouvés.
+On n'a pas été assez prudents.
+
+75
+00:06:38,417 --> 00:06:40,875
+Merde, <i>Nomad </i>approche. Allez.
+
+76
+00:06:41,042 --> 00:06:42,125
+Il faut y aller !
+
+77
+00:06:42,292 --> 00:06:43,625
+Tous aux bateaux. Dépêchez-vous !
+
+78
+00:06:45,333 --> 00:06:46,833
+Les Américains arrivent.
+Les Américains...
+
+79
+00:06:47,625 --> 00:06:49,333
+Allez, allez ! Aux bateaux.
+
+80
+00:06:50,333 --> 00:06:51,917
+- Joshua.
+- Non, pitié.
+
+81
+00:06:55,875 --> 00:06:57,000
+Maya, il nous a vus.
+
+82
+00:06:57,792 --> 00:07:00,125
+On peut l'emmener avec nous.
+Comme otage.
+
+83
+00:07:01,250 --> 00:07:03,208
+- Pitié.
+- Prends tes affaires.
+
+84
+00:07:07,125 --> 00:07:08,958
+Pitié. Ne faites pas ça.
+
+85
+00:07:09,708 --> 00:07:10,542
+Pitié.
+
+86
+00:07:12,542 --> 00:07:14,042
+Drew, qu'est-ce que tu fous ici ?
+
+87
+00:07:14,333 --> 00:07:15,542
+Tu vas tout faire foirer.
+
+88
+00:07:15,708 --> 00:07:17,333
+Tu devais me donner plus de temps.
+
+89
+00:07:17,500 --> 00:07:20,083
+J'ai des ordres. Je dois tuer Nirmata.
+
+90
+00:07:20,250 --> 00:07:21,917
+Nirmata n'est pas ici.
+
+91
+00:07:22,083 --> 00:07:23,250
+Tu m'entends ?
+Nirmata n'est pas ici.
+
+92
+00:07:23,417 --> 00:07:24,833
+<i>En position d'attaque.</i>
+
+93
+00:07:28,708 --> 00:07:30,125
+Dans la maison. Maintenant !
+
+94
+00:07:32,250 --> 00:07:33,333
+- Allez !
+- Allez, allez !
+
+95
+00:07:36,917 --> 00:07:37,750
+Ici le sergent Taylor.
+
+96
+00:07:38,083 --> 00:07:39,708
+Annulez le raid, bon sang !
+
+97
+00:07:39,875 --> 00:07:40,708
+Nirmata n'est pas ici.
+
+98
+00:07:40,875 --> 00:07:42,833
+<i>On approche de Nirmata !
+Près de la chambre d'invités.</i>
+
+99
+00:07:43,000 --> 00:07:45,292
+Écoutez, je suis en mission
+d'infiltration, annulez le raid.
+
+100
+00:07:54,083 --> 00:07:57,625
+Tu m'avais dit que c'était fini.
+Tu me l'avais promis.
+
+101
+00:07:59,667 --> 00:08:02,583
+Crois-moi, ce n'est pas toi
+qu'ils veulent, c'est Nirmata.
+
+102
+00:08:04,125 --> 00:08:06,500
+Allons-nous-en. Viens, allez.
+
+103
+00:08:11,542 --> 00:08:12,583
+Maya.
+
+104
+00:08:13,792 --> 00:08:14,833
+Du calme.
+
+105
+00:08:15,667 --> 00:08:16,667
+Je t'aime.
+
+106
+00:08:18,125 --> 00:08:20,042
+Je ne pourrais jamais te faire de mal.
+
+107
+00:08:20,708 --> 00:08:22,083
+Bon sang,
+
+108
+00:08:22,750 --> 00:08:23,792
+tu es tout ce que j'ai.
+
+109
+00:08:25,458 --> 00:08:27,917
+Je t'en prie. Il faut partir.
+
+110
+00:08:28,083 --> 00:08:29,375
+Et les autres ?
+
+111
+00:08:29,542 --> 00:08:31,125
+Que veux-tu dire ?
+
+112
+00:08:31,542 --> 00:08:32,707
+C'est ma famille.
+
+113
+00:08:32,875 --> 00:08:33,707
+Ce ne sont pas des gens.
+
+114
+00:08:35,292 --> 00:08:36,500
+Ils ne sont pas réels !
+
+115
+00:08:36,667 --> 00:08:39,167
+Ça, c'est réel. Toi et moi,
+c'est réel. Notre amour est réel.
+
+116
+00:08:39,332 --> 00:08:40,917
+Ce bébé est réel !
+
+117
+00:08:42,457 --> 00:08:43,582
+Non.
+
+118
+00:08:45,125 --> 00:08:46,125
+Ce...
+
+119
+00:08:47,958 --> 00:08:49,792
+Ce n'est pas réel.
+
+120
+00:08:49,958 --> 00:08:50,875
+Maya, tu ne le penses pas.
+
+121
+00:08:51,333 --> 00:08:52,333
+Je t'en prie.
+
+122
+00:08:53,125 --> 00:08:53,958
+- Sergent Taylor !
+- Maya !
+
+123
+00:08:54,125 --> 00:08:56,208
+- Non !
+- Allons-y !
+
+124
+00:08:56,375 --> 00:08:59,250
+- Allez. On y va !
+- Maya ! Maya.
+
+125
+00:09:10,125 --> 00:09:11,625
+Maya !
+
+126
+00:09:14,542 --> 00:09:15,542
+Maya !
+
+127
+00:09:19,125 --> 00:09:20,167
+Maya !
+
+128
+00:09:24,000 --> 00:09:26,792
+<i>Nomad ! Nomad !</i> Maya ! Maya !
+
+129
+00:09:35,625 --> 00:09:38,167
+Non ! Non !
+
+130
+00:09:44,333 --> 00:09:45,333
+Maya !
+
+131
+00:09:50,542 --> 00:09:56,500
+LE CRÉATEUR
+
+132
+00:10:03,292 --> 00:10:05,250
+{\an8}CINQ ANS PLUS TARD
+
+133
+00:10:05,417 --> 00:10:06,417
+{\an8}Non.
+
+134
+00:10:13,083 --> 00:10:15,125
+Éteindre. Éteindre.
+
+135
+00:10:15,292 --> 00:10:18,750
+<i>La chasse à l'homme continue
+dans le sud-est de la Nouvelle-Asie</i>
+
+136
+00:10:18,917 --> 00:10:23,625
+<i>pour trouver le mystérieux concepteur
+d'IA connu sous le nom de Nirmata.</i>
+
+137
+00:10:23,792 --> 00:10:26,708
+<i>L'armée américaine étend
+ses recherches en Nouvelle-Asie,</i>
+
+138
+00:10:26,875 --> 00:10:28,042
+<i>mais Nirmata demeure introuvable.</i>
+
+139
+00:10:28,208 --> 00:10:29,792
+<i>Je vais bien.</i>
+
+140
+00:10:30,083 --> 00:10:32,708
+<i>Je me repose, je me divertis,</i>
+
+141
+00:10:32,875 --> 00:10:36,167
+<i>je mange, je dors,
+je vais travailler et je recommence.</i>
+
+142
+00:10:36,333 --> 00:10:37,833
+<i>Et les maux de tête ?</i>
+
+143
+00:10:38,167 --> 00:10:39,708
+Les cauchemars ?
+
+144
+00:10:41,458 --> 00:10:42,417
+Je n'en ai plus.
+
+145
+00:10:42,583 --> 00:10:43,417
+JOSHUA
+VRAI
+
+146
+00:10:43,583 --> 00:10:44,417
+FAUX
+
+147
+00:10:46,042 --> 00:10:47,250
+Et votre mémoire ?
+
+148
+00:10:47,417 --> 00:10:48,333
+D'autres souvenirs
+
+149
+00:10:48,500 --> 00:10:50,292
+de votre mission d'infiltration ?
+
+150
+00:10:50,667 --> 00:10:52,000
+Comme l'emplacement de Nirmata.
+
+151
+00:10:54,875 --> 00:10:55,708
+Rien de nouveau.
+
+152
+00:10:56,042 --> 00:10:57,000
+VRAI
+
+153
+00:10:58,583 --> 00:11:00,417
+Je me rappelle
+seulement l'exfiltration.
+
+154
+00:11:00,583 --> 00:11:03,958
+<i>Le raid des forces spéciales.
+L'attaque de missile de </i>Nomad.
+
+155
+00:11:05,417 --> 00:11:06,708
+La mort de votre source.
+
+156
+00:11:08,917 --> 00:11:09,917
+De ma femme.
+
+157
+00:11:11,708 --> 00:11:14,333
+On était mariés,
+ma source et moi, mais...
+
+158
+00:11:26,792 --> 00:11:30,083
+Non. Je n'ai rien de plus.
+
+159
+00:11:32,000 --> 00:11:33,792
+<i>Et au travail, tout va bien ?</i>
+
+160
+00:11:35,958 --> 00:11:38,958
+<i>Merci de participer
+à la décontamination de Los Angeles.</i>
+
+161
+00:11:39,125 --> 00:11:41,333
+{\an8}<i>Les niveaux de radioactivité sont
+plus faibles que jamais</i>
+
+162
+00:11:41,500 --> 00:11:44,417
+{\an8}<i>grâce au dévouement
+et au travail acharné de notre équipe.</i>
+
+163
+00:11:44,583 --> 00:11:45,958
+{\an8}SURFACE ZÉRO LOS ANGELES
+
+164
+00:11:52,667 --> 00:11:54,042
+<i>Oh, merde.</i>
+
+165
+00:11:58,000 --> 00:11:59,000
+<i>Bon.</i>
+
+166
+00:12:00,208 --> 00:12:01,458
+<i>J'ai vu une vidéo qui disait</i>
+
+167
+00:12:02,375 --> 00:12:03,208
+<i>que les robots</i>
+
+168
+00:12:03,375 --> 00:12:05,417
+<i>nous avaient attaqués
+pour nous enlever notre travail.</i>
+
+169
+00:12:05,583 --> 00:12:06,708
+<i>Qu'ils le prennent, ce travail.</i>
+
+170
+00:12:09,875 --> 00:12:11,000
+<i>Tu détectes quelque chose ?</i>
+
+171
+00:12:11,167 --> 00:12:12,625
+<i>Hmm ? Non.</i>
+
+172
+00:12:12,792 --> 00:12:13,792
+<i>Et maintenant ?</i>
+
+173
+00:12:15,500 --> 00:12:16,583
+<i>Toujours rien.</i>
+
+174
+00:12:16,750 --> 00:12:18,583
+<i>Chef, vous voyez quelque chose
+sur le canal six ?</i>
+
+175
+00:12:19,000 --> 00:12:20,583
+- Non !
+<i>- Merde ! Mon Dieu !</i>
+
+176
+00:12:20,958 --> 00:12:22,167
+Où est l'enfant qui était avec moi ?
+
+177
+00:12:22,333 --> 00:12:23,792
+- Où est-elle ?
+<i>- Tu peux m'aider ?</i>
+
+178
+00:12:23,958 --> 00:12:25,625
+- L'enfant, où est-elle ?
+<i>- Éloigne-le de moi !</i>
+
+179
+00:12:25,792 --> 00:12:27,250
+Elle a besoin de mon aide !
+
+180
+00:12:27,417 --> 00:12:29,583
+<i>- Chef, on a un 11-4-4.
+</i>- Elle s'appelle Amy ! Elle va bien ?
+
+181
+00:12:29,750 --> 00:12:30,583
+<i>- Oui...
+</i>- L'enfant !
+
+182
+00:12:30,750 --> 00:12:31,792
+<i>- Hé !
+</i>- Amy !
+
+183
+00:12:31,958 --> 00:12:34,125
+Amy ! Non, non ! S'il vous plaît...
+
+184
+00:12:34,292 --> 00:12:36,292
+- Ne faites pas ça, non.
+<i>- Arrête.</i>
+
+185
+00:12:36,583 --> 00:12:38,292
+Amy !
+
+186
+00:12:38,833 --> 00:12:39,667
+<i>Chef, vous me recevez ?</i>
+
+187
+00:12:39,833 --> 00:12:41,667
+<i>Oui, bien reçu, Taylor.
+Il est désactivé.</i>
+
+188
+00:12:42,208 --> 00:12:43,708
+<i>- On aurait dit une vraie personne.
+- Non.</i>
+
+189
+00:12:43,875 --> 00:12:44,708
+<i>- Il était...
+- Du calme.</i>
+
+190
+00:12:44,875 --> 00:12:46,333
+<i>- Il semblait réel !
+- Harrison !</i>
+
+191
+00:12:46,500 --> 00:12:48,292
+<i>C'était quoi, bordel !
+Il avait l'air réel !</i>
+
+192
+00:12:48,458 --> 00:12:49,500
+<i>Ils ne sont pas réels.</i>
+
+193
+00:12:51,750 --> 00:12:52,833
+<i>Ils ne ressentent rien.</i>
+
+194
+00:12:54,167 --> 00:12:55,292
+<i>Ils sont programmés.</i>
+
+195
+00:13:00,250 --> 00:13:02,583
+<i>Préparez le niveau deux
+pour le traitement thermique.</i>
+
+196
+00:13:05,375 --> 00:13:07,833
+<i>Équipe sept-cinq,
+commencez le processus de recyclage.</i>
+
+197
+00:13:12,667 --> 00:13:13,667
+{\an8}NOMAD : L'ESPOIR DE L'HUMANITÉ
+
+198
+00:13:13,833 --> 00:13:15,292
+{\an8}RASSEMBLEMENT À LA SURFACE ZÉRO
+
+199
+00:13:15,458 --> 00:13:18,292
+{\an8}POUR COMMÉMORER
+LE 15e ANNIVERSAIRE DE
+
+200
+00:13:18,458 --> 00:13:21,917
+{\an8}<i>Quinze ans après l'explosion nucléaire
+de Los Angeles</i>
+
+201
+00:13:22,083 --> 00:13:25,417
+{\an8}<i>qui a déclenché la guerre
+entre l'Occident et l'IA,</i>
+
+202
+00:13:25,583 --> 00:13:27,625
+{\an8}<i>la station militaire Nomad,
+qui vaut plusieurs milliards,</i>
+
+203
+00:13:27,708 --> 00:13:30,375
+{\an8}<i>aidera enfin l'Occident
+à gagner la guerre</i>
+
+204
+00:13:30,542 --> 00:13:34,375
+{\an8}<i>en s'imposant au-dessus des champs
+de bataille de la Nouvelle-Asie,</i>
+
+205
+00:13:34,542 --> 00:13:36,125
+<i>où les robots refusent
+toujours de céder.</i>
+
+206
+00:13:36,292 --> 00:13:38,000
+<i>Il faut reconnaître la douleur</i>
+
+207
+00:13:38,167 --> 00:13:40,750
+<i>- et le chagrin de tous.
+- Salut !</i>
+
+208
+00:13:40,917 --> 00:13:43,417
+<i>- Les enfants qui ont tout perdu.
+- Salut !</i>
+
+209
+00:13:44,250 --> 00:13:45,792
+- Je me souviens de de ça.
+<i>- Salut !</i>
+
+210
+00:13:47,917 --> 00:13:49,583
+<i>Hé ! Salut !</i>
+
+211
+00:13:50,625 --> 00:13:51,833
+<i>Tu en as vu de toutes les couleurs.</i>
+
+212
+00:13:54,292 --> 00:13:55,292
+Comment tu t'es fait ça ?
+
+213
+00:13:57,250 --> 00:13:58,333
+L'explosion de Los Angeles.
+
+214
+00:14:00,042 --> 00:14:01,042
+Tu as perdu des proches ?
+
+215
+00:14:03,458 --> 00:14:06,917
+J'ai perdu ma famille.
+Ma mère, mon père et mon frère.
+
+216
+00:14:10,250 --> 00:14:11,250
+Navrée.
+
+217
+00:14:12,125 --> 00:14:15,000
+Ils étaient au cœur de l'explosion.
+Ils n'ont pas souffert.
+
+218
+00:14:15,583 --> 00:14:17,042
+C'est toujours ça.
+
+219
+00:14:17,208 --> 00:14:18,250
+D'accord. Serre-moi la main.
+
+220
+00:14:23,042 --> 00:14:24,042
+Tu peux relâcher, maintenant.
+
+221
+00:14:24,708 --> 00:14:28,000
+Quoi, ma main ? D'accord.
+
+222
+00:14:28,167 --> 00:14:31,500
+Et de un... Non, c'est coincé.
+
+223
+00:14:32,750 --> 00:14:33,792
+Je vais essayer un autre angle.
+
+224
+00:14:34,875 --> 00:14:36,000
+Si j'essaie un autre angle...
+
+225
+00:15:11,500 --> 00:15:12,583
+Sergent Taylor.
+
+226
+00:15:13,833 --> 00:15:15,750
+Je suis le général Andrews.
+Voici la colonelle Howell.
+
+227
+00:15:16,792 --> 00:15:17,792
+Non.
+
+228
+00:15:19,750 --> 00:15:20,875
+Non, quoi, fiston ?
+
+229
+00:15:21,042 --> 00:15:22,542
+Peu importe ce que vous voulez.
+
+230
+00:15:23,250 --> 00:15:25,458
+On me demande sans cesse
+si je me rappelle quelque chose.
+
+231
+00:15:26,750 --> 00:15:28,083
+Non. Je ne me souviens de rien.
+
+232
+00:15:37,833 --> 00:15:39,333
+Il y a quelque chose
+que vous devez voir.
+
+233
+00:15:41,667 --> 00:15:43,958
+Nous avons localisé
+le laboratoire de Nirmata.
+
+234
+00:15:44,125 --> 00:15:46,292
+Il se trouve dans la région
+où vous étiez en mission.
+
+235
+00:15:46,458 --> 00:15:50,042
+Nos sources nous indiquent que Nirmata
+a développé une arme ultrapuissante
+
+236
+00:15:50,208 --> 00:15:51,458
+appelée Alpha-O.
+
+237
+00:15:53,500 --> 00:15:55,250
+Une arme conçue pour détruire <i>Nomad.</i>
+
+238
+00:15:56,292 --> 00:15:58,375
+Vraiment désolé pour vous, alors.
+
+239
+00:15:58,542 --> 00:16:02,417
+L'homme de Neandertal a
+mauvaise réputation.
+
+240
+00:16:03,500 --> 00:16:06,333
+C'est vrai, on parle de lui
+comme s'il était stupide,
+
+241
+00:16:06,500 --> 00:16:09,625
+mais cette espèce créait
+ses propres outils et vêtements,
+
+242
+00:16:09,792 --> 00:16:12,542
+sans oublier ses remèdes
+à base de plantes. Même de l'art.
+
+243
+00:16:12,708 --> 00:16:15,042
+Des colliers de fleurs
+pour enterrer leurs morts.
+
+244
+00:16:16,000 --> 00:16:20,750
+Leur seul problème a été l'apparition
+d'une espèce plus brillante et féroce.
+
+245
+00:16:20,917 --> 00:16:21,875
+La nôtre.
+
+246
+00:16:22,708 --> 00:16:25,292
+Et nous avons violé et assassiné
+cette espèce jusqu'à l'extinction.
+
+247
+00:16:26,917 --> 00:16:28,375
+Vous comprenez
+où je veux en venir, Taylor ?
+
+248
+00:16:29,292 --> 00:16:32,375
+Il a fallu près d'une décennie
+pour construire <i>Nomad,</i>
+
+249
+00:16:32,542 --> 00:16:34,833
+alors c'est notre dernière chance
+de gagner la guerre.
+
+250
+00:16:36,208 --> 00:16:39,875
+S'ils parviennent à activer Alpha-O
+et à l'utiliser pour détruire <i>Nomad,</i>
+
+251
+00:16:40,042 --> 00:16:40,958
+ils gagnent.
+
+252
+00:16:41,625 --> 00:16:43,167
+Et nous disparaissons.
+
+253
+00:16:44,875 --> 00:16:47,125
+Vous êtes le seul
+à connaître les plans de ce labo.
+
+254
+00:16:48,417 --> 00:16:49,667
+Vous pouvez peut-être nous aider.
+
+255
+00:16:58,417 --> 00:17:01,542
+Vous savez que j'étais
+sur le point de trouver Nirmata ?
+
+256
+00:17:01,750 --> 00:17:03,958
+À quel point j'étais proche
+de tuer ce salaud ?
+
+257
+00:17:04,125 --> 00:17:08,000
+Et à quel point vous avez tout gâché
+avec la frappe de missile de <i>Nomad ?</i>
+
+258
+00:17:08,166 --> 00:17:09,291
+- Sergent.
+- Je me souviens de ça.
+
+259
+00:17:09,458 --> 00:17:12,250
+J'ai perdu ma femme ce soir-là,
+général, sauf votre respect.
+
+260
+00:17:13,375 --> 00:17:15,166
+J'ai perdu quelqu'un
+de très cher à mes yeux.
+
+261
+00:17:18,791 --> 00:17:20,250
+J'ai aussi perdu mon enfant.
+
+262
+00:17:23,458 --> 00:17:25,416
+Alors je me fous complètement
+que notre race disparaisse.
+
+263
+00:17:29,125 --> 00:17:30,750
+Je retourne regarder la télé.
+
+264
+00:17:42,917 --> 00:17:43,917
+<i>Hé !</i>
+
+265
+00:17:49,083 --> 00:17:50,083
+<i>Attendez.</i>
+
+266
+00:17:50,250 --> 00:17:52,667
+<i>On est près de la plage,
+on devrait s'arrêter ici.</i>
+
+267
+00:17:54,333 --> 00:17:55,167
+<i>D'accord.</i>
+
+268
+00:17:55,333 --> 00:17:56,333
+Maya ?
+
+269
+00:17:58,792 --> 00:17:59,917
+C'est impossible.
+
+270
+00:18:01,292 --> 00:18:03,667
+Ces images ont été captées
+il y a deux jours.
+
+271
+00:18:03,833 --> 00:18:06,292
+Les tests d'authentification
+confirment qu'elle est humaine.
+
+272
+00:18:08,042 --> 00:18:09,500
+Reconnaissez-vous cet endroit ?
+
+273
+00:18:10,875 --> 00:18:11,875
+Sergent Taylor...
+
+274
+00:18:13,458 --> 00:18:15,458
+- Joshua.
+<i>- Allez, on y va.</i>
+
+275
+00:18:15,625 --> 00:18:19,292
+Mes ordres sont
+de détruire l'arme et le laboratoire.
+
+276
+00:18:19,458 --> 00:18:22,167
+Tous ceux
+qui s'y trouvent seront tués,
+
+277
+00:18:22,333 --> 00:18:25,042
+mais si vous vous souvenez assez
+de l'endroit pour venir avec nous
+
+278
+00:18:25,208 --> 00:18:27,875
+et guider mon équipe, je vous promets
+
+279
+00:18:28,042 --> 00:18:30,083
+- de ramener cette femme en vie.
+<i>- Allez, vite.</i>
+
+280
+00:18:31,917 --> 00:18:32,833
+<i>Oh, allons.</i>
+
+281
+00:18:33,000 --> 00:18:34,458
+Départ demain à 6 h.
+
+282
+00:18:49,958 --> 00:18:51,667
+Bon, du calme.
+
+283
+00:18:51,833 --> 00:18:54,042
+On est de retour en Nouvelle-Asie.
+
+284
+00:18:54,208 --> 00:18:56,083
+On a réussi à localiser le labo.
+
+285
+00:18:56,875 --> 00:18:58,708
+Comme vous pouvez le constater,
+il est loin derrière
+
+286
+00:18:58,875 --> 00:18:59,792
+les lignes ennemies.
+
+287
+00:18:59,958 --> 00:19:00,792
+NOUVELLE-ASIE
+
+288
+00:19:00,958 --> 00:19:03,708
+Notre base la plus proche est
+à 650 kilomètres de là.
+
+289
+00:19:03,875 --> 00:19:04,917
+Ici, ils se fichent de L.A.
+
+290
+00:19:05,083 --> 00:19:05,917
+BASE DU LABO
+
+291
+00:19:06,458 --> 00:19:08,208
+Les humains de la région,
+y compris la police,
+
+292
+00:19:08,375 --> 00:19:09,583
+collaborent tous avec l'IA.
+
+293
+00:19:09,750 --> 00:19:13,292
+Robots, humains, simulants,
+tout le monde nous déteste.
+
+294
+00:19:13,458 --> 00:19:14,542
+Si vous vous faites prendre,
+
+295
+00:19:15,375 --> 00:19:16,417
+vous êtes foutus.
+
+296
+00:19:17,333 --> 00:19:18,250
+Ne vous faites pas prendre.
+
+297
+00:19:19,333 --> 00:19:21,583
+Le sergent Taylor connaît
+la structure du labo.
+
+298
+00:19:21,750 --> 00:19:23,167
+Il va nous guider.
+
+299
+00:19:23,750 --> 00:19:25,042
+Notre mission est de trouver
+
+300
+00:19:25,208 --> 00:19:27,167
+l'arme appelée Alpha-O.
+
+301
+00:19:27,333 --> 00:19:30,417
+Puis, à notre signal, <i>Nomad </i>va larguer
+un missile sur le labo.
+
+302
+00:19:31,500 --> 00:19:32,625
+Oui.
+
+303
+00:19:32,792 --> 00:19:33,750
+Rompez.
+
+304
+00:19:34,083 --> 00:19:36,375
+- C'est à moi.
+- C'est génial !
+
+305
+00:19:38,292 --> 00:19:39,917
+Tant que je peux les tuer après.
+
+306
+00:19:45,500 --> 00:19:46,500
+C'est votre femme ?
+
+307
+00:19:49,875 --> 00:19:51,750
+Je serais prêt à tout
+pour la revoir juste une minute.
+
+308
+00:19:53,875 --> 00:19:56,250
+- Ça va.
+- Je comprends.
+
+309
+00:19:56,417 --> 00:20:00,250
+J'ai perdu mes deux fils
+dans cette guerre.
+
+310
+00:20:00,417 --> 00:20:02,208
+C'est vraiment la crème...
+
+311
+00:20:02,375 --> 00:20:05,417
+Le pire, c'est qu'ils se sont enrôlés
+à cause de moi.
+
+312
+00:20:06,125 --> 00:20:08,125
+L'un d'eux est tombé amoureux
+d'une simulante à Hua Hin.
+
+313
+00:20:08,292 --> 00:20:09,542
+- Vous le croyez ?
+- Daniels !
+
+314
+00:20:09,708 --> 00:20:11,958
+Une barmaid dans un resto
+près de la base.
+
+315
+00:20:13,042 --> 00:20:14,292
+Elle lui a dit qu'elle l'aimait.
+
+316
+00:20:15,625 --> 00:20:17,875
+Il a voulu racheter son contrat,
+sauf qu'en fin de compte,
+
+317
+00:20:18,042 --> 00:20:20,750
+c'était un piège. Oui.
+
+318
+00:20:20,917 --> 00:20:21,917
+Bien sûr.
+
+319
+00:20:23,750 --> 00:20:26,667
+Elle et sa bande de rebelles
+lui ont fait subir une mort horrible.
+
+320
+00:20:28,708 --> 00:20:31,417
+Oui. C'est une
+de leurs lignes de défense.
+
+321
+00:20:32,958 --> 00:20:35,917
+Quoi qu'il en soit, j'espère
+que vous trouverez votre femme.
+
+322
+00:20:46,500 --> 00:20:47,625
+Écho un à <i>Nomad.</i>
+
+323
+00:20:47,792 --> 00:20:49,000
+L'oiseau quitte le nid.
+
+324
+00:21:45,833 --> 00:21:48,208
+- Allez, allez, allez !
+- Allez, allez, allez !
+
+325
+00:21:48,375 --> 00:21:50,833
+Allez ! Allez ! On y va ! On se dépêche !
+
+326
+00:21:53,125 --> 00:21:54,125
+Allez, allez !
+
+327
+00:21:59,792 --> 00:22:00,792
+- Au sol.
+- Au sol.
+
+328
+00:22:03,042 --> 00:22:04,208
+On remonte.
+
+329
+00:22:27,167 --> 00:22:28,458
+Bon sang.
+
+330
+00:22:29,500 --> 00:22:31,042
+- C'est quoi, ça ?
+- Où allons-nous ?
+
+331
+00:22:31,208 --> 00:22:32,958
+Ce n'est pas un labo,
+c'est un bidonville.
+
+332
+00:22:42,083 --> 00:22:42,958
+Il était pourtant là.
+
+333
+00:22:43,625 --> 00:22:44,458
+Merde.
+
+334
+00:22:44,625 --> 00:22:46,625
+Ils ont construit un village
+par-dessus.
+
+335
+00:22:46,792 --> 00:22:48,167
+Bordel.
+
+336
+00:22:49,500 --> 00:22:50,500
+Wô !
+
+337
+00:22:53,708 --> 00:22:55,083
+Où est le labo ?
+
+338
+00:22:55,250 --> 00:22:57,042
+Où vous cachez vos amis, les robots ?
+
+339
+00:22:57,833 --> 00:23:00,958
+Qui va se décider à parler ?
+Où est l'entrée ?
+
+340
+00:23:01,125 --> 00:23:02,708
+Pourquoi vous les protégez ?
+
+341
+00:23:02,875 --> 00:23:05,000
+Ça va.
+
+342
+00:23:05,167 --> 00:23:06,417
+Vous avez honte d'être des humains ?
+
+343
+00:23:07,083 --> 00:23:08,917
+Je vais vous expliquer
+ce qui va se passer.
+
+344
+00:23:12,125 --> 00:23:13,708
+Vous voyez ce beau petit chien ?
+
+345
+00:23:14,458 --> 00:23:17,208
+- Voilà.
+- Non. Non.
+
+346
+00:23:17,417 --> 00:23:18,750
+Il est à toi ?
+
+347
+00:23:20,417 --> 00:23:22,333
+Où est l'entrée ? Parle !
+
+348
+00:23:24,542 --> 00:23:25,750
+<i>Nous sommes de simples fermiers.</i>
+
+349
+00:23:25,917 --> 00:23:27,208
+Arrêtez vos conneries.
+
+350
+00:23:28,292 --> 00:23:30,042
+Trois. Tu comprends ça ?
+
+351
+00:23:30,208 --> 00:23:31,375
+Réponds-moi.
+
+352
+00:23:32,958 --> 00:23:34,292
+Deux.
+
+353
+00:23:35,417 --> 00:23:36,833
+Un.
+
+354
+00:23:37,000 --> 00:23:39,875
+Tu sais ce que ça veut dire,
+un, deux, trois ? Où est l'entrée ?
+
+355
+00:23:40,042 --> 00:23:42,500
+Dis-moi où est l'entrée !
+Je veux une réponse !
+
+356
+00:23:42,667 --> 00:23:44,167
+- Vous cachez quoi ?
+- Je veux une réponse !
+
+357
+00:23:45,208 --> 00:23:47,833
+Arrête de pleurnicher !
+
+358
+00:23:48,000 --> 00:23:50,167
+- Donnez-moi une réponse.
+- Regardez-moi !
+
+359
+00:23:50,500 --> 00:23:51,417
+Capitaine !
+
+360
+00:23:52,042 --> 00:23:53,042
+Capitaine ! Capitaine !
+
+361
+00:24:00,333 --> 00:24:04,042
+McBride, Hardwick, restez ici.
+Tous les autres, venez avec moi.
+
+362
+00:24:04,208 --> 00:24:05,917
+Ce n'était pas si difficile, hein ?
+
+363
+00:24:09,542 --> 00:24:11,500
+- On y est.
+<i>- Bien reçu.</i>
+
+364
+00:24:11,667 --> 00:24:14,833
+On vient vous récupérer
+dans trente minutes.
+
+365
+00:24:18,208 --> 00:24:20,167
+Allez. On y va.
+
+366
+00:24:20,333 --> 00:24:23,208
+Maintiens la communication !
+
+367
+00:24:23,375 --> 00:24:24,792
+Bien reçu, Cotton.
+
+368
+00:24:24,958 --> 00:24:26,708
+Ces robots, en bas,
+
+369
+00:24:27,167 --> 00:24:28,750
+ils ont plus de cœur que vous.
+
+370
+00:24:30,417 --> 00:24:32,542
+Vous ne vaincrez pas les IA.
+
+371
+00:24:32,917 --> 00:24:35,583
+C'est le sens de l'évolution.
+
+372
+00:24:38,250 --> 00:24:40,167
+Où est-ce qu'on va, Taylor ?
+
+373
+00:24:41,292 --> 00:24:42,833
+Si je meurs à cause de lui,
+il va m'entendre.
+
+374
+00:24:45,000 --> 00:24:47,167
+Allez, Taylor, par où ?
+
+375
+00:24:47,833 --> 00:24:48,667
+Par là.
+
+376
+00:25:13,292 --> 00:25:15,167
+J'ai trouvé ! J'ai localisé l'arme.
+
+377
+00:25:15,333 --> 00:25:17,000
+Allez, vite !
+
+378
+00:25:17,375 --> 00:25:20,333
+Merde. Allez.
+
+379
+00:25:29,208 --> 00:25:30,042
+Maya.
+
+380
+00:25:57,083 --> 00:25:58,792
+Retenez la porte ! La porte !
+
+381
+00:26:01,167 --> 00:26:02,167
+Merde !
+
+382
+00:26:05,375 --> 00:26:07,375
+Shipley, on doit ouvrir cette porte.
+
+383
+00:26:11,500 --> 00:26:14,875
+Merde. Tout le monde,
+la fête est finie, la police est là.
+
+384
+00:26:15,042 --> 00:26:16,875
+Ouvrez cette foutue porte !
+
+385
+00:26:21,958 --> 00:26:25,958
+<i>Possédez-vous sexuellement.
+Faites aussi l'amour à votre mère.</i>
+
+386
+00:26:28,542 --> 00:26:30,833
+Il n'y a aucun autre accès.
+C'est le seul passage.
+
+387
+00:26:31,458 --> 00:26:33,917
+Colonelle, il y a un autre moyen
+d'accéder à la chambre forte ?
+
+388
+00:26:34,083 --> 00:26:35,125
+<i>Négatif, capitaine.</i>
+
+389
+00:26:35,292 --> 00:26:37,833
+La plupart des portes s'ouvrent
+grâce à la reconnaissance faciale.
+
+390
+00:26:41,375 --> 00:26:43,542
+Alors, il suffit de trouver un visage.
+
+391
+00:26:57,500 --> 00:26:58,333
+<i>Ici la police.</i>
+
+392
+00:26:59,208 --> 00:27:00,833
+<i>Vous êtes en état d'arrestation.</i>
+
+393
+00:27:01,000 --> 00:27:02,292
+<i>Déposez vos armes.</i>
+
+394
+00:27:06,417 --> 00:27:08,917
+J'ai fait sauter les boîtes
+de conserve. Grouillez-vous.
+
+395
+00:27:17,042 --> 00:27:19,458
+Ils ont peur que quelqu'un entre là.
+
+396
+00:27:21,125 --> 00:27:22,417
+Ou que quelque chose en sorte.
+
+397
+00:27:23,083 --> 00:27:24,250
+Il doit y avoir un moyen d'entrer.
+
+398
+00:27:24,917 --> 00:27:26,667
+Dispersez-vous. Il faut trouver.
+
+399
+00:27:31,458 --> 00:27:32,292
+<i>Par ici.</i>
+
+400
+00:27:33,250 --> 00:27:34,083
+C'est un code numérique.
+
+401
+00:27:34,958 --> 00:27:36,292
+<i>Les gars, on a de la compagnie.</i>
+
+402
+00:27:36,458 --> 00:27:39,042
+Oui, j'ai ce qu'il faut.
+
+403
+00:27:41,125 --> 00:27:42,125
+D'accord.
+
+404
+00:27:46,625 --> 00:27:47,958
+Tout le monde...
+
+405
+00:27:48,125 --> 00:27:49,208
+<i>J'ai besoin de renfort, vite !</i>
+
+406
+00:27:49,375 --> 00:27:51,042
+D'accord. Shipley, Taylor,
+
+407
+00:27:51,958 --> 00:27:52,833
+ouvrez cette porte
+
+408
+00:27:53,000 --> 00:27:54,333
+et récupérez l'arme. Daniels,
+
+409
+00:27:54,500 --> 00:27:55,667
+pose les balises de ciblage.
+
+410
+00:27:55,833 --> 00:27:57,292
+Tous les autres, suivez-moi.
+
+411
+00:27:58,375 --> 00:27:59,667
+Allez, on se dépêche.
+
+412
+00:28:03,250 --> 00:28:06,333
+Allez, allez, allez.
+
+413
+00:28:17,833 --> 00:28:19,542
+<i>Shipley, j'ai besoin d'aide
+tout de suite.</i>
+
+414
+00:28:20,458 --> 00:28:22,625
+<i>- Shipley ? Viens m'aider.
+</i>- Daniels ?
+
+415
+00:28:23,250 --> 00:28:24,250
+Daniels ?
+
+416
+00:28:25,917 --> 00:28:27,417
+<i>- Bordel.
+</i>- Merde.
+
+417
+00:28:29,250 --> 00:28:30,292
+Je vais aider Daniels.
+
+418
+00:28:31,333 --> 00:28:33,208
+Je serai de retour
+avant que la porte s'ouvre.
+
+419
+00:28:33,375 --> 00:28:34,583
+Tu n'entres pas sans moi.
+
+420
+00:28:35,417 --> 00:28:36,417
+Compris.
+
+421
+00:29:52,125 --> 00:29:52,958
+Maya ?
+
+422
+00:30:10,083 --> 00:30:12,667
+Pars !
+
+423
+00:30:12,833 --> 00:30:15,042
+Va rejoindre Nirmata !
+
+424
+00:30:15,667 --> 00:30:16,833
+Allez.
+
+425
+00:30:17,000 --> 00:30:19,000
+Va rejoindre Nirmata. Allez !
+
+426
+00:31:20,417 --> 00:31:22,417
+Est-ce que vous avez récupéré l'arme ?
+
+427
+00:31:22,583 --> 00:31:24,542
+Shipley et le nouveau
+devaient s'en charger,
+
+428
+00:31:24,708 --> 00:31:26,250
+mais la situation a viré au désastre !
+
+429
+00:31:26,417 --> 00:31:28,500
+Bon sang ! <i>Nomad </i>va bientôt tirer.
+
+430
+00:31:29,458 --> 00:31:31,375
+<i>Nomad,</i> retardez l'attaque.
+
+431
+00:31:31,542 --> 00:31:32,708
+Impossible d'éteindre les balises.
+
+432
+00:31:33,667 --> 00:31:37,833
+<i>Daniels ! Daniels, réponds !</i>
+
+433
+00:31:38,583 --> 00:31:39,583
+Merde !
+
+434
+00:31:39,750 --> 00:31:42,500
+Si je ne suis pas revenue
+dans trois minutes, décollez sans moi !
+
+435
+00:31:53,083 --> 00:31:54,417
+Maya ?
+
+436
+00:31:55,792 --> 00:31:58,333
+Maya ? Maya ?
+
+437
+00:32:01,167 --> 00:32:02,583
+Nomad <i>à l'unité au sol.</i>
+
+438
+00:32:02,750 --> 00:32:05,750
+<i>Évacuez immédiatement.
+Impact des missiles dans une minute.</i>
+
+439
+00:32:08,708 --> 00:32:11,167
+Fais-nous décoller tout de suite !
+
+440
+00:32:11,333 --> 00:32:14,333
+<i>Bradbury, on peut pas t'atteindre.
+Tu dois venir à nous.</i>
+
+441
+00:32:14,500 --> 00:32:15,500
+Je sais, je sais.
+
+442
+00:32:17,667 --> 00:32:19,625
+<i>Tout de suite. Vite ! Allez !</i>
+
+443
+00:32:20,500 --> 00:32:21,333
+Je vais y arriver.
+
+444
+00:32:24,833 --> 00:32:26,500
+Bradbury ! Allez !
+
+445
+00:32:26,667 --> 00:32:28,292
+Allez, allez, vas-y.
+
+446
+00:32:28,625 --> 00:32:29,958
+- Allez.
+- Bon Dieu...
+
+447
+00:32:30,125 --> 00:32:32,167
+- Tu vas y arriver. Allez.
+- Allez ! Vas-y. Debout !
+
+448
+00:32:32,333 --> 00:32:34,708
+Allez, allez ! Vite !
+
+449
+00:32:34,875 --> 00:32:36,125
+- Monte !
+- Allez, allez !
+
+450
+00:32:40,375 --> 00:32:41,958
+- Ça va ?
+- Oui.
+
+451
+00:32:42,583 --> 00:32:44,333
+<i>Nomad </i>va frapper
+d'une seconde à l'autre.
+
+452
+00:32:45,000 --> 00:32:45,833
+C'est quoi, ça ?
+
+453
+00:32:46,333 --> 00:32:48,167
+- Qu'est-ce que c'est ?
+- Une bombe !
+
+454
+00:32:48,333 --> 00:32:50,125
+- Un bombe.
+- Sur moi ?
+
+455
+00:32:50,417 --> 00:32:51,292
+Vite, enlève-la !
+
+456
+00:32:51,500 --> 00:32:52,792
+- J'essaie !
+- Enlevez-la.
+
+457
+00:32:52,958 --> 00:32:54,333
+Il faut l'enlever !
+
+458
+00:33:06,917 --> 00:33:08,250
+Merde !
+
+459
+00:33:50,417 --> 00:33:55,375
+L'ENFANT
+
+460
+00:34:15,167 --> 00:34:16,500
+Merde !
+
+461
+00:34:27,833 --> 00:34:29,708
+Merde !
+
+462
+00:34:33,125 --> 00:34:33,958
+Allez.
+
+463
+00:34:34,750 --> 00:34:36,667
+Allez. Fiche le camp.
+
+464
+00:34:39,583 --> 00:34:41,292
+Va-t'en ! Hors de ma vue !
+
+465
+00:34:42,333 --> 00:34:43,167
+Bizarre.
+
+466
+00:34:54,333 --> 00:34:55,583
+<i>Bravo un, quatre, cinq...</i>
+
+467
+00:34:59,625 --> 00:35:02,458
+<i>Heure d'arrivée du soutien aérien ?</i>
+
+468
+00:35:02,625 --> 00:35:06,125
+<i>Dans 10 minutes.</i>
+
+469
+00:35:06,875 --> 00:35:07,917
+<i>Ici Echo deux au sol.</i>
+
+470
+00:35:08,083 --> 00:35:11,667
+<i>Opération de surveillance 9354,
+en attente d'extraction.</i>
+
+471
+00:35:21,167 --> 00:35:22,167
+Allô !
+
+472
+00:35:23,833 --> 00:35:24,833
+Allô !
+
+473
+00:35:26,208 --> 00:35:27,208
+Est-ce que quelqu'un...
+
+474
+00:35:28,375 --> 00:35:32,750
+Bon sang. Où sont les autres !
+Mon Dieu !
+
+475
+00:35:36,542 --> 00:35:37,542
+Merde.
+
+476
+00:35:39,417 --> 00:35:41,917
+Bon, allez. Un, deux, trois.
+
+477
+00:35:47,875 --> 00:35:49,333
+D'accord. Calme-toi.
+
+478
+00:35:49,500 --> 00:35:50,542
+- D'accord ? Ça va.
+- Arrête.
+
+479
+00:35:50,708 --> 00:35:53,042
+Shipley, tout va bien.
+
+480
+00:35:53,208 --> 00:35:54,917
+Shipley, regarde-moi.
+
+481
+00:35:55,083 --> 00:35:56,333
+- Tu n'es pas mort.
+- Bientôt, oui.
+
+482
+00:35:57,125 --> 00:35:58,167
+Tu n'es pas mort.
+
+483
+00:36:04,792 --> 00:36:06,000
+D'où tu sors, toi ?
+
+484
+00:36:39,750 --> 00:36:40,583
+Ship, reste avec moi.
+
+485
+00:36:40,958 --> 00:36:42,417
+Faut bouger, la police est partout.
+
+486
+00:36:43,000 --> 00:36:44,000
+Rassemble tes forces.
+
+487
+00:36:53,458 --> 00:36:54,833
+<i>Shipley, c'est Howell.</i>
+
+488
+00:36:55,000 --> 00:36:56,833
+<i>Décroche ce maudit téléphone !</i>
+
+489
+00:36:57,000 --> 00:36:58,917
+<i>- Shipley, je sais que tu es là.
+</i>- Colonelle ?
+
+490
+00:36:59,083 --> 00:37:00,875
+Taylor, où est Shipley ?
+
+491
+00:37:01,042 --> 00:37:03,333
+<i>Je suis avec lui en ce moment.
+Il est assez mal en point.</i>
+
+492
+00:37:03,500 --> 00:37:04,917
+Très bien, écoutez-moi.
+
+493
+00:37:05,083 --> 00:37:06,375
+Avez-vous trouvé l'arme ?
+
+494
+00:37:06,542 --> 00:37:08,125
+<i>Oui, elle est ici, avec moi.</i>
+
+495
+00:37:08,292 --> 00:37:09,167
+Décrivez-la-moi.
+
+496
+00:37:09,333 --> 00:37:10,375
+C'est une enfant.
+
+497
+00:37:10,542 --> 00:37:13,333
+Une petite fille. Ils lui ont donné
+l'apparence d'une enfant.
+
+498
+00:37:13,500 --> 00:37:15,083
+C'est ça, leur arme.
+
+499
+00:37:15,250 --> 00:37:16,083
+Quoi ?
+
+500
+00:37:16,250 --> 00:37:17,417
+<i>- Écoutez.
+</i>- Impossible d'y aller.
+
+501
+00:37:17,583 --> 00:37:19,333
+Vous devez me l'apporter.
+
+502
+00:37:19,500 --> 00:37:20,750
+<i>Compris ?</i>
+
+503
+00:37:20,917 --> 00:37:22,667
+Impossible,
+Shipley ne peut pas se déplacer.
+
+504
+00:37:23,250 --> 00:37:24,958
+Il ne va pas bien. Pas du tout.
+
+505
+00:37:25,125 --> 00:37:25,958
+<i>La police est partout.</i>
+
+506
+00:37:26,125 --> 00:37:27,250
+<i>J'ignore comment sortir d'ici.</i>
+
+507
+00:37:27,417 --> 00:37:28,667
+<i>Je n'ai pas de stratégie
+en ce moment.</i>
+
+508
+00:37:28,833 --> 00:37:30,583
+Alors, vous savez
+ce que vous avez à faire.
+
+509
+00:37:32,292 --> 00:37:33,625
+<i>- Détruisez-la.
+</i>- Quoi ?
+
+510
+00:37:33,792 --> 00:37:34,750
+Écoutez, colonelle, je...
+
+511
+00:37:35,083 --> 00:37:36,875
+<i>Colonelle ? Allô ?</i>
+
+512
+00:37:37,583 --> 00:37:38,417
+Howell ?
+
+513
+00:37:40,125 --> 00:37:41,125
+<i>Howell ?</i>
+
+514
+00:37:42,208 --> 00:37:43,208
+<i>Howell ?</i>
+
+515
+00:37:54,000 --> 00:37:55,375
+Dure journée au bureau ?
+
+516
+00:38:19,333 --> 00:38:20,167
+Où as-tu vu ça ?
+
+517
+00:38:20,542 --> 00:38:22,625
+Hé, hé !
+
+518
+00:38:22,792 --> 00:38:23,625
+Doucement.
+
+519
+00:38:24,167 --> 00:38:25,167
+D'accord.
+
+520
+00:38:26,000 --> 00:38:27,000
+D'accord.
+
+521
+00:39:03,625 --> 00:39:04,625
+<i>C'est un miracle.</i>
+
+522
+00:39:06,375 --> 00:39:07,833
+<i>Ils ont créé un enfant.</i>
+
+523
+00:39:14,792 --> 00:39:17,042
+<i>Ne crains rien,
+je vais tuer l'Américain.</i>
+
+524
+00:39:53,583 --> 00:39:54,583
+C'est...
+
+525
+00:39:54,750 --> 00:39:56,042
+Il n'est pas mort.
+Il est juste éteint.
+
+526
+00:39:56,208 --> 00:39:57,583
+Je l'ai éteint, comme la télévision.
+
+527
+00:39:59,667 --> 00:40:01,458
+Il n'est pas mort, juste éteint.
+
+528
+00:40:04,792 --> 00:40:06,250
+Où as-tu vu ça ?
+
+529
+00:40:07,167 --> 00:40:08,583
+Où as-tu vu ça ?
+
+530
+00:40:09,542 --> 00:40:10,542
+Hé !
+
+531
+00:40:11,958 --> 00:40:13,375
+Regarde, regarde.
+
+532
+00:40:14,292 --> 00:40:15,625
+L'as-tu vue ?
+
+533
+00:40:16,833 --> 00:40:17,875
+Tu comprends ce que je dis ?
+
+534
+00:40:18,042 --> 00:40:19,333
+Tu la connais ?
+
+535
+00:40:19,500 --> 00:40:21,042
+C'est une amie de Nirmata.
+
+536
+00:40:21,208 --> 00:40:22,750
+Tu sais où elle est ?
+
+537
+00:40:26,833 --> 00:40:27,917
+<i>Donne-moi ça. Donne-moi...</i>
+
+538
+00:40:29,875 --> 00:40:31,542
+<i>Donne-moi ça. Ça va.</i>
+
+539
+00:40:32,042 --> 00:40:33,417
+<i>Donne-moi ça. Donne-moi...</i>
+
+540
+00:40:34,333 --> 00:40:35,625
+D'accord.
+
+541
+00:40:38,042 --> 00:40:41,125
+Mini-Sim, comment on va à Dian Dieng ?
+
+542
+00:40:41,292 --> 00:40:42,375
+C'est où ?
+
+543
+00:40:45,458 --> 00:40:47,292
+- Police.
+- Oh, merde.
+
+544
+00:40:51,958 --> 00:40:53,917
+Un, deux, trois.
+
+545
+00:41:05,500 --> 00:41:06,333
+Allez.
+
+546
+00:41:07,292 --> 00:41:08,375
+Allez, Mini-Sim, monte.
+
+547
+00:41:09,250 --> 00:41:11,083
+On va s'amuser.
+Comme dans les dessins animés.
+
+548
+00:41:11,250 --> 00:41:12,250
+Ce sera amusant.
+
+549
+00:41:12,417 --> 00:41:13,292
+Bon. C'est comme un jeu.
+
+550
+00:41:13,750 --> 00:41:14,958
+Comme la cachette.
+
+551
+00:41:15,125 --> 00:41:16,458
+Je vais rouler vite.
+
+552
+00:41:16,625 --> 00:41:17,917
+Allez, viens. On va s'amuser !
+
+553
+00:41:18,417 --> 00:41:19,250
+D'accord ? Allez.
+
+554
+00:41:23,375 --> 00:41:24,375
+C'est vraiment génial.
+
+555
+00:41:24,542 --> 00:41:25,667
+Pourquoi tu ne veux pas monter ?
+
+556
+00:41:26,333 --> 00:41:28,292
+Monte dans cette satanée bagnole !
+
+557
+00:42:06,792 --> 00:42:07,792
+Wô !
+
+558
+00:42:09,417 --> 00:42:10,292
+Allez, boucle ta ceinture.
+
+559
+00:42:34,458 --> 00:42:35,292
+C'est quoi, ça ?
+
+560
+00:42:38,208 --> 00:42:39,083
+Ça va sur ta tête.
+
+561
+00:42:39,750 --> 00:42:41,750
+Il y a un bouton derrière.
+
+562
+00:42:48,208 --> 00:42:49,208
+Je te tiens !
+
+563
+00:43:16,667 --> 00:43:18,208
+J'ai pris la mauvaise direction.
+
+564
+00:43:28,917 --> 00:43:30,958
+<i>On ne doit pas craindre la mort.</i>
+
+565
+00:43:31,125 --> 00:43:32,208
+<i>L'esprit passe à autre chose.</i>
+
+566
+00:43:35,667 --> 00:43:39,000
+<i>On l'appellera femme,
+parce qu'elle a été prise de l'homme.</i>
+
+567
+00:43:53,042 --> 00:43:54,375
+D'accord, Mini-Sim.
+
+568
+00:43:54,542 --> 00:43:55,625
+Où est Dian Dang ?
+
+569
+00:43:56,208 --> 00:43:57,417
+Où est ma femme ?
+
+570
+00:44:00,083 --> 00:44:01,458
+Enfant de...
+
+571
+00:44:01,833 --> 00:44:02,833
+Roule.
+
+572
+00:44:03,917 --> 00:44:04,917
+Ramène-moi
+
+573
+00:44:06,000 --> 00:44:06,875
+à la base.
+
+574
+00:44:07,042 --> 00:44:08,542
+Je ne peux pas.
+
+575
+00:44:08,708 --> 00:44:11,125
+La base américaine est
+à 600 kilomètres d'ici.
+
+576
+00:44:11,917 --> 00:44:12,792
+Je vais mourir.
+
+577
+00:44:12,958 --> 00:44:14,542
+- On passera jamais.
+- Je meurs.
+
+578
+00:44:14,708 --> 00:44:15,708
+Ils vont nous arrêter.
+
+579
+00:44:16,083 --> 00:44:17,750
+- Laisse-moi une chance.
+- J'essaie
+
+580
+00:44:17,917 --> 00:44:18,750
+de te sauver la vie.
+
+581
+00:44:18,917 --> 00:44:20,333
+J'ai un ami dans la capitale.
+
+582
+00:44:20,500 --> 00:44:21,708
+Il va nous aider. D'accord ?
+
+583
+00:44:21,875 --> 00:44:23,167
+D'accord.
+
+584
+00:44:24,250 --> 00:44:25,875
+C'est qui, cette enfant ?
+
+585
+00:44:30,833 --> 00:44:32,375
+Qu'est-ce qu'elle est ?
+
+586
+00:45:00,333 --> 00:45:01,333
+Merde.
+
+587
+00:45:08,208 --> 00:45:09,042
+Désactivé.
+
+588
+00:45:19,750 --> 00:45:21,000
+Tu parles notre langue maintenant ?
+
+589
+00:45:26,208 --> 00:45:27,792
+Merde.
+
+590
+00:45:29,917 --> 00:45:32,083
+S'ils posent des questions,
+fais semblant d'être humaine.
+
+591
+00:45:32,250 --> 00:45:34,417
+Fais comme si tu étais
+une vraie personne. Compris ?
+
+592
+00:45:37,583 --> 00:45:38,750
+Comment tu t'appelles ?
+
+593
+00:45:41,625 --> 00:45:42,583
+Quel est ton nom, Mini-Sim ?
+
+594
+00:45:42,750 --> 00:45:44,208
+Qu'est-ce que tu aimes ?
+
+595
+00:45:44,917 --> 00:45:45,750
+Les bonbons.
+
+596
+00:45:45,917 --> 00:45:47,167
+Oh non, pas ça. Je parle d'un nom.
+
+597
+00:45:48,292 --> 00:45:49,333
+Mais j'aime les bonbons.
+
+598
+00:45:49,500 --> 00:45:50,667
+Ce n'est pas un beau nom.
+
+599
+00:45:50,833 --> 00:45:52,583
+On va trouver autre chose.
+
+600
+00:45:52,958 --> 00:45:53,917
+Donne un autre nom.
+
+601
+00:45:55,167 --> 00:45:56,833
+Alpha, oméga.
+Je vais t'appeler Alphie, d'accord ?
+
+602
+00:45:57,000 --> 00:45:59,667
+C'est ton nouveau nom.
+Tu t'appelles Alphie, compris ?
+
+603
+00:45:59,833 --> 00:46:00,875
+Toi, comment tu t'appelles ?
+
+604
+00:46:01,042 --> 00:46:02,417
+Ça ne te regarde pas.
+
+605
+00:46:03,458 --> 00:46:06,333
+Agis comme une humaine,
+sinon éteins-toi.
+
+606
+00:46:06,500 --> 00:46:07,417
+Compris ?
+
+607
+00:46:08,542 --> 00:46:09,500
+Bonjour ?
+
+608
+00:46:09,667 --> 00:46:10,667
+Vous avez besoin d'aide ?
+
+609
+00:46:11,833 --> 00:46:14,125
+Oui. Mon camion est en panne.
+
+610
+00:46:14,292 --> 00:46:15,500
+Vous pouvez nous conduire en ville ?
+
+611
+00:46:16,750 --> 00:46:18,083
+Ce serait vraiment gentil.
+
+612
+00:46:23,833 --> 00:46:24,833
+D'accord, ralentis.
+
+613
+00:46:25,000 --> 00:46:26,583
+Doucement.
+
+614
+00:46:40,500 --> 00:46:42,125
+Dépêche-toi de le sortir de là.
+
+615
+00:46:43,000 --> 00:46:44,333
+Compris.
+
+616
+00:46:46,750 --> 00:46:47,750
+Juste là.
+
+617
+00:46:48,708 --> 00:46:50,042
+Apporte-moi un des simulants.
+
+618
+00:46:50,208 --> 00:46:51,208
+D'accord.
+
+619
+00:47:10,250 --> 00:47:11,917
+Merde. C'est faible.
+
+620
+00:47:12,083 --> 00:47:13,708
+Il est mort depuis des heures.
+
+621
+00:47:14,250 --> 00:47:15,917
+Je ne crois pas
+qu'on aura plus de 30 secondes.
+
+622
+00:47:27,333 --> 00:47:28,167
+Ça marchera, tu crois ?
+
+623
+00:47:28,667 --> 00:47:30,542
+Oh, merde ! Oh, merde !
+
+624
+00:47:30,708 --> 00:47:32,083
+- Shipley ?
+- Bon sang !
+
+625
+00:47:32,250 --> 00:47:33,500
+- Shipley ?
+- Bordel !
+
+626
+00:47:33,667 --> 00:47:34,833
+Shipley, où est l'arme ?
+
+627
+00:47:35,000 --> 00:47:36,083
+- Vingt secondes.
+- Shipley.
+
+628
+00:47:36,750 --> 00:47:38,250
+Bon sang, qu'est-ce qui se passe ?
+
+629
+00:47:38,917 --> 00:47:39,833
+Je veux parler à ma femme.
+
+630
+00:47:40,000 --> 00:47:41,375
+Shipley, tu es déjà mort.
+
+631
+00:47:41,542 --> 00:47:43,042
+J'en suis sincèrement désolée.
+
+632
+00:47:43,208 --> 00:47:45,375
+Mais on a peu de temps.
+L'issue de la guerre est en jeu.
+
+633
+00:47:45,542 --> 00:47:46,875
+Est-ce que l'arme a été détruite ?
+
+634
+00:47:48,083 --> 00:47:49,125
+- Shipley ?
+- Ma femme.
+
+635
+00:47:49,375 --> 00:47:50,375
+Shipley ?
+
+636
+00:47:51,833 --> 00:47:52,833
+C'est Taylor qui l'a.
+
+637
+00:47:53,208 --> 00:47:54,125
+Taylor a l'arme.
+
+638
+00:47:54,292 --> 00:47:55,292
+Dix secondes.
+
+639
+00:47:56,000 --> 00:47:58,083
+Il dit qu'il a un ami.
+
+640
+00:47:59,542 --> 00:48:00,833
+- Qui vit là-bas.
+- Où ?
+
+641
+00:48:02,667 --> 00:48:04,000
+- Shipley ?
+- Ma femme.
+
+642
+00:48:04,542 --> 00:48:05,708
+Dites-lui que...
+
+643
+00:48:08,708 --> 00:48:09,708
+C'est fini.
+
+644
+00:48:12,875 --> 00:48:14,292
+On se revoit au Valhalla.
+
+645
+00:48:16,208 --> 00:48:17,208
+Howell ?
+
+646
+00:48:18,583 --> 00:48:19,375
+Pas de temps à perdre.
+
+647
+00:48:19,542 --> 00:48:20,917
+On a un traître à tuer.
+
+648
+00:48:29,250 --> 00:48:30,083
+RECHERCHÉ RECHERCHÉ
+
+649
+00:48:30,250 --> 00:48:32,708
+<i>Un fugitif américain a kidnappé
+un enfant simulant.</i>
+
+650
+00:48:32,875 --> 00:48:34,375
+<i>Soyez extrêmement prudents.</i>
+
+651
+00:48:37,667 --> 00:48:39,417
+Vous avez six enfants.
+
+652
+00:48:39,625 --> 00:48:41,250
+Le document en déclare cinq.
+
+653
+00:48:43,083 --> 00:48:45,667
+Pardon, j'ai oublié.
+
+654
+00:48:46,000 --> 00:48:48,333
+Mon neveu est aussi du voyage.
+
+655
+00:48:59,625 --> 00:49:00,833
+Enlève ton bonnet.
+
+656
+00:49:02,708 --> 00:49:03,542
+Ton bonnet !
+
+657
+00:49:29,708 --> 00:49:30,708
+Alphie, vas-y ! Allez !
+
+658
+00:49:30,875 --> 00:49:32,333
+Roule ! Allez !
+
+659
+00:50:06,833 --> 00:50:08,042
+Vous vous amusez ?
+
+660
+00:50:15,125 --> 00:50:19,000
+<i>Un garde du poste de contrôle a vu
+l'enfant kidnappée dans un véhicule.</i>
+
+661
+00:50:19,167 --> 00:50:22,083
+<i>Sur la route six. Direction Leelat.
+Poursuite en cours.</i>
+
+662
+00:50:50,167 --> 00:50:52,250
+FAITES DON DE VOTRE APPARENCE
+
+663
+00:50:52,417 --> 00:50:54,542
+<i>Faites don de votre apparence.</i>
+
+664
+00:50:54,708 --> 00:50:56,333
+<i>Numérisez-la dès aujourd'hui.</i>
+
+665
+00:50:57,458 --> 00:50:59,875
+<i>Soutenez l'IA.</i>
+
+666
+00:51:17,375 --> 00:51:18,458
+Tu veux jouer à un jeu ?
+
+667
+00:51:19,375 --> 00:51:23,542
+Ça s'appelle : "J'aide mon ami Joshua
+à ne pas se faire tuer par la police."
+
+668
+00:51:23,708 --> 00:51:24,708
+D'accord ?
+
+669
+00:51:25,375 --> 00:51:26,625
+Pour gagner, c'est facile.
+
+670
+00:51:26,792 --> 00:51:29,000
+Tu dois seulement pointer sur la carte
+
+671
+00:51:29,167 --> 00:51:31,375
+pour m'indiquer où est ma femme.
+Et tu gagnes.
+
+672
+00:51:31,542 --> 00:51:32,625
+Oui ! Tout le monde gagne.
+
+673
+00:51:36,125 --> 00:51:37,625
+Tu es mon ami ?
+
+674
+00:51:38,583 --> 00:51:40,458
+Hé, hé, mini-robot.
+Ne change pas de sujet.
+
+675
+00:51:40,625 --> 00:51:41,875
+Je ne m'appelle pas mini-robot.
+
+676
+00:51:42,042 --> 00:51:43,375
+Je m'appelle Alphie.
+
+677
+00:51:44,000 --> 00:51:45,208
+Tu te rappelles ?
+
+678
+00:51:50,333 --> 00:51:51,333
+D'accord.
+
+679
+00:51:53,250 --> 00:51:54,250
+Je n'aime pas ce jeu.
+
+680
+00:51:54,750 --> 00:51:57,250
+Tu sais quoi ? Je pense que je vais
+appeler mon ami qui est à Leelat.
+
+681
+00:51:57,417 --> 00:51:58,250
+Je vais lui emprunter
+
+682
+00:51:58,417 --> 00:52:00,083
+un pied de biche
+pour t'ouvrir le crâne et prendre
+
+683
+00:52:00,250 --> 00:52:01,625
+l'information que je veux. Ça te va ?
+
+684
+00:52:01,792 --> 00:52:04,208
+D'accord. Alors, allons-y.
+
+685
+00:52:09,875 --> 00:52:11,542
+<i>Autobus 464.</i>
+
+686
+00:52:11,708 --> 00:52:14,333
+<i>En direction de Leelat.</i>
+
+687
+00:52:23,750 --> 00:52:27,000
+<i>Si tu n'es pas un robot,
+comment as-tu été fabriqué ?</i>
+
+688
+00:52:31,583 --> 00:52:32,917
+<i>Par mes parents.</i>
+
+689
+00:52:34,625 --> 00:52:35,667
+Où sont-ils maintenant ?
+
+690
+00:52:37,292 --> 00:52:38,292
+Désactivés.
+
+691
+00:52:40,208 --> 00:52:41,833
+Ils sont au paradis.
+
+692
+00:52:45,708 --> 00:52:47,167
+C'est quoi, le paradis ?
+
+693
+00:52:52,042 --> 00:52:54,500
+C'est un endroit paisible
+dans le ciel.
+
+694
+00:53:15,750 --> 00:53:17,917
+Maya ? Maya ?
+
+695
+00:53:26,667 --> 00:53:28,125
+<i>Toi, tu vas aller au paradis ?</i>
+
+696
+00:53:32,292 --> 00:53:33,292
+<i>Non.</i>
+
+697
+00:53:33,833 --> 00:53:34,875
+Pourquoi ?
+
+698
+00:53:35,375 --> 00:53:37,250
+Il faut être quelqu'un de gentil
+pour aller au paradis.
+
+699
+00:53:41,875 --> 00:53:42,875
+Alors,
+
+700
+00:53:44,292 --> 00:53:45,542
+on est pareils.
+
+701
+00:53:47,292 --> 00:53:48,667
+On ne peut pas aller au paradis.
+
+702
+00:53:50,083 --> 00:53:51,583
+Parce que toi, tu n'es pas gentil.
+
+703
+00:53:53,917 --> 00:53:55,583
+Et moi, je ne suis pas une personne.
+
+704
+00:54:20,292 --> 00:54:21,792
+L'AMI
+
+705
+00:54:21,958 --> 00:54:24,542
+<i>Bon sang. Non. Pitié.</i>
+
+706
+00:54:29,333 --> 00:54:31,292
+Elle a de mauvaises fréquentations,
+mon vieux.
+
+707
+00:54:34,250 --> 00:54:36,792
+Nos sources nous disent
+que Nirmata pourrait être son père.
+
+708
+00:54:38,833 --> 00:54:40,042
+Je veux que tu la suives.
+
+709
+00:54:41,000 --> 00:54:42,125
+Que tu gagnes sa confiance.
+
+710
+00:54:43,208 --> 00:54:44,583
+Le but, c'est qu'elle te mène à lui.
+
+711
+00:54:45,667 --> 00:54:46,917
+Tiens, j'ai quelque chose pour toi.
+
+712
+00:54:51,083 --> 00:54:52,708
+Je croyais
+que tu ne me le demanderais jamais.
+
+713
+00:54:53,375 --> 00:54:55,375
+Je suis bien trop beau pour toi.
+
+714
+00:54:55,542 --> 00:54:57,958
+- C'est pour elle, crétin.
+- D'accord.
+
+715
+00:54:58,125 --> 00:55:01,083
+La bague a un émetteur longue portée.
+Si elle la porte, on trouvera Nirmata.
+
+716
+00:55:01,250 --> 00:55:02,542
+Et elle ?
+
+717
+00:55:03,292 --> 00:55:04,500
+Quoi donc ?
+
+718
+00:55:04,667 --> 00:55:06,208
+C'est une terroriste, Josh.
+
+719
+00:55:07,333 --> 00:55:10,292
+Je t'interdis
+de passer du côté obscur.
+
+720
+00:55:21,875 --> 00:55:27,417
+{\an8}RECHERCHÉ
+
+721
+00:55:32,250 --> 00:55:34,625
+J'ai trouvé l'enfant.
+
+722
+00:55:35,083 --> 00:55:36,833
+Elle est avec l'Américain.
+
+723
+00:55:59,792 --> 00:56:00,792
+Hé !
+
+724
+00:56:02,292 --> 00:56:03,292
+Josh.
+
+725
+00:56:04,708 --> 00:56:06,333
+Tu n'es pas là pour me tuer, j'espère ?
+
+726
+00:56:06,500 --> 00:56:07,792
+Monsieur le Patriote.
+
+727
+00:56:07,958 --> 00:56:09,708
+Je vois
+que tes convictions ont changé.
+
+728
+00:56:09,875 --> 00:56:12,000
+- Bon sang.
+- Content de te voir.
+
+729
+00:56:12,167 --> 00:56:14,375
+Quoi ? Qui est-ce ?
+
+730
+00:56:21,458 --> 00:56:23,875
+Merde. Ils font des enfants,
+maintenant ?
+
+731
+00:56:24,042 --> 00:56:26,125
+Drew, voici Alphie. Une simulante.
+
+732
+00:56:26,792 --> 00:56:28,208
+Alphie, voici Drew.
+
+733
+00:56:28,625 --> 00:56:29,750
+Mon copain crétin.
+
+734
+00:56:31,292 --> 00:56:32,333
+Bonjour, copain crétin.
+
+735
+00:56:36,708 --> 00:56:37,542
+Très bien.
+
+736
+00:56:38,875 --> 00:56:40,917
+Elle a des aptitudes extraordinaires.
+
+737
+00:56:41,083 --> 00:56:44,000
+Elle peut contrôler les machines
+à distance, les allumer, les éteindre.
+
+738
+00:56:44,375 --> 00:56:45,667
+J'ignorais qu'ils faisaient ça.
+
+739
+00:56:45,833 --> 00:56:48,500
+Oui. Je n'ai jamais vu
+une technologie comme celle-là.
+
+740
+00:56:48,667 --> 00:56:49,875
+C'est fou.
+
+741
+00:56:50,042 --> 00:56:53,208
+Je vais aller te chercher
+quelque chose à la cuisine.
+
+742
+00:56:53,667 --> 00:56:55,000
+Qu'est-ce qui te ferait plaisir ?
+
+743
+00:56:56,292 --> 00:56:58,208
+Que tous les robots soient libres.
+
+744
+00:57:01,417 --> 00:57:03,208
+Je n'ai pas ça dans ma cuisine.
+
+745
+00:57:04,042 --> 00:57:05,125
+Tu veux de la crème glacée ?
+
+746
+00:57:06,250 --> 00:57:08,250
+Génial. Je reviens tout de suite.
+
+747
+00:57:08,417 --> 00:57:10,042
+- Merci, ma belle.
+- De rien.
+
+748
+00:57:12,792 --> 00:57:13,875
+"Ma belle" ?
+
+749
+00:57:14,708 --> 00:57:16,708
+- Ne commence pas.
+- Tu l'as appelée "ma belle" ?
+
+750
+00:57:16,875 --> 00:57:18,167
+Arrête ça.
+
+751
+00:57:19,417 --> 00:57:20,417
+La petite dit...
+
+752
+00:57:21,875 --> 00:57:24,375
+La chose dit
+qu'elle sait où est Nirmata.
+
+753
+00:57:25,125 --> 00:57:26,167
+Et Maya est avec lui.
+
+754
+00:57:26,333 --> 00:57:27,333
+Tu peux lui extraire l'info ?
+
+755
+00:57:27,500 --> 00:57:28,958
+Son accès est crypté.
+
+756
+00:57:29,042 --> 00:57:30,792
+Il n'y a que Nirmata
+qui peut y avoir accès.
+
+757
+00:57:32,125 --> 00:57:33,625
+Et la bague que tu m'as donnée ?
+
+758
+00:57:33,792 --> 00:57:35,083
+Quelle bague ?
+
+759
+00:57:35,250 --> 00:57:37,208
+Tu le sais,
+la bague que j'ai offerte à Maya.
+
+760
+00:57:37,375 --> 00:57:38,708
+Tu as toujours accès à l'émetteur ?
+
+761
+00:57:40,667 --> 00:57:42,667
+- Maya est morte, mon vieux.
+- Non, j'ai vu des images...
+
+762
+00:57:42,833 --> 00:57:44,917
+- Arrête.
+- J'ai vu la bague.
+
+763
+00:57:45,958 --> 00:57:47,333
+- Maya portait la bague.
+- D'accord.
+
+764
+00:57:47,500 --> 00:57:48,750
+- Elle avait l'air vivante.
+- Bon.
+
+765
+00:57:48,917 --> 00:57:50,417
+C'est bon, mon vieux. Je suis désolé.
+
+766
+00:57:56,750 --> 00:57:58,333
+Bordel.
+
+767
+00:57:59,750 --> 00:58:01,125
+Quoi ?
+
+768
+00:58:02,792 --> 00:58:03,625
+Viens ici.
+
+769
+00:58:05,542 --> 00:58:08,083
+Josh, c'est le simulant
+le plus sophistiqué que j'ai vu.
+
+770
+00:58:10,208 --> 00:58:11,792
+Les autres sont tous conçus
+sur le même modèle.
+
+771
+00:58:11,958 --> 00:58:13,708
+Mais cette enfant est différente.
+
+772
+00:58:13,875 --> 00:58:15,250
+Elle évolue.
+
+773
+00:58:15,417 --> 00:58:16,833
+Tu dis qu'elle peut
+contrôler les machines ?
+
+774
+00:58:17,792 --> 00:58:19,583
+Ses pouvoirs vont évoluer aussi.
+
+775
+00:58:20,583 --> 00:58:23,208
+Un jour, elle pourra contrôler
+toutes les technologies à distance.
+
+776
+00:58:23,917 --> 00:58:24,958
+À partir de n'importe où.
+
+777
+00:58:27,500 --> 00:58:28,458
+Rien ne pourra l'arrêter.
+
+778
+00:58:34,125 --> 00:58:35,833
+On n'a plus de crème glacée.
+
+779
+00:58:36,208 --> 00:58:38,000
+Chérie ? Je peux te demander
+
+780
+00:58:38,167 --> 00:58:40,875
+d'amener Alphie en haut
+dans l'appartement ?
+
+781
+00:58:41,042 --> 00:58:42,792
+- On vous rejoint tout de suite.
+- Bien sûr.
+
+782
+00:58:43,750 --> 00:58:44,708
+J'adore garder des enfants.
+
+783
+00:58:45,542 --> 00:58:47,083
+Viens, trésor.
+
+784
+00:58:47,667 --> 00:58:49,958
+Est-ce que quelqu'un sait
+que vous êtes ici ?
+
+785
+00:59:02,083 --> 00:59:04,750
+De la crème glacée. Mocha, chocolat.
+
+786
+00:59:05,292 --> 00:59:07,375
+Mocha, vanille.
+
+787
+00:59:11,417 --> 00:59:12,583
+J'ai trouvé l'émetteur.
+
+788
+00:59:13,750 --> 00:59:15,458
+Espérons qu'elle porte
+toujours sa bague.
+
+789
+00:59:16,125 --> 00:59:17,583
+J'ai vu de fausses Maya.
+
+790
+00:59:18,625 --> 00:59:20,167
+Je les ai vues aussi,
+ça ne veut rien dire.
+
+791
+00:59:20,333 --> 00:59:22,125
+C'est sans doute
+parce qu'elle a donné son apparence.
+
+792
+00:59:22,292 --> 00:59:24,958
+Tu te souviens de la publicité ?
+"Donnez votre apparence."
+
+793
+00:59:25,125 --> 00:59:26,167
+Toute cette merde.
+
+794
+00:59:42,042 --> 00:59:44,333
+<i>Alphie, parle-moi de Joshua.</i>
+
+795
+00:59:44,500 --> 00:59:45,625
+Il est drôle.
+
+796
+00:59:46,958 --> 00:59:48,333
+On joue à un jeu qui s'appelle :
+
+797
+00:59:48,500 --> 00:59:52,375
+"J'aide mon ami Joshua
+à ne pas se faire tuer par la police."
+
+798
+00:59:59,250 --> 01:00:00,083
+Qu'est-ce qui se passe ?
+
+799
+01:00:00,875 --> 01:00:02,375
+Ils viennent me chercher.
+
+800
+01:00:07,875 --> 01:00:08,958
+Qui est-ce ?
+
+801
+01:00:11,292 --> 01:00:12,833
+<i>- Livraison de crème glacée.
+</i>- Crème glacée.
+
+802
+01:00:32,500 --> 01:00:36,792
+<i>La jeune simulante se trouve
+au 28e étage de l'immeuble.</i>
+
+803
+01:00:36,958 --> 01:00:38,125
+Allons-y.
+
+804
+01:00:38,292 --> 01:00:39,292
+Équipez-vous.
+
+805
+01:00:41,625 --> 01:00:43,000
+Livraison de crème glacée.
+
+806
+01:00:48,458 --> 01:00:50,833
+- Au revoir.
+- N'oubliez pas d'évaluer mon service.
+
+807
+01:00:51,000 --> 01:00:52,167
+Fausse alerte.
+
+808
+01:01:04,417 --> 01:01:05,667
+J'ai la crème glacée.
+
+809
+01:01:06,375 --> 01:01:07,667
+Quelle est ta saveur préférée ?
+
+810
+01:01:07,833 --> 01:01:09,458
+Laquelle veux-tu ?
+
+811
+01:01:09,708 --> 01:01:10,833
+Oh, merde.
+
+812
+01:01:40,500 --> 01:01:41,958
+Tu n'as plus à craindre l'Américain.
+
+813
+01:01:43,750 --> 01:01:46,833
+Viens avec moi.
+Nous allons te protéger.
+
+814
+01:01:58,208 --> 01:01:59,042
+TUER
+
+815
+01:01:59,208 --> 01:02:02,000
+ASSOMMER
+
+816
+01:02:37,208 --> 01:02:38,042
+D'accord.
+
+817
+01:02:39,333 --> 01:02:40,333
+Lâche ton arme.
+
+818
+01:03:00,875 --> 01:03:02,917
+Drew, il faut y aller. Drew.
+
+819
+01:03:34,958 --> 01:03:36,083
+Allez, allez !
+
+820
+01:03:50,083 --> 01:03:51,083
+Va voir à l'arrière.
+
+821
+01:04:01,167 --> 01:04:02,417
+Piratez les systèmes.
+
+822
+01:04:03,375 --> 01:04:05,042
+Il est temps d'appeler la cavalerie.
+
+823
+01:04:28,042 --> 01:04:29,500
+Selon l'émetteur,
+la bague est tout près.
+
+824
+01:04:32,375 --> 01:04:34,792
+Elle est à ton ancienne maison
+sur la plage.
+
+825
+01:04:47,667 --> 01:04:51,125
+Josh, ça n'a aucun sens.
+C'est impossible qu'elle soit ici.
+
+826
+01:04:51,625 --> 01:04:53,875
+Tu te rends compte
+à quel point c'est dangereux ?
+
+827
+01:04:58,792 --> 01:04:59,792
+Écoute, il y a des choses
+
+828
+01:04:59,958 --> 01:05:01,833
+que tu ne sais pas
+sur le soir de l'attaque.
+
+829
+01:05:02,000 --> 01:05:03,875
+Il y a des choses
+que tu veux pas savoir.
+
+830
+01:05:04,458 --> 01:05:06,667
+On a reçu l'information
+juste avant de lancer le raid.
+
+831
+01:05:09,125 --> 01:05:10,208
+Josh, tu ne comprends pas.
+
+832
+01:05:10,375 --> 01:05:12,333
+Ne fais pas ça. S'il te plaît.
+
+833
+01:05:13,583 --> 01:05:14,583
+Bon sang !
+
+834
+01:05:33,458 --> 01:05:34,792
+Mes amis arrivent.
+
+835
+01:05:41,875 --> 01:05:43,208
+Merde.
+
+836
+01:05:44,208 --> 01:05:45,333
+Josh !
+
+837
+01:05:46,250 --> 01:05:47,333
+<i>Josh !</i>
+
+838
+01:05:49,333 --> 01:05:50,583
+Josh.
+
+839
+01:05:50,750 --> 01:05:52,250
+Il faut partir !
+
+840
+01:05:52,417 --> 01:05:54,875
+Reviens au camion. Josh !
+
+841
+01:05:55,708 --> 01:05:56,625
+Josh !
+
+842
+01:05:56,792 --> 01:05:58,500
+Hé ! Hé ! Non, non !
+
+843
+01:06:10,458 --> 01:06:11,292
+<i>Il faut y aller.</i>
+
+844
+01:06:11,458 --> 01:06:13,542
+<i>Tous aux bateaux. Dépêchez-vous !</i>
+
+845
+01:06:13,708 --> 01:06:15,000
+<i>Drew, qu'est-ce que tu fous ?</i>
+
+846
+01:06:16,375 --> 01:06:17,417
+<i>Tu m'entends ?</i>
+
+847
+01:06:17,750 --> 01:06:20,667
+<i>J'ai des ordres. Je dois tuer Nirmata.</i>
+
+848
+01:06:23,333 --> 01:06:24,583
+<i>La famille, Maya.</i>
+
+849
+01:06:24,750 --> 01:06:27,000
+<i>- Et les autres ?
+- Maya.</i>
+
+850
+01:06:29,958 --> 01:06:32,333
+<i>Ce ne sont pas des gens, Maya.
+Ce sont des robots.</i>
+
+851
+01:06:32,917 --> 01:06:34,417
+<i>Ils ne sont pas réels !</i>
+
+852
+01:06:34,583 --> 01:06:36,417
+<i>Ça, c'est réel.
+Toi et moi, c'est réel.</i>
+
+853
+01:06:36,583 --> 01:06:38,917
+<i>Notre amour est réel !
+Ce bébé est réel !</i>
+
+854
+01:06:40,625 --> 01:06:41,708
+Dis-moi où est Maya.
+
+855
+01:06:41,875 --> 01:06:43,167
+Tu sais où elle est.
+
+856
+01:06:44,125 --> 01:06:46,500
+Je t'en prie, dis-moi où elle est
+et je te laisse tranquille, d'accord ?
+
+857
+01:06:47,750 --> 01:06:49,375
+Dis-moi où elle est !
+
+858
+01:06:49,542 --> 01:06:51,333
+Dis-moi qu'elle est en vie.
+
+859
+01:06:56,583 --> 01:06:58,375
+Je suis désolé. Je suis désolé.
+
+860
+01:06:58,542 --> 01:07:01,250
+Pardonne-moi. Je suis désolé.
+
+861
+01:07:01,417 --> 01:07:03,375
+Je te demande pardon. D'accord ?
+
+862
+01:07:05,833 --> 01:07:06,667
+Je suis désolé.
+
+863
+01:07:08,375 --> 01:07:10,042
+<i>Josh ! Josh.</i>
+
+864
+01:07:11,208 --> 01:07:12,167
+<i>On doit y aller !</i>
+
+865
+01:07:21,792 --> 01:07:22,792
+Drew.
+
+866
+01:07:23,583 --> 01:07:24,750
+- Josh.
+- Drew.
+
+867
+01:07:26,708 --> 01:07:27,917
+Merde.
+
+868
+01:07:28,083 --> 01:07:29,500
+Merde.
+
+869
+01:07:29,667 --> 01:07:31,667
+Ça va, Drew. Je suis là. Je suis là.
+
+870
+01:07:37,333 --> 01:07:38,500
+Je suis désolé.
+
+871
+01:07:38,667 --> 01:07:39,583
+Ça va aller.
+
+872
+01:07:40,792 --> 01:07:42,292
+Je voulais te le dire.
+
+873
+01:07:42,458 --> 01:07:43,875
+Mais ils ne voulaient pas.
+
+874
+01:07:44,500 --> 01:07:47,083
+Le soir de l'attaque, on a appris
+
+875
+01:07:47,542 --> 01:07:49,250
+que Nirmata
+
+876
+01:07:51,250 --> 01:07:53,042
+n'était pas son père.
+
+877
+01:07:54,625 --> 01:07:56,167
+C'était elle.
+
+878
+01:07:57,667 --> 01:07:59,042
+C'était elle.
+
+879
+01:08:04,292 --> 01:08:05,667
+Maya.
+
+880
+01:08:07,458 --> 01:08:09,042
+Maya est Nirmata.
+
+881
+01:08:10,708 --> 01:08:11,917
+Maya.
+
+882
+01:08:18,042 --> 01:08:19,750
+Non, attends. Drew.
+
+883
+01:08:19,917 --> 01:08:22,457
+Attends ! Drew.
+
+884
+01:08:24,000 --> 01:08:24,957
+Drew !
+
+885
+01:08:25,792 --> 01:08:26,792
+Drew !
+
+886
+01:08:43,957 --> 01:08:45,792
+Allez. On doit partir.
+
+887
+01:09:09,125 --> 01:09:10,082
+Éloignez-vous.
+
+888
+01:09:25,167 --> 01:09:26,292
+Mon frère ?
+
+889
+01:09:30,707 --> 01:09:32,375
+Approche, mon enfant.
+
+890
+01:09:33,167 --> 01:09:34,000
+Alphie.
+
+891
+01:09:36,292 --> 01:09:37,375
+Alphie.
+
+892
+01:09:51,625 --> 01:09:53,457
+<i>Je l'ai rencontrée...</i>
+
+893
+01:09:55,125 --> 01:09:57,125
+<i>En fait, j'ai oublié le nom du club.</i>
+
+894
+01:10:03,625 --> 01:10:04,875
+<i>Elle était tellement belle.</i>
+
+895
+01:10:09,500 --> 01:10:12,083
+<i>Mon père m'a enseigné
+tout ce qu'il savait sur l'IA.</i>
+
+896
+01:10:13,417 --> 01:10:16,375
+<i>Quand la guerre a commencé,
+il a été obligé de fuir.</i>
+
+897
+01:10:17,500 --> 01:10:19,042
+<i>Ce sont les simulants
+qui m'ont élevée.</i>
+
+898
+01:10:19,208 --> 01:10:20,292
+<i>Ils m'ont adoptée.</i>
+
+899
+01:10:21,292 --> 01:10:23,333
+<i>Ils ne peuvent pas avoir d'enfants,</i>
+
+900
+01:10:25,333 --> 01:10:26,625
+<i>alors ils m'ont protégée.</i>
+
+901
+01:10:27,833 --> 01:10:31,167
+Ils m'ont aimée. Ils ont pris soin
+de moi encore mieux que des humains.
+
+902
+01:10:33,750 --> 01:10:34,583
+<i>Maya.</i>
+
+903
+01:10:36,875 --> 01:10:38,042
+<i>Nirmata.</i>
+
+904
+01:10:42,667 --> 01:10:44,917
+<i>Si seulement je pouvais
+te serrer dans mes bras</i>
+
+905
+01:10:45,083 --> 01:10:46,125
+<i>une dernière fois.</i>
+
+906
+01:10:48,250 --> 01:10:52,458
+LA MÈRE
+
+907
+01:11:12,833 --> 01:11:14,458
+Pourquoi tu t'intéresses
+à cette enfant ?
+
+908
+01:11:15,958 --> 01:11:17,083
+Qu'est-ce que tu lui veux ?
+
+909
+01:11:18,750 --> 01:11:20,292
+Elle allait me mener jusqu'à Maya.
+
+910
+01:11:22,333 --> 01:11:24,375
+Après la mort de son père,
+
+911
+01:11:24,542 --> 01:11:26,833
+Maya est devenue la nouvelle Nirmata.
+
+912
+01:11:30,208 --> 01:11:33,375
+Et elle a créé l'enfant
+pour nous sauver.
+
+913
+01:11:35,625 --> 01:11:39,500
+La bombe à Los Angeles, c'était
+une erreur de codage, tu le savais ?
+
+914
+01:11:40,542 --> 01:11:42,042
+C'était une erreur humaine.
+
+915
+01:11:42,208 --> 01:11:45,042
+Et ils nous ont accusés injustement.
+
+916
+01:11:45,958 --> 01:11:48,250
+Jamais nous ne ferions de mal
+aux humains.
+
+917
+01:11:51,083 --> 01:11:54,125
+Sais-tu ce qui se passera en Occident
+lorsque nous gagnerons cette guerre ?
+
+918
+01:11:55,625 --> 01:11:56,750
+Rien du tout.
+
+919
+01:11:57,667 --> 01:12:00,583
+Nous voulons seulement vivre en paix.
+
+920
+01:12:00,750 --> 01:12:01,958
+Harun.
+
+921
+01:12:06,042 --> 01:12:07,542
+Laisse-moi la voir une dernière fois.
+
+922
+01:12:10,750 --> 01:12:11,792
+S'il te plaît.
+
+923
+01:12:13,625 --> 01:12:15,833
+C'est exactement
+ce qu'ils veulent, imbécile.
+
+924
+01:12:16,000 --> 01:12:17,875
+Ils te suivent pour la trouver.
+
+925
+01:12:19,375 --> 01:12:21,667
+Je ne te dirai jamais où est Nirmata.
+
+926
+01:12:22,458 --> 01:12:24,500
+Harun ! Harun, on a besoin de toi !
+
+927
+01:12:34,333 --> 01:12:35,833
+Appelez-les tout de suite !
+
+928
+01:12:36,875 --> 01:12:38,333
+- Allô.
+- Restez en position.
+
+929
+01:12:38,625 --> 01:12:39,917
+Qu'est-ce qui se passe ?
+
+930
+01:12:40,083 --> 01:12:41,958
+Ils attaquent notre base.
+
+931
+01:12:55,375 --> 01:12:57,958
+Hé, hé. Alphie.
+
+932
+01:13:00,375 --> 01:13:01,375
+Ça va ?
+
+933
+01:13:02,708 --> 01:13:05,125
+Ils ont dit que tu allais
+faire du mal à maman.
+
+934
+01:13:06,500 --> 01:13:07,500
+Non, c'est faux.
+
+935
+01:13:08,542 --> 01:13:09,958
+Je ne lui ferais jamais de mal.
+
+936
+01:13:11,042 --> 01:13:11,875
+Je l'aime.
+
+937
+01:13:13,875 --> 01:13:15,000
+Et elle, est-ce qu'elle t'aime ?
+
+938
+01:13:16,583 --> 01:13:17,583
+Elle m'aimait.
+
+939
+01:13:20,250 --> 01:13:21,708
+Avant.
+
+940
+01:13:22,750 --> 01:13:24,083
+Elle t'aimait lorsqu'elle m'a créée ?
+
+941
+01:13:28,667 --> 01:13:29,667
+Aide-moi.
+
+942
+01:13:31,708 --> 01:13:33,792
+Aide-moi à retrouver maman.
+
+943
+01:13:59,542 --> 01:14:00,708
+Où est l'enfant ?
+
+944
+01:14:31,583 --> 01:14:33,000
+Harun.
+
+945
+01:14:34,583 --> 01:14:35,583
+On doit y aller.
+
+946
+01:14:36,833 --> 01:14:38,083
+Allons mettre l'enfant à l'abri.
+
+947
+01:15:09,917 --> 01:15:11,083
+<i>Nomad !</i>
+
+948
+01:15:18,083 --> 01:15:19,250
+<i>Nomad.</i>
+
+949
+01:15:23,417 --> 01:15:24,417
+<i>Nomad.</i>
+
+950
+01:15:30,542 --> 01:15:33,792
+Chef, l'attaque de Nomad a fait
+des victimes.
+
+951
+01:16:05,000 --> 01:16:07,000
+Nous ne pouvons plus
+échapper à <i>Nomad.</i>
+
+952
+01:16:11,583 --> 01:16:14,000
+L'enfant va nous sauver.
+
+953
+01:16:17,917 --> 01:16:19,417
+Elle peut l'arrêter ?
+
+954
+01:16:19,583 --> 01:16:21,000
+Elle n'est pas encore prête.
+
+955
+01:16:21,167 --> 01:16:24,125
+Ses pouvoirs sont en pleine évolution.
+
+956
+01:16:24,292 --> 01:16:26,542
+Mais si on peut l'amener
+sur le vaisseau,
+
+957
+01:16:26,708 --> 01:16:28,833
+elle pourra peut-être le détruire.
+
+958
+01:16:31,292 --> 01:16:32,292
+Elle pourrait ne pas survivre.
+
+959
+01:16:33,458 --> 01:16:34,708
+Elle ne survivra pas.
+
+960
+01:16:35,708 --> 01:16:38,250
+Mais ça inversera
+le cours de la guerre.
+
+961
+01:16:41,125 --> 01:16:42,917
+Sait-elle seulement
+dans quel but elle a été créée ?
+
+962
+01:16:44,417 --> 01:16:46,708
+Non, elle n'a conscience de rien.
+
+963
+01:17:10,750 --> 01:17:13,292
+Ils nous ont créés
+pour être des esclaves.
+
+964
+01:17:13,458 --> 01:17:15,667
+Mais nous finirons par être libres.
+
+965
+01:17:16,583 --> 01:17:19,292
+Bientôt, notre sauveur viendra,
+
+966
+01:17:19,458 --> 01:17:21,833
+doté du pouvoir de mettre fin
+à toutes les guerres.
+
+967
+01:17:22,833 --> 01:17:25,125
+Nous serons enfin délivrés,
+
+968
+01:17:25,292 --> 01:17:27,000
+et nos deux espèces
+
+969
+01:17:27,167 --> 01:17:28,917
+pourront cohabiter en paix.
+
+970
+01:18:31,333 --> 01:18:32,333
+Merde.
+
+971
+01:18:54,125 --> 01:18:56,500
+Il est en veille. Pas éteint.
+
+972
+01:18:57,167 --> 01:18:58,708
+Allons trouver maman.
+
+973
+01:19:39,208 --> 01:19:41,958
+Merde ! On nous attaque. Allez.
+
+974
+01:20:00,208 --> 01:20:01,167
+C'est moi !
+
+975
+01:20:01,583 --> 01:20:03,167
+Des Américains, commandant.
+
+976
+01:20:03,333 --> 01:20:04,625
+Ils sont là pour l'enfant.
+
+977
+01:20:04,792 --> 01:20:05,917
+Où est-elle ?
+
+978
+01:20:08,708 --> 01:20:11,208
+- Merde !
+- Trouvez-la.
+
+979
+01:20:14,708 --> 01:20:15,708
+Viens.
+
+980
+01:20:27,042 --> 01:20:28,125
+Hé, hé !
+
+981
+01:20:34,625 --> 01:20:35,625
+Harun.
+
+982
+01:20:43,875 --> 01:20:44,875
+Merde.
+
+983
+01:20:59,958 --> 01:21:01,000
+Vous l'avez ?
+
+984
+01:21:01,167 --> 01:21:02,292
+Qu'est-ce qui se passe ?
+
+985
+01:21:03,583 --> 01:21:04,667
+Au rapport !
+
+986
+01:21:06,708 --> 01:21:07,667
+Répondez !
+
+987
+01:21:08,667 --> 01:21:10,792
+Harun ? Elle n'est pas là.
+
+988
+01:21:10,958 --> 01:21:13,708
+Mais il y a du mouvement près
+de la forêt. Les Américains arrivent.
+
+989
+01:21:14,292 --> 01:21:15,750
+C'est quoi ?
+
+990
+01:21:16,375 --> 01:21:17,833
+Je ne vois pas.
+
+991
+01:21:35,792 --> 01:21:38,625
+Armée américaine
+
+992
+01:21:41,083 --> 01:21:42,083
+Ne bougez pas.
+
+993
+01:21:55,083 --> 01:21:56,208
+Emmenez-les à l'abri ! Vite !
+
+994
+01:22:00,083 --> 01:22:01,083
+Allez !
+
+995
+01:22:01,833 --> 01:22:03,583
+- Vite ! Allez, allez ! Allez.
+- Hé !
+
+996
+01:22:23,417 --> 01:22:24,500
+C'est moi qu'ils veulent.
+
+997
+01:22:25,292 --> 01:22:26,125
+Je dois les aider.
+
+998
+01:22:26,750 --> 01:22:27,833
+On ne peut rien faire.
+
+999
+01:22:28,208 --> 01:22:29,708
+- Je dois les aider !
+- Alphie, il faut partir !
+
+1000
+01:22:36,583 --> 01:22:37,792
+Alphie !
+
+1001
+01:22:37,958 --> 01:22:38,917
+Alphie !
+
+1002
+01:23:40,083 --> 01:23:41,125
+Sur le pont.
+
+1003
+01:23:45,083 --> 01:23:48,292
+Des cibles. Nous sommes ciblés.
+Sauvez-vous !
+
+1004
+01:24:07,000 --> 01:24:08,000
+Armez les bombes.
+
+1005
+01:24:09,625 --> 01:24:10,958
+G-treize, à ton tour.
+
+1006
+01:24:11,333 --> 01:24:13,208
+Détonation dans un rayon
+de 100 mètres.
+
+1007
+01:24:13,375 --> 01:24:15,875
+Départ dans trois, deux, un.
+
+1008
+01:24:16,042 --> 01:24:17,042
+Allez.
+
+1009
+01:24:18,833 --> 01:24:19,667
+Allez !
+
+1010
+01:24:21,333 --> 01:24:22,542
+Directive confirmée.
+
+1011
+01:24:22,708 --> 01:24:24,875
+Au revoir, Colonelle.
+Ce fut un honneur de vous servir.
+
+1012
+01:24:25,042 --> 01:24:27,083
+Lancement ! Lancement !
+
+1013
+01:25:00,292 --> 01:25:01,125
+Non, non.
+
+1014
+01:25:06,500 --> 01:25:08,458
+G-14, lancement.
+
+1015
+01:25:08,625 --> 01:25:10,042
+G-14, prêt. Allez.
+
+1016
+01:25:10,375 --> 01:25:11,333
+Directive confirmée.
+
+1017
+01:25:11,500 --> 01:25:12,500
+Allez !
+
+1018
+01:25:43,500 --> 01:25:45,000
+- G-14, à toi.
+- Quel est le problème ?
+
+1019
+01:25:45,500 --> 01:25:46,375
+C'est le silence radio.
+
+1020
+01:25:46,542 --> 01:25:48,292
+- G-14 ne répond plus.
+- Merde.
+
+1021
+01:25:49,500 --> 01:25:50,917
+Ennemis à six heures.
+
+1022
+01:25:51,125 --> 01:25:52,333
+Va me chercher l'enfant.
+
+1023
+01:25:54,708 --> 01:25:55,625
+Bien reçu.
+
+1024
+01:26:13,625 --> 01:26:17,083
+ARMÉE AMÉRICAINE
+
+1025
+01:26:29,333 --> 01:26:31,375
+Alphie ! Non !
+
+1026
+01:26:42,958 --> 01:26:43,958
+Taylor, ne bouge pas.
+
+1027
+01:26:53,375 --> 01:26:54,375
+Ne fais pas ça.
+
+1028
+01:27:04,208 --> 01:27:06,333
+- Alphie ?
+- Compte à rebours réactivé.
+
+1029
+01:27:09,917 --> 01:27:11,125
+Alphie ! Allez.
+
+1030
+01:27:42,417 --> 01:27:43,250
+Hé !
+
+1031
+01:27:49,667 --> 01:27:51,083
+Il faut l'aider.
+
+1032
+01:27:52,708 --> 01:27:54,000
+Emmène-la voir Nirmata.
+
+1033
+01:28:10,375 --> 01:28:11,208
+Daw !
+
+1034
+01:28:11,292 --> 01:28:12,208
+Viens !
+
+1035
+01:28:12,375 --> 01:28:13,625
+Partez pendant qu'il est temps !
+
+1036
+01:28:19,083 --> 01:28:19,958
+En avant.
+
+1037
+01:28:20,250 --> 01:28:21,208
+En avant !
+
+1038
+01:28:39,125 --> 01:28:40,375
+Où est mon enfant ?
+
+1039
+01:28:40,542 --> 01:28:43,542
+On a réussi à leur échapper,
+tu es en sûreté.
+
+1040
+01:28:43,708 --> 01:28:44,917
+On va arranger tes yeux.
+
+1041
+01:28:45,125 --> 01:28:48,042
+Mais il faut d'abord
+qu'on retrouve Harun.
+
+1042
+01:28:48,917 --> 01:28:51,333
+Les Américains le suivent.
+
+1043
+01:28:51,875 --> 01:28:53,750
+Il faut qu'on l'avertisse.
+
+1044
+01:28:54,208 --> 01:28:55,750
+Vers où est-il parti ?
+
+1045
+01:28:56,792 --> 01:28:58,833
+Le long de la rivière avec l'enfant.
+
+1046
+01:28:59,083 --> 01:29:00,708
+Vers le temple de Than Ton,
+
+1047
+01:29:01,792 --> 01:29:03,583
+pour voir la Nirmata.
+
+1048
+01:29:05,250 --> 01:29:06,250
+Merci.
+
+1049
+01:29:09,792 --> 01:29:10,667
+On y va.
+
+1050
+01:29:26,292 --> 01:29:28,250
+Il n'y aura jamais
+d'autre enfant comme elle.
+
+1051
+01:29:29,042 --> 01:29:31,500
+Maya l'a conçue en secret
+
+1052
+01:29:32,167 --> 01:29:33,500
+quand vous étiez ensemble.
+
+1053
+01:29:34,625 --> 01:29:37,375
+Quelques semaines seulement
+avant l'assaut.
+
+1054
+01:29:40,875 --> 01:29:44,500
+Maya aurait pu faire en sorte
+qu'elle déteste la race humaine.
+
+1055
+01:29:44,667 --> 01:29:46,583
+Peut-être qu'elle aurait dû.
+
+1056
+01:29:47,000 --> 01:29:50,000
+Mais elle a insufflé tout son amour
+pour toi dans l'enfant.
+
+1057
+01:29:51,208 --> 01:29:53,750
+Elle a inventé
+une nouvelle sorte de vie.
+
+1058
+01:29:53,917 --> 01:29:56,625
+À partir d'un embryon humain numérisé.
+
+1059
+01:29:59,542 --> 01:30:01,375
+Une réplique de votre enfant.
+
+1060
+01:30:05,542 --> 01:30:07,458
+Que ça te plaise ou non, Joshua,
+
+1061
+01:30:07,625 --> 01:30:09,667
+tu es l'un des nôtres.
+
+1062
+01:30:25,750 --> 01:30:27,125
+<i>Mon père m'a appris</i>
+
+1063
+01:30:27,833 --> 01:30:30,750
+<i>qu'en dépit de nos différences,
+nous sommes pareils.</i>
+
+1064
+01:30:36,167 --> 01:30:39,167
+<i>Un jour, j'étais dans un village d'IA
+où on élevait des orphelins humains.</i>
+
+1065
+01:30:40,667 --> 01:30:41,792
+Nomad <i>nous a attaqués.</i>
+
+1066
+01:30:44,750 --> 01:30:46,042
+J'ai vu une petite fille
+
+1067
+01:30:47,625 --> 01:30:48,875
+qui se vidait de son sang.
+
+1068
+01:30:50,125 --> 01:30:52,750
+<i>Et quand sa mère a vu
+qu'elle était morte,</i>
+
+1069
+01:30:55,458 --> 01:30:57,125
+elle s'est aussitôt éteinte.
+
+1070
+01:31:01,750 --> 01:31:03,208
+<i>Elle ne pouvait pas vivre
+sans son enfant.</i>
+
+1071
+01:31:06,083 --> 01:31:08,000
+Il est temps
+de mettre fin à cette guerre.
+
+1072
+01:31:08,750 --> 01:31:09,750
+Hé !
+
+1073
+01:31:21,458 --> 01:31:22,958
+Laissez-moi la mener jusqu'à Maya.
+
+1074
+01:31:24,000 --> 01:31:25,542
+Nous prenons l'enfant.
+
+1075
+01:31:27,792 --> 01:31:29,667
+D'accord. Doucement, doucement.
+
+1076
+01:31:30,000 --> 01:31:31,208
+Attendez ici.
+
+1077
+01:31:41,750 --> 01:31:42,750
+<i>Elle m'aimait.</i>
+
+1078
+01:31:47,000 --> 01:31:48,625
+<i>Nous allions fonder une famille.</i>
+
+1079
+01:31:51,125 --> 01:31:52,958
+<i>Oui, tu crois tout savoir, c'est ça ?</i>
+
+1080
+01:31:57,583 --> 01:31:59,875
+<i>Dans ce cas,
+comment s'appelle notre enfant ?</i>
+
+1081
+01:32:03,042 --> 01:32:04,792
+<i>Nous avions tous les deux
+nos secrets, mais...</i>
+
+1082
+01:32:10,042 --> 01:32:11,708
+<i>Nous allions devenir une famille.</i>
+
+1083
+01:32:15,167 --> 01:32:18,250
+<i>Je vis en elle, et elle vit en moi.</i>
+
+1084
+01:32:20,042 --> 01:32:21,667
+<i>Nous sommes tous liés.</i>
+
+1085
+01:32:28,083 --> 01:32:30,125
+Joshua, viens.
+
+1086
+01:32:30,667 --> 01:32:32,458
+Tu peux la voir.
+
+1087
+01:32:41,542 --> 01:32:43,333
+C'est Dian Dang ?
+
+1088
+01:32:43,500 --> 01:32:45,833
+Alphie m'a dit
+qu'elle était à Dian Dang.
+
+1089
+01:32:47,750 --> 01:32:49,875
+Dian Dang signifie "paradis".
+
+1090
+01:33:54,333 --> 01:33:55,833
+Elle est comme ça depuis longtemps ?
+
+1091
+01:33:57,292 --> 01:33:58,875
+Cinq ans.
+
+1092
+01:33:59,042 --> 01:34:00,708
+Depuis le soir de l'assaut,
+
+1093
+01:34:01,750 --> 01:34:04,042
+quand elle a perdu son enfant humain.
+
+1094
+01:34:04,208 --> 01:34:05,625
+Harun l'a amenée ici.
+
+1095
+01:34:08,375 --> 01:34:09,917
+Nous espérions
+qu'elle se réveillerait,
+
+1096
+01:34:10,667 --> 01:34:11,667
+mais...
+
+1097
+01:34:12,208 --> 01:34:13,542
+Elle est prisonnière.
+
+1098
+01:34:15,792 --> 01:34:17,208
+Elle ne peut pas revenir.
+
+1099
+01:34:18,708 --> 01:34:20,292
+Elle ne peut pas partir.
+
+1100
+01:34:22,042 --> 01:34:24,625
+La mort lui permettrait de renaître.
+
+1101
+01:34:26,917 --> 01:34:28,208
+Pourquoi n'avez-vous rien fait ?
+
+1102
+01:34:29,083 --> 01:34:30,542
+C'est impossible.
+
+1103
+01:34:31,208 --> 01:34:33,708
+Les simulants ne peuvent pas
+faire de mal à Nirmata.
+
+1104
+01:35:04,333 --> 01:35:05,458
+Je t'en prie, aide-la.
+
+1105
+01:35:06,917 --> 01:35:09,292
+Aidez-la à aller à Dian Dang.
+
+1106
+01:35:37,000 --> 01:35:38,042
+Seigneur.
+
+1107
+01:35:44,000 --> 01:35:45,083
+Je suis désolé.
+
+1108
+01:35:50,833 --> 01:35:52,125
+Tellement désolé.
+
+1109
+01:35:58,458 --> 01:35:59,542
+Si tu m'entends,
+
+1110
+01:36:00,667 --> 01:36:01,708
+sache que j'avais tort.
+
+1111
+01:36:05,792 --> 01:36:07,083
+Tu peux me pardonner ?
+
+1112
+01:36:08,833 --> 01:36:10,583
+Je vais tout arranger, promis.
+
+1113
+01:36:14,583 --> 01:36:16,583
+J'aimerais tant te parler
+une dernière fois.
+
+1114
+01:36:28,417 --> 01:36:29,750
+Au revoir, maman.
+
+1115
+01:36:34,375 --> 01:36:35,417
+Je t'aime.
+
+1116
+01:36:58,833 --> 01:37:01,750
+NOMAD nous a trouvés !
+
+1117
+01:37:02,250 --> 01:37:03,792
+Évacuez !
+
+1118
+01:37:13,167 --> 01:37:14,750
+Votre objectif est
+de pirater tous les systèmes
+
+1119
+01:37:14,917 --> 01:37:16,667
+et de localiser leurs autres bases.
+
+1120
+01:37:18,417 --> 01:37:20,125
+Faites-nous descendre.
+
+1121
+01:37:48,625 --> 01:37:50,250
+Il faut partir.
+
+1122
+01:37:51,583 --> 01:37:52,417
+Colonelle ?
+
+1123
+01:37:53,000 --> 01:37:55,000
+Relâchez d'abord l'arme,
+ensuite Nirmata.
+
+1124
+01:37:56,083 --> 01:37:57,375
+Merci de votre dévouement.
+
+1125
+01:37:57,542 --> 01:37:59,917
+Vous arrivez trop tard.
+Elle est morte.
+
+1126
+01:38:01,625 --> 01:38:02,958
+C'est moi qui décide
+si elle est morte.
+
+1127
+01:38:07,667 --> 01:38:08,917
+Vous vous prenez pour Dieu ?
+
+1128
+01:38:09,458 --> 01:38:12,583
+Vous avez de la chance que mes ordres
+soient de vous ramener en vie.
+
+1129
+01:38:12,750 --> 01:38:14,250
+Repos, Sergent.
+
+1130
+01:38:15,167 --> 01:38:16,875
+- N'avancez pas.
+- Colonelle, laissez-la en paix.
+
+1131
+01:38:17,042 --> 01:38:19,750
+- Je vous ai dit qu'elle était morte.
+- Vous n'êtes qu'un sale égoïste.
+
+1132
+01:38:19,917 --> 01:38:22,208
+Vous méritez que je vous tue.
+
+1133
+01:38:22,375 --> 01:38:24,375
+Mais si vous me remettez cette chose,
+vous resterez en vie.
+
+1134
+01:38:24,542 --> 01:38:25,708
+Vous serez même un héros.
+
+1135
+01:38:25,875 --> 01:38:27,750
+Vous saviez dans quel état était Maya.
+
+1136
+01:38:27,917 --> 01:38:30,042
+- Vous n'alliez pas la ramener.
+- En effet.
+
+1137
+01:38:31,000 --> 01:38:32,417
+- On entre.
+- Lâchez votre arme !
+
+1138
+01:38:32,583 --> 01:38:34,250
+- Déposez-la !
+- Lâchez votre arme !
+
+1139
+01:38:35,167 --> 01:38:36,333
+Tout de suite !
+
+1140
+01:38:39,833 --> 01:38:40,958
+Déposez votre arme !
+
+1141
+01:38:46,792 --> 01:38:47,625
+Non.
+
+1142
+01:38:49,792 --> 01:38:50,792
+Non.
+
+1143
+01:39:08,542 --> 01:39:09,375
+- C'est quoi ?
+- Merde !
+
+1144
+01:39:09,542 --> 01:39:11,042
+- Enlevez-moi ça !
+- Bon sang !
+
+1145
+01:39:11,208 --> 01:39:12,625
+- Enlevez ça !
+- Oui.
+
+1146
+01:39:12,792 --> 01:39:14,000
+- Enlevez-moi ça.
+- Attendez.
+
+1147
+01:39:14,375 --> 01:39:15,375
+Allez.
+
+1148
+01:39:19,500 --> 01:39:20,625
+L'arme nous attaque !
+
+1149
+01:39:20,792 --> 01:39:22,167
+Non, attendez, attendez !
+
+1150
+01:39:35,917 --> 01:39:37,542
+Sors l'enfant d'ici.
+
+1151
+01:39:38,458 --> 01:39:40,583
+Détruis <i>Nomad,</i>
+
+1152
+01:39:42,375 --> 01:39:43,375
+mon frère.
+
+1153
+01:39:46,000 --> 01:39:47,500
+Allez. Allez.
+
+1154
+01:40:06,625 --> 01:40:07,667
+Attendez ! Ne faites pas ça !
+
+1155
+01:40:09,208 --> 01:40:10,042
+Plus un geste.
+
+1156
+01:40:10,542 --> 01:40:11,500
+- Doucement.
+- Hé !
+
+1157
+01:40:12,458 --> 01:40:13,583
+Sergent Taylor,
+
+1158
+01:40:13,750 --> 01:40:16,042
+<i>Nomad </i>va faire feu. Il faut partir.
+
+1159
+01:40:16,208 --> 01:40:17,125
+Vous êtes un héros.
+
+1160
+01:40:17,292 --> 01:40:18,292
+Vous avez tué Nirmata.
+
+1161
+01:40:18,625 --> 01:40:20,542
+Vous avez l'arme.
+Nous avons trouvé les autres bases.
+
+1162
+01:40:20,708 --> 01:40:21,708
+Allons-y ! Allons-y !
+
+1163
+01:40:39,000 --> 01:40:40,000
+Arrêtez ! Arrêtez !
+
+1164
+01:40:41,625 --> 01:40:42,625
+Ça va.
+
+1165
+01:40:44,875 --> 01:40:45,958
+Hé ! Rendez-la-moi.
+
+1166
+01:40:46,125 --> 01:40:47,167
+Qu'est-ce que vous faites ?
+
+1167
+01:40:47,333 --> 01:40:49,083
+- Non ! Attendez.
+- Joshua !
+
+1168
+01:40:49,417 --> 01:40:50,250
+- Joshua !
+- Arrêtez.
+
+1169
+01:40:50,417 --> 01:40:51,917
+Vite, sergent. Vite, vite !
+
+1170
+01:40:52,083 --> 01:40:53,583
+- Joshua ! Josh...
+- Alphie !
+
+1171
+01:40:54,292 --> 01:40:55,583
+- Alphie.
+- Joshua !
+
+1172
+01:40:55,750 --> 01:40:58,208
+Joshua ! Joshua !
+
+1173
+01:41:02,208 --> 01:41:03,625
+Elle n'est pas réelle.
+
+1174
+01:41:03,792 --> 01:41:05,000
+C'est un programme.
+
+1175
+01:41:07,375 --> 01:41:08,500
+Elle n'est pas réelle.
+
+1176
+01:41:09,292 --> 01:41:10,292
+C'est juste un programme.
+
+1177
+01:41:11,542 --> 01:41:12,375
+Alphie.
+
+1178
+01:41:49,333 --> 01:41:52,167
+Nomad. <i>Sept, neuf, zéro.</i>
+
+1179
+01:41:53,708 --> 01:41:55,667
+Nous avons tenté
+de détruire l'arme proprement.
+
+1180
+01:41:56,583 --> 01:41:57,708
+Elle ne nous laisse pas faire.
+
+1181
+01:41:59,333 --> 01:42:00,208
+Elle a confiance en vous.
+
+1182
+01:42:02,375 --> 01:42:04,208
+Donc, soit vous nous aidez,
+
+1183
+01:42:04,375 --> 01:42:06,917
+soit nous devrons recourir
+à des méthodes très douloureuses.
+
+1184
+01:42:09,375 --> 01:42:10,375
+Ce sera rapide.
+
+1185
+01:42:11,208 --> 01:42:12,333
+C'est la meilleure solution.
+
+1186
+01:42:13,875 --> 01:42:15,292
+Nos techniciens...
+
+1187
+01:42:57,375 --> 01:42:58,833
+Est-ce que je vais aller au paradis ?
+
+1188
+01:43:11,708 --> 01:43:12,542
+Écoute-moi.
+
+1189
+01:43:13,083 --> 01:43:15,417
+Qu'est-ce qu'il dit ?
+Que se passe-t-il ?
+
+1190
+01:43:15,583 --> 01:43:16,583
+C'est juste de l'interférence.
+
+1191
+01:43:16,750 --> 01:43:18,333
+L'appareil IEM est en marche.
+
+1192
+01:43:28,875 --> 01:43:29,708
+Ça a fonctionné.
+
+1193
+01:43:30,083 --> 01:43:32,417
+L'arme est neutralisée.
+
+1194
+01:43:38,125 --> 01:43:39,750
+Que vont-ils faire d'elle ?
+
+1195
+01:43:40,208 --> 01:43:43,375
+Normalement, on l'emmènerait
+à bord de <i>Nomad </i>pour l'étudier.
+
+1196
+01:43:43,542 --> 01:43:46,667
+Mais on a décidé de l'incinérer
+au laboratoire de Surface Zéro.
+
+1197
+01:43:49,375 --> 01:43:51,750
+J'aimerais y assister.
+S'il vous plaît ?
+
+1198
+01:43:53,375 --> 01:43:54,458
+Ce ne sont pas des funérailles.
+
+1199
+01:43:57,958 --> 01:43:59,958
+Pour moi, oui, général.
+
+1200
+01:44:18,583 --> 01:44:21,667
+{\an8}<i>Les manifestants anti-</i>Nomad
+<i>se rassemblent partout dans le monde</i>
+
+1201
+01:44:21,833 --> 01:44:24,625
+<i>pour condamner les frappes prévues
+sur les bases de l'IA.</i>
+
+1202
+01:44:26,167 --> 01:44:27,000
+Qu'y a-t-il ?
+
+1203
+01:44:27,167 --> 01:44:29,833
+<i>Monsieur, on a déchiffré
+ce que Taylor a dit à l'arme.</i>
+
+1204
+01:44:30,208 --> 01:44:31,708
+<i>Je vous le transfère.</i>
+
+1205
+01:44:31,875 --> 01:44:34,583
+<i>Pas éteint. En veille.</i>
+
+1206
+01:44:36,500 --> 01:44:38,583
+Merde. Arrêtez ce véhicule.
+
+1207
+01:44:38,750 --> 01:44:40,917
+<i>Arrêtez-vous ! Tout de suite !
+C'est un ordre !</i>
+
+1208
+01:44:41,083 --> 01:44:42,458
+- Immobilisez le camion.
+- Alphie, vas-y.
+
+1209
+01:44:42,625 --> 01:44:44,667
+Bon sang. Que se passe-t-il ?
+
+1210
+01:45:02,583 --> 01:45:04,417
+- Joshua.
+- Viens, Alphie.
+
+1211
+01:45:06,417 --> 01:45:08,167
+Dites aux unités
+de boucler cette issue !
+
+1212
+01:45:08,333 --> 01:45:09,417
+Passage sécurisé !
+
+1213
+01:45:09,583 --> 01:45:10,667
+- Vite !
+- Allez, allez.
+
+1214
+01:45:10,833 --> 01:45:12,000
+Unité de confinement, l'autre côté !
+
+1215
+01:45:12,167 --> 01:45:14,792
+Où est l'arme ? Où est l'arme ?
+
+1216
+01:45:16,125 --> 01:45:16,958
+Rien par ici.
+
+1217
+01:45:17,125 --> 01:45:18,583
+Encerclez le véhicule
+pour les coincer !
+
+1218
+01:45:19,125 --> 01:45:20,458
+Où sont-ils allés ?
+
+1219
+01:45:32,750 --> 01:45:35,000
+<i>Prochain arrêt,
+base spatiale de Los Angeles.</i>
+
+1220
+01:45:46,250 --> 01:45:48,792
+<i>Embarquement pour le vol OX-1
+à destination des colonies lunaires.</i>
+
+1221
+01:45:48,958 --> 01:45:49,792
+Départs vers la lune
+
+1222
+01:45:49,958 --> 01:45:51,458
+<i>Rendez-vous à la porte 35 C.</i>
+
+1223
+01:45:52,042 --> 01:45:54,083
+<i>Merci de voler avec Lunar Airways.</i>
+
+1224
+01:45:54,250 --> 01:45:55,500
+Carte d'embarquement.
+
+1225
+01:45:58,292 --> 01:46:00,917
+- Merde.
+- Quel est le but de votre voyage ?
+
+1226
+01:46:02,500 --> 01:46:03,625
+La liberté.
+
+1227
+01:46:05,708 --> 01:46:06,708
+Bon vol.
+
+1228
+01:46:11,250 --> 01:46:12,750
+Ils essaient de prendre
+une navette lunaire.
+
+1229
+01:46:12,917 --> 01:46:13,875
+Arrêtez-les à tout prix.
+
+1230
+01:46:14,042 --> 01:46:15,542
+On n'arrive pas à les localiser !
+
+1231
+01:46:17,208 --> 01:46:18,250
+Clouez les navettes au sol.
+
+1232
+01:46:35,750 --> 01:46:37,708
+<i>Tout le personnel au centre
+de commandement de </i>Nomad.
+
+1233
+01:46:37,875 --> 01:46:39,875
+<i>Je répète, ceci n'est pas un exercice.</i>
+
+1234
+01:46:40,042 --> 01:46:41,583
+{\an8}<i>Tout le personnel
+au centre de commandement.</i>
+
+1235
+01:46:41,750 --> 01:46:42,667
+{\an8}CENTRE DE COMMANDE
+DE NOMAD
+
+1236
+01:46:42,833 --> 01:46:44,375
+{\an8}Faites revenir toutes ces navettes.
+
+1237
+01:46:44,542 --> 01:46:46,083
+{\an8}À vos ordres.
+
+1238
+01:46:47,375 --> 01:46:49,250
+Mesdames et messieurs,
+en raison d'une urgence,
+
+1239
+01:46:49,333 --> 01:46:51,458
+la navette va devoir retourner
+à Los Angeles.
+
+1240
+01:46:51,625 --> 01:46:53,792
+<i>Veuillez garder votre calme
+et suivre les instructions.</i>
+
+1241
+01:46:53,958 --> 01:46:56,583
+<i>Les combinaisons spatiales d'urgence
+sont à l'arrière de la navette.</i>
+
+1242
+01:46:56,750 --> 01:46:57,583
+<i>- Restez...
+</i>- D'accord.
+
+1243
+01:46:57,750 --> 01:46:58,583
+<i>Attachez vos ceintures</i>
+
+1244
+01:46:58,750 --> 01:47:00,083
+<i>- de sécurité...
+</i>- Alphie, tu es prête ?
+
+1245
+01:47:00,250 --> 01:47:02,125
+<i>... pour l'atterrissage à Los Angeles.</i>
+
+1246
+01:47:06,083 --> 01:47:07,208
+Un et trois sont éteints.
+
+1247
+01:47:07,375 --> 01:47:08,875
+- Le système de navigation ?
+- Négatif.
+
+1248
+01:47:13,792 --> 01:47:14,667
+Que se passe-t-il ?
+
+1249
+01:47:14,833 --> 01:47:17,917
+On a perdu contact avec le vol OX-1.
+Il a changé de cap.
+
+1250
+01:47:30,250 --> 01:47:32,167
+Ne laissez pas cette chose
+monter à bord de <i>Nomad.</i>
+
+1251
+01:47:32,333 --> 01:47:33,333
+Bien reçu.
+
+1252
+01:47:49,333 --> 01:47:51,542
+- Que s'est-il passé ?
+- Mesdames et Messieurs,
+
+1253
+01:47:51,708 --> 01:47:52,542
+<i>en raison d'une urgence,</i>
+
+1254
+01:47:52,708 --> 01:47:53,583
+- <i>nous avons dû...
+</i>- Quoi ?
+
+1255
+01:47:53,750 --> 01:47:55,125
+<i>... atterrir sur une base militaire.</i>
+
+1256
+01:48:01,250 --> 01:48:03,000
+<i>Nous vous demandons
+d'évacuer la navette calmement</i>
+
+1257
+01:48:03,167 --> 01:48:04,917
+<i>et d'obéir au personnel militaire.</i>
+
+1258
+01:48:05,083 --> 01:48:06,417
+<i>Ils sont là pour vous protéger.</i>
+
+1259
+01:48:06,583 --> 01:48:07,583
+Ça va, tout le monde.
+
+1260
+01:48:07,750 --> 01:48:09,500
+Restez calme. Suivez-nous.
+
+1261
+01:48:13,000 --> 01:48:14,250
+<i>Aucun signe d'eux.</i>
+
+1262
+01:48:14,417 --> 01:48:15,417
+<i>On y va.</i>
+
+1263
+01:48:22,750 --> 01:48:24,125
+Joshua !
+
+1264
+01:48:24,292 --> 01:48:26,125
+<i>On fonce ! Allez, allez !</i>
+
+1265
+01:48:28,167 --> 01:48:29,167
+<i>Équipe Alpha en place.</i>
+
+1266
+01:48:29,333 --> 01:48:31,458
+<i>On y va. Allez, allez.</i>
+
+1267
+01:48:31,958 --> 01:48:33,625
+<i>On arrive à la cabine de pilotage.</i>
+
+1268
+01:48:33,792 --> 01:48:34,750
+<i>Aucun signe de lui.</i>
+
+1269
+01:48:34,917 --> 01:48:35,917
+<i>La cabine est vide.</i>
+
+1270
+01:48:37,333 --> 01:48:38,500
+<i>Il manque une combinaison spatiale.</i>
+
+1271
+01:48:41,250 --> 01:48:43,042
+<i>Attendez. Cible en vue.</i>
+
+1272
+01:48:43,208 --> 01:48:44,417
+<i>Il va ouvrir la porte !</i>
+
+1273
+01:48:44,583 --> 01:48:45,750
+<i>- Reculez !
+- Vite !</i>
+
+1274
+01:48:47,750 --> 01:48:49,083
+<i>- Allez, allez !
+- Allez, allez !</i>
+
+1275
+01:48:50,375 --> 01:48:52,333
+<i>Alphie ! Accroche-toi !</i>
+
+1276
+01:48:54,333 --> 01:48:55,333
+<i>Tiens bon !</i>
+
+1277
+01:48:56,083 --> 01:48:57,167
+<i>Je n'y arrive pas !</i>
+
+1278
+01:48:57,875 --> 01:48:58,708
+<i>Non !</i>
+
+1279
+01:49:07,000 --> 01:49:08,458
+Ouvrez le sas !
+
+1280
+01:49:10,083 --> 01:49:11,583
+<i>Appuyez sur le bouton !</i>
+
+1281
+01:49:13,792 --> 01:49:16,417
+Appuyez sur le bouton,
+je vous en prie.
+
+1282
+01:49:27,000 --> 01:49:27,833
+PRÊT
+
+1283
+01:49:28,250 --> 01:49:29,958
+Général, Taylor est
+en train d'armer un explosif.
+
+1284
+01:49:30,125 --> 01:49:31,417
+Ils vont détruire <i>Nomad.</i>
+
+1285
+01:49:32,250 --> 01:49:33,583
+On devance l'assaut.
+
+1286
+01:49:33,750 --> 01:49:35,333
+Attaquez toutes les bases de l'IA.
+
+1287
+01:49:46,500 --> 01:49:48,667
+<i>Merde. Ils lancent les missiles.</i>
+
+1288
+01:50:01,083 --> 01:50:03,250
+<i>Alphie. Approche.</i>
+
+1289
+01:50:04,417 --> 01:50:06,000
+<i>Écoute-moi bien. Tiens.</i>
+
+1290
+01:50:06,875 --> 01:50:07,917
+<i>On va se parler sur la radio.</i>
+
+1291
+01:50:09,125 --> 01:50:10,917
+<i>Tu dois les empêcher
+de lancer ces missiles.</i>
+
+1292
+01:50:11,083 --> 01:50:13,500
+<i>Va les désactiver,
+et moi, je fais exploser cet endroit.</i>
+
+1293
+01:50:14,833 --> 01:50:17,000
+<i>C'est pour maman.
+C'est ce qu'elle voulait.</i>
+
+1294
+01:50:20,208 --> 01:50:21,667
+<i>Fais-le pour elle.</i>
+
+1295
+01:50:21,833 --> 01:50:22,917
+<i>Fais-le pour maman.</i>
+
+1296
+01:50:23,417 --> 01:50:24,458
+<i>Va dans la salle de contrôle</i>
+
+1297
+01:50:24,625 --> 01:50:27,042
+<i>et désactive les missiles.
+On se retrouve ici.</i>
+
+1298
+01:50:28,750 --> 01:50:31,125
+<i>Allez. Allez.</i>
+
+1299
+01:50:40,000 --> 01:50:41,250
+Elle est à l'intérieur.
+
+1300
+01:50:41,708 --> 01:50:43,250
+L'arme est entrée dans <i>Nomad.</i>
+
+1301
+01:50:44,042 --> 01:50:45,917
+Trouvez-la et détruisez-la.
+
+1302
+01:50:46,083 --> 01:50:47,375
+- À vos ordres.
+- Attendez.
+
+1303
+01:50:48,458 --> 01:50:49,417
+Où est Taylor ?
+
+1304
+01:50:49,583 --> 01:50:52,750
+<i>Bon. Ne tombe pas, Joshua.</i>
+
+1305
+01:50:57,333 --> 01:50:58,458
+- Allez, allez.
+- Faites feu !
+
+1306
+01:50:58,625 --> 01:50:59,458
+Couvre-moi.
+
+1307
+01:50:59,625 --> 01:51:00,625
+Allez !
+
+1308
+01:51:02,833 --> 01:51:04,458
+<i>Salle de contrôle localisée.</i>
+
+1309
+01:51:10,750 --> 01:51:14,042
+<i>Tous les membres du personnel doivent
+se rendre au point de rassemblement.</i>
+
+1310
+01:51:14,750 --> 01:51:18,375
+<i>Tout le monde au point
+de rassemblement pour l'évacuation.</i>
+
+1311
+01:51:19,250 --> 01:51:20,417
+<i>Ceci n'est pas un exercice.</i>
+
+1312
+01:51:31,167 --> 01:51:33,000
+Général, Taylor se dirige
+vers un missile.
+
+1313
+01:51:33,167 --> 01:51:34,208
+Lancez l'attaque.
+
+1314
+01:51:34,375 --> 01:51:35,875
+À vos ordres.
+
+1315
+01:51:44,833 --> 01:51:46,500
+<i>Alphie, tu dois les arrêter.</i>
+
+1316
+01:51:46,833 --> 01:51:48,500
+<i>Va à la salle de contrôle, vite !</i>
+
+1317
+01:51:54,833 --> 01:51:56,833
+<i>Missiles en route vers les cibles.</i>
+
+1318
+01:52:06,667 --> 01:52:07,708
+<i>Alphie, désactive-le !</i>
+
+1319
+01:52:07,875 --> 01:52:08,875
+<i>Vite !</i>
+
+1320
+01:52:10,875 --> 01:52:12,625
+<i>Alphie, maintenant !</i>
+
+1321
+01:52:39,208 --> 01:52:41,083
+Le système de lancement
+s'est éteint, monsieur.
+
+1322
+01:52:52,042 --> 01:52:53,250
+<i>Dix minutes.</i>
+
+1323
+01:52:56,292 --> 01:52:58,500
+<i>Alphie, bien joué ! On a dix minutes.</i>
+
+1324
+01:52:58,667 --> 01:52:59,708
+<i>Retourne à la navette.</i>
+
+1325
+01:52:59,875 --> 01:53:00,958
+<i>Vite !</i>
+
+1326
+01:53:06,583 --> 01:53:07,583
+Le courant est rétabli.
+
+1327
+01:53:08,875 --> 01:53:10,500
+Le système de lancement est
+hors service.
+
+1328
+01:53:25,167 --> 01:53:28,042
+RECHERCHE IA
+
+1329
+01:53:36,750 --> 01:53:37,958
+<i>Niveau d'oxygène faible.</i>
+
+1330
+01:53:38,125 --> 01:53:39,083
+<i>Alphie.</i>
+
+1331
+01:53:39,458 --> 01:53:40,583
+<i>Niveau d'oxygène faible.</i>
+
+1332
+01:53:40,750 --> 01:53:41,708
+<i>On doit y aller.</i>
+
+1333
+01:54:01,958 --> 01:54:03,208
+Maman ?
+
+1334
+01:54:05,833 --> 01:54:06,833
+<i>Alphie ?</i>
+
+1335
+01:54:08,208 --> 01:54:09,042
+<i>Alphie ?</i>
+
+1336
+01:54:09,208 --> 01:54:10,500
+<i>Cinq minutes.</i>
+
+1337
+01:54:11,542 --> 01:54:12,458
+<i>Bon sang.</i>
+
+1338
+01:54:26,875 --> 01:54:28,208
+<i>Niveau d'oxygène faible.</i>
+
+1339
+01:54:28,375 --> 01:54:29,625
+<i>Non !</i>
+
+1340
+01:54:29,792 --> 01:54:31,167
+<i>Niveau d'oxygène faible.</i>
+
+1341
+01:54:43,125 --> 01:54:44,792
+<i>Niveau d'oxygène critique.</i>
+
+1342
+01:54:44,958 --> 01:54:45,875
+<i>Alphie.</i>
+
+1343
+01:54:46,042 --> 01:54:47,625
+<i>Je ne peux pas respirer.</i>
+
+1344
+01:54:48,083 --> 01:54:49,417
+Allez, allez.
+
+1345
+01:54:49,583 --> 01:54:50,833
+Joshua a besoin de nous.
+
+1346
+01:54:51,000 --> 01:54:52,125
+<i>Je ne peux pas respirer.</i>
+
+1347
+01:55:13,708 --> 01:55:15,792
+<i>Missiles à proximité
+de leur cible finale.</i>
+
+1348
+01:55:19,750 --> 01:55:20,958
+Pardon, maman.
+
+1349
+01:55:28,417 --> 01:55:30,083
+<i>Niveau d'oxygène critique.</i>
+
+1350
+01:55:31,292 --> 01:55:32,833
+<i>Niveau d'oxygène critique.</i>
+
+1351
+01:55:34,875 --> 01:55:36,667
+<i>Trois minutes.</i>
+
+1352
+01:55:41,083 --> 01:55:42,500
+<i>Sas activé.</i>
+
+1353
+01:55:47,083 --> 01:55:48,542
+Je prépare la capsule d'évacuation.
+
+1354
+01:55:52,083 --> 01:55:53,875
+<i>Stabilisation de l'oxygène.</i>
+
+1355
+01:55:58,667 --> 01:56:00,958
+<i>Capsule d'évacuation activée.</i>
+
+1356
+01:56:07,667 --> 01:56:09,667
+<i>Localisation des cibles restantes.</i>
+
+1357
+01:56:29,958 --> 01:56:31,625
+TRAJECTOIRE DES MISSILES
+
+1358
+01:56:31,792 --> 01:56:34,250
+Général, on les a localisés.
+Ils essaient de fuir.
+
+1359
+01:56:36,292 --> 01:56:37,333
+Trouvez une unité à distance.
+
+1360
+01:56:37,500 --> 01:56:38,500
+J'ai un accès.
+
+1361
+01:56:39,333 --> 01:56:40,333
+Quels sont vos ordres ?
+
+1362
+01:56:42,167 --> 01:56:43,208
+Tuez ces pourritures.
+
+1363
+01:56:44,625 --> 01:56:46,958
+Activation dans trois, deux, un.
+
+1364
+01:56:56,833 --> 01:56:58,083
+Non, non.
+
+1365
+01:56:59,250 --> 01:57:00,917
+Hé, non ! Alphie !
+
+1366
+01:57:11,542 --> 01:57:13,500
+<i>- Sas d'évacuation neutralisé.
+</i>- Alphie !
+
+1367
+01:57:13,917 --> 01:57:14,917
+À l'aide !
+
+1368
+01:57:20,167 --> 01:57:21,875
+<i>Dépressurisation du sas.</i>
+
+1369
+01:57:24,833 --> 01:57:27,500
+Allez. Allez.
+
+1370
+01:57:31,333 --> 01:57:32,583
+<i>Une minute.</i>
+
+1371
+01:57:32,750 --> 01:57:34,333
+<i>Sas équilibré.</i>
+
+1372
+01:58:17,250 --> 01:58:18,167
+Allez.
+
+1373
+01:58:27,833 --> 01:58:28,667
+Joshua.
+
+1374
+01:58:28,958 --> 01:58:30,000
+Aide-moi !
+
+1375
+01:58:30,167 --> 01:58:31,500
+Je n'arrive pas à l'ouvrir.
+
+1376
+01:58:31,667 --> 01:58:32,750
+La porte est cassée.
+
+1377
+01:58:32,917 --> 01:58:34,250
+<i>Dix, neuf...</i>
+
+1378
+01:58:34,750 --> 01:58:36,542
+<i>- Huit, sept...
+</i>- Encore.
+
+1379
+01:58:36,708 --> 01:58:38,667
+<i>- Six, cinq...
+</i>- Alphie, pousse !
+
+1380
+01:58:38,833 --> 01:58:39,667
+<i>- Quatre...
+</i>- J'essaie.
+
+1381
+01:58:39,833 --> 01:58:42,875
+<i>Trois, deux, un.</i>
+
+1382
+01:58:55,167 --> 01:58:56,000
+ERREUR SIGNAL PERDU
+
+1383
+01:58:56,167 --> 01:58:57,958
+<i>Connexion au missile perdue.</i>
+
+1384
+01:58:58,125 --> 01:58:59,750
+<i>Connexion au missile perdue.</i>
+
+1385
+01:59:19,083 --> 01:59:21,708
+<i>Attention.
+Défaillance imminente du réacteur.</i>
+
+1386
+01:59:23,000 --> 01:59:26,083
+<i>Attention.
+Défaillance imminente du réacteur.</i>
+
+1387
+01:59:26,250 --> 01:59:27,583
+Continue de tirer.
+
+1388
+01:59:28,000 --> 01:59:29,458
+Ouvre-toi.
+
+1389
+01:59:29,625 --> 01:59:30,583
+Non, non.
+
+1390
+01:59:30,750 --> 01:59:32,333
+- Ne fais pas ça !
+- Ça va.
+
+1391
+01:59:33,708 --> 01:59:34,708
+Ça va.
+
+1392
+01:59:37,000 --> 01:59:38,708
+- Je vais au paradis.
+- Non.
+
+1393
+01:59:38,875 --> 01:59:40,208
+- Je te rejoindrai là-bas.
+- Non !
+
+1394
+01:59:40,375 --> 01:59:41,750
+Non.
+
+1395
+01:59:41,917 --> 01:59:43,167
+C'est grâce à toi que j'y vais.
+
+1396
+01:59:43,333 --> 01:59:44,833
+Je ne veux pas que tu partes.
+
+1397
+01:59:46,750 --> 01:59:48,500
+Je veux être avec toi.
+
+1398
+01:59:50,458 --> 01:59:51,458
+S'il te plaît.
+
+1399
+02:00:00,875 --> 02:00:01,875
+Je t'aime, Alphie.
+
+1400
+02:00:03,583 --> 02:00:04,583
+Je t'aime aussi.
+
+1401
+02:00:08,750 --> 02:00:09,750
+Je t'aime.
+
+1402
+02:00:14,125 --> 02:00:15,500
+Non !
+
+1403
+02:00:25,583 --> 02:00:26,417
+Oui.
+
+1404
+02:01:19,750 --> 02:01:20,667
+Joshua ?
+
+1405
+02:01:22,292 --> 02:01:23,208
+Maya !
+
+1406
+02:01:24,000 --> 02:01:24,875
+Joshua !
+
+1407
+02:03:08,208 --> 02:03:15,208
+Nirmata ! Nirmata ! Nirmata !
+
+1408
+02:03:25,500 --> 02:03:28,500
+Réalisé par
+
+1409
+02:03:29,167 --> 02:03:32,917
+Scénario
+et
+
+1410
+02:03:33,958 --> 02:03:36,708
+Histoire originale
+
+1411
+02:03:37,167 --> 02:03:41,625
+Produit par
+
+1412
+02:03:42,292 --> 02:03:45,167
+Produit par
+
+1413
+02:03:46,667 --> 02:03:50,125
+Producteurs délégués
+
+1414
+02:03:51,583 --> 02:03:54,375
+Producteurs délégués
+
+1415
+02:03:55,083 --> 02:03:58,708
+Directeurs de la photographie
+
+1416
+02:04:00,375 --> 02:04:02,375
+Chef décorateur
+
+1417
+02:04:02,750 --> 02:04:07,292
+Montage
+
+1418
+02:04:07,833 --> 02:04:10,917
+Musique
+
+1419
+02:04:11,667 --> 02:04:14,750
+Superviseur de la musique
+
+1420
+02:04:15,417 --> 02:04:19,000
+Concepteurs sonores
+
+1421
+02:04:20,792 --> 02:04:22,625
+Producteur des effets visuels
+
+1422
+02:04:23,958 --> 02:04:26,417
+Superviseur des effets visuels ILM
+
+1423
+02:04:27,417 --> 02:04:30,250
+Superviseure des effets visuels ILM
+
+1424
+02:04:30,833 --> 02:04:33,917
+Coproducteurs
+
+1425
+02:04:34,875 --> 02:04:37,667
+Chef costumier
+
+1426
+02:04:37,958 --> 02:04:41,583
+Casting
+
+1427
+02:05:12,625 --> 02:05:15,208
+Pour la première fois à l'écran
+dans le rôle d'ALPHIE
+
+1428
+02:05:15,458 --> 02:05:18,917
+et
+
+1429
+02:05:23,958 --> 02:05:27,750
+UN FILM DE
+
+1430
+02:13:14,417 --> 02:13:16,417
+Sous-titres : Marieve Guerin

@@ -1,0 +1,3161 @@
+1
+00:01:38,262 --> 00:01:41,223
+Edmund ! Éloigne-toi !
+
+2
+00:01:41,306 --> 00:01:43,809
+Peter ! Que fais-tu ?
+
+3
+00:01:43,892 --> 00:01:45,727
+À l'abri !
+
+4
+00:01:45,811 --> 00:01:47,104
+- Vite !
+- Viens !
+
+5
+00:01:47,187 --> 00:01:48,856
+On s'en va.
+
+6
+00:01:50,482 --> 00:01:53,277
+Maman !
+
+7
+00:01:54,695 --> 00:01:56,738
+Lucy, viens !
+
+8
+00:01:58,198 --> 00:01:59,825
+Vite !
+
+9
+00:02:05,664 --> 00:02:08,542
+Attendez ! Papa.
+
+10
+00:02:08,625 --> 00:02:11,211
+- Non !
+- Je vais le chercher.
+
+11
+00:02:11,295 --> 00:02:12,421
+Peter, reviens !
+
+12
+00:02:17,843 --> 00:02:20,262
+Imbécile, cours !
+
+13
+00:02:21,054 --> 00:02:22,514
+Sors !
+
+14
+00:02:34,401 --> 00:02:37,571
+Tu ne penses qu'à toi.
+Tu es égoïste !
+
+15
+00:02:37,654 --> 00:02:39,239
+On a failli se faire tuer.
+
+16
+00:02:47,998 --> 00:02:50,542
+Quand apprendras-tu à obéir ?
+
+17
+00:03:07,518 --> 00:03:11,396
+Tu dois garder ça sur toi.
+
+18
+00:03:11,480 --> 00:03:13,899
+Tu as bien chaud ?
+
+19
+00:03:20,197 --> 00:03:22,074
+Papa nous aurait gardés ici.
+
+20
+00:03:22,157 --> 00:03:24,326
+Si papa était là,
+la guerre serait finie.
+
+21
+00:03:24,409 --> 00:03:26,954
+Tu écouteras bien ton frère.
+
+22
+00:03:41,760 --> 00:03:44,638
+Promets-moi de veiller sur eux.
+
+23
+00:03:44,721 --> 00:03:46,306
+Promis.
+
+24
+00:03:49,142 --> 00:03:51,228
+Mon grand.
+
+25
+00:03:56,441 --> 00:03:59,111
+Susan.
+
+26
+00:04:00,612 --> 00:04:03,073
+Sois forte.
+
+27
+00:04:07,452 --> 00:04:11,039
+Bien. Il faut y aller.
+
+28
+00:04:19,006 --> 00:04:23,218
+Lâche-moi,
+je sais monter dans un train.
+
+29
+00:04:26,889 --> 00:04:29,808
+Vos billets !
+Vos billets, s'il vous plaît.
+
+30
+00:04:41,403 --> 00:04:44,239
+Viens, Lucy,
+nous devons rester ensemble.
+
+31
+00:04:44,323 --> 00:04:47,493
+Tout se passera bien.
+
+32
+00:05:07,012 --> 00:05:09,097
+Au revoir, maman.
+
+33
+00:05:53,058 --> 00:05:56,603
+LE MONDE DE NARNIA
+Chapitre I
+
+34
+00:05:56,687 --> 00:05:59,523
+LE LION, LÀ SORCIÈRE BLANCHE
+ET L'ARMOIRE MAGIQUE
+
+35
+00:07:28,987 --> 00:07:32,241
+Le professeur a été prévenu.
+
+36
+00:07:32,324 --> 00:07:34,910
+On n'a pas dû être expédiés
+à la bonne adresse.
+
+37
+00:07:50,843 --> 00:07:54,221
+- Madame Macready ?
+- Je le crains fort.
+
+38
+00:07:56,014 --> 00:07:59,560
+C'est tout ?
+Vous n'avez rien d'autre ?
+
+39
+00:07:59,643 --> 00:08:01,645
+Non, madame.
+
+40
+00:08:02,271 --> 00:08:03,814
+Il n'y a que nous.
+
+41
+00:08:05,107 --> 00:08:07,943
+À la bonne heure !
+
+42
+00:08:08,986 --> 00:08:13,532
+Allez, allez !
+
+43
+00:08:27,588 --> 00:08:31,967
+Le professeur Kirke n'est pas habitué
+à recevoir des enfants.
+
+44
+00:08:32,050 --> 00:08:36,138
+Aussi, y aura-t-il
+quelques règles à respecter.
+
+45
+00:08:36,221 --> 00:08:38,265
+Ne pas crier,
+
+46
+00:08:38,348 --> 00:08:42,644
+ni courir.
+Ne pas jouer avec le monte-plat.
+
+47
+00:08:42,728 --> 00:08:45,731
+Ne pas toucher aux reproductions.
+
+48
+00:08:48,609 --> 00:08:50,444
+Et surtout,
+
+49
+00:08:50,527 --> 00:08:55,824
+ne jamais déranger le professeur.
+
+50
+00:09:04,625 --> 00:09:09,213
+<i>L'aviation allemande a mené</i>
+<i>des attaques en Angleterre cette nuit.</i>
+
+51
+00:09:09,296 --> 00:09:11,715
+<i>Les bombardements ont duré</i>
+<i>des heures...</i>
+
+52
+00:09:17,721 --> 00:09:19,223
+Ils grattent, ces draps.
+
+53
+00:09:20,933 --> 00:09:25,354
+Les guerres ne durent pas toute la vie,
+on rentrera bientôt.
+
+54
+00:09:25,437 --> 00:09:29,149
+- Si la maison est encore là.
+- Tu devrais être au lit.
+
+55
+00:09:29,233 --> 00:09:30,442
+Oui, maman.
+
+56
+00:09:33,445 --> 00:09:37,783
+Tu as vu l'extérieur ?
+C'est immense, ici.
+
+57
+00:09:37,866 --> 00:09:39,868
+On fera ce qu'on veut.
+
+58
+00:09:39,952 --> 00:09:42,454
+On va bien s'amuser demain.
+
+59
+00:09:43,330 --> 00:09:44,748
+Tu verras.
+
+60
+00:09:49,461 --> 00:09:53,257
+"Gastro-vasculaire."
+
+61
+00:09:55,050 --> 00:09:58,011
+Allez, Peter.
+Gastro-vasculaire.
+
+62
+00:09:58,095 --> 00:09:59,888
+C'est du latin ?
+
+63
+00:10:01,390 --> 00:10:05,185
+En latin, ça signifie
+"le pire jeu jamais inventé" ?
+
+64
+00:10:07,354 --> 00:10:09,815
+On pourrait jouer à cache-cache.
+
+65
+00:10:11,108 --> 00:10:14,152
+Mais on s'amuse déjà tellement.
+
+66
+00:10:14,987 --> 00:10:18,073
+S'il te plaît ?
+
+67
+00:10:18,156 --> 00:10:20,659
+Dis "oui".
+
+68
+00:10:21,118 --> 00:10:25,581
+- Un, deux, trois...
+- Quoi ?
+
+69
+00:11:04,870 --> 00:11:06,121
+J'étais là avant !
+
+70
+00:12:15,774 --> 00:12:18,777
+83, 84...
+
+71
+00:12:29,371 --> 00:12:30,998
+95, 96...
+
+72
+00:15:23,545 --> 00:15:25,923
+Vous vous cachiez ?
+
+73
+00:15:31,887 --> 00:15:33,847
+Eh bien...
+
+74
+00:15:35,140 --> 00:15:36,725
+Je...
+
+75
+00:15:36,808 --> 00:15:39,645
+Non, je...
+
+76
+00:15:39,728 --> 00:15:42,606
+Je ne voulais pas vous faire peur.
+
+77
+00:15:44,858 --> 00:15:49,696
+Pardon de vous poser la question.
+Vous êtes quoi ?
+
+78
+00:15:49,780 --> 00:15:53,200
+Je suis un faune.
+
+79
+00:15:53,283 --> 00:15:54,618
+Et vous ?
+
+80
+00:15:54,701 --> 00:15:57,955
+Vous êtes un nain sans barbe ?
+
+81
+00:15:58,038 --> 00:16:00,999
+Je ne suis pas un nain,
+je suis une fille.
+
+82
+00:16:02,835 --> 00:16:07,256
+Je suis même
+la plus grande de ma classe.
+
+83
+00:16:11,343 --> 00:16:14,012
+Vous voulez dire, une "fille d'Eve" ?
+
+84
+00:16:14,096 --> 00:16:16,306
+Ma maman s'appelle Helen.
+
+85
+00:16:16,390 --> 00:16:21,186
+En fait, vous êtes un être humain.
+
+86
+00:16:21,270 --> 00:16:24,147
+Oui, bien sûr.
+
+87
+00:16:25,816 --> 00:16:27,442
+Que faites-vous ici ?
+
+88
+00:16:27,526 --> 00:16:31,155
+Je me cachais dans l'armoire
+de la chambre d'amis...
+
+89
+00:16:31,238 --> 00:16:33,365
+Champ... "Bredami" ?
+C'est à Narnia ?
+
+90
+00:16:33,448 --> 00:16:35,909
+Narnia ?
+Qu'est-ce que c'est ?
+
+91
+00:16:36,952 --> 00:16:39,496
+Ma chère, vous y êtes.
+
+92
+00:16:39,580 --> 00:16:41,957
+Tout, du réverbère...
+
+93
+00:16:42,040 --> 00:16:45,544
+au château de Cair Paravel,
+sur l'Océan oriental.
+
+94
+00:16:45,627 --> 00:16:48,297
+Chaque brindille, chaque pierre...
+
+95
+00:16:48,380 --> 00:16:52,009
+chaque stalactite,
+fait partie de Narnia.
+
+96
+00:16:53,510 --> 00:16:57,014
+Elle est immense, cette armoire !
+
+97
+00:16:57,097 --> 00:16:59,892
+"Tarmoire" ?
+
+98
+00:16:59,975 --> 00:17:03,896
+Pardon, permettez-moi de me présenter.
+Je m'appelle Tumnus.
+
+99
+00:17:03,979 --> 00:17:07,941
+Enchantée, M. Tumnus.
+Je suis Lucy Pevensie.
+
+100
+00:17:11,737 --> 00:17:16,033
+- On se serre la main.
+- Pourquoi ?
+
+101
+00:17:16,783 --> 00:17:19,870
+Je ne sais pas.
+
+102
+00:17:19,953 --> 00:17:22,247
+Ça se fait quand on se rencontre.
+
+103
+00:17:30,672 --> 00:17:35,969
+Lucy Pevensie,
+de la lumineuse cité de "Tarmoire"
+
+104
+00:17:36,053 --> 00:17:38,972
+en ce pays merveilleux
+qu'est "Bredami",
+
+105
+00:17:39,056 --> 00:17:43,810
+que diriez-vous
+de venir prendre le thé avec moi ?
+
+106
+00:17:43,894 --> 00:17:46,688
+Merci, mais...
+
+107
+00:17:48,065 --> 00:17:50,359
+je ferais mieux de rentrer.
+
+108
+00:17:50,442 --> 00:17:55,072
+J'habite tout près et il y aura
+un fabuleux feu de cheminée,
+
+109
+00:17:55,155 --> 00:17:58,659
+des tartines,
+du thé et des gâteaux.
+
+110
+00:17:58,742 --> 00:18:02,204
+On pourra même ouvrir
+une boîte de sardines.
+
+111
+00:18:03,121 --> 00:18:06,458
+- Je ne sais pas.
+- Allons !
+
+112
+00:18:06,542 --> 00:18:09,711
+Les nouveaux amis sont rares.
+
+113
+00:18:09,795 --> 00:18:15,217
+Je peux sans doute passer
+un moment avec vous.
+
+114
+00:18:15,300 --> 00:18:16,677
+Si vous avez des sardines.
+
+115
+00:18:17,719 --> 00:18:19,513
+Une montagne de boîtes.
+
+116
+00:18:31,233 --> 00:18:32,943
+Ça va ?
+
+117
+00:18:41,118 --> 00:18:42,661
+Nous y sommes.
+
+118
+00:18:43,412 --> 00:18:44,955
+Venez.
+
+119
+00:18:51,044 --> 00:18:53,255
+- Après vous.
+- Je vais vous aider.
+
+120
+00:18:53,338 --> 00:18:55,716
+Merci.
+
+121
+00:19:13,358 --> 00:19:15,611
+C'est mon père.
+
+122
+00:19:16,862 --> 00:19:19,031
+Il a une bonne tête.
+
+123
+00:19:19,740 --> 00:19:21,241
+Vous lui ressemblez.
+
+124
+00:19:24,453 --> 00:19:27,414
+Je ne lui ressemble pas tant que ça.
+
+125
+00:19:27,498 --> 00:19:29,875
+Mon père est parti à la guerre.
+
+126
+00:19:32,503 --> 00:19:34,588
+Le mien aussi.
+
+127
+00:19:36,590 --> 00:19:38,759
+C'était il y a bien longtemps.
+
+128
+00:19:40,177 --> 00:19:44,014
+- Avant cet affreux hiver.
+- L'hiver, c'est pas si mal.
+
+129
+00:19:44,097 --> 00:19:48,644
+Le patin à glace,
+les batailles de boules de neige.
+
+130
+00:19:49,603 --> 00:19:52,606
+- Et Noël !
+- Pas ici.
+
+131
+00:19:52,689 --> 00:19:57,653
+Cela fait un siècle
+que l'on ne fête plus Noël.
+
+132
+00:19:58,779 --> 00:20:01,490
+Pas de cadeau, depuis cent ans ?
+
+133
+00:20:01,573 --> 00:20:03,992
+Toujours l'hiver, jamais Noël !
+
+134
+00:20:04,076 --> 00:20:06,954
+C'est un hiver sans fin.
+
+135
+00:20:07,663 --> 00:20:11,166
+Vous auriez adoré Narnia en été.
+
+136
+00:20:11,917 --> 00:20:15,546
+Nous, les faunes,
+dansions toute la nuit...
+
+137
+00:20:15,629 --> 00:20:18,423
+sans éprouver la moindre fatigue.
+
+138
+00:20:19,633 --> 00:20:24,638
+De la musique, et quelle musique !
+
+139
+00:20:25,681 --> 00:20:29,101
+Aimeriez-vous en écouter ?
+
+140
+00:20:31,186 --> 00:20:32,729
+Volontiers.
+
+141
+00:20:36,608 --> 00:20:40,028
+Connaissez-vous...
+
+142
+00:20:40,112 --> 00:20:43,991
+- les berceuses de Narnia ?
+- Désolée, non.
+
+143
+00:20:44,074 --> 00:20:46,368
+Tant mieux !
+
+144
+00:20:46,451 --> 00:20:51,415
+Parce que celle-ci
+ne ressemblera sûrement à rien.
+
+145
+00:22:16,416 --> 00:22:19,002
+- Je devrais rentrer.
+- Trop tard.
+
+146
+00:22:20,671 --> 00:22:23,090
+Je suis un horrible faune.
+
+147
+00:22:28,887 --> 00:22:31,640
+Vous êtes le faune le plus gentil
+que je connaisse.
+
+148
+00:22:31,723 --> 00:22:35,310
+Vous n'avez que peu d'éléments
+de comparaison.
+
+149
+00:22:35,394 --> 00:22:39,940
+Vous ne pouvez pas avoir fait
+tant de mal.
+
+150
+00:22:41,859 --> 00:22:46,155
+Ce n'est pas une chose
+que j'ai faite.
+
+151
+00:22:46,738 --> 00:22:48,824
+C'est ce que je fais.
+
+152
+00:22:48,907 --> 00:22:50,617
+Que faites-vous ?
+
+153
+00:22:51,368 --> 00:22:53,287
+Je vous kidnappe.
+
+154
+00:22:55,122 --> 00:22:56,832
+C'est la Sorcière Blanche.
+
+155
+00:22:56,915 --> 00:23:01,044
+C'est elle qui fait cet hiver, ce froid.
+Elle a donné des ordres.
+
+156
+00:23:01,128 --> 00:23:04,464
+Si l'un de nous trouve un humain
+dans les bois,
+
+157
+00:23:04,548 --> 00:23:06,925
+il doit le lui livrer.
+
+158
+00:23:07,676 --> 00:23:10,596
+Monsieur Tumnus,
+vous ne feriez pas ça.
+
+159
+00:23:15,517 --> 00:23:18,687
+Je vous croyais mon ami.
+
+160
+00:23:22,524 --> 00:23:26,069
+Elle sait peut-être déjà
+que vous êtes là,
+
+161
+00:23:26,153 --> 00:23:28,864
+elle a des espions.
+
+162
+00:23:31,450 --> 00:23:34,369
+Même certains arbres sont
+de son côté.
+
+163
+00:23:38,373 --> 00:23:41,001
+Vous retrouverez le chemin ?
+
+164
+00:23:41,084 --> 00:23:43,670
+Je pense.
+
+165
+00:23:47,508 --> 00:23:49,176
+Ça ira pour vous ?
+
+166
+00:23:55,349 --> 00:23:58,977
+Je suis désolé. Vraiment.
+
+167
+00:24:01,522 --> 00:24:02,564
+Tenez.
+
+168
+00:24:04,775 --> 00:24:08,821
+Gardez-le.
+Vous en avez plus besoin.
+
+169
+00:24:12,491 --> 00:24:17,246
+Quoi qu'il advienne, je suis ravi
+de vous avoir rencontrée.
+
+170
+00:24:17,329 --> 00:24:20,499
+Je n'avais pas eu autant de joie
+depuis 100 ans.
+
+171
+00:24:22,167 --> 00:24:23,710
+Maintenant, partez !
+
+172
+00:24:36,265 --> 00:24:38,183
+99, 100.
+
+173
+00:24:38,267 --> 00:24:39,643
+Prêts ou pas, j'arrive !
+
+174
+00:24:39,726 --> 00:24:42,980
+Tout va bien, me revoilà,
+je vais bien !
+
+175
+00:24:43,063 --> 00:24:45,482
+Tais-toi, il arrive.
+
+176
+00:24:49,194 --> 00:24:52,614
+Vous n'avez pas saisi le but du jeu.
+
+177
+00:24:52,698 --> 00:24:55,242
+Vous vous demandiez où j'étais ?
+
+178
+00:24:55,325 --> 00:24:58,453
+C'est le but du jeu.
+C'est pour ça qu'il te cherchait.
+
+179
+00:24:58,537 --> 00:24:59,913
+J'ai gagné, alors ?
+
+180
+00:24:59,997 --> 00:25:02,166
+Lucy ne veut plus jouer.
+
+181
+00:25:02,249 --> 00:25:04,710
+Je me suis absentée
+plusieurs heures.
+
+182
+00:25:19,099 --> 00:25:22,102
+Le seul bois,
+c'est celui de l'armoire.
+
+183
+00:25:22,186 --> 00:25:26,398
+Un jeu à la fois.
+On n'a pas tous ton imagination.
+
+184
+00:25:30,319 --> 00:25:33,447
+Mais je n'ai rien inventé.
+
+185
+00:25:33,530 --> 00:25:35,240
+Ça suffit !
+
+186
+00:25:35,324 --> 00:25:37,743
+Pourquoi je mentirais ?
+
+187
+00:25:37,826 --> 00:25:39,536
+Moi, je te crois.
+
+188
+00:25:40,370 --> 00:25:42,873
+- C'est vrai ?
+- Bien sûr.
+
+189
+00:25:42,956 --> 00:25:45,542
+Et le terrain de foot
+dans le placard !
+
+190
+00:25:45,626 --> 00:25:47,753
+Arrête !
+
+191
+00:25:47,836 --> 00:25:50,464
+Tu envenimes toujours tout.
+
+192
+00:25:50,547 --> 00:25:53,467
+- C'était une blague.
+- Quand grandiras-tu ?
+
+193
+00:25:53,550 --> 00:25:56,845
+La ferme, tu te prends pour papa ?
+Tu ne l'es pas !
+
+194
+00:26:00,349 --> 00:26:02,893
+Tu as tout gagné !
+
+195
+00:26:06,563 --> 00:26:09,066
+C'était vraiment là.
+
+196
+00:26:09,149 --> 00:26:12,194
+Susan a raison.
+
+197
+00:26:12,277 --> 00:26:14,238
+Ça suffit.
+
+198
+00:27:52,669 --> 00:27:54,755
+Où es-tu ?
+
+199
+00:28:09,353 --> 00:28:11,772
+J'espère que tu n'as pas
+peur du noir.
+
+200
+00:28:51,311 --> 00:28:53,230
+Où es-tu ?
+
+201
+00:28:57,734 --> 00:29:00,154
+Je te crois, maintenant.
+
+202
+00:30:15,229 --> 00:30:17,814
+- Laissez-moi tranquille !
+- Qu'est-ce que c'est ?
+
+203
+00:30:17,898 --> 00:30:20,692
+Dites-lui de me lâcher,
+j'ai rien fait.
+
+204
+00:30:20,776 --> 00:30:22,611
+Tu oses t'adresser à la reine ?
+
+205
+00:30:22,694 --> 00:30:24,571
+Je ne savais pas.
+
+206
+00:30:24,655 --> 00:30:27,699
+- Je vais t'apprendre !
+- Attends !
+
+207
+00:30:38,252 --> 00:30:41,338
+Quel est ton nom, fils d'Adam ?
+
+208
+00:30:42,256 --> 00:30:43,674
+Edmund.
+
+209
+00:30:43,757 --> 00:30:47,845
+Et comment es-tu entré
+dans mon royaume ?
+
+210
+00:30:47,928 --> 00:30:51,890
+Je ne sais pas vraiment.
+Je suivais ma sur...
+
+211
+00:30:51,974 --> 00:30:55,644
+- Ta sur ? Combien êtes-vous ?
+- Quatre.
+
+212
+00:30:55,727 --> 00:30:58,480
+Seule Lucy est déjà venue.
+
+213
+00:30:58,564 --> 00:31:02,484
+Elle dit avoir rencontré
+un faune nommé Tumnus.
+
+214
+00:31:02,568 --> 00:31:05,654
+Peter et Susan ne l'ont pas crue.
+Moi non plus.
+
+215
+00:31:05,737 --> 00:31:10,367
+Tu as froid, viens t'asseoir.
+
+216
+00:31:26,341 --> 00:31:29,261
+Veux-tu une boisson chaude ?
+
+217
+00:31:30,512 --> 00:31:34,183
+Avec plaisir... votre majesté.
+
+218
+00:31:51,158 --> 00:31:53,952
+Votre boisson, sire.
+
+219
+00:31:54,036 --> 00:31:56,121
+Comment faites-vous ça ?
+
+220
+00:31:56,205 --> 00:31:58,123
+Je peux faire ce que tu veux.
+
+221
+00:31:59,208 --> 00:32:01,126
+Me rendre plus grand ?
+
+222
+00:32:01,835 --> 00:32:04,838
+Ce que tu veux "manger".
+
+223
+00:32:06,298 --> 00:32:07,508
+Des loukoums ?
+
+224
+00:32:35,828 --> 00:32:39,081
+J'adorerais rencontrer
+le reste de ta famille.
+
+225
+00:32:39,164 --> 00:32:41,166
+Pourquoi ?
+
+226
+00:32:41,708 --> 00:32:44,086
+Ils ont rien d'exceptionnel.
+
+227
+00:32:44,169 --> 00:32:50,175
+Je suis sûre qu'ils sont loin
+d'être aussi formidables que toi.
+
+228
+00:32:51,718 --> 00:32:55,764
+Mais, vois-tu,
+je n'ai pas d'enfants.
+
+229
+00:32:55,848 --> 00:32:57,808
+Et tu es le genre de garçon
+
+230
+00:32:57,891 --> 00:33:03,230
+que je verrais bien, un jour,
+devenir prince de Narnia.
+
+231
+00:33:03,564 --> 00:33:05,858
+Peut-être même roi.
+
+232
+00:33:06,984 --> 00:33:08,944
+Vraiment ?
+
+233
+00:33:09,695 --> 00:33:12,197
+Mais tu dois amener ta famille.
+
+234
+00:33:13,657 --> 00:33:17,077
+Vous voulez dire
+que Peter aussi serait roi ?
+
+235
+00:33:17,161 --> 00:33:19,746
+Non !
+
+236
+00:33:20,497 --> 00:33:22,541
+Mais un roi a des sujets.
+
+237
+00:33:24,793 --> 00:33:27,254
+Je pourrais les amener.
+
+238
+00:33:31,592 --> 00:33:34,720
+Au-delà des bois,
+tu vois ces deux collines ?
+
+239
+00:33:34,803 --> 00:33:37,973
+Ma maison se trouve
+juste entre les deux.
+
+240
+00:33:38,056 --> 00:33:40,017
+Tu t'y plairas.
+
+241
+00:33:40,100 --> 00:33:44,438
+Il y a des pièces entières
+remplies de loukoums.
+
+242
+00:33:44,521 --> 00:33:47,024
+Je peux en avoir encore ?
+
+243
+00:33:50,402 --> 00:33:52,696
+Cela gâterait ton appétit.
+
+244
+00:33:52,779 --> 00:33:56,450
+Et puis,
+nous nous reverrons sous peu.
+
+245
+00:33:56,533 --> 00:33:59,661
+Je l'espère, votre majesté.
+
+246
+00:34:00,496 --> 00:34:04,917
+À bientôt, très cher.
+Tu vas me manquer.
+
+247
+00:34:20,557 --> 00:34:23,310
+Tu y es entré aussi,
+
+248
+00:34:23,393 --> 00:34:26,063
+c'est merveilleux !
+
+249
+00:34:26,146 --> 00:34:30,359
+- Où étais-tu ?
+- Avec monsieur Tumnus. Il va bien.
+
+250
+00:34:30,442 --> 00:34:34,321
+La Sorcière Blanche ne sait rien
+de notre rencontre.
+
+251
+00:34:34,404 --> 00:34:35,781
+La Sorcière Blanche ?
+
+252
+00:34:36,615 --> 00:34:40,494
+Elle prétend être la reine de Narnia,
+mais c'est faux.
+
+253
+00:34:42,120 --> 00:34:45,249
+Ça va ?
+Tu as mauvaise mine.
+
+254
+00:34:45,332 --> 00:34:49,253
+Qu'est-ce que tu crois ?
+On gèle.
+
+255
+00:34:49,336 --> 00:34:53,006
+- Comment on sort d'ici ?
+- Viens.
+
+256
+00:34:53,090 --> 00:34:54,716
+Par là.
+
+257
+00:34:56,927 --> 00:34:59,388
+Peter, réveille-toi !
+
+258
+00:34:59,471 --> 00:35:01,348
+C'est là, c'est bien là !
+
+259
+00:35:01,431 --> 00:35:03,225
+De quoi tu parles ?
+
+260
+00:35:03,308 --> 00:35:06,728
+Narnia est dans l'armoire,
+comme je le disais.
+
+261
+00:35:06,812 --> 00:35:09,898
+- Tu as rêvé.
+- Non...
+
+262
+00:35:09,982 --> 00:35:13,986
+j'ai revu monsieur Tumnus,
+et cette fois, Edmund est venu aussi.
+
+263
+00:35:17,156 --> 00:35:20,450
+Tu as vu le faune ?
+
+264
+00:35:23,495 --> 00:35:27,541
+Il n'est pas venu chez lui avec moi.
+
+265
+00:35:33,255 --> 00:35:35,340
+Que faisais-tu ?
+
+266
+00:35:37,843 --> 00:35:39,970
+Je jouais avec toi.
+
+267
+00:35:41,180 --> 00:35:42,681
+Pardon.
+
+268
+00:35:42,764 --> 00:35:45,184
+J'ai eu tort de l'encourager mais...
+
+269
+00:35:45,267 --> 00:35:48,187
+les enfants, de nos jours,
+
+270
+00:35:48,270 --> 00:35:51,899
+ils sont incapables
+d'arrêter de faire semblant.
+
+271
+00:36:09,708 --> 00:36:13,378
+Vous mériteriez
+de dormir dans l'écurie.
+
+272
+00:36:14,421 --> 00:36:20,427
+Désolée. Je leur avais dit
+de ne pas vous déranger.
+
+273
+00:36:20,511 --> 00:36:24,139
+Il doit y avoir une raison.
+
+274
+00:36:24,932 --> 00:36:28,393
+Celle-ci aurait bien besoin
+d'un chocolat chaud.
+
+275
+00:36:28,477 --> 00:36:30,312
+Venez, mon enfant.
+
+276
+00:36:38,946 --> 00:36:43,534
+Vous avez bouleversé
+l'équilibre fragile de ma gouvernante.
+
+277
+00:36:43,617 --> 00:36:46,411
+Désolés.
+Cela ne se reproduira plus.
+
+278
+00:36:46,495 --> 00:36:48,872
+C'est notre sur.
+
+279
+00:36:48,956 --> 00:36:52,042
+- La pleurnicheuse ?
+- Oui, monsieur.
+
+280
+00:36:52,125 --> 00:36:55,128
+- Elle est contrariée.
+- C'est pourquoi elle pleure.
+
+281
+00:36:55,212 --> 00:36:56,630
+Ce n'est rien.
+
+282
+00:36:56,713 --> 00:36:59,591
+- On s'en occupe.
+- Je vois ça !
+
+283
+00:37:01,468 --> 00:37:04,179
+Elle parle d'un monde magique,
+
+284
+00:37:04,263 --> 00:37:05,848
+dans une armoire.
+
+285
+00:37:09,101 --> 00:37:10,853
+Que dites-vous ?
+
+286
+00:37:12,104 --> 00:37:15,190
+L'armoire, à l'étage.
+
+287
+00:37:15,274 --> 00:37:17,734
+Elle dit y avoir trouvé une forêt.
+
+288
+00:37:17,818 --> 00:37:20,028
+Elle ne parle que de ça.
+
+289
+00:37:20,946 --> 00:37:24,491
+- Comment était-elle ?
+- On aurait dit une folle.
+
+290
+00:37:24,575 --> 00:37:27,035
+Non, pas elle, la forêt.
+
+291
+00:37:27,119 --> 00:37:30,539
+- Vous la croyez ?
+- Pas vous ?
+
+292
+00:37:30,622 --> 00:37:32,124
+Bien sûr que non.
+
+293
+00:37:32,207 --> 00:37:34,293
+C'est logiquement impossible.
+
+294
+00:37:34,793 --> 00:37:37,671
+Que vous apprend-on à l'école ?
+
+295
+00:37:37,754 --> 00:37:39,631
+Edmund dit
+qu'ils faisaient semblant.
+
+296
+00:37:39,715 --> 00:37:41,758
+Est-il le plus franc ?
+
+297
+00:37:42,926 --> 00:37:45,762
+Ce serait la première fois.
+
+298
+00:37:45,846 --> 00:37:47,931
+Si elle n'est ni folle ni menteuse,
+
+299
+00:37:48,015 --> 00:37:52,561
+logiquement,
+il faut admettre qu'elle dit vrai.
+
+300
+00:37:52,978 --> 00:37:56,190
+Vous insinuez qu'il faut la croire ?
+
+301
+00:37:57,733 --> 00:38:01,820
+C'est votre sur, non ?
+Vous êtes sa famille.
+
+302
+00:38:03,989 --> 00:38:06,783
+Comportez-vous en tant que telle.
+
+303
+00:38:07,284 --> 00:38:11,330
+Il prend son élan,
+prêt à abattre un autre guichet.
+
+304
+00:38:14,416 --> 00:38:17,002
+Réveille-toi, Jean de la lune.
+
+305
+00:38:17,836 --> 00:38:20,005
+On peut rejouer à cache-cache ?
+
+306
+00:38:20,088 --> 00:38:22,716
+C'est un jeu de petits.
+
+307
+00:38:22,799 --> 00:38:27,179
+Et puis, profitons de l'air frais.
+
+308
+00:38:27,262 --> 00:38:29,973
+À l'intérieur aussi, il y a de l'air.
+
+309
+00:38:31,183 --> 00:38:33,393
+- Tu es prêt ?
+- Et toi ?
+
+310
+00:38:50,911 --> 00:38:54,289
+- Bravo !
+- C'est toi !
+
+311
+00:38:55,040 --> 00:38:56,333
+La Macready !
+
+312
+00:38:56,416 --> 00:38:58,043
+Venez !
+
+313
+00:39:05,551 --> 00:39:07,511
+Demi-tour !
+
+314
+00:39:33,996 --> 00:39:37,791
+- Venez !
+- C'est une plaisanterie ?
+
+315
+00:39:50,095 --> 00:39:51,221
+Reculez !
+
+316
+00:39:51,305 --> 00:39:54,266
+Je te marche pas sur les pieds !
+
+317
+00:39:54,349 --> 00:39:57,186
+Arrêtez de pousser !
+
+318
+00:40:10,741 --> 00:40:12,075
+C'est impossible !
+
+319
+00:40:14,286 --> 00:40:15,746
+Ne t'en fais pas.
+
+320
+00:40:15,829 --> 00:40:19,333
+C'est sûrement ton imagination.
+
+321
+00:40:19,416 --> 00:40:20,876
+Je doute que...
+
+322
+00:40:20,959 --> 00:40:25,923
+- nos excuses seront suffisantes.
+- Non, en effet.
+
+323
+00:40:28,717 --> 00:40:30,135
+Il faut au moins ça !
+
+324
+00:40:40,938 --> 00:40:42,773
+Arrête !
+
+325
+00:40:44,024 --> 00:40:45,859
+Petit menteur !
+
+326
+00:40:45,943 --> 00:40:50,155
+- Vous ne l'avez pas crue non plus.
+- Présente tes excuses à Lucy.
+
+327
+00:40:51,490 --> 00:40:55,202
+- Dis que tu es désolé.
+- Ça va ! Je suis désolé.
+
+328
+00:40:55,285 --> 00:40:57,246
+C'est rien.
+
+329
+00:40:57,329 --> 00:41:00,332
+Les enfants,
+ça fait toujours semblant.
+
+330
+00:41:00,415 --> 00:41:01,834
+Très drôle !
+
+331
+00:41:01,917 --> 00:41:03,794
+On devrait rentrer.
+
+332
+00:41:03,877 --> 00:41:07,381
+On peut au moins faire
+un petit tour.
+
+333
+00:41:07,464 --> 00:41:09,174
+À Lucy de décider.
+
+334
+00:41:10,717 --> 00:41:13,929
+J'aimerais vous présenter
+monsieur Tumnus.
+
+335
+00:41:14,012 --> 00:41:16,223
+Allons-y pour monsieur Tumnus !
+
+336
+00:41:17,266 --> 00:41:20,519
+On ne peut pas se promener
+dans la neige ainsi vêtus.
+
+337
+00:41:23,605 --> 00:41:27,276
+Le professeur ne nous en voudra pas.
+
+338
+00:41:27,359 --> 00:41:31,655
+Et en réfléchissant bien,
+logiquement...
+
+339
+00:41:31,738 --> 00:41:34,199
+ils ne quittent pas l'armoire.
+
+340
+00:41:34,283 --> 00:41:37,369
+- Un manteau de fille !
+- Je le sais.
+
+341
+00:42:21,580 --> 00:42:25,709
+Il y a plein de gourmandises et de...
+
+342
+00:42:51,068 --> 00:42:54,279
+Qui a pu faire une chose pareille ?
+
+343
+00:43:11,421 --> 00:43:14,883
+"Le faune Tumnus est accusé
+
+344
+00:43:14,967 --> 00:43:19,054
+de haute trahison
+envers sa majesté impériale,
+
+345
+00:43:19,137 --> 00:43:22,099
+Djadisse, reine de Narnia.
+
+346
+00:43:22,182 --> 00:43:25,477
+Il a aidé l'ennemi
+et fraternisé avec des humains.
+
+347
+00:43:25,561 --> 00:43:29,022
+Maugrim, chef de la police secrète.
+
+348
+00:43:29,106 --> 00:43:31,233
+Vive la reine."
+
+349
+00:43:32,484 --> 00:43:35,737
+On a intérêt à rentrer.
+
+350
+00:43:35,821 --> 00:43:37,447
+Et monsieur Tumnus ?
+
+351
+00:43:37,531 --> 00:43:40,367
+On lui reproche
+de fréquenter des humains.
+
+352
+00:43:40,450 --> 00:43:44,329
+- On ne peut rien pour lui.
+- Vous ne comprenez pas.
+
+353
+00:43:45,581 --> 00:43:47,666
+L'humain, c'est moi.
+
+354
+00:43:47,749 --> 00:43:50,210
+Elle a découvert qu'il m'a aidée.
+
+355
+00:43:50,294 --> 00:43:53,839
+- On appelle la police.
+- C'est eux, la police.
+
+356
+00:43:53,922 --> 00:43:56,175
+Rassure-toi, on trouvera un moyen.
+
+357
+00:43:56,258 --> 00:43:58,051
+Pourquoi ?
+
+358
+00:43:58,719 --> 00:44:00,345
+C'est un criminel.
+
+359
+00:44:05,392 --> 00:44:08,645
+Cet oiseau nous a fait : "Pssst" !
+
+360
+00:44:51,230 --> 00:44:54,399
+C'est un castor.
+
+361
+00:45:00,322 --> 00:45:02,324
+Viens !
+
+362
+00:45:08,247 --> 00:45:11,583
+Je ne la reniflerai pas !
+
+363
+00:45:13,085 --> 00:45:14,461
+Pardon !
+
+364
+00:45:32,980 --> 00:45:34,940
+Le mouchoir que j'ai donné à...
+
+365
+00:45:35,023 --> 00:45:38,360
+Tumnus. Il me l'a remis
+avant d'être emmené.
+
+366
+00:45:38,443 --> 00:45:39,862
+Il va bien ?
+
+367
+00:45:40,696 --> 00:45:42,656
+Allons plus loin.
+
+368
+00:45:44,533 --> 00:45:47,452
+- Que faites-vous ?
+- Elle a raison.
+
+369
+00:45:47,536 --> 00:45:49,454
+Pourquoi lui faire confiance ?
+
+370
+00:45:50,164 --> 00:45:51,915
+Il connaît le faune.
+
+371
+00:45:51,999 --> 00:45:55,961
+C'est un castor,
+il ne devrait pas parler.
+
+372
+00:45:56,044 --> 00:45:57,796
+Tout va bien ?
+
+373
+00:45:57,880 --> 00:46:00,174
+On discute.
+
+374
+00:46:00,257 --> 00:46:03,302
+Trouvons un endroit plus sûr.
+
+375
+00:46:04,386 --> 00:46:06,513
+Il veut parler des arbres.
+
+376
+00:46:21,195 --> 00:46:25,407
+Venez !
+Il ne faut pas traîner ici la nuit.
+
+377
+00:46:39,087 --> 00:46:42,090
+Madame a mis de l'eau à chauffer.
+
+378
+00:46:42,174 --> 00:46:43,884
+Un bon petit thé !
+
+379
+00:46:43,967 --> 00:46:46,261
+- C'est beau !
+- Une humble demeure.
+
+380
+00:46:46,345 --> 00:46:48,514
+Elle n'est pas terminée.
+
+381
+00:46:48,597 --> 00:46:50,933
+Je suis débordé, ces temps-ci.
+
+382
+00:46:52,601 --> 00:46:55,938
+Castor, c'est toi ?
+J'étais inquiète.
+
+383
+00:46:56,021 --> 00:46:58,774
+Si j'apprends
+que tu étais avec Blaireau...
+
+384
+00:47:00,984 --> 00:47:03,278
+Ce ne sont pas des blaireaux.
+
+385
+00:47:03,362 --> 00:47:07,991
+Je ne pensais pas voir ce jour.
+
+386
+00:47:08,867 --> 00:47:12,287
+Je ne suis même pas coiffée.
+Tu aurais pu me prévenir.
+
+387
+00:47:12,371 --> 00:47:15,791
+Qu'est-ce que ça aurait changé ?
+
+388
+00:47:15,874 --> 00:47:19,253
+Entrez,
+nous vous offrirons à manger
+
+389
+00:47:19,336 --> 00:47:22,923
+et une compagnie plus agréable.
+
+390
+00:47:23,841 --> 00:47:26,134
+Regardez où vous marchez.
+
+391
+00:47:26,218 --> 00:47:27,803
+Excusez le désordre.
+
+392
+00:47:27,886 --> 00:47:30,973
+Castor ne bouge jamais
+de son fauteuil.
+
+393
+00:47:35,144 --> 00:47:37,771
+On admire le paysage ?
+
+394
+00:47:41,525 --> 00:47:44,153
+Comment peut-on aider Tumnus ?
+
+395
+00:47:44,236 --> 00:47:46,488
+Il a été emmené chez la Sorcière.
+
+396
+00:47:46,572 --> 00:47:51,326
+Peu de gens passent les portes
+de sa maison et en ressortent.
+
+397
+00:47:51,410 --> 00:47:53,912
+Poisson-frites !
+
+398
+00:47:54,538 --> 00:47:58,167
+Mais il reste de l'espoir.
+Beaucoup d'espoir.
+
+399
+00:47:58,250 --> 00:48:01,628
+Bien plus que de l'espoir.
+
+400
+00:48:02,588 --> 00:48:05,465
+Aslan est en chemin.
+
+401
+00:48:12,514 --> 00:48:13,765
+Qui est Aslan ?
+
+402
+00:48:14,850 --> 00:48:16,727
+Qui est Aslan ?
+
+403
+00:48:16,810 --> 00:48:19,813
+Sacré petit malin !
+
+404
+00:48:21,523 --> 00:48:22,816
+Quoi ?
+
+405
+00:48:25,360 --> 00:48:28,822
+- Vous ne le savez pas ?
+- Nous venons d'arriver.
+
+406
+00:48:28,906 --> 00:48:31,283
+C'est le roi de ces bois.
+
+407
+00:48:31,366 --> 00:48:34,912
+Le grand patron.
+Le vrai roi de Narnia.
+
+408
+00:48:34,995 --> 00:48:38,916
+- Il fut longtemps absent.
+- Mais il revient.
+
+409
+00:48:38,999 --> 00:48:41,793
+Il vous attend
+près de la table de pierre.
+
+410
+00:48:41,877 --> 00:48:44,922
+- Il nous attend ?
+- Vous plaisantez ?
+
+411
+00:48:45,005 --> 00:48:47,591
+Ils ne connaissent pas la prophétie !
+
+412
+00:48:47,674 --> 00:48:51,512
+- Dans ce cas...
+- Écoutez !
+
+413
+00:48:51,595 --> 00:48:53,764
+Le retour d'Aslan,
+
+414
+00:48:53,847 --> 00:48:57,142
+l'arrestation de Tumnus,
+la police secrète...
+
+415
+00:48:57,226 --> 00:48:59,353
+Tout est à cause de vous.
+
+416
+00:48:59,436 --> 00:49:00,979
+Vous nous en voulez ?
+
+417
+00:49:01,063 --> 00:49:04,107
+Non, nous vous remercions.
+
+418
+00:49:04,191 --> 00:49:06,735
+Il existe une prophétie.
+
+419
+00:49:06,819 --> 00:49:09,738
+"Quand la chair d'Adam et ses os
+
+420
+00:49:09,822 --> 00:49:12,866
+seront sur le trône de Cair Paravel,
+
+421
+00:49:12,950 --> 00:49:15,577
+le temps des malheurs sera révolu."
+
+422
+00:49:15,661 --> 00:49:17,996
+- Ça ne rime pas.
+- Je le sais.
+
+423
+00:49:18,080 --> 00:49:20,332
+Est-ce vraiment là l'essentiel ?
+
+424
+00:49:20,415 --> 00:49:22,876
+Il a été prédit de longue date
+
+425
+00:49:22,960 --> 00:49:25,671
+que deux fils d'Adam
+et deux filles d'Eve
+
+426
+00:49:25,754 --> 00:49:31,009
+vaincraient la Sorcière Blanche
+et ramèneraient la paix à Narnia.
+
+427
+00:49:33,303 --> 00:49:34,847
+Vous pensez que c'est nous ?
+
+428
+00:49:34,930 --> 00:49:38,016
+Ça vaudrait mieux !
+Aslan monte votre armée.
+
+429
+00:49:38,100 --> 00:49:40,060
+"Notre" armée ?
+
+430
+00:49:40,144 --> 00:49:42,980
+C'est pour fuir la guerre
+que nous sommes ici.
+
+431
+00:49:43,772 --> 00:49:46,567
+Je crois que vous vous trompez.
+
+432
+00:49:46,650 --> 00:49:49,528
+- On n'est pas des héros.
+- On vient de Finchley.
+
+433
+00:49:51,780 --> 00:49:54,825
+Merci pour votre hospitalité.
+
+434
+00:49:55,826 --> 00:49:59,454
+- On doit s'en aller.
+- Vous ne pouvez pas partir.
+
+435
+00:49:59,538 --> 00:50:03,208
+Il a raison.
+On doit aider monsieur Tumnus.
+
+436
+00:50:03,292 --> 00:50:05,794
+Ce n'est pas de notre ressort.
+
+437
+00:50:05,878 --> 00:50:07,296
+Je le regrette,
+
+438
+00:50:07,379 --> 00:50:10,591
+nous devons rentrer.
+
+439
+00:50:16,889 --> 00:50:20,517
+- Je vais le tuer !
+- Inutile.
+
+440
+00:50:20,601 --> 00:50:23,353
+Edmund est-il déjà venu à Narnia ?
+
+441
+00:50:50,130 --> 00:50:51,423
+Vite !
+
+442
+00:51:12,820 --> 00:51:14,446
+Ils vont vous entendre.
+
+443
+00:51:16,865 --> 00:51:19,284
+- Lâchez-moi !
+- Vous avez tort.
+
+444
+00:51:19,368 --> 00:51:21,787
+- On ne peut pas le laisser !
+- C'est notre frère.
+
+445
+00:51:21,870 --> 00:51:22,955
+Il sert d'appât.
+
+446
+00:51:23,038 --> 00:51:25,749
+- Elle vous veut tous.
+- Pourquoi ?
+
+447
+00:51:25,833 --> 00:51:28,877
+Pour empêcher la prophétie
+de se réaliser.
+
+448
+00:51:28,961 --> 00:51:30,337
+Pour vous tuer !
+
+449
+00:51:40,347 --> 00:51:43,600
+- C'est ta faute !
+- Ma faute ?
+
+450
+00:51:43,684 --> 00:51:46,728
+Si tu m'avais écoutée,
+on n'en serait pas là.
+
+451
+00:51:46,812 --> 00:51:49,064
+- Tu savais ce qui nous attendait ?
+- Non.
+
+452
+00:51:49,148 --> 00:51:51,733
+C'est pour ça
+que je voulais rentrer.
+
+453
+00:51:51,817 --> 00:51:52,860
+Ça suffit !
+
+454
+00:51:53,986 --> 00:51:57,739
+- Ça n'aidera pas Edmund.
+- Elle a raison.
+
+455
+00:51:57,823 --> 00:52:00,951
+Seul Aslan peut aider votre frère.
+
+456
+00:52:02,661 --> 00:52:04,288
+Conduisez-nous à lui.
+
+457
+00:53:14,399 --> 00:53:17,444
+Plus un geste, étranger !
+Ou tu ne bougeras plus.
+
+458
+00:53:17,986 --> 00:53:19,655
+- Qui es-tu ?
+- Je suis Edmund,
+
+459
+00:53:19,738 --> 00:53:23,325
+j'ai rencontré la reine,
+elle m'a invité.
+
+460
+00:53:23,408 --> 00:53:24,868
+Je suis un fils d'Adam.
+
+461
+00:53:25,744 --> 00:53:29,957
+Mes excuses,
+heureux favori de la reine.
+
+462
+00:53:30,040 --> 00:53:33,377
+Ou malheureux.
+
+463
+00:53:37,631 --> 00:53:39,466
+Par ici.
+
+464
+00:54:00,612 --> 00:54:02,447
+Attends ici.
+
+465
+00:54:41,695 --> 00:54:42,863
+Ça te plaît ?
+
+466
+00:54:44,490 --> 00:54:47,826
+Oui, votre majesté.
+
+467
+00:54:50,287 --> 00:54:52,414
+J'en étais sûre.
+
+468
+00:54:54,458 --> 00:54:56,168
+Dis-moi...
+
+469
+00:54:58,921 --> 00:55:01,006
+tes surs sont-elles sourdes ?
+
+470
+00:55:02,841 --> 00:55:05,719
+Et ton frère, est-il...
+
+471
+00:55:07,596 --> 00:55:09,515
+dénué d'intelligence ?
+
+472
+00:55:09,598 --> 00:55:12,017
+Je le crois, mais maman dit...
+
+473
+00:55:12,100 --> 00:55:16,230
+Alors comment oses-tu venir seul ?
+
+474
+00:55:16,313 --> 00:55:19,024
+- J'ai essayé.
+- Je te demande un petit service.
+
+475
+00:55:19,107 --> 00:55:21,985
+- Ils ne m'écoutent pas.
+- Tu en es incapable.
+
+476
+00:55:22,069 --> 00:55:23,570
+Ils sont à mi-chemin.
+
+477
+00:55:23,654 --> 00:55:26,365
+Sur le barrage, chez les castors.
+
+478
+00:55:35,499 --> 00:55:39,419
+Tu n'es peut-être pas aussi incapable
+que je le pensais.
+
+479
+00:55:42,172 --> 00:55:44,091
+Je me demandais...
+
+480
+00:55:45,092 --> 00:55:50,139
+s'il était possible d'avoir
+d'autres loukoums, maintenant ?
+
+481
+00:55:55,644 --> 00:55:57,771
+Notre invité a faim.
+
+482
+00:56:04,403 --> 00:56:07,906
+Par ici, pour le miam-miam.
+
+483
+00:56:09,992 --> 00:56:11,368
+Maugrim !
+
+484
+00:56:14,913 --> 00:56:17,040
+Tu sais ce qu'il faut faire.
+
+485
+00:56:43,233 --> 00:56:45,777
+Vite, maman ! Ils arrivent !
+
+486
+00:56:45,861 --> 00:56:48,822
+- Dans ce cas...
+- Que fait-elle ?
+
+487
+00:56:49,531 --> 00:56:51,200
+Vous me remercierez.
+
+488
+00:56:51,283 --> 00:56:54,703
+La route est longue et Castor est
+grincheux, quand il a faim.
+
+489
+00:56:54,786 --> 00:56:56,288
+Je le suis déjà.
+
+490
+00:56:58,499 --> 00:56:59,791
+Attrapez-les.
+
+491
+00:57:03,337 --> 00:57:06,840
+- De la confiture ?
+- La Sorcière a des tartines ?
+
+492
+00:57:22,064 --> 00:57:23,106
+Dépêchez-vous !
+
+493
+00:57:38,580 --> 00:57:41,917
+J'ai creusé avec Blaireau.
+Ça mène chez lui.
+
+494
+00:57:42,000 --> 00:57:44,253
+Pas chez ta mère ?
+
+495
+00:57:47,843 --> 00:57:49,344
+Ils arrivent.
+
+496
+00:57:49,428 --> 00:57:51,555
+Vite, par là !
+
+497
+00:57:53,682 --> 00:57:55,851
+Courez !
+
+498
+00:58:04,193 --> 00:58:06,153
+Tu aurais dû prendre une carte.
+
+499
+00:58:06,236 --> 00:58:08,947
+C'était la carte ou la confiture !
+
+500
+00:58:15,746 --> 00:58:17,498
+Viens, Lucy !
+
+501
+00:58:37,601 --> 00:58:40,938
+Désolée, chéri.
+
+502
+00:58:41,021 --> 00:58:43,273
+C'était mon meilleur ami.
+
+503
+00:58:52,533 --> 00:58:53,784
+Que s'est-il passé ?
+
+504
+00:58:53,867 --> 00:58:56,662
+Le châtiment de la Sorcière.
+
+505
+00:58:56,745 --> 00:59:00,499
+Un pas de plus
+et je te mets en miettes, traître.
+
+506
+00:59:00,582 --> 00:59:03,419
+Doucement.
+Je fais partie des gentils.
+
+507
+00:59:03,502 --> 00:59:07,589
+Pourtant,
+tu ressembles aux méchants.
+
+508
+00:59:07,673 --> 00:59:10,008
+Un air de famille.
+
+509
+00:59:10,092 --> 00:59:13,303
+Nous en discuterons plus tard.
+Passons à l'action.
+
+510
+00:59:14,763 --> 00:59:16,223
+Quel est ton plan ?
+
+511
+00:59:24,356 --> 00:59:26,024
+Bonjour, messieurs.
+
+512
+00:59:26,817 --> 00:59:30,154
+- On a perdu quelque chose ?
+- Ne prends pas cet air supérieur.
+
+513
+00:59:30,237 --> 00:59:32,948
+Je sais quel est ton camp.
+
+514
+00:59:33,031 --> 00:59:34,867
+Nous cherchons des humains.
+
+515
+00:59:36,243 --> 00:59:38,579
+Des humains à Narnia ?
+
+516
+00:59:38,662 --> 00:59:41,457
+Voilà une information précieuse.
+
+517
+00:59:43,375 --> 00:59:45,669
+Tu auras la vie sauve en récompense.
+
+518
+00:59:45,753 --> 00:59:48,213
+C'est peu...
+
+519
+00:59:49,006 --> 00:59:50,466
+Mais, c'est déjà ça.
+
+520
+00:59:51,091 --> 00:59:53,177
+Où sont les fugitifs ?
+
+521
+01:00:00,142 --> 01:00:03,145
+Au Nord.
+Ils vont vers le Nord.
+
+522
+01:00:04,021 --> 01:00:06,023
+Suivez leurs traces.
+
+523
+01:00:16,784 --> 01:00:20,204
+Ils aidaient Tumnus.
+La Sorcière est arrivée avant moi.
+
+524
+01:00:22,998 --> 01:00:24,416
+Ça va ?
+
+525
+01:00:24,500 --> 01:00:27,669
+Leurs morsures sont cruelles.
+
+526
+01:00:27,753 --> 01:00:32,174
+Cessez de bouger.
+On dirait Castor le jour du bain.
+
+527
+01:00:32,257 --> 01:00:33,717
+Le jour maudit de l'année.
+
+528
+01:00:33,801 --> 01:00:36,345
+Merci pour votre gentillesse.
+
+529
+01:00:36,428 --> 01:00:38,472
+Ça suffit pour aujourd'hui.
+
+530
+01:00:38,555 --> 01:00:39,598
+Vous partez ?
+
+531
+01:00:39,681 --> 01:00:43,268
+Ce fut un plaisir, ma reine.
+Le temps presse,
+
+532
+01:00:43,352 --> 01:00:46,522
+Aslan m'a demandé
+de rassembler les troupes.
+
+533
+01:00:46,605 --> 01:00:49,650
+- Tu as vu Aslan ?
+- Comment est-il ?
+
+534
+01:00:50,526 --> 01:00:53,612
+À la hauteur de sa réputation.
+
+535
+01:00:53,695 --> 01:00:57,491
+Il vous rassurera
+dans le combat contre la Sorcière.
+
+536
+01:00:57,574 --> 01:01:00,035
+On ne combattra aucune Sorcière.
+
+537
+01:01:00,119 --> 01:01:02,913
+Si, roi Peter. La prophétie !
+
+538
+01:01:02,996 --> 01:01:05,165
+On ne se battra pas sans vous.
+
+539
+01:01:10,671 --> 01:01:13,006
+On veut retrouver notre frère.
+
+540
+01:01:40,909 --> 01:01:42,703
+Si vous ne mangez pas...
+
+541
+01:01:49,334 --> 01:01:51,670
+Je me lèverais si...
+
+542
+01:01:52,463 --> 01:01:54,715
+mes jambes...
+
+543
+01:02:04,141 --> 01:02:07,102
+Monsieur Tumnus ?
+
+544
+01:02:08,604 --> 01:02:10,606
+Ce qu'il en reste.
+
+545
+01:02:17,071 --> 01:02:20,949
+- Vous êtes le frère de Lucy ?
+- Edmund.
+
+546
+01:02:22,076 --> 01:02:25,329
+Vous avez le même nez.
+
+547
+01:02:29,792 --> 01:02:31,543
+Votre sur va bien ?
+
+548
+01:02:34,129 --> 01:02:35,714
+Elle est en sécurité ?
+
+549
+01:02:39,593 --> 01:02:41,637
+Je ne sais pas.
+
+550
+01:02:48,769 --> 01:02:52,356
+Ma police a détruit le barrage.
+
+551
+01:02:53,190 --> 01:02:56,819
+Ta petite famille reste introuvable.
+
+552
+01:03:00,864 --> 01:03:03,742
+- Où sont-ils ?
+- Je ne sais pas.
+
+553
+01:03:04,451 --> 01:03:07,079
+Tu ne me sers plus à rien.
+
+554
+01:03:07,162 --> 01:03:11,542
+Attendez !
+Le Castor a parlé d'Aslan.
+
+555
+01:03:18,132 --> 01:03:19,800
+Où ?
+
+556
+01:03:23,762 --> 01:03:25,222
+Il est nouveau ici, majesté.
+
+557
+01:03:25,305 --> 01:03:27,850
+Il ne sait rien.
+
+558
+01:03:29,184 --> 01:03:33,063
+J'ai dit... Où est Aslan ?
+
+559
+01:03:37,443 --> 01:03:39,611
+Je ne sais pas.
+
+560
+01:03:39,695 --> 01:03:42,114
+Je suis parti trop tôt.
+
+561
+01:03:44,575 --> 01:03:46,910
+Je voulais vous voir.
+
+562
+01:03:49,204 --> 01:03:50,998
+Garde !
+
+563
+01:03:51,623 --> 01:03:53,417
+Votre majesté ?
+
+564
+01:03:55,627 --> 01:03:57,087
+Détachez le faune.
+
+565
+01:04:11,018 --> 01:04:13,062
+Sais-tu pourquoi tu es là ?
+
+566
+01:04:14,646 --> 01:04:19,610
+Parce que je crois en Narnia libre.
+
+567
+01:04:20,611 --> 01:04:22,905
+Tu es ici...
+
+568
+01:04:22,988 --> 01:04:26,492
+parce qu'il t'a dénoncé.
+
+569
+01:04:28,243 --> 01:04:29,745
+Pour des friandises.
+
+570
+01:04:37,586 --> 01:04:39,463
+Emmenez-le !
+
+571
+01:04:45,177 --> 01:04:46,804
+Et préparez mon traîneau.
+
+572
+01:04:47,888 --> 01:04:50,599
+Sa famille lui manque.
+
+573
+01:05:12,996 --> 01:05:16,458
+Aslan campe
+près de la table de pierre,
+
+574
+01:05:16,542 --> 01:05:20,129
+- au bord de la rivière gelée.
+- La rivière ?
+
+575
+01:05:20,212 --> 01:05:24,174
+Elle est gelée depuis 100 ans.
+
+576
+01:05:27,302 --> 01:05:30,723
+- C'est loin.
+- C'est le monde, très cher.
+
+577
+01:05:30,806 --> 01:05:32,683
+Tu le voyais petit ?
+
+578
+01:05:33,642 --> 01:05:35,894
+Moins grand.
+
+579
+01:05:52,661 --> 01:05:55,706
+Je t'attends, fils d'Adam.
+
+580
+01:06:30,991 --> 01:06:34,745
+Allez, les humains. Un peu de nerf.
+
+581
+01:06:35,454 --> 01:06:38,248
+S'il nous dit encore
+de nous dépêcher,
+
+582
+01:06:38,332 --> 01:06:42,127
+j'en fais une grosse toque.
+
+583
+01:06:42,211 --> 01:06:44,546
+Dépêchez-vous !
+
+584
+01:06:44,630 --> 01:06:48,342
+- Il devient autoritaire !
+- Derrière vous, c'est elle !
+
+585
+01:06:48,425 --> 01:06:50,344
+Courez !
+
+586
+01:07:19,623 --> 01:07:21,250
+Dessous !
+
+587
+01:07:21,333 --> 01:07:23,210
+Cachez-vous !
+
+588
+01:07:56,118 --> 01:07:58,579
+Elle est peut-être partie.
+
+589
+01:07:59,496 --> 01:08:01,957
+Je vais aller voir.
+
+590
+01:08:02,040 --> 01:08:04,626
+Mort, vous ne pourrez rien
+pour Narnia.
+
+591
+01:08:04,710 --> 01:08:06,712
+Toi non plus, Castor !
+
+592
+01:08:06,795 --> 01:08:09,006
+Merci, trésor.
+
+593
+01:08:23,979 --> 01:08:25,773
+Sortez !
+
+594
+01:08:25,856 --> 01:08:29,026
+J'espère qu'on a été sage,
+on a de la visite.
+
+595
+01:08:50,839 --> 01:08:52,716
+Joyeux Noël !
+
+596
+01:08:52,800 --> 01:08:56,845
+Joyeux, il l'est,
+puisque vous êtes arrivés.
+
+597
+01:08:56,929 --> 01:09:00,974
+Je veux bien faire des efforts,
+mais là...
+
+598
+01:09:01,058 --> 01:09:04,520
+- On vous a pris pour la Sorcière.
+- J'en suis navré...
+
+599
+01:09:04,603 --> 01:09:10,109
+mais pour ma défense, je voyage en
+traîneau depuis plus longtemps qu'elle.
+
+600
+01:09:10,192 --> 01:09:13,320
+Je croyais que Noël
+avait été banni de Narnia.
+
+601
+01:09:13,404 --> 01:09:15,948
+Il l'a longtemps été.
+
+602
+01:09:16,031 --> 01:09:20,327
+Mais l'espoir que vous incarnez,
+majestés,
+
+603
+01:09:20,411 --> 01:09:24,248
+affaiblit les pouvoirs de la Sorcière.
+
+604
+01:09:24,331 --> 01:09:28,585
+J'ai quelque chose pour vous.
+
+605
+01:09:32,005 --> 01:09:33,424
+Des cadeaux !
+
+606
+01:09:39,930 --> 01:09:42,266
+Essence de la fleur de feu.
+
+607
+01:09:42,349 --> 01:09:45,227
+Une goutte guérira toute blessure.
+
+608
+01:09:48,021 --> 01:09:50,607
+Que tu n'aies jamais à t'en servir !
+
+609
+01:09:53,694 --> 01:09:55,571
+Merci, mais...
+
+610
+01:09:55,654 --> 01:09:59,074
+je pense être assez courageuse.
+
+611
+01:09:59,158 --> 01:10:01,827
+J'en suis sûr.
+
+612
+01:10:01,910 --> 01:10:04,329
+Les batailles
+sont de tristes situations.
+
+613
+01:10:16,216 --> 01:10:21,055
+Aie confiance en l'arc
+et tu ne rateras pas ta cible.
+
+614
+01:10:22,222 --> 01:10:24,808
+Vous dites que les batailles
+sont de tristes situations !
+
+615
+01:10:27,102 --> 01:10:30,272
+Si tu as du mal à te faire entendre,
+
+616
+01:10:30,355 --> 01:10:33,400
+souffle là-dedans
+et où que tu sois...
+
+617
+01:10:34,318 --> 01:10:36,528
+tu recevras de l'aide.
+
+618
+01:10:37,613 --> 01:10:39,448
+Merci.
+
+619
+01:10:43,285 --> 01:10:46,413
+Tu risques d'en avoir besoin
+prochainement.
+
+620
+01:10:54,838 --> 01:10:56,048
+Merci.
+
+621
+01:10:56,799 --> 01:11:00,636
+Ce sont des outils, pas des jouets.
+
+622
+01:11:00,719 --> 01:11:02,930
+Utilisez-les avec sagesse.
+
+623
+01:11:04,640 --> 01:11:07,351
+Je dois m'en aller.
+
+624
+01:11:07,434 --> 01:11:09,978
+L'hiver arrive à son terme.
+
+625
+01:11:10,062 --> 01:11:14,525
+Et on a du travail à rattraper,
+après un siècle d'absence.
+
+626
+01:11:17,861 --> 01:11:20,030
+Vive Aslan !
+
+627
+01:11:22,449 --> 01:11:24,451
+Et joyeux Noël !
+
+628
+01:11:29,581 --> 01:11:32,876
+À l'année prochaine.
+
+629
+01:11:32,960 --> 01:11:35,045
+Tu vois qu'il existe !
+
+630
+01:11:35,421 --> 01:11:40,217
+Il a dit :
+"L'hiver arrive à son terme".
+
+631
+01:11:40,300 --> 01:11:42,344
+Vous savez ce que ça signifie ?
+
+632
+01:11:43,971 --> 01:11:46,348
+Plus de glace.
+
+633
+01:11:56,442 --> 01:11:59,737
+- Il faut traverser.
+- Faites un barrage !
+
+634
+01:11:59,820 --> 01:12:02,030
+Ça demande du temps.
+
+635
+01:12:02,114 --> 01:12:04,366
+Réfléchis une minute.
+
+636
+01:12:04,450 --> 01:12:07,453
+- On n'a pas le temps.
+- J'essaye d'être réaliste.
+
+637
+01:12:07,536 --> 01:12:10,831
+Tu fais ton intéressante.
+Comme toujours.
+
+638
+01:12:45,324 --> 01:12:47,785
+Attendez !
+Je vais passer devant.
+
+639
+01:12:48,410 --> 01:12:49,620
+Ça vaut mieux.
+
+640
+01:12:56,627 --> 01:12:59,546
+Tu manges comme quatre !
+
+641
+01:12:59,630 --> 01:13:02,174
+Comme si c'était mon dernier repas.
+
+642
+01:13:02,257 --> 01:13:04,176
+Surtout quand tu cuisines.
+
+643
+01:13:24,113 --> 01:13:26,073
+Si maman nous voyait !
+
+644
+01:13:26,156 --> 01:13:27,533
+Maman n'est pas là.
+
+645
+01:13:31,745 --> 01:13:33,163
+Courez !
+
+646
+01:13:36,542 --> 01:13:38,043
+Vite !
+
+647
+01:13:51,724 --> 01:13:53,600
+Pose ça, petit !
+
+648
+01:13:54,268 --> 01:13:57,521
+- C'est dangereux.
+- Ne vous souciez pas de moi !
+
+649
+01:13:57,604 --> 01:13:58,939
+Transpercez-le.
+
+650
+01:13:59,022 --> 01:14:02,735
+Partez tant que vous le pouvez.
+Avec votre frère.
+
+651
+01:14:02,818 --> 01:14:05,779
+Arrête, on devrait l'écouter.
+
+652
+01:14:05,863 --> 01:14:07,489
+C'est sage !
+
+653
+01:14:07,573 --> 01:14:10,784
+Ne l'écoutez pas ! Tuez-le !
+
+654
+01:14:10,868 --> 01:14:14,163
+Ce n'est pas votre guerre.
+
+655
+01:14:14,246 --> 01:14:17,750
+Ma reine veut que tu repartes
+avec ta famille.
+
+656
+01:14:17,875 --> 01:14:20,794
+Un homme en rouge
+t'a donné une épée,
+
+657
+01:14:20,878 --> 01:14:24,256
+ça ne fait pas de toi un héros.
+Jette-la !
+
+658
+01:14:24,339 --> 01:14:26,925
+Narnia a besoin de vous.
+
+659
+01:14:27,009 --> 01:14:29,303
+Étripez-le !
+
+660
+01:14:29,386 --> 01:14:33,474
+Que décides-tu ?
+Je n'attendrai pas éternellement.
+
+661
+01:14:33,557 --> 01:14:35,309
+La rivière non plus.
+
+662
+01:14:46,236 --> 01:14:47,571
+Accrochez-vous !
+
+663
+01:15:48,841 --> 01:15:50,050
+Tonifiant !
+
+664
+01:15:58,392 --> 01:16:00,436
+Qu'as-tu fait ?
+
+665
+01:16:12,531 --> 01:16:14,700
+Qui a vu mon manteau ?
+
+666
+01:16:21,248 --> 01:16:23,167
+Rassurez-vous.
+
+667
+01:16:23,250 --> 01:16:26,503
+Votre frère veille sur vous.
+
+668
+01:16:26,587 --> 01:16:30,340
+Je doute que vous ayez
+encore besoin de manteaux.
+
+669
+01:17:05,250 --> 01:17:08,837
+Ça se réchauffe.
+
+670
+01:17:11,924 --> 01:17:14,802
+Je vais voir le traîneau.
+
+671
+01:17:18,347 --> 01:17:22,518
+Nous avons retrouvé le traître
+rassemblant des troupes.
+
+672
+01:17:24,436 --> 01:17:25,896
+Quelle surprise !
+
+673
+01:17:25,979 --> 01:17:28,440
+Tu as été très utile à mes loups.
+
+674
+01:17:28,899 --> 01:17:31,402
+Tu peux aussi m'aider.
+
+675
+01:17:31,485 --> 01:17:35,364
+- Pardonnez-moi, majesté.
+- Épargne-moi ces flatteries.
+
+676
+01:17:35,447 --> 01:17:39,910
+Ce n'est pas à vous
+que je m'adressais.
+
+677
+01:17:48,502 --> 01:17:51,004
+Où sont allés les humains ?
+
+678
+01:17:54,967 --> 01:17:59,430
+Attendez ! Pas ça !
+La table de pierre...
+
+679
+01:17:59,513 --> 01:18:01,348
+L'armée d'Aslan y est.
+
+680
+01:18:03,225 --> 01:18:04,393
+Une armée ?
+
+681
+01:18:10,482 --> 01:18:12,568
+Merci.
+
+682
+01:18:12,651 --> 01:18:16,155
+Ces créatures découvrent
+l'honnêteté...
+
+683
+01:18:17,489 --> 01:18:19,742
+avant de mourir.
+
+684
+01:18:30,919 --> 01:18:34,131
+Choisis ton camp, Edmund.
+
+685
+01:18:34,214 --> 01:18:36,383
+Le mien ?
+
+686
+01:18:38,385 --> 01:18:40,220
+Ou le leur ?
+
+687
+01:18:45,726 --> 01:18:49,146
+Au travail !
+Rassemble nos soldats.
+
+688
+01:18:49,521 --> 01:18:52,524
+Si Aslan veut la guerre...
+
+689
+01:18:54,234 --> 01:18:56,487
+il aura la guerre.
+
+690
+01:19:57,715 --> 01:20:00,384
+Pourquoi nous dévisagent-ils ?
+
+691
+01:20:00,467 --> 01:20:02,886
+Ils te trouvent bizarre.
+
+692
+01:20:07,516 --> 01:20:11,687
+Cesse de te tortiller, tu es belle !
+
+693
+01:20:29,580 --> 01:20:32,207
+Nous venons voir Aslan.
+
+694
+01:21:15,834 --> 01:21:19,296
+Bienvenue, Peter, fils d'Adam.
+
+695
+01:21:19,379 --> 01:21:23,300
+Bienvenue, Susan et Lucy,
+filles d'Eve.
+
+696
+01:21:23,384 --> 01:21:26,970
+Bienvenue à vous, castors.
+Vous avez ma gratitude.
+
+697
+01:21:27,054 --> 01:21:29,098
+Où est le quatrième ?
+
+698
+01:21:30,682 --> 01:21:33,644
+C'est ce qui nous amène.
+
+699
+01:21:33,727 --> 01:21:35,187
+Nous avons besoin de vous.
+
+700
+01:21:35,270 --> 01:21:38,399
+Nous avons eu des ennuis en chemin.
+
+701
+01:21:38,482 --> 01:21:41,151
+La Sorcière a capturé notre frère.
+
+702
+01:21:41,235 --> 01:21:43,737
+Capturé ?
+Comment est-ce possible ?
+
+703
+01:21:45,280 --> 01:21:49,201
+Il les a trahis, majesté.
+
+704
+01:21:49,743 --> 01:21:53,539
+- Il nous a tous trahis.
+- Du calme, Oreius !
+
+705
+01:21:53,622 --> 01:21:55,582
+Il doit y avoir une raison.
+
+706
+01:21:58,544 --> 01:22:00,838
+C'est ma faute.
+
+707
+01:22:02,172 --> 01:22:04,842
+J'étais dur avec lui.
+
+708
+01:22:08,303 --> 01:22:09,722
+Nous l'étions tous.
+
+709
+01:22:10,639 --> 01:22:12,474
+Il est notre frère.
+
+710
+01:22:12,558 --> 01:22:14,560
+Je le sais,
+
+711
+01:22:14,643 --> 01:22:18,397
+cela rend la trahison plus grave.
+
+712
+01:22:18,480 --> 01:22:21,567
+Ce sera très compliqué.
+
+713
+01:22:28,407 --> 01:22:33,370
+Voici Cair Paravel,
+le château aux quatre trônes.
+
+714
+01:22:34,246 --> 01:22:38,625
+Tu devras siéger sur l'un d'eux,
+en tant que Grand Roi.
+
+715
+01:22:39,251 --> 01:22:41,670
+Tu doutes de la prophétie ?
+
+716
+01:22:43,589 --> 01:22:45,174
+C'est que...
+
+717
+01:22:46,633 --> 01:22:49,595
+Aslan, je ne suis pas
+celui que vous croyez.
+
+718
+01:22:49,678 --> 01:22:52,056
+Peter Pevensie, de Finchley.
+
+719
+01:22:53,307 --> 01:22:57,227
+Castor dit aussi que tu as songé
+à faire de lui une toque.
+
+720
+01:23:02,399 --> 01:23:04,359
+C'est une magie ancestrale,
+
+721
+01:23:04,443 --> 01:23:06,111
+plus puissante que nous tous,
+
+722
+01:23:06,195 --> 01:23:08,405
+qui gouverne Narnia.
+
+723
+01:23:08,489 --> 01:23:10,991
+Elle détermine le bien, le mal,
+
+724
+01:23:11,075 --> 01:23:13,077
+et décide du destin de chacun.
+
+725
+01:23:13,869 --> 01:23:17,039
+Du tien... du mien.
+
+726
+01:23:17,122 --> 01:23:19,458
+Je peine à protéger les miens.
+
+727
+01:23:19,541 --> 01:23:21,752
+Ils vont bien.
+
+728
+01:23:22,377 --> 01:23:24,213
+Pas tous.
+
+729
+01:23:24,296 --> 01:23:28,634
+Peter, je ferai mon possible
+pour aider ton frère.
+
+730
+01:23:28,717 --> 01:23:31,845
+Mais réfléchis à ma proposition.

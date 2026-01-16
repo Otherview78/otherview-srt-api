@@ -1,0 +1,6612 @@
+1
+00:02:14,843 --> 00:02:16,119
+Regarde! Il se réveille.
+
+2
+00:02:16,218 --> 00:02:17,647
+Appelle le docteur Cocheton, vite!
+
+3
+00:02:17,754 --> 00:02:19,642
+<i>Dr Cocheton, vous êtes demandé
+en chambre 119.</i>
+
+4
+00:02:19,739 --> 00:02:22,040
+M. Bauby, gardez les yeux ouverts.
+
+5
+00:02:22,426 --> 00:02:24,400
+Gardez les yeux ouverts.
+
+6
+00:02:24,507 --> 00:02:26,995
+M. Bauby, gardez les yeux ouverts.
+
+7
+00:02:28,027 --> 00:02:31,026
+Vous êtes resté endormi longtemps.
+Vous êtes en train de vous réveiller.
+
+8
+00:02:31,130 --> 00:02:32,145
+Vous m'entendez?
+
+9
+00:02:32,251 --> 00:02:34,105
+<i>Oui, oui, je vous entends.</i>
+
+10
+00:02:37,563 --> 00:02:39,156
+<i>Qu'est-ce qui se passe?</i>
+
+11
+00:02:42,524 --> 00:02:44,149
+<i>Putain, c'est un hôpital!</i>
+
+12
+00:02:46,652 --> 00:02:48,212
+Ouvrez grand les yeux.
+
+13
+00:02:50,556 --> 00:02:52,379
+Essayez de les garder ouverts.
+
+14
+00:02:52,988 --> 00:02:54,549
+Comme ça. Voilà.
+
+15
+00:02:54,716 --> 00:02:56,603
+Maintenant, suivez la lumière.
+
+16
+00:03:03,259 --> 00:03:04,307
+Voilà.
+
+17
+00:03:06,300 --> 00:03:07,576
+N'ayez pas peur.
+
+18
+00:03:08,732 --> 00:03:10,227
+Vous êtes à l'hôpital.
+
+19
+00:03:11,260 --> 00:03:13,748
+Je suis médecin.
+Je suis le docteur Cocheton.
+
+20
+00:03:14,653 --> 00:03:16,082
+Voilà les infirmiers.
+
+21
+00:03:16,638 --> 00:03:18,907
+Nous sommes là
+pour nous occuper de vous.
+
+22
+00:03:19,998 --> 00:03:22,485
+Vous vous souvenez
+de ce qui vous est arrivé?
+
+23
+00:03:23,710 --> 00:03:24,659
+<i>Vaguement.</i>
+
+24
+00:03:24,766 --> 00:03:26,772
+Vous vous souvenez
+de ce qui vous est arrivé?
+
+25
+00:03:26,877 --> 00:03:30,455
+<i>Je vous ai dit, vaguement.
+J'ai... des images...</i>
+
+26
+00:03:35,645 --> 00:03:38,231
+Vous êtes à l'Hôpital Maritime
+de Berck-sur-Mer,
+
+27
+00:03:39,294 --> 00:03:41,366
+sur les côtes du Nord-Pas-de-Calais.
+
+28
+00:03:41,471 --> 00:03:44,984
+Vous avez d'abord été hospitalisé
+à Paris, puis on vous a amené ici.
+
+29
+00:03:45,791 --> 00:03:47,198
+Vous vous souvenez?
+
+30
+00:03:49,311 --> 00:03:50,555
+Jean-Dominique.
+
+31
+00:03:51,871 --> 00:03:53,496
+Vous avez eu une attaque.
+
+32
+00:03:53,694 --> 00:03:56,826
+Vous êtes resté dans le coma
+pendant presque trois semaines.
+
+33
+00:03:56,990 --> 00:04:00,569
+Mais vous êtes en train de vous
+réveiller et tout va aller très bien.
+
+34
+00:04:02,112 --> 00:04:03,388
+Je vous promets.
+
+35
+00:04:04,479 --> 00:04:05,560
+<i>Merci.</i>
+
+36
+00:04:05,663 --> 00:04:08,663
+Maintenant, j'ai besoin de vérifier
+deux ou trois choses.
+
+37
+00:04:08,896 --> 00:04:11,164
+Je voudrais
+que vous me suiviez des yeux.
+
+38
+00:04:12,000 --> 00:04:13,277
+Voilà, comme ça.
+
+39
+00:04:15,200 --> 00:04:16,478
+Suivez mon doigt.
+
+40
+00:04:16,640 --> 00:04:18,048
+Voilà, comme ça.
+
+41
+00:04:23,424 --> 00:04:25,596
+Quand je vous dis de cligner des yeux,
+
+42
+00:04:26,432 --> 00:04:28,090
+clignez, s'il vous plaît.
+
+43
+00:04:33,248 --> 00:04:34,525
+C'est très bien!
+
+44
+00:04:37,026 --> 00:04:39,262
+Maintenant, essayez de dire votre nom.
+
+45
+00:04:40,865 --> 00:04:42,295
+<i>Jean-Dominique Bauby.</i>
+
+46
+00:04:42,690 --> 00:04:44,032
+Allez, essayez.
+
+47
+00:04:44,673 --> 00:04:46,681
+<i>- Mais je vous l'ai dit.
+- Essayez vraiment.</i>
+
+48
+00:04:46,786 --> 00:04:48,193
+Dites-moi votre nom.
+
+49
+00:04:48,482 --> 00:04:49,594
+<i>Jean-Dominique Bauby.</i>
+
+50
+00:04:49,697 --> 00:04:53,495
+Essayez de dire
+les prénoms de vos enfants.
+
+51
+00:04:55,170 --> 00:04:58,170
+<i>Théophile, Céleste, Hortense.</i>
+
+52
+00:05:01,475 --> 00:05:02,969
+Ne vous en faites pas.
+
+53
+00:05:04,003 --> 00:05:05,661
+Le processus est très lent.
+
+54
+00:05:07,106 --> 00:05:08,569
+Mais vous retrouverez la parole.
+
+55
+00:05:08,675 --> 00:05:09,852
+<i>Pardon, quoi?</i>
+
+56
+00:05:10,211 --> 00:05:13,113
+<i>Vous m'entendez pas? Docteur?
+Docteur?</i>
+
+57
+00:05:13,570 --> 00:05:15,098
+<i>Qu'est-ce qui se passe?</i>
+
+58
+00:05:15,204 --> 00:05:16,861
+<i>Je parle pas?</i>
+
+59
+00:05:16,962 --> 00:05:18,718
+<i>Ils m'entendent pas.</i>
+
+60
+00:05:18,819 --> 00:05:20,128
+<i>Mon Dieu!</i>
+
+61
+00:05:20,995 --> 00:05:22,685
+<i>Je peux pas parler!</i>
+
+62
+00:05:23,170 --> 00:05:25,178
+<i>Qu'est-ce qui m'est arrivé?</i>
+
+63
+00:05:27,108 --> 00:05:29,443
+<i>Je m'appelle Jean-Dominique Bauby.</i>
+
+64
+00:05:29,988 --> 00:05:30,936
+<i>Docteur!</i>
+
+65
+00:05:32,964 --> 00:05:34,557
+<i>Ça va, ça va...</i>
+
+66
+00:05:35,300 --> 00:05:39,162
+<i>J'ai eu une attaque, je vais retrouver
+la parole, je vais retrouver la mémoire.</i>
+
+67
+00:05:39,269 --> 00:05:40,959
+Ça va aller, M. Bauby, ça va aller.
+
+68
+00:05:41,061 --> 00:05:42,403
+<i>- Ça va aller.
+- Pas de souci.</i>
+
+69
+00:05:42,501 --> 00:05:44,061
+On va s'occuper de vous.
+
+70
+00:05:44,164 --> 00:05:45,724
+<i>Je vais être patient.</i>
+
+71
+00:05:47,044 --> 00:05:48,157
+<i>D'accord.</i>
+
+72
+00:05:49,412 --> 00:05:51,322
+<i>D'accord, je vous crois. Je vous...</i>
+
+73
+00:06:02,630 --> 00:06:04,703
+<i>Qui a amené ces fleurs?</i>
+
+74
+00:06:06,918 --> 00:06:07,999
+<i>Des roses...</i>
+
+75
+00:06:09,831 --> 00:06:13,986
+<i>Cloques... Cloques.</i>
+
+76
+00:06:23,622 --> 00:06:24,932
+<i>Inès!</i>
+
+77
+00:06:38,440 --> 00:06:39,933
+Vous avez bien dormi?
+
+78
+00:06:43,495 --> 00:06:44,805
+Alors, voyons.
+
+79
+00:06:56,104 --> 00:06:57,926
+Ce matin,
+vous avez une visite importante.
+
+80
+00:06:58,024 --> 00:07:00,391
+La visite du docteur Lepage,
+le neurologue.
+
+81
+00:07:00,520 --> 00:07:02,856
+Alors, nous vous espérons
+en pleine forme.
+
+82
+00:07:29,258 --> 00:07:30,403
+Bonjour.
+
+83
+00:07:31,562 --> 00:07:35,139
+Alain Lepage, je suis votre neurologue.
+Vous connaissez le docteur Cocheton.
+
+84
+00:07:35,242 --> 00:07:36,354
+Alors, Jean-Dominique...
+
+85
+00:07:36,458 --> 00:07:37,887
+Non, vos amis vous appellent Jean-Do.
+
+86
+00:07:37,993 --> 00:07:39,335
+Alors, moi aussi,
+je vais vous appeler Jean-Do
+
+87
+00:07:39,435 --> 00:07:40,776
+parce que je tiens
+à ce que vous me considériez
+
+88
+00:07:40,874 --> 00:07:41,888
+comme votre ami. D'accord?
+
+89
+00:07:41,994 --> 00:07:43,304
+<i>"Votre ami." Soyez docteur, c'est tout!</i>
+
+90
+00:07:43,402 --> 00:07:44,450
+Et en tant qu'ami, Jean-Do,
+
+91
+00:07:44,554 --> 00:07:48,133
+je sais à quel point tout ça
+est difficile pour vous.
+
+92
+00:07:49,610 --> 00:07:52,840
+Je sais aussi que personne ne vous a
+réellement expliqué ce qui vous arrive.
+
+93
+00:07:52,939 --> 00:07:54,183
+Alors, moi, c'est mon boulot.
+
+94
+00:07:54,284 --> 00:07:55,778
+Moi, c'est mon boulot.
+
+95
+00:07:56,620 --> 00:07:58,343
+Voilà. Alors, vous avez eu
+ce qu'on appelle
+
+96
+00:07:58,443 --> 00:08:01,345
+un accident vasculaire cérébral qui
+
+97
+00:08:02,571 --> 00:08:05,386
+a endommagé le tronc cérébral
+qui ne fonctionne plus.
+
+98
+00:08:05,516 --> 00:08:08,166
+Alors c'est quoi, le tronc cérébral?
+C'est un...
+
+99
+00:08:08,268 --> 00:08:11,203
+...élément essentiel
+de notre ordinateur interne
+
+100
+00:08:11,308 --> 00:08:14,341
+qui fait le lien entre le cerveau
+et la moelle épinière, d'accord?
+
+101
+00:08:14,444 --> 00:08:17,444
+Dans le temps, on aurait dit que vous
+auriez eu un transport au cerveau
+
+102
+00:08:17,548 --> 00:08:19,883
+et vous seriez probablement mort,
+d'ailleurs.
+
+103
+00:08:19,980 --> 00:08:21,769
+Mais les techniques de réanimation
+
+104
+00:08:21,868 --> 00:08:24,073
+ont fait tellement de progrès
+que nous sommes en...
+
+105
+00:08:24,172 --> 00:08:25,514
+On peut essayer de maintenir...
+
+106
+00:08:25,613 --> 00:08:27,523
+Enfin, on peut prolonger la vie.
+
+107
+00:08:29,196 --> 00:08:30,789
+<i>Ça, c'est la vie?</i>
+
+108
+00:08:31,757 --> 00:08:32,967
+<i>Ça, c'est la vie?</i>
+
+109
+00:08:33,068 --> 00:08:34,694
+On prolonge la vie. Voilà.
+
+110
+00:08:37,133 --> 00:08:39,338
+Enfin, je vais pas y aller
+par quatre chemins, Jean-Do.
+
+111
+00:08:39,437 --> 00:08:41,990
+Vous êtes paralysé
+de la tête aux pieds, hein?
+
+112
+00:08:43,597 --> 00:08:44,525
+Vous...
+
+113
+00:08:44,622 --> 00:08:47,590
+Comme vous avez dû le constater,
+vous pouvez pas parler.
+
+114
+00:08:47,759 --> 00:08:49,285
+Vous pouvez pas parler.
+
+115
+00:08:50,254 --> 00:08:53,189
+Vous souffrez de ce qu'on appelle
+
+116
+00:08:54,990 --> 00:08:57,062
+un "locked-in syndrome".
+
+117
+00:08:59,822 --> 00:09:01,546
+<i>"Locked-in syndrome."</i>
+
+118
+00:09:01,646 --> 00:09:03,076
+"Locked-in syndrome."
+
+119
+00:09:06,063 --> 00:09:07,885
+Je sais que ça sera d'aucun réconfort,
+
+120
+00:09:07,982 --> 00:09:11,692
+mais c'est un syndrome
+extrêmement rare.
+
+121
+00:09:11,791 --> 00:09:12,719
+<i>Tant mieux.</i>
+
+122
+00:09:12,815 --> 00:09:15,368
+D'ailleurs, on n'en connaît
+tout simplement pas la cause. Bon.
+
+123
+00:09:15,471 --> 00:09:16,878
+Vous ne fumez pas, vous buvez peu.
+
+124
+00:09:16,975 --> 00:09:19,594
+Bon, alors, j'ai bien peur
+que ça ne devienne inexplicable.
+
+125
+00:09:19,695 --> 00:09:21,582
+Enfin, en tout cas, quoi qu'il en soit,
+
+126
+00:09:21,680 --> 00:09:24,940
+malgré votre paralysie qui est totale,
+ça, c'est sûr,
+
+127
+00:09:25,040 --> 00:09:28,269
+il semble que le reste fonctionne,
+tout est normal. Donc, il y a de l'espoir.
+
+128
+00:09:28,367 --> 00:09:30,255
+<i>- Normal?
+- Il y a de l'espoir.</i>
+
+129
+00:09:32,016 --> 00:09:33,772
+Le cerveau fonctionne, hein?
+
+130
+00:09:35,216 --> 00:09:37,387
+Vous me comprenez,
+vous pouvez nous suivre des yeux
+
+131
+00:09:37,488 --> 00:09:38,600
+quand on fait des mouvements,
+
+132
+00:09:38,704 --> 00:09:40,198
+encore que je ne sois pas
+complètement
+
+133
+00:09:40,304 --> 00:09:42,193
+satisfait de votre il. Pardon.
+
+134
+00:09:45,745 --> 00:09:48,134
+Le muscle ne fonctionne plus.
+Là, regardez!
+
+135
+00:09:48,881 --> 00:09:51,467
+Donc, ça veut dire
+que l'il n'est plus irrigué.
+
+136
+00:09:53,296 --> 00:09:56,166
+J'ai bien peur qu'il faille...
+l'obturer, quand même.
+
+137
+00:09:57,233 --> 00:09:58,313
+<i>L'obturer?</i>
+
+138
+00:09:59,185 --> 00:10:00,778
+<i>Quoi? Obturer?</i>
+
+139
+00:10:01,041 --> 00:10:03,016
+On va demander un deuxième avis.
+
+140
+00:10:05,746 --> 00:10:07,207
+Bon, alors, ce que je voudrais,
+Jean-Do,
+
+141
+00:10:07,314 --> 00:10:09,419
+c'est que vous vous reposiez
+pendant quelques jours.
+
+142
+00:10:09,521 --> 00:10:10,950
+<i>Qu'est-ce que vous croyez
+que je fais?</i>
+
+143
+00:10:11,058 --> 00:10:12,203
+Quand vous aurez repris des forces,
+
+144
+00:10:12,306 --> 00:10:14,412
+deux magnifiques jeunes femmes
+viendront vous rendre visite.
+
+145
+00:10:14,515 --> 00:10:17,199
+Croyez-moi,
+quand je dis "deux magnifiques", je...
+
+146
+00:10:17,970 --> 00:10:19,464
+<i>...je pèse mes mots.
+- Merveilleux!</i>
+
+147
+00:10:19,569 --> 00:10:20,497
+Elles sont superbes.
+
+148
+00:10:20,594 --> 00:10:21,902
+C'est des thérapeutes excellentes
+
+149
+00:10:22,002 --> 00:10:24,304
+qui vont faire des miracles,
+vous verrez. Voilà.
+
+150
+00:10:24,402 --> 00:10:25,679
+<i>Pitié, pas de miracles.</i>
+
+151
+00:10:25,778 --> 00:10:28,878
+Allez. Donc, comme je disais, il y a...
+Il y a de l'espoir.
+
+152
+00:10:29,619 --> 00:10:31,244
+<i>Oui, vous l'avez déjà dit.</i>
+
+153
+00:10:31,859 --> 00:10:33,866
+On va bien s'occuper de vous,
+Jean-Do, croyez-moi.
+
+154
+00:10:33,970 --> 00:10:35,596
+<i>- C'est bien parti.
+- On va... On va... On va...</i>
+
+155
+00:10:35,699 --> 00:10:37,488
+On va bien s'occuper de vous.
+
+156
+00:11:29,078 --> 00:11:30,158
+Bonjour.
+
+157
+00:11:35,958 --> 00:11:36,908
+Bonjour.
+
+158
+00:11:37,847 --> 00:11:38,893
+<i>Je suis au paradis, là?</i>
+
+159
+00:11:38,999 --> 00:11:40,526
+Je m'appelle Henriette.
+
+160
+00:11:40,631 --> 00:11:41,807
+Et moi, Marie.
+
+161
+00:11:42,582 --> 00:11:44,851
+Je sais
+que vous pouvez cligner des yeux.
+
+162
+00:11:45,174 --> 00:11:48,655
+Alors, vous allez cligner une fois
+pour oui, deux fois pour non.
+
+163
+00:11:49,110 --> 00:11:50,092
+<i>C'est bien ma veine!</i>
+
+164
+00:11:50,199 --> 00:11:52,304
+<i>J'ai deux créatures au pied de mon lit
+et je ne peux rien faire.</i>
+
+165
+00:11:52,406 --> 00:11:54,295
+Est-ce que vous pouvez lire
+ce qui est écrit?
+
+166
+00:11:54,391 --> 00:11:55,405
+<i>Où ça?</i>
+
+167
+00:11:55,703 --> 00:11:57,874
+<i>"Durand, orthophoniste."</i>
+
+168
+00:11:57,976 --> 00:11:59,469
+Il est écrit "Durand".
+
+169
+00:11:59,959 --> 00:12:01,748
+<i>- Très bien, M. Bauby.
+- Madame ou mademoiselle?</i>
+
+170
+00:12:01,848 --> 00:12:03,538
+Je suis votre physiothérapeute.
+
+171
+00:12:03,639 --> 00:12:05,495
+Ma priorité,
+c'est de vous apprendre à avaler,
+
+172
+00:12:05,592 --> 00:12:08,406
+donc, nous allons travailler la langue
+et les lèvres.
+
+173
+00:12:09,145 --> 00:12:11,794
+<i>- Ça a l'air sympa.
+- Moi, je suis orthophoniste.</i>
+
+174
+00:12:11,895 --> 00:12:14,350
+Alors, on va essayer de trouver
+un moyen de communiquer
+
+175
+00:12:14,456 --> 00:12:16,693
+avant que vous ne retrouviez la parole.
+
+176
+00:12:16,984 --> 00:12:18,926
+Vous savez, votre cas est très rare.
+
+177
+00:12:19,032 --> 00:12:19,981
+<i>On m'a dit, oui.</i>
+
+178
+00:12:20,087 --> 00:12:22,259
+Nous avons beaucoup
+de travail à faire.
+
+179
+00:12:22,745 --> 00:12:24,435
+Alors, ne perdons pas de temps.
+
+180
+00:12:24,536 --> 00:12:27,319
+Absolument, je suis venue
+juste pour me présenter.
+
+181
+00:12:27,416 --> 00:12:28,846
+Voilà, à plus tard.
+
+182
+00:12:30,234 --> 00:12:31,543
+<i>À plus tard.</i>
+
+183
+00:12:41,209 --> 00:12:42,932
+Je veux que vous sachiez que
+
+184
+00:12:44,057 --> 00:12:47,571
+c'est sans doute le travail le plus
+important qu'on m'ait jamais confié.
+
+185
+00:12:47,673 --> 00:12:49,778
+Et je suis bien décidée à réussir.
+
+186
+00:12:50,554 --> 00:12:52,409
+Avec votre aide, bien sûr.
+
+187
+00:12:54,330 --> 00:12:57,113
+Je crois que vous comprenez, mais
+
+188
+00:12:57,211 --> 00:12:59,382
+je vais vous poser plus de questions.
+
+189
+00:13:00,187 --> 00:13:01,332
+D'accord?
+
+190
+00:13:01,787 --> 00:13:04,176
+Rappelez-vous,
+un battement de cils pour oui,
+
+191
+00:13:04,284 --> 00:13:05,744
+deux pour non.
+
+192
+00:13:09,402 --> 00:13:10,711
+Suis-je un homme?
+
+193
+00:13:11,899 --> 00:13:13,590
+Suis-je une femme?
+
+194
+00:13:16,283 --> 00:13:18,771
+Est-ce que la lumière du soleil
+vous dérange?
+
+195
+00:13:20,891 --> 00:13:22,518
+Est-ce qu'il est minuit?
+
+196
+00:13:23,068 --> 00:13:24,497
+<i>C'est quoi, ces questions?</i>
+
+197
+00:13:24,605 --> 00:13:26,131
+Sommes-nous à Paris?
+
+198
+00:13:28,828 --> 00:13:30,257
+Sommes-nous à Berck?
+
+199
+00:13:31,036 --> 00:13:33,305
+Est-ce que le bois flotte sur l'eau?
+
+200
+00:13:33,403 --> 00:13:34,680
+<i>C'est pas vrai!</i>
+
+201
+00:13:35,196 --> 00:13:37,563
+Vous souvenez-vous
+d'avoir eu une attaque?
+
+202
+00:13:39,163 --> 00:13:41,717
+<i>Étiez-vous rédacteur en chef
+au magazine Elle?</i>
+
+203
+00:13:42,332 --> 00:13:45,332
+<i>Oui, j'étais rédacteur en chef
+au magazine Elle.</i>
+
+204
+00:13:46,621 --> 00:13:48,246
+- On va chez Alaïa.
+- O.K.
+
+205
+00:13:56,990 --> 00:13:58,398
+Comment allez-vous?
+
+206
+00:14:23,903 --> 00:14:25,528
+<i>Votre il droit ne bat pas
+comme il faut.</i>
+
+207
+00:14:25,888 --> 00:14:26,933
+Vous entendez ce que je dis?
+
+208
+00:14:27,550 --> 00:14:30,933
+Votre il droit ne bat pas comme
+il faut. Je vais vous le coudre.
+
+209
+00:14:33,055 --> 00:14:33,982
+<i>Le coudre?</i>
+
+210
+00:14:34,080 --> 00:14:35,508
+Ça évitera
+
+211
+00:14:36,671 --> 00:14:38,940
+l'ulcération de votre cornée.
+
+212
+00:14:39,999 --> 00:14:42,650
+Je serais venu vous voir plus tôt,
+mais j'étais en vacances au ski.
+
+213
+00:14:42,752 --> 00:14:45,850
+Saint-Moritz est une station magnifique
+à cette période de l'année.
+
+214
+00:14:45,953 --> 00:14:47,163
+<i>Je m'en fous!</i>
+
+215
+00:14:47,743 --> 00:14:49,654
+Il y a rien de tel que
+de descendre une piste
+
+216
+00:14:49,760 --> 00:14:51,964
+avec le vent qui vous fouette le visage.
+
+217
+00:14:52,064 --> 00:14:54,137
+<i>Ne m'approchez pas!
+Ne m'approchez pas!</i>
+
+218
+00:14:54,241 --> 00:14:56,127
+<i>- N'ayez pas peur.
+- Ne m'approchez pas!</i>
+
+219
+00:14:56,224 --> 00:14:59,071
+<i>- S'il vous plaît. Non, s'il vous plaît.
+- Vous ne sentirez rien.</i>
+
+220
+00:14:59,168 --> 00:15:01,240
+<i>Non, docteur, j'en ai rien à foutre.</i>
+
+221
+00:15:01,824 --> 00:15:03,449
+Vous sentirez rien, n'ayez pas peur.
+
+222
+00:15:03,553 --> 00:15:05,756
+<i>Non, il va pas fermer l'il...</i>
+
+223
+00:15:05,857 --> 00:15:09,370
+<i>S'il vous plaît! S'il vous plaît!
+Non, pas ça!</i>
+
+224
+00:15:10,049 --> 00:15:13,115
+Ça fait... J'ai fait ça 1000 fois.
+Ne vous inquiétez pas.
+
+225
+00:15:14,561 --> 00:15:15,968
+Pas mal. Voilà.
+
+226
+00:15:24,737 --> 00:15:26,625
+<i>- Vous inquiétez pas, hein?
+- Je vois plus rien!</i>
+
+227
+00:15:26,722 --> 00:15:29,624
+C'est bientôt terminé.
+Encore deux ou trois points.
+
+228
+00:15:30,210 --> 00:15:31,770
+C'est très bien.
+
+229
+00:15:32,705 --> 00:15:34,266
+Si c'est moi qui le dis.
+
+230
+00:15:34,786 --> 00:15:36,673
+Voilà, c'est fini. Bravo.
+
+231
+00:15:44,323 --> 00:15:47,454
+On va vous habiller.
+C'est bon pour le moral, ça. D'accord?
+
+232
+00:15:48,644 --> 00:15:50,813
+Après, il y a une surprise pour vous.
+
+233
+00:16:16,709 --> 00:16:19,096
+Bon, on va essayer le fauteuil roulant.
+Allez-y.
+
+234
+00:16:19,204 --> 00:16:20,764
+Un, deux, trois...
+
+235
+00:16:24,741 --> 00:16:25,723
+Voilà.
+
+236
+00:16:26,948 --> 00:16:31,008
+Voilà. Faites-le rouler de gauche
+à droite, pour voir. Vers moi. Allez-y.
+
+237
+00:16:32,389 --> 00:16:34,047
+Voilà. De l'autre côté.
+
+238
+00:16:34,149 --> 00:16:36,418
+Ne faites pas attention à eux,
+c'est mes étudiants.
+
+239
+00:16:36,517 --> 00:16:38,721
+Je fais ça pour vérifier
+si la position assise
+
+240
+00:16:38,821 --> 00:16:40,644
+ne va pas libérer
+des spasmes incontrôlables.
+
+241
+00:16:40,742 --> 00:16:42,117
+Vous comprenez?
+
+242
+00:16:42,214 --> 00:16:43,621
+Vous pouvez lui mettre une têtière.
+
+243
+00:16:43,718 --> 00:16:45,954
+Je suis désolé de vous...
+De vous infliger ça, Jean-Do.
+
+244
+00:16:46,054 --> 00:16:47,035
+Je suis vraiment désolé.
+
+245
+00:16:47,141 --> 00:16:48,930
+C'est parfait. C'est parfait.
+
+246
+00:16:49,990 --> 00:16:52,030
+Vous êtes bon pour le fauteuil!
+
+247
+00:16:52,134 --> 00:16:53,246
+<i>Je suis bon pour le fauteuil.</i>
+
+248
+00:16:53,350 --> 00:16:56,350
+<i>- Merci du verdict.
+- Alors ça, c'est une bonne nouvelle.</i>
+
+249
+00:16:56,838 --> 00:16:58,496
+Et maintenant, la surprise.
+
+250
+00:17:11,368 --> 00:17:13,156
+<i>Oh, mon Dieu, c'est qui, ça?</i>
+
+251
+00:17:13,479 --> 00:17:14,526
+<i>C'est moi?</i>
+
+252
+00:17:16,486 --> 00:17:20,481
+<i>J'ai l'air sorti d'un bocal de formol.</i>
+
+253
+00:17:22,056 --> 00:17:23,877
+<i>Quelle horreur!</i>
+
+254
+00:17:25,160 --> 00:17:26,687
+<i>C'est ça, la surprise?</i>
+
+255
+00:17:27,337 --> 00:17:28,613
+<i>De me voir?</i>
+
+256
+00:17:41,672 --> 00:17:42,949
+<i>Céline.</i>
+
+257
+00:17:50,985 --> 00:17:52,611
+Ça va? Vous allez bien?
+
+258
+00:17:52,969 --> 00:17:54,791
+Alors, que je vous explique...
+
+259
+00:17:54,921 --> 00:17:57,605
+Voilà! Jean-Do, c'est pas...
+C'est pas une magnifique surprise?
+
+260
+00:17:57,705 --> 00:17:59,332
+Votre première visite,
+c'est votre femme.
+
+261
+00:17:59,433 --> 00:18:01,506
+<i>C'est pas ma femme.
+C'est la mère de mes enfants.</i>
+
+262
+00:18:01,610 --> 00:18:03,203
+Voilà. Il comprend tout.
+
+263
+00:18:03,882 --> 00:18:05,605
+Il comprend tout.
+
+264
+00:18:06,602 --> 00:18:08,609
+Alors, posez-lui des questions
+auxquelles il puisse
+
+265
+00:18:08,714 --> 00:18:10,536
+simplement répondre
+par oui ou par non, d'accord?
+
+266
+00:18:10,634 --> 00:18:11,561
+Il cligne de l'il.
+
+267
+00:18:11,659 --> 00:18:14,659
+Alors, une fois pour oui,
+deux fois pour non.
+
+268
+00:18:14,762 --> 00:18:15,907
+D'accord.
+
+269
+00:18:16,010 --> 00:18:18,726
+Voilà. Je vous laisse. Ah oui, attendez.
+Alors, très important,
+
+270
+00:18:18,827 --> 00:18:22,406
+il faut que vous lui parliez comme ça,
+pile dans l'axe. O.K.?
+
+271
+00:18:22,507 --> 00:18:24,449
+Parce que si vous vous mettez là,
+il vous voit plus,
+
+272
+00:18:24,555 --> 00:18:26,409
+et si vous vous mettez là,
+il voit plus non plus.
+
+273
+00:18:26,507 --> 00:18:28,100
+Il faut que vous parliez comme ça.
+
+274
+00:18:28,203 --> 00:18:29,413
+Hein, Jean-Do?
+
+275
+00:18:29,867 --> 00:18:31,077
+Je vous laisse.
+
+276
+00:18:31,468 --> 00:18:34,535
+Vous avez sûrement des tas de choses
+à vous dire. Enfin...
+
+277
+00:18:53,708 --> 00:18:57,025
+Ils m'ont dit que tu...
+
+278
+00:18:58,956 --> 00:19:02,304
+Tout le monde prie pour toi.
+Ils t'envoient des prières.
+
+279
+00:19:04,076 --> 00:19:05,964
+Je suis venue sans les enfants.
+
+280
+00:19:07,213 --> 00:19:09,035
+Je préférais te voir d'abord.
+
+281
+00:19:10,124 --> 00:19:11,302
+Ils vont bien.
+
+282
+00:19:11,853 --> 00:19:13,096
+Tu leur manques.
+
+283
+00:19:14,125 --> 00:19:16,514
+Céleste prie pour toi tous les soirs.
+
+284
+00:19:18,733 --> 00:19:19,661
+<i>Non!</i>
+
+285
+00:19:20,782 --> 00:19:22,539
+Tu veux que je les amène?
+
+286
+00:19:24,494 --> 00:19:26,054
+Tu veux pas les voir?
+
+287
+00:19:34,254 --> 00:19:37,069
+Laurent voudrait venir te voir.
+Tu veux le voir?
+
+288
+00:19:39,181 --> 00:19:40,841
+Lui, tu veux le voir.
+
+289
+00:19:42,415 --> 00:19:43,756
+Je lui dirai.
+
+290
+00:20:05,904 --> 00:20:07,911
+Est-ce qu'elle est venue te voir?
+
+291
+00:20:14,800 --> 00:20:17,069
+J'ai parlé
+avec l'orthophoniste, Henriette.
+
+292
+00:20:17,169 --> 00:20:18,379
+Je l'aime bien.
+
+293
+00:20:19,442 --> 00:20:21,351
+Elle pense qu'elle peut t'aider.
+
+294
+00:20:31,345 --> 00:20:32,490
+Je t'en prie.
+
+295
+00:20:33,425 --> 00:20:34,603
+Ne pleure pas.
+
+296
+00:20:40,466 --> 00:20:42,888
+<i>Je connais la gare de Berck.</i>
+
+297
+00:20:43,346 --> 00:20:45,419
+<i>Je la vois comme si j'y étais.</i>
+
+298
+00:20:45,746 --> 00:20:48,113
+<i>C'est l'endroit
+le plus déprimant du monde.</i>
+
+299
+00:20:48,339 --> 00:20:52,365
+<i>En tout cas, ça l'était quand je passais
+mes vacances ici quand j'étais petit.</i>
+
+300
+00:20:53,074 --> 00:20:55,114
+<i>Berck, la fin de l'été.</i>
+
+301
+00:20:55,858 --> 00:20:58,247
+<i>Attendant le train de Paris
+avec mon père.</i>
+
+302
+00:20:59,282 --> 00:21:02,730
+<i>C'était désolé à l'époque,
+ça doit l'être encore plus aujourd'hui.</i>
+
+303
+00:21:05,011 --> 00:21:07,116
+<i>J'ai tellement été nul avec elle.</i>
+
+304
+00:21:07,571 --> 00:21:09,098
+<i>Avec les enfants aussi.</i>
+
+305
+00:21:11,347 --> 00:21:15,276
+<i>Et maintenant,
+je pourrai plus jamais me rattraper.</i>
+
+306
+00:21:17,140 --> 00:21:18,220
+<i>Jamais.</i>
+
+307
+00:21:18,996 --> 00:21:19,944
+Regardez ça.
+
+308
+00:21:22,548 --> 00:21:26,028
+Comme vous le voyez, ce n'est pas
+l'alphabet qu'on apprend à l'école.
+
+309
+00:21:26,131 --> 00:21:29,428
+On a classé les lettres en fonction
+de la fréquence de leur usage.
+
+310
+00:21:29,524 --> 00:21:30,898
+Vous comprenez?
+
+311
+00:21:31,603 --> 00:21:33,578
+E, S, A, R, I, N...
+
+312
+00:21:33,684 --> 00:21:36,073
+T, U, L, O, M, D, P, C, F...
+
+313
+00:21:37,588 --> 00:21:40,175
+<i>La fréquence de leur usage?</i>
+
+314
+00:21:40,277 --> 00:21:42,644
+...G, J, Q, Z, Y
+
+315
+00:21:42,741 --> 00:21:44,334
+X, K, W.
+
+316
+00:21:45,301 --> 00:21:48,267
+J'ai fait un tas de recherches,
+j'ai parlé avec des collègues
+
+317
+00:21:48,373 --> 00:21:50,707
+et j'espère être arrivée
+à un système qui fonctionne.
+
+318
+00:21:50,804 --> 00:21:53,008
+<i>- Tant mieux pour toi.
+- Voilà comment ça marche.</i>
+
+319
+00:21:53,109 --> 00:21:55,181
+Vous pensez
+à ce que vous voulez me dire.
+
+320
+00:21:55,285 --> 00:21:58,253
+Quand vous êtes prêt,
+vous clignez de l'il.
+
+321
+00:21:58,773 --> 00:22:02,668
+Je réciterai cet alphabet
+très lentement, une lettre après l'autre.
+
+322
+00:22:03,254 --> 00:22:06,254
+Dès que j'arriverai à la première lettre
+de votre mot, clignez.
+
+323
+00:22:06,358 --> 00:22:10,385
+Je l'écrirai et on passera
+à la lettre suivante et ainsi de suite.
+
+324
+00:22:11,447 --> 00:22:14,097
+Peut-être qu'on arrivera à des mots,
+des phrases.
+
+325
+00:22:14,519 --> 00:22:15,892
+<i>- Encore deux choses.
+- Quoi?</i>
+
+326
+00:22:15,989 --> 00:22:18,957
+Quand le mot est complet, clignez
+deux fois, comme si vous frappiez
+
+327
+00:22:19,062 --> 00:22:21,135
+<i>- sur la barre d'espace d'un clavier.
+- J'aimerais bien.</i>
+
+328
+00:22:21,238 --> 00:22:24,370
+Et si je fais une erreur,
+clignez rapidement plusieurs fois.
+
+329
+00:22:24,886 --> 00:22:27,026
+Je sais, ça paraît terriblement ardu,
+
+330
+00:22:27,127 --> 00:22:28,916
+mais croyez-moi, on va y arriver.
+
+331
+00:22:29,014 --> 00:22:31,732
+Vos amis,
+votre famille pourront aussi en profiter.
+
+332
+00:22:32,920 --> 00:22:34,807
+Vous voulez essayer, M. Bauby?
+
+333
+00:22:35,000 --> 00:22:36,145
+Regardez-moi.
+
+334
+00:22:37,624 --> 00:22:39,314
+Vous avez envie d'essayer?
+
+335
+00:22:39,543 --> 00:22:41,715
+Vous savez
+ce que vous voulez me dire?
+
+336
+00:22:42,264 --> 00:22:43,246
+Très bien.
+
+337
+00:22:43,607 --> 00:22:45,974
+<i>- Alors, allons-y...
+- Attendez, non, je...</i>
+
+338
+00:22:47,543 --> 00:22:49,006
+<i>Je sais pas quoi vous dire, moi.</i>
+
+339
+00:22:49,112 --> 00:22:50,160
+E...
+
+340
+00:22:50,872 --> 00:22:53,491
+<i>- E est votre première lettre?
+- Non.</i>
+
+341
+00:22:54,649 --> 00:22:56,077
+E n'est pas la première lettre.
+
+342
+00:22:56,184 --> 00:22:58,868
+<i>Non, c'est pas E,
+je sais même pas quoi vous dire.</i>
+
+343
+00:22:59,065 --> 00:23:00,691
+Je sais, c'est difficile.
+
+344
+00:23:01,081 --> 00:23:02,575
+On va aller doucement.
+
+345
+00:23:04,376 --> 00:23:06,264
+E, S
+
+346
+00:23:06,361 --> 00:23:08,631
+A, R,
+
+347
+00:23:08,729 --> 00:23:11,663
+I, N, T
+
+348
+00:23:11,768 --> 00:23:14,835
+U, L, O...
+
+349
+00:23:14,936 --> 00:23:16,725
+<i>- C'est trop long.
+...M, D,</i>
+
+350
+00:23:16,953 --> 00:23:17,969
+B, C...
+
+351
+00:23:18,073 --> 00:23:20,178
+<i>Je peux pas garder
+la paupière ouverte comme ça.</i>
+
+352
+00:23:20,282 --> 00:23:21,656
+...P...
+
+353
+00:23:21,754 --> 00:23:22,964
+<i>Dépêche-toi!</i>
+
+354
+00:23:23,066 --> 00:23:24,179
+...G, J...
+
+355
+00:23:24,282 --> 00:23:25,209
+<i>J!</i>
+
+356
+00:23:26,586 --> 00:23:27,601
+<i>- J?
+- J.</i>
+
+357
+00:23:28,762 --> 00:23:29,690
+"Je"?
+
+358
+00:23:29,786 --> 00:23:30,964
+<i>Bravo.</i>
+
+359
+00:23:32,667 --> 00:23:34,390
+C'est ça? Votre premier mot est "je"?
+
+360
+00:23:34,490 --> 00:23:37,524
+<i>Mon premier mot est '"je".
+Je commence par moi.</i>
+
+361
+00:23:38,202 --> 00:23:39,631
+E, S...
+
+362
+00:23:40,410 --> 00:23:41,337
+S?
+
+363
+00:23:41,882 --> 00:23:42,830
+<i>Non.</i>
+
+364
+00:23:43,034 --> 00:23:45,271
+Non, ce n'est pas S.
+
+365
+00:23:45,627 --> 00:23:47,187
+<i>Vous allez trop vite.</i>
+
+366
+00:23:47,642 --> 00:23:49,879
+E, S, A...
+
+367
+00:23:50,683 --> 00:23:51,796
+<i>On n'y arrivera jamais.</i>
+
+368
+00:23:51,899 --> 00:23:54,387
+<i>C'est un cauchemar,
+ça marchera jamais votre truc.</i>
+
+369
+00:23:54,491 --> 00:23:55,637
+On continue?
+
+370
+00:23:56,892 --> 00:23:58,485
+<i>J'ai pas envie.</i>
+
+371
+00:23:59,805 --> 00:24:01,147
+<i>J'ai pas envie.</i>
+
+372
+00:24:04,092 --> 00:24:05,618
+<i>Laissez-moi tranquille.</i>
+
+373
+00:24:30,301 --> 00:24:32,124
+<i>En haut, en bas,</i>
+
+374
+00:24:32,702 --> 00:24:33,715
+<i>en haut...</i>
+
+375
+00:24:35,037 --> 00:24:36,531
+<i>Sous les bras.</i>
+
+376
+00:24:38,141 --> 00:24:39,603
+<i>Derrière les jambes.</i>
+
+377
+00:24:41,341 --> 00:24:42,749
+<i>J'ai 42 ans.</i>
+
+378
+00:24:44,894 --> 00:24:47,741
+<i>On me nettoie comme un gros bébé.</i>
+
+379
+00:24:49,598 --> 00:24:51,027
+<i>On me lave le cul,</i>
+
+380
+00:24:51,935 --> 00:24:53,112
+<i>on me torche.</i>
+
+381
+00:24:54,687 --> 00:24:56,988
+<i>C'est assez risible, finalement.</i>
+
+382
+00:24:58,655 --> 00:25:00,345
+<i>Mais comme dit le poète:</i>
+
+383
+00:25:01,118 --> 00:25:04,534
+<i>"Il n'y a que les fous qui rient
+quand il n'y a pas de quoi rire. "</i>
+
+384
+00:25:05,471 --> 00:25:07,194
+Envoyez-moi un baiser.
+
+385
+00:25:07,582 --> 00:25:08,510
+<i>Pardon?</i>
+
+386
+00:25:08,863 --> 00:25:10,041
+Allez.
+
+387
+00:25:11,710 --> 00:25:12,758
+Essayez.
+
+388
+00:25:18,143 --> 00:25:19,093
+Allez.
+
+389
+00:25:21,504 --> 00:25:22,486
+Essayez.
+
+390
+00:25:23,616 --> 00:25:24,664
+Je sais que c'est difficile.
+
+391
+00:25:24,768 --> 00:25:25,695
+<i>Enlevez-moi ce miroir!</i>
+
+392
+00:25:25,793 --> 00:25:27,615
+C'est là-dessus
+que je veux que vous travailliez.
+
+393
+00:25:27,712 --> 00:25:29,534
+<i>- Je veux pas me voir!
+- Quand vous vous reposez,</i>
+
+394
+00:25:29,632 --> 00:25:32,250
+que vous regardez la télé,
+n'importe quand,
+
+395
+00:25:32,352 --> 00:25:35,516
+je veux que vous vous entraîniez
+à m'envoyer un baiser.
+
+396
+00:25:35,616 --> 00:25:37,274
+<i>- D'accord?
+- Oui.</i>
+
+397
+00:25:37,888 --> 00:25:41,085
+Et une autre chose qu'il va falloir
+que vous vous entraîniez,
+
+398
+00:25:41,184 --> 00:25:45,440
+c'est de faire glisser la langue
+vers l'arrière du palais.
+
+399
+00:25:46,306 --> 00:25:49,022
+C'est comme ça
+que vous allez réapprendre à avaler.
+
+400
+00:25:49,569 --> 00:25:50,650
+Regardez.
+
+401
+00:25:56,193 --> 00:25:59,259
+<i>Oh, non, c'est pas juste!
+Là, vraiment, c'est pas juste!</i>
+
+402
+00:26:06,785 --> 00:26:08,160
+À vous, maintenant.
+
+403
+00:26:08,610 --> 00:26:10,334
+<i>Enlevez ce miroir!</i>
+
+404
+00:26:10,626 --> 00:26:12,481
+<i>- Ouvrez la bouche.
+- Non!</i>
+
+405
+00:26:14,146 --> 00:26:15,194
+Bien.
+
+406
+00:26:15,298 --> 00:26:17,982
+Essayez de faire glisser la langue
+vers l'arrière.
+
+407
+00:26:21,859 --> 00:26:22,841
+<i>Je peux pas.</i>
+
+408
+00:26:23,010 --> 00:26:24,384
+Allez-y. Essayez!
+
+409
+00:26:24,483 --> 00:26:25,628
+<i>Je peux pas!</i>
+
+410
+00:26:26,787 --> 00:26:28,958
+C'est bien. Vous avez bougé la langue.
+
+411
+00:26:29,060 --> 00:26:30,969
+<i>- Vous moquez pas de moi!
+- C'est formidable.</i>
+
+412
+00:26:31,075 --> 00:26:33,115
+<i>- J'y arrive pas.
+- Allez-y, encore.</i>
+
+413
+00:26:35,875 --> 00:26:37,402
+<i>- Incroyable!
+- Oui.</i>
+
+414
+00:26:37,859 --> 00:26:39,746
+<i>- C'est bien.
+- Mais vrai!</i>
+
+415
+00:26:44,100 --> 00:26:47,483
+Je vais vous aider à bouger la tête
+par vous-même.
+
+416
+00:26:47,589 --> 00:26:48,832
+Comme ça.
+
+417
+00:26:51,236 --> 00:26:52,763
+<i>C'est vous qui faites tout.</i>
+
+418
+00:26:52,868 --> 00:26:54,176
+À gauche.
+
+419
+00:26:54,916 --> 00:26:56,160
+C'est bien.
+
+420
+00:26:56,805 --> 00:26:58,233
+À droite.
+
+421
+00:26:59,236 --> 00:27:00,185
+Bien.
+
+422
+00:27:02,181 --> 00:27:03,872
+<i>À gauche, encore.</i>
+
+423
+00:27:14,661 --> 00:27:16,898
+<i>Vous sentez mes mains
+sur votre visage?</i>
+
+424
+00:27:17,670 --> 00:27:18,782
+<i>Non.</i>
+
+425
+00:27:19,557 --> 00:27:21,696
+C'est pas grave, ça viendra.
+
+426
+00:27:25,894 --> 00:27:28,861
+Nous sommes très honorés
+de vous avoir ici, vous savez?
+
+427
+00:27:30,087 --> 00:27:31,745
+<i>Je suis abonnée à Elle.</i>
+
+428
+00:27:32,710 --> 00:27:34,052
+J'aime beaucoup.
+
+429
+00:27:34,887 --> 00:27:38,302
+Je trouve que les mannequins
+ressemblent à des garçons, pas vous?
+
+430
+00:27:43,399 --> 00:27:46,267
+<i>- Pas comme vous.
+- Elles sont de plus en plus maigres.</i>
+
+431
+00:27:48,710 --> 00:27:50,401
+C'est une drôle de mode.
+
+432
+00:27:50,951 --> 00:27:52,740
+<i>Qu'est-ce qu'elle est belle!</i>
+
+433
+00:27:54,951 --> 00:27:56,740
+Je suis très croyante.
+
+434
+00:27:57,415 --> 00:27:59,390
+Je prie pour vous tous les jours.
+
+435
+00:28:02,247 --> 00:28:03,840
+Y a que son il gauche qui fonctionne.
+
+436
+00:28:03,944 --> 00:28:06,366
+Quand vous lui parlerez,
+faut être bien en face.
+
+437
+00:28:06,473 --> 00:28:07,683
+<i>Qui c'est, ça?</i>
+
+438
+00:28:12,937 --> 00:28:14,823
+<i>- Pierre Roussin.
+- Bonjour.</i>
+
+439
+00:28:17,704 --> 00:28:19,264
+Vous ne vous souvenez pas de moi?
+
+440
+00:28:19,369 --> 00:28:20,962
+<i>Bien sûr que si!</i>
+
+441
+00:28:21,065 --> 00:28:24,676
+<i>- Il cligne une fois pour oui...
+- Putain, j'ai jamais rappelé ce type!</i>
+
+442
+00:28:24,777 --> 00:28:25,988
+Vous voulez que je vous laisse?
+
+443
+00:28:26,090 --> 00:28:28,130
+<i>- Non, non.
+- Non, s'il vous plaît!</i>
+
+444
+00:28:28,362 --> 00:28:30,500
+<i>Pourquoi j'ai jamais rappelé ce type?</i>
+
+445
+00:28:30,922 --> 00:28:34,534
+J'ai appris ce qui vous est arrivé et je...
+Je voulais...
+
+446
+00:28:36,938 --> 00:28:40,288
+Non, j'étais obligé de venir
+à cause de ce qui m'est arrivé.
+
+447
+00:28:43,273 --> 00:28:45,313
+Je crois que d'une certaine manière,
+j'arrive à...
+
+448
+00:28:45,417 --> 00:28:47,458
+À comprendre ce que vous ressentez.
+
+449
+00:28:48,905 --> 00:28:52,005
+Parce que...
+Être pris en otage, c'est pas...
+
+450
+00:28:52,106 --> 00:28:54,976
+C'est pas très différent
+de ce que vous vivez.
+
+451
+00:28:56,234 --> 00:28:58,886
+- Je me trompe?
+- Otage?
+
+452
+00:28:59,563 --> 00:29:02,978
+Jean-Dominique a eu la gentillesse
+de me céder sa place sur un avion,
+
+453
+00:29:03,082 --> 00:29:06,279
+et malheureusement pour moi,
+l'avion a été détourné
+
+454
+00:29:06,379 --> 00:29:10,786
+et j'ai été retenu en otage à Beyrouth
+pendant quatre ans.
+
+455
+00:29:11,851 --> 00:29:12,931
+Quatre ans,
+
+456
+00:29:13,515 --> 00:29:16,515
+quatre mois, deux semaines,
+cinq jours, sept heures.
+
+457
+00:29:16,620 --> 00:29:20,843
+J'étais dans une cave très très petite,
+dans le noir.
+
+458
+00:29:21,548 --> 00:29:23,882
+Et c'était très difficile de respirer.
+
+459
+00:29:24,908 --> 00:29:26,533
+Je l'appelais mon tombeau.
+
+460
+00:29:30,284 --> 00:29:33,830
+Et il se trouve que je...
+Que je connais très bien les vins.
+
+461
+00:29:34,445 --> 00:29:36,070
+<i>Qu'est-ce qui lui est arrivé à la main?</i>
+
+462
+00:29:36,172 --> 00:29:38,312
+Alors, je me récitais quotidiennement
+le classement
+
+463
+00:29:38,412 --> 00:29:41,925
+des grands crus de Bordeaux
+de l'année 1855.
+
+464
+00:29:43,245 --> 00:29:44,587
+Château Margon, Margaux,
+
+465
+00:29:44,684 --> 00:29:48,067
+Château Lafite-Rothschild,
+Pauillac, etc.
+
+466
+00:29:49,645 --> 00:29:50,573
+Et...
+
+467
+00:29:52,109 --> 00:29:53,898
+Je crois que ça m'a aidé à...
+
+468
+00:29:53,998 --> 00:29:56,365
+à pas devenir fou.
+Enfin, pas complètement.
+
+469
+00:29:59,823 --> 00:30:02,605
+Bien sûr, il y avait des tas de...
+
+470
+00:30:02,702 --> 00:30:06,532
+...moments où j'étais
+désespéré, suicidaire, en colère...
+
+471
+00:30:08,877 --> 00:30:10,634
+Parce que, y avait
+les mauvais traitements,
+
+472
+00:30:10,734 --> 00:30:12,873
+y avait la saleté,
+y avait la cruauté, y avait...
+
+473
+00:30:12,974 --> 00:30:16,488
+Y avait l'attente, surtout.
+Le plus difficile, c'était l'attente.
+
+474
+00:30:17,838 --> 00:30:19,399
+Mais j'ai survécu.
+
+475
+00:30:21,454 --> 00:30:23,243
+Et j'ai survécu parce que je...
+
+476
+00:30:23,343 --> 00:30:26,060
+...me raccrochais
+à ce qui faisait de moi un homme.
+
+477
+00:30:30,159 --> 00:30:31,947
+Je pouvais pas faire autrement,
+de toute façon,
+
+478
+00:30:32,047 --> 00:30:33,607
+c'était la seule chose qui me restait,
+
+479
+00:30:33,711 --> 00:30:36,046
+comme c'est la seule chose
+qui vous reste.
+
+480
+00:30:38,863 --> 00:30:43,206
+Il faut vous accrocher
+à l'humain qui est en vous
+
+481
+00:30:44,080 --> 00:30:45,357
+et vous survivrez.
+
+482
+00:30:46,064 --> 00:30:48,846
+<i>L'humain! Facile!</i>
+
+483
+00:30:48,944 --> 00:30:51,497
+C'est ça que je voulais...
+Je voulais vous dire ça.
+
+484
+00:30:51,601 --> 00:30:52,549
+En face.
+
+485
+00:30:52,657 --> 00:30:56,040
+<i>Pourquoi je l'ai jamais rappelé
+quand il est revenu de Beyrouth?</i>
+
+486
+00:30:56,401 --> 00:30:57,994
+<i>Je me sentais trop coupable.</i>
+
+487
+00:30:58,097 --> 00:30:59,656
+Ça a l'air un peu ridicule, mais je...
+
+488
+00:30:59,760 --> 00:31:02,216
+<i>C'est pas ridicule. J'ai honte.</i>
+
+489
+00:31:02,321 --> 00:31:04,230
+E, S, A,
+
+490
+00:31:04,337 --> 00:31:06,442
+R, I, N,
+
+491
+00:31:06,545 --> 00:31:08,368
+T, U, L,
+
+492
+00:31:08,465 --> 00:31:10,473
+O, M, D,
+
+493
+00:31:10,577 --> 00:31:13,894
+P, C, F, B, V...
+
+494
+00:31:14,737 --> 00:31:15,720
+V?
+
+495
+00:31:17,074 --> 00:31:18,416
+E? E.
+
+496
+00:31:19,795 --> 00:31:20,841
+Je veux?
+
+497
+00:31:22,258 --> 00:31:24,397
+Qu'est-ce que vous voulez, M. Bauby?
+
+498
+00:31:26,194 --> 00:31:28,233
+E, S, A,
+
+499
+00:31:28,338 --> 00:31:30,346
+R, I, N,
+
+500
+00:31:30,450 --> 00:31:33,898
+T, U, L, O, M...
+
+501
+00:31:34,674 --> 00:31:35,721
+M.
+
+502
+00:31:37,203 --> 00:31:39,275
+E, S, A,
+
+503
+00:31:39,378 --> 00:31:42,128
+R, I, N, T,
+
+504
+00:31:42,227 --> 00:31:44,169
+U, L, O...
+
+505
+00:31:45,012 --> 00:31:45,993
+O.
+
+506
+00:31:48,852 --> 00:31:51,055
+E, S, A,
+
+507
+00:31:51,156 --> 00:31:54,700
+R, I, N, T, U...
+
+508
+00:31:56,243 --> 00:31:57,388
+U.
+
+509
+00:31:59,027 --> 00:32:01,449
+E, S, A, R...
+
+510
+00:32:02,100 --> 00:32:03,082
+R.
+
+511
+00:32:03,540 --> 00:32:04,588
+"Mourir."
+
+512
+00:32:05,620 --> 00:32:07,081
+Vous voulez mourir.
+
+513
+00:32:09,556 --> 00:32:11,313
+Comment osez-vous dire ça?
+
+514
+00:32:14,773 --> 00:32:18,253
+Il y a des gens qui vous aiment,
+pour qui vous comptez.
+
+515
+00:32:18,421 --> 00:32:21,868
+Moi, je vous connais à peine et
+vous comptez déjà beaucoup pour moi.
+
+516
+00:32:21,973 --> 00:32:24,689
+Vous êtes vivant, alors ne dites pas
+que vous voulez mourir.
+
+517
+00:32:24,789 --> 00:32:27,123
+C'est un manque de respect.
+C'est obscène.
+
+518
+00:32:32,758 --> 00:32:34,383
+Vous voulez continuer?
+
+519
+00:32:36,150 --> 00:32:37,165
+Très bien.
+
+520
+00:32:38,805 --> 00:32:41,294
+Je reviendrai voir
+si vous avez changé d'avis.
+
+521
+00:33:04,504 --> 00:33:06,030
+Je m'excuse.
+
+522
+00:33:15,160 --> 00:33:16,207
+<i>Pourquoi?</i>
+
+523
+00:33:16,599 --> 00:33:18,738
+Je suis allée un petit peu trop loin.
+
+524
+00:33:22,104 --> 00:33:23,249
+Reposez-vous.
+
+525
+00:33:38,264 --> 00:33:39,694
+Elle te plaît?
+
+526
+00:33:40,281 --> 00:33:42,005
+Je savais pas vraiment quoi t'apporter.
+
+527
+00:33:42,105 --> 00:33:43,566
+Tiens, j'ai ça, aussi.
+
+528
+00:33:44,856 --> 00:33:45,805
+Une seconde.
+
+529
+00:33:45,913 --> 00:33:48,401
+<i>Qu'est-ce qu'il fait?
+Qu'est-ce que tu fais?</i>
+
+530
+00:33:48,889 --> 00:33:50,515
+<i>Mais qu'est-ce que c'est?</i>
+
+531
+00:33:51,033 --> 00:33:54,295
+<i>Non, c'est pas vrai. Je vais ressembler
+à un lapin, comme ça.</i>
+
+532
+00:33:56,538 --> 00:33:59,800
+Moi, je lis les lettres,
+et toi, tu clignes la paupière, c'est ça?
+
+533
+00:33:59,898 --> 00:34:02,003
+<i>- C'est pas la peine.
+- D'accord?</i>
+
+534
+00:34:02,842 --> 00:34:04,752
+E, S, A...
+
+535
+00:34:06,618 --> 00:34:07,731
+S ou A?
+
+536
+00:34:08,315 --> 00:34:10,224
+<i>- Ce que tu veux.
+- A.</i>
+
+537
+00:34:11,161 --> 00:34:13,050
+<i>A, d'accord, A.</i>
+
+538
+00:34:13,275 --> 00:34:16,090
+E, S, A, R,
+
+539
+00:34:16,186 --> 00:34:17,975
+I, N...
+
+540
+00:34:20,091 --> 00:34:21,039
+N?
+
+541
+00:34:22,299 --> 00:34:23,989
+<i>D'accord, N.</i>
+
+542
+00:34:24,732 --> 00:34:25,713
+E, S...
+
+543
+00:34:25,818 --> 00:34:26,866
+<i>Anne.</i>
+
+544
+00:34:26,970 --> 00:34:28,181
+...R, I,
+
+545
+00:34:28,539 --> 00:34:30,514
+N, T, U, L...
+
+546
+00:34:30,619 --> 00:34:33,009
+<i>- Il faut que tu me regardes, Laurent.
+- Merde!</i>
+
+547
+00:34:33,116 --> 00:34:35,123
+J'ai oublié de regarder si tu clignais.
+
+548
+00:34:35,228 --> 00:34:38,196
+Excuse-moi, on recommence.
+Je vais lire moins vite. O. K?
+
+549
+00:34:38,300 --> 00:34:39,576
+<i>- Si tu veux.
+- E,</i>
+
+550
+00:34:40,156 --> 00:34:42,043
+S, A,
+
+551
+00:34:42,139 --> 00:34:44,376
+R, I,
+
+552
+00:34:44,476 --> 00:34:47,640
+N, T, U...
+
+553
+00:34:47,739 --> 00:34:49,267
+<i>- T'es drôle.
+...L.</i>
+
+554
+00:34:49,372 --> 00:34:52,187
+J'ai jamais été doué
+pour les visites à l'hôpital.
+
+555
+00:34:52,284 --> 00:34:54,837
+Je suis du genre à apporter
+du raisin au malade et à le manger.
+
+556
+00:34:54,941 --> 00:34:57,591
+<i>- C'est pas vrai.
+- Il a fallu que ça t'arrive à toi!</i>
+
+557
+00:34:57,693 --> 00:34:59,286
+Tout le monde en parle.
+
+558
+00:34:59,389 --> 00:35:00,851
+J'étais au Flore, hier soir.
+
+559
+00:35:00,957 --> 00:35:03,347
+Je sais plus qui c'était,
+mais j'ai entendu quelqu'un dire:
+
+560
+00:35:03,453 --> 00:35:06,769
+"Tu sais, Jean-Do Bauby,
+il paraît que c'est devenu un légume."
+
+561
+00:35:06,877 --> 00:35:08,885
+<i>- Un légume!
+- Baissez-vous, il peut pas vous voir!</i>
+
+562
+00:35:08,989 --> 00:35:10,396
+<i>Un légume! Qui a dit ça?</i>
+
+563
+00:35:10,493 --> 00:35:11,507
+Je suis con!
+
+564
+00:35:11,613 --> 00:35:13,555
+<i>Quel genre de légume?</i>
+
+565
+00:35:13,661 --> 00:35:14,643
+J'espère que je t'ai pas blessé.
+
+566
+00:35:14,749 --> 00:35:17,018
+<i>Une carotte? Une patate?
+Un cornichon?</i>
+
+567
+00:36:29,856 --> 00:36:31,896
+<i>Aujourd'hui, il me semble
+que toute mon existence</i>
+
+568
+00:36:32,001 --> 00:36:34,587
+<i>n'aura été qu'un enchaînement
+de petits ratages.</i>
+
+569
+00:36:36,705 --> 00:36:38,910
+<i>Des femmes qu'on n'a pas su aimer,</i>
+
+570
+00:36:39,009 --> 00:36:41,279
+<i>des chances
+qu'on n'a pas voulu saisir,</i>
+
+571
+00:36:41,985 --> 00:36:44,669
+<i>des instants de bonheur
+qu'on a laissés s'envoler.</i>
+
+572
+00:36:46,050 --> 00:36:48,506
+<i>Une course dont on connaît le résultat,</i>
+
+573
+00:36:48,610 --> 00:36:51,196
+<i>mais on est incapable
+de toucher le gagnant.</i>
+
+574
+00:36:53,763 --> 00:36:56,347
+<i>Étais-je aveugle et sourd,
+ou bien fallait-il nécessairement</i>
+
+575
+00:36:56,450 --> 00:36:59,680
+<i>la lumière d'un malheur
+pour m'éclairer sur ma vraie nature?</i>
+
+576
+00:37:09,412 --> 00:37:10,818
+Je suis toujours là.
+
+577
+00:37:14,883 --> 00:37:17,272
+Vous vous sentez
+d'humeur plus coopérative?
+
+578
+00:37:23,461 --> 00:37:24,442
+Bien.
+
+579
+00:37:25,828 --> 00:37:28,545
+Vous savez, vous et moi,
+on est là pour progresser.
+
+580
+00:37:28,644 --> 00:37:31,011
+<i>- Vous êtes d'accord?
+- Oui, maîtresse.</i>
+
+581
+00:37:31,108 --> 00:37:32,122
+Très bien.
+
+582
+00:37:33,349 --> 00:37:34,875
+Alors, je commence.
+
+583
+00:37:39,493 --> 00:37:41,565
+E, S, A,
+
+584
+00:37:41,669 --> 00:37:43,905
+R, I, N,
+
+585
+00:37:44,005 --> 00:37:45,761
+T, U, L,
+
+586
+00:37:45,862 --> 00:37:46,908
+O, M...
+
+587
+00:37:47,718 --> 00:37:48,646
+M.
+
+588
+00:37:50,118 --> 00:37:51,133
+E...
+
+589
+00:37:51,589 --> 00:37:52,636
+E.
+
+590
+00:37:53,829 --> 00:37:56,732
+E, S, A, R...
+
+591
+00:37:56,838 --> 00:37:57,765
+R.
+
+592
+00:37:59,557 --> 00:38:05,471
+E, S, A, R, I, N, T, U, L, O, M, D, P, C...
+
+593
+00:38:05,574 --> 00:38:06,818
+C.
+
+594
+00:38:06,919 --> 00:38:07,933
+"Merci."
+
+595
+00:38:08,646 --> 00:38:09,594
+Merci?
+
+596
+00:38:11,142 --> 00:38:12,255
+Merci.
+
+597
+00:38:13,446 --> 00:38:14,853
+Est-ce que je peux
+vous appeler Jean-Do?
+
+598
+00:38:14,952 --> 00:38:16,445
+<i>Pas compliquées, les femmes, hein?</i>
+
+599
+00:38:16,551 --> 00:38:17,761
+Merci, Jean-Do.
+
+600
+00:38:18,727 --> 00:38:21,116
+E, S, A, R, I,
+
+601
+00:38:21,222 --> 00:38:23,394
+N, T, U, L,
+
+602
+00:38:23,494 --> 00:38:27,685
+O, M, D, P, C, F, B, V,
+
+603
+00:38:27,783 --> 00:38:29,791
+H, G, J...
+
+604
+00:38:29,927 --> 00:38:30,875
+J.
+
+605
+00:38:33,511 --> 00:38:35,006
+E, S, A...
+
+606
+00:38:35,847 --> 00:38:36,960
+A.
+
+607
+00:38:37,064 --> 00:38:38,013
+"J'ai."
+
+608
+00:38:38,120 --> 00:38:41,416
+<i>J'ai décidé
+de ne plus jamais me plaindre.</i>
+
+609
+00:38:46,344 --> 00:38:48,166
+<i>Je viens de m'apercevoir
+qu'à part mon il,</i>
+
+610
+00:38:48,264 --> 00:38:50,751
+<i>il y a deux choses
+qui ne sont pas paralysées.</i>
+
+611
+00:38:51,944 --> 00:38:53,351
+<i>Mon imagination,</i>
+
+612
+00:38:55,113 --> 00:38:56,520
+<i>ma mémoire.</i>
+
+613
+00:39:09,897 --> 00:39:12,353
+<i>L'imagination et la mémoire sont
+les deux seuls moyens</i>
+
+614
+00:39:12,457 --> 00:39:14,278
+<i>de m'évader de mon scaphandre.</i>
+
+615
+00:39:39,468 --> 00:39:43,428
+<i>Je peux imaginer n'importe quoi,
+n'importe qui, n'importe où.</i>
+
+616
+00:39:51,019 --> 00:39:53,670
+<i>Me faire caresser par les vagues
+à la Martinique,</i>
+
+617
+00:39:54,411 --> 00:39:56,582
+<i>rendre visite à la femme que j'aime...</i>
+
+618
+00:40:06,284 --> 00:40:10,026
+<i>Me prosterner devant Ozymandias,
+le roi des rois.</i>
+
+619
+00:40:16,109 --> 00:40:18,280
+<i>Je peux imaginer n'importe quoi.</i>
+
+620
+00:40:19,820 --> 00:40:21,828
+<i>Vivre mes rêves d'enfant,</i>
+
+621
+00:40:22,701 --> 00:40:24,456
+<i>mes ambitions d'adulte...</i>
+
+622
+00:40:25,198 --> 00:40:28,012
+<i>Maintenant, je veux me souvenir
+de moi tel que j'étais.</i>
+
+623
+00:40:28,109 --> 00:40:29,734
+<i>Beau, nonchalant,</i>
+
+624
+00:40:29,838 --> 00:40:30,918
+<i>glamour,</i>
+
+625
+00:40:31,022 --> 00:40:32,549
+<i>séduisant, diable.</i>
+
+626
+00:40:32,653 --> 00:40:35,588
+<i>Oui, glamour et très beau.
+Du moins, certains le pensaient.</i>
+
+627
+00:40:35,694 --> 00:40:37,929
+<i>Ça, c'est pas moi,
+c'est Marlon Brando!</i>
+
+628
+00:40:38,734 --> 00:40:40,162
+<i>Ça, c'est moi.</i>
+
+629
+00:41:12,591 --> 00:41:14,926
+Bonjour, j'aimerais parler
+à Betty Mialet.
+
+630
+00:41:15,024 --> 00:41:16,431
+<i>Oui, c'est moi.</i>
+
+631
+00:41:16,591 --> 00:41:18,152
+Bonjour,
+je m'appelle Henriette Durand,
+
+632
+00:41:18,256 --> 00:41:21,672
+je suis orthophoniste
+à l'Hôpital Maritime de Berck-sur-Mer.
+
+633
+00:41:21,776 --> 00:41:25,704
+Je vous appelle de la part d'un de mes
+patients, M. Jean-Dominique Bauby.
+
+634
+00:41:25,808 --> 00:41:26,921
+Jean-Do?
+
+635
+00:41:27,728 --> 00:41:29,005
+Comment va-t-il?
+
+636
+00:41:29,169 --> 00:41:30,696
+<i>Il va bien, ça va, mais...</i>
+
+637
+00:41:30,802 --> 00:41:32,873
+C'est affreux, on m'a dit
+qu'il était complètement paralysé,
+
+638
+00:41:32,976 --> 00:41:35,278
+<i>qu'il était même plus capable
+de communiquer.</i>
+
+639
+00:41:35,377 --> 00:41:37,765
+Oui, enfin, ce n'est pas tout à fait exact.
+
+640
+00:41:38,896 --> 00:41:39,845
+Oui, entrez.
+
+641
+00:41:39,953 --> 00:41:41,894
+<i>En fait, je vous appelle
+parce qu'il demandait</i>
+
+642
+00:41:42,001 --> 00:41:44,489
+<i>si vous pourriez faire
+quelque chose pour lui.</i>
+
+643
+00:41:44,657 --> 00:41:46,926
+Mais bien sûr.
+Vous attendez une minute?
+
+644
+00:41:47,762 --> 00:41:49,136
+<i>Tout ce qu'il voudra.</i>
+
+645
+00:41:49,233 --> 00:41:52,583
+Il dit qu'il a signé un contrat avec vous
+pour un livre.
+
+646
+00:41:52,689 --> 00:41:55,340
+Il dit... Mais il parle?
+Je croyais qu'il pouvait pas parler.
+
+647
+00:41:55,442 --> 00:41:59,598
+Il... Il parle, il s'exprime d'une certaine
+manière. Je vous expliquerai.
+
+648
+00:41:59,890 --> 00:42:01,297
+Au sujet du livre...
+
+649
+00:42:01,393 --> 00:42:03,881
+Oui, il a conclu un contrat
+avec nous, mais...
+
+650
+00:42:04,498 --> 00:42:06,506
+Mais vu les circonstances...
+
+651
+00:42:06,610 --> 00:42:08,269
+<i>Il voudrait le faire.</i>
+
+652
+00:42:08,595 --> 00:42:09,969
+Il veut écrire un livre.
+
+653
+00:42:10,065 --> 00:42:13,033
+<i>Mais ce n'est pas sérieux!
+C'est pas possible!</i>
+
+654
+00:42:14,675 --> 00:42:16,584
+Mais oui, je vous assure que si.
+
+655
+00:42:17,299 --> 00:42:20,943
+Mais est-ce que vous pensez
+que vous pourriez trouver quelqu'un
+
+656
+00:42:21,043 --> 00:42:23,662
+qui écrirait sous sa dictée?
+Quelqu'un...
+
+657
+00:42:24,179 --> 00:42:26,002
+Quelqu'un de patient, de...
+
+658
+00:42:26,962 --> 00:42:31,153
+<i>Il faudrait quelqu'un qui puisse être là,
+tous les jours, vous voyez,</i>
+
+659
+00:42:31,251 --> 00:42:32,495
+<i>c'est quelqu'un de particulier.</i>
+
+660
+00:42:32,596 --> 00:42:33,905
+Oui, je comprends.
+
+661
+00:42:34,707 --> 00:42:36,082
+Je vous rappelle.
+
+662
+00:42:36,980 --> 00:42:40,329
+Betty Mialet dit que Claude Mendibil
+est une envoyée du ciel.
+
+663
+00:42:40,435 --> 00:42:42,956
+Elle a affirmé que c'était
+la personne rêvée pour ce travail.
+
+664
+00:42:43,061 --> 00:42:44,337
+Betty exagère toujours.
+
+665
+00:42:44,436 --> 00:42:46,892
+Faut que je m'exerce encore.
+Je vais travailler avec Henriette.
+
+666
+00:42:46,997 --> 00:42:49,331
+Quand vous voulez.
+Ça va aller vite, hein.
+
+667
+00:42:50,036 --> 00:42:51,728
+Il veut dire quelque chose.
+
+668
+00:42:53,366 --> 00:42:57,456
+E, S, A, R, I, N, T, U, L, O, M, D, P...
+
+669
+00:42:58,133 --> 00:42:59,278
+E, S, A...
+
+670
+00:42:59,796 --> 00:43:00,745
+"Pas."
+
+671
+00:43:01,237 --> 00:43:06,158
+E, S, A, R, I, N, T, U, L, O, M, D, P...
+
+672
+00:43:06,806 --> 00:43:08,399
+E, S, A...
+
+673
+00:43:08,501 --> 00:43:11,185
+E, S, A, R, I, N, T...
+
+674
+00:43:12,117 --> 00:43:14,005
+E, S, A, R, I...
+
+675
+00:43:15,638 --> 00:43:16,915
+"Pas de panique."
+
+676
+00:43:21,942 --> 00:43:23,535
+Claude a pris une chambre d'hôtel
+à Berck.
+
+677
+00:43:23,637 --> 00:43:26,256
+Vous devriez décider
+comment vous allez vous organiser.
+
+678
+00:43:26,358 --> 00:43:28,245
+<i>L'infirmière me réveille à 5 h du matin.</i>
+
+679
+00:43:28,342 --> 00:43:29,269
+Bonjour, M. Bauby.
+
+680
+00:43:29,366 --> 00:43:32,628
+<i>Je penserai à ce que je veux écrire
+et je l'apprendrai par cur.</i>
+
+681
+00:43:32,727 --> 00:43:34,614
+<i>Vous n'aurez qu'à venir à 8 h.</i>
+
+682
+00:43:35,062 --> 00:43:37,202
+<i>Je vous dicterai ce que j'ai préparé.</i>
+
+683
+00:43:37,719 --> 00:43:40,054
+<i>Entendu. Je ferai de mon mieux.</i>
+
+684
+00:43:40,664 --> 00:43:42,453
+<i>J'en suis persuadé.</i>
+
+685
+00:43:42,999 --> 00:43:44,756
+<i>On peut commencer demain?</i>
+
+686
+00:43:45,656 --> 00:43:46,735
+<i>Bien sûr.</i>
+
+687
+00:43:48,856 --> 00:43:50,284
+E, S,
+
+688
+00:43:50,999 --> 00:43:53,104
+A, R... R?
+
+689
+00:43:55,991 --> 00:43:58,642
+E, S, A,
+
+690
+00:43:58,744 --> 00:44:00,533
+R... R?
+
+691
+00:44:03,801 --> 00:44:04,881
+E,
+
+692
+00:44:04,984 --> 00:44:07,832
+S, A, R, I...
+
+693
+00:44:08,601 --> 00:44:09,583
+l?
+
+694
+00:44:12,537 --> 00:44:14,229
+E... E?
+
+695
+00:44:15,897 --> 00:44:17,357
+"Derri." "Derrière."
+
+696
+00:44:17,464 --> 00:44:19,886
+<i>Derrière le rideau de toile mitée,</i>
+
+697
+00:44:19,993 --> 00:44:23,570
+<i>une clarté laiteuse annonce l'approche
+du petit matin.</i>
+
+698
+00:44:23,673 --> 00:44:27,382
+<i>J'ai mal aux talons,
+la tête comme une enclume,</i>
+
+699
+00:44:27,482 --> 00:44:30,711
+<i>et une sorte de scaphandre
+qui m'enserre tout le corps.</i>
+
+700
+00:44:31,578 --> 00:44:32,756
+<i>Ma tâche consiste maintenant</i>
+
+701
+00:44:32,858 --> 00:44:35,192
+<i>à rédiger
+les carnets de voyages immobiles</i>
+
+702
+00:44:35,290 --> 00:44:38,323
+<i>d'un naufragé échoué
+sur les rives de la solitude.</i>
+
+703
+00:44:39,386 --> 00:44:42,485
+<i>À l'origine,
+l'Hôpital Maritime a été fondé</i>
+
+704
+00:44:42,587 --> 00:44:45,401
+<i>pour accueillir
+les enfants souffrant de tuberculose.</i>
+
+705
+00:44:46,298 --> 00:44:49,332
+<i>Dans la grande galerie de l'hôpital,
+un buste de marbre blanc</i>
+
+706
+00:44:49,434 --> 00:44:53,111
+<i>rappelle que l'impératrice Eugénie,
+épouse de Napoléon III,</i>
+
+707
+00:44:53,211 --> 00:44:55,350
+<i>a été la marraine de l'établissement</i>
+
+708
+00:44:55,450 --> 00:44:57,174
+<i>qu'elle visitait régulièrement.</i>
+
+709
+00:44:57,275 --> 00:45:00,057
+<i>Il y avait une grosse ferme, une école</i>
+
+710
+00:45:00,155 --> 00:45:02,162
+<i>et un lieu où, selon la légende,</i>
+
+711
+00:45:02,268 --> 00:45:04,821
+<i>le grand Diaghilev répéta
+son Ballet russe.</i>
+
+712
+00:45:05,340 --> 00:45:09,115
+<i>On raconte que c'est ici
+que Nijinsky effectua son fameux saut,</i>
+
+713
+00:45:09,212 --> 00:45:11,831
+<i>s'élevant à trois mètres dans les airs.</i>
+
+714
+00:45:13,884 --> 00:45:16,567
+<i>Plus personne ici
+ne bondit dans les airs.</i>
+
+715
+00:45:16,668 --> 00:45:20,498
+<i>Aujourd'hui, il n'y a
+que des vieux affaiblis</i>
+
+716
+00:45:20,604 --> 00:45:23,386
+<i>ou comme moi, rigides et muets.</i>
+
+717
+00:45:23,485 --> 00:45:25,372
+<i>Un bataillon d'éclopés.</i>
+
+718
+00:45:28,668 --> 00:45:32,150
+<i>Je me fais souvent conduire à l'endroit
+que j'ai surnommé "Cinecittà",</i>
+
+719
+00:45:32,253 --> 00:45:34,970
+<i>une terrasse perpétuellement déserte
+donnant sur un paysage</i>
+
+720
+00:45:35,101 --> 00:45:38,779
+<i>dont il émane le charme poétique
+et décalé des décors de cinéma.</i>
+
+721
+00:45:40,669 --> 00:45:41,684
+<i>Au pied des dunes,</i>
+
+722
+00:45:41,789 --> 00:45:45,400
+<i>quelques baraques donnent l'illusion
+d'un village fantôme du Far West.</i>
+
+723
+00:45:47,037 --> 00:45:49,240
+<i>J'aime voir les faubourgs de Berck.</i>
+
+724
+00:45:49,854 --> 00:45:52,571
+<i>Ils ont l'air d'une maquette
+pour train électrique.</i>
+
+725
+00:45:54,142 --> 00:45:55,768
+<i>Quant à la mer,
+son écume est si blanche</i>
+
+726
+00:45:55,870 --> 00:45:58,587
+<i>qu'elle paraît sortir
+du rayon des effets spéciaux.</i>
+
+727
+00:45:58,846 --> 00:46:01,694
+<i>Mais ce que je préfère, c'est le phare.</i>
+
+728
+00:46:02,270 --> 00:46:04,125
+<i>Élancé, robuste et rassurant,</i>
+
+729
+00:46:04,222 --> 00:46:06,644
+<i>avec sa livrée
+à rayures rouges et blanches.</i>
+
+730
+00:46:07,517 --> 00:46:10,835
+<i>Je me place sous la protection
+de ce symbole fraternel</i>
+
+731
+00:46:10,942 --> 00:46:14,619
+<i>qui veille sur les marins,
+mais aussi les malades,</i>
+
+732
+00:46:14,719 --> 00:46:17,501
+<i>que le destin a fait dériver
+aux confins de la vie.</i>
+
+733
+00:46:17,791 --> 00:46:20,987
+"Les deux principales curiosités
+de ce micro-musée
+
+734
+00:46:21,502 --> 00:46:26,173
+"sont un buste de marbre blanc qui
+restitue, dans l'éclat de sa jeunesse,
+
+735
+00:46:26,271 --> 00:46:29,818
+"cette altesse déchue, morte à 94 ans,
+
+736
+00:46:29,920 --> 00:46:31,862
+"un demi-siècle
+après la fin du Second Empire."
+
+737
+00:46:31,968 --> 00:46:33,495
+<i>Cinq heures de travail.</i>
+
+738
+00:46:34,816 --> 00:46:36,474
+<i>Oui, c'est pas mal.</i>
+
+739
+00:46:37,823 --> 00:46:41,139
+<i>Enfin, ça vaut pas Balzac.</i>
+
+740
+00:46:43,168 --> 00:46:44,379
+Je continue?
+
+741
+00:46:46,368 --> 00:46:47,961
+"Et la lettre..."
+
+742
+00:46:49,633 --> 00:46:50,615
+<i>Lisez-moi du Balzac.</i>
+
+743
+00:46:50,720 --> 00:46:52,728
+"Mieux valait ne rien entendre..."
+
+744
+00:46:52,928 --> 00:46:54,390
+<i>Ou du Graham Greene.</i>
+
+745
+00:46:54,497 --> 00:46:56,885
+"...lorsque, à contrecur,
+la lumière revint.
+
+746
+00:46:56,993 --> 00:47:00,671
+"Subitement, sans prévenir,
+un des agents de police le gifla.
+
+747
+00:47:00,769 --> 00:47:03,387
+"Il ressentit de l'indignation
+plutôt que de la colère.
+
+748
+00:47:03,488 --> 00:47:06,456
+"Il appartenait à une classe sociale
+respectueuse des lois,
+
+749
+00:47:06,562 --> 00:47:08,896
+"la police était sa protection naturelle.
+
+750
+00:47:09,281 --> 00:47:13,177
+"'45 ans, divorcé,
+et je désire téléphoner au consul.'
+
+751
+00:47:13,282 --> 00:47:16,697
+"L'homme qui l'avait traité de cochon
+et qui portait un insigne de sergent
+
+752
+00:47:16,802 --> 00:47:18,973
+"lui demanda
+de montrer son passeport."
+
+753
+00:47:46,820 --> 00:47:48,194
+Qu'est-ce que c'est que ça?
+
+754
+00:47:48,292 --> 00:47:50,081
+C'est un homme ou une femme?
+
+755
+00:47:53,284 --> 00:47:55,008
+Je crois que c'est un homme.
+
+756
+00:47:55,396 --> 00:47:57,021
+Il t'a fait un clin d'il.
+
+757
+00:47:59,140 --> 00:48:00,350
+Excusez-moi,
+
+758
+00:48:00,451 --> 00:48:03,933
+c'est vous qui avez commandé
+un téléphone à amplificateur vocal?
+
+759
+00:48:09,380 --> 00:48:11,769
+C'est vous
+qui avez commandé un téléphone?
+
+760
+00:48:14,341 --> 00:48:15,868
+Viens, on se tire.
+
+761
+00:48:18,021 --> 00:48:21,087
+Qu'est-ce que vous faites là?
+Qui est-ce qui vous a permis d'entrer?
+
+762
+00:48:21,190 --> 00:48:23,459
+France Télécom.
+Quelqu'un a commandé un téléphone.
+
+763
+00:48:23,557 --> 00:48:25,858
+Oui, non, mais il fallait demander
+à la réception, d'abord.
+
+764
+00:48:25,957 --> 00:48:27,200
+Il y avait personne.
+
+765
+00:48:28,037 --> 00:48:30,721
+Installez-le sur la table,
+s'il vous plaît. Merci.
+
+766
+00:48:37,830 --> 00:48:40,067
+Un peu plus doucement, s'il vous plaît.
+
+767
+00:48:41,990 --> 00:48:44,511
+On va prévenir votre entourage
+que vous avez le téléphone.
+
+768
+00:48:44,615 --> 00:48:46,403
+Ils prendront rendez-vous
+pour vous parler.
+
+769
+00:48:46,503 --> 00:48:48,991
+On s'assurera
+qu'il y ait quelqu'un avec vous.
+
+770
+00:48:49,255 --> 00:48:52,102
+E, S, A, R, I, N, T, U, L, O, M...
+
+771
+00:48:52,742 --> 00:48:54,237
+E, S, A, R, I, N...
+
+772
+00:48:54,343 --> 00:48:56,318
+Excusez-moi, il peut pas parler?
+
+773
+00:48:57,191 --> 00:48:59,013
+Ne faites pas comme s'il n'était pas là.
+
+774
+00:48:59,111 --> 00:49:00,867
+Posez-lui la question.
+
+775
+00:49:01,383 --> 00:49:03,041
+Excusez-moi, madame,
+
+776
+00:49:03,143 --> 00:49:05,445
+à quoi lui sert le téléphone
+s'il ne peut pas parler?
+
+777
+00:49:05,543 --> 00:49:08,195
+Peut-être qu'il passe
+des coups de fil anonymes!
+
+778
+00:49:11,272 --> 00:49:12,734
+Vous êtes humoristes?
+
+779
+00:49:15,049 --> 00:49:16,674
+C'est des rigolos, hein?
+
+780
+00:49:18,345 --> 00:49:20,799
+<i>T'as pas d'humour, Henriette.</i>
+
+781
+00:49:24,264 --> 00:49:25,212
+Et trois...
+
+782
+00:49:25,321 --> 00:49:27,393
+Voilà, doucement. Quatre...
+
+783
+00:49:43,306 --> 00:49:45,957
+<i>Une mouche toute noire
+se pose sur mon nez.</i>
+
+784
+00:49:47,498 --> 00:49:50,215
+<i>Je tortille la tête pour la désarçonner.</i>
+
+785
+00:49:50,313 --> 00:49:51,808
+<i>Elle se cramponne.</i>
+
+786
+00:49:51,913 --> 00:49:54,434
+<i>Les combats de lutte gréco-romaine
+qu'on a vus aux Jeux olympiques</i>
+
+787
+00:49:54,537 --> 00:49:55,999
+<i>- étaient pas aussi féroces.
+- Vous bougez la tête?</i>
+
+788
+00:49:56,105 --> 00:49:58,527
+Quand est-ce que vous avez
+commencé à faire ça?
+
+789
+00:49:59,018 --> 00:49:59,946
+<i>Ah! Merci.</i>
+
+790
+00:50:00,042 --> 00:50:02,792
+E, S, A, R, I, N, T, U, L, O, M...
+
+791
+00:50:03,563 --> 00:50:04,610
+E, S, A...
+
+792
+00:50:04,875 --> 00:50:07,144
+A. E, S, A, R, I...
+
+793
+00:50:07,403 --> 00:50:09,094
+E, S, A, R, I, N...
+
+794
+00:50:09,291 --> 00:50:10,403
+"Maintenant."
+
+795
+00:50:10,731 --> 00:50:13,481
+C'est un miracle, Jean-Do,
+vous avez bougé la tête.
+
+796
+00:50:13,579 --> 00:50:15,269
+<i>Tout de suite, Marie, des miracles!</i>
+
+797
+00:50:15,371 --> 00:50:16,418
+Dr Lepage?
+
+798
+00:50:16,618 --> 00:50:18,375
+Il a bougé la tête!
+
+799
+00:50:18,730 --> 00:50:19,941
+Bonjour.
+
+800
+00:50:20,043 --> 00:50:21,604
+<i>Un miracle.
+Il ne m'a dit bonjour qu'une fois.</i>
+
+801
+00:50:21,707 --> 00:50:23,846
+<i>- Ça progresse.
+- Ah, j'aime mieux ça.</i>
+
+802
+00:50:23,947 --> 00:50:25,442
+Et la langue?
+
+803
+00:50:27,915 --> 00:50:31,047
+- Tirez la langue, Jean-Do.
+- Je vais vous ouvrir la bouche.
+
+804
+00:50:32,108 --> 00:50:33,634
+Voilà. Vous voyez, là?
+
+805
+00:50:33,804 --> 00:50:35,210
+- Oui.
+- Là, ça bouge un peu.
+
+806
+00:50:35,308 --> 00:50:37,413
+C'est formidable.
+Sa parole va progresser, alors.
+
+807
+00:50:37,516 --> 00:50:40,866
+Le mouvement de la langue est capital,
+alors il y a de l'espoir.
+
+808
+00:50:41,709 --> 00:50:42,821
+Très bien, formidable.
+
+809
+00:50:42,924 --> 00:50:44,964
+À partir de maintenant,
+on va travailler très dur
+
+810
+00:50:45,068 --> 00:50:47,402
+pour vous permettre
+de manger normalement.
+
+811
+00:50:47,885 --> 00:50:50,754
+<i>Un texte n'existe
+que quand on peut le lire.</i>
+
+812
+00:50:51,565 --> 00:50:54,282
+<i>"La dernière fois que j'ai vu mon père,
+je l'ai rasé.</i>
+
+813
+00:50:54,381 --> 00:50:56,421
+<i>"C'était dans la semaine
+de mon accident.</i>
+
+814
+00:50:56,526 --> 00:50:58,500
+<i>"Comme il était souffrant,
+j'ai passé une nuit chez lui</i>
+
+815
+00:50:58,605 --> 00:51:01,638
+<i>"dans son petit appartement parisien
+proche des Tuileries.</i>
+
+816
+00:51:01,741 --> 00:51:05,124
+<i>- "Et au matin..."
+- Laisse-moi tranquille!</i>
+
+817
+00:51:05,871 --> 00:51:07,725
+Qui en a à foutre
+que je suis rasé ou pas?
+
+818
+00:51:07,822 --> 00:51:08,836
+Ben, moi.
+
+819
+00:51:11,693 --> 00:51:14,759
+- Je suis terrifié.
+- Par quoi?
+
+820
+00:51:15,373 --> 00:51:17,064
+À l'idée que tu me rases.
+
+821
+00:51:19,214 --> 00:51:21,384
+Tu as toujours été tellement maladroit!
+
+822
+00:51:21,487 --> 00:51:22,829
+C'est de famille.
+
+823
+00:51:22,926 --> 00:51:23,874
+Oh, oui.
+
+824
+00:51:24,974 --> 00:51:26,435
+- Café?
+- Non!
+
+825
+00:51:26,959 --> 00:51:27,907
+Euh, non.
+
+826
+00:51:29,487 --> 00:51:31,276
+Ne le fatigue pas. Il n'est pas bien.
+
+827
+00:51:31,375 --> 00:51:34,572
+Je vois pas comment je vais pouvoir
+le fatiguer en le rasant.
+
+828
+00:51:41,327 --> 00:51:44,327
+- Ta mère était plus jolie.
+- Oui, c'est pas difficile.
+
+829
+00:51:44,783 --> 00:51:48,012
+- Tu te souviens de ta mère?
+- Oui.
+
+830
+00:51:49,039 --> 00:51:50,501
+Tu me poses toujours
+la même question
+
+831
+00:51:50,607 --> 00:51:53,291
+et je te réponds
+toujours pareil: "Pas vraiment."
+
+832
+00:51:57,648 --> 00:51:59,688
+Qu'est-ce que tu lis en ce moment?
+
+833
+00:52:00,177 --> 00:52:02,599
+<i>Je relis Le Comte de Monte-Cristo.</i>
+
+834
+00:52:03,025 --> 00:52:04,071
+Pourquoi?
+
+835
+00:52:04,241 --> 00:52:07,687
+Parce que j'ai envie d'en faire
+une adaptation aujourd'hui.
+
+836
+00:52:08,049 --> 00:52:10,055
+<i>- Du Comte de Monte-Cristo?
+- Oui.</i>
+
+837
+00:52:12,592 --> 00:52:16,171
+La vengeance sera toujours
+au cur de l'histoire, mais
+
+838
+00:52:16,273 --> 00:52:19,786
+j'ai envie que ce soit une femme,
+de nos jours.
+
+839
+00:52:23,026 --> 00:52:25,896
+<i>- La Comtesse de Monte-Cristo?
+- Oui, une femme.</i>
+
+840
+00:52:26,610 --> 00:52:28,268
+J'ai pas envie de le lire.
+
+841
+00:52:29,969 --> 00:52:31,945
+Je l'ai pas écrit encore.
+
+842
+00:52:32,721 --> 00:52:35,056
+Mais j'ai un contrat avec un éditeur.
+
+843
+00:52:35,698 --> 00:52:36,942
+Oui.
+
+844
+00:52:40,146 --> 00:52:42,764
+Si tu me coupes, je te fais un procès.
+
+845
+00:52:49,235 --> 00:52:51,057
+Le médecin est venu hier.
+
+846
+00:52:52,115 --> 00:52:53,063
+Et?
+
+847
+00:52:53,587 --> 00:52:57,265
+Il a dit que je vivrai au moins
+jusqu'à 100 ans.
+
+848
+00:52:57,619 --> 00:52:59,408
+C'est bien. On fera une grande fête.
+
+849
+00:52:59,508 --> 00:53:00,849
+Sans moi.
+
+850
+00:53:01,139 --> 00:53:03,659
+Qui a envie de vivre jusqu'à 100 ans?
+
+851
+00:53:05,171 --> 00:53:06,284
+Jean-Do?
+
+852
+00:53:07,251 --> 00:53:09,106
+Ne le répète à personne.
+
+853
+00:53:09,556 --> 00:53:12,239
+Ta mère me manque toujours.
+
+854
+00:53:13,653 --> 00:53:15,507
+Je le répèterai pas.
+
+855
+00:53:16,564 --> 00:53:18,539
+C'est notre secret.
+
+856
+00:53:19,540 --> 00:53:22,060
+Tu aurais dû épouser Céline.
+
+857
+00:53:22,389 --> 00:53:24,723
+Ah oui,
+et qu'est-ce que ça aurait changé?
+
+858
+00:53:25,429 --> 00:53:28,112
+Tu ne l'aurais pas quittée
+aussi facilement.
+
+859
+00:53:28,980 --> 00:53:30,409
+Et tes enfants.
+
+860
+00:53:31,093 --> 00:53:33,231
+On peut pas parler d'autre chose?
+
+861
+00:53:33,333 --> 00:53:35,121
+Je sais de quoi je parle.
+
+862
+00:53:35,508 --> 00:53:38,443
+Personne n'a eu
+autant d'aventures que moi.
+
+863
+00:53:39,061 --> 00:53:41,134
+Enfin, peut-être Casanova.
+
+864
+00:53:42,294 --> 00:53:44,017
+Avoir une maîtresse,
+
+865
+00:53:44,118 --> 00:53:47,795
+c'est pas une raison
+pour quitter la mère de ses enfants.
+
+866
+00:53:48,246 --> 00:53:50,318
+Il n'y a plus de valeurs de nos jours.
+
+867
+00:53:50,422 --> 00:53:53,805
+Non, c'est pas drôle! C'est vrai.
+
+868
+00:53:56,981 --> 00:53:59,283
+Et amène-moi les enfants.
+
+869
+00:53:59,382 --> 00:54:01,837
+Céline me les amène.
+Tu devrais aussi.
+
+870
+00:54:01,942 --> 00:54:05,171
+Je te les amènerai.
+J'ai pas eu le temps, c'est tout.
+
+871
+00:54:05,527 --> 00:54:08,374
+- Tiens!
+- Qu'est-ce que c'est que ça?
+
+872
+00:54:08,470 --> 00:54:10,642
+De la fleur d'oranger.
+
+873
+00:54:10,743 --> 00:54:12,882
+Tu veux que je sente la cocotte?
+
+874
+00:54:14,839 --> 00:54:16,366
+C'est un aphrodisiaque.
+
+875
+00:54:18,104 --> 00:54:21,333
+C'est bien.
+Les filles vont se jeter sur moi.
+
+876
+00:54:21,431 --> 00:54:25,293
+Ça, c'est sûr.
+Y a qu'à leur en laisser l'occasion.
+
+877
+00:54:25,622 --> 00:54:28,241
+Laisse-moi... Laisse-moi me regarder.
+
+878
+00:54:41,368 --> 00:54:43,376
+Oh, pas mal!
+
+879
+00:54:43,481 --> 00:54:46,579
+Mon Dieu!
+On n'en fait plus des comme moi!
+
+880
+00:55:02,361 --> 00:55:04,336
+Je voulais te dire quelque chose.
+
+881
+00:55:06,490 --> 00:55:07,832
+J'ai oublié.
+
+882
+00:55:07,930 --> 00:55:09,424
+Ça te reviendra.
+
+883
+00:55:10,042 --> 00:55:11,536
+Je n'en suis pas si sûr.
+
+884
+00:55:11,643 --> 00:55:14,774
+- Plus rien ne me revient.
+- Faut pas exagérer, quand même.
+
+885
+00:55:16,891 --> 00:55:18,712
+Je me souviens
+de ce que je voulais te dire.
+
+886
+00:55:18,810 --> 00:55:19,758
+Oui?
+
+887
+00:55:22,265 --> 00:55:24,241
+Je suis très fier de toi.
+
+888
+00:55:24,346 --> 00:55:26,321
+Vraiment. Je suis très fier.
+
+889
+00:55:30,778 --> 00:55:32,306
+Autre chose.
+
+890
+00:55:38,491 --> 00:55:39,986
+J'ai oublié.
+
+891
+00:55:40,700 --> 00:55:42,805
+<i>La reconnaissance du père.</i>
+
+892
+00:55:42,908 --> 00:55:44,731
+<i>J'ai trouvé ça réconfortant à l'époque.</i>
+
+893
+00:55:44,828 --> 00:55:47,511
+<i>Je trouve ça encore plus
+réconfortant aujourd'hui.</i>
+
+894
+00:55:47,931 --> 00:55:49,393
+<i>Nous sommes tous des enfants.</i>
+
+895
+00:55:49,499 --> 00:55:51,768
+<i>Nous avons tous besoin
+de reconnaissance.</i>
+
+896
+00:55:53,916 --> 00:55:55,509
+<i>Je veux voir mes enfants.</i>
+
+897
+00:55:56,444 --> 00:55:58,102
+<i>Je veux voir mes enfants.</i>
+
+898
+00:56:01,596 --> 00:56:03,058
+Voilà, on est là.
+
+899
+00:56:04,124 --> 00:56:05,717
+C'est la fête des pères.
+
+900
+00:56:06,077 --> 00:56:08,727
+- Bonne fête des pères!
+- Bonne fête des pères!
+
+901
+00:56:19,164 --> 00:56:21,270
+<i>Je suppose que même une ébauche,
+une ombre,</i>
+
+902
+00:56:21,374 --> 00:56:24,156
+<i>un bout de papa,
+c'est encore un papa.</i>
+
+903
+00:56:47,326 --> 00:56:48,985
+<i>La fête des pères.</i>
+
+904
+00:56:49,086 --> 00:56:52,381
+<i>Mon fils essuie la salive
+qui s'écoule de mes lèvres closes.</i>
+
+905
+00:56:52,479 --> 00:56:54,072
+<i>Jusqu'ici, nous n'avions jamais inscrit</i>
+
+906
+00:56:54,174 --> 00:56:56,826
+<i>ce rendez-vous forcé
+à notre calendrier affectif.</i>
+
+907
+00:57:01,440 --> 00:57:04,669
+<i>Tu pleures
+parce que tu n'as pas le droit</i>
+
+908
+00:57:04,768 --> 00:57:07,802
+<i>D'épouser un beau garçon comme moi</i>
+
+909
+00:57:07,904 --> 00:57:09,464
+<i>Pauvre petite fille...</i>
+
+910
+00:57:09,568 --> 00:57:12,916
+J'ai parlé avec Claude.
+Elle m'a dit que le livre avançait bien.
+
+911
+00:57:13,279 --> 00:57:15,516
+Je trouve ça fantastique
+que tu l'écrives.
+
+912
+00:57:15,616 --> 00:57:18,682
+T'es l'homme le plus surprenant
+que j'ai jamais rencontré.
+
+913
+00:57:19,425 --> 00:57:21,759
+Il paraît
+que t'as eu beaucoup de visites.
+
+914
+00:57:25,313 --> 00:57:27,418
+Laurent, Anne-Marie,
+
+915
+00:57:29,825 --> 00:57:31,134
+Michel...
+
+916
+00:57:32,289 --> 00:57:33,631
+Elle est venue?
+
+917
+00:57:34,369 --> 00:57:35,775
+Elle est pas venue?
+
+918
+00:57:37,697 --> 00:57:40,217
+Je croyais qu'elle était
+folle amoureuse de toi.
+
+919
+00:57:40,321 --> 00:57:42,143
+De toute façon, ça la regarde.
+
+920
+00:57:48,097 --> 00:57:50,431
+Tu veux
+qu'on essaie de faire l'alphabet?
+
+921
+00:57:51,426 --> 00:57:53,281
+E, S, A,
+
+922
+00:57:53,730 --> 00:57:57,953
+R, I, N, T, U, L, O, M, D, P,
+
+923
+00:57:58,050 --> 00:57:59,905
+C... C?
+
+924
+00:58:03,043 --> 00:58:06,140
+E, S, A, R...
+
+925
+00:58:35,235 --> 00:58:38,585
+"En commençant mon régime
+avant mon attaque,
+
+926
+00:58:38,692 --> 00:58:40,765
+"je n'imaginais pas
+
+927
+00:58:40,868 --> 00:58:42,973
+"un résultat aussi radical."
+
+928
+00:58:43,076 --> 00:58:44,222
+T'es bête!
+
+929
+00:58:47,460 --> 00:58:50,494
+"Maintenant, ils savent ce que c'est
+
+930
+00:58:50,597 --> 00:58:54,874
+"d'avoir un zombie
+comme père. Merci."
+
+931
+00:58:54,982 --> 00:58:56,291
+Fais pas ça, Jean-Do!
+
+932
+00:58:56,390 --> 00:58:57,535
+Les enfants!
+
+933
+00:58:59,781 --> 00:59:01,604
+Tu veux jouer au pendu, papa?
+
+934
+00:59:03,397 --> 00:59:06,496
+Je vais vous aider. Dis-moi un mot.
+Dis-le-moi à l'oreille.
+
+935
+00:59:07,558 --> 00:59:10,493
+Alors ça commence par un C,
+ça finit par un E
+
+936
+00:59:10,597 --> 00:59:12,124
+et il y a sept lettres.
+
+937
+00:59:12,229 --> 00:59:16,507
+E, S, A, R, I, N... N?
+
+938
+00:59:16,613 --> 00:59:17,923
+Non, y a pas de N.
+
+939
+00:59:21,158 --> 00:59:24,868
+E, S, A, R, I, N...
+
+940
+00:59:33,159 --> 00:59:34,981
+Merci.
+
+941
+00:59:35,400 --> 00:59:38,050
+- Tu veux que je t'aide, Hortense?
+- Non, ça va.
+
+942
+00:59:55,208 --> 01:00:00,064
+<i>Le kangourou a sauté le mur</i>
+
+943
+01:00:00,168 --> 01:00:02,753
+<i>Le mur du zoo</i>
+
+944
+01:00:02,856 --> 01:00:08,039
+<i>Mon Dieu, qu'il était haut!
+Mon Dieu, qu'il était beau!</i>
+
+945
+01:00:08,137 --> 01:00:12,959
+<i>Mon Dieu, qu'il était haut!
+Mon Dieu, qu'il était beau!</i>
+
+946
+01:00:13,193 --> 01:00:14,241
+Voilà.
+
+947
+01:00:14,729 --> 01:00:17,118
+Bon, allez. On y va, les enfants.
+Dites au revoir à papa.
+
+948
+01:00:17,226 --> 01:00:18,502
+Au revoir, papa.
+
+949
+01:00:20,490 --> 01:00:21,766
+Au revoir, papa.
+
+950
+01:00:29,705 --> 01:00:30,982
+Au revoir, papa.
+
+951
+01:00:31,658 --> 01:00:33,184
+À la semaine prochaine.
+
+952
+01:01:00,139 --> 01:01:03,174
+<i>Il n'y a pas de mots pour exprimer
+le chagrin qui m'envahit.</i>
+
+953
+01:01:03,276 --> 01:01:04,618
+<i>Moi, leur père,</i>
+
+954
+01:01:05,163 --> 01:01:07,880
+<i>je n'ai plus le simple droit
+de passer la main dans leurs cheveux,</i>
+
+955
+01:01:07,980 --> 01:01:09,573
+<i>de pincer leur nuque duveteuse,</i>
+
+956
+01:01:09,676 --> 01:01:12,873
+<i>de serrer fort contre moi
+leurs petits corps lisses et tièdes.</i>
+
+957
+01:01:13,612 --> 01:01:16,295
+<i>Pourtant, je suis rempli de joie
+à les voir vivre,</i>
+
+958
+01:01:17,356 --> 01:01:18,982
+<i>bouger, rire...</i>
+
+959
+01:01:20,749 --> 01:01:23,017
+<i>C'est ce que j'appelle
+une belle journée.</i>
+
+960
+01:01:28,268 --> 01:01:30,636
+<i>Je m'apitoie sur mon sort, non?</i>
+
+961
+01:01:31,692 --> 01:01:33,700
+Vous étiez sincèrement heureux.
+
+962
+01:01:34,637 --> 01:01:35,750
+<i>Vous croyez?</i>
+
+963
+01:01:37,357 --> 01:01:38,764
+<i>Peut-être.</i>
+
+964
+01:01:45,741 --> 01:01:47,683
+<i>Faut pas le rater, hein!</i>
+
+965
+01:01:47,885 --> 01:01:49,544
+<i>Casse-toi de la télé, toi!</i>
+
+966
+01:01:52,461 --> 01:01:53,672
+<i>Et merde!</i>
+
+967
+01:01:54,863 --> 01:01:56,586
+Un repas très nourrissant.
+À tout à l'heure!
+
+968
+01:01:56,686 --> 01:01:59,752
+<i>Oui, oui... À tout à l'heure.
+Qu'est-ce que tu fais? Oh!</i>
+
+969
+01:02:05,617 --> 01:02:07,111
+<i>Fini, le plateau-télé.</i>
+
+970
+01:02:08,529 --> 01:02:10,918
+<i>Où est-ce que je pourrais dîner
+ce soir?</i>
+
+971
+01:02:11,729 --> 01:02:13,769
+<i>J'ai envie de quelque chose de bon,</i>
+
+972
+01:02:14,128 --> 01:02:15,689
+<i>un grand repas.</i>
+
+973
+01:02:16,145 --> 01:02:17,389
+<i>Chez Le Duc.</i>
+
+974
+01:02:27,090 --> 01:02:29,424
+Quelle coïncidence
+de vous retrouver ici!
+
+975
+01:02:29,970 --> 01:02:31,344
+Moi aussi, je trouve ça incroyable.
+
+976
+01:02:31,443 --> 01:02:32,523
+Une huître?
+
+977
+01:03:13,299 --> 01:03:14,510
+J'ai l'impression que c'était hier
+
+978
+01:03:14,612 --> 01:03:17,262
+que j'ai entendu votre nom
+pour la première fois.
+
+979
+01:04:01,910 --> 01:04:06,896
+E, S, A, R, I, N, T, U, L, O, M, D...
+
+980
+01:04:08,055 --> 01:04:08,983
+D.
+
+981
+01:04:09,367 --> 01:04:12,684
+E, S, A, R, I, N, T,
+
+982
+01:04:12,791 --> 01:04:14,963
+U, L, O... O.
+
+983
+01:04:17,752 --> 01:04:21,167
+E, S, A, R, I, N, T, U, L...
+
+984
+01:04:21,496 --> 01:04:22,511
+U.
+
+985
+01:04:25,208 --> 01:04:29,583
+E, S, A, R, I, N, T, U, L, O, M,
+
+986
+01:04:29,784 --> 01:04:31,344
+D, P, C...
+
+987
+01:04:31,448 --> 01:04:32,375
+C.
+
+988
+01:04:36,375 --> 01:04:37,358
+"Douce."
+
+989
+01:04:41,465 --> 01:04:43,538
+Arrêtez, j'aime pas les compliments.
+
+990
+01:04:46,424 --> 01:04:48,017
+C'est quoi
+le titre du prochain chapitre?
+
+991
+01:04:48,377 --> 01:04:49,490
+<i>Dimanche.</i>
+
+992
+01:04:50,489 --> 01:04:52,115
+<i>Je redoute les dimanches.</i>
+
+993
+01:04:52,953 --> 01:04:55,092
+<i>Dans le cas où
+on se fait allumer la télé,</i>
+
+994
+01:04:55,194 --> 01:04:57,015
+<i>il ne faut pas rater son coup.</i>
+
+995
+01:04:57,657 --> 01:04:59,664
+<i>Cela relève de la haute stratégie.</i>
+
+996
+01:05:00,793 --> 01:05:03,095
+<i>Il risque en effet
+de se passer trois ou quatre heures</i>
+
+997
+01:05:03,194 --> 01:05:06,543
+<i>avant que ne revienne la bonne âme
+qui pourra changer de chaîne.</i>
+
+998
+01:05:06,650 --> 01:05:07,992
+<i>Effrayants dimanches.</i>
+
+999
+01:05:08,090 --> 01:05:10,294
+<i>Pas d'orthophoniste, pas de psy,</i>
+
+1000
+01:05:10,394 --> 01:05:12,631
+<i>pas de kiné, pas de visiteurs,</i>
+
+1001
+01:05:12,730 --> 01:05:14,770
+<i>une équipe soignante
+réduite au minimum.</i>
+
+1002
+01:05:14,874 --> 01:05:17,395
+<i>Le dimanche est une longue traversée
+du désert.</i>
+
+1003
+01:05:17,498 --> 01:05:21,808
+<i>Mais aujourd'hui, Marie a noblement
+suggéré de m'emmener à la messe.</i>
+
+1004
+01:05:22,267 --> 01:05:25,168
+<i>J'ai tenté de lui expliquer
+que je n'étais pas croyant,</i>
+
+1005
+01:05:25,594 --> 01:05:27,317
+<i>il n'y a rien eu à faire.</i>
+
+1006
+01:05:27,483 --> 01:05:29,871
+<i>Partout dans le monde,
+des gens prient pour moi,</i>
+
+1007
+01:05:29,978 --> 01:05:32,083
+<i>à commencer par ma fille, Céleste,</i>
+
+1008
+01:05:33,466 --> 01:05:34,841
+<i>et Marie, bien sûr.</i>
+
+1009
+01:05:36,698 --> 01:05:38,455
+<i>Les esprits les plus divers
+ont été invoqués</i>
+
+1010
+01:05:38,555 --> 01:05:40,050
+<i>pour me venir en aide.</i>
+
+1011
+01:05:40,603 --> 01:05:43,506
+<i>Il paraît qu'au Népal,
+on psalmodie un mantra pour moi.</i>
+
+1012
+01:05:44,572 --> 01:05:45,619
+<i>Et au Cameroun,</i>
+
+1013
+01:05:45,724 --> 01:05:49,073
+<i>un sorcier a demandé pour moi
+la mansuétude des dieux africains.</i>
+
+1014
+01:05:49,629 --> 01:05:51,515
+<i>Je lui ai confié mon il droit.</i>
+
+1015
+01:05:52,540 --> 01:05:55,835
+<i>Et je ne peux nier que j'ai participé
+à l'élaboration de ce vaste réseau</i>
+
+1016
+01:05:55,932 --> 01:05:59,281
+<i>spirituel de soutien
+à ma pauvre existence.</i>
+
+1017
+01:05:59,388 --> 01:06:01,111
+<i>Ça n'a sans doute rien d'admirable,</i>
+
+1018
+01:06:01,212 --> 01:06:03,351
+<i>c'est même peut-être
+un peu hypocrite,</i>
+
+1019
+01:06:03,773 --> 01:06:05,399
+<i>mais je suis prêt à tout.</i>
+
+1020
+01:06:13,532 --> 01:06:16,250
+Je suis très heureux de vous voir ici,
+Jean-Dominique.
+
+1021
+01:06:16,350 --> 01:06:18,237
+Je vous ai rendu visite
+il y a quelques jours,
+
+1022
+01:06:18,333 --> 01:06:21,366
+j'avais apporté le saint sacrement
+afin de vous administrer la communion,
+
+1023
+01:06:21,469 --> 01:06:23,062
+mais vous dormiez.
+
+1024
+01:06:24,382 --> 01:06:25,527
+Oui, il dormait.
+
+1025
+01:06:25,629 --> 01:06:26,578
+<i>Quoi?</i>
+
+1026
+01:06:27,102 --> 01:06:29,174
+Voulez-vous recevoir
+la sainte communion maintenant?
+
+1027
+01:06:29,278 --> 01:06:30,293
+<i>Non.</i>
+
+1028
+01:06:32,158 --> 01:06:33,849
+- Oui.
+- Et voulez-vous que je vous bénisse?
+
+1029
+01:06:33,950 --> 01:06:35,063
+<i>Non!</i>
+
+1030
+01:06:35,422 --> 01:06:36,437
+Oui, oui.
+
+1031
+01:06:36,863 --> 01:06:38,357
+Seigneur, aie pitié de Jean-Dominique
+
+1032
+01:06:38,463 --> 01:06:40,731
+qui a cruellement souffert
+dans sa chair.
+
+1033
+01:06:41,855 --> 01:06:43,415
+Aide à guérir son corps.
+
+1034
+01:06:44,640 --> 01:06:46,940
+Fais en sorte
+que son esprit reste allègre
+
+1035
+01:06:47,038 --> 01:06:49,689
+<i>- et aide-le à trouver la foi.
+- L'esprit est allègre, monsieur.</i>
+
+1036
+01:06:49,791 --> 01:06:52,508
+Au nom du Père, du Fils
+et du Saint-Esprit. Amen.
+
+1037
+01:06:52,606 --> 01:06:53,344
+<i>Tu m'as bien eu.</i>
+
+1038
+01:06:53,344 --> 01:06:53,877
+<i>Tu m'as bien eu.</i>
+
+1039
+01:06:57,088 --> 01:06:58,516
+E, S, A, R,
+
+1040
+01:06:58,623 --> 01:07:01,373
+I, N, T, U, L, O, M...
+
+1041
+01:07:02,559 --> 01:07:04,053
+E, S, A, R,
+
+1042
+01:07:04,223 --> 01:07:06,198
+I, N, T, U, L, O...
+
+1043
+01:07:06,880 --> 01:07:07,808
+"Mon."
+
+1044
+01:07:12,129 --> 01:07:13,176
+"Mon père."
+
+1045
+01:07:14,496 --> 01:07:15,773
+E, S, A, R,
+
+1046
+01:07:16,095 --> 01:07:17,918
+I, N, T, U, L, O,
+
+1047
+01:07:18,016 --> 01:07:20,984
+M, D, P, C, F, B, V, H,
+
+1048
+01:07:21,089 --> 01:07:23,455
+G, J, K, Z, Y...
+
+1049
+01:07:24,065 --> 01:07:25,210
+"Il y a..."?
+
+1050
+01:07:25,312 --> 01:07:27,484
+E, S, A, R, I, N,
+
+1051
+01:07:27,584 --> 01:07:30,171
+T, U, L, O, M, D...
+
+1052
+01:07:31,361 --> 01:07:32,343
+E?
+
+1053
+01:07:33,281 --> 01:07:34,558
+"Il y a des..."
+
+1054
+01:07:34,657 --> 01:07:37,887
+<i>Mon père, je voulais vous dire
+qu'il y a des moines à Bordeaux</i>
+
+1055
+01:07:37,986 --> 01:07:40,320
+<i>qui me consacrent
+régulièrement leurs prières...</i>
+
+1056
+01:07:40,418 --> 01:07:43,167
+"...qui me consacrent régulièrement
+leurs prières."
+
+1057
+01:07:43,649 --> 01:07:45,405
+Vraiment? C'est bien.
+
+1058
+01:07:45,505 --> 01:07:46,847
+<i>- "...mais ça n'a pas donné
+...mais ça n'a pas donné</i>
+
+1059
+01:07:46,946 --> 01:07:48,123
+<i>- "des résultats extraordinaires."
+- des résultats extraordinaires.</i>
+
+1060
+01:07:48,225 --> 01:07:49,469
+Nous devons être patients.
+
+1061
+01:07:49,570 --> 01:07:51,959
+<i>Oui, c'est aussi ce que disent
+les médecins.</i>
+
+1062
+01:07:52,386 --> 01:07:55,168
+Mais, Jean-Dominique,
+je voudrais vous faire une proposition.
+
+1063
+01:07:55,267 --> 01:07:58,528
+Dans quelques jours, j'emmène
+des fidèles en pèlerinage à Lourdes.
+
+1064
+01:07:58,627 --> 01:07:59,575
+<i>Lourdes?</i>
+
+1065
+01:07:59,683 --> 01:08:01,341
+Ma chère Marie et moi,
+nous avons pensé que,
+
+1066
+01:08:01,443 --> 01:08:02,872
+peut-être,
+vous aimeriez nous rejoindre.
+
+1067
+01:08:02,978 --> 01:08:05,368
+<i>- C'est un guet-apens!
+- Il y a eu des guérisons miraculeuses.</i>
+
+1068
+01:08:05,475 --> 01:08:06,523
+C'est vrai.
+
+1069
+01:08:06,979 --> 01:08:09,051
+<i>Je suis déjà allé à Lourdes.</i>
+
+1070
+01:08:33,893 --> 01:08:36,260
+On n'a qu'à s'arrêter là-haut,
+on peut retourner là-bas.
+
+1071
+01:08:36,357 --> 01:08:37,665
+Je ferai pas demi-tour.
+
+1072
+01:08:37,763 --> 01:08:39,968
+C'est ma voiture, je vais où je veux.
+
+1073
+01:08:40,068 --> 01:08:42,272
+T'avais dit
+qu'on passait un week-end cochon.
+
+1074
+01:08:42,373 --> 01:08:44,544
+- J'ai jamais dit ça! Jamais!
+- T'as jamais dit ça?
+
+1075
+01:08:44,645 --> 01:08:46,500
+On va pas aller à Lourdes
+pour passer un week-end cochon.
+
+1076
+01:08:46,596 --> 01:08:47,709
+C'est pas franchement le lieu.
+
+1077
+01:08:47,812 --> 01:08:50,496
+Non, mais il y a vraiment que ça
+qui t'intéresse?
+
+1078
+01:08:52,517 --> 01:08:54,339
+Je veux voir la Sainte Vierge.
+
+1079
+01:08:56,774 --> 01:08:57,853
+Je te crois pas.
+
+1080
+01:08:57,957 --> 01:09:01,154
+Quoi? Je veux voir la Sainte Vierge
+et boire de l'eau bénite.
+
+1081
+01:09:01,254 --> 01:09:02,912
+- Non, pitié! Non!
+- Si!
+
+1082
+01:09:04,806 --> 01:09:06,628
+- Tu vas en boire, toi aussi.
+- Mais ça me fait pas rire.
+
+1083
+01:09:06,725 --> 01:09:08,636
+Ça va te faire beaucoup de bien.
+
+1084
+01:09:14,085 --> 01:09:15,580
+Impressionnant, hein?
+
+1085
+01:09:19,046 --> 01:09:21,698
+Je vais acheter des bouteilles
+pour l'eau bénite.
+
+1086
+01:09:43,687 --> 01:09:45,892
+J'en ai marre. Je reste pas là.
+
+1087
+01:09:45,992 --> 01:09:49,221
+T'as tort. Ça ferait beaucoup de bien
+à un mécréant comme toi.
+
+1088
+01:09:49,321 --> 01:09:52,735
+Oh, ça, je ne crois pas.
+Ça pourrait être dangereux.
+
+1089
+01:09:52,840 --> 01:09:54,050
+Imagine un type en bonne santé
+
+1090
+01:09:54,153 --> 01:09:57,000
+qui se retrouve en pleine apparition,
+il y a un miracle qui survient
+
+1091
+01:09:57,097 --> 01:09:59,649
+- et il se retrouve handicapé.
+- T'es immonde!
+
+1092
+01:10:00,616 --> 01:10:02,623
+- Bonjour.
+- Bonjour, mademoiselle.
+
+1093
+01:10:03,049 --> 01:10:05,863
+Regarde. J'ai trouvé ma Vierge.
+
+1094
+01:10:08,008 --> 01:10:09,797
+Ça, n'y pense même pas!
+
+1095
+01:10:10,568 --> 01:10:13,285
+Je... Je veux plus entendre parler
+de toi! Vas-y!
+
+1096
+01:10:14,505 --> 01:10:16,131
+Bon, d'accord, d'accord...
+
+1097
+01:10:16,585 --> 01:10:17,795
+Je te l'offre.
+
+1098
+01:10:18,986 --> 01:10:21,768
+Madame a l'il. Cette Sainte Vierge
+est unique au monde.
+
+1099
+01:10:21,866 --> 01:10:23,775
+Elle a même été bénie par le cardinal.
+
+1100
+01:10:23,882 --> 01:10:25,158
+Il reste encore une 318?
+
+1101
+01:10:25,259 --> 01:10:26,818
+J'en sais rien. Regarde au stock.
+
+1102
+01:10:26,922 --> 01:10:28,646
+Et combien vous vendez ça?
+
+1103
+01:10:28,746 --> 01:10:30,241
+1899 francs.
+
+1104
+01:10:30,633 --> 01:10:32,063
+Ah oui, quand même!
+
+1105
+01:10:35,594 --> 01:10:37,733
+Je vous ai pas déjà vu quelque part?
+
+1106
+01:10:37,930 --> 01:10:39,818
+Non, je ne crois pas, monsieur.
+
+1107
+01:10:41,899 --> 01:10:43,425
+Je n'ai pas de monnaie.
+
+1108
+01:10:45,899 --> 01:10:48,714
+Je peux pas faire l'amour
+avec elle qui nous regarde.
+
+1109
+01:10:49,355 --> 01:10:50,632
+Je comprends.
+
+1110
+01:10:50,955 --> 01:10:53,639
+C'est pas une constatation,
+c'est une réclamation.
+
+1111
+01:10:53,771 --> 01:10:55,265
+Laisse-moi l'éteindre.
+
+1112
+01:10:56,555 --> 01:10:57,569
+Non.
+
+1113
+01:11:00,171 --> 01:11:02,277
+Seule au monde,
+
+1114
+01:11:02,379 --> 01:11:04,234
+bénie par le cardinal.
+
+1115
+01:11:06,412 --> 01:11:08,932
+Joséphine, quand on sera rentrés
+à Paris, je crois
+
+1116
+01:11:09,035 --> 01:11:11,011
+qu'il va falloir qu'on se sépare.
+
+1117
+01:11:12,205 --> 01:11:13,482
+À cause d'elle?
+
+1118
+01:11:14,477 --> 01:11:16,070
+Non, à cause de tout.
+
+1119
+01:11:17,996 --> 01:11:18,979
+D'accord.
+
+1120
+01:11:19,917 --> 01:11:20,997
+T'as raison.
+
+1121
+01:11:32,813 --> 01:11:34,308
+Je vais faire un tour.
+
+1122
+01:11:35,565 --> 01:11:37,158
+Éteins la lumière.
+
+1123
+01:11:39,086 --> 01:11:40,647
+Mais pas la Vierge.
+
+1124
+01:13:06,482 --> 01:13:07,410
+La.
+
+1125
+01:13:08,114 --> 01:13:09,042
+La.
+
+1126
+01:13:10,387 --> 01:13:11,946
+La. Allez, Jean-Do.
+
+1127
+01:13:17,107 --> 01:13:20,074
+Si vous apprenez le son "L",
+vous saurez avaler.
+
+1128
+01:13:21,043 --> 01:13:22,930
+Et vous pourrez dire "Lourdes".
+
+1129
+01:13:31,732 --> 01:13:34,514
+On est bien installé?
+C'est confortable?
+
+1130
+01:13:50,261 --> 01:13:52,879
+<i>La Cocotte-minute,
+ça pourrait être un titre</i>
+
+1131
+01:13:52,981 --> 01:13:55,217
+<i>pour la pièce de théâtre
+que j'écrirai peut-être un jour</i>
+
+1132
+01:13:55,316 --> 01:13:57,007
+<i>à partir de mon expérience.</i>
+
+1133
+01:13:57,589 --> 01:14:00,971
+<i>J'ai aussi pensé à la baptiser L'il,
+et bien sûr, Le Scaphandre.</i>
+
+1134
+01:14:01,301 --> 01:14:04,148
+<i>Vous en connaissez déjà l'intrigue
+et le décor.</i>
+
+1135
+01:14:04,246 --> 01:14:05,904
+<i>La chambre d'hôpital où Monsieur L.,</i>
+
+1136
+01:14:06,005 --> 01:14:07,860
+<i>un père de famille
+dans la force de l'âge,</i>
+
+1137
+01:14:07,956 --> 01:14:10,412
+<i>apprend à vivre
+avec un "locked-in syndrome",</i>
+
+1138
+01:14:10,517 --> 01:14:13,550
+<i>séquelle d'un grave accident
+cardio-vasculaire.</i>
+
+1139
+01:14:13,653 --> 01:14:15,595
+<i>Ambitieux et plutôt cynique,</i>
+
+1140
+01:14:15,701 --> 01:14:18,419
+<i>n'ayant pas jusque là essuyé d'échec,</i>
+
+1141
+01:14:18,517 --> 01:14:21,420
+<i>Monsieur L. fait l'apprentissage
+de la détresse.</i>
+
+1142
+01:14:22,101 --> 01:14:25,363
+<i>On pourra suivre cette lente mutation
+grâce à une voix off</i>
+
+1143
+01:14:25,463 --> 01:14:28,310
+<i>reproduisant le monologue intérieur
+de Monsieur L.</i>
+
+1144
+01:14:28,406 --> 01:14:30,229
+<i>J'ai déjà la dernière scène.</i>
+
+1145
+01:14:30,327 --> 01:14:34,669
+<i>C'est la nuit. Soudain, Monsieur L.,
+inerte depuis le lever du rideau,</i>
+
+1146
+01:14:34,774 --> 01:14:37,229
+<i>écarte draps et couvertures,
+saute au bas du lit,</i>
+
+1147
+01:14:37,335 --> 01:14:40,017
+<i>fait le tour de la scène
+dans une lumière irréelle.</i>
+
+1148
+01:14:40,119 --> 01:14:43,152
+<i>Puis le noir se fait
+et on entend une ultime fois</i>
+
+1149
+01:14:43,254 --> 01:14:45,426
+<i>le monologue intérieur
+de Monsieur L:</i>
+
+1150
+01:14:45,911 --> 01:14:47,536
+<i>"Merde, c'était un rêve!"</i>
+
+1151
+01:15:16,408 --> 01:15:17,750
+Lève-toi.
+
+1152
+01:15:17,849 --> 01:15:19,125
+Tu peux te lever.
+
+1153
+01:15:19,737 --> 01:15:20,882
+Tout va bien.
+
+1154
+01:16:01,211 --> 01:16:03,479
+"Je veux me rappeler
+ce qui m'est arrivé."
+
+1155
+01:16:04,538 --> 01:16:06,775
+Vous voulez
+que je demande à quelqu'un?
+
+1156
+01:16:07,451 --> 01:16:09,939
+E, S, A, R, I, N...
+
+1157
+01:16:10,876 --> 01:16:11,803
+N.
+
+1158
+01:16:12,539 --> 01:16:13,620
+Non?
+
+1159
+01:16:21,404 --> 01:16:23,957
+Allô? Chambre 119.
+
+1160
+01:16:26,907 --> 01:16:29,296
+C'est Claude Mendibil.
+Je suis avec Jean-Do.
+
+1161
+01:16:30,492 --> 01:16:31,921
+<i>C'est son père à l'appareil.</i>
+
+1162
+01:16:32,028 --> 01:16:34,548
+Oui, on attendait votre coup de fil.
+
+1163
+01:16:39,100 --> 01:16:42,068
+Qu'est-ce que je dois faire?
+Je parle, c'est tout?
+
+1164
+01:16:42,653 --> 01:16:45,588
+<i>Oui, Jean-Do vous entend.
+Il pourra vous répondre.</i>
+
+1165
+01:16:45,917 --> 01:16:48,284
+<i>Vous allez m'entendre
+réciter l'alphabet...</i>
+
+1166
+01:16:48,509 --> 01:16:51,357
+Ah oui, oui. Oui, Céline m'a expliqué.
+
+1167
+01:16:55,133 --> 01:16:57,621
+<i>Alors, c'est à vous, M. Bauby.</i>
+
+1168
+01:16:58,525 --> 01:17:00,348
+<i>- Il m'entend?
+- Oui.</i>
+
+1169
+01:17:02,077 --> 01:17:05,176
+Jean-Dominique? C'est Papinou.
+
+1170
+01:17:08,286 --> 01:17:12,313
+<i>Je suis assis
+devant la fenêtre ouverte.</i>
+
+1171
+01:17:14,367 --> 01:17:15,611
+<i>Comment vas-tu?</i>
+
+1172
+01:17:15,711 --> 01:17:18,014
+<i>Ou est-ce que c'est
+une question idiote?</i>
+
+1173
+01:17:19,392 --> 01:17:23,133
+E, S, A, R, I, N, T, U, L, O...
+
+1174
+01:17:24,126 --> 01:17:26,199
+E, S, A, R, I, N, T, U...
+
+1175
+01:17:27,071 --> 01:17:27,998
+U.
+
+1176
+01:17:30,527 --> 01:17:32,502
+"Oui, c'est une question idiote."
+
+1177
+01:17:36,096 --> 01:17:37,655
+Tu me manques.
+
+1178
+01:17:52,384 --> 01:17:53,562
+<i>"Toi aussi."</i>
+
+1179
+01:17:56,704 --> 01:18:00,349
+Nom de Dieu, c'est impossible
+de tenir une conversation comme ça!
+
+1180
+01:18:00,448 --> 01:18:02,816
+J'oublie tout ce que je voulais dire!
+
+1181
+01:18:02,913 --> 01:18:05,782
+Non. Non, je me souviens.
+
+1182
+01:18:06,497 --> 01:18:08,831
+<i>Je t'ai envoyé un cadeau.</i>
+
+1183
+01:18:10,049 --> 01:18:11,992
+<i>Oui, c'est une surprise.</i>
+
+1184
+01:18:15,937 --> 01:18:17,628
+<i>J'ai pensé à quelque chose.</i>
+
+1185
+01:18:18,658 --> 01:18:20,185
+J'ai pensé à nous.
+
+1186
+01:18:20,289 --> 01:18:21,979
+On est dans le même bateau.
+
+1187
+01:18:23,073 --> 01:18:26,871
+Moi, je suis coincé
+dans cet appartement,
+
+1188
+01:18:26,978 --> 01:18:30,274
+je ne peux pas monter
+ou descendre les escaliers.
+
+1189
+01:18:30,562 --> 01:18:35,264
+<i>Essaie un peu de descendre
+quatre étages à 92 ans!</i>
+
+1190
+01:18:37,667 --> 01:18:41,312
+<i>Tu vois, nous sommes tous les deux
+des locked-in syndromes.</i>
+
+1191
+01:18:41,410 --> 01:18:44,606
+<i>Toi, prisonnier de ton corps,</i>
+
+1192
+01:18:44,706 --> 01:18:46,429
+<i>moi, de mon appartement.</i>
+
+1193
+01:18:46,531 --> 01:18:48,418
+Jean-Dominique, n'oublie pas.
+
+1194
+01:18:49,090 --> 01:18:53,598
+Dans le tiroir en haut à droite
+de mon secrétaire, il y a une lettre.
+
+1195
+01:18:54,340 --> 01:18:57,723
+Ce sont...
+Ce sont mes dernières volontés.
+
+1196
+01:18:58,307 --> 01:19:00,282
+Elle est dans un dossier...
+
+1197
+01:19:05,765 --> 01:19:07,455
+Marqué "divers".
+
+1198
+01:19:12,708 --> 01:19:14,683
+<i>Il faut que je te quitte.</i>
+
+1199
+01:19:14,916 --> 01:19:16,771
+E, S, A, R, I, N,
+
+1200
+01:19:17,028 --> 01:19:20,225
+T, U, L, O, M, D, P...
+
+1201
+01:19:22,692 --> 01:19:25,726
+E, S, A, R, I, N, T, U, L...
+
+1202
+01:19:27,461 --> 01:19:28,389
+E...
+
+1203
+01:19:28,869 --> 01:19:30,146
+"Ne pleure pas."
+
+1204
+01:19:31,013 --> 01:19:32,606
+C'est facile à dire,
+
+1205
+01:19:32,710 --> 01:19:34,881
+tu es mon fils, nom de Dieu!
+
+1206
+01:19:37,062 --> 01:19:38,883
+Au revoir, Jean-Dominique.
+
+1207
+01:19:40,454 --> 01:19:41,980
+Je me souviens.
+
+1208
+01:19:42,086 --> 01:19:43,941
+C'est bientôt ton anniversaire.
+
+1209
+01:19:45,094 --> 01:19:46,621
+<i>Je rappellerai.</i>
+
+1210
+01:19:48,903 --> 01:19:50,146
+<i>Bon anniversaire.</i>
+
+1211
+01:20:19,752 --> 01:20:22,883
+E, S, A, R, I, N...
+
+1212
+01:20:33,256 --> 01:20:35,974
+<i>Ça ne doit pas être facile
+pour un père de parler à un fils</i>
+
+1213
+01:20:36,072 --> 01:20:38,942
+<i>quand on sait trop bien
+qu'il ne va pas vous répondre.</i>
+
+1214
+01:20:57,738 --> 01:21:01,152
+J'ai pensé que ça vous ferait du bien
+de changer un peu d'horizon.
+
+1215
+01:21:02,601 --> 01:21:04,609
+J'ai une autre surprise pour vous.
+
+1216
+01:21:05,290 --> 01:21:06,719
+Fermez les yeux.
+
+1217
+01:21:07,434 --> 01:21:08,711
+Fermez les yeux.
+
+1218
+01:21:09,321 --> 01:21:10,816
+Fermez les yeux.
+
+1219
+01:21:16,490 --> 01:21:17,766
+Allez-y, ouvrez.
+
+1220
+01:21:20,108 --> 01:21:21,351
+<i>Il fallait pas.</i>
+
+1221
+01:21:23,243 --> 01:21:24,258
+<i>Deux tomes!</i>
+
+1222
+01:21:24,363 --> 01:21:28,106
+C'est pas une édition originale, mais
+ils sont quand même assez anciens.
+
+1223
+01:21:31,276 --> 01:21:33,544
+Vous voulez
+que je vous lise un passage?
+
+1224
+01:21:34,091 --> 01:21:35,019
+Quel chapitre?
+
+1225
+01:21:35,916 --> 01:21:37,890
+<i>On pourrait le faire
+en chiffres romains.</i>
+
+1226
+01:21:37,996 --> 01:21:40,036
+<i>On n'a jamais pensé aux chiffres.</i>
+
+1227
+01:21:40,556 --> 01:21:42,628
+<i>Ça ferait quoi en chiffres romains?</i>
+
+1228
+01:21:43,148 --> 01:21:47,458
+<i>Ça ferait "L", ça ferait "l", ça ferait "X".</i>
+
+1229
+01:21:48,365 --> 01:21:49,958
+<i>Oui, ça irait plus vite.</i>
+
+1230
+01:21:50,412 --> 01:21:51,754
+<i>La prochaine fois.</i>
+
+1231
+01:21:52,012 --> 01:21:53,922
+"Cinquante"? Plus?
+
+1232
+01:21:54,221 --> 01:21:55,649
+<i>Oui, plus.</i>
+
+1233
+01:21:55,916 --> 01:21:57,956
+N? E?
+
+1234
+01:21:58,061 --> 01:22:00,199
+"Neuf"? "Cinquante-neuf"? D'accord.
+
+1235
+01:22:00,972 --> 01:22:02,828
+Attendez. Attendez. Le voilà.
+
+1236
+01:22:03,981 --> 01:22:05,987
+<i>Il y a même une illustration.</i>
+
+1237
+01:22:06,093 --> 01:22:08,134
+<i>La coïncidence me fait peur.</i>
+
+1238
+01:22:08,301 --> 01:22:10,723
+"Tous deux avaient pris place
+à ses côtés..."
+
+1239
+01:22:12,077 --> 01:22:14,249
+<i>"Noirtier assis
+dans son grand fauteuil à roulettes</i>
+
+1240
+01:22:14,349 --> 01:22:16,738
+<i>"où on le plaçait le matin
+et d'où on le tirait le soir,</i>
+
+1241
+01:22:16,846 --> 01:22:19,302
+<i>"assis devant une glace
+qui réfléchissait tout l'appartement</i>
+
+1242
+01:22:19,406 --> 01:22:21,064
+<i>"et lui permettait de voir, sans même</i>
+
+1243
+01:22:21,166 --> 01:22:23,173
+<i>"tenter un mouvement
+devenu impossible..."</i>
+
+1244
+01:22:23,278 --> 01:22:25,416
+"...un mouvement
+devenu impossible."
+
+1245
+01:22:26,606 --> 01:22:29,454
+<i>"La vue et l'ouïe étaient les deux
+seuls sens qui animassent encore,</i>
+
+1246
+01:22:29,549 --> 01:22:31,306
+<i>"comme deux étincelles,
+cette matière humaine</i>
+
+1247
+01:22:31,407 --> 01:22:33,894
+<i>"déjà aux trois quarts façonnée
+pour la tombe. "</i>
+
+1248
+01:22:34,639 --> 01:22:37,486
+"...déjà aux trois quarts façonnée
+pour la tombe."
+
+1249
+01:22:38,383 --> 01:22:41,450
+<i>Qu'est-ce que vous en dites?
+C'est moi tout craché, non?</i>
+
+1250
+01:22:42,479 --> 01:22:43,941
+<i>- Mais non.
+- Mais si.</i>
+
+1251
+01:22:44,496 --> 01:22:47,562
+<i>Moi aussi, je fais peur. Je fais frémir.</i>
+
+1252
+01:22:49,072 --> 01:22:50,631
+Même pas vrai.
+
+1253
+01:22:50,863 --> 01:22:53,165
+<i>J'aurais jamais dû envisager
+de réécrire Dumas.</i>
+
+1254
+01:22:53,263 --> 01:22:54,692
+<i>On ne badine pas
+avec les chefs-d'uvre,</i>
+
+1255
+01:22:54,799 --> 01:22:57,451
+<i>c'est le destin, c'est une leçon,
+vous comprenez.</i>
+
+1256
+01:22:59,056 --> 01:23:02,438
+<i>Je ne savais pas que Noirtier
+était l'homme que j'allais devenir.</i>
+
+1257
+01:23:03,857 --> 01:23:07,205
+<i>Mon scaphandre vous emmène
+avec moi au fond de l'océan.</i>
+
+1258
+01:23:07,920 --> 01:23:09,382
+<i>Jean-Do,</i>
+
+1259
+01:23:09,488 --> 01:23:12,784
+<i>ça m'est égal que vous m'emmeniez
+avec vous au fond de l'océan,</i>
+
+1260
+01:23:13,681 --> 01:23:15,852
+parce que vous êtes aussi
+mon papillon.
+
+1261
+01:23:17,776 --> 01:23:20,111
+<i>C'est une déclaration d'amour,
+ma parole!</i>
+
+1262
+01:23:22,097 --> 01:23:23,821
+<i>Quand on aura fini ce livre,</i>
+
+1263
+01:23:24,657 --> 01:23:27,374
+<i>nous en écrirons un autre
+sur un coureur de fond.</i>
+
+1264
+01:23:27,473 --> 01:23:30,702
+<i>On sait jamais. Peut-être que du coup,
+je me mettrai à courir.</i>
+
+1265
+01:23:33,489 --> 01:23:35,945
+"Tu m'as manqué
+à la féria des vendanges cette année.
+
+1266
+01:23:36,049 --> 01:23:39,595
+"Je t'attends et j'espère te voir là-bas
+l'année prochaine. Jean-Paul.
+
+1267
+01:23:39,698 --> 01:23:41,902
+"Le Tango, Nîmes."
+
+1268
+01:23:52,370 --> 01:23:53,548
+"Cher M. Bauby,
+
+1269
+01:23:53,715 --> 01:23:54,860
+"concernant votre demande
+
+1270
+01:23:54,962 --> 01:23:57,199
+"de camping-car équipé
+selon vos besoins,
+
+1271
+01:23:57,746 --> 01:23:59,056
+"le fabricant nous a informés
+
+1272
+01:23:59,154 --> 01:24:01,642
+"que la livraison suivra
+entre six et huit mois
+
+1273
+01:24:02,291 --> 01:24:04,844
+"à partir de la confirmation
+de votre demande.
+
+1274
+01:24:05,011 --> 01:24:06,767
+"Sincèrement, Henri Raynaud."
+
+1275
+01:24:06,867 --> 01:24:08,656
+C'est une bonne nouvelle, ça.
+
+1276
+01:24:11,219 --> 01:24:12,844
+Ça, c'est Papinou.
+
+1277
+01:24:20,084 --> 01:24:21,873
+"Ceci est un cadeau."
+
+1278
+01:24:25,044 --> 01:24:27,859
+Regarde. C'est une photo de toi
+quand tu étais petit.
+
+1279
+01:24:29,876 --> 01:24:32,081
+"Jean-Do, huit ans, Berck-sur-Mer."
+
+1280
+01:24:36,628 --> 01:24:38,058
+Ah, c'est Anne-Marie.
+
+1281
+01:24:42,356 --> 01:24:44,331
+La chambre
+de Jean-Dominique Bauby.
+
+1282
+01:24:44,662 --> 01:24:45,872
+<i>Qui êtes-vous?</i>
+
+1283
+01:24:46,069 --> 01:24:47,792
+Céline Desmoulins, et vous?
+
+1284
+01:24:48,885 --> 01:24:50,030
+<i>Inès.</i>
+
+1285
+01:24:51,733 --> 01:24:53,425
+<i>Je veux parler à Jean-Do.</i>
+
+1286
+01:24:55,414 --> 01:24:56,624
+Ne quittez pas.
+
+1287
+01:24:59,669 --> 01:25:00,880
+J'ai mis le haut-parleur.
+
+1288
+01:25:00,983 --> 01:25:02,706
+Vous pouvez vous parler là,
+il vous entend.
+
+1289
+01:25:02,806 --> 01:25:05,391
+<i>Non, mais je peux pas parler
+devant vous.</i>
+
+1290
+01:25:06,358 --> 01:25:08,397
+Vous pouvez pas faire autrement,
+parce que si...
+
+1291
+01:25:08,502 --> 01:25:10,411
+Il y a personne
+pour faire l'intermédiaire.
+
+1292
+01:25:10,518 --> 01:25:11,827
+<i>Non, mais l'orthophoniste
+n'est pas là?</i>
+
+1293
+01:25:11,926 --> 01:25:13,900
+Non, elle est pas là aujourd'hui.
+
+1294
+01:25:17,558 --> 01:25:18,486
+<i>Jean-Do?</i>
+
+1295
+01:25:22,167 --> 01:25:23,214
+<i>Mon amour?</i>
+
+1296
+01:25:25,751 --> 01:25:27,923
+<i>Je sais que j'ai dit que je viendrais.</i>
+
+1297
+01:25:28,088 --> 01:25:31,219
+<i>Je suis arrivée jusqu'à la gare
+et puis j'ai fait demi-tour.</i>
+
+1298
+01:25:32,216 --> 01:25:33,426
+<i>J'y arrive pas.</i>
+
+1299
+01:25:34,744 --> 01:25:36,848
+<i>Je t'en prie, pardonne-moi.</i>
+
+1300
+01:25:40,920 --> 01:25:41,902
+<i>Céline?</i>
+
+1301
+01:25:42,648 --> 01:25:44,819
+<i>Non, mais vous pouvez pas sortir
+de la chambre un moment?</i>
+
+1302
+01:25:44,920 --> 01:25:48,564
+<i>J'ai des choses personnelles à dire,
+j'ai pas envie de les dire devant vous.</i>
+
+1303
+01:25:48,665 --> 01:25:49,810
+<i>Je suis désolée.</i>
+
+1304
+01:25:49,912 --> 01:25:50,992
+Je peux pas sortir.
+
+1305
+01:25:51,097 --> 01:25:54,358
+Il... Il y a que moi ici.
+Attendez, il veut dire quelque chose.
+
+1306
+01:25:55,321 --> 01:25:58,670
+E, S, A, R, I, N, T, U... U.
+
+1307
+01:25:59,898 --> 01:26:03,159
+E, S, A, R, I, N... N. E...
+
+1308
+01:26:03,864 --> 01:26:04,945
+"Une."
+
+1309
+01:26:05,241 --> 01:26:08,624
+E, S, A, R, I, N, T, U, L, O, M...
+
+1310
+01:26:08,985 --> 01:26:09,913
+M.
+
+1311
+01:26:10,809 --> 01:26:12,631
+E, S, A, R, I... I.
+
+1312
+01:26:13,529 --> 01:26:14,959
+"Une minute."
+
+1313
+01:26:15,385 --> 01:26:17,753
+Bon, d'accord, je sors.
+Mais pas longtemps.
+
+1314
+01:26:24,634 --> 01:26:25,562
+<i>Jean-Do?</i>
+
+1315
+01:26:26,875 --> 01:26:28,250
+<i>Tu es là?</i>
+
+1316
+01:26:31,194 --> 01:26:32,208
+<i>Mon amour,</i>
+
+1317
+01:26:33,786 --> 01:26:35,674
+<i>je t'aime plus que jamais.</i>
+
+1318
+01:26:37,754 --> 01:26:41,137
+<i>J'ai envie de te voir, mais je veux pas
+te voir dans cet état-là.</i>
+
+1319
+01:26:42,810 --> 01:26:44,916
+<i>Je veux penser à toi comme tu étais.</i>
+
+1320
+01:26:47,515 --> 01:26:49,338
+<i>J'espère que tu t'en sortiras.</i>
+
+1321
+01:26:51,068 --> 01:26:52,497
+<i>Tu me manques.</i>
+
+1322
+01:26:53,500 --> 01:26:56,348
+<i>Tu me manques tellement.
+Je me sens seule sans toi.</i>
+
+1323
+01:26:56,444 --> 01:26:57,850
+<i>C'est insupportable.</i>
+
+1324
+01:27:00,347 --> 01:27:02,234
+<i>Je sais que tu peux comprendre.</i>
+
+1325
+01:27:04,668 --> 01:27:07,058
+<i>Je pense à toi tout le temps.
+Tout le temps.</i>
+
+1326
+01:27:13,949 --> 01:27:17,146
+<i>Je sais... Je sais
+que t'as toute ta famille autour de toi.</i>
+
+1327
+01:27:22,525 --> 01:27:24,020
+<i>Tu veux que je vienne?</i>
+
+1328
+01:27:25,693 --> 01:27:26,707
+Voilà, je suis revenue.
+
+1329
+01:27:26,812 --> 01:27:28,340
+<i>Tu veux que je vienne?</i>
+
+1330
+01:27:29,181 --> 01:27:30,676
+<i>Tu veux que je vienne?</i>
+
+1331
+01:27:30,781 --> 01:27:32,636
+Je suis revenue, Inès.
+
+1332
+01:27:37,278 --> 01:27:42,745
+E, S, A, R, I, N, T, U, L, O, M,
+D, P, C, F...
+
+1333
+01:27:43,423 --> 01:27:44,371
+C.
+
+1334
+01:27:44,478 --> 01:27:48,821
+E, S, A, R, I, N, T, U, L, O, M, D, P, C,
+
+1335
+01:27:49,246 --> 01:27:51,668
+F, B, V, H... H.
+
+1336
+01:27:52,286 --> 01:27:53,301
+E, S, A...
+
+1337
+01:27:53,919 --> 01:27:55,991
+A. E, S, A, R,
+
+1338
+01:27:56,158 --> 01:27:59,388
+I, N, T, U, L, O, M, D, P, C,
+
+1339
+01:27:59,710 --> 01:28:02,198
+F, B, V, H, G, J, Q...
+
+1340
+01:28:03,103 --> 01:28:04,085
+Q.
+
+1341
+01:28:04,191 --> 01:28:05,369
+"Chaque."
+
+1342
+01:28:06,976 --> 01:28:11,133
+E, S, A, R, I, N, T, U, L, O, M, D, P, C,
+
+1343
+01:28:11,391 --> 01:28:13,301
+F, B, V, H, G, J...
+
+1344
+01:28:14,400 --> 01:28:15,327
+J.
+
+1345
+01:28:15,616 --> 01:28:18,038
+E, S, A, R, I, N, T, U,
+
+1346
+01:28:18,304 --> 01:28:20,126
+L, O, M... O.
+
+1347
+01:28:21,920 --> 01:28:23,097
+"Chaque jour."
+
+1348
+01:28:23,775 --> 01:28:27,770
+E, S, A, R, I, N, T, U, L, O, M, D, P, C,
+
+1349
+01:28:27,872 --> 01:28:30,076
+F, B, V, H, G, J...
+
+1350
+01:28:30,528 --> 01:28:31,510
+J.
+
+1351
+01:28:36,673 --> 01:28:37,851
+E, S...
+
+1352
+01:28:37,953 --> 01:28:39,546
+E, S, A... E.
+
+1353
+01:28:39,937 --> 01:28:41,344
+"Chaque jour, je..."
+
+1354
+01:28:41,697 --> 01:28:44,283
+E, S, A, R, I, N, T, U...
+
+1355
+01:28:45,089 --> 01:28:46,202
+T.
+
+1356
+01:28:46,818 --> 01:28:48,028
+E, S, A...
+
+1357
+01:28:48,801 --> 01:28:49,729
+A.
+
+1358
+01:28:50,049 --> 01:28:52,351
+E, S, A, R, I, N, T...
+
+1359
+01:28:52,993 --> 01:28:53,942
+T.
+
+1360
+01:28:54,529 --> 01:28:57,398
+E, S, A, R, I, N, T...
+
+1361
+01:28:58,178 --> 01:28:59,105
+T.
+
+1362
+01:28:59,874 --> 01:29:01,500
+E... E.
+
+1363
+01:29:03,042 --> 01:29:04,765
+"Chaque jour, je t'attends."
+
+1364
+01:29:05,283 --> 01:29:07,520
+<i>J'ai pas entendu.
+Vous pouvez répéter?</i>
+
+1365
+01:29:08,963 --> 01:29:10,239
+<i>J'ai pas entendu.</i>
+
+1366
+01:29:12,771 --> 01:29:15,007
+Il a dit: "Chaque jour, je t'attends."
+
+1367
+01:30:20,679 --> 01:30:23,974
+Excuse-moi, Jean-Dominique, mais
+si j'ai pas de place dans cet avion,
+
+1368
+01:30:24,069 --> 01:30:26,623
+je vais rater ma correspondance
+pour Hong Kong.
+
+1369
+01:30:29,191 --> 01:30:31,744
+Je vais vous laisser ma place,
+je vous en prie.
+
+1370
+01:30:32,454 --> 01:30:35,138
+- Je prendrai le vol suivant.
+- Merci.
+
+1371
+01:30:36,040 --> 01:30:37,250
+Bon voyage.
+
+1372
+01:30:42,279 --> 01:30:45,279
+Mais vous n'allez pas à Hong Kong,
+vous allez à Beyrouth.
+
+1373
+01:30:57,832 --> 01:31:00,101
+Ça va, M. Bauby?
+Vous vous sentez bien?
+
+1374
+01:31:01,032 --> 01:31:02,527
+Ne vous inquiétez pas.
+
+1375
+01:31:11,144 --> 01:31:13,698
+<i>En général,
+je ne me souviens pas de mes rêves.</i>
+
+1376
+01:31:13,800 --> 01:31:16,866
+<i>Les gens qui racontent leurs rêves
+ennuient tout le monde.</i>
+
+1377
+01:31:17,705 --> 01:31:20,553
+<i>Celui-ci me poursuit,
+je ne sais pas pourquoi.</i>
+
+1378
+01:31:21,993 --> 01:31:23,335
+<i>Il me fait peur.</i>
+
+1379
+01:31:24,713 --> 01:31:27,102
+<i>Ce sentiment de fatalité
+ne me quitte pas.</i>
+
+1380
+01:31:28,586 --> 01:31:31,336
+<i>Il a fallu ce que je ne peux décrire
+que comme un miracle</i>
+
+1381
+01:31:31,434 --> 01:31:33,059
+<i>pour me remonter le moral.</i>
+
+1382
+01:31:35,113 --> 01:31:37,535
+<i>Il est dangereux
+de croire aux miracles personnels,</i>
+
+1383
+01:31:37,641 --> 01:31:39,813
+<i>après, on a tendance
+à se sentir important.</i>
+
+1384
+01:31:39,913 --> 01:31:42,117
+<i>Néanmoins, je suis obligé de dire</i>
+
+1385
+01:31:42,218 --> 01:31:46,048
+<i>qu'en l'occurrence,
+je crois qu'un miracle a eu lieu.</i>
+
+1386
+01:31:46,155 --> 01:31:48,194
+<i>Je me suis mis à chanter.</i>
+
+1387
+01:31:50,155 --> 01:31:52,327
+<i>Je grogne, je chante.</i>
+
+1388
+01:31:53,963 --> 01:31:55,523
+<i>Mon audition laisse à désirer</i>
+
+1389
+01:31:55,627 --> 01:31:58,409
+<i>et parfois, je crois entendre
+les battements de mon cur</i>
+
+1390
+01:31:58,507 --> 01:32:01,375
+<i>mais je me dis
+que c'est le son des ailes du papillon.</i>
+
+1391
+01:32:01,707 --> 01:32:03,878
+<i>Je fais des progrès indéniables.</i>
+
+1392
+01:32:03,979 --> 01:32:06,215
+<i>J'ai peut-être même l'oreille
+des papillons.</i>
+
+1393
+01:32:06,315 --> 01:32:08,170
+<i>Je peux contempler l'avenir.</i>
+
+1394
+01:32:08,267 --> 01:32:10,274
+<i>Bientôt, l'été finira</i>
+
+1395
+01:32:10,379 --> 01:32:13,478
+<i>et j'entamerai mon premier automne
+dans cet hôpital.</i>
+
+1396
+01:32:15,339 --> 01:32:16,616
+<i>Ma vie est ici.</i>
+
+1397
+01:32:17,548 --> 01:32:19,206
+<i>Une éternelle répétition.</i>
+
+1398
+01:32:20,781 --> 01:32:21,926
+<i>Ici.</i>
+
+1399
+01:32:22,989 --> 01:32:24,297
+Ça va, mon grand?
+
+1400
+01:32:26,989 --> 01:32:28,266
+Il parle!
+
+1401
+01:32:28,619 --> 01:32:29,568
+Jean-Do, tu parles!
+
+1402
+01:32:29,676 --> 01:32:31,847
+- Il chante des chansons aussi.
+- Non!
+
+1403
+01:32:32,076 --> 01:32:34,215
+Allez, Jean-Do. Chantez pour Laurent.
+
+1404
+01:32:34,636 --> 01:32:37,124
+S'il vous plaît, Jean-Do. Ou pour moi.
+
+1405
+01:32:54,670 --> 01:32:56,393
+Ça va? Ça va?
+
+1406
+01:32:56,493 --> 01:32:57,508
+Il chante.
+
+1407
+01:32:58,158 --> 01:32:59,751
+Non, non, il chante pas.
+
+1408
+01:33:18,191 --> 01:33:19,565
+<i>J'ai une pneumonie.</i>
+
+1409
+01:33:22,512 --> 01:33:24,420
+<i>Juste au moment où je croyais...</i>
+
+1410
+01:33:37,264 --> 01:33:40,580
+<i>Comme un marin qui voit disparaître
+la côte d'où il s'est lancé,</i>
+
+1411
+01:33:41,361 --> 01:33:43,367
+<i>je vois mon passé qui s'estompe,</i>
+
+1412
+01:33:44,337 --> 01:33:47,152
+<i>qui se réduit de plus en plus
+en cendres du souvenir.</i>
+
+1413
+01:34:02,705 --> 01:34:04,198
+<i>Quel retour!</i>
+
+1414
+01:34:05,073 --> 01:34:06,383
+<i>C'est le journal!</i>
+
+1415
+01:34:06,609 --> 01:34:08,552
+<i>Et le couple! Mais je les connais!</i>
+
+1416
+01:34:08,658 --> 01:34:11,047
+<i>Mais je me souviens
+même plus de leurs noms.</i>
+
+1417
+01:34:12,369 --> 01:34:13,798
+<i>C'est ma voiture.</i>
+
+1418
+01:34:14,481 --> 01:34:16,042
+<i>Ma nouvelle voiture.</i>
+
+1419
+01:35:28,790 --> 01:35:30,699
+Il est où le klaxon, là-dessus?
+
+1420
+01:36:02,200 --> 01:36:03,858
+Papa!
+
+1421
+01:36:13,464 --> 01:36:15,536
+Allez, descends.
+C'est moi qui lui fais un câlin.
+
+1422
+01:36:15,640 --> 01:36:16,589
+T'as vu la voiture?
+
+1423
+01:36:16,696 --> 01:36:18,420
+Ouais, elle est trop belle!
+
+1424
+01:36:21,145 --> 01:36:22,671
+- Ça va, Théo?
+- Ouais.
+
+1425
+01:36:23,448 --> 01:36:25,074
+- Bonne semaine?
+- Ouais.
+
+1426
+01:36:25,464 --> 01:36:27,057
+On va aller au théâtre?
+
+1427
+01:36:27,288 --> 01:36:29,939
+Au théâtre? Oui, on ira au théâtre.
+
+1428
+01:36:30,298 --> 01:36:32,185
+Et manger des huîtres?
+
+1429
+01:36:32,280 --> 01:36:34,321
+Tu manges des huîtres, maintenant?
+
+1430
+01:36:35,353 --> 01:36:38,199
+J'ai...
+J'ai promis quelque chose à Théo.
+
+1431
+01:36:38,873 --> 01:36:40,880
+Tu le ramènes pas trop tard demain.
+
+1432
+01:36:40,984 --> 01:36:42,807
+- Au revoir, papa.
+- Au revoir.
+
+1433
+01:36:43,449 --> 01:36:45,359
+Viens, Théo. On y va! On y va!
+
+1434
+01:36:46,970 --> 01:36:48,431
+- Je peux monter devant?
+- Hein?
+
+1435
+01:36:48,537 --> 01:36:51,887
+- Je peux monter devant?
+- Tu vas voir, y a pas d'autre place!
+
+1436
+01:36:57,914 --> 01:37:00,631
+J'ai envie de faire un voyage
+avec toi toute seule.
+
+1437
+01:37:01,274 --> 01:37:03,063
+- T'as vu ça un peu?
+- Ouais.
+
+1438
+01:37:16,955 --> 01:37:18,199
+Et l'équipe, ça va?
+
+1439
+01:37:18,300 --> 01:37:20,340
+Ouais, l'équipe, tu sais... Ils sont bons.
+
+1440
+01:37:20,443 --> 01:37:22,386
+Tu prends des douches après?
+Comment vous faites?
+
+1441
+01:37:22,492 --> 01:37:27,227
+On... On prend une douche et on
+enlève les affaires pour jouer au foot.
+
+1442
+01:37:27,324 --> 01:37:29,496
+T'as du poil au zizi déjà ou pas?
+
+1443
+01:37:29,596 --> 01:37:30,840
+Non, quand même pas!
+
+1444
+01:37:30,940 --> 01:37:32,368
+Quand j'étais petit, y a un des enfants,
+
+1445
+01:37:32,476 --> 01:37:34,516
+il voulait pas se mettre tout nu
+pour prendre la douche.
+
+1446
+01:37:34,620 --> 01:37:36,027
+Alors il prenait la douche habillé?
+
+1447
+01:37:36,124 --> 01:37:39,637
+Le manager l'a empêché de continuer
+à faire du football.
+
+1448
+01:37:39,739 --> 01:37:42,391
+Le père a voulu casser la gueule
+de l'entraîneur,
+
+1449
+01:37:42,940 --> 01:37:44,184
+il l'a pas fait.
+
+1450
+01:37:44,892 --> 01:37:47,348
+La mère l'a calmé.
+
+1451
+01:37:48,509 --> 01:37:52,568
+Et finalement, personne n'a rien fait,
+sauf que l'enfant a dû quitter l'équipe.
+
+1452
+01:37:55,677 --> 01:37:56,887
+Toi, t'as pas ce problème-là?
+
+1453
+01:37:56,990 --> 01:37:59,542
+Non, heureusement.
+Parce que prendre sa douche habillé...
+
+1454
+01:37:59,645 --> 01:38:02,395
+Tu me dis, hein?
+Parce que sinon, moi je vais le...
+
+1455
+01:38:03,005 --> 01:38:05,427
+Qu'est-ce que tu me racontes d'autre?
+Maman, ça va?
+
+1456
+01:38:05,533 --> 01:38:06,907
+Ouais, ça va.
+
+1457
+01:38:07,006 --> 01:38:08,795
+Tiens, tu reconnais, là-bas?
+
+1458
+01:38:08,893 --> 01:38:11,282
+- Ah oui, c'est chez tante Diane.
+- Voilà.
+
+1459
+01:38:12,510 --> 01:38:14,681
+T'as... Il fait chaud là, non?
+
+1460
+01:38:15,966 --> 01:38:17,591
+Non, j'ai pas chaud, moi.
+
+1461
+01:38:21,566 --> 01:38:23,028
+On aurait pu...
+
+1462
+01:38:24,575 --> 01:38:26,037
+On aurait pu...
+
+1463
+01:38:28,414 --> 01:38:29,876
+On aurait pu...
+
+1464
+01:38:31,070 --> 01:38:32,248
+On pourrait...
+
+1465
+01:38:34,366 --> 01:38:35,545
+On pourrait...
+
+1466
+01:38:36,447 --> 01:38:37,723
+Il va pleuvoir.
+
+1467
+01:38:38,431 --> 01:38:39,860
+Attends, je m'arrête.
+
+1468
+01:38:41,215 --> 01:38:42,492
+Je vais arrêter.
+
+1469
+01:38:58,272 --> 01:39:00,410
+Papa! Qu'est-ce qui t'arrive, papa?
+
+1470
+01:39:51,202 --> 01:39:53,438
+Retourne à la maison!
+Appelle ta mère!
+
+1471
+01:39:55,010 --> 01:39:57,280
+"J'ai le temps d'avoir
+une ultime pensée.
+
+1472
+01:39:57,730 --> 01:39:58,679
+"Il faut décommander le théâtre.
+
+1473
+01:39:59,876 --> 01:40:02,297
+"De toute façon,
+on serait arrivés en retard.
+
+1474
+01:40:03,108 --> 01:40:04,701
+"Nous irons demain soir.
+
+1475
+01:40:05,892 --> 01:40:07,648
+"Et je sombre dans le coma."
+
+1476
+01:40:12,517 --> 01:40:18,811
+E, S, A, R, I, N, T, U, L, O,
+M, D, P, C, F...
+
+1477
+01:40:20,996 --> 01:40:23,418
+E, S, A, R, I, C... C.
+
+1478
+01:40:23,620 --> 01:40:26,075
+E... E. T, U, L... L.
+
+1479
+01:40:27,044 --> 01:40:29,860
+E, S, A... A. P, C, F... F.
+
+1480
+01:40:29,956 --> 01:40:33,273
+E, S, A... A. R, I... I. M, D, T.
+
+1481
+01:40:33,541 --> 01:40:35,843
+"Cela fait..." E, S, A, I... I.
+
+1482
+01:40:35,941 --> 01:40:40,032
+E, S, A, R, I, N... N. Un
+
+1483
+01:40:40,134 --> 01:40:41,442
+"Cela fait-il un..."
+
+1484
+01:40:41,542 --> 01:40:45,981
+E, S, A, R, I, N, T, U, L... L. I... I. V... V.
+
+1485
+01:40:46,725 --> 01:40:48,351
+"Cela fait-il un livre?"
+
+1486
+01:40:58,821 --> 01:41:01,789
+"Pour Théophile, Céleste et Hortense,
+
+1487
+01:41:01,894 --> 01:41:04,992
+"en leur souhaitant
+beaucoup de papillons.
+
+1488
+01:41:07,526 --> 01:41:10,014
+"Toute ma gratitude va
+à Claude Mendibil,
+
+1489
+01:41:10,407 --> 01:41:13,505
+"dont on comprendra en lisant
+ces pages le rôle primordial
+
+1490
+01:41:13,607 --> 01:41:15,647
+"qu'elle a joué dans leur écriture."
+
+1491
+01:41:17,126 --> 01:41:23,270
+<i>C'est une fille travailleuse
+Venant du Nord de l'Angleterre</i>
+
+1492
+01:41:23,367 --> 01:41:26,629
+<i>Et si elle pouvait seulement
+m'entendre</i>
+
+1493
+01:41:27,143 --> 01:41:30,690
+<i>Voilà ce que je lui dirai</i>
+
+1494
+01:41:46,344 --> 01:41:47,774
+J'ai toujours été là.
+
+1495
+01:41:48,360 --> 01:41:49,408
+Tu le sais.
+
+1496
+01:41:52,905 --> 01:41:56,134
+Les critiques sont magnifiques,
+Jean-Do. Tu veux les entendre?
+
+1497
+01:41:56,233 --> 01:41:58,175
+"L'homme qui dicte en silence.
+
+1498
+01:41:58,281 --> 01:42:00,104
+"Privé du geste et de la parole,
+
+1499
+01:42:00,201 --> 01:42:01,662
+"Jean-Dominique Bauby
+a dû apprendre
+
+1500
+01:42:01,769 --> 01:42:03,231
+"à s'exprimer avec sa paupière
+
+1501
+01:42:03,338 --> 01:42:05,672
+<i>"pour écrire
+Le Scaphandre et le Papillon,</i>
+
+1502
+01:42:05,769 --> 01:42:08,158
+"une bouleversante visite
+au naufragé de la solitude
+
+1503
+01:42:08,330 --> 01:42:10,185
+"qui hante l'Hôpital Maritime de Berck."
+
+1504
+01:42:10,345 --> 01:42:12,037
+Par Bernard Chapuis.
+
+1505
+01:42:12,970 --> 01:42:15,010
+"Un livre bouleversant."
+
+1506
+01:42:21,419 --> 01:42:24,452
+<i>Jean-Dominique Bauby, 43 ans,
+journaliste réputé,</i>
+
+1507
+01:42:24,554 --> 01:42:26,562
+<i>père de famille, homme libre,</i>
+
+1508
+01:42:26,667 --> 01:42:29,896
+<i>projetait d'écrire un roman
+sur la vengeance au féminin:</i>
+
+1509
+01:42:30,474 --> 01:42:32,329
+La Comtesse de Monte-Cristo.
+
+1510
+01:46:07,358 --> 01:46:08,317
+Subtitles by LeapinLar
