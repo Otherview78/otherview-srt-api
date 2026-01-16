@@ -1,0 +1,5815 @@
+1
+00:02:38,200 --> 00:02:40,220
+Maître Li te dit "bonjour".
+
+2
+00:02:40,740 --> 00:02:41,790
+C'est gentil.
+
+3
+00:02:42,120 --> 00:02:43,170
+"Au revoir", aussi !
+
+4
+00:02:45,990 --> 00:02:47,050
+Qui sont-ils ?
+
+5
+00:02:47,290 --> 00:02:48,770
+Les hommes de monsieur Li.
+
+6
+00:02:49,000 --> 00:02:50,520
+Ah... Enfin !
+
+7
+00:02:50,750 --> 00:02:52,310
+Nous sommes perdus.
+
+8
+00:02:52,540 --> 00:02:53,590
+Ils sont perdus.
+
+9
+00:03:22,740 --> 00:03:24,140
+Tout va bien,
+Comtesse ?
+
+10
+00:03:26,290 --> 00:03:28,630
+Merci, Hubert.
+Vous m'avez sauvé la vie.
+
+11
+00:03:28,950 --> 00:03:29,970
+Je vous en prie.
+
+12
+00:03:30,210 --> 00:03:31,850
+On a frôlé la catastrophe.
+
+13
+00:03:32,920 --> 00:03:35,010
+Je ne sais comment
+vous remercier.
+
+14
+00:03:43,050 --> 00:03:44,750
+Vous savez
+tout faire, Hubert.
+
+15
+00:03:45,010 --> 00:03:47,490
+Je n'ai fait
+que mon devoir, Comtesse.
+
+16
+00:03:48,720 --> 00:03:50,950
+A l'avenir,
+méfiez-vous de M. Li.
+
+17
+00:03:51,440 --> 00:03:53,580
+Des Chinois
+en général, d'ailleurs.
+
+18
+00:03:54,440 --> 00:03:57,630
+La fortune de la famille
+impériale attire les convoitises.
+
+19
+00:03:57,860 --> 00:04:00,420
+- Les sales rouges !
+- Les sales jaunes.
+
+20
+00:04:01,490 --> 00:04:03,090
+Non.
+Les sales rouges.
+
+21
+00:04:04,740 --> 00:04:05,930
+Au temps pour moi.
+
+22
+00:04:07,830 --> 00:04:11,270
+Vous connaissez mal la Chine,
+M. Bonisseur de la Bath.
+
+23
+00:04:11,500 --> 00:04:12,980
+Oh, ma foi...
+
+24
+00:04:13,670 --> 00:04:16,520
+il ne tient qu'à vous
+que j'en explore une partie.
+
+25
+00:04:17,630 --> 00:04:19,070
+Si intime soit-elle.
+
+26
+00:04:46,780 --> 00:04:48,930
+Bonjour, Fayolle.
+Bonjour, de la Bath.
+
+27
+00:04:51,700 --> 00:04:52,970
+Bonjour, Dutran.
+
+28
+00:04:53,290 --> 00:04:54,560
+Salut, Corbier.
+Hubert.
+
+29
+00:04:54,790 --> 00:04:56,060
+- Bonjour, de la Bath.
+
+30
+00:04:56,460 --> 00:04:57,510
+Poulard !
+
+31
+00:04:57,840 --> 00:04:58,860
+Bonjour.
+
+32
+00:04:59,170 --> 00:05:00,390
+Bonjour, de la Bath.
+
+33
+00:05:01,590 --> 00:05:02,320
+Et ce ski ?
+
+34
+00:05:02,630 --> 00:05:04,360
+Très bien.
+Vous allez bien, Ledentu ?
+
+35
+00:05:04,680 --> 00:05:05,700
+Comme un lundi.
+
+36
+00:05:06,010 --> 00:05:08,820
+Pas mal, celle-là.
+Je l'aime bien.
+
+37
+00:05:10,680 --> 00:05:11,900
+"Comme un lundi".
+
+38
+00:05:13,100 --> 00:05:15,360
+Jean-Pierre.
+Très réussie, méconnaissable.
+
+39
+00:05:15,600 --> 00:05:17,460
+Merci, Hubert.
+Je t'en prie.
+
+40
+00:05:19,060 --> 00:05:20,370
+Mayeux, Castaing.
+
+41
+00:05:20,610 --> 00:05:23,000
+Bonjour, de la Bath.
+
+42
+00:05:23,240 --> 00:05:24,510
+Aucune nouvelle de Picot?
+
+43
+00:05:24,820 --> 00:05:26,760
+Pas depuis
+la dispute avec Roussel.
+
+44
+00:05:27,240 --> 00:05:28,290
+Et Lefranc ?
+
+45
+00:05:28,620 --> 00:05:29,920
+Il a parlé avec Mongier...
+
+46
+00:05:30,240 --> 00:05:32,560
+Berges, il en dit quoi ?
+Berges, Borges...
+
+47
+00:05:32,870 --> 00:05:34,350
+Que veux-tu qu'il dise ?
+
+48
+00:05:34,580 --> 00:05:36,060
+Il dit comme Favre.
+
+49
+00:05:37,330 --> 00:05:38,550
+Et comme Duvernois.
+
+50
+00:05:39,670 --> 00:05:41,190
+J'y vais, de la Bath.
+
+51
+00:05:41,500 --> 00:05:43,320
+Tu passeras
+le bonjour à Granville.
+
+52
+00:05:43,550 --> 00:05:44,600
+Sans faute.
+
+53
+00:05:45,720 --> 00:05:47,700
+Au fait, t'as le bonjour
+de Comolet.
+
+54
+00:05:48,010 --> 00:05:49,030
+Ce vieux Bernard !
+
+55
+00:05:49,260 --> 00:05:52,280
+On s'était vus avec
+Charpon et Delanoix.
+
+56
+00:05:52,510 --> 00:05:54,240
+Il devait même
+y avoir Francard.
+
+57
+00:05:54,560 --> 00:05:55,660
+Imagine.
+En effet !
+
+58
+00:06:01,980 --> 00:06:03,670
+Tu regardes quoi, Castaing ?
+
+59
+00:06:03,900 --> 00:06:04,920
+C'est un plan,
+
+60
+00:06:05,150 --> 00:06:08,300
+pour construire un pédalo
+en forme de canard.
+
+61
+00:06:08,660 --> 00:06:09,790
+Ça sert à quoi?
+
+62
+00:06:10,950 --> 00:06:12,970
+A la même chose
+qu'un pédalo.
+
+63
+00:06:13,870 --> 00:06:15,260
+Tu peux me le garder ?
+
+64
+00:06:15,580 --> 00:06:16,630
+Bien sûr.
+
+65
+00:06:20,210 --> 00:06:21,900
+Je vais voir Fournier.
+
+66
+00:06:24,880 --> 00:06:25,650
+Toc, toc.
+
+67
+00:06:25,960 --> 00:06:26,650
+Le patron
+
+68
+00:06:26,970 --> 00:06:28,240
+vous attend.
+
+69
+00:06:28,550 --> 00:06:29,240
+Merci.
+
+70
+00:06:39,480 --> 00:06:40,580
+Bonjour, Armand.
+
+71
+00:06:40,900 --> 00:06:44,340
+Alors, Hubert,
+ça s'est bien passé à Gstaad ?
+
+72
+00:06:44,650 --> 00:06:46,000
+Ma foi, comme un lundi.
+
+73
+00:06:46,240 --> 00:06:49,260
+Frais et ensoleillé.
+Un séjour réussi.
+
+74
+00:06:49,570 --> 00:06:50,590
+J'en suis ravi.
+
+75
+00:06:50,820 --> 00:06:52,430
+Vous repartez en mission.
+
+76
+00:06:52,740 --> 00:06:54,180
+Quelle douce chanson.
+
+77
+00:06:54,490 --> 00:06:55,510
+Prenez ceci.
+
+78
+00:06:55,740 --> 00:06:56,760
+Merci.
+
+79
+00:06:57,080 --> 00:06:58,810
+Cet homme
+est le Pr von Zimmel,
+
+80
+00:06:59,120 --> 00:07:01,140
+un haut dignitaire nazi.
+
+81
+00:07:01,460 --> 00:07:02,850
+Ou plutôt, "était".
+
+82
+00:07:11,180 --> 00:07:12,820
+Technologie
+américaine.
+
+83
+00:07:16,390 --> 00:07:18,990
+Aujourd'hui, il s'appelle
+Octavie Pela Luerdo.
+
+84
+00:07:19,230 --> 00:07:21,790
+Il organise des combats
+de catch en Amérique latine.
+
+85
+00:07:22,020 --> 00:07:22,790
+- Habile.
+
+86
+00:07:23,020 --> 00:07:25,330
+- Sauf qu'il a décidé
+de faire chanter la France.
+
+87
+00:07:25,570 --> 00:07:26,670
+- Il faut l'en empêcher ?
+
+88
+00:07:26,900 --> 00:07:28,880
+- Non, il faut payer.
+- V'là autre chose !
+
+89
+00:07:29,110 --> 00:07:31,540
+- Il détient le microfilm
+d'une liste de Français
+
+90
+00:07:31,780 --> 00:07:33,800
+qui ont collaboré avec les nazis.
+
+91
+00:07:34,120 --> 00:07:36,710
+Elle doit être
+bien courte, sa liste.
+
+92
+00:07:36,950 --> 00:07:40,350
+Détrompez-vous.
+Beaucoup n'ont pas votre loyauté.
+
+93
+00:07:40,660 --> 00:07:44,270
+Le général de Gaulle a dit
+que toute la France avait résisté.
+
+94
+00:07:44,590 --> 00:07:45,640
+Il l'a dit.
+
+95
+00:07:48,090 --> 00:07:49,140
+Il l'a dit.
+
+96
+00:07:52,590 --> 00:07:53,640
+Eh oui...
+
+97
+00:07:56,680 --> 00:07:57,780
+Quoi qu'il en soit,
+
+98
+00:07:58,100 --> 00:07:59,490
+vous partez
+pour Rio de Janeiro.
+
+99
+00:07:59,730 --> 00:08:01,950
+Contre le microfilm,
+vous allongez 50000 F.
+
+100
+00:08:02,270 --> 00:08:03,830
+Nouveau ?
+Nouveau.
+
+101
+00:08:04,150 --> 00:08:05,200
+Habile.
+
+102
+00:08:06,480 --> 00:08:07,670
+Pourquoi moi?
+
+103
+00:08:07,900 --> 00:08:11,210
+Pour un simple échange,
+les P&T font ça très bien.
+
+104
+00:08:11,530 --> 00:08:14,380
+Von Zimmel veut
+notre meilleur agent.
+
+105
+00:08:14,700 --> 00:08:18,010
+Je comprends.
+Procédure habituelle ?
+
+106
+00:08:18,330 --> 00:08:18,970
+Oui.
+
+107
+00:08:19,290 --> 00:08:21,770
+Vous êtes
+reporter photographe
+
+108
+00:08:22,080 --> 00:08:23,100
+dans un journal du soir.
+
+109
+00:08:23,330 --> 00:08:25,350
+Vous vous appelez
+Noël Flantier.
+
+110
+00:08:25,670 --> 00:08:27,360
+Noël Flantier ?
+Oui.
+
+111
+00:08:28,750 --> 00:08:30,480
+Qui trouve
+les noms au bureau ?
+
+112
+00:08:30,800 --> 00:08:33,390
+Le commandant
+Ludovic Flétanchard,
+
+113
+00:08:33,720 --> 00:08:34,770
+des Couvertures.
+
+114
+00:08:35,010 --> 00:08:36,060
+Noël Flantier...
+
+115
+00:08:37,100 --> 00:08:38,400
+Je vais lui écrire.
+
+116
+00:08:38,720 --> 00:08:40,820
+- Prenez ça du bon côté, Hubert.
+
+117
+00:08:41,140 --> 00:08:43,160
+Rio est une ville magnifique.
+
+118
+00:08:43,480 --> 00:08:45,000
+Les filles sont superbes.
+
+119
+00:08:45,310 --> 00:08:47,660
+Prenez ça comme des vacances.
+
+120
+00:08:47,900 --> 00:08:49,840
+- Je ne connais pas ce mot.
+
+121
+00:09:49,380 --> 00:09:50,600
+Taxi, monsieur ?
+
+122
+00:09:51,670 --> 00:09:52,720
+Ma foi...
+
+123
+00:09:53,130 --> 00:09:54,860
+- Vous allez où ?
+- Au Copacabana Palace.
+
+124
+00:09:55,090 --> 00:09:56,110
+Montez.
+
+125
+00:10:09,520 --> 00:10:12,210
+- Bienvenue à Rio, monsieur.
+- Abragado.
+
+126
+00:10:14,690 --> 00:10:16,420
+Abragado...
+
+127
+00:10:24,200 --> 00:10:26,180
+Ce n'est pas
+la route de l'hôtel.
+
+128
+00:10:31,420 --> 00:10:33,060
+C'est quoi, ce guet-apens ?
+
+129
+00:10:35,050 --> 00:10:37,110
+Descends !
+Et pas un geste !
+
+130
+00:10:45,600 --> 00:10:47,830
+Toi tué
+mon frère à Gstaâ !
+
+131
+00:10:48,060 --> 00:10:49,110
+Tu vas mou ri'.
+
+132
+00:10:49,600 --> 00:10:52,170
+Terminus à Rio
+pour OTT 117.
+
+133
+00:10:53,860 --> 00:10:54,910
+Plaît-il ?
+
+134
+00:10:55,230 --> 00:10:57,880
+Toi tué
+mon frère à Gstaâ !
+
+135
+00:10:58,200 --> 00:10:59,220
+Tu vas mouri' !
+
+136
+00:10:59,450 --> 00:11:00,500
+Excusez-moi.
+
+137
+00:11:00,820 --> 00:11:03,170
+Gstaâ,
+en Suisse! Le ski !
+
+138
+00:11:03,490 --> 00:11:04,760
+Ah, Gstaad ?
+
+139
+00:11:07,000 --> 00:11:08,130
+Gstaad...
+
+140
+00:11:08,460 --> 00:11:09,730
+Mon accent vous fait rire ?
+
+141
+00:11:10,040 --> 00:11:11,690
+- Pas du tout.
+- Toi Raciste !
+
+142
+00:11:12,000 --> 00:11:14,980
+Non, j'ai vécu longtemps
+en Cochinchine.
+
+143
+00:11:15,300 --> 00:11:18,360
+Adieu, OTT 117 le raciste.
+Tu vas mouri'.
+
+144
+00:11:24,680 --> 00:11:26,700
+- Monte, Hubert.
+- Bill Trumendous !
+
+145
+00:11:27,980 --> 00:11:29,410
+Ce vieux Bill!
+
+146
+00:11:34,110 --> 00:11:36,250
+- En plein dans le dos.
+- T'as vu ça ?
+
+147
+00:11:40,400 --> 00:11:42,300
+Alors, mon vieux Hubert,
+
+148
+00:11:42,530 --> 00:11:44,630
+on a des soucis
+avec des Chinois ?
+
+149
+00:11:44,870 --> 00:11:45,890
+Pas du tout.
+
+150
+00:11:46,120 --> 00:11:48,260
+Il a fait erreur
+sur la personne.
+
+151
+00:11:48,870 --> 00:11:51,560
+De son point de vue,
+on se ressemble tous.
+
+152
+00:11:53,766 --> 00:11:55,500
+You got a point there,
+motherfucker
+
+153
+00:11:58,590 --> 00:11:59,940
+Et toi, mon vieux Bill?
+
+154
+00:12:00,170 --> 00:12:02,600
+La CIA s'intéresse
+à L'Amérique du Sud ?
+
+155
+00:12:13,770 --> 00:12:15,920
+Ah, sacré Hubert!
+
+156
+00:12:16,230 --> 00:12:18,290
+Toujours
+le mot pour rire.
+
+157
+00:12:20,900 --> 00:12:22,380
+What a jerk!
+
+158
+00:12:30,633 --> 00:12:33,310
+You stupid son of a bitch.
+
+159
+00:12:50,850 --> 00:12:53,280
+Oh, quelle putain de chaleur!
+
+160
+00:12:54,900 --> 00:12:56,290
+Trêve de plaisanterie.
+
+161
+00:12:56,900 --> 00:12:58,170
+Pourquoi me suivais-tu ?
+
+162
+00:12:58,480 --> 00:13:00,090
+C'est à toi de me le dire.
+
+163
+00:13:00,320 --> 00:13:03,300
+Pourquoi t'es ici?
+Qu'est-ce qui se trame ?
+
+164
+00:13:03,610 --> 00:13:05,930
+Il se trame
+que je suis en congé, Bill.
+
+165
+00:13:05,966 --> 00:13:08,280
+Come on
+Cut the crap.
+
+166
+00:13:08,280 --> 00:13:09,760
+Je te connais, Hubert.
+
+167
+00:13:09,990 --> 00:13:12,340
+Quand t'es là,
+y a du grabuge dans l'air.
+
+168
+00:13:12,660 --> 00:13:15,260
+Je suis venu ici
+pour les femmes et les plages.
+
+169
+00:13:15,500 --> 00:13:18,270
+Je tenais à vérifier
+le charme des Brésiliennes.
+
+170
+00:13:18,500 --> 00:13:19,550
+Comme tu voudras,
+
+171
+00:13:19,550 --> 00:13:21,550
+My ass licking
+cocksucker 
+
+172
+00:13:21,550 --> 00:13:23,730
+motherfuckin
+son of a bitch 
+
+173
+00:13:42,860 --> 00:13:43,910
+Merci, mon vieux.
+
+174
+00:13:44,990 --> 00:13:46,040
+Tiens, Hubert.
+
+175
+00:13:46,990 --> 00:13:49,550
+Si la mémoire te revient,
+n'hésite pas.
+
+176
+00:13:49,870 --> 00:13:53,010
+Je t'appellerai, Bill,
+si l'office du tourisme est fermé.
+
+177
+00:13:53,010 --> 00:13:55,010
+Shut up
+Kiss my ass
+
+178
+00:13:55,010 --> 00:13:56,440
+D'accord,
+faisons comme ça.
+
+179
+00:13:56,440 --> 00:13:58,060
+Ravi de t'avoir revu, l'ami.
+
+180
+00:15:56,700 --> 00:15:57,750
+Oh, pardon.
+
+181
+00:15:58,080 --> 00:16:00,510
+Je suis
+affreusement maladroite.
+
+182
+00:16:00,830 --> 00:16:03,230
+Apparemment,
+je vous ai éclaboussé.
+
+183
+00:16:06,460 --> 00:16:07,600
+Je vous en prie.
+
+184
+00:16:08,550 --> 00:16:10,610
+Une femme
+qui éclabousse un homme,
+
+185
+00:16:10,840 --> 00:16:13,700
+c'est comme la rosée
+d'une matinée de printemps.
+
+186
+00:16:14,600 --> 00:16:17,740
+Cela promet une belle journée
+et une soirée torride.
+
+187
+00:16:18,060 --> 00:16:19,030
+Quel réveil !
+
+188
+00:16:19,350 --> 00:16:20,570
+Je n'y suis pour rien.
+
+189
+00:16:20,810 --> 00:16:24,670
+L'arrogance de votre beauté
+m'a aspergé.
+
+190
+00:16:33,160 --> 00:16:35,330
+Vous êtes superbe,
+monsieur...
+
+191
+00:16:35,660 --> 00:16:36,710
+Monsieur ?
+
+192
+00:16:37,200 --> 00:16:39,100
+Flantier.
+Noël Flantier.
+
+193
+00:16:39,330 --> 00:16:40,680
+Reporter.
+Enchantée.
+
+194
+00:16:41,000 --> 00:16:43,510
+Carlotta.
+Vous faites un reportage sur ?
+
+195
+00:16:43,830 --> 00:16:45,730
+Le Brésil.
+Vaste sujet.
+
+196
+00:16:46,040 --> 00:16:47,770
+Vous avez
+un angle d'attaque ?
+
+197
+00:16:48,090 --> 00:16:50,020
+J'en cherche un
+en ce moment même.
+
+198
+00:16:52,050 --> 00:16:54,530
+Magnifique.
+Vous faites du sport ?
+
+199
+00:16:54,840 --> 00:16:55,900
+Même pas.
+
+200
+00:16:57,260 --> 00:16:58,400
+Superbe.
+
+201
+00:16:58,720 --> 00:16:59,940
+J'ai un bon pedigree.
+
+202
+00:17:00,180 --> 00:17:01,230
+Tut, tut !
+
+203
+00:17:01,560 --> 00:17:05,000
+Je vais enfiler
+quelque chose de plus confortable.
+
+204
+00:17:12,900 --> 00:17:16,340
+Moi aussi, je vais enfiler
+quelque chose de confortable.
+
+205
+00:17:41,640 --> 00:17:42,660
+Carlotta ?
+
+206
+00:17:53,530 --> 00:17:56,010
+Qui pourrait en vouloir
+à Carlotta ?
+
+207
+00:18:03,700 --> 00:18:05,470
+-Oui ?
+-M. Bonisseur de la Bath ?
+
+208
+00:18:05,790 --> 00:18:06,840
+Non, Flantier.
+
+209
+00:18:12,460 --> 00:18:13,260
+Oui ?
+
+210
+00:18:13,510 --> 00:18:17,230
+Si vous voulez le microfilm,
+apportez l'argent à 15h au Belvédère.
+
+211
+00:18:17,470 --> 00:18:19,030
+Vous nous reconnaîtrez.
+
+212
+00:20:40,240 --> 00:20:41,290
+Montez !
+
+213
+00:21:06,550 --> 00:21:08,650
+Restez tranquille,
+double un sept.
+
+214
+00:21:09,140 --> 00:21:10,490
+Charmant voyage.
+
+215
+00:21:24,360 --> 00:21:25,880
+Veuillez excuser
+nos manières,
+
+216
+00:21:26,110 --> 00:21:28,970
+mais on voulait
+parler au calme, double un sept.
+
+217
+00:21:29,200 --> 00:21:30,500
+En fait,
+on dit cent dix-sept.
+
+218
+00:21:30,740 --> 00:21:33,560
+Et en plus, moi,
+c'est M. Flantier.
+
+219
+00:21:34,370 --> 00:21:36,520
+Bonjour, je suis
+le colonel Staman.
+
+220
+00:21:36,750 --> 00:21:37,970
+Voici le colonel
+Kutner.
+
+221
+00:21:38,210 --> 00:21:39,430
+Enchanté. Noël Flantier.
+
+222
+00:21:39,670 --> 00:21:42,650
+Je fais un reportage
+pour le journal du soir.
+
+223
+00:21:42,970 --> 00:21:43,990
+On sait
+qui vous êtes.
+
+224
+00:21:44,220 --> 00:21:46,280
+Et ce que vous faites ici,
+double cent dix-sept.
+
+225
+00:21:46,590 --> 00:21:47,320
+Juste cent dix-sept.
+
+226
+00:21:47,640 --> 00:21:49,660
+Nous recherchons
+le même homme.
+
+227
+00:21:49,970 --> 00:21:50,770
+J'écoute.
+
+228
+00:21:51,100 --> 00:21:52,490
+Le professeur von Zimmel.
+
+229
+00:21:52,810 --> 00:21:54,200
+J'écoute.
+- Soyons directs.
+
+230
+00:21:54,520 --> 00:21:56,210
+Feriez-vous équipe
+avec le Mossad ?
+
+231
+00:21:56,520 --> 00:21:57,160
+J'écoute.
+
+232
+00:21:58,730 --> 00:22:00,460
+C'est nous qui vous écoutons.
+
+233
+00:22:02,860 --> 00:22:04,590
+Travailleriez-vous
+avec le Mossad ?
+
+234
+00:22:05,740 --> 00:22:07,760
+Les services secrets israéliens.
+
+235
+00:22:10,990 --> 00:22:14,800
+Rechercher un nazi
+avec des juifs, quelle drôle d'idée!
+
+236
+00:22:15,910 --> 00:22:17,050
+Et pourquoi donc ?
+
+237
+00:22:17,370 --> 00:22:18,730
+Il va les reconnaître.
+
+238
+00:22:19,040 --> 00:22:19,730
+Comment ça ?
+
+239
+00:22:20,040 --> 00:22:22,220
+Je sais pas. Le nez, déjà...
+
+240
+00:22:22,920 --> 00:22:23,970
+Les oreilles,
+
+241
+00:22:24,300 --> 00:22:26,390
+les doigts, les yeux...
+
+242
+00:22:33,140 --> 00:22:35,450
+Attendez,
+je n'ai rien dit de...
+
+243
+00:22:35,770 --> 00:22:37,460
+Vous êtes bien OSS 117,
+
+244
+00:22:37,770 --> 00:22:39,420
+le meilleur agent français ?
+Oui.
+
+245
+00:22:39,650 --> 00:22:43,200
+Enfin, le meilleur...
+C'est pas à moi de le dire.
+
+246
+00:22:43,940 --> 00:22:46,170
+Et vous savez,
+comme je dis souvent...
+
+247
+00:22:50,820 --> 00:22:53,760
+- M. 717, je vous présente
+Dolorès Koulechov.
+
+248
+00:22:53,990 --> 00:22:56,420
+Vous étiez censé
+faire équipe avec elle.
+
+249
+00:23:17,680 --> 00:23:18,820
+Bonjour.
+
+250
+00:23:19,730 --> 00:23:20,860
+Bonjour.
+
+251
+00:23:25,690 --> 00:23:27,590
+Je suis enchanté.
+
+252
+00:23:28,240 --> 00:23:29,840
+Quel honneur
+de vous rencontrer,
+
+253
+00:23:30,160 --> 00:23:31,040
+OSS 117.
+
+254
+00:23:31,370 --> 00:23:34,350
+Votre combat
+contre les nazis est notoire.
+
+255
+00:23:34,580 --> 00:23:37,640
+Dans nos écoles,
+nous sommes bercés de vos exploits.
+
+256
+00:23:38,250 --> 00:23:40,510
+Pour beaucoup,
+vous êtes une légende.
+
+257
+00:23:40,750 --> 00:23:42,350
+Un rempart
+contre la sauvagerie.
+
+258
+00:23:43,420 --> 00:23:46,110
+Sachez que vous êtes
+un symbole de liberté.
+
+259
+00:23:46,460 --> 00:23:48,280
+Je suis
+touchée et honorée
+
+260
+00:23:48,590 --> 00:23:50,610
+de travailler
+avec vous, OSS 117.
+
+261
+00:23:53,010 --> 00:23:55,110
+Ravi d'avoir
+une si jolie secrétaire.
+
+262
+00:23:55,430 --> 00:23:56,280
+Pardon ?
+
+263
+00:23:56,600 --> 00:23:59,160
+Je suis ravi d'avoir
+une si jolie secrétaire.
+
+264
+00:24:00,480 --> 00:24:02,080
+Je ne suis pas
+votre secrétaire !
+
+265
+00:24:03,310 --> 00:24:04,880
+La secrétaire
+de qui, alors ?
+
+266
+00:24:06,110 --> 00:24:07,210
+De personne !
+
+267
+00:24:07,440 --> 00:24:10,090
+Je suis lieutenant-colonel
+de l'armée israélienne.
+
+268
+00:24:10,320 --> 00:24:13,470
+L'idée est que l'on travaille
+ensemble, d'égal à égal.
+
+269
+00:24:13,780 --> 00:24:16,760
+On en reparlera
+quand il faudra porter le matériel.
+
+270
+00:24:23,880 --> 00:24:25,090
+Si vous le désirez,
+
+271
+00:24:25,420 --> 00:24:27,190
+vous pouvez
+dormir ici, ce soir.
+
+272
+00:24:27,420 --> 00:24:29,770
+On ne sait jamais
+où sont vos assaillants.
+
+273
+00:24:30,010 --> 00:24:31,490
+Merci.
+- M. de la Bath.
+
+274
+00:24:31,800 --> 00:24:33,610
+Le microfilm
+ne nous intéresse pas.
+
+275
+00:24:33,840 --> 00:24:36,270
+Nous voulons von Zimmel.
+Je comprends.
+
+276
+00:24:36,640 --> 00:24:39,040
+Vous vous souvenez
+de l'enlèvement d'Eichmann ?
+
+277
+00:24:39,350 --> 00:24:42,460
+Nous voulons faire
+la même chose avec Zimmel.
+
+278
+00:24:42,690 --> 00:24:45,250
+L'enlever
+et le faire juger en Israël
+
+279
+00:24:45,560 --> 00:24:47,170
+pour ses crimes.
+Qui sont ?
+
+280
+00:24:47,480 --> 00:24:48,670
+Bah, qui sont...
+
+281
+00:24:49,740 --> 00:24:51,260
+La participation
+au génocide !
+
+282
+00:24:51,570 --> 00:24:53,630
+Ah, ça ? Ah oui...
+
+283
+00:24:54,450 --> 00:24:56,140
+Quelle histoire, ça aussi.
+
+284
+00:25:08,670 --> 00:25:11,320
+Nous partons
+à sa recherche ensemble.
+
+285
+00:25:11,630 --> 00:25:13,400
+A vous, le microfilm.
+A nous, Zimmel.
+
+286
+00:25:13,720 --> 00:25:15,150
+Bien sûr, vous serez seuls.
+
+287
+00:25:15,470 --> 00:25:16,490
+Épatant.
+
+288
+00:25:16,800 --> 00:25:20,360
+Demain, on part pour Tel-Aviv.
+On ne vous a jamais parlé.
+
+289
+00:25:20,680 --> 00:25:23,030
+On ne sait pas qui vous êtes.
+Habile.
+
+290
+00:25:23,350 --> 00:25:25,080
+Voulez-vous laisser
+l'argent ici ?
+
+291
+00:25:25,400 --> 00:25:29,120
+Non, l'argent de la France
+doit être gardé par des gens sûrs.
+
+292
+00:25:31,320 --> 00:25:32,590
+Quand je dis "sûrs",
+
+293
+00:25:32,900 --> 00:25:34,300
+ne le prenez pas
+pour vous.
+
+294
+00:25:34,530 --> 00:25:37,390
+N'allez pas croire
+que je me méfie par rapport...
+
+295
+00:25:37,990 --> 00:25:40,640
+à ce qu'on dit
+sur les juifs et l'argent, hein ?
+
+296
+00:25:41,410 --> 00:25:42,460
+Voulez-vous voir
+
+297
+00:25:42,790 --> 00:25:43,670
+votre chambre ?
+
+298
+00:25:44,000 --> 00:25:45,050
+Oui.
+
+299
+00:25:51,090 --> 00:25:52,820
+Pardon ! Bonsoir.
+
+300
+00:25:54,760 --> 00:25:56,240
+Pyjama, brosse à dents.
+
+301
+00:25:56,550 --> 00:25:59,150
+Je me servirai
+que de la brosse à dents.
+
+302
+00:26:00,140 --> 00:26:02,450
+Faites ce que vous voulez.
+Bonne nuit.
+
+303
+00:26:07,520 --> 00:26:09,330
+Merci pour la brosse,
+Dolorès.
+
+304
+00:26:09,650 --> 00:26:10,700
+Je vous en prie.
+
+305
+00:26:13,610 --> 00:26:14,660
+Bonne nuit.
+
+306
+00:26:14,990 --> 00:26:16,120
+Bonne nuit, les gars.
+
+307
+00:26:26,750 --> 00:26:28,390
+Belle soirée,
+n'est-ce pas ?
+
+308
+00:26:31,250 --> 00:26:34,810
+Je suis désolé.
+J'ai été très maladroit.
+
+309
+00:26:35,050 --> 00:26:37,480
+Sachez que je saurai
+me faire pardonner.
+
+310
+00:26:37,970 --> 00:26:39,270
+L'incident est clos.
+
+311
+00:26:39,510 --> 00:26:42,110
+Je me rends compte
+que j'ai été...
+
+312
+00:26:42,760 --> 00:26:43,870
+- Antisémite ?
+
+313
+00:26:44,100 --> 00:26:45,150
+Non !
+
+314
+00:26:45,980 --> 00:26:47,660
+Je pensais
+plutôt maladroit.
+
+315
+00:26:47,900 --> 00:26:49,110
+C'est une manière de dire.
+
+316
+00:26:49,440 --> 00:26:50,630
+Ne vous tracassez pas.
+
+317
+00:26:50,940 --> 00:26:52,670
+Il n'y avait pas
+de méchanceté.
+
+318
+00:26:52,900 --> 00:26:55,130
+D'autres ont déjà dit
+ce genre de bêtises.
+
+319
+00:26:55,360 --> 00:26:57,510
+Notre peuple nourrit
+beaucoup de fantasmes.
+
+320
+00:26:57,820 --> 00:26:59,510
+Voilà !
+Merci de le reconnaître.
+
+321
+00:26:59,740 --> 00:27:02,760
+Vous avez forcément
+une part de responsabilité.
+
+322
+00:27:03,080 --> 00:27:04,210
+Sans vouloir...
+
+323
+00:27:12,540 --> 00:27:13,900
+Bonne nuit à vous aussi.
+
+324
+00:27:19,720 --> 00:27:23,610
+Je propose qu'on commence
+par le Copacabana Palace.
+
+325
+00:27:23,930 --> 00:27:25,620
+J'ai mon attaché-case
+à y déposer.
+
+326
+00:27:25,850 --> 00:27:28,410
+Si vous voulez.
+Je vais enquêter de mon côté.
+
+327
+00:27:28,640 --> 00:27:31,670
+C'est dommage.
+Venez voir l'hôtel, au moins.
+
+328
+00:27:32,360 --> 00:27:34,840
+C'est gentil,
+mais je préfère travailler.
+
+329
+00:27:35,070 --> 00:27:37,410
+C'est ridicule.
+Il y a même une piscine.
+
+330
+00:27:37,650 --> 00:27:40,340
+On mettra
+un bon coup cet après-midi, non ?
+
+331
+00:27:40,570 --> 00:27:42,470
+Non merci,
+je ne préfère pas.
+
+332
+00:27:42,700 --> 00:27:44,470
+Retrouvons-nous
+à 13h pour un topo.
+
+333
+00:27:44,700 --> 00:27:45,890
+Comme
+vous voudrez.
+
+334
+00:27:46,700 --> 00:27:47,890
+A tantôt, alors.
+
+335
+00:28:07,020 --> 00:28:09,190
+Tu as tué mon frère
+à Gstaad. Tu vas mourir.
+
+336
+00:28:09,520 --> 00:28:10,370
+Pardon ?
+
+337
+00:28:10,690 --> 00:28:11,650
+Rififi à Rio
+
+338
+00:28:11,980 --> 00:28:13,460
+pour OSS 117.
+
+339
+00:28:14,270 --> 00:28:15,630
+- Herr Flantier?
+
+340
+00:28:16,940 --> 00:28:17,990
+Oui
+
+341
+00:28:18,320 --> 00:28:20,090
+Suivez-nous,
+Herr Flantier.
+
+342
+00:28:44,510 --> 00:28:45,810
+Ravi de vous revoir.
+
+343
+00:28:46,850 --> 00:28:49,620
+Je n'ai pas pu
+vous revoir, depuis Gstaad.
+
+344
+00:28:50,230 --> 00:28:51,660
+Je voulais vous remercier.
+
+345
+00:28:51,890 --> 00:28:53,080
+Très belle mission.
+
+346
+00:28:53,650 --> 00:28:54,700
+Très agréable.
+
+347
+00:28:57,650 --> 00:29:01,290
+Malgré tout, je n'ai pas pu
+tuer tous les chinetoques.
+
+348
+00:29:01,900 --> 00:29:03,040
+J'en suis désolé.
+
+349
+00:29:04,320 --> 00:29:07,260
+Je sais que vous détestez
+ces bouffeurs de riz.
+
+350
+00:29:11,410 --> 00:29:14,390
+Ils sont récalcitrants,
+ces faces de quetsche.
+
+351
+00:29:16,210 --> 00:29:18,230
+Ces tranches
+de pamplemousse.
+
+352
+00:29:20,210 --> 00:29:22,610
+Robustes,
+les têtes de prune.
+
+353
+00:29:25,930 --> 00:29:27,410
+Les cœurs d'ananas.
+
+354
+00:29:29,720 --> 00:29:31,200
+Les rondelles de citron.
+
+355
+00:29:34,390 --> 00:29:36,120
+Les bananes flambées.
+
+356
+00:29:36,810 --> 00:29:38,710
+Avant qu'elles soient
+flambées.
+
+357
+00:29:38,940 --> 00:29:40,040
+Les bananes, quoi.
+
+358
+00:29:41,860 --> 00:29:44,420
+Je descends là.
+
+359
+00:29:54,160 --> 00:29:57,350
+Les Allemands...
+Bah oui. Les Allemands!
+
+360
+00:30:07,760 --> 00:30:09,740
+Bonjour.
+Bonjour.
+
+361
+00:30:10,060 --> 00:30:12,200
+Serait-il possible,
+j'ignore si ça existe,
+
+362
+00:30:12,430 --> 00:30:16,460
+de consulter un registre
+d'anciens nazis établis au Brésil?
+
+363
+00:30:19,980 --> 00:30:22,880
+Il doit bien y avoir
+une amicale d'anciens nazis
+
+364
+00:30:23,110 --> 00:30:25,670
+ou un club,
+une association ?
+
+365
+00:30:28,780 --> 00:30:30,720
+Un mémorial nazi,
+peut-être ?
+
+366
+00:30:31,030 --> 00:30:32,930
+L'Allemagne
+est une démocratie.
+
+367
+00:30:33,160 --> 00:30:37,130
+Notre ambassade ignore
+les agissements d'anciens nazis.
+
+368
+00:30:37,620 --> 00:30:39,560
+Oui. Enfin,
+entre Allemands...
+
+369
+00:30:39,880 --> 00:30:41,520
+Tous ne sont pas nazis !
+
+370
+00:30:41,840 --> 00:30:42,890
+Oui...
+
+371
+00:30:43,380 --> 00:30:45,360
+Je connais
+cette théorie, oui.
+
+372
+00:30:46,090 --> 00:30:47,650
+Veuillez partir,
+monsieur.
+
+373
+00:30:47,970 --> 00:30:49,020
+Soit.
+
+374
+00:30:50,180 --> 00:30:51,280
+Chou blanc, donc.
+
+375
+00:30:56,140 --> 00:30:58,710
+La France reste
+le pays des 400 fromages.
+
+376
+00:30:59,020 --> 00:31:01,330
+Et "fromage", en brésilien ?
+Queijo.
+
+377
+00:31:03,610 --> 00:31:05,760
+Ça va, Hubert ?
+Tout se passe bien ?
+
+378
+00:31:06,900 --> 00:31:09,250
+Alors,
+vous avez progressé ?
+
+379
+00:31:09,990 --> 00:31:11,040
+Bah...
+
+380
+00:31:12,160 --> 00:31:14,060
+Je vous en prie.
+A vous d'abord.
+
+381
+00:31:14,290 --> 00:31:17,480
+Je suis agent secret,
+mais néanmoins français.
+
+382
+00:31:19,500 --> 00:31:21,980
+De mon côté,
+j'ai fait du bon travail.
+
+383
+00:31:22,210 --> 00:31:25,610
+La CIA a été en contact
+avec von Zimmel.
+
+384
+00:31:25,840 --> 00:31:28,570
+Il faut joindre son agent,
+un certain Bill Trumendous.
+
+385
+00:31:29,300 --> 00:31:30,350
+Bill?
+
+386
+00:31:32,180 --> 00:31:34,330
+Bravo, je suis
+très impressionné.
+
+387
+00:31:34,560 --> 00:31:36,790
+Nous sommes arrivés
+aux mêmes conclusions.
+
+388
+00:31:37,020 --> 00:31:39,610
+Avec, toutefois,
+un léger avantage pour moi.
+
+389
+00:31:39,850 --> 00:31:41,750
+Voici la carte
+de M. Trumendous.
+
+390
+00:31:44,400 --> 00:31:46,166
+Cheers
+
+391
+00:31:59,920 --> 00:32:02,180
+Ah... Sacré Hubert!
+
+392
+00:32:02,750 --> 00:32:03,800
+Bill...
+
+393
+00:32:05,130 --> 00:32:08,570
+Tu es toujours accompagné
+de jolies pépées.
+
+394
+00:32:08,800 --> 00:32:09,990
+Ce vieux Bill!
+
+395
+00:32:10,220 --> 00:32:11,650
+T'es toujours
+avec un petit paquet
+
+396
+00:32:11,970 --> 00:32:14,870
+et tu finis toujours
+par l'emballer.
+
+397
+00:32:15,560 --> 00:32:17,870
+Quelle chaleur!
+Ah oui.
+
+398
+00:32:18,350 --> 00:32:19,400
+Venez.
+
+399
+00:32:19,890 --> 00:32:22,410
+Wendy, amenez-nous
+3 Groovy coconuts.
+
+400
+00:32:22,650 --> 00:32:23,920
+Raccourcissez cette jupe.
+
+401
+00:32:24,150 --> 00:32:25,420
+Vous me donnez chaud.
+
+402
+00:32:27,530 --> 00:32:29,550
+Le Brésil a
+un climat mystérieux.
+
+403
+00:32:29,780 --> 00:32:31,470
+Les gens
+disparaissent.
+
+404
+00:32:32,740 --> 00:32:35,600
+Il a passé 20 ans ici.
+Il a dû laisser des traces.
+
+405
+00:32:43,170 --> 00:32:44,440
+Il y aurait bien...
+
+406
+00:32:44,750 --> 00:32:46,770
+Je ne sais pas si c'est...
+
+407
+00:32:47,090 --> 00:32:48,570
+Il y aurait bien quoi?
+
+408
+00:32:48,880 --> 00:32:51,310
+Son fils Heinrich est ici, à Rio.
+
+409
+00:32:51,930 --> 00:32:54,440
+Je crois qu'il habite
+dans la favela,
+
+410
+00:32:55,050 --> 00:32:57,650
+avec un groupe hippie,
+aux dernières nouvelles.
+
+411
+00:32:57,970 --> 00:32:58,740
+Un quoi?
+
+412
+00:32:59,060 --> 00:32:59,700
+Groupe hippie.
+
+413
+00:33:00,730 --> 00:33:01,860
+Grand Dieu !
+
+414
+00:33:02,730 --> 00:33:05,160
+Vivre dans l'urine,
+c'est affligeant.
+
+415
+00:33:05,520 --> 00:33:07,380
+Mais où va le monde...
+Non, non.
+
+416
+00:33:07,690 --> 00:33:09,340
+Dans un GROUPE hippie.
+
+417
+00:33:09,650 --> 00:33:12,510
+Ah, d'accord.
+Pas un gros pipi...
+
+418
+00:33:12,820 --> 00:33:13,510
+Attends.
+
+419
+00:33:13,820 --> 00:33:15,380
+J'ai peut-être la photo.
+
+420
+00:33:16,870 --> 00:33:18,760
+C'est
+Heinrich von Zimmel.
+
+421
+00:33:19,410 --> 00:33:20,180
+Oh!
+
+422
+00:33:21,370 --> 00:33:22,560
+Cette tignasse !
+
+423
+00:33:24,330 --> 00:33:25,940
+Quel est l'intérêt
+de ressembler
+
+424
+00:33:26,250 --> 00:33:27,520
+à une femme ?
+
+425
+00:33:28,500 --> 00:33:29,860
+Que veulent ces marginaux ?
+
+426
+00:33:32,380 --> 00:33:34,480
+Ils font ça
+en signe de protestation.
+
+427
+00:33:34,720 --> 00:33:36,450
+Ils veulent
+changer le monde.
+
+428
+00:33:39,430 --> 00:33:40,620
+Changer le monde ?
+
+429
+00:33:41,680 --> 00:33:42,990
+Quelle drôle d'idée ?
+
+430
+00:33:43,230 --> 00:33:45,370
+Il est très bien
+comme ça, le monde.
+
+431
+00:33:47,020 --> 00:33:49,420
+Ils veulent faire
+l'amour, pas la guerre.
+
+432
+00:33:49,650 --> 00:33:51,300
+Mais l'un
+n'empêche pas l'autre.
+
+433
+00:33:51,530 --> 00:33:54,970
+J'ai toujours fait les deux
+et je n'ai eu aucune plainte.
+
+434
+00:33:58,370 --> 00:34:00,710
+Sacré Hubert!
+You are so French!
+
+435
+00:34:01,040 --> 00:34:02,140
+Toi aussi.
+
+436
+00:34:04,500 --> 00:34:05,770
+Oh, ça va.
+
+437
+00:34:06,830 --> 00:34:08,400
+Vous n'avez
+aucun humour.
+
+438
+00:34:08,630 --> 00:34:10,230
+On dit de l'humour juif...
+
+439
+00:34:10,460 --> 00:34:12,560
+Ça n'a pas l'air
+d'être très rigolo.
+
+440
+00:34:13,970 --> 00:34:15,490
+Non, ce n'est pas très rigolo.
+
+441
+00:34:18,600 --> 00:34:19,650
+Ah bon ?
+
+442
+00:34:21,140 --> 00:34:23,700
+On peut faire de l'humour
+sans être rigolo ?
+
+443
+00:34:24,020 --> 00:34:26,360
+Vous y arrivez bien,
+dans votre style.
+
+444
+00:34:27,440 --> 00:34:28,490
+Hum ?
+
+445
+00:34:28,940 --> 00:34:29,990
+Oui.
+
+446
+00:34:36,570 --> 00:34:38,260
+Cette ville est magnifique.
+
+447
+00:34:41,990 --> 00:34:43,050
+Et je m'y connais.
+
+448
+00:34:44,750 --> 00:34:48,440
+Comment font les Brésiliens
+pour ne pas salir leurs souliers ?
+
+449
+00:34:48,750 --> 00:34:49,770
+Beaucoup n'en ont pas.
+
+450
+00:34:52,130 --> 00:34:53,770
+Elle est bonne, celle-là.
+
+451
+00:34:54,010 --> 00:34:55,570
+Pas de souliers...
+
+452
+00:34:55,880 --> 00:34:58,360
+La vie n'est pas facile
+pour les gens d'ici.
+
+453
+00:34:58,590 --> 00:35:00,410
+C'est le propre
+des dictatures.
+
+454
+00:35:00,640 --> 00:35:02,530
+Une dictature,
+comme vous y allez.
+
+455
+00:35:02,760 --> 00:35:05,910
+Vous êtes sympathique,
+mais pas fine en politique.
+
+456
+00:35:07,060 --> 00:35:09,410
+Savez-vous
+ce que c'est, une dictature ?
+
+457
+00:35:09,900 --> 00:35:12,160
+Primo, les gens
+sont communistes.
+
+458
+00:35:12,400 --> 00:35:15,710
+Ils ont des chapeaux gris
+et des chaussures noires.
+
+459
+00:35:15,940 --> 00:35:17,470
+C'est ça, une dictature.
+
+460
+00:35:17,700 --> 00:35:21,220
+Comment appelez-vous
+un pays dirigé par un militaire,
+
+461
+00:35:21,450 --> 00:35:24,640
+avec une police secrète
+et le contrôle de l'information ?
+
+462
+00:35:24,950 --> 00:35:26,810
+J'appelle ça la France,
+mademoiselle.
+
+463
+00:35:27,040 --> 00:35:29,550
+Et j'ajouterais
+celle du général de Gaulle.
+
+464
+00:35:37,550 --> 00:35:38,820
+Je crois que c'est là.
+
+465
+00:35:41,510 --> 00:35:43,120
+Où est
+Heinrich von Zimmel ?
+
+466
+00:35:45,680 --> 00:35:47,780
+Je répète.
+Où est Heinrich von Zimmel ?
+
+467
+00:35:48,100 --> 00:35:49,790
+Et pose
+ce transistor !
+
+468
+00:35:51,100 --> 00:35:53,670
+Il est crétin, ce môme.
+Laissez, Hubert.
+
+469
+00:36:16,380 --> 00:36:18,150
+Les hippies
+ne vivent plus ici.
+
+470
+00:36:18,380 --> 00:36:20,030
+Ils sont sur une plage.
+
+471
+00:36:20,260 --> 00:36:21,310
+Allons-y.
+
+472
+00:36:22,760 --> 00:36:23,810
+Au revoir.
+
+473
+00:36:26,680 --> 00:36:28,080
+Au revoir, les enfants.
+
+474
+00:36:33,270 --> 00:36:35,420
+Je vous ai vue
+parler avec la fillette
+
+475
+00:36:35,650 --> 00:36:36,700
+et je me suis dit
+
+476
+00:36:37,320 --> 00:36:39,380
+que vous étiez
+faite pour être mère.
+
+477
+00:36:39,610 --> 00:36:41,760
+Vous n'avez rien
+à faire dans ce métier.
+
+478
+00:36:41,990 --> 00:36:45,710
+Votre place est à la maison,
+à vous occuper de vos enfants.
+
+479
+00:36:46,830 --> 00:36:49,340
+C'est un compliment
+que je fais rarement,
+
+480
+00:36:50,160 --> 00:36:52,640
+mais vous avez l'étoffe
+d'une mère de famille.
+
+481
+00:36:52,880 --> 00:36:54,060
+Juste une question.
+
+482
+00:36:54,960 --> 00:36:56,010
+Bien sûr.
+
+483
+00:36:56,340 --> 00:36:57,560
+Vous me diriez tout ça
+
+484
+00:36:57,880 --> 00:36:58,900
+si j'étais un homme ?
+
+485
+00:36:59,130 --> 00:37:01,480
+Vous savez,
+les hommes sont rarement...
+
+486
+00:37:02,550 --> 00:37:05,410
+des... mères de famille.
+
+487
+00:37:13,150 --> 00:37:15,210
+Heinrich von Zimmel.
+Voilà mon plan.
+
+488
+00:37:15,520 --> 00:37:17,290
+Il est simple
+et efficace.
+
+489
+00:37:17,520 --> 00:37:18,790
+Vous voyez
+ce rocher ?
+
+490
+00:37:19,610 --> 00:37:23,380
+Amenez le gamin ici.
+Après, je m'occupe de tout.
+
+491
+00:37:23,610 --> 00:37:26,800
+Ne vous inquiétez pas,
+ça va bien se passer.
+
+492
+00:37:36,880 --> 00:37:39,360
+On est journalistes
+et on cherche ton père.
+
+493
+00:37:39,590 --> 00:37:40,610
+Où est-il ?
+
+494
+00:37:40,840 --> 00:37:43,270
+On n'avait pas dit comme ça.
+On fait comme ça.
+
+495
+00:37:43,510 --> 00:37:46,020
+Dis-moi où est ton père
+ou je t'explose.
+
+496
+00:37:46,260 --> 00:37:47,660
+Je sais pas
+où est mon père.
+
+497
+00:37:47,890 --> 00:37:50,200
+Je ne veux pas entendre ça.
+Moi non plus.
+
+498
+00:37:52,680 --> 00:37:54,410
+Promis,
+je vais vous aider.
+
+499
+00:37:55,150 --> 00:37:58,000
+Je sais où est
+l'ancien associé de mon père.
+
+500
+00:37:58,230 --> 00:38:00,130
+C'est à Brasilia.
+Je vous emmène.
+
+501
+00:38:02,360 --> 00:38:03,500
+Je veux vous aider,
+
+502
+00:38:03,820 --> 00:38:05,040
+qui que vous soyez.
+
+503
+00:38:07,320 --> 00:38:09,420
+Je hais mon père.
+C'est un nazi.
+
+504
+00:38:09,740 --> 00:38:11,140
+Mon père
+est un salaud.
+
+505
+00:38:12,700 --> 00:38:14,180
+J'ai honte d'être son fils.
+
+506
+00:38:15,580 --> 00:38:16,630
+Non, mais !
+
+507
+00:38:17,630 --> 00:38:19,060
+Comment
+tu parles de ton père !
+
+508
+00:38:19,380 --> 00:38:20,400
+T'as pas honte ?
+
+509
+00:38:20,630 --> 00:38:21,930
+Qui c'est
+qui t'a nourri?
+
+510
+00:38:22,260 --> 00:38:24,740
+Jamais je parlerais
+comme ça de mon père !
+
+511
+00:38:25,300 --> 00:38:28,490
+Mon père, il était charron.
+Crois-moi. Ça filait doux.
+
+512
+00:38:28,800 --> 00:38:29,990
+La mère,
+elle moufetait pas.
+
+513
+00:38:30,310 --> 00:38:31,410
+Les gamins pareil !
+
+514
+00:38:32,180 --> 00:38:33,540
+Son père était nazi.
+
+515
+00:38:33,850 --> 00:38:36,910
+Peut-être, mais
+c'était quand même son père.
+
+516
+00:38:38,810 --> 00:38:41,160
+Dites-moi.
+Votre père était charron ?
+
+517
+00:38:41,400 --> 00:38:43,090
+Du tout.
+Il était diplomate.
+
+518
+00:38:43,440 --> 00:38:46,170
+Non, c'était de la...
+torture psychologique.
+
+519
+00:38:47,660 --> 00:38:48,710
+Il avait parlé.
+
+520
+00:38:49,910 --> 00:38:53,550
+Oui, mais c'est
+son attitude de dénigrement.
+
+521
+00:38:53,790 --> 00:38:56,350
+Ça commence
+par les parents, la famille,
+
+522
+00:38:56,580 --> 00:38:58,840
+ensuite, c'est
+le drapeau, la patrie.
+
+523
+00:38:59,460 --> 00:39:01,150
+Hubert,
+son père était un SS.
+
+524
+00:39:01,380 --> 00:39:03,860
+Un nazi.
+Ce n'est pas tout à fait pareil.
+
+525
+00:39:04,090 --> 00:39:06,490
+Tous les nazis
+n'étaient pas SS, Dolorès.
+
+526
+00:39:06,720 --> 00:39:08,240
+Attention
+aux raccourcis.
+
+527
+00:39:08,550 --> 00:39:10,410
+Vous pouvez manger là.
+
+528
+00:39:10,720 --> 00:39:11,740
+Oui...
+Non, merci.
+
+529
+00:39:11,970 --> 00:39:13,020
+Mieux vaut rentrer.
+
+530
+00:39:13,350 --> 00:39:14,620
+Comme vous voudrez.
+
+531
+00:39:19,860 --> 00:39:21,670
+Si vous préférez,
+on se sépare.
+
+532
+00:39:21,980 --> 00:39:23,790
+Restez ici
+pour surveiller Heinrich.
+
+533
+00:39:25,860 --> 00:39:26,910
+Ce serait mieux ?
+
+534
+00:39:27,240 --> 00:39:27,970
+Peut-être.
+
+535
+00:39:29,320 --> 00:39:31,750
+Vous ne chercheriez pas
+a vous débarrasser de moi ?
+
+536
+00:39:32,080 --> 00:39:32,850
+Non.
+
+537
+00:39:35,790 --> 00:39:37,480
+Je plaisante, Dolorès.
+
+538
+00:39:37,830 --> 00:39:39,100
+Je me doute bien.
+
+539
+00:39:57,180 --> 00:39:58,660
+Vous faites
+aussi des quiches ?
+
+540
+00:39:58,890 --> 00:40:00,830
+- Des quoi ?
+- Des quiches lorraines.
+
+541
+00:40:01,060 --> 00:40:03,160
+- Bye.
+- Bye.
+
+542
+00:40:07,820 --> 00:40:09,340
+Ah ? Merci.
+
+543
+00:40:09,990 --> 00:40:11,590
+- C'est quoi ?
+- LSD.
+
+544
+00:40:11,820 --> 00:40:12,840
+Très bien.
+
+545
+00:40:13,080 --> 00:40:14,970
+J'avais refermé l'obturateur.
+
+546
+00:40:15,200 --> 00:40:18,140
+Vu que j'ai mis
+du 200 ASA, avec la lumière...
+
+547
+00:40:18,370 --> 00:40:19,480
+ça va bien rendre.
+
+548
+00:40:23,630 --> 00:40:24,810
+Changer le monde...
+
+549
+00:40:25,130 --> 00:40:28,280
+C'est sympathique,
+mais faudrait vous lever le matin.
+
+550
+00:40:28,590 --> 00:40:31,820
+Le monde vous attend pas.
+Le monde, il bouge.
+
+551
+00:40:32,140 --> 00:40:33,160
+Et il bouge vite.
+
+552
+00:40:33,390 --> 00:40:35,450
+Vous allez rester sur le carreau.
+
+553
+00:40:35,740 --> 00:40:37,070
+Vous êtes en vacances,
+
+554
+00:40:37,600 --> 00:40:38,830
+mais à la rentrée...
+
+555
+00:40:39,060 --> 00:40:40,650
+- On n'est pas en vacances.
+
+556
+00:40:40,770 --> 00:40:42,210
+- OK, Admettons.
+
+557
+00:40:42,520 --> 00:40:44,290
+Vous avez pris
+une année sabbatique.
+
+558
+00:40:44,520 --> 00:40:45,710
+L'année prochaine,
+
+559
+00:40:46,650 --> 00:40:47,920
+vous y avez pensé ?
+
+560
+00:40:48,490 --> 00:40:50,630
+Le monde va pas
+se plier à vos désirs.
+
+561
+00:40:50,950 --> 00:40:53,720
+C'est pas 68,
+année de la jeunesse.
+
+562
+00:40:53,950 --> 00:40:55,340
+Ça se passe pas comme ça.
+
+563
+00:40:55,830 --> 00:40:56,850
+Dans le vrai monde,
+
+564
+00:40:57,080 --> 00:41:00,060
+on va chez le coiffeur, déjà.
+
+565
+00:41:00,370 --> 00:41:02,770
+Alors, la guitare,
+les troubadours...
+
+566
+00:41:03,080 --> 00:41:05,430
+c'est fini.
+Non merci, j'ai les miennes.
+
+567
+00:41:12,680 --> 00:41:14,070
+Je disais quoi?
+
+568
+00:41:14,390 --> 00:41:15,780
+Fini, les troubadours.
+
+569
+00:41:16,100 --> 00:41:17,150
+Oui, c'est ça.
+
+570
+00:41:18,140 --> 00:41:19,440
+Pourquoi je disais ça ?
+
+571
+00:41:19,770 --> 00:41:20,820
+Ça, je sais pas.
+
+572
+00:41:21,690 --> 00:41:23,370
+Arrête, tu me déçois.
+
+573
+00:41:24,100 --> 00:41:25,960
+Je devais dire un truc...
+
+574
+00:43:40,950 --> 00:43:42,000
+Euh...
+
+575
+00:43:42,530 --> 00:43:44,060
+J'aime ce qui se passe.
+
+576
+00:43:44,290 --> 00:43:47,560
+On est d'accord.
+Ça reste entre nous, hein ?
+
+577
+00:43:47,790 --> 00:43:49,810
+C'est pas...
+Vous comprenez ?
+
+578
+00:43:50,040 --> 00:43:53,020
+Les gens sont pas
+obligés de savoir tout ça.
+
+579
+00:43:53,250 --> 00:43:56,110
+Sorti de son contexte,
+un doigt dans les fesses...
+
+580
+00:43:59,260 --> 00:44:00,480
+Je préfère que ce soit clair.
+
+581
+00:44:00,720 --> 00:44:04,520
+On a tendance parfois
+à se faire des idées...
+
+582
+00:44:22,160 --> 00:44:23,260
+Étrange.
+
+583
+00:44:26,330 --> 00:44:27,630
+Je ne reconnais pas
+
+584
+00:44:27,960 --> 00:44:29,730
+la route de Brasilia.
+
+585
+00:44:30,040 --> 00:44:31,230
+Rien de spécial,
+hier soir ?
+
+586
+00:44:31,460 --> 00:44:34,360
+Impeccable.
+J'ai passé une soirée tranquille.
+
+587
+00:44:34,590 --> 00:44:37,780
+J'ai pris du SVP
+et j'ai dormi comme un bébé.
+
+588
+00:44:38,010 --> 00:44:39,280
+Très bien.
+Hum, hum.
+
+589
+00:44:39,760 --> 00:44:42,410
+Cette bande de hippies
+est fort sympathique.
+
+590
+00:44:42,800 --> 00:44:45,060
+Une fois passée
+la barrière de l'hygiène.
+
+591
+00:44:45,310 --> 00:44:46,780
+Enfin,
+que voulez-vous ?
+
+592
+00:44:47,770 --> 00:44:49,070
+C'est la jeunesse.
+
+593
+00:44:49,310 --> 00:44:52,160
+Tôt ou tard, la vie va
+leur couper les cheveux.
+
+594
+00:44:56,440 --> 00:44:58,420
+Dolorès,
+je voulais vous demander...
+
+595
+00:44:58,650 --> 00:45:00,420
+- On ne bou'e plus!
+
+596
+00:45:02,570 --> 00:45:04,510
+T'as tué
+mon frère à Gstaâ !
+
+597
+00:45:05,120 --> 00:45:06,250
+Tu vas mourir!
+
+598
+00:45:08,660 --> 00:45:09,710
+Qu'est-ce
+qu'il vous veut?
+
+599
+00:45:09,960 --> 00:45:11,350
+Je l'ignore.
+Je ne le connais pas.
+
+600
+00:45:13,540 --> 00:45:16,770
+Cet avion sera
+ton cercueil, OSS 117.
+
+601
+00:45:25,390 --> 00:45:26,440
+Fermé !
+
+602
+00:45:27,180 --> 00:45:28,230
+Il a pris la clé.
+
+603
+00:45:28,560 --> 00:45:30,950
+Avec les compliments de M. Li.
+
+604
+00:45:35,860 --> 00:45:37,790
+Auriez-vous
+une aiguille à tricoter ?
+
+605
+00:45:38,030 --> 00:45:39,080
+Non.
+
+606
+00:45:40,150 --> 00:45:42,250
+Une clé, peut-être.
+Non.
+
+607
+00:45:45,620 --> 00:45:47,300
+Une épingle ?
+Non plus.
+
+608
+00:45:47,620 --> 00:45:49,220
+Une baleine ?
+Je ne porte pas
+
+609
+00:45:49,540 --> 00:45:50,670
+de soutien-gorge.
+
+610
+00:45:51,830 --> 00:45:53,520
+J'ai une épingle
+à cheveux.
+
+611
+00:45:57,840 --> 00:45:58,770
+Dépêchez-vous.
+
+612
+00:46:11,600 --> 00:46:13,120
+Pourquoi vous n'en portez pas ?
+
+613
+00:46:13,350 --> 00:46:15,000
+De ?
+De soutien-gorge.
+
+614
+00:46:15,310 --> 00:46:16,420
+Parce que.
+Parce que quoi?
+
+615
+00:46:16,650 --> 00:46:19,080
+Mon corps m'appartient.
+Ce n'est pas le moment
+
+616
+00:46:19,400 --> 00:46:20,450
+de parler de ça.
+
+617
+00:46:21,070 --> 00:46:23,410
+Quel intérêt
+de ressembler à un homme ?
+
+618
+00:46:23,650 --> 00:46:24,710
+Curieux.
+
+619
+00:46:25,700 --> 00:46:26,750
+Ouvert.
+
+620
+00:46:30,290 --> 00:46:30,970
+Ca va ?
+
+621
+00:46:31,290 --> 00:46:34,180
+Oui, sauf que l'avion
+fonce sur les arbres.
+
+622
+00:46:34,410 --> 00:46:36,510
+On oublie
+le train d'atterrissage.
+
+623
+00:46:37,500 --> 00:46:39,600
+Y a quoi qui va ?
+Le fait que je sois là.
+
+624
+00:46:39,920 --> 00:46:40,690
+Mon Dieu !
+
+625
+00:46:41,840 --> 00:46:42,720
+Merci.
+
+626
+00:46:46,390 --> 00:46:47,320
+On arrive ?
+
+627
+00:47:01,610 --> 00:47:03,920
+Dépêchez-vous,
+l'avion va exploser.
+
+628
+00:47:24,130 --> 00:47:25,270
+Merci, Noël.
+
+629
+00:47:25,510 --> 00:47:27,320
+Allons donc.
+Beau travail.
+
+630
+00:47:27,630 --> 00:47:30,820
+- Ce Chinois m'intrigue.
+Ce n'est pas un homme
+
+631
+00:47:31,140 --> 00:47:33,370
+de von Zimmel.
+Quoi que...
+
+632
+00:47:35,060 --> 00:47:38,210
+C'est lesquels les Chinois
+qui étaient alliés aux nazis ?
+
+633
+00:47:38,560 --> 00:47:39,750
+Les Japonais ?
+
+634
+00:47:40,440 --> 00:47:42,840
+Oui, les Japonais.
+Au temps pour moi.
+
+635
+00:47:43,480 --> 00:47:45,340
+J'avais un embryon
+de piste, mais non.
+
+636
+00:47:45,570 --> 00:47:48,550
+Si ce sont des Chinois
+de Chine, ça ne va plus.
+
+637
+00:48:09,590 --> 00:48:11,740
+Encore merci
+pour tout à l'heure.
+
+638
+00:48:12,050 --> 00:48:14,230
+Je suis fière de faire
+cette mission avec vous.
+
+639
+00:48:14,560 --> 00:48:15,610
+Je comprends.
+
+640
+00:48:16,640 --> 00:48:18,740
+A ce propos,
+je voulais vous dire...
+
+641
+00:48:19,730 --> 00:48:23,000
+Je sais que vous êtes
+admirative de moi, de ma carrière.
+
+642
+00:48:23,230 --> 00:48:26,630
+Vous savez que j'ai toujours
+été un rempart a la barbarie.
+
+643
+00:48:26,940 --> 00:48:29,210
+Malheureusement,
+tout cela a un prix.
+
+644
+00:48:29,530 --> 00:48:31,620
+Dolorès, je vais
+être un peu brutal.
+
+645
+00:48:32,490 --> 00:48:35,430
+S'il devait se passer
+quelque chose entre nous...
+
+646
+00:48:38,160 --> 00:48:41,020
+Il m'est impossible
+de m'engager avec une femme.
+
+647
+00:48:42,170 --> 00:48:45,060
+Avec moi, les histoires
+d'amour sont brèves,
+
+648
+00:48:45,920 --> 00:48:48,180
+courtes,
+compactes, passionnelles.
+
+649
+00:48:49,420 --> 00:48:51,490
+Je ne sais pas
+vivre autrement.
+
+650
+00:48:52,510 --> 00:48:54,450
+D'aucuns ont des aventures.
+
+651
+00:48:55,310 --> 00:48:56,660
+Je suis une aventure.
+
+652
+00:48:57,270 --> 00:48:58,790
+Je me devais
+de vous en prévenir.
+
+653
+00:48:59,020 --> 00:49:01,610
+C'est...
+Mais c'est très aimable.
+
+654
+00:49:02,190 --> 00:49:03,240
+Merci, Hubert.
+
+655
+00:49:04,770 --> 00:49:05,960
+Je vous en prie.
+
+656
+00:49:07,650 --> 00:49:08,750
+Vous êtes aimable.
+
+657
+00:49:11,490 --> 00:49:12,680
+Que se passe-t-il ?
+
+658
+00:49:13,450 --> 00:49:14,470
+Rien.
+
+659
+00:49:14,700 --> 00:49:15,920
+Vous n'aimez pas
+les hommes.
+
+660
+00:49:16,240 --> 00:49:17,210
+Si, pourquoi ?
+
+661
+00:49:17,540 --> 00:49:19,140
+Vous retirez
+votre main comme si...
+
+662
+00:49:19,450 --> 00:49:20,310
+N'en parlons plus.
+
+663
+00:49:21,920 --> 00:49:23,640
+C'est parce que
+je ne suis pas juif ?
+
+664
+00:49:23,960 --> 00:49:25,180
+Pourquoi vous dites ça ?
+
+665
+00:49:25,500 --> 00:49:27,570
+Vous avez
+une religion tellement...
+
+666
+00:49:27,880 --> 00:49:28,760
+Quoi ?
+
+667
+00:49:29,090 --> 00:49:31,650
+Déjà, elle interdit
+les saucisses, non ?
+
+668
+00:49:31,970 --> 00:49:32,850
+Et?
+
+669
+00:49:33,890 --> 00:49:34,940
+Et rien.
+
+670
+00:49:35,350 --> 00:49:37,580
+Faisons comme si
+c'était normal, hein.
+
+671
+00:49:37,810 --> 00:49:40,040
+Pas d'alcool,
+les femmes voilées.
+
+672
+00:49:40,730 --> 00:49:42,080
+C'est quand même...
+
+673
+00:49:45,110 --> 00:49:48,040
+Ça fait un peu
+Jacques-a-dit pas de charcuterie.
+
+674
+00:49:48,360 --> 00:49:49,380
+Je ne trouve pas.
+
+675
+00:49:49,610 --> 00:49:51,700
+Vous confondez
+les juifs et les musulmans.
+
+676
+00:49:52,030 --> 00:49:53,590
+Vous jouez sur les mots.
+
+677
+00:49:54,070 --> 00:49:56,970
+De vous à moi,
+c'est ça qui agace les gens.
+
+678
+00:49:57,200 --> 00:49:59,970
+Le côté : je suis juif
+et j'ai raison surtout.
+
+679
+00:50:00,290 --> 00:50:02,850
+Désolée si je vous ai vexé.
+Je ne m'excuserai pas.
+
+680
+00:50:03,330 --> 00:50:06,480
+Quant à vos analyses
+sur les juifs, les noirs, les femmes,
+
+681
+00:50:06,710 --> 00:50:09,060
+je vous remercie
+de les garder pour vous.
+
+682
+00:50:11,380 --> 00:50:14,400
+C'est plutôt vous
+qui avez l'air vexé.
+
+683
+00:50:32,240 --> 00:50:34,750
+- On peut traverser ?
+- Négatif.
+
+684
+00:50:35,070 --> 00:50:36,430
+C'est un fleuve
+à crocodiles.
+
+685
+00:50:36,660 --> 00:50:38,430
+On ne peut pas
+le traverser à la nage.
+
+686
+00:50:38,740 --> 00:50:40,430
+On doit trouver
+un moyen de passer.
+
+687
+00:50:40,740 --> 00:50:43,140
+Oui, mais là,
+nous sommes bloqués.
+
+688
+00:50:43,370 --> 00:50:45,270
+Vous voyez,
+on ne peut pas traverser !
+
+689
+00:50:45,500 --> 00:50:47,310
+En attendant
+de trouver un moyen,
+
+690
+00:50:47,540 --> 00:50:50,140
+retournons à la rivière
+pour bivouaquer. OK ?
+
+691
+00:50:51,000 --> 00:50:52,060
+Pas d'objection.
+
+692
+00:50:53,920 --> 00:50:55,860
+Ça a l’air joli,
+par ici.
+
+693
+00:50:56,340 --> 00:50:58,200
+On va passer la nuit ici.
+
+694
+00:50:59,100 --> 00:51:00,950
+Voilà comment
+ça va se passer.
+
+695
+00:51:01,180 --> 00:51:02,660
+Moi, je vais chasser.
+
+696
+00:51:02,890 --> 00:51:05,290
+Heinrich,
+tu vas couper du bois.
+
+697
+00:51:06,230 --> 00:51:09,870
+Dolorès, soyez gentille.
+Faites-nous une belle table.
+
+698
+00:51:12,820 --> 00:51:14,040
+Qu'est-ce qu'il fout ?
+
+699
+00:51:14,360 --> 00:51:16,090
+Je vais me laver.
+
+700
+00:51:22,200 --> 00:51:24,850
+Il va attraper
+plein de microbes.
+
+701
+00:51:30,670 --> 00:51:31,860
+Tu vois, Noël ?
+
+702
+00:51:32,340 --> 00:51:36,190
+C'est peut-être ça,
+"changer le monde".
+
+703
+00:51:39,800 --> 00:51:40,860
+- Attention,
+
+704
+00:51:41,180 --> 00:51:42,150
+Heinrich !
+
+705
+00:51:46,640 --> 00:51:48,540
+Merci, Noël.
+J'oublierai jamais.
+
+706
+00:51:48,770 --> 00:51:49,790
+Je t'en prie.
+
+707
+00:51:50,020 --> 00:51:52,670
+On a scellé un pacte.
+D'accord.
+
+708
+00:51:52,900 --> 00:51:56,540
+Si tu veux changer le monde,
+fais attention aux crocodiles.
+
+709
+00:51:57,570 --> 00:52:00,000
+Tu peux me demander
+ce que tu veux.
+
+710
+00:52:05,620 --> 00:52:07,520
+Commence
+par remettre ton slip.
+
+711
+00:52:08,210 --> 00:52:09,260
+OK.
+
+712
+00:52:17,220 --> 00:52:18,610
+Il fait moins le malin.
+
+713
+00:52:19,470 --> 00:52:21,860
+Dolorès, vous pouvez
+vous occuper du dîner.
+
+714
+00:52:22,180 --> 00:52:24,830
+Que voulez-vous
+que je fasse de ça ?
+
+715
+00:52:25,520 --> 00:52:28,110
+Je sais pas.
+Débrouillez-vous. Faites simple.
+
+716
+00:52:28,350 --> 00:52:29,620
+Personne ne va vous juger.
+
+717
+00:52:29,940 --> 00:52:31,290
+Me juger de quoi?
+
+718
+00:52:31,980 --> 00:52:34,410
+Je ne vais pas faire à manger,
+ni dresser la table.
+
+719
+00:52:34,650 --> 00:52:36,250
+On juge une femme
+sur sa cuisine ?
+
+720
+00:52:37,150 --> 00:52:38,550
+Écoutez, mon petit...
+
+721
+00:52:39,700 --> 00:52:41,090
+J'ai fait
+mon boulot, moi.
+
+722
+00:52:41,320 --> 00:52:43,220
+J'ai redressé l'avion,
+je vous ai sauvés.
+
+723
+00:52:43,530 --> 00:52:45,220
+là, je viens
+de tuer un croco.
+
+724
+00:52:45,580 --> 00:52:47,920
+Vous voulez l'égalité,
+alors, au boulot.
+
+725
+00:52:48,160 --> 00:52:49,890
+Faites-nous
+au moins à manger.
+
+726
+00:52:50,120 --> 00:52:51,180
+- Elle a raison.
+
+727
+00:52:51,500 --> 00:52:52,440
+On mange pas ça.
+
+728
+00:52:52,750 --> 00:52:53,940
+Elle a raison ?
+
+729
+00:52:54,250 --> 00:52:55,820
+Pas la peine
+de dramatiser, Noël.
+
+730
+00:52:56,130 --> 00:52:59,530
+En effet, ton monde
+change bien vite.
+
+731
+00:52:59,840 --> 00:53:01,530
+Je vais
+m'occuper du dîner.
+
+732
+00:53:01,760 --> 00:53:04,110
+J'ai repéré des baies
+un peu plus haut.
+
+733
+00:53:05,350 --> 00:53:06,620
+Je viens
+avec vous.
+
+734
+00:53:07,810 --> 00:53:08,940
+Bah, tiens !
+
+735
+00:53:23,870 --> 00:53:24,920
+Tiens, Noël.
+
+736
+00:53:25,240 --> 00:53:27,390
+Tu veux pas des fruits ?
+C'est très bon.
+
+737
+00:53:27,700 --> 00:53:30,430
+Non merci !
+J'ai besoin de vitamines, moi.
+
+738
+00:53:30,750 --> 00:53:31,600
+C'est ridicule.
+
+739
+00:53:31,920 --> 00:53:33,810
+Oui, évidemment.
+
+740
+00:53:34,500 --> 00:53:36,190
+C'est moi qui suis ridicule.
+
+741
+00:53:42,840 --> 00:53:45,780
+Mais... ça cuit pas,
+cette connerie.
+
+742
+00:53:47,310 --> 00:53:48,780
+Pourquoi ça cuit pas ?
+
+743
+00:54:02,700 --> 00:54:03,750
+Ça va ? Ça cuit ?
+
+744
+00:54:04,070 --> 00:54:05,120
+Doucement.
+
+745
+00:54:05,620 --> 00:54:08,510
+La peau de crocodile,
+ça met du temps à rôtir.
+
+746
+00:54:08,740 --> 00:54:09,800
+Vous voulez quoi?
+
+747
+00:54:10,830 --> 00:54:12,310
+Je voulais faire la paix.
+
+748
+00:54:13,210 --> 00:54:14,980
+On est tous très fatigués.
+
+749
+00:54:15,670 --> 00:54:17,760
+On a intérêt
+à se serrer les coudes.
+
+750
+00:54:18,090 --> 00:54:20,150
+Vous avez
+qu'à demander à Heinrich.
+
+751
+00:54:20,380 --> 00:54:23,570
+Je suis sûr qu'il sera
+ravi de vous les serrer.
+
+752
+00:54:23,880 --> 00:54:25,320
+Je comprends pas
+votre réaction.
+
+753
+00:54:25,640 --> 00:54:28,530
+J'ai du mal à voir
+un lieutenant-colonel israélien
+
+754
+00:54:28,760 --> 00:54:30,620
+flirter avec un fils de nazi.
+
+755
+00:54:31,930 --> 00:54:33,790
+Excusez-moi
+d'avoir un peu de morale.
+
+756
+00:54:34,100 --> 00:54:35,150
+Pauvre type !
+
+757
+00:54:37,610 --> 00:54:38,660
+Bravo !
+
+758
+00:54:40,150 --> 00:54:41,670
+Très drôle! Bravo!
+
+759
+00:54:57,330 --> 00:54:58,390
+Ah!
+
+760
+00:55:12,640 --> 00:55:14,620
+- Enfin, nous y voilà!
+
+761
+00:55:14,850 --> 00:55:17,280
+Ravie d'avoir pu
+traverser la rivière.
+
+762
+00:55:17,520 --> 00:55:20,790
+Quelle chance que
+vous ayez construit ce pédalo.
+
+763
+00:55:21,610 --> 00:55:23,920
+Je suis désolée
+pour la tête du canard.
+
+764
+00:55:24,950 --> 00:55:27,370
+Mais ça nous aurait
+pris bien trop de temps.
+
+765
+00:55:27,610 --> 00:55:30,210
+Ça ne prenait pas
+plus de temps!
+
+766
+00:55:31,240 --> 00:55:33,720
+Le plus difficile,
+c'est la partie pédalo.
+
+767
+00:55:33,950 --> 00:55:37,100
+La partie canard,
+c'est un bec... Ça suffit!
+
+768
+00:55:38,380 --> 00:55:40,720
+L'important,
+c'est de trouver un hôtel.
+
+769
+00:55:42,840 --> 00:55:44,140
+Voilà
+qui est fait.
+
+770
+00:55:48,840 --> 00:55:51,270
+J'ai eu l'associé
+de mon père au téléphone.
+
+771
+00:55:51,510 --> 00:55:52,700
+On peut le voir
+dès ce soir.
+
+772
+00:55:53,020 --> 00:55:55,190
+Il a organisé un bal costumé.
+
+773
+00:55:55,520 --> 00:55:57,040
+Ça, c'est problématique.
+
+774
+00:55:59,480 --> 00:56:02,210
+On ira déguisés.
+Ça peut être amusant.
+
+775
+00:56:02,520 --> 00:56:04,340
+Très ! Mais on n'y va pas pour ça.
+
+776
+00:56:04,650 --> 00:56:05,700
+Non, bien sûr...
+
+777
+00:56:17,710 --> 00:56:19,480
+Il est temps
+de se mettre au travail.
+
+778
+00:56:19,710 --> 00:56:23,020
+Rendez-vous dans le hall
+d'ici '1/2 h, en costume.
+
+779
+00:56:23,630 --> 00:56:26,820
+Pour les drinks, c'est déjà payé.
+
+780
+00:56:48,400 --> 00:56:49,800
+Comment
+vous avez fait?
+
+781
+00:56:51,490 --> 00:56:52,540
+Je couds.
+
+782
+00:56:53,700 --> 00:56:56,350
+D'ailleurs, tenez.
+C'est pour vous.
+
+783
+00:56:56,660 --> 00:56:59,560
+Faisons une trêve.
+Nos deux pays sont amis.
+
+784
+00:56:59,870 --> 00:57:00,600
+D'accord ?
+
+785
+00:57:00,920 --> 00:57:02,440
+Oui, vous avez raison.
+
+786
+00:57:04,040 --> 00:57:05,310
+Voilà, cadeau...
+
+787
+00:57:06,260 --> 00:57:07,310
+de Noël !
+
+788
+00:57:08,300 --> 00:57:09,350
+Merci.
+
+789
+00:57:10,720 --> 00:57:12,530
+J'ai dit
+"cadeau de Noël".
+
+790
+00:57:13,680 --> 00:57:15,070
+C'est mon prénom...
+
+791
+00:57:15,390 --> 00:57:16,990
+-J'avais compris.
+-M'oui
+
+792
+00:57:17,810 --> 00:57:19,030
+Sinon...
+
+793
+00:57:21,060 --> 00:57:22,500
+y a aussi les boules.
+
+794
+00:57:24,570 --> 00:57:26,000
+De Noël?
+Oui.
+
+795
+00:57:36,030 --> 00:57:37,810
+Mais si.
+C'est rigolo, hein ?
+
+796
+00:57:38,120 --> 00:57:39,850
+Ça suffit!
+Oui...
+
+797
+00:57:42,370 --> 00:57:44,940
+Il faut absolument
+que j'appelle Armand.
+
+798
+00:57:48,710 --> 00:57:49,930
+Ça m'est venu comme ça.
+
+799
+00:57:50,170 --> 00:57:53,780
+Je me suis souvenu
+que je m'appelais Noël, et paf.
+
+800
+00:57:54,010 --> 00:57:55,360
+Les boules de Noël.
+
+801
+00:57:55,600 --> 00:57:59,040
+En plus, j'ai dû lui montrer
+mon bazar en même temps.
+
+802
+00:57:59,640 --> 00:58:03,530
+Alors, je me suis dit:
+"Ça, c'est pour Armand."
+
+803
+00:58:04,520 --> 00:58:05,740
+Bon...
+
+804
+00:58:06,230 --> 00:58:08,130
+J'y vais.
+Y a un nazi dans l'hôtel.
+
+805
+00:58:08,360 --> 00:58:10,420
+Non,
+c'est Heinrich, mon ami.
+
+806
+00:58:10,650 --> 00:58:12,800
+Je vous rappelle.
+Au revoir.
+
+807
+00:58:15,200 --> 00:58:16,250
+Oui, c'est...
+
+808
+00:58:16,580 --> 00:58:17,880
+C'est pas trop...
+
+809
+00:58:18,200 --> 00:58:20,710
+Non, c'est bien.
+J'aurais bien pris autre chose,
+
+810
+00:58:21,040 --> 00:58:23,300
+mais le loueur
+n'avait plus que ça.
+
+811
+00:58:24,580 --> 00:58:26,900
+Ça vient de chez le loueur.
+Ah, d'accord.
+
+812
+00:58:27,130 --> 00:58:28,230
+Je me disais aussi.
+
+813
+00:58:35,590 --> 00:58:36,990
+J'avais fait ça pour...
+
+814
+00:58:38,680 --> 00:58:40,080
+C'est un signe de paix.
+
+815
+00:58:41,180 --> 00:58:43,960
+Vous voyez ?
+C'est toujours notre Heinrich.
+
+816
+00:58:44,850 --> 00:58:46,250
+Allez, n'y pensez plus.
+
+817
+00:58:46,860 --> 00:58:48,790
+C'est jamais
+qu'un costume nazi.
+
+818
+00:58:55,660 --> 00:58:57,590
+C'est
+parce qu'elle est juive.
+
+819
+00:59:11,880 --> 00:59:13,020
+Nous y voilà.
+
+820
+00:59:15,760 --> 00:59:16,950
+Ça sent
+le piège.
+
+821
+00:59:17,180 --> 00:59:19,520
+Pas sûr.
+Ne voyez pas le mal partout.
+
+822
+00:59:19,890 --> 00:59:22,700
+Ils ont tous eu la même idée.
+Sans doute !
+
+823
+00:59:22,930 --> 00:59:25,960
+Ou alors, ils ont été
+chez le même loueur que Heinrich.
+
+824
+00:59:26,190 --> 00:59:28,450
+Possible.
+Plus difficile à croire.
+
+825
+00:59:40,780 --> 00:59:42,810
+Je vais voir
+l'associé de mon père.
+
+826
+00:59:54,550 --> 00:59:55,600
+- Dolorès.
+
+827
+00:59:55,920 --> 00:59:57,200
+Je vous dois
+des excuses.
+
+828
+00:59:57,430 --> 00:59:59,850
+Vous auriez raison.
+C'est un piège.
+
+829
+01:00:00,100 --> 01:00:01,150
+Sans blague ?
+
+830
+01:00:02,220 --> 01:00:05,370
+Essayons de ne pas
+nous faire remarquer.
+
+831
+01:00:10,810 --> 01:00:12,880
+Vous avez un plan
+pour sortir d'ici?
+
+832
+01:00:13,110 --> 01:00:14,670
+Je suis en phase
+d'analyse.
+
+833
+01:00:14,990 --> 01:00:16,760
+Vous pensez
+en sortir bientôt?
+
+834
+01:00:23,310 --> 01:00:23,710
+Regardez!
+
+835
+01:00:24,160 --> 01:00:25,680
+Le professeur
+von Zimmel !
+
+836
+01:00:26,370 --> 01:00:27,810
+Il ne nous a pas
+encore vus.
+
+837
+01:00:28,120 --> 01:00:31,400
+Pardonnez-moi
+d'interrompre la musique,
+
+838
+01:00:31,630 --> 01:00:33,860
+mais nous avons
+un invité de marque
+
+839
+01:00:34,170 --> 01:00:36,230
+que j'aimerais accueillir.
+
+840
+01:00:36,550 --> 01:00:38,440
+Je vous demande d'accueillir
+
+841
+01:00:38,760 --> 01:00:39,980
+M. Noël Flantier!
+
+842
+01:00:44,640 --> 01:00:46,660
+Il ne connaît pas
+ma vraie identité.
+
+843
+01:00:46,980 --> 01:00:49,040
+Que nous connaissons
+mieux sous le nom
+
+844
+01:00:49,350 --> 01:00:50,660
+de OSS 117!
+
+845
+01:00:56,900 --> 01:00:57,790
+Heinrich ?
+
+846
+01:00:58,110 --> 01:00:59,590
+Il n'y a plus de Heinrich.
+
+847
+01:01:04,080 --> 01:01:05,930
+Je suis Friedrich !
+
+848
+01:01:06,250 --> 01:01:08,100
+Ça, alors ! Heinrich ?
+
+849
+01:01:09,160 --> 01:01:10,220
+Un postiche ?
+
+850
+01:01:10,540 --> 01:01:13,900
+Noël, il y a un point
+sur lequel je ne t'ai pas menti.
+
+851
+01:01:14,130 --> 01:01:16,190
+Sur ma volonté
+de changer le monde !
+
+852
+01:01:16,510 --> 01:01:18,190
+Que voulez-vous
+von Zimmel ?
+
+853
+01:01:18,670 --> 01:01:20,440
+Que signifie
+cette réunion sordide ?
+
+854
+01:01:20,760 --> 01:01:22,200
+L'avènement
+du 4e Reich ?
+
+855
+01:01:22,510 --> 01:01:24,610
+Ha, ha, ha! Non !
+
+856
+01:01:24,850 --> 01:01:26,780
+Le 4e Reich est
+un rêve ou un échec.
+
+857
+01:01:27,020 --> 01:01:28,450
+Beaucoup ont essayé,
+en vain.
+
+858
+01:01:28,680 --> 01:01:30,160
+J'ai dépassé ce stade.
+
+859
+01:01:30,770 --> 01:01:33,750
+J'ai décidé de poser
+les bases d'un vrai...
+
+860
+01:01:34,440 --> 01:01:36,040
+nouveau monde.
+
+861
+01:01:40,900 --> 01:01:43,050
+Un monde plus injuste.
+
+862
+01:01:43,370 --> 01:01:45,540
+Un monde plus intolérant,
+
+863
+01:01:45,780 --> 01:01:47,390
+plus inamical.
+
+864
+01:01:48,080 --> 01:01:51,100
+Un monde où il y aurait
+tout le temps la guerre.
+
+865
+01:01:51,330 --> 01:01:52,850
+Tout le temps la maladie.
+
+866
+01:01:53,960 --> 01:01:55,010
+Ce monde...
+
+867
+01:01:56,710 --> 01:01:58,010
+Mon monde...
+
+868
+01:01:59,460 --> 01:02:01,810
+est le 5e Reich !
+
+869
+01:02:08,890 --> 01:02:09,940
+Utopiste.
+
+870
+01:02:11,190 --> 01:02:12,240
+Tenez.
+
+871
+01:02:14,400 --> 01:02:15,450
+Mes amis.
+
+872
+01:02:16,570 --> 01:02:18,210
+Je comprends
+votre colère.
+
+873
+01:02:19,480 --> 01:02:21,210
+Je comprends
+votre haine.
+
+874
+01:02:22,110 --> 01:02:25,050
+Mais de grâce,
+méfiez-vous du cynisme.
+
+875
+01:02:26,240 --> 01:02:28,220
+Méfiez-vous
+des solutions hâtives.
+
+876
+01:02:28,540 --> 01:02:29,590
+Bon, bien sûr...
+
+877
+01:02:30,790 --> 01:02:33,020
+je vois ce qui vous plaît
+dans le nazisme.
+
+878
+01:02:33,250 --> 01:02:35,270
+Qui pourrait
+vous jeter la pierre ?
+
+879
+01:02:36,000 --> 01:02:38,650
+Moi-même, parfois,
+il m'arrive de me fâcher.
+
+880
+01:02:39,880 --> 01:02:42,900
+Êtes-vous sûrs
+qu'il n'y a pas d'autres solutions ?
+
+881
+01:02:43,220 --> 01:02:47,020
+Les enfants que vous étiez
+ont-ils rêvé de ce monde-là ?
+
+882
+01:02:51,810 --> 01:02:54,460
+Je suis sûr qu'il reste
+de ces enfants en vous.
+
+883
+01:02:55,600 --> 01:02:57,500
+C'est à eux que je m'adresse.
+
+884
+01:02:57,810 --> 01:02:59,380
+J'ai une question à leur poser.
+
+885
+01:02:59,860 --> 01:03:01,340
+Une simple question.
+
+886
+01:03:09,370 --> 01:03:11,630
+Et si le 5e Reich
+était plutôt celui...
+
+887
+01:03:14,750 --> 01:03:15,770
+de l'amour ?
+
+888
+01:03:38,770 --> 01:03:42,170
+Au lieu de les faire rêver,
+je récolte risée et quolibet.
+
+889
+01:03:43,030 --> 01:03:44,080
+Ça suffit !
+
+890
+01:03:44,700 --> 01:03:48,010
+Mettez-les dans mon bureau !
+
+891
+01:03:48,320 --> 01:03:49,380
+Schnell!
+
+892
+01:03:50,330 --> 01:03:52,220
+Lâchez-moi.
+Vous me faites mal.
+
+893
+01:03:59,670 --> 01:04:00,690
+Qu'est-ce que...
+
+894
+01:04:03,710 --> 01:04:05,070
+Ne vous inquiétez pas.
+
+895
+01:04:05,300 --> 01:04:07,530
+Je vais nous sortir de là.
+
+896
+01:04:10,180 --> 01:04:11,480
+Charmant programme !
+
+897
+01:04:14,640 --> 01:04:15,690
+Hitler !
+
+898
+01:04:16,020 --> 01:04:17,210
+Je déteste ce type.
+
+899
+01:04:24,110 --> 01:04:26,700
+Bingo ! Je crois
+que j'ai ma petite idée.
+
+900
+01:04:27,990 --> 01:04:29,840
+On doit avoir
+une 1/2 h devant nous.
+
+901
+01:04:30,070 --> 01:04:31,840
+C'est largement suffisant.
+
+902
+01:04:32,990 --> 01:04:34,050
+Déjà ?
+
+903
+01:04:36,960 --> 01:04:39,550
+J'étais trop impatient
+de vous retrouver.
+
+904
+01:04:39,880 --> 01:04:42,270
+Vous perdez votre temps.
+Je ne vous dirai rien.
+
+905
+01:04:42,590 --> 01:04:45,610
+Ça tombe bien,
+je ne vous ai rien demandé.
+
+906
+01:04:45,920 --> 01:04:48,240
+Vous m'inspirez
+un sentiment de déjà-vu.
+
+907
+01:04:48,470 --> 01:04:50,610
+Vos vieilles recettes,
+vos bureaux secrets,
+
+908
+01:04:50,840 --> 01:04:53,820
+vos croix gammées,
+tout ça est d'un banal.
+
+909
+01:04:54,140 --> 01:04:55,190
+Bien sûr.
+
+910
+01:04:58,020 --> 01:05:00,500
+Et vous, par contre...
+
+911
+01:05:02,440 --> 01:05:04,290
+Vous êtes reporter !
+
+912
+01:05:07,780 --> 01:05:10,260
+Ça se passe bien,
+ce reportage ?
+
+913
+01:05:12,160 --> 01:05:13,640
+VOUS VOUS moquez.
+
+914
+01:05:13,950 --> 01:05:15,760
+Vous faites
+des jolies photos ?
+
+915
+01:05:18,660 --> 01:05:20,840
+M. Noël Flantier !
+
+916
+01:05:21,920 --> 01:05:23,310
+Humour nazi.
+Aucun intérêt.
+
+917
+01:05:23,630 --> 01:05:25,890
+Assez ri, OSS 117!
+
+918
+01:05:31,300 --> 01:05:32,350
+Retournez-vous !
+
+919
+01:05:46,730 --> 01:05:49,160
+Bienvenue
+dans mon laboratoire.
+
+920
+01:05:50,570 --> 01:05:51,920
+Zantrax,
+Blue Devil.
+
+921
+01:05:52,240 --> 01:05:54,090
+Déshabillez-le
+et attachez-le.
+
+922
+01:05:54,320 --> 01:05:55,380
+Pourquoi moi?
+
+923
+01:05:55,700 --> 01:05:57,350
+Mon costume,
+chiens fascistes !
+
+924
+01:05:57,580 --> 01:05:58,880
+Vous ne respectez rien !
+
+925
+01:06:01,620 --> 01:06:04,400
+Carlotta. C'est ça,
+quelque chose de confortable ?
+
+926
+01:06:04,710 --> 01:06:07,110
+Ces oripeaux
+de la haine et du chaos ?
+
+927
+01:06:07,420 --> 01:06:10,070
+Pas Carlotta.
+Je suis Fraulein Frida.
+
+928
+01:06:10,380 --> 01:06:13,320
+Pour moi, vous serez
+toujours Carlotta, Carlotta.
+
+929
+01:06:13,640 --> 01:06:16,060
+Pour moi, vous serez
+toujours Noël Flantier.
+
+930
+01:06:16,390 --> 01:06:19,080
+Carlotta. Carlotta. Carlotta.
+
+931
+01:06:19,390 --> 01:06:20,410
+Flantier...
+
+932
+01:06:20,730 --> 01:06:21,860
+Carlotta...
+Flantier...
+
+933
+01:06:22,190 --> 01:06:24,500
+Flantier...
+Arrêtons cette mascarade !
+
+934
+01:06:24,810 --> 01:06:26,000
+Ne fanfaronnez pas,
+
+935
+01:06:26,320 --> 01:06:28,130
+M. de la Bath.
+
+936
+01:06:28,440 --> 01:06:30,420
+Nous allons voir
+ce que vous avez
+
+937
+01:06:30,740 --> 01:06:31,620
+dans le ventre.
+
+938
+01:06:31,950 --> 01:06:33,510
+Von Zimmel,
+j'en ai vu d'autres !
+
+939
+01:06:33,820 --> 01:06:35,970
+Je parle de ce que
+vous avez réellement
+
+940
+01:06:36,280 --> 01:06:37,340
+dans le ventre.
+
+941
+01:06:40,290 --> 01:06:41,970
+Qu'allez-vous faire, von Zimmel ?
+
+942
+01:06:42,210 --> 01:06:44,470
+Je vais ouvrir
+mon coffre-fort.
+
+943
+01:06:44,790 --> 01:06:47,860
+J'avais placé
+dans votre poitrail 2 microfilms.
+
+944
+01:06:48,090 --> 01:06:51,070
+L'un avec la liste
+des collaborateurs français.
+
+945
+01:06:51,300 --> 01:06:53,780
+L'autre, beaucoup
+plus important.
+
+946
+01:06:54,010 --> 01:06:55,860
+Une liste
+de comptes en Suisse
+
+947
+01:06:56,090 --> 01:06:58,520
+qui donne accès
+à un fabuleux trésor de guerre.
+
+948
+01:06:58,850 --> 01:07:00,120
+Je ne m'en souviens pas.
+
+949
+01:07:00,600 --> 01:07:01,790
+Grâce à ceci.
+
+950
+01:07:02,270 --> 01:07:05,790
+Cet élixir permet
+d'effacer la mémoire immédiate.
+
+951
+01:07:06,560 --> 01:07:08,960
+Mon Dieu !
+Ça y est, je m'en souviens.
+
+952
+01:07:11,990 --> 01:07:13,090
+Qu'allez-vous faire ?
+
+953
+01:07:13,400 --> 01:07:15,470
+Je vais ouvrir
+mon coffre-fort.
+
+954
+01:07:15,700 --> 01:07:19,140
+Je vais placer
+dans votre poitrail 2 microfilms.
+
+955
+01:07:19,370 --> 01:07:22,010
+L'un avec la liste
+des collaborateurs français.
+
+956
+01:07:22,250 --> 01:07:23,350
+L'autre, plus important.
+
+957
+01:07:23,580 --> 01:07:27,850
+La liste de comptes en Suisse
+donnant accès à un trésor de guerre.
+
+958
+01:07:28,170 --> 01:07:29,520
+Et comment
+je vais oublier ça ?
+
+959
+01:07:29,840 --> 01:07:31,110
+Grâce à ceci.
+
+960
+01:07:31,590 --> 01:07:34,990
+Cet élixir permet
+d'effacer la mémoire immédiate.
+
+961
+01:07:39,640 --> 01:07:42,990
+Intact !
+Merci, OSS 117.
+
+962
+01:07:43,680 --> 01:07:47,370
+Voilà pourquoi je tenais tant
+à ce que ce soit vous qui veniez.
+
+963
+01:07:47,600 --> 01:07:50,460
+Cette histoire de
+meilleur agent, c'était du flan.
+
+964
+01:07:50,690 --> 01:07:51,740
+Vous le saviez.
+
+965
+01:07:53,280 --> 01:07:55,300
+Adieu,
+OSS 117.
+
+966
+01:07:57,160 --> 01:07:58,210
+Tue-les.
+
+967
+01:08:03,450 --> 01:08:04,510
+Détachez-le !
+
+968
+01:08:08,210 --> 01:08:09,650
+Vous me payeriez ça.
+
+969
+01:08:10,210 --> 01:08:12,110
+Payerez.
+Je vous le dis!
+
+970
+01:08:13,050 --> 01:08:14,230
+Bien joué, Dolorès.
+
+971
+01:08:14,460 --> 01:08:16,610
+Désarmez-les et...
+Coup de feu
+
+972
+01:08:20,010 --> 01:08:21,030
+C'est pas moi.
+
+973
+01:08:21,260 --> 01:08:22,320
+C'est qui, alors ?
+
+974
+01:08:23,220 --> 01:08:26,040
+Je sais qui c'est,
+mais je dirai rien.
+
+975
+01:08:27,140 --> 01:08:28,200
+Friedrich...
+
+976
+01:08:28,810 --> 01:08:29,860
+Mon fils.
+
+977
+01:08:34,530 --> 01:08:35,580
+Pourquoi ?
+
+978
+01:08:37,030 --> 01:08:38,080
+Pourquoi ?
+
+979
+01:08:38,410 --> 01:08:39,340
+TUEZ-LES !
+
+980
+01:09:21,570 --> 01:09:22,630
+Allons-y.
+
+981
+01:09:38,420 --> 01:09:40,030
+Faites attention, Hubert.
+
+982
+01:10:25,260 --> 01:10:26,310
+Allez, Hubert!
+
+983
+01:10:26,640 --> 01:10:27,860
+Soyez plus agressif.
+
+984
+01:10:28,100 --> 01:10:29,150
+Bah...
+
+985
+01:10:48,540 --> 01:10:49,180
+Très bien.
+
+986
+01:10:52,210 --> 01:10:53,260
+Encore.
+
+987
+01:11:21,190 --> 01:11:23,130
+Tiens, un chauve ?
+
+988
+01:11:24,820 --> 01:11:25,960
+Chauve qui peut.
+
+989
+01:11:26,950 --> 01:11:28,510
+Tenez,
+votre arc et vos flèches.
+
+990
+01:11:28,740 --> 01:11:30,970
+Vous avez raison.
+Allons-y, Dolorès.
+
+991
+01:11:37,290 --> 01:11:38,430
+La partie n'est pas
+
+992
+01:11:38,750 --> 01:11:39,800
+encore perdue.
+
+993
+01:11:50,060 --> 01:11:51,110
+Allez-y, Hubert.
+
+994
+01:12:00,940 --> 01:12:03,040
+Je comprends pas
+ce qui s'est passé.
+
+995
+01:12:04,360 --> 01:12:05,970
+C'est un arc de bébé!
+
+996
+01:12:06,200 --> 01:12:07,840
+Vite !
+
+997
+01:12:08,160 --> 01:12:08,840
+Ils fuient.
+
+998
+01:12:09,160 --> 01:12:10,720
+Vous avez raison.
+Suivons-les.
+
+999
+01:12:32,970 --> 01:12:34,030
+Ils sont là!
+
+1000
+01:12:48,360 --> 01:12:49,380
+Bravo.
+
+1001
+01:12:49,620 --> 01:12:51,300
+Vous conduisez
+comme un homme.
+
+1002
+01:12:51,530 --> 01:12:54,260
+On doit les rattraper.
+On n'a pas droit a l'échec.
+
+1003
+01:12:54,490 --> 01:12:56,430
+Je vous faisais
+un compliment.
+
+1004
+01:12:56,750 --> 01:12:58,930
+Israël doit juger
+tous les anciens nazis.
+
+1005
+01:12:59,250 --> 01:13:00,270
+Bien sûr.
+
+1006
+01:13:00,500 --> 01:13:02,150
+Israël en a
+la responsabilité
+
+1007
+01:13:02,460 --> 01:13:03,940
+pour prouver sa légitimité.
+
+1008
+01:13:04,250 --> 01:13:05,310
+Et comment !
+
+1009
+01:13:10,470 --> 01:13:11,990
+Vous me bluffez, Dolorès.
+
+1010
+01:13:12,300 --> 01:13:15,330
+Vous êtes déterminée,
+courageuse, tenace.
+
+1011
+01:13:15,640 --> 01:13:17,370
+Vous n'avez jamais
+détourné le regard.
+
+1012
+01:13:17,600 --> 01:13:20,960
+Vous êtes intrépide,
+jolie, élégante.
+
+1013
+01:13:22,480 --> 01:13:25,340
+Il me semble
+avoir trouvé mon double féminin.
+
+1014
+01:13:27,950 --> 01:13:29,470
+Vous me plaisez, Dolorès.
+
+1015
+01:13:30,070 --> 01:13:31,120
+Beaucoup.
+
+1016
+01:13:32,700 --> 01:13:33,800
+Et là, j'aimerais...
+
+1017
+01:13:37,960 --> 01:13:39,010
+Non
+
+1018
+01:13:39,960 --> 01:13:41,090
+Je comprends pas.
+
+1019
+01:13:41,420 --> 01:13:42,550
+Vous ne me plaisez pas.
+
+1020
+01:13:42,880 --> 01:13:44,060
+C'est ça
+que je comprends pas.
+
+1021
+01:13:44,710 --> 01:13:45,760
+Expliquez-moi.
+
+1022
+01:13:46,090 --> 01:13:48,230
+Je suis un rempart
+contre la barbarie,
+
+1023
+01:13:48,470 --> 01:13:49,680
+un symbole de...
+
+1024
+01:13:50,010 --> 01:13:51,360
+Vous êtes vieux, prétentieux.
+
+1025
+01:13:51,590 --> 01:13:53,320
+Votre vision
+des femmes est archaïque.
+
+1026
+01:13:53,550 --> 01:13:56,370
+Vous êtes imbu
+de vous-même, parfois, raciste.
+
+1027
+01:13:56,600 --> 01:13:58,910
+Vous vous habillez mal.
+Vous n'êtes pas drôle.
+
+1028
+01:13:59,140 --> 01:14:00,190
+Je m'arrête là ?
+
+1029
+01:14:02,730 --> 01:14:04,170
+Je m'habille mal?
+
+1030
+01:14:12,450 --> 01:14:13,930
+Il fait chaud, non ?
+
+1031
+01:14:27,750 --> 01:14:29,900
+C'est plaisant
+de vous voir sourire.
+
+1032
+01:14:30,590 --> 01:14:32,490
+Vous avez
+un sourire charmant.
+
+1033
+01:14:33,090 --> 01:14:34,150
+Pff!
+
+1034
+01:14:35,600 --> 01:14:38,020
+On a déjà dû vous le dire.
+
+1035
+01:14:55,450 --> 01:14:57,790
+Regardez !
+Ils se sont arrêtés.
+
+1036
+01:14:58,120 --> 01:14:59,890
+Panne d'essence.
+J'en étais sûr.
+
+1037
+01:15:00,120 --> 01:15:03,730
+C'est le problème
+avec les Mercedes. Ha, ha, ha !
+
+1038
+01:15:08,340 --> 01:15:10,270
+Suivez Carlotta.
+Et moi, von Zimmel.
+
+1039
+01:15:10,590 --> 01:15:12,110
+Il nous le faut vivant.
+
+1040
+01:15:12,420 --> 01:15:13,690
+J'en fais mon affaire.
+
+1041
+01:15:30,980 --> 01:15:32,040
+Von Zimmel !
+
+1042
+01:16:08,190 --> 01:16:10,620
+Ça suffit, Zimmel.
+C'est terminé !
+
+1043
+01:16:12,990 --> 01:16:14,290
+Je vous arrête.
+
+1044
+01:16:17,410 --> 01:16:18,930
+Compris ?
+
+1045
+01:16:22,660 --> 01:16:24,600
+Vous... arrêté !
+
+1046
+01:17:22,140 --> 01:17:23,270
+Où suis-je ?
+
+1047
+01:17:34,020 --> 01:17:35,080
+Von Zim...
+
+1048
+01:18:13,770 --> 01:18:15,500
+A... Ar... Arrêtez.
+
+1049
+01:18:40,720 --> 01:18:41,740
+Von Zim...
+
+1050
+01:20:12,220 --> 01:20:13,280
+Vous montez ?
+
+1051
+01:20:13,770 --> 01:20:14,820
+Oui.
+
+1052
+01:20:21,190 --> 01:20:22,240
+Ça va?
+
+1053
+01:20:22,730 --> 01:20:24,590
+Très bien, merci.
+
+1054
+01:20:28,950 --> 01:20:30,600
+Vous savez
+où sont mes vêtements ?
+
+1055
+01:20:30,830 --> 01:20:31,850
+Les collants verts ?
+
+1056
+01:20:32,080 --> 01:20:33,760
+Vu leur état,
+on les a jetés.
+
+1057
+01:20:34,000 --> 01:20:35,270
+Ah ? C'est fâcheux.
+
+1058
+01:20:36,870 --> 01:20:38,970
+Vous auriez
+des habits de rechange ?
+
+1059
+01:20:40,210 --> 01:20:42,560
+Il y aurait bien
+ceux du vieux jardinier.
+
+1060
+01:20:42,920 --> 01:20:45,270
+Mais ce n'est pas
+vraiment votre genre.
+
+1061
+01:20:45,880 --> 01:20:49,030
+Ce n'est pas le dernier cri,
+mais cela fera l'affaire.
+
+1062
+01:20:52,100 --> 01:20:53,150
+Merci.
+
+1063
+01:20:58,730 --> 01:20:59,920
+Excusez-moi.
+
+1064
+01:21:00,230 --> 01:21:02,080
+Le pépé qui était là
+a passé un appel?
+
+1065
+01:21:02,940 --> 01:21:04,630
+Oui.
+Avec un peu de chance...
+
+1066
+01:21:11,370 --> 01:21:12,420
+Du gribouillage.
+
+1067
+01:21:12,740 --> 01:21:13,760
+Ça ne veut rien dire.
+
+1068
+01:21:13,990 --> 01:21:15,130
+Allez lui demander.
+
+1069
+01:21:15,370 --> 01:21:18,180
+Il sera à 20h,
+à Rio, au Corcovado.
+
+1070
+01:21:20,130 --> 01:21:21,310
+Je peux ?
+Allez-y.
+
+1071
+01:21:21,540 --> 01:21:22,600
+Merci.
+
+1072
+01:21:30,800 --> 01:21:31,940
+C'est très urgent.
+
+1073
+01:21:37,640 --> 01:21:38,690
+Ça sonne.
+
+1074
+01:21:40,270 --> 01:21:42,170
+Allô ?
+Dolorès, c'est Hubert.
+
+1075
+01:21:42,400 --> 01:21:44,880
+J'étais très inquiète.
+Vraiment ?
+
+1076
+01:21:45,110 --> 01:21:46,380
+Je vous croyais mort.
+
+1077
+01:21:47,440 --> 01:21:49,220
+C'est gentil.
+Vous avez eu Carlotta ?
+
+1078
+01:21:49,450 --> 01:21:50,630
+Oui. Elle est enfermée.
+
+1079
+01:21:50,860 --> 01:21:55,010
+Von Zimmel a rendez-vous
+au Corcovado à 20h.
+
+1080
+01:21:55,240 --> 01:21:57,510
+On se retrouve
+au bureau de Bill Trumendous.
+
+1081
+01:21:57,750 --> 01:21:59,230
+A tout de suite.
+Soyez prudent.
+
+1082
+01:21:59,460 --> 01:22:00,510
+Merci.
+
+1083
+01:22:07,420 --> 01:22:08,400
+Bill, c'est Hubert.
+
+1084
+01:22:08,630 --> 01:22:11,650
+Sacré, Hubert. Son of a bitch.
+
+1085
+01:22:11,890 --> 01:22:13,820
+C'est par rapport à Dolorès.
+
+1086
+01:22:14,050 --> 01:22:15,320
+Tu peux m'aider ?
+Allô ?
+
+1087
+01:22:15,560 --> 01:22:17,820
+Zimmel est au Corcovado à 20h.
+
+1088
+01:22:19,310 --> 01:22:21,160
+Évidemment.
+
+1089
+01:22:29,110 --> 01:22:30,130
+Allô ?
+Tchao.
+
+1090
+01:22:30,360 --> 01:22:31,970
+C'est Hubert.
+- Où êtes-vous ?
+
+1091
+01:22:32,200 --> 01:22:33,220
+Bah, au Brésil.
+
+1092
+01:22:33,450 --> 01:22:35,430
+Où EN êtes-vous
+dans l'enquête ?
+
+1093
+01:22:35,660 --> 01:22:36,930
+Je vous le dirai
+à mon retour.
+
+1094
+01:22:37,160 --> 01:22:38,850
+A très vite, Hubert.
+
+1095
+01:22:39,080 --> 01:22:40,100
+Au revoir, Armand.
+
+1096
+01:22:49,840 --> 01:22:51,570
+La situation est clarifiée.
+
+1097
+01:22:51,800 --> 01:22:52,850
+Maria Joao,
+
+1098
+01:22:53,180 --> 01:22:55,440
+vous venez d'aider
+sérieusement la France.
+
+1099
+01:22:55,760 --> 01:22:58,270
+Où pourrais-je
+trouver une voiture ?
+
+1100
+01:22:58,600 --> 01:23:00,160
+Il y a
+celle du vieux jardinier.
+
+1101
+01:23:00,390 --> 01:23:01,950
+Mais est-ce
+qu'elle vous plaira ?
+
+1102
+01:24:16,430 --> 01:24:17,480
+Bill?
+
+1103
+01:24:43,950 --> 01:24:44,970
+Dolorès ?
+
+1104
+01:25:01,470 --> 01:25:03,900
+- Hello, motherfucker.
+- Oh, Bill !
+
+1105
+01:25:04,140 --> 01:25:06,000
+Tu m'as fichu
+une de ces trouilles.
+
+1106
+01:25:07,770 --> 01:25:09,030
+Bill, tu n'es pas bien ?
+
+1107
+01:25:09,030 --> 01:25:09,040
+I'm fucking great
+Bill, tu n'es pas bien ?
+
+1108
+01:25:09,040 --> 01:25:11,130
+I'm fucking great
+
+1109
+01:25:11,730 --> 01:25:13,500
+A part cette chaleur.
+
+1110
+01:25:13,820 --> 01:25:14,590
+Qu'y a-t-il ?
+
+1111
+01:25:15,650 --> 01:25:18,720
+Von Zimmel
+a eu peur du Mossad.
+
+1112
+01:25:18,950 --> 01:25:23,140
+La CIA va le protéger
+en échange d'informations.
+
+1113
+01:25:23,450 --> 01:25:24,500
+Habile, Bill.
+
+1114
+01:25:25,410 --> 01:25:27,060
+Pourquoi
+tu protégerais un SS ?
+
+1115
+01:25:27,290 --> 01:25:29,720
+Les Américains
+sont contre les nazis.
+
+1116
+01:25:30,540 --> 01:25:31,760
+La CIA
+n'est pas L'Amérique.
+
+1117
+01:25:32,000 --> 01:25:33,020
+Lâchez-moi.
+
+1118
+01:25:33,340 --> 01:25:35,190
+- Ne bougez pas ou je l'occis.
+
+1119
+01:25:37,050 --> 01:25:39,610
+Libère-la, Bill.
+Nos deux pays sont amis.
+
+1120
+01:25:39,930 --> 01:25:43,530
+On n'est amis que
+pour venir vous libérer.
+
+1121
+01:25:43,850 --> 01:25:44,730
+Qu'insinues-tu ?
+
+1122
+01:25:45,060 --> 01:25:46,110
+Oh, pardon.
+
+1123
+01:25:46,600 --> 01:25:49,960
+Vous vous êtes
+libérés tout seuls, mais oui.
+
+1124
+01:25:50,900 --> 01:25:52,000
+Derrière toi,
+un Chinois.
+
+1125
+01:25:52,310 --> 01:25:53,530
+T'as quel âge, Hubert ?
+
+1126
+01:25:56,900 --> 01:25:58,920
+Tu as tué mon frère
+dans un taxi.
+
+1127
+01:26:04,450 --> 01:26:05,470
+Posez votre arme,
+
+1128
+01:26:05,700 --> 01:26:06,890
+OSS 117.
+
+1129
+01:26:09,290 --> 01:26:10,340
+Voilà.
+
+1130
+01:26:13,460 --> 01:26:16,480
+Carlotta, vous pouvez
+encore faire machine arrière.
+
+1131
+01:26:16,800 --> 01:26:20,320
+Entre les juifs et les Chinois,
+vous n'aurez aucun répit.
+
+1132
+01:26:21,220 --> 01:26:22,270
+Je vous en conjure.
+
+1133
+01:26:22,590 --> 01:26:23,650
+Réfléchissez.
+
+1134
+01:26:31,100 --> 01:26:34,210
+Si vous nous aidez,
+j'interviendrai personnellement
+
+1135
+01:26:34,440 --> 01:26:36,500
+auprès de
+M. Georges Pompidou,
+
+1136
+01:26:36,820 --> 01:26:39,250
+pour que l'on trouve
+une solution à l'amiable.
+
+1137
+01:26:39,570 --> 01:26:42,930
+On mettra tout en œuvre,
+au niveau international,
+
+1138
+01:26:43,660 --> 01:26:45,720
+pour que les nazis
+aient un pays à eux.
+
+1139
+01:26:48,450 --> 01:26:49,510
+Comme Israël.
+
+1140
+01:27:02,300 --> 01:27:03,700
+Ravi
+de vous revoir, Dolorès.
+
+1141
+01:27:03,930 --> 01:27:06,320
+J'ai prié pour vous revoir.
+C'est vrai ?
+
+1142
+01:27:06,560 --> 01:27:08,620
+Ca fait deux
+paroles gentilles.
+
+1143
+01:27:08,850 --> 01:27:09,700
+Deux?
+
+1144
+01:27:09,930 --> 01:27:11,620
+La première,
+c'était au téléphone...
+
+1145
+01:27:11,850 --> 01:27:13,830
+Nous sommes pressés.
+Vous avez raison.
+
+1146
+01:27:14,060 --> 01:27:14,920
+Venez.
+
+1147
+01:27:19,900 --> 01:27:21,040
+Je vous rejoins.
+
+1148
+01:27:24,820 --> 01:27:25,960
+On se connaît, non ?
+
+1149
+01:27:27,530 --> 01:27:28,590
+Ouais.
+
+1150
+01:27:29,410 --> 01:27:31,920
+On a passé une nuit
+ensemble, sur la plage.
+
+1151
+01:27:33,040 --> 01:27:35,060
+On a passé une nuit ensemble ?
+
+1152
+01:27:36,290 --> 01:27:38,890
+Ne dites pas ça.
+C'est comme si on avait...
+
+1153
+01:27:54,980 --> 01:27:56,580
+Et là, tu...
+
+1154
+01:27:57,190 --> 01:27:58,240
+Vous faites quoi ?
+
+1155
+01:27:58,570 --> 01:28:00,590
+Je mange
+une pomme d'amour.
+
+1156
+01:28:01,650 --> 01:28:02,920
+Tu veux croquer ?
+
+1157
+01:28:04,530 --> 01:28:06,550
+Serpent !
+Je ne mange pas de ça!
+
+1158
+01:28:18,750 --> 01:28:20,150
+Ne vous inquiétez pas.
+
+1159
+01:28:26,760 --> 01:28:29,240
+Souvenez-vous.
+Il me le faut vivant.
+
+1160
+01:28:29,560 --> 01:28:31,950
+Rendez-vous, von Zimmel.
+C'est terminé.
+
+1161
+01:28:32,180 --> 01:28:34,160
+Trumendous
+et Carlotta sont morts !
+
+1162
+01:28:34,390 --> 01:28:35,440
+Le Chinois aussi !
+
+1163
+01:28:35,770 --> 01:28:37,040
+Il ne le connaît pas.
+
+1164
+01:28:37,350 --> 01:28:38,540
+Oui, mais...
+
+1165
+01:28:39,440 --> 01:28:40,880
+Soyez digne,
+von Zimmel.
+
+1166
+01:28:41,110 --> 01:28:42,800
+Rendez-vous sans faire d'histoire.
+
+1167
+01:28:43,110 --> 01:28:44,920
+Plutôt mourir
+que de se rendre.
+
+1168
+01:28:45,150 --> 01:28:48,180
+Malheureusement
+pour vous, je veux mourir.
+
+1169
+01:28:48,490 --> 01:28:50,430
+Vous avez tué
+mon fils, ma fiancée.
+
+1170
+01:28:50,740 --> 01:28:52,600
+Vous m'avez tout pris.
+
+1171
+01:28:52,830 --> 01:28:54,470
+Vous ne me prendrez pas
+ma mort.
+
+1172
+01:28:54,790 --> 01:28:57,560
+Il va tirer !
+Non, il bluffe.
+
+1173
+01:28:57,790 --> 01:29:00,730
+Je ne crois pas.
+Il sait ce qui l'attend.
+
+1174
+01:29:01,210 --> 01:29:05,020
+D'ailleurs, au cas où
+vous ne l'auriez pas vu...
+
+1175
+01:29:06,720 --> 01:29:08,530
+derrière le nazi...
+
+1176
+01:29:09,800 --> 01:29:11,450
+il y a aussi un homme.
+
+1177
+01:29:11,760 --> 01:29:14,240
+Un homme comme les autres.
+
+1178
+01:29:14,560 --> 01:29:15,610
+Le nazi...
+
+1179
+01:29:17,560 --> 01:29:19,080
+n'a-t-il pas des yeux ?
+
+1180
+01:29:21,820 --> 01:29:22,920
+Le nazi...
+
+1181
+01:29:24,070 --> 01:29:25,670
+n'a-t-il pas des mains ?
+
+1182
+01:29:25,990 --> 01:29:28,010
+Vous avez raison.
+Il est sincère.
+
+1183
+01:29:28,240 --> 01:29:29,680
+Cet homme
+est désespéré.
+
+1184
+01:29:29,990 --> 01:29:31,590
+De la passion ?
+
+1185
+01:29:32,080 --> 01:29:33,760
+Et si vous nous piquez,
+
+1186
+01:29:33,990 --> 01:29:35,720
+ne saignons-nous pas ?
+
+1187
+01:29:36,790 --> 01:29:38,730
+Et si vous nous chatouillez,
+
+1188
+01:29:39,630 --> 01:29:40,980
+ne rions-nous pas ?
+
+1189
+01:29:42,380 --> 01:29:45,070
+Et si vous nous empoisonnez,
+
+1190
+01:29:45,300 --> 01:29:48,110
+NE MOURONS-NOUS PAS ?
+
+1191
+01:29:51,800 --> 01:29:52,860
+Magnifique.
+
+1192
+01:29:53,510 --> 01:29:54,910
+C'est beau ce qu'il dit.
+
+1193
+01:29:55,770 --> 01:29:57,700
+Beau
+et terrible à la fois.
+
+1194
+01:29:58,980 --> 01:30:00,710
+Je suis un vieux monsieur.
+
+1195
+01:30:01,360 --> 01:30:04,750
+J'ai 46 ans.
+Ma vie est derrière moi.
+
+1196
+01:30:05,070 --> 01:30:06,370
+Je vais faire le tour.
+
+1197
+01:30:06,610 --> 01:30:07,800
+Laissez-moi faire.
+
+1198
+01:30:10,110 --> 01:30:11,680
+Adieu, OSS 117.
+
+1199
+01:30:13,370 --> 01:30:14,720
+- Ça suffit, von Zimmel !
+
+1200
+01:30:15,040 --> 01:30:17,600
+Au nom de la France,
+donnez-moi les microfilms.
+
+1201
+01:30:17,910 --> 01:30:20,340
+Au nom de l’Israël,
+veuillez nous suivre.
+
+1202
+01:30:22,840 --> 01:30:24,020
+Qu'est-ce qu'il fait ?
+
+1203
+01:30:26,130 --> 01:30:29,240
+Il va sauter
+de la main du Corcovado !
+
+1204
+01:30:30,130 --> 01:30:33,160
+Pas si on l'empêche
+de sauter de la main du Corcovado.
+
+1205
+01:30:33,390 --> 01:30:34,870
+Hubert,
+et vos vertiges ?
+
+1206
+01:30:36,520 --> 01:30:38,370
+Chacun doit
+vaincre ses démons.
+
+1207
+01:30:38,600 --> 01:30:39,950
+Vous, c'est les nazis.
+
+1208
+01:30:41,230 --> 01:30:42,670
+Moi,
+c'est le trapèze.
+
+1209
+01:31:36,200 --> 01:31:38,260
+Arrêtez, von Zimmel.
+Rendez-vous !
+
+1210
+01:31:38,580 --> 01:31:42,300
+Il va falloir trouver
+plus convaincant, mon ami.
+
+1211
+01:31:42,620 --> 01:31:43,640
+Encore faut-il
+
+1212
+01:31:43,960 --> 01:31:46,650
+que VOUS n'ayez pas
+VOS vapeurs.
+
+1213
+01:31:46,960 --> 01:31:48,060
+Zimmel rigole.
+
+1214
+01:31:48,380 --> 01:31:50,110
+Et que vous puissiez avancer
+
+1215
+01:31:50,420 --> 01:31:52,280
+malgré le vertige.
+
+1216
+01:32:26,460 --> 01:32:28,940
+Non! Non! NON!
+
+1217
+01:32:29,550 --> 01:32:31,320
+C'était un accident !
+
+1218
+01:32:31,630 --> 01:32:34,280
+Un banal accident
+de trapèze !
+
+1219
+01:32:39,560 --> 01:32:41,160
+Adieu, OSS 117.
+
+1220
+01:32:45,730 --> 01:32:47,000
+Non! Non! NON!
+
+1221
+01:33:00,160 --> 01:33:01,210
+Lâchez-moi.
+
+1222
+01:33:02,200 --> 01:33:03,250
+Lâchez-moi !
+
+1223
+01:33:03,580 --> 01:33:04,680
+Pas cette fois-ci.
+
+1224
+01:33:05,120 --> 01:33:07,380
+Willkommen in Israel
+Herr Professor
+
+1225
+01:33:09,920 --> 01:33:11,050
+Bravo, Hubert.
+
+1226
+01:33:11,420 --> 01:33:13,820
+Bravo à l'espion
+et bravo au trapéziste.
+
+1227
+01:33:14,880 --> 01:33:16,740
+Merci d'avoir sauvé
+la vie de von Zimmel.
+
+1228
+01:33:16,970 --> 01:33:18,020
+Ce n'est rien.
+
+1229
+01:33:18,510 --> 01:33:21,240
+Une Israélienne me remercie
+d'avoir sauvé un nazi,
+
+1230
+01:33:22,140 --> 01:33:23,620
+j'y vois
+comme un signe.
+
+1231
+01:33:23,930 --> 01:33:27,650
+On peut rêver d'une
+réconciliation entre juifs et nazis.
+
+1232
+01:33:28,310 --> 01:33:30,490
+Il y a une chose
+que je ne m'explique pas.
+
+1233
+01:33:30,810 --> 01:33:31,620
+Quoi donc ?
+
+1234
+01:33:32,360 --> 01:33:33,210
+Ça!
+
+1235
+01:33:38,610 --> 01:33:39,670
+Joyeux Noël.
+
+1236
+01:34:31,790 --> 01:34:32,840
+Bonjour, patron.
+
+1237
+01:34:33,170 --> 01:34:34,730
+Bonjour, Hubert,
+et bravo !
+
+1238
+01:34:34,960 --> 01:34:39,070
+Les microfilms récupérés
+sans verser d'argent, magistral.
+
+1239
+01:34:39,380 --> 01:34:41,030
+On a bien fait
+de ne pas envoyer les P&T.
+
+1240
+01:34:44,260 --> 01:34:45,280
+Vous me passez un film ?
+
+1241
+01:34:45,510 --> 01:34:47,450
+Non, non, c'est coincé.
+
+1242
+01:34:47,680 --> 01:34:48,950
+Faute à pas de chance.
+
+1243
+01:34:50,480 --> 01:34:53,500
+Armand,
+une petite chose me chiffonne.
+
+1244
+01:34:53,810 --> 01:34:55,080
+Oui?
+trois fois rien.
+
+1245
+01:34:55,400 --> 01:34:59,630
+Il m'a semblé voir votre nom
+sur la liste des collaborateurs.
+
+1246
+01:35:01,030 --> 01:35:02,250
+On m'a dit ça, oui.
+
+1247
+01:35:02,610 --> 01:35:04,550
+Oui... Oh là là!
+
+1248
+01:35:04,870 --> 01:35:07,430
+Ah là là !
+Quelle période!
+
+1249
+01:35:07,740 --> 01:35:10,430
+Quelle période !
+Quelle période!
+
+1250
+01:35:12,500 --> 01:35:13,980
+Tout ça, c'est le passé.
+
+1251
+01:35:15,460 --> 01:35:18,980
+La France doit oublier
+pour repartir de l'avant.
+
+1252
+01:35:20,590 --> 01:35:22,110
+Oui, sans doute.
+
+1253
+01:35:22,550 --> 01:35:23,600
+Me voilà rassuré.
+
+1254
+01:35:24,800 --> 01:35:26,570
+Moi aussi,
+j'ai pensé à vous, Hubert.
+
+1255
+01:35:28,220 --> 01:35:29,440
+Vous voulez dire...
+
+1256
+01:35:29,770 --> 01:35:31,040
+La Légion d'honneur.
+
+1257
+01:35:33,690 --> 01:35:35,290
+J'en ai parlé
+au Premier ministre,
+
+1258
+01:35:35,610 --> 01:35:36,660
+M. Pompidou.
+
+1259
+01:35:37,270 --> 01:35:38,840
+Ça peut se faire vite.
+
+1260
+01:35:44,410 --> 01:35:45,460
+Je...
+
+1261
+01:35:46,910 --> 01:35:50,380
+Je vous remercie.
+Je ne sais que dire.
+
+1262
+01:35:50,700 --> 01:35:53,270
+Vous ne faites pas ça
+pour les médailles, je sais.
+
+1263
+01:35:53,580 --> 01:35:54,720
+vous savez bien que non.
+
+1264
+01:35:55,040 --> 01:35:56,090
+Oui, bien sûr.
+
+1265
+01:35:57,340 --> 01:35:58,940
+Passons à autre chose.
+
+1266
+01:35:59,250 --> 01:36:01,900
+Vous repartez en mission,
+en Chine.
+
+1267
+01:36:02,130 --> 01:36:05,450
+Un certain M. Li a pris en otage
+50 de nos ressortissants.
+
+1268
+01:36:05,680 --> 01:36:07,370
+Il ne veut négocier qu'avec vous.
+
+1269
+01:36:07,680 --> 01:36:08,870
+J'accepte à une condition.
+
+1270
+01:36:09,180 --> 01:36:10,370
+Accordée. Laquelle ?
+
+1271
+01:36:10,680 --> 01:36:12,250
+Je choisis
+mon nom de couverture.
+
+1272
+01:36:15,440 --> 01:36:18,750
+Pour rencontrer M. Li,
+il faut une bonne couverture.
+
+1273
+01:36:25,570 --> 01:36:28,720
+Oui, sinon je me mettrais
+dans de beaux draps.
+
+1274
+01:36:33,370 --> 01:36:35,020
+M. Li
+en portefeuille!
+
+1275
+01:36:44,260 --> 01:36:46,280
+Wagon-Li ! Ha, ha, ha!
+
+1276
+01:36:47,300 --> 01:36:48,700
+Hubert, je croyais
+
+1277
+01:36:49,010 --> 01:36:50,780
+qu'on avait fait
+le tour du sujet.
+
+1278
+01:36:52,140 --> 01:36:54,620
+Oui... vous avez raison.
+
+1279
+01:36:56,480 --> 01:36:57,530
+Hum.
+
+1280
+01:36:59,020 --> 01:37:00,070
+Li-couchette.
+
+1281
+01:37:05,700 --> 01:37:07,000
+C'est curieux, ça.
+
+1282
+01:37:07,990 --> 01:37:11,010
+Sans le vouloir,
+j'ai fait de l’humour juif.
+
+1283
+01:37:11,330 --> 01:37:12,550
+Et qu'est-ce donc ?
+
+1284
+01:37:12,870 --> 01:37:16,180
+Je crois que c'est
+quand ce n'est pas rigolo
+
+1285
+01:37:16,420 --> 01:37:18,440
+et que ça ne parle pas
+de saucisse.

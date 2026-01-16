@@ -1,0 +1,3964 @@
+1
+00:00:40,880 --> 00:00:43,941
+<i>La Terre, avant la guerre.</i>
+
+2
+00:00:45,600 --> 00:00:48,718
+<i>New York, avant ma naissance.</i>
+
+3
+00:00:49,840 --> 00:00:53,834
+<i>Un endroit que je n'ai vu qu'en photos.</i>
+
+4
+00:00:54,360 --> 00:00:55,578
+<i>Je te connais...</i>
+
+5
+00:00:55,880 --> 00:00:57,701
+<i>Mais on ne s'est jamais rencontrés.</i>
+
+6
+00:00:59,160 --> 00:01:00,742
+<i>Je suis avec toi...</i>
+
+7
+00:01:01,720 --> 00:01:04,315
+<i>Mais je ne connais pas ton nom.</i>
+
+8
+00:01:06,240 --> 00:01:10,746
+<i>Je sais que je rêve.
+Mais c'est plus réel qu'un rêve.</i>
+
+9
+00:01:12,440 --> 00:01:14,739
+<i>On dirait un souvenir.</i>
+
+10
+00:01:17,040 --> 00:01:19,077
+<i>Comment est-ce possible ?</i>
+
+11
+00:01:28,880 --> 00:01:32,146
+<i>14 mars 2077.</i>
+
+12
+00:01:32,360 --> 00:01:35,387
+<i>Cinq ans après la suppression
+obligatoire des souvenirs.</i>
+
+13
+00:01:35,560 --> 00:01:38,519
+<i>Et je suis encore hanté par ces rêves.</i>
+
+14
+00:01:41,480 --> 00:01:43,938
+<i>Victoria et moi avons été jumelés.</i>
+
+15
+00:01:44,160 --> 00:01:48,473
+<i>Dans deux semaines, notre mission ici
+sera terminée, et nous rejoindrons les autres.</i>
+
+16
+00:01:49,280 --> 00:01:52,159
+<i>Mais elle ne se pose pas
+les mêmes questions que moi.</i>
+
+17
+00:01:52,320 --> 00:01:55,313
+<i>Elle n'a pas les mêmes doutes que moi.</i>
+
+18
+00:01:56,600 --> 00:02:00,344
+<i>Ça fait un demi-siècle
+que les charognards ont détruit notre lune.</i>
+
+19
+00:02:00,520 --> 00:02:04,992
+<i>Forcés de quitter leur planète mourante,
+ils sont venus s'emparer de la nôtre.</i>
+
+20
+00:02:05,160 --> 00:02:08,301
+<i>Sans la lune, la Terre a connu le chaos.</i>
+
+21
+00:02:08,520 --> 00:02:10,819
+<i>Les séismes ont tout détruit
+en quelques heures.</i>
+
+22
+00:02:11,520 --> 00:02:14,308
+<i>Les tsunamis ont balayé ce qui restait.</i>
+
+23
+00:02:14,480 --> 00:02:16,517
+<i>Puis, ce fut l'invasion.</i>
+
+24
+00:02:17,440 --> 00:02:19,659
+<i>On a fait ce qu'on devait faire.</i>
+
+25
+00:02:20,200 --> 00:02:22,260
+<i>On a sorti l'arsenal nucléaire.</i>
+
+26
+00:02:23,840 --> 00:02:27,436
+<i>On a gagné la guerre, mais perdu la planète.</i>
+
+27
+00:02:27,640 --> 00:02:31,634
+<i>Elle était contaminée.
+Presque complètement inhabitable.</i>
+
+28
+00:02:32,920 --> 00:02:36,630
+<i>Ce qui restait
+de l'humanité a dû quitter la Terre.</i>
+
+29
+00:02:37,120 --> 00:02:40,830
+<i>On a construit le Tet,
+notre centre de contrôle de mission.</i>
+
+30
+00:02:40,960 --> 00:02:44,351
+<i>Une station spatiale temporaire
+avant la migration vers Titan,</i>
+
+31
+00:02:44,560 --> 00:02:46,540
+<i>la plus grande lune de Saturne.</i>
+
+32
+00:02:46,720 --> 00:02:48,268
+<i>Tout le monde est là-bas maintenant.</i>
+
+33
+00:02:48,880 --> 00:02:51,907
+<i>Presque tout le monde.</i>
+
+34
+00:02:52,640 --> 00:02:56,634
+<i>Jusqu'à la fin de notre mission,
+Vika et moi faisons notre travail.</i>
+
+35
+00:02:56,800 --> 00:02:58,382
+<i>On protège les hydroforeuses,</i>
+
+36
+00:02:58,560 --> 00:03:02,554
+<i>qui convertissent l'eau de mer de la Terre
+en énergie de fusion pour la colonie.</i>
+
+37
+00:03:02,720 --> 00:03:05,144
+<i>La survie de l'humanité en dépend.</i>
+
+38
+00:03:10,480 --> 00:03:11,698
+Merci pour le café.
+
+39
+00:03:11,920 --> 00:03:15,948
+<i>Ce qu'il reste de l'armée des charognards
+perturbe encore les opérations.</i>
+
+40
+00:03:16,240 --> 00:03:20,917
+<i>Ils attaquent nos drones la nuit
+et essaient de me tuer le jour.</i>
+
+41
+00:03:21,320 --> 00:03:24,222
+<i>Ils veulent encore se battre,
+mais j'ignore pourquoi.</i>
+
+42
+00:03:25,680 --> 00:03:28,138
+<i>Le centre de contrôle dit
+qu'on fait du bon travail.</i>
+
+43
+00:03:28,520 --> 00:03:31,991
+<i>Qu'on est une équipe efficace.</i>
+
+44
+00:03:41,920 --> 00:03:44,196
+<i>Vika est mon agente des communications.</i>
+
+45
+00:03:44,360 --> 00:03:46,340
+<i>Elle garde un œil sur moi.</i>
+
+46
+00:03:47,160 --> 00:03:49,197
+<i>Je m'occupe de l'entretien des drones.</i>
+
+47
+00:03:49,760 --> 00:03:52,275
+<i>Les drones surveillent tout.</i>
+
+48
+00:03:53,280 --> 00:03:57,115
+<i>Vika a hâte de partir.
+Moi, je n'en suis pas sûr.</i>
+
+49
+00:03:58,960 --> 00:04:03,398
+<i>Je ne peux arrêter de penser que la Terre,
+malgré tout ce qui s'est passé...</i>
+
+50
+00:04:03,560 --> 00:04:06,155
+<i>La Terre, c'est encore chez moi.</i>
+
+51
+00:04:31,760 --> 00:04:33,820
+Jack Harper, technicien 49.
+
+52
+00:04:34,080 --> 00:04:35,833
+TECHNICIEN 49 CONFIRMÉ
+
+53
+00:05:00,600 --> 00:05:02,990
+Bonjour, Bob.
+
+54
+00:05:10,480 --> 00:05:11,823
+<i>Tour, vérification de communication.</i>
+
+55
+00:05:12,040 --> 00:05:14,828
+<i>Technicien 49, entretien des drones,
+soutien aux hydroforeuses.</i>
+
+56
+00:05:15,040 --> 00:05:17,919
+Tous les systèmes
+du Bubbleship sont opérationnels.
+
+57
+00:05:18,080 --> 00:05:19,116
+Je suis prêt à y aller.
+
+58
+00:05:19,280 --> 00:05:21,556
+Bien reçu, technicien 49, vas-y.
+Sois prudent.
+
+59
+00:05:21,720 --> 00:05:23,666
+- Comme toujours.
+- Pas du tout.
+
+60
+00:05:24,120 --> 00:05:27,830
+Tu as raison. Je dois travailler ça.
+
+61
+00:05:34,240 --> 00:05:36,152
+HORS LIGNE
+
+62
+00:05:36,320 --> 00:05:38,380
+Le Tet sera en ligne dans 30 secondes.
+
+63
+00:05:38,560 --> 00:05:41,701
+Transmission des coordonnées
+des hydroforeuses. Confirme le visuel.
+
+64
+00:05:46,360 --> 00:05:49,660
+Je les vois. Elles boivent de l'eau de mer.
+
+65
+00:05:51,200 --> 00:05:52,236
+Tu les vois, Bob ?
+
+66
+00:05:55,040 --> 00:05:56,861
+Le drone 185 semble en bon état.
+
+67
+00:06:03,920 --> 00:06:05,673
+Jack, il y a deux drones non fonctionnels.
+
+68
+00:06:07,240 --> 00:06:08,219
+Merde.
+
+69
+00:06:08,400 --> 00:06:09,982
+Attends, le centre est en ligne.
+
+70
+00:06:12,000 --> 00:06:14,060
+<i>On a un contact avec le Tet.</i>
+
+71
+00:06:16,760 --> 00:06:18,069
+Bonjour, patron.
+
+72
+00:06:18,280 --> 00:06:19,259
+EN LIGNE
+
+73
+00:06:19,360 --> 00:06:23,673
+<i>Tour 49, ici le centre de contrôle.
+Comment allez-vous ce matin ?</i>
+
+74
+00:06:23,840 --> 00:06:27,982
+Une autre journée au paradis, Sally.
+Transmission des données.
+
+75
+00:06:28,240 --> 00:06:31,711
+Journal de bord 49.
+Jour 1642, soutien aux hydroforeuses.
+
+76
+00:06:31,880 --> 00:06:33,758
+- On a deux...
+- <i>Deux drones hors ligne.</i>
+
+77
+00:06:33,920 --> 00:06:35,741
+<i>Le périmètre est compromis.</i>
+
+78
+00:06:35,920 --> 00:06:38,708
+Bien reçu, je transmets l'information
+au technicien. Attendez.
+
+79
+00:06:39,760 --> 00:06:43,595
+Jack, le drone 166 est éteint sur la grille 37.
+
+80
+00:06:44,280 --> 00:06:45,555
+Je vais le relier au phare.
+
+81
+00:06:45,800 --> 00:06:47,951
+<i>Tu vas y aller en premier.</i>
+
+82
+00:06:48,120 --> 00:06:50,749
+Compris. Je suis en chemin.
+
+83
+00:06:52,920 --> 00:06:55,310
+<i>Contrôle, technicien 49 en route
+vers la grille 37.</i>
+
+84
+00:06:55,480 --> 00:06:57,517
+<i>Pouvez-vous utiliser le drone 109 ?</i>
+
+85
+00:06:57,680 --> 00:07:01,105
+Négatif, le 109 est en réparation.
+On attend les pièces de rechange.
+
+86
+00:07:01,440 --> 00:07:03,591
+<i>Jack doit trouver les drones et les réparer.</i>
+
+87
+00:07:03,760 --> 00:07:05,945
+<i>Les foreuses ne peuvent pas
+être exposées la nuit.</i>
+
+88
+00:07:07,120 --> 00:07:08,099
+Bien reçu.
+
+89
+00:07:30,200 --> 00:07:33,079
+<i>Tour, il a réparé le 166 récemment,
+n'est-ce pas ?</i>
+
+90
+00:07:33,240 --> 00:07:35,027
+Jack a réparé tous les drones récemment.
+
+91
+00:07:35,200 --> 00:07:36,873
+Si on avait les pièces qu'il nous manque,
+
+92
+00:07:37,040 --> 00:07:38,508
+on n'aurait pas un équipage réduit.
+
+93
+00:07:38,680 --> 00:07:41,309
+<i>Compris. On fait de notre mieux.</i>
+
+94
+00:07:41,520 --> 00:07:42,670
+<i>Êtes-vous une équipe efficace ?</i>
+
+95
+00:07:43,000 --> 00:07:44,707
+Nous sommes une équipe efficace.
+
+96
+00:07:49,040 --> 00:07:52,272
+<i>Vos directives aujourd'hui sont
+de réparer le 166</i>
+
+97
+00:07:52,440 --> 00:07:54,193
+<i>et de trouver le 172.</i>
+
+98
+00:07:54,360 --> 00:07:55,510
+<i>Fonctionnels avant la nuit.</i>
+
+99
+00:07:55,680 --> 00:07:58,559
+<i>Réussissez, et je vous paie à boire
+à votre retour sur le Tet.</i>
+
+100
+00:07:58,720 --> 00:08:01,952
+Préparez-vous, Sally.
+On revient dans deux semaines.
+
+101
+00:08:03,680 --> 00:08:04,659
+D'accord.
+
+102
+00:08:06,520 --> 00:08:08,796
+Allez, Bob. Aide-moi, vieux.
+
+103
+00:08:16,440 --> 00:08:17,908
+Technicien 49 ?
+
+104
+00:08:19,080 --> 00:08:20,548
+<i>Technicien 49 ?</i>
+
+105
+00:08:23,880 --> 00:08:25,030
+<i>Jack ?</i>
+
+106
+00:08:25,560 --> 00:08:26,539
+Bien reçu, tour.
+
+107
+00:08:26,720 --> 00:08:28,541
+Qu'est-il arrivé ?
+Je t'ai perdu une seconde.
+
+108
+00:08:28,960 --> 00:08:30,110
+Vraiment ?
+
+109
+00:08:31,640 --> 00:08:33,222
+<i>J'arrive sur place.</i>
+
+110
+00:08:46,000 --> 00:08:46,979
+Le voilà.
+
+111
+00:08:47,720 --> 00:08:49,700
+Plusieurs victimes chez les charognards.
+
+112
+00:08:49,920 --> 00:08:52,071
+Le drone 166 s'est défendu noblement.
+
+113
+00:08:53,240 --> 00:08:54,310
+Il y a du mouvement ?
+
+114
+00:08:54,640 --> 00:08:56,996
+Aucun signe de charognards.
+
+115
+00:08:57,160 --> 00:09:00,392
+Mais la visibilité est limitée
+en raison de l'angle de surveillance.
+
+116
+00:09:00,600 --> 00:09:03,229
+Bien reçu. J'y vais d'un coup.
+
+117
+00:09:30,320 --> 00:09:33,313
+J'entame les réparations.
+Surveille mes arrières.
+
+118
+00:09:34,960 --> 00:09:36,667
+Comme toujours.
+
+119
+00:09:55,960 --> 00:09:58,782
+CHAMPIONS DU MONDE 2017
+
+120
+00:09:58,960 --> 00:10:01,316
+J'ai lu à propos de cette partie.
+
+121
+00:10:04,120 --> 00:10:06,032
+Elle s'est jouée juste ici.
+
+122
+00:10:07,000 --> 00:10:08,468
+Le dernier Super Bowl.
+
+123
+00:10:08,640 --> 00:10:10,108
+Ne me dis pas que c'était classique.
+
+124
+00:10:10,480 --> 00:10:11,755
+Une partie classique.
+
+125
+00:10:14,160 --> 00:10:15,139
+Quatre points d'écart.
+
+126
+00:10:17,520 --> 00:10:18,829
+<i>Le ballon</i>
+
+127
+00:10:19,440 --> 00:10:21,477
+<i>était à la ligne des 50 verges.</i>
+
+128
+00:10:21,680 --> 00:10:23,148
+<i>Il ne restait que quelques secondes.</i>
+
+129
+00:10:25,320 --> 00:10:26,959
+Le jeu commence.
+
+130
+00:10:27,800 --> 00:10:29,200
+Le quart-arrière perd le ballon.
+
+131
+00:10:31,160 --> 00:10:32,708
+Désastre.
+
+132
+00:10:33,720 --> 00:10:35,632
+La partie semble être terminée.
+
+133
+00:10:37,520 --> 00:10:39,193
+Le cœur central est mal aligné.
+
+134
+00:10:39,360 --> 00:10:41,340
+Tu n'as pas les outils nécessaires.
+
+135
+00:10:41,520 --> 00:10:43,159
+<i>Un nouveau réservoir ne changera rien.</i>
+
+136
+00:10:46,520 --> 00:10:49,342
+Le quart-arrière se remet à courir
+et reprend le ballon.
+
+137
+00:10:49,520 --> 00:10:50,670
+Attends, que viens-tu de faire ?
+
+138
+00:10:50,840 --> 00:10:53,389
+<i>Un mur de joueurs se dirige vers lui.</i>
+
+139
+00:10:55,320 --> 00:11:00,179
+<i>Il lance le ballon sans même
+savoir qui est à l'autre bout du terrain.</i>
+
+140
+00:11:00,360 --> 00:11:02,033
+À la grâce de Dieu.
+
+141
+00:11:04,000 --> 00:11:08,381
+Quatre-vingt mille personnes sont debout
+et regardent le ballon voler.
+
+142
+00:11:09,600 --> 00:11:15,392
+Au bout du terrain se trouve une recrue,
+un receveur de troisième choix.
+
+143
+00:11:15,720 --> 00:11:18,019
+Il s'élance hors de la meute.
+
+144
+00:11:19,720 --> 00:11:21,598
+Touché !
+
+145
+00:11:40,720 --> 00:11:41,790
+Contact ! Contact à l'ouest !
+
+146
+00:11:44,800 --> 00:11:46,507
+<i>Jack ?</i>
+
+147
+00:11:47,120 --> 00:11:48,224
+Ça va, Vika.
+
+148
+00:11:49,320 --> 00:11:51,073
+Ce n'est qu'un chien.
+
+149
+00:11:58,360 --> 00:11:59,339
+Hé !
+
+150
+00:12:00,040 --> 00:12:01,861
+Allez. Tu dois t'en aller d'ici.
+
+151
+00:12:03,200 --> 00:12:04,270
+Allez, va-t'en !
+
+152
+00:12:04,440 --> 00:12:06,557
+Dégage ! Allez !
+
+153
+00:12:14,960 --> 00:12:16,747
+<i>Technicien 49, Jack Harper.</i>
+
+154
+00:12:16,920 --> 00:12:17,899
+ACCEPTÉ
+
+155
+00:12:28,720 --> 00:12:29,756
+VOIE LIBRE
+
+156
+00:12:43,800 --> 00:12:45,746
+De rien.
+
+157
+00:12:48,640 --> 00:12:51,758
+Le 166 est de nouveau fonctionnel.
+
+158
+00:12:59,640 --> 00:13:03,543
+Deux drones détruits aujourd'hui.
+Dix réservoirs volés en un mois.
+
+159
+00:13:03,760 --> 00:13:05,979
+Les charognards deviennent sérieux.
+
+160
+00:13:06,160 --> 00:13:08,140
+<i>Les hydroforeuses prennent toute l'eau.</i>
+
+161
+00:13:08,680 --> 00:13:11,400
+Après notre départ,
+ils n'auront que poussière et radiation.
+
+162
+00:13:12,160 --> 00:13:13,833
+<i>C'est de la merde.</i>
+
+163
+00:13:14,240 --> 00:13:15,822
+On a gagné la guerre.
+
+164
+00:13:17,000 --> 00:13:18,514
+Et c'est nous qui devons partir.
+
+165
+00:13:20,800 --> 00:13:22,507
+Encore deux semaines, Jack.
+
+166
+00:13:23,160 --> 00:13:25,516
+<i>On sera en route vers Titan.</i>
+
+167
+00:13:26,840 --> 00:13:27,819
+Oui.
+
+168
+00:13:29,200 --> 00:13:31,476
+Ce drone est quelque part.
+
+169
+00:13:33,360 --> 00:13:35,033
+Il faut seulement le trouver.
+
+170
+00:13:35,440 --> 00:13:38,501
+Sans phare, c'est comme chercher
+une aiguille dans une botte de foin.
+
+171
+00:13:46,320 --> 00:13:49,199
+On va passer en mode terrestre.
+
+172
+00:15:30,760 --> 00:15:34,629
+Tour, j'ai localisé le 172
+
+173
+00:15:35,400 --> 00:15:37,551
+dans une doline.
+
+174
+00:15:37,720 --> 00:15:39,780
+Je ne le vois pas, mais je l'entends.
+
+175
+00:15:40,000 --> 00:15:42,060
+Tet est si mal orienté
+que je peux à peine te voir.
+
+176
+00:15:42,240 --> 00:15:43,424
+Ça ressemble à quoi ?
+
+177
+00:15:44,760 --> 00:15:48,390
+Ça va.
+Aucun signe de charognards à la surface.
+
+178
+00:15:48,560 --> 00:15:50,597
+<i>Tet sera hors ligne dans 15 minutes.</i>
+
+179
+00:15:52,000 --> 00:15:54,458
+<i>Après ça, tu seras seul.</i>
+
+180
+00:16:12,000 --> 00:16:13,980
+<i>Centre de contrôle, ici la tour 49.</i>
+
+181
+00:16:14,200 --> 00:16:18,342
+<i>Jack a localisé le drone 172.
+Il a entamé la réparation.</i>
+
+182
+00:16:18,520 --> 00:16:21,911
+Demande de soutien
+à son emplacement dès que possible.
+
+183
+00:16:50,640 --> 00:16:52,996
+Je vois le drone 172.
+
+184
+00:16:53,840 --> 00:16:55,024
+Jack ?
+
+185
+00:18:01,000 --> 00:18:02,753
+Bordel.
+
+186
+00:18:07,040 --> 00:18:08,349
+Merde.
+
+187
+00:19:48,200 --> 00:19:49,179
+Jack !
+
+188
+00:19:57,840 --> 00:19:59,820
+DESTRUCTION
+
+189
+00:20:20,200 --> 00:20:22,260
+Technicien 49, Jack Harper.
+
+190
+00:20:25,240 --> 00:20:27,596
+Jack Harper, technicien 49 !
+
+191
+00:20:29,160 --> 00:20:30,139
+Hé !
+
+192
+00:21:16,360 --> 00:21:18,511
+Oh non !
+
+193
+00:21:20,320 --> 00:21:23,950
+Allez. Pas ma moto !
+
+194
+00:22:28,760 --> 00:22:32,117
+"Comment un homme peut-il mieux mourir
+Qu'en affrontant les dangers
+
+195
+00:22:32,280 --> 00:22:35,341
+"Pour les cendres de ses ancêtres
+Et les temples de ses Dieux"
+
+196
+00:22:35,560 --> 00:22:36,710
+Jack ?
+
+197
+00:22:38,080 --> 00:22:40,504
+Oui, j'arrive.
+
+198
+00:22:57,720 --> 00:22:59,700
+<i>Comment est le 109 ?</i>
+
+199
+00:22:59,880 --> 00:23:00,859
+Peut-il voler ?
+
+200
+00:23:00,960 --> 00:23:02,713
+À peine.
+
+201
+00:23:02,880 --> 00:23:06,419
+Sans blindage, c'est une proie facile.
+
+202
+00:23:06,600 --> 00:23:09,593
+J'en parlerai à Sally demain matin.
+
+203
+00:23:09,800 --> 00:23:11,951
+- D'accord.
+- Encore une fois.
+
+204
+00:23:16,800 --> 00:23:20,191
+Quoi, Jack Harper ?
+
+205
+00:23:27,840 --> 00:23:29,627
+Où as-tu trouvé ça ?
+
+206
+00:23:29,840 --> 00:23:31,183
+Elle poussait dans...
+
+207
+00:23:46,480 --> 00:23:47,630
+Jack, tu connais les règles.
+
+208
+00:23:47,720 --> 00:23:50,349
+Tu me crois obsédée,
+mais tu n'as aucune idée des toxines
+
+209
+00:23:50,440 --> 00:23:52,477
+qui pourraient se trouver là-dedans.
+
+210
+00:23:53,200 --> 00:23:54,179
+C'est une fleur, Vika.
+
+211
+00:23:54,320 --> 00:23:55,470
+Là n'est pas la question.
+
+212
+00:23:56,240 --> 00:23:57,640
+On est si près de la fin.
+
+213
+00:23:57,800 --> 00:24:00,554
+Il ne faut surtout pas
+que tu mettes tout ça en péril.
+
+214
+00:24:02,520 --> 00:24:04,068
+D'accord.
+
+215
+00:24:07,640 --> 00:24:09,757
+Chaque jour, tu dois descendre à la surface
+
+216
+00:24:10,800 --> 00:24:13,554
+et voir tout ce qui a été détruit.
+
+217
+00:24:14,520 --> 00:24:17,183
+Mais on a fait notre travail, Jack.
+
+218
+00:24:20,720 --> 00:24:22,871
+C'est l'heure de partir.
+
+219
+00:24:28,880 --> 00:24:32,078
+Je ne pense pas
+qu'ils ont voulu me tuer aujourd'hui.
+
+220
+00:24:32,600 --> 00:24:34,182
+Les charognards.
+
+221
+00:24:39,280 --> 00:24:41,158
+Ils essayaient de m'attraper.
+
+222
+00:24:45,800 --> 00:24:48,429
+Ils ne peuvent pas t'attraper.
+
+223
+00:25:04,720 --> 00:25:06,029
+Viens.
+
+224
+00:26:03,040 --> 00:26:06,101
+Tu devrais descendre avec moi une fois,
+avant notre départ.
+
+225
+00:26:07,680 --> 00:26:11,219
+Il y a un endroit que j'aimerais te montrer.
+
+226
+00:26:15,120 --> 00:26:17,339
+Je vais te montrer quelque chose.
+
+227
+00:26:19,320 --> 00:26:20,902
+Hé !
+
+228
+00:27:42,680 --> 00:27:44,979
+Mon Dieu !
+
+229
+00:27:52,880 --> 00:27:56,715
+<i>Fusion du cœur de niveau six
+dans l'hydroforeuse.</i>
+
+230
+00:27:57,040 --> 00:27:58,508
+<i>Elle est complètement détruite.</i>
+
+231
+00:27:58,680 --> 00:28:01,434
+<i>Tour 49, vous avez mis
+toute l'opération en péril.</i>
+
+232
+00:28:01,600 --> 00:28:03,660
+<i>Je dois savoir exactement ce qui se passe.</i>
+
+233
+00:28:03,840 --> 00:28:06,560
+<i>Selon Jack, les charognards
+ont fait une arme d'un réservoir</i>
+
+234
+00:28:06,720 --> 00:28:08,757
+<i>et ils l'ont placée
+dans le système de succion.</i>
+
+235
+00:28:08,920 --> 00:28:10,354
+<i>Tour, un instant.</i>
+
+236
+00:28:11,720 --> 00:28:16,067
+Tour, j'ai un signal étranger dans la grille 37.
+Tu vois ça ?
+
+237
+00:28:16,240 --> 00:28:17,549
+Oui.
+
+238
+00:28:17,680 --> 00:28:19,353
+<i>Ce doit être un charognard.</i>
+
+239
+00:28:19,880 --> 00:28:21,553
+Ce n'est pas un des nôtres.
+
+240
+00:28:21,760 --> 00:28:25,720
+Jack, le signal est envoyé hors planète.
+
+241
+00:28:26,400 --> 00:28:28,551
+Je suis en route.
+
+242
+00:28:28,720 --> 00:28:33,067
+<i>Tour, nos systèmes indiquent
+qu'il vous manque neuf autres réservoirs.</i>
+
+243
+00:28:33,240 --> 00:28:34,219
+<i>Pouvez-vous confirmer ?</i>
+
+244
+00:28:34,320 --> 00:28:36,471
+Négatif, centre de contrôle,
+il nous en manque dix.
+
+245
+00:28:36,960 --> 00:28:39,020
+Le drone 172 a été détruit hier soir.
+
+246
+00:28:39,560 --> 00:28:43,065
+Le 109 est prêt au combat
+dès qu'on aura le blindage.
+
+247
+00:28:43,480 --> 00:28:45,301
+On en a assez pour les foreuses restantes.
+
+248
+00:28:45,440 --> 00:28:46,419
+J'ai fait les calculs.
+
+249
+00:28:46,600 --> 00:28:48,421
+<i>Nous allons faire les calculs nous-mêmes.</i>
+
+250
+00:28:48,600 --> 00:28:51,024
+<i>J'envoie les drones en position défensive.</i>
+
+251
+00:28:51,680 --> 00:28:52,659
+Bien reçu.
+
+252
+00:28:52,760 --> 00:28:56,117
+<i>On fait fonctionner les foreuses.
+Vous les protégez.</i>
+
+253
+00:28:56,200 --> 00:28:59,944
+<i>On ne peut pas en perdre une autre.
+C'est compris ?</i>
+
+254
+00:29:00,040 --> 00:29:01,019
+Compris.
+
+255
+00:29:01,240 --> 00:29:03,277
+<i>Êtes-vous une équipe efficace ?</i>
+
+256
+00:29:03,440 --> 00:29:04,544
+Oui, certainement.
+
+257
+00:29:12,800 --> 00:29:14,587
+SIGNAL INCONNU
+
+258
+00:29:14,760 --> 00:29:16,467
+Jack ?
+
+259
+00:29:16,640 --> 00:29:19,098
+Tu es juste à côté. Tu le vois ?
+
+260
+00:29:20,960 --> 00:29:22,474
+<i>Jack ?</i>
+
+261
+00:29:22,640 --> 00:29:24,791
+Oui, je le vois.
+
+262
+00:31:09,600 --> 00:31:12,900
+Ils ont un genre de répétiteur.
+
+263
+00:31:13,080 --> 00:31:17,518
+Les charognards utilisent
+l'immeuble comme antenne.
+
+264
+00:31:17,680 --> 00:31:18,659
+Peux-tu déchiffrer ça ?
+
+265
+00:31:23,280 --> 00:31:25,033
+C'est des coordonnées.
+
+266
+00:31:25,680 --> 00:31:27,262
+<i>Grille 17.</i>
+
+267
+00:31:27,520 --> 00:31:29,398
+<i>C'est un phare, bon sang.</i>
+
+268
+00:31:29,560 --> 00:31:30,744
+Grille 17.
+
+269
+00:31:31,200 --> 00:31:32,350
+Mais qu'est-ce que c'est ?
+
+270
+00:31:36,000 --> 00:31:38,185
+Rien. Tu es au milieu de nulle part.
+
+271
+00:31:39,200 --> 00:31:41,112
+<i>Que se passe-t-il ?</i>
+
+272
+00:31:41,280 --> 00:31:45,388
+Pourquoi les charognards envoient-ils
+un signal hors planète, Jack ?
+
+273
+00:31:47,120 --> 00:31:48,634
+Je vais l'éteindre.
+
+274
+00:32:01,520 --> 00:32:04,479
+Technicien 49, vérifie ton chemin.
+Tu te diriges vers la frontière.
+
+275
+00:32:05,760 --> 00:32:09,117
+<i>La radiation te fera cuire de l'intérieur
+en moins de deux.</i>
+
+276
+00:32:09,320 --> 00:32:11,266
+Ça va, Vika. Je vois la frontière.
+
+277
+00:32:11,400 --> 00:32:13,551
+ZONE DE RADIATION
+
+278
+00:32:13,720 --> 00:32:17,714
+Je vais vérifier le périmètre avant de rentrer.
+
+279
+00:32:19,120 --> 00:32:21,237
+On risque de perdre le contact.
+
+280
+00:32:21,400 --> 00:32:23,915
+Jack, il faut garder contact. Dis-moi où tu es.
+
+281
+00:32:25,440 --> 00:32:27,079
+<i>Compris ?</i>
+
+282
+00:32:28,360 --> 00:32:30,113
+<i>Jack, tu as compris ?</i>
+
+283
+00:32:38,000 --> 00:32:39,980
+C'est exact, Bob.
+
+284
+00:32:40,760 --> 00:32:42,513
+Tu sais où on s'en va.
+
+285
+00:34:24,120 --> 00:34:25,395
+Est-ce que je vais te manquer ?
+
+286
+00:34:34,760 --> 00:34:36,797
+Cet endroit va me manquer.
+
+287
+00:34:38,120 --> 00:34:40,305
+Ça aurait été super.
+
+288
+00:34:47,800 --> 00:34:49,951
+Ça aurait été super.
+
+289
+00:35:54,720 --> 00:35:56,666
+<i>Vika ? Vika, tu as vu ça ?</i>
+
+290
+00:35:56,880 --> 00:35:58,348
+<i>Jack, où étais-tu ?</i>
+
+291
+00:35:58,520 --> 00:36:00,466
+Un objet est arrivé dans la grille 17.
+
+292
+00:36:00,640 --> 00:36:01,949
+C'est les coordonnées du phare.
+
+293
+00:36:02,040 --> 00:36:03,076
+Exactement.
+
+294
+00:36:03,160 --> 00:36:04,981
+<i>Je l'ai vu. C'était un genre de vaisseau.</i>
+
+295
+00:36:05,160 --> 00:36:06,560
+Le centre est presque hors ligne.
+
+296
+00:36:06,720 --> 00:36:08,359
+<i>Je suis en chemin.</i>
+
+297
+00:36:09,320 --> 00:36:11,710
+Contrôle, impact avec objet
+non identifié dans le 17.
+
+298
+00:36:11,880 --> 00:36:14,031
+Aux coordonnées envoyées
+par un phare charognard.
+
+299
+00:36:14,200 --> 00:36:15,179
+Mon technicien est en route.
+
+300
+00:36:15,400 --> 00:36:19,838
+<i>Tour, nous allons perdre contact.
+Les drones sont déjà en fonction.</i>
+
+301
+00:36:20,000 --> 00:36:21,707
+<i>Dites à votre technicien de se replier.</i>
+
+302
+00:36:21,880 --> 00:36:23,314
+Bien reçu.
+
+303
+00:36:23,720 --> 00:36:25,837
+Jack, tu dois te replier.
+Les drones s'en chargent.
+
+304
+00:36:26,000 --> 00:36:27,639
+<i>Négatif, tour.</i>
+
+305
+00:36:27,800 --> 00:36:30,076
+Tet sera hors ligne.
+On doit voir ce qui se passe.
+
+306
+00:36:30,240 --> 00:36:32,061
+Je veux m'assurer que ce site est sécurisé.
+
+307
+00:36:35,200 --> 00:36:37,385
+Sally, mon technicien se soucie du site.
+
+308
+00:36:37,560 --> 00:36:39,859
+<i>Tour, vous avez perdu
+assez d'atouts aujourd'hui.</i>
+
+309
+00:36:40,040 --> 00:36:41,986
+<i>Dites à votre technicien
+de revenir. Compris ?</i>
+
+310
+00:36:42,160 --> 00:36:43,139
+Bien reçu, je suis...
+
+311
+00:36:48,760 --> 00:36:51,901
+Jack, le centre te demande de te replier.
+Les drones s'en occupent.
+
+312
+00:36:52,080 --> 00:36:53,662
+<i>Je suis sur place.</i>
+
+313
+00:36:54,080 --> 00:36:55,059
+<i>Jack.</i>
+
+314
+00:36:55,240 --> 00:36:57,903
+<i>Je ne te vois plus. Le centre est hors ligne.</i>
+
+315
+00:36:58,080 --> 00:37:01,039
+Vika, je crois que c'est un des nôtres.
+
+316
+00:37:03,520 --> 00:37:05,273
+Ce truc est ancien. On dirait qu'il date
+
+317
+00:37:06,040 --> 00:37:07,258
+d'avant la guerre.
+
+318
+00:37:07,440 --> 00:37:09,739
+Les charognards ont fait ça, Jack.
+
+319
+00:37:09,920 --> 00:37:11,229
+Aucun signe de charognards.
+
+320
+00:37:11,400 --> 00:37:12,743
+<i>Technicien, ici le commandement.</i>
+
+321
+00:37:12,920 --> 00:37:16,061
+Je t'ordonne de te replier
+et de rentrer immédiatement.
+
+322
+00:37:17,600 --> 00:37:19,421
+Je suis en train d'atterrir.
+
+323
+00:37:57,000 --> 00:37:58,753
+Ils sont humains.
+
+324
+00:38:05,600 --> 00:38:08,741
+Tour, on a des survivants.
+
+325
+00:38:10,000 --> 00:38:13,903
+Ils sont quatre... Non, cinq survivants.
+
+326
+00:38:14,680 --> 00:38:15,989
+Ils sont humains.
+
+327
+00:38:37,400 --> 00:38:39,278
+CRITIQUE
+
+328
+00:38:48,720 --> 00:38:49,938
+Recule !
+
+329
+00:38:50,120 --> 00:38:52,066
+Vika, les drones tirent sur les survivants.
+
+330
+00:38:52,240 --> 00:38:55,745
+Jack, le Tet est hors ligne.
+Je ne peux rien faire.
+
+331
+00:38:55,920 --> 00:38:57,024
+Recule !
+
+332
+00:39:04,600 --> 00:39:07,627
+<i>Jack Harper, technicien 49.</i>
+
+333
+00:39:14,800 --> 00:39:16,860
+<i>Recule, espèce de salaud !</i>
+
+334
+00:39:24,240 --> 00:39:25,822
+<i>Recule !</i>
+
+335
+00:40:32,360 --> 00:40:34,306
+Ouvre la porte.
+
+336
+00:40:36,680 --> 00:40:38,194
+Vika !
+
+337
+00:40:51,960 --> 00:40:53,235
+Va chercher la trousse médicale.
+
+338
+00:40:54,360 --> 00:40:56,340
+La trousse médicale !
+
+339
+00:41:10,000 --> 00:41:11,036
+Il faut signaler ça.
+
+340
+00:41:11,200 --> 00:41:14,466
+Signale que les drones ont tué
+l'équipage d'un de nos vaisseaux.
+
+341
+00:41:14,640 --> 00:41:16,040
+Voyons ce que le centre fera avec ça.
+
+342
+00:41:23,880 --> 00:41:26,156
+C'est du fluide. Il faut que ça sorte.
+
+343
+00:41:37,520 --> 00:41:38,499
+Jack.
+
+344
+00:42:05,080 --> 00:42:07,595
+Tiens. Tu es encore déshydratée.
+
+345
+00:42:22,600 --> 00:42:24,660
+Où sommes-nous ?
+
+346
+00:42:25,000 --> 00:42:27,424
+Je m'appelle Victoria. Voici Jack.
+
+347
+00:42:31,880 --> 00:42:33,997
+Comment t'appelles-tu ?
+
+348
+00:42:36,360 --> 00:42:37,703
+Julia.
+
+349
+00:42:38,320 --> 00:42:39,595
+Julia...
+
+350
+00:42:39,760 --> 00:42:43,060
+Je suis désolée de te l'apprendre,
+
+351
+00:42:43,400 --> 00:42:45,278
+mais tu as été victime d'un écrasement.
+
+352
+00:42:46,440 --> 00:42:48,193
+Ton vaisseau s'est écrasé.
+
+353
+00:42:49,320 --> 00:42:51,619
+Jack a réussi à te sortir des décombres.
+
+354
+00:42:53,240 --> 00:42:54,947
+Mais ton équipage n'a pas survécu.
+
+355
+00:43:03,000 --> 00:43:04,275
+Que veux-tu dire ?
+
+356
+00:43:04,800 --> 00:43:06,837
+Tu es la seule qui a survécu.
+
+357
+00:43:10,000 --> 00:43:11,548
+Je suis désolée.
+
+358
+00:43:19,040 --> 00:43:22,272
+Tu as été en sommeil profond
+pendant longtemps.
+
+359
+00:43:24,200 --> 00:43:26,624
+La désorientation est normale.
+
+360
+00:43:26,800 --> 00:43:28,109
+Combien de temps ?
+
+361
+00:43:32,520 --> 00:43:34,159
+Soixante ans.
+
+362
+00:43:34,320 --> 00:43:35,993
+Au moins.
+
+363
+00:43:46,800 --> 00:43:49,395
+Je dois retourner à notre vaisseau.
+
+364
+00:43:55,320 --> 00:43:58,552
+C'est trop dangereux. Tu dois te reposer.
+
+365
+00:44:09,040 --> 00:44:10,190
+Vika...
+
+366
+00:44:12,720 --> 00:44:14,359
+Ne me touche pas.
+
+367
+00:44:18,120 --> 00:44:23,036
+La rentrée de ton vaisseau a été déclenchée
+par un phare à la surface.
+
+368
+00:44:24,200 --> 00:44:25,509
+Tu sais pourquoi ?
+
+369
+00:44:34,880 --> 00:44:35,859
+Quelle était votre mission ?
+
+370
+00:44:38,920 --> 00:44:40,263
+C'est secret.
+
+371
+00:44:40,600 --> 00:44:41,875
+On n'a aucune entrée pour <i>Odyssey.</i>
+
+372
+00:44:42,040 --> 00:44:44,942
+Je ne peux rien dire
+avant d'avoir la boîte noire de mon vaisseau.
+
+373
+00:44:45,320 --> 00:44:49,223
+Julia, beaucoup de choses
+ont changé en 60 ans.
+
+374
+00:44:56,280 --> 00:44:58,067
+Pendant que tu étais en sommeil profond,
+
+375
+00:44:59,000 --> 00:45:00,434
+la Terre a été attaquée.
+
+376
+00:45:01,960 --> 00:45:03,940
+On les appelle les charognards.
+
+377
+00:45:05,160 --> 00:45:09,598
+Ils ont détruit notre lune et ainsi,
+la moitié de la planète.
+
+378
+00:45:11,400 --> 00:45:13,380
+Puis, ils nous ont envahis.
+
+379
+00:45:13,600 --> 00:45:15,068
+On a gagné la guerre,
+
+380
+00:45:15,960 --> 00:45:17,667
+mais la Terre a été détruite.
+
+381
+00:45:18,800 --> 00:45:20,985
+Tout le monde est sur Titan,
+une lune de Saturne.
+
+382
+00:45:21,160 --> 00:45:25,427
+Ou sur la station spatiale,
+en train de se préparer à partir.
+
+383
+00:45:27,440 --> 00:45:31,434
+On est ici pour la sécurité
+et l'entretien des drones.
+
+384
+00:45:32,800 --> 00:45:35,520
+On est l'équipe de nettoyage après-sinistre.
+
+385
+00:45:56,280 --> 00:45:58,317
+Tu as perdu ton équipe.
+
+386
+00:45:59,800 --> 00:46:00,950
+Tout.
+
+387
+00:46:04,240 --> 00:46:06,698
+Si tu préfères rester seule,
+on va comprendre.
+
+388
+00:46:18,880 --> 00:46:22,476
+Les drones ont tué tout son équipage.
+
+389
+00:46:25,480 --> 00:46:26,630
+Si je n'avais pas été là...
+
+390
+00:46:26,840 --> 00:46:28,354
+Je veux qu'elle parte demain matin.
+
+391
+00:46:28,520 --> 00:46:29,920
+Vika.
+
+392
+00:46:31,480 --> 00:46:34,871
+Tu as des souvenirs d'avant la mission ?
+
+393
+00:46:36,320 --> 00:46:38,676
+Avant la suppression de sécurité ?
+
+394
+00:46:40,440 --> 00:46:42,864
+Notre travail consiste à oublier.
+
+395
+00:46:44,560 --> 00:46:45,869
+Tu te souviens ?
+
+396
+00:46:46,560 --> 00:46:48,199
+Tu te souviens d'elle ?
+
+397
+00:46:53,400 --> 00:46:54,379
+Jack...
+
+398
+00:46:55,360 --> 00:46:59,354
+Un phare charognard a attiré son vaisseau.
+
+399
+00:47:00,600 --> 00:47:03,263
+On ignore qui elle est.
+
+400
+00:47:05,040 --> 00:47:06,440
+Ou ce qu'elle est.
+
+401
+00:47:09,520 --> 00:47:11,705
+Commençons par survivre à cette nuit.
+
+402
+00:47:12,040 --> 00:47:13,713
+D'accord ?
+
+403
+00:47:51,920 --> 00:47:53,559
+Tu pilotes ce truc ?
+
+404
+00:47:55,360 --> 00:47:56,703
+Oui.
+
+405
+00:48:00,400 --> 00:48:02,278
+Et maintenant ?
+
+406
+00:48:04,640 --> 00:48:06,757
+Le Tet reviendra en ligne bientôt.
+
+407
+00:48:06,920 --> 00:48:10,220
+Victoria signalera ton sauvetage.
+
+408
+00:48:11,040 --> 00:48:13,316
+Ils enverront quelqu'un te chercher.
+
+409
+00:48:14,600 --> 00:48:16,273
+À partir du Tet ?
+
+410
+00:48:17,080 --> 00:48:18,264
+Oui.
+
+411
+00:48:22,120 --> 00:48:24,544
+Je dois aller chercher la boîte noire
+de mon vaisseau.
+
+412
+00:48:25,960 --> 00:48:28,418
+Les charognards se déplacent la nuit.
+
+413
+00:48:29,080 --> 00:48:32,949
+- Ils sont sûrement là-bas.
+- Je dois savoir ce qui s'est passé.
+
+414
+00:48:35,120 --> 00:48:36,907
+Tu dois savoir ce qui s'est passé.
+
+415
+00:48:38,800 --> 00:48:40,621
+Je t'en prie.
+
+416
+00:49:03,640 --> 00:49:05,108
+Jack ?
+
+417
+00:49:05,280 --> 00:49:07,317
+Jack, qu'est-ce que tu fais ?
+
+418
+00:49:07,480 --> 00:49:08,755
+Vika, c'est une pilote.
+
+419
+00:49:08,960 --> 00:49:12,192
+Elle veut voir son vaisseau
+et trouver la boîte noire.
+
+420
+00:49:12,360 --> 00:49:13,828
+Tu ferais la même chose.
+
+421
+00:49:14,000 --> 00:49:15,673
+<i>Jack...</i>
+
+422
+00:49:17,960 --> 00:49:20,475
+Je ne peux pas te protéger.
+
+423
+00:49:23,000 --> 00:49:24,821
+Non, je comprends.
+
+424
+00:49:27,480 --> 00:49:29,631
+Je suis seul cette fois.
+
+425
+00:50:12,360 --> 00:50:13,908
+Je n'ai pas pu les sauver.
+
+426
+00:50:25,560 --> 00:50:27,438
+Jack. Jack !
+
+427
+00:50:32,120 --> 00:50:33,554
+Jack, tu m'entends ?
+
+428
+00:51:06,920 --> 00:51:08,559
+Bon, c'est l'heure de partir.
+
+429
+00:51:08,720 --> 00:51:10,120
+Jack.
+
+430
+00:51:10,960 --> 00:51:12,474
+Je l'ai trouvée.
+
+431
+00:51:24,760 --> 00:51:25,739
+Jack !
+
+432
+00:51:27,120 --> 00:51:30,261
+RETOUR D'URGENCE
+INITIALISATION DU PILOTE AUTOMATIQUE
+
+433
+00:52:31,520 --> 00:52:34,183
+<i>Tour 49, comment allez-vous ce matin ?</i>
+
+434
+00:52:34,800 --> 00:52:36,951
+Une autre journée au paradis.
+
+435
+00:52:38,400 --> 00:52:39,379
+Sally...
+
+436
+00:52:40,600 --> 00:52:45,197
+Jack a effectué une patrouille avant l'aube.
+
+437
+00:52:45,360 --> 00:52:48,990
+On a perdu contact
+
+438
+00:52:51,200 --> 00:52:54,159
+près des canyons dans la grille 17.
+
+439
+00:52:54,560 --> 00:52:57,519
+Je sais qu'on manque de drones,
+
+440
+00:52:57,680 --> 00:53:03,301
+mais il en faut un pour balayer le secteur.
+
+441
+00:53:06,520 --> 00:53:08,398
+Juste une vérification rapide.
+
+442
+00:53:08,880 --> 00:53:13,625
+<i>Bien reçu, 49.
+J'envoie le 185 dans la grille 22.</i>
+
+443
+00:53:47,760 --> 00:53:50,901
+"Comment un homme peut-il mieux mourir
+Qu'en affrontant les dangers
+
+444
+00:53:51,720 --> 00:53:54,542
+"Pour les cendres de ses ancêtres
+
+445
+00:53:54,720 --> 00:53:57,599
+"Et les temples de ses Dieux"
+
+446
+00:54:13,960 --> 00:54:16,418
+Je vous ai observé, Jack.
+
+447
+00:54:17,240 --> 00:54:19,459
+Vous êtes curieux.
+
+448
+00:54:19,640 --> 00:54:21,825
+Que cherchez-vous dans ces livres ?
+
+449
+00:54:23,360 --> 00:54:26,114
+Est-ce qu'ils vous rappellent
+de vieux souvenirs ?
+
+450
+00:54:26,320 --> 00:54:28,619
+Vous n'obtiendrez rien de moi.
+
+451
+00:54:28,800 --> 00:54:30,473
+Ma mémoire a été effacée pour protéger...
+
+452
+00:54:30,640 --> 00:54:33,542
+... la sécurité de la mission. Oui.
+
+453
+00:54:35,000 --> 00:54:39,745
+Vos précieux souvenirs ne doivent pas
+tomber entre de mauvaises mains.
+
+454
+00:54:40,800 --> 00:54:42,234
+Dites-moi une chose.
+
+455
+00:54:42,400 --> 00:54:46,747
+Vous avez déjà vu un charognard de près ?
+
+456
+00:54:48,560 --> 00:54:52,463
+Bien sûr que non. Vous réparez des drones.
+
+457
+00:54:53,120 --> 00:54:55,237
+"N'allez pas dans la zone de radiation."
+
+458
+00:54:56,320 --> 00:54:59,461
+"Ne posez pas trop de questions."
+
+459
+00:54:59,680 --> 00:55:04,357
+Ça ne fait pas partie
+de la description de poste.
+
+460
+00:55:05,200 --> 00:55:06,236
+Lumières.
+
+461
+00:55:30,360 --> 00:55:32,181
+On n'est pas des extraterrestres, Jack.
+
+462
+00:55:32,880 --> 00:55:34,280
+On est des humains.
+
+463
+00:55:35,200 --> 00:55:38,466
+Mais bien sûr, pour nous,
+le fait d'être humain est un problème.
+
+464
+00:55:43,000 --> 00:55:46,835
+Une vieille technologie de furtivité.
+Ça nous protège contre vos détecteurs.
+
+465
+00:55:47,000 --> 00:55:48,821
+Embrouillage vocal.
+
+466
+00:55:49,400 --> 00:55:50,834
+Vous m'entendez, Jack ?
+
+467
+00:55:51,880 --> 00:55:54,668
+Ça confond vos drones.
+
+468
+00:55:55,000 --> 00:55:58,539
+La plupart du temps.
+
+469
+00:55:59,000 --> 00:56:00,150
+Les drones sont programmés...
+
+470
+00:56:00,240 --> 00:56:01,822
+Pour tuer des humains, Jack.
+
+471
+00:56:02,080 --> 00:56:05,039
+Vous avez vu ce qu'ils ont fait aux nacelles.
+
+472
+00:56:05,480 --> 00:56:09,383
+Vous vous êtes presque fait tuer
+en voulant protéger cette femme.
+
+473
+00:56:14,200 --> 00:56:15,668
+Pourquoi avez-vous fait ça ?
+
+474
+00:56:16,960 --> 00:56:18,599
+N'importe qui aurait fait pareil.
+
+475
+00:56:18,760 --> 00:56:19,944
+"N'importe qui."
+
+476
+00:56:21,640 --> 00:56:22,619
+Intéressant.
+
+477
+00:56:22,800 --> 00:56:24,268
+On perd notre temps.
+
+478
+00:56:24,920 --> 00:56:26,741
+Les drones vont le repérer ici.
+
+479
+00:56:26,920 --> 00:56:28,024
+Voici le sergent Sykes.
+
+480
+00:56:28,960 --> 00:56:32,385
+Il croit que je suis idiot
+de vous avoir fait venir ici.
+
+481
+00:56:38,320 --> 00:56:40,357
+J'espère que vous lui prouverez qu'il a tort.
+
+482
+00:56:51,880 --> 00:56:54,270
+Contrôle, je détecte une trace
+près des canyons ouest.
+
+483
+00:56:54,440 --> 00:56:55,908
+Pouvez-vous confirmer la séquence ?
+
+484
+00:56:56,080 --> 00:56:57,389
+<i>Attendez.</i>
+
+485
+00:56:59,320 --> 00:57:01,505
+<i>ADN confirmé. C'est Jack.</i>
+
+486
+00:57:04,280 --> 00:57:06,158
+<i>Vika, ça va ?</i>
+
+487
+00:57:06,440 --> 00:57:08,864
+<i>Tout va bien entre vous deux ?</i>
+
+488
+00:57:09,120 --> 00:57:10,463
+Bien sûr.
+
+489
+00:57:10,640 --> 00:57:12,939
+<i>Vous êtes toujours une équipe efficace ?</i>
+
+490
+00:57:13,280 --> 00:57:15,067
+On est une équipe super.
+
+491
+00:57:16,640 --> 00:57:17,858
+Meilleure que jamais.
+
+492
+00:57:18,080 --> 00:57:20,379
+<i>On a fait une attaque au sol,
+mais on allait perdre.</i>
+
+493
+00:57:20,560 --> 00:57:25,271
+On a donc décidé
+d'y aller pour la passe longue.
+
+494
+00:57:25,440 --> 00:57:28,831
+Ça nous a pris des décennies
+pour déchiffrer les codes GPS.
+
+495
+00:57:29,000 --> 00:57:31,629
+C'est comme ça
+que vous avez attiré l'<i>Odyssey.</i>
+
+496
+00:57:33,920 --> 00:57:35,388
+Pourquoi ?
+
+497
+00:57:36,480 --> 00:57:40,019
+Le réacteur compact de l'<i>Odyssey,</i>
+gracieuseté de la NASA.
+
+498
+00:57:40,200 --> 00:57:42,749
+C'est très dur à trouver.
+
+499
+00:57:44,240 --> 00:57:47,301
+Vous avez aimé le spectacle hier soir ?
+
+500
+00:57:49,720 --> 00:57:53,077
+Ce n'était qu'un seul réservoir.
+
+501
+00:57:53,280 --> 00:57:56,182
+Imaginez ce que feront dix réservoirs
+
+502
+00:57:56,360 --> 00:58:00,502
+avec un cœur de plutonium
+de qualité militaire.
+
+503
+00:58:00,680 --> 00:58:05,061
+On a une arme nucléaire
+et on a un drone pour la transporter.
+
+504
+00:58:05,240 --> 00:58:09,200
+Mais on ne peut pas y accéder.
+Il ne nous reconnaît pas.
+
+505
+00:58:11,360 --> 00:58:13,875
+Mais il vous connaît, Jack.
+
+506
+00:58:20,520 --> 00:58:23,115
+Vous devez programmer le drone.
+
+507
+00:58:23,960 --> 00:58:26,862
+Il doit transporter
+notre arme nucléaire jusqu'au Tet.
+
+508
+00:58:32,560 --> 00:58:34,108
+Pour mettre fin à cette guerre.
+
+509
+00:58:38,040 --> 00:58:39,793
+Il y a des gens là-haut.
+
+510
+00:58:42,120 --> 00:58:43,099
+Sergent.
+
+511
+00:58:43,440 --> 00:58:46,865
+Programmez le drone
+pour qu'il retourne au Tet.
+
+512
+00:58:47,720 --> 00:58:50,986
+Il doit se rendre au centre.
+
+513
+00:58:52,480 --> 00:58:54,062
+Allez au diable.
+
+514
+00:58:56,760 --> 00:58:57,910
+On n'a pas le temps pour ça.
+
+515
+00:59:23,640 --> 00:59:24,744
+Hé !
+
+516
+00:59:36,800 --> 00:59:37,779
+Non.
+
+517
+00:59:44,800 --> 00:59:45,950
+- Allez-y !
+- Levez-le.
+
+518
+01:00:42,360 --> 01:00:44,818
+Contrôle, le 185 vient de disparaître.
+
+519
+01:00:45,000 --> 01:00:46,946
+<i>Bien reçu, tour, nous voyons la même chose.</i>
+
+520
+01:00:47,160 --> 01:00:49,675
+Puis-je programmer deux autres drones ?
+
+521
+01:00:50,360 --> 01:00:54,024
+Si un drone est ici, d'autres viendront.
+
+522
+01:00:54,880 --> 01:00:57,395
+Et ils n'arrêteront pas avant de me trouver.
+
+523
+01:00:57,560 --> 01:01:00,348
+Ils réduiront cet endroit en cendres.
+
+524
+01:01:00,520 --> 01:01:04,150
+Mais si vous nous laissez partir,
+je les arrêterai.
+
+525
+01:01:08,360 --> 01:01:09,828
+C'est votre seule chance.
+
+526
+01:01:24,680 --> 01:01:26,831
+Je suis allé dans vos
+
+527
+01:01:27,400 --> 01:01:29,380
+"zones de radiation".
+
+528
+01:01:30,560 --> 01:01:32,233
+Si vous cherchez la vérité,
+
+529
+01:01:33,720 --> 01:01:35,905
+c'est là que vous la trouverez.
+
+530
+01:01:49,760 --> 01:01:53,026
+Vous avez mis la vie de tout le monde
+en danger. Et tout le reste.
+
+531
+01:01:53,600 --> 01:01:56,263
+Pourquoi pensez-vous qu'il est différent ?
+
+532
+01:01:57,760 --> 01:01:59,035
+C'est elle qui le pense.
+
+533
+01:02:19,960 --> 01:02:21,940
+FAIBLE NIVEAU D'ESSENCE
+
+534
+01:02:42,600 --> 01:02:46,833
+UNE AUTRE JOURNÉE AU PARADIS
+
+535
+01:02:55,280 --> 01:02:58,990
+<i>Contrôle, j'ai trouvé mon technicien
+dans la grille 37.</i>
+
+536
+01:02:59,160 --> 01:03:00,628
+<i>Vous pouvez annuler la recherche.</i>
+
+537
+01:03:00,800 --> 01:03:03,315
+<i>Bien reçu, tour.
+Nous sommes heureux que Jack aille bien.</i>
+
+538
+01:03:03,480 --> 01:03:06,598
+<i>On renvoie les autres drones aux foreuses.</i>
+
+539
+01:03:30,000 --> 01:03:32,356
+Où allons-nous maintenant ?
+
+540
+01:03:34,360 --> 01:03:35,942
+Qui es-tu ?
+
+541
+01:03:39,000 --> 01:03:41,390
+Qu'est-ce que tu ne me dis pas ?
+
+542
+01:03:42,240 --> 01:03:43,674
+Jack, je...
+
+543
+01:03:43,880 --> 01:03:45,519
+Que faisais-tu à bord de l'<i>Odyssey</i> ?
+
+544
+01:03:46,480 --> 01:03:48,392
+Quelle était ta mission ?
+
+545
+01:03:51,400 --> 01:03:55,235
+C'était un vol de recherche vers Titan.
+Mon premier.
+
+546
+01:03:56,080 --> 01:03:58,868
+C'est ce que ça devait être.
+
+547
+01:04:01,080 --> 01:04:05,700
+Six semaines avant le lancement,
+des scanneurs ont repéré un objet étranger.
+
+548
+01:04:05,880 --> 01:04:08,395
+On a eu pour tâche d'enquêter.
+
+549
+01:04:09,280 --> 01:04:10,464
+Ils nous ont endormis.
+
+550
+01:04:10,640 --> 01:04:14,543
+Ils ont dû vous réveiller en premier,
+Victoria et toi.
+
+551
+01:04:19,160 --> 01:04:20,264
+Quoi ?
+
+552
+01:04:20,440 --> 01:04:22,386
+Cet objet
+
+553
+01:04:22,560 --> 01:04:24,540
+était le Tet, Jack.
+
+554
+01:04:25,320 --> 01:04:28,461
+Le Tet était notre mission.
+
+555
+01:04:31,960 --> 01:04:33,940
+C'est impossible.
+
+556
+01:04:34,920 --> 01:04:36,434
+C'est impossible !
+
+557
+01:04:37,080 --> 01:04:38,992
+Qui es-tu ?
+
+558
+01:04:42,240 --> 01:04:44,061
+Je suis ta femme.
+
+559
+01:04:48,960 --> 01:04:53,273
+J'ignore ce qui s'est passé,
+mais tu n'es pas celui que tu crois.
+
+560
+01:05:01,960 --> 01:05:04,316
+Jack, on était ici.
+
+561
+01:05:05,360 --> 01:05:09,673
+Tu m'as demandé de te rejoindre.
+Tu m'as emmenée au sommet du monde.
+
+562
+01:05:15,160 --> 01:05:18,119
+Je voyais que tu étais nerveux ce jour-là.
+
+563
+01:05:18,680 --> 01:05:20,956
+Ça s'est passé juste ici, Jack.
+
+564
+01:05:25,960 --> 01:05:27,633
+Tu as dit :
+
+565
+01:05:27,800 --> 01:05:29,951
+"Regarde là-dedans.
+
+566
+01:05:31,000 --> 01:05:32,514
+"Je vais te montrer l'avenir."
+
+567
+01:05:35,160 --> 01:05:36,833
+Et je t'ai montré une alliance.
+
+568
+01:05:57,680 --> 01:05:58,830
+Et tu as dit...
+
+569
+01:05:59,000 --> 01:06:00,548
+"Oui."
+
+570
+01:06:07,720 --> 01:06:09,871
+Te revoilà.
+
+571
+01:06:12,040 --> 01:06:14,157
+Te revoilà.
+
+572
+01:06:38,400 --> 01:06:41,427
+Salut.
+
+573
+01:06:44,280 --> 01:06:45,794
+Allez.
+
+574
+01:07:48,160 --> 01:07:50,516
+<i>Vika, j'arrive.</i>
+
+575
+01:07:51,880 --> 01:07:55,908
+<i>Ne parle pas au centre de contrôle
+avant mon retour. Compris ?</i>
+
+576
+01:07:56,800 --> 01:07:58,234
+<i>Compris ?</i>
+
+577
+01:08:15,360 --> 01:08:17,659
+Vika, ouvre la porte.
+
+578
+01:08:17,840 --> 01:08:19,991
+Tiens-toi loin de moi.
+
+579
+01:08:21,280 --> 01:08:22,987
+Je ne veux rien entendre.
+
+580
+01:08:23,360 --> 01:08:26,831
+C'est dangereux ici.
+Il faut partir tout de suite.
+
+581
+01:08:30,520 --> 01:08:32,432
+Ça a toujours été elle.
+
+582
+01:08:35,360 --> 01:08:36,669
+N'est-ce pas ?
+
+583
+01:08:37,800 --> 01:08:39,200
+Vika...
+
+584
+01:08:44,680 --> 01:08:46,467
+C'est ma femme.
+
+585
+01:09:02,240 --> 01:09:04,664
+Centre de contrôle, ici la tour 49.
+
+586
+01:09:04,840 --> 01:09:06,183
+<i>Je vous écoute, 49.</i>
+
+587
+01:09:06,360 --> 01:09:07,703
+Non.
+
+588
+01:09:08,280 --> 01:09:10,317
+J'ai un problème avec mon technicien.
+
+589
+01:09:10,480 --> 01:09:12,233
+Non, tu ne sais pas ce que tu fais.
+
+590
+01:09:12,400 --> 01:09:14,039
+Il a trouvé une survivante.
+
+591
+01:09:14,200 --> 01:09:15,145
+Tu dois m'écouter.
+
+592
+01:09:15,240 --> 01:09:17,391
+Elle bloque ses habiletés.
+
+593
+01:09:18,280 --> 01:09:20,317
+Il est inapte au travail.
+
+594
+01:09:20,480 --> 01:09:21,789
+Non, non.
+
+595
+01:09:21,960 --> 01:09:24,680
+<i>Je suis désolée de l'apprendre, Vika.</i>
+
+596
+01:09:25,160 --> 01:09:27,197
+<i>Êtes-vous encore une équipe efficace ?</i>
+
+597
+01:09:28,080 --> 01:09:29,264
+Vika...
+
+598
+01:09:29,440 --> 01:09:31,147
+Ouvre la maudite porte, Vika !
+
+599
+01:09:31,440 --> 01:09:33,022
+Non.
+
+600
+01:09:36,880 --> 01:09:39,179
+Nous ne sommes plus une équipe efficace.
+
+601
+01:10:01,120 --> 01:10:04,079
+Vika, je t'en prie. Il faut y aller.
+
+602
+01:10:04,240 --> 01:10:06,539
+Je n'irai nulle part avec toi, Jack.
+
+603
+01:10:06,760 --> 01:10:10,231
+Je connais un endroit. On sera en sécurité.
+
+604
+01:10:11,120 --> 01:10:12,554
+Je m'en vais sur Titan.
+
+605
+01:10:15,120 --> 01:10:16,190
+Titan n'existe pas.
+
+606
+01:10:16,960 --> 01:10:18,303
+Ils nous ont menti.
+
+607
+01:10:18,520 --> 01:10:20,796
+Éloigne-toi de moi.
+
+608
+01:10:20,960 --> 01:10:25,227
+Vika, je t'en prie, il y a des choses
+
+609
+01:10:25,400 --> 01:10:26,436
+que tu dois savoir.
+
+610
+01:10:26,600 --> 01:10:28,421
+Je ne veux pas savoir !
+
+611
+01:10:32,920 --> 01:10:33,899
+Jack...
+
+612
+01:10:56,480 --> 01:10:58,426
+DESTRUCTION
+
+613
+01:11:13,640 --> 01:11:17,350
+<i>Bonjour, Jack. On n'a pas eu le plaisir
+de faire connaissance.</i>
+
+614
+01:11:18,960 --> 01:11:20,360
+Qu'avez-vous fait ?
+
+615
+01:11:20,520 --> 01:11:24,264
+<i>Ne vous blâmez pas.
+Les drones ne sont pas fiables.</i>
+
+616
+01:11:24,440 --> 01:11:26,352
+<i>Parfois, ils fonctionnent mal.</i>
+
+617
+01:11:27,360 --> 01:11:29,067
+Ils fonctionnent mal ?
+
+618
+01:11:31,920 --> 01:11:33,229
+C'est vous qui l'avez tuée.
+
+619
+01:11:33,400 --> 01:11:38,259
+<i>C'est tragique, je sais.
+C'était une personne géniale.</i>
+
+620
+01:11:38,480 --> 01:11:41,621
+<i>Jack, nous voulons vous ramener.</i>
+
+621
+01:11:42,240 --> 01:11:46,780
+<i>J'ai le droit de vous informer
+qu'on vous assigne une nouvelle mission.</i>
+
+622
+01:11:46,960 --> 01:11:48,838
+<i>À vous et à la survivante.</i>
+
+623
+01:11:55,440 --> 01:11:58,638
+<i>On s'intéresse beaucoup à elle. Emmenez-la.</i>
+
+624
+01:11:58,800 --> 01:12:02,271
+<i>On pourra discuter, et tout sera possible.</i>
+
+625
+01:12:02,760 --> 01:12:05,514
+<i>Il est temps de rentrer, Jack.</i>
+
+626
+01:12:06,320 --> 01:12:07,993
+<i>Jack ?</i>
+
+627
+01:12:08,520 --> 01:12:09,863
+<i>Jack ?</i>
+
+628
+01:12:21,080 --> 01:12:22,059
+Jack...
+
+629
+01:12:24,760 --> 01:12:26,194
+Je suis désolée.
+
+630
+01:12:38,720 --> 01:12:40,234
+Tiens bon.
+
+631
+01:13:01,200 --> 01:13:02,179
+Éclair.
+
+632
+01:13:02,760 --> 01:13:03,739
+Voilà le plan.
+
+633
+01:13:39,280 --> 01:13:40,498
+Il nous faut un abri.
+
+634
+01:13:41,520 --> 01:13:42,624
+Là.
+
+635
+01:15:29,560 --> 01:15:31,472
+- Ça va ?
+- Non.
+
+636
+01:15:38,520 --> 01:15:39,556
+ZONE DE RADIATION
+
+637
+01:15:42,320 --> 01:15:43,902
+Ne t'en fais, on n'ira pas là.
+
+638
+01:15:53,440 --> 01:15:55,591
+- Allons-nous mourir ?
+- Non !
+
+639
+01:15:59,000 --> 01:16:00,343
+Peut-être.
+
+640
+01:16:01,520 --> 01:16:02,738
+Jack !
+
+641
+01:16:42,560 --> 01:16:44,677
+Enfant de pute.
+
+642
+01:16:52,760 --> 01:16:53,739
+Attends ici.
+
+643
+01:17:33,080 --> 01:17:34,423
+Qui est-ce ?
+
+644
+01:18:13,640 --> 01:18:14,983
+Hé !
+
+645
+01:18:15,600 --> 01:18:17,000
+Attends !
+
+646
+01:18:17,600 --> 01:18:19,148
+Attends !
+
+647
+01:18:19,320 --> 01:18:20,959
+Hé !
+
+648
+01:18:39,520 --> 01:18:40,704
+Lâche ton arme !
+
+649
+01:18:56,320 --> 01:18:57,993
+Ça va.
+
+650
+01:19:01,600 --> 01:19:02,784
+Ne bouge pas !
+
+651
+01:19:06,320 --> 01:19:09,279
+Il faut éteindre ce drone.
+
+652
+01:19:11,440 --> 01:19:12,419
+Ne bouge pas !
+
+653
+01:19:12,640 --> 01:19:13,676
+Jack !
+
+654
+01:20:20,360 --> 01:20:22,067
+Ça va.
+
+655
+01:20:43,040 --> 01:20:44,383
+Julia.
+
+656
+01:20:46,800 --> 01:20:48,348
+Julia !
+
+657
+01:20:57,760 --> 01:20:58,739
+Non.
+
+658
+01:20:59,080 --> 01:21:01,379
+Ne me touche pas.
+
+659
+01:21:18,920 --> 01:21:20,195
+Tiens bon.
+
+660
+01:21:20,840 --> 01:21:22,308
+Tiens bon.
+
+661
+01:21:53,400 --> 01:21:56,632
+Jack Harper, technicien 52.
+
+662
+01:21:56,840 --> 01:21:58,627
+TECHNICIEN 52 CONFIRMÉ
+
+663
+01:22:08,200 --> 01:22:10,658
+TOUR 52
+
+664
+01:23:06,040 --> 01:23:07,622
+Salut.
+
+665
+01:23:07,800 --> 01:23:09,507
+Te voilà.
+
+666
+01:23:13,520 --> 01:23:15,034
+Que s'est-il passé ? Ça va ?
+
+667
+01:23:15,520 --> 01:23:18,581
+L'objet a traversé la frontière.
+Puis, je t'ai perdu.
+
+668
+01:23:21,480 --> 01:23:22,459
+Fausse alerte.
+
+669
+01:23:27,120 --> 01:23:28,463
+Je ferais mieux d'y retourner.
+
+670
+01:23:29,120 --> 01:23:32,147
+Tu rentres à la maison,
+et je n'ai pas droit à un baiser ?
+
+671
+01:23:43,080 --> 01:23:45,060
+À quoi tu penses ?
+
+672
+01:23:46,360 --> 01:23:48,397
+Je pensais...
+
+673
+01:23:49,560 --> 01:23:51,381
+Pourquoi ne viens-tu pas avec moi ?
+
+674
+01:23:52,080 --> 01:23:54,538
+À la surface ?
+
+675
+01:23:54,840 --> 01:23:56,627
+On pourrait y aller maintenant.
+
+676
+01:23:57,040 --> 01:23:58,554
+Maintenant ?
+
+677
+01:23:59,440 --> 01:24:00,476
+Oui.
+
+678
+01:24:01,360 --> 01:24:02,999
+Tu es sérieux ?
+
+679
+01:24:03,160 --> 01:24:05,675
+Tu ne croiras jamais ce qu'il y a en bas.
+
+680
+01:24:10,200 --> 01:24:11,907
+Jack...
+
+681
+01:24:12,840 --> 01:24:14,718
+Tu connais les règles.
+
+682
+01:24:15,720 --> 01:24:17,063
+Oui.
+
+683
+01:24:18,720 --> 01:24:22,748
+On peut arrêter ça ? J'en ai assez d'en parler.
+
+684
+01:24:24,840 --> 01:24:26,354
+D'accord.
+
+685
+01:25:15,160 --> 01:25:17,311
+Ça va faire mal.
+
+686
+01:25:28,120 --> 01:25:30,305
+Toute une journée, pas vrai, Bob ?
+
+687
+01:26:55,920 --> 01:26:57,832
+Tu as toujours aimé cette chanson.
+
+688
+01:27:01,880 --> 01:27:03,428
+Je ne suis pas lui.
+
+689
+01:27:06,520 --> 01:27:08,273
+Je le sais.
+
+690
+01:27:11,600 --> 01:27:13,546
+Mais je t'ai aimée...
+
+691
+01:27:16,360 --> 01:27:18,511
+... depuis aussi longtemps
+que je me rappelle.
+
+692
+01:27:19,960 --> 01:27:22,384
+J'ignore comment le dire autrement.
+
+693
+01:27:27,800 --> 01:27:30,395
+Tu sais ce que tu m'as déjà dit ?
+
+694
+01:27:32,040 --> 01:27:36,068
+Quand tout serait terminé,
+tu me construirais une maison près d'un lac.
+
+695
+01:27:39,040 --> 01:27:42,784
+On allait vieillir et grossir ensemble.
+
+696
+01:27:44,200 --> 01:27:45,873
+Et on allait se disputer.
+
+697
+01:27:47,080 --> 01:27:49,436
+Peut-être boire un peu trop.
+
+698
+01:27:50,320 --> 01:27:52,539
+Vraiment romantique.
+
+699
+01:27:56,520 --> 01:27:59,342
+Puis, on allait mourir
+
+700
+01:28:00,440 --> 01:28:03,035
+et on serait enterrés
+dans un pré tout près du lac.
+
+701
+01:28:05,800 --> 01:28:08,463
+Et le monde nous oublierait.
+
+702
+01:28:12,320 --> 01:28:15,074
+Mais on serait toujours ensemble.
+
+703
+01:28:17,960 --> 01:28:19,599
+Je m'en souviens.
+
+704
+01:28:21,320 --> 01:28:24,040
+Ces souvenirs t'appartiennent, Jack.
+
+705
+01:28:25,600 --> 01:28:27,034
+Ils nous appartiennent.
+
+706
+01:28:29,280 --> 01:28:30,259
+C'est ce que tu es.
+
+707
+01:29:32,440 --> 01:29:33,749
+Bonjour.
+
+708
+01:29:39,960 --> 01:29:42,350
+Je voulais passer le reste de ma vie ici.
+
+709
+01:29:44,320 --> 01:29:45,504
+C'est encore possible.
+
+710
+01:29:49,600 --> 01:29:51,421
+Je dois y aller.
+
+711
+01:29:51,920 --> 01:29:54,344
+Ces gens ont besoin de mon aide.
+
+712
+01:30:01,280 --> 01:30:03,260
+On reviendra quand tout sera terminé.
+
+713
+01:30:05,160 --> 01:30:06,435
+Promets-le-moi.
+
+714
+01:30:08,600 --> 01:30:10,660
+On reviendra quand tout sera terminé.
+
+715
+01:30:47,520 --> 01:30:49,876
+Vous m'avez inquiété pendant une seconde.
+
+716
+01:30:51,160 --> 01:30:53,311
+Je pensais que vous ne reviendriez pas.
+
+717
+01:30:56,200 --> 01:30:58,021
+Je devais lui prouver qu'il avait tort.
+
+718
+01:31:01,320 --> 01:31:02,538
+Vous avez l'air horrible.
+
+719
+01:31:05,360 --> 01:31:07,033
+Vous devriez voir l'autre gars.
+
+720
+01:31:07,200 --> 01:31:08,953
+Si je vous avais dit la vérité,
+
+721
+01:31:09,120 --> 01:31:10,998
+vous m'auriez cru fou.
+
+722
+01:31:12,160 --> 01:31:13,981
+Je le crois encore.
+
+723
+01:31:15,840 --> 01:31:16,876
+Malcolm Beech.
+
+724
+01:31:17,200 --> 01:31:18,384
+Julia Harper.
+
+725
+01:31:26,720 --> 01:31:27,995
+Venez.
+
+726
+01:31:34,360 --> 01:31:36,716
+<i>Contrôle, je détecte une trace
+près des canyons ouest.</i>
+
+727
+01:31:36,880 --> 01:31:38,701
+<i>Pouvez-vous confirmer la séquence ?</i>
+
+728
+01:31:38,880 --> 01:31:40,348
+<i>Attendez.</i>
+
+729
+01:31:41,520 --> 01:31:43,739
+<i>ADN confirmé. C'est Jack.</i>
+
+730
+01:31:44,720 --> 01:31:47,861
+<i>Contrôle, le 185 vient de disparaître.</i>
+
+731
+01:31:48,040 --> 01:31:50,316
+<i>Bien reçu, tour, nous voyons la même chose.</i>
+
+732
+01:31:53,240 --> 01:31:55,357
+CIBLE IDENTIFIÉE
+
+733
+01:32:00,640 --> 01:32:04,714
+J'étais dans l'armée depuis moins d'un an
+quand le maudit Tet est arrivé.
+
+734
+01:32:06,240 --> 01:32:08,186
+J'ai vu la lune se faire détruire.
+
+735
+01:32:08,360 --> 01:32:10,636
+En plein ciel étoilé.
+
+736
+01:32:12,600 --> 01:32:13,750
+Je n'arrivais pas à le croire.
+
+737
+01:32:15,520 --> 01:32:18,183
+Après ça, la nature a pris la relève.
+
+738
+01:32:19,360 --> 01:32:20,828
+Il y a du substratum près de Chicago.
+
+739
+01:32:21,000 --> 01:32:25,267
+On n'a donc pas connu le pire
+des tremblements de terre et des tsunamis.
+
+740
+01:32:27,080 --> 01:32:28,958
+La plupart des gens sont morts de faim.
+
+741
+01:32:30,760 --> 01:32:33,662
+Puis, le Tet a envoyé ses troupes.
+
+742
+01:32:34,000 --> 01:32:35,787
+Les portes se sont ouvertes,
+
+743
+01:32:36,960 --> 01:32:39,077
+et vous êtes apparu.
+
+744
+01:32:40,480 --> 01:32:42,938
+Astronaute Jack Harper.
+
+745
+01:32:44,400 --> 01:32:46,585
+Des milliers comme vous.
+
+746
+01:32:48,880 --> 01:32:50,280
+Mémoire effacée.
+
+747
+01:32:52,320 --> 01:32:53,754
+Programmés pour tuer.
+
+748
+01:32:55,680 --> 01:32:58,195
+Ils avaient pris un de nos meilleurs
+
+749
+01:32:58,920 --> 01:33:00,980
+et l'avaient tourné contre nous.
+
+750
+01:33:04,400 --> 01:33:05,914
+Aucune âme.
+
+751
+01:33:08,200 --> 01:33:09,839
+Aucune humanité.
+
+752
+01:33:13,640 --> 01:33:15,154
+Le Tet.
+
+753
+01:33:16,520 --> 01:33:18,705
+Quelle machine exceptionnelle.
+
+754
+01:33:19,560 --> 01:33:23,395
+Elle se nourrit de l'énergie
+d'une planète après l'autre.
+
+755
+01:33:25,200 --> 01:33:28,193
+La phase deux, c'était les drones.
+
+756
+01:33:28,480 --> 01:33:30,301
+Les réparateurs.
+
+757
+01:33:30,840 --> 01:33:36,632
+Pendant 50 ans, on a vu ces foreuses
+voler l'eau de notre planète.
+
+758
+01:33:39,240 --> 01:33:40,913
+Puis, un jour,
+
+759
+01:33:43,120 --> 01:33:45,100
+je vous ai vu atterrir.
+
+760
+01:33:46,280 --> 01:33:48,158
+Un autre drone à réparer.
+
+761
+01:33:49,680 --> 01:33:53,151
+Mais ce jour-là,
+il y avait un livre dans les décombres.
+
+762
+01:33:54,840 --> 01:33:56,957
+Vous l'avez pris.
+
+763
+01:33:57,120 --> 01:33:59,396
+Vous l'avez étudié.
+
+764
+01:34:00,840 --> 01:34:04,504
+Et j'ai cru voir une solution.
+
+765
+01:34:06,680 --> 01:34:09,878
+Quand vous vous êtes placé
+devant le drone pour la sauver,
+
+766
+01:34:11,080 --> 01:34:12,184
+j'ai su.
+
+767
+01:34:13,520 --> 01:34:16,183
+Vous étiez quelque part là-dedans.
+
+768
+01:34:17,360 --> 01:34:20,660
+Il fallait seulement trouver le moyen
+de vous ramener.
+
+769
+01:34:44,560 --> 01:34:46,108
+Doucement.
+
+770
+01:34:46,320 --> 01:34:48,141
+Gardez les yeux sur le drone. Calmement.
+
+771
+01:34:48,320 --> 01:34:50,300
+Donnez-lui de l'espace.
+
+772
+01:34:50,920 --> 01:34:52,707
+Allons, vous le rendez nerveux.
+
+773
+01:34:56,080 --> 01:34:58,595
+Cette arme est vraiment en colère.
+
+774
+01:34:59,400 --> 01:35:02,541
+Non, ce n'est qu'une machine.
+
+775
+01:35:05,960 --> 01:35:07,940
+<i>L'arme, c'est moi.</i>
+
+776
+01:35:22,720 --> 01:35:27,192
+J'adorerais être là pour voir leur visage
+quand tout explosera.
+
+777
+01:35:27,600 --> 01:35:29,751
+Ce serait un aller simple.
+
+778
+01:35:29,920 --> 01:35:33,391
+Oui, mais ça en vaudrait la peine.
+
+779
+01:35:51,880 --> 01:35:53,940
+Bienvenue de nouveau, commandant.
+
+780
+01:36:34,360 --> 01:36:35,760
+Ouvrez les portes !
+
+781
+01:37:02,160 --> 01:37:04,516
+- Merde !
+- Dispersez-vous !
+
+782
+01:37:11,800 --> 01:37:13,507
+Gardez la tête baissée !
+
+783
+01:37:44,920 --> 01:37:45,899
+Jack !
+
+784
+01:37:46,880 --> 01:37:48,223
+Suivez-moi !
+
+785
+01:38:46,680 --> 01:38:49,104
+Allez, espèce d'enfoiré !
+
+786
+01:39:50,640 --> 01:39:51,619
+Hé !
+
+787
+01:40:52,160 --> 01:40:53,264
+Jack.
+
+788
+01:40:59,600 --> 01:41:01,478
+Je vais bien.
+
+789
+01:41:21,960 --> 01:41:23,303
+Le drone.
+
+790
+01:41:23,840 --> 01:41:25,627
+Envoyez le drone.
+
+791
+01:41:29,960 --> 01:41:31,667
+Il a été détruit.
+
+792
+01:41:33,800 --> 01:41:35,951
+Je croyais qu'on allait réussir.
+
+793
+01:41:37,120 --> 01:41:38,702
+Je le croyais vraiment.
+
+794
+01:41:40,480 --> 01:41:42,665
+Je vais apporter la bombe moi-même.
+
+795
+01:41:45,160 --> 01:41:47,618
+Vous savez qu'ils vous écraseront
+comme une mouche.
+
+796
+01:41:48,160 --> 01:41:49,560
+Pas si j'y vais.
+
+797
+01:41:52,560 --> 01:41:53,778
+Non.
+
+798
+01:41:55,200 --> 01:41:57,499
+Elle t'a demandé de m'emmener.
+
+799
+01:41:59,160 --> 01:42:00,503
+Alors, emmène-moi.
+
+800
+01:42:03,720 --> 01:42:06,349
+On va y aller ensemble.
+
+801
+01:42:21,560 --> 01:42:24,018
+Ça me rappelle la maison.
+
+802
+01:42:34,200 --> 01:42:35,668
+Tu es prêt ?
+
+803
+01:43:13,920 --> 01:43:15,263
+Jack.
+
+804
+01:43:19,560 --> 01:43:21,347
+Rêve à nous.
+
+805
+01:43:36,360 --> 01:43:37,703
+Jack...
+
+806
+01:44:25,960 --> 01:44:29,317
+<i>Lecture de la boîte noire
+de la mission</i> Odyssey.
+
+807
+01:44:29,480 --> 01:44:31,938
+<i>3 mai 2017.</i>
+
+808
+01:44:32,160 --> 01:44:33,742
+Très bien, Bob.
+
+809
+01:44:34,640 --> 01:44:36,427
+Tu es prêt pour l'espace ?
+
+810
+01:44:47,600 --> 01:44:51,025
+<i>Bonjour,</i> Odyssey,
+<i>de la part de vos amis du centre de contrôle.</i>
+
+811
+01:44:51,200 --> 01:44:53,180
+<i>Bonjour, contrôle.
+Ici le commandant Jack Harper.</i>
+
+812
+01:44:53,360 --> 01:44:55,659
+<i>Merci pour ce merveilleux appel.</i>
+
+813
+01:44:55,840 --> 01:44:57,115
+<i>Vérifications effectuées.</i>
+
+814
+01:44:57,280 --> 01:45:00,671
+<i>Les systèmes électriques
+et de navigation sont fonctionnels.</i>
+
+815
+01:45:00,840 --> 01:45:04,038
+Distance jusqu'à l'objet : 250 kilomètres.
+
+816
+01:45:04,200 --> 01:45:07,978
+Douze degrés sous la barre de tendance,
+vitesse d'approche de 200 km/h.
+
+817
+01:45:08,160 --> 01:45:10,982
+<i>Bien reçu. Heureux de vous voir, Jack.</i>
+
+818
+01:45:11,200 --> 01:45:14,193
+<i>Après 39 jours de sommeil,
+vous semblez prêt.</i>
+
+819
+01:45:14,880 --> 01:45:16,553
+Je suis prêt.
+
+820
+01:45:17,000 --> 01:45:18,548
+<i>Votre prochaine propulsion vous emmènera</i>
+
+821
+01:45:18,720 --> 01:45:21,861
+<i>à niveau à une distance de 50 kilomètres,
+où vous resterez.</i>
+
+822
+01:45:22,520 --> 01:45:26,992
+Bien reçu. On restera à 50 km de l'objet
+pour le balayage et l'évaluation.
+
+823
+01:45:27,400 --> 01:45:28,868
+Les cibles semblent bien.
+
+824
+01:45:29,040 --> 01:45:32,340
+Initialisation de la propulsion
+dans trois, deux, un...
+
+825
+01:45:32,520 --> 01:45:33,556
+Allumage.
+
+826
+01:45:37,560 --> 01:45:38,710
+<i>On voit la propulsion.</i>
+
+827
+01:45:38,880 --> 01:45:41,395
+<i>Recevez-vous des signaux de l'objet ?</i>
+
+828
+01:45:41,600 --> 01:45:42,579
+Négatif.
+
+829
+01:45:42,760 --> 01:45:44,672
+Aucune chaleur. Pas de radiation.
+
+830
+01:45:45,400 --> 01:45:46,709
+Aucun signe de vie.
+
+831
+01:45:46,880 --> 01:45:48,758
+<i>Comment va le reste de l'équipe ?</i>
+
+832
+01:45:48,920 --> 01:45:51,219
+La copilote Victoria Olsen va bientôt arriver.
+
+833
+01:45:51,400 --> 01:45:54,700
+Le reste de l'équipe demeure
+en sommeil profond.
+
+834
+01:45:55,160 --> 01:45:56,196
+<i>Bien reçu.</i>
+
+835
+01:45:56,280 --> 01:45:58,579
+<i>Vous avez manqué tout un match hier soir.</i>
+
+836
+01:45:58,760 --> 01:46:01,662
+Que vous ai-je dit ?
+Ne me dites pas le résultat.
+
+837
+01:46:01,840 --> 01:46:04,230
+J'ai hâte de le voir à mon retour.
+
+838
+01:46:04,400 --> 01:46:06,221
+Vous parlez déjà de football ?
+
+839
+01:46:06,560 --> 01:46:07,710
+<i>Bonjour, Vika.</i>
+
+840
+01:46:07,920 --> 01:46:08,899
+<i>Bonjour, Sally.</i>
+
+841
+01:46:09,240 --> 01:46:11,027
+<i>Comment allez-vous ce matin ?</i>
+
+842
+01:46:11,200 --> 01:46:13,749
+Une autre journée au paradis.
+
+843
+01:46:14,400 --> 01:46:15,379
+Hé !
+
+844
+01:46:20,400 --> 01:46:22,460
+- Une pour l'histoire.
+- Oui.
+
+845
+01:46:35,760 --> 01:46:38,958
+<i>Technicien 49, je vous vois approcher.</i>
+
+846
+01:46:39,560 --> 01:46:41,074
+Bonjour, Sally.
+
+847
+01:46:42,440 --> 01:46:44,591
+C'est occupé, ce matin ?
+
+848
+01:46:44,760 --> 01:46:47,992
+<i>Je vois un deuxième passager, Jack.</i>
+
+849
+01:46:51,400 --> 01:46:53,915
+C'est Julia Rusakova,
+
+850
+01:46:54,440 --> 01:46:57,103
+la survivante de l'écrasement.
+
+851
+01:46:57,800 --> 01:46:59,951
+<i>Indiquez vos intentions.</i>
+
+852
+01:47:00,760 --> 01:47:04,265
+Ramener la survivante, comme demandé.
+
+853
+01:47:04,800 --> 01:47:06,473
+Nous sommes
+
+854
+01:47:08,480 --> 01:47:10,779
+une équipe plus efficace.
+
+855
+01:47:11,920 --> 01:47:13,627
+<i>Procédez à l'entrée.</i>
+
+856
+01:47:18,960 --> 01:47:21,475
+<i>Contrôle, nous avons un problème.</i>
+
+857
+01:47:21,640 --> 01:47:25,634
+<i>La dernière propulsion devait
+nous amener à 50 km de l'objet,</i>
+
+858
+01:47:26,160 --> 01:47:28,311
+mais on continue à se rapprocher.
+
+859
+01:47:28,480 --> 01:47:31,268
+On accélère en direction de l'objet.
+
+860
+01:47:31,440 --> 01:47:32,988
+On a besoin de la manœuvre orbitale.
+
+861
+01:47:33,160 --> 01:47:34,799
+- Initiation.
+- Entrée de la cible.
+
+862
+01:47:37,160 --> 01:47:38,560
+- Cardans prêts.
+- On y arrive.
+
+863
+01:47:38,760 --> 01:47:40,672
+- Allume les moteurs avant.
+- Moteurs allumés.
+
+864
+01:47:40,840 --> 01:47:42,820
+Prête ? Allons-y.
+
+865
+01:47:52,360 --> 01:47:55,353
+Contrôle, on est en manœuvre orbitale.
+On essaie de reculer.
+
+866
+01:47:55,520 --> 01:47:57,341
+Il y a beaucoup de vibration.
+
+867
+01:47:58,320 --> 01:47:59,754
+On n'arrive pas à s'éloigner.
+
+868
+01:47:59,920 --> 01:48:02,515
+Odyssey, <i>la télémétrie indique
+une surtension structurale.</i>
+
+869
+01:48:02,680 --> 01:48:05,036
+<i>Cessez la propulsion. Compris ?</i>
+
+870
+01:48:05,320 --> 01:48:06,356
+On arrête la propulsion.
+
+871
+01:48:08,840 --> 01:48:10,513
+Contrôle ?
+
+872
+01:48:11,200 --> 01:48:12,634
+- Contrôle ?
+- Contrôle ?
+
+873
+01:48:12,840 --> 01:48:14,024
+Sally ?
+
+874
+01:48:15,160 --> 01:48:17,038
+Augmentation de l'accélération vers l'objet.
+
+875
+01:48:17,200 --> 01:48:19,260
+Contact estimé dans deux minutes.
+
+876
+01:48:24,840 --> 01:48:26,786
+Je vais éjecter le module de sommeil.
+
+877
+01:48:27,520 --> 01:48:29,466
+Il est programmé pour retourner sur Terre.
+
+878
+01:48:29,640 --> 01:48:32,542
+Je piloterai le module de commandes
+si je parviens à me libérer.
+
+879
+01:48:32,720 --> 01:48:34,507
+- Retourne là-bas.
+- Pas question.
+
+880
+01:48:34,680 --> 01:48:37,036
+- C'est un ordre !
+- Jack, non, on est une équipe.
+
+881
+01:48:59,720 --> 01:49:02,383
+On doit y aller, Jack ! Trente secondes !
+
+882
+01:49:05,160 --> 01:49:07,709
+Rêve à nous.
+
+883
+01:49:48,360 --> 01:49:49,339
+Jack...
+
+884
+01:49:51,560 --> 01:49:52,960
+FIN DE L'ENREGISTREMENT
+
+885
+01:50:05,600 --> 01:50:08,866
+<i>Technicien 49, entrez à la vitesse requise.</i>
+
+886
+01:50:09,920 --> 01:50:12,276
+Entrée.
+
+887
+01:50:28,440 --> 01:50:29,624
+Souris, Bob.
+
+888
+01:50:31,000 --> 01:50:33,299
+Cesse de trembler de peur.
+
+889
+01:51:07,360 --> 01:51:09,113
+<i>Jack, j'ai remarqué</i>
+
+890
+01:51:09,280 --> 01:51:12,990
+<i>que votre respiration
+et votre rythme cardiaque ont accéléré.</i>
+
+891
+01:51:13,840 --> 01:51:16,298
+J'ai hâte de vous rencontrer enfin, Sally.
+
+892
+01:51:16,520 --> 01:51:21,504
+<i>Vous avez récemment
+fait preuve d'insubordination.</i>
+
+893
+01:51:22,800 --> 01:51:24,075
+Oui.
+
+894
+01:51:24,600 --> 01:51:26,512
+Je regrette.
+
+895
+01:51:27,720 --> 01:51:31,498
+<i>L'analyse de votre voix indique
+que vous mentez, Jack.</i>
+
+896
+01:51:31,680 --> 01:51:33,467
+<i>Dites-moi pourquoi vous êtes ici.</i>
+
+897
+01:51:33,640 --> 01:51:35,279
+<i>Vous avez cinq secondes.</i>
+
+898
+01:51:42,480 --> 01:51:44,540
+Je veux que Julia vive.
+
+899
+01:51:46,000 --> 01:51:48,663
+Je veux que notre espèce survive.
+
+900
+01:51:50,720 --> 01:51:52,666
+C'est la seule façon.
+
+901
+01:51:58,360 --> 01:52:02,195
+<i>Procédez à l'atterrissage.
+Atmosphère activée.</i>
+
+902
+01:53:00,360 --> 01:53:03,501
+<i>Bienvenue à la maison, Jack.</i>
+
+903
+01:53:16,480 --> 01:53:17,459
+Allez.
+
+904
+01:53:17,680 --> 01:53:20,502
+<i>Jack, vous faites la bonne chose.</i>
+
+905
+01:53:20,920 --> 01:53:24,391
+J'ignore ce que vous êtes
+ou d'où vous venez,
+
+906
+01:53:26,240 --> 01:53:29,267
+mais j'aimerais vous parler
+d'un truc que j'ai lu.
+
+907
+01:53:30,240 --> 01:53:33,358
+Une histoire sur Rome,
+
+908
+01:53:34,360 --> 01:53:36,818
+une ville que vous avez détruite.
+
+909
+01:53:37,680 --> 01:53:39,353
+C'est un classique.
+
+910
+01:53:40,240 --> 01:53:43,358
+Il y avait un gars, Horatius,
+
+911
+01:53:44,240 --> 01:53:47,358
+qui défendait le pont seul
+contre toute une armée.
+
+912
+01:53:47,520 --> 01:53:49,978
+Horatius a dit :
+
+913
+01:53:50,160 --> 01:53:52,197
+"Comment un homme peut-il mieux mourir..."
+
+914
+01:53:52,360 --> 01:53:56,957
+<i>Vous n'avez pas besoin de mourir, Jack.
+Elle n'a pas besoin de mourir.</i>
+
+915
+01:53:57,120 --> 01:53:59,510
+Tout le monde meurt, Sally.
+
+916
+01:53:59,680 --> 01:54:01,353
+Mais il faut mourir pour la bonne raison.
+
+917
+01:54:10,400 --> 01:54:14,872
+<i>Jack, ce n'est pas la survivante
+que vous m'avez promise.</i>
+
+918
+01:54:15,640 --> 01:54:17,620
+Non, en effet.
+
+919
+01:54:40,160 --> 01:54:43,870
+Horatius a dit :
+
+920
+01:54:44,040 --> 01:54:47,033
+"Comment un homme peut-il mieux mourir
+
+921
+01:54:49,040 --> 01:54:52,545
+<i>"Qu'en affrontant les dangers"</i>
+
+922
+01:54:52,960 --> 01:54:56,317
+Des drones ! À l'intérieur !
+
+923
+01:54:56,480 --> 01:54:58,153
+<i>"Pour les cendres de ses ancêtres</i>
+
+924
+01:55:01,200 --> 01:55:03,749
+<i>"Et les temples de ses Dieux"</i>
+
+925
+01:55:05,320 --> 01:55:07,437
+<i>Je vous ai créé, Jack.</i>
+
+926
+01:55:07,600 --> 01:55:09,660
+<i>Je suis votre Dieu.</i>
+
+927
+01:55:22,080 --> 01:55:23,753
+Allez au diable, Sally.
+
+928
+01:56:16,520 --> 01:56:20,150
+<i>La Terre, après la guerre.</i>
+
+929
+01:56:20,800 --> 01:56:24,271
+<i>Trois ans ont passé
+depuis que j'ai vu ton visage.</i>
+
+930
+01:56:25,880 --> 01:56:29,544
+<i>Je me demande
+si je te rends visite la nuit, en rêve.</i>
+
+931
+01:56:30,440 --> 01:56:33,945
+<i>Le jour, en souvenirs.</i>
+
+932
+01:56:35,200 --> 01:56:38,944
+<i>Est-ce que je hante tes souvenirs
+comme tu as hanté les miens ?</i>
+
+933
+01:56:41,480 --> 01:56:42,914
+<i>Je me demande si tu me vois</i>
+
+934
+01:56:43,600 --> 01:56:45,239
+<i>quand tu la regardes.</i>
+
+935
+01:56:57,400 --> 01:56:59,312
+Maman, regarde.
+
+936
+01:57:04,560 --> 01:57:09,157
+<i>Si on a une âme,
+elle est faite de l'amour qu'on partage.</i>
+
+937
+01:57:12,640 --> 01:57:14,996
+<i>Intact malgré le temps.</i>
+
+938
+01:57:16,080 --> 01:57:18,379
+<i>Intact malgré la mort.</i>
+
+939
+01:57:36,080 --> 01:57:39,619
+<i>Pendant trois ans,
+j'ai cherché la maison qu'il avait construite.</i>
+
+940
+01:57:41,520 --> 01:57:42,920
+<i>Je savais qu'elle devait être là.</i>
+
+941
+01:57:46,760 --> 01:57:49,150
+<i>Parce que je le connais.</i>
+
+942
+01:57:56,920 --> 01:57:58,900
+<i>Je suis lui.</i>
+
+943
+01:58:01,160 --> 01:58:02,310
+Qui est-ce ?
+
+944
+01:58:10,640 --> 01:58:13,064
+<i>Je m'appelle Jack Harper.</i>
+
+945
+01:58:14,520 --> 01:58:17,149
+<i>Et je suis chez moi.</i>
