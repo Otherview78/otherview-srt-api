@@ -1,0 +1,7147 @@
+1
+00:00:23,791 --> 00:00:25,541
+CE QUI SUIT EST EN PARTIE VRAI.
+
+2
+00:00:25,625 --> 00:00:27,333
+AU MOINS LE PRINCIPAL.
+
+3
+00:00:29,666 --> 00:00:30,916
+NETFLIX PRÉSENTE
+
+4
+00:00:38,083 --> 00:00:39,125
+Arrêtez, police !
+
+5
+00:00:40,416 --> 00:00:42,291
+Arrêtez cette fille !
+
+6
+00:00:43,625 --> 00:00:44,458
+Pardon !
+
+7
+00:00:46,208 --> 00:00:48,000
+- Je suis navrée.
+- Attention !
+
+8
+00:00:48,083 --> 00:00:50,083
+Regarde où tu vas, bon sang !
+
+9
+00:00:52,083 --> 00:00:53,125
+Arrêtez-la !
+
+10
+00:01:09,166 --> 00:01:10,541
+Je vais vous expliquer.
+
+11
+00:01:13,458 --> 00:01:16,833
+<i>Je suis Enola Holmes.</i>
+<i>Vous vous souvenez peut-être de moi.</i>
+
+12
+00:01:17,541 --> 00:01:19,333
+<i>Après avoir résolu ma première affaire…</i>
+
+13
+00:01:20,875 --> 00:01:22,291
+Bonjour.
+
+14
+00:01:22,375 --> 00:01:24,000
+<i>… j'ai créé mon entreprise.</i>
+
+15
+00:01:25,125 --> 00:01:26,833
+<i>Une agence de détective…</i>
+
+16
+00:01:28,666 --> 00:01:31,583
+<i>ouverte et prête</i>
+<i>à recevoir mes premiers clients.</i>
+
+17
+00:01:32,291 --> 00:01:36,041
+<i>J'allais rejoindre le panthéon</i>
+<i>des grands détectives victoriens.</i>
+
+18
+00:01:36,125 --> 00:01:37,416
+<i>Inspecteur Field,</i>
+
+19
+00:01:37,500 --> 00:01:38,750
+<i>Mackenzie Macintosh,</i>
+
+20
+00:01:38,833 --> 00:01:40,625
+<i>Sir Alfred Hornblower</i>
+
+21
+00:01:40,708 --> 00:01:43,250
+<i>et le tristement célèbre Reginald Swaine.</i>
+
+22
+00:01:44,250 --> 00:01:47,458
+<i>Et surtout, je rejoindrais mon frère.</i>
+
+23
+00:01:47,541 --> 00:01:48,791
+<i>Je serais son égale.</i>
+
+24
+00:01:50,625 --> 00:01:52,666
+<i>Une détective à part entière,</i>
+
+25
+00:01:53,791 --> 00:01:55,625
+<i>digne du nom d'Holmes.</i>
+
+26
+00:01:57,500 --> 00:01:58,666
+Félicitations.
+
+27
+00:02:01,750 --> 00:02:03,583
+<i>Du moins, je le croyais.</i>
+
+28
+00:02:09,125 --> 00:02:11,166
+Êtes-vous la secrétaire ?
+
+29
+00:02:11,916 --> 00:02:14,875
+- Quel âge avez-vous ?
+- Vous êtes drôlement jeune.
+
+30
+00:02:14,958 --> 00:02:16,375
+Mon âge est un avantage.
+
+31
+00:02:16,458 --> 00:02:20,208
+Je peux aller là où d'autres ne peuvent
+ou ne veulent pas aller.
+
+32
+00:02:20,291 --> 00:02:22,375
+Je sais me battre. Je fais du jujitsu.
+
+33
+00:02:25,791 --> 00:02:29,583
+- Mais vous êtes une fille.
+- En effet.
+
+34
+00:02:30,083 --> 00:02:32,208
+Avez-vous de l'expérience ?
+
+35
+00:02:36,083 --> 00:02:38,666
+- L'affaire Tewkesbury ?
+- C'était Sherlock Holmes.
+
+36
+00:02:38,750 --> 00:02:40,208
+Sherlock Holmes, non ?
+
+37
+00:02:41,000 --> 00:02:43,083
+Je vous assure que c'était moi.
+
+38
+00:02:43,166 --> 00:02:46,083
+Un type bien, ce Tewkesbury. Courageux.
+
+39
+00:02:46,166 --> 00:02:47,791
+Dites-moi…
+
+40
+00:02:48,291 --> 00:02:49,125
+Oui ?
+
+41
+00:02:50,083 --> 00:02:51,375
+Votre frère est disponible ?
+
+42
+00:02:54,333 --> 00:02:55,833
+Vous saurez tout
+
+43
+00:02:55,916 --> 00:02:58,833
+sur Sherlock Holmes
+et le cadavre de Brixton.
+
+44
+00:02:59,791 --> 00:03:01,166
+<i>Mon frère.</i>
+
+45
+00:03:01,958 --> 00:03:06,375
+<i>Je n'avais pas un seul client,</i>
+<i>et Sherlock croulait sous les affaires.</i>
+
+46
+00:03:07,958 --> 00:03:11,083
+<i>Bien que la dernière semblait</i>
+<i>le contrarier.</i>
+
+47
+00:03:12,958 --> 00:03:16,333
+<i>Ma mère, quant à elle,</i>
+<i>était toujours en cavale…</i>
+
+48
+00:03:16,416 --> 00:03:17,708
+ALIMENTS POUR BÉBÉ
+
+49
+00:03:17,791 --> 00:03:20,250
+<i>… tentant de ne pas attirer l'attention.</i>
+
+50
+00:03:23,916 --> 00:03:25,583
+<i>Ça n'a jamais été son fort.</i>
+
+51
+00:03:25,666 --> 00:03:27,250
+ÉGALITÉ DES DROITS POUR LES FEMMES
+
+52
+00:03:27,833 --> 00:03:29,250
+FERMÉ
+
+53
+00:03:33,208 --> 00:03:35,041
+AGENCE DE DÉTECTIVE
+
+54
+00:03:40,791 --> 00:03:45,625
+<i>Oui, et puis, il y a lui.</i>
+
+55
+00:03:45,708 --> 00:03:49,250
+Messieurs, la réforme
+n'est pas une tâche à accomplir
+
+56
+00:03:49,333 --> 00:03:51,375
+ni un projet de loi à adopter,
+
+57
+00:03:51,458 --> 00:03:54,250
+c'est un besoin constant de changement.
+
+58
+00:03:54,333 --> 00:03:55,541
+Bravo !
+
+59
+00:03:56,541 --> 00:04:01,208
+<i>Lord Tewkesbury,</i>
+<i>le champion du changement et du progrès.</i>
+
+60
+00:04:01,708 --> 00:04:04,416
+<i>Un homme à approcher avec une noble cause.</i>
+
+61
+00:04:16,916 --> 00:04:21,250
+<i>Je n'ai pas le temps de me distraire.</i>
+<i>En plus, c'est toujours un imbécile.</i>
+
+62
+00:04:22,458 --> 00:04:25,833
+Trop de gens se donnent pour seul but
+
+63
+00:04:25,916 --> 00:04:28,750
+de s'intégrer dans le monde
+qui les entoure.
+
+64
+00:04:29,333 --> 00:04:30,666
+C'est une erreur.
+
+65
+00:04:31,833 --> 00:04:34,083
+C'est ton chemin, Enola.
+
+66
+00:04:34,750 --> 00:04:36,500
+<i>Parfois, tu trébucheras.</i>
+
+67
+00:04:37,500 --> 00:04:38,916
+<i>Parfois, tu tomberas.</i>
+
+68
+00:04:39,500 --> 00:04:41,791
+<i>Mais même si tu te sens perdue,</i>
+
+69
+00:04:42,291 --> 00:04:44,583
+<i>si tu restes fidèle à toi-même,</i>
+
+70
+00:04:44,666 --> 00:04:47,708
+<i>ton chemin te retrouvera toujours.</i>
+
+71
+00:04:50,666 --> 00:04:53,916
+<i>Mais mon chemin semblait</i>
+<i>se terminer dans une impasse.</i>
+
+72
+00:04:56,250 --> 00:04:57,458
+<i>J'avais échoué.</i>
+
+73
+00:04:59,500 --> 00:05:01,625
+<i>Je n'avais plus qu'à rentrer chez moi.</i>
+
+74
+00:05:25,666 --> 00:05:26,750
+Enola Holmes ?
+
+75
+00:05:27,333 --> 00:05:28,208
+Oui ?
+
+76
+00:05:28,708 --> 00:05:30,333
+Je ne me suis pas trompée.
+
+77
+00:05:32,583 --> 00:05:34,583
+Vous retrouvez les gens disparus ?
+
+78
+00:05:35,083 --> 00:05:37,375
+AGENCE DE DÉTECTIVE
+PERSONNES DISPARUES
+
+79
+00:05:37,958 --> 00:05:40,708
+Où as-tu trouvé ça ?
+Ça date d'il y a un mois.
+
+80
+00:05:41,250 --> 00:05:42,750
+Dans la rue.
+
+81
+00:05:44,833 --> 00:05:46,041
+Qui a disparu ?
+
+82
+00:05:48,458 --> 00:05:49,583
+Ma sœur.
+
+83
+00:06:04,625 --> 00:06:05,458
+Attention.
+
+84
+00:06:13,791 --> 00:06:15,375
+Ça fait une semaine.
+
+85
+00:06:16,000 --> 00:06:19,083
+Tout le monde dit qu'elle s'est enfuie.
+C'est impossible.
+
+86
+00:06:19,166 --> 00:06:20,416
+Sarah ne me ferait pas ça.
+
+87
+00:06:21,291 --> 00:06:23,208
+Elle est ma seule famille.
+
+88
+00:06:27,166 --> 00:06:28,041
+Par ici.
+
+89
+00:06:31,791 --> 00:06:33,791
+Les autres sont encore au travail.
+
+90
+00:06:36,750 --> 00:06:37,583
+Du thé ?
+
+91
+00:06:38,750 --> 00:06:39,583
+Merci.
+
+92
+00:06:41,666 --> 00:06:43,375
+Puis-je voir sa chambre ?
+
+93
+00:06:43,458 --> 00:06:44,625
+Notre chambre ?
+
+94
+00:06:45,833 --> 00:06:47,291
+Vous y êtes.
+
+95
+00:06:50,583 --> 00:06:53,708
+On a de la chance.
+La plupart sont cinq par chambre.
+
+96
+00:06:58,833 --> 00:06:59,875
+Tenez.
+
+97
+00:07:04,583 --> 00:07:06,916
+Sarah leur laisse toujours du fromage.
+
+98
+00:07:07,708 --> 00:07:08,958
+Elle est gentille.
+
+99
+00:07:12,583 --> 00:07:14,750
+À quoi ressemble-t-elle ? Sarah ?
+
+100
+00:07:14,833 --> 00:07:16,500
+Cette taille.
+
+101
+00:07:17,458 --> 00:07:18,291
+Jolie.
+
+102
+00:07:18,375 --> 00:07:19,500
+Très jolie.
+
+103
+00:07:19,583 --> 00:07:22,041
+Yeux verts, rousse.
+
+104
+00:07:22,125 --> 00:07:23,875
+- Taches de rousseur.
+- Rousse ?
+
+105
+00:07:24,500 --> 00:07:26,666
+On n'est pas de vraies sœurs.
+
+106
+00:07:27,250 --> 00:07:28,208
+Sœurs d'adoption.
+
+107
+00:07:29,000 --> 00:07:30,250
+Sarah l'a recueillie.
+
+108
+00:07:30,833 --> 00:07:32,291
+Qui est-ce, Bess ?
+
+109
+00:07:32,875 --> 00:07:35,208
+- Enola Holmes.
+- Elle est détective.
+
+110
+00:07:35,291 --> 00:07:37,291
+À peine sortie du berceau.
+
+111
+00:07:37,375 --> 00:07:38,250
+Mae !
+
+112
+00:07:42,125 --> 00:07:45,541
+Bessie, que portait Sarah
+le jour de sa disparition ?
+
+113
+00:07:46,458 --> 00:07:47,458
+Que fait-elle ?
+
+114
+00:07:48,791 --> 00:07:50,000
+Elle perd son temps.
+
+115
+00:07:51,083 --> 00:07:53,250
+Son autre robe, la verte.
+
+116
+00:07:54,666 --> 00:07:56,041
+LA SCIENCE POUR LES JEUNES
+
+117
+00:07:56,125 --> 00:07:57,458
+Elle aime lire ?
+
+118
+00:07:57,541 --> 00:07:59,583
+Oui. Elle a appris toute seule.
+
+119
+00:08:00,208 --> 00:08:03,375
+Sarah dit qu'il faut connaître le monde
+dans lequel on vit.
+
+120
+00:08:08,750 --> 00:08:09,625
+Du maquillage.
+
+121
+00:08:11,125 --> 00:08:12,250
+Un prétendant ?
+
+122
+00:08:12,333 --> 00:08:15,208
+Non. Mais beaucoup sont intéressés.
+
+123
+00:08:18,375 --> 00:08:19,916
+Elle n'a pas la main verte.
+
+124
+00:08:23,583 --> 00:08:25,958
+Arrêtez de fourrer votre nez partout.
+
+125
+00:08:26,041 --> 00:08:28,375
+Arrête. Laisse-la faire son travail.
+
+126
+00:08:42,625 --> 00:08:43,458
+12 MARS
+
+127
+00:08:43,541 --> 00:08:47,208
+Le 12 mars.
+Cette date vous dit quelque chose ?
+
+128
+00:08:47,291 --> 00:08:48,708
+Ça suffit.
+
+129
+00:08:48,791 --> 00:08:51,083
+On n'a pas besoin des gens comme vous.
+
+130
+00:08:51,583 --> 00:08:53,958
+C'est moi qui l'ai trouvée, elle reste.
+
+131
+00:08:58,500 --> 00:08:59,916
+De quoi je me mêle ?
+
+132
+00:09:02,125 --> 00:09:04,958
+- Elle n'a pas laissé de mot ?
+- Juste ça.
+
+133
+00:09:07,708 --> 00:09:10,916
+Elle avait deux emplois.
+On ne s'en sortait pas, sinon.
+
+134
+00:09:11,000 --> 00:09:12,708
+La plonge dans un pub.
+
+135
+00:09:13,291 --> 00:09:15,375
+Le Bois de Cerf.
+
+136
+00:09:16,375 --> 00:09:17,375
+Prenez-la.
+
+137
+00:09:18,875 --> 00:09:22,416
+Non, ça va. Nous verrons ça plus tard.
+
+138
+00:09:23,166 --> 00:09:25,916
+Quand l'avez-vous vue
+pour la dernière fois ?
+
+139
+00:09:26,500 --> 00:09:29,208
+Il y a une semaine,
+à la fabrique d'allumettes.
+
+140
+00:09:29,291 --> 00:09:32,916
+Elle s'est disputée avec M. Crouch,
+le contremaître, dans son bureau.
+
+141
+00:09:33,000 --> 00:09:35,500
+- À quel propos ?
+- Il l'a accusée de vol.
+
+142
+00:09:35,583 --> 00:09:36,916
+Mais elle est honnête.
+
+143
+00:09:37,000 --> 00:09:39,958
+Elle travaille
+à la fabrique d'allumettes ?
+
+144
+00:09:40,041 --> 00:09:43,291
+On y travaille toutes.
+On est des allumettières.
+
+145
+00:09:45,041 --> 00:09:46,541
+Commençons par là.
+
+146
+00:09:46,625 --> 00:09:49,416
+Alors, vous acceptez l'affaire ?
+
+147
+00:09:53,541 --> 00:09:54,916
+Merci, Mlle Holmes.
+
+148
+00:09:55,416 --> 00:09:56,291
+Merci.
+
+149
+00:09:58,000 --> 00:10:00,250
+<i>Enfin, ma première affaire.</i>
+
+150
+00:10:00,333 --> 00:10:01,791
+<i>La deuxième, en réalité.</i>
+
+151
+00:10:02,375 --> 00:10:04,250
+<i>Je te trouverai, Sarah Chapman.</i>
+
+152
+00:10:04,333 --> 00:10:05,833
+<i>Cheveux roux, robe verte.</i>
+
+153
+00:10:05,916 --> 00:10:07,458
+<i>Maquillage, livres de science.</i>
+
+154
+00:10:07,541 --> 00:10:08,375
+<i>12 mars.</i>
+
+155
+00:10:08,458 --> 00:10:09,875
+<i>Quoi que tu mijotes…</i>
+
+156
+00:10:12,125 --> 00:10:13,708
+<i>la partie a commencé.</i>
+
+157
+00:10:15,041 --> 00:10:16,833
+Restez avec moi. Suivez-moi.
+
+158
+00:10:18,791 --> 00:10:20,750
+Il y a combien d'ouvrières ici ?
+
+159
+00:10:20,833 --> 00:10:23,125
+Cinq cents, peut-être six cents.
+
+160
+00:10:24,541 --> 00:10:25,583
+Je suis comment ?
+
+161
+00:10:25,666 --> 00:10:28,833
+- Mon tour de cou est bien mis ?
+- Il est à sa place.
+
+162
+00:10:29,833 --> 00:10:31,833
+- Bonjour, Bessie.
+- Doris.
+
+163
+00:10:37,333 --> 00:10:38,416
+FABRIQUE D'ALLUMETTES
+
+164
+00:10:38,500 --> 00:10:39,458
+Bouche.
+
+165
+00:10:40,666 --> 00:10:41,500
+Bouche.
+
+166
+00:10:43,708 --> 00:10:44,541
+On avance.
+
+167
+00:10:45,208 --> 00:10:46,666
+- Suivante.
+- Dehors.
+
+168
+00:10:46,750 --> 00:10:48,791
+- S'il vous plaît, M. Crouch.
+- Dehors.
+
+169
+00:10:50,958 --> 00:10:52,041
+Tu regardes quoi ?
+
+170
+00:10:52,541 --> 00:10:55,458
+Hé, la nouvelle. Ton nom sur le registre.
+
+171
+00:11:02,000 --> 00:11:02,833
+Bouche.
+
+172
+00:11:04,458 --> 00:11:06,833
+- Que cherchez-vous ?
+- Le typhus.
+
+173
+00:11:15,041 --> 00:11:16,416
+Là, c'est le phosphore.
+
+174
+00:11:17,458 --> 00:11:19,791
+Rassurez-vous, on s'habitue à l'odeur.
+
+175
+00:11:29,791 --> 00:11:31,458
+Elle travaillait ici ?
+
+176
+00:11:32,458 --> 00:11:33,958
+Allumettes sur le peigne,
+
+177
+00:11:36,291 --> 00:11:37,500
+on les fait glisser,
+
+178
+00:11:38,375 --> 00:11:39,541
+et dans la boîte.
+
+179
+00:11:40,416 --> 00:11:43,916
+C'est simple. Essayez.
+
+180
+00:11:58,416 --> 00:12:00,333
+Un penny de moins sur ta paye.
+
+181
+00:12:01,458 --> 00:12:04,250
+Elle apprend le métier, monsieur Crouch.
+
+182
+00:12:04,333 --> 00:12:07,291
+Qu'elle apprenne vite
+ou tu perdras aussi un penny.
+
+183
+00:12:08,083 --> 00:12:10,083
+Qui d'autre veut une retenue ?
+
+184
+00:12:10,583 --> 00:12:11,833
+Toi ?
+
+185
+00:12:12,458 --> 00:12:14,083
+C'est ce que je pensais.
+
+186
+00:12:17,208 --> 00:12:18,458
+Allez, au travail.
+
+187
+00:12:25,208 --> 00:12:27,250
+Je dois monter dans le bureau.
+
+188
+00:12:27,791 --> 00:12:28,958
+Aucune chance.
+
+189
+00:12:42,541 --> 00:12:43,875
+Taisez-vous.
+
+190
+00:12:45,666 --> 00:12:48,083
+Il suffit d'un petit détail
+
+191
+00:12:48,166 --> 00:12:50,500
+pour changer les règles du monde.
+
+192
+00:13:06,500 --> 00:13:08,125
+ALLUMETTES À UN PENNY
+
+193
+00:13:10,916 --> 00:13:13,291
+Hé ! Plus vite.
+
+194
+00:13:18,000 --> 00:13:18,875
+Hourra !
+
+195
+00:13:19,625 --> 00:13:21,541
+Comment c'est arrivé ?
+
+196
+00:13:22,666 --> 00:13:23,916
+Ramassez-les.
+
+197
+00:13:24,541 --> 00:13:27,041
+Allez. Ramassez-les.
+
+198
+00:13:31,875 --> 00:13:33,916
+Allez, au travail.
+
+199
+00:13:38,791 --> 00:13:40,083
+Que faisais-tu là ?
+
+200
+00:13:41,208 --> 00:13:42,041
+BÉNÉFICES
+
+201
+00:13:44,041 --> 00:13:45,125
+Allez, les filles.
+
+202
+00:13:46,750 --> 00:13:47,833
+ALLUMETTES À DEUX PENCE
+
+203
+00:13:47,916 --> 00:13:48,958
+Rouge.
+
+204
+00:13:49,041 --> 00:13:50,333
+Vous perdez du temps.
+
+205
+00:13:51,791 --> 00:13:53,333
+Ne me regardez pas.
+
+206
+00:14:01,041 --> 00:14:01,875
+REGISTRE
+
+207
+00:14:07,250 --> 00:14:08,375
+Assez de bavardage.
+
+208
+00:14:16,166 --> 00:14:18,000
+Yeux verts, rousse.
+
+209
+00:14:22,833 --> 00:14:25,166
+Alors, tu as volé quelque chose.
+
+210
+00:14:26,000 --> 00:14:26,833
+Charles !
+
+211
+00:14:30,166 --> 00:14:31,875
+C'est de l'extorsion.
+
+212
+00:14:31,958 --> 00:14:32,916
+C'est criminel !
+
+213
+00:14:33,750 --> 00:14:36,375
+- Mes poches sont vides.
+- Les miennes aussi.
+
+214
+00:14:36,458 --> 00:14:39,458
+Vous m'aviez promis
+de trouver le responsable.
+
+215
+00:14:40,041 --> 00:14:42,500
+On dirait presque une menace, M. Lyon.
+
+216
+00:14:42,583 --> 00:14:45,958
+Ce n'est pas ce qui était prévu au départ.
+
+217
+00:14:47,000 --> 00:14:49,125
+Et un vol, en plus du reste.
+
+218
+00:14:49,208 --> 00:14:52,708
+- Vous l'avez entendu. Réglez ça.
+- Venez, William.
+
+219
+00:14:56,875 --> 00:15:00,375
+Avez-vous des soupçons
+quant à l'identité du coupable ?
+
+220
+00:15:00,458 --> 00:15:02,791
+Vous le demanderais-je si c'était le cas ?
+
+221
+00:15:05,458 --> 00:15:09,750
+Nous pourrions chercher à savoir
+si ce vol a un lien.
+
+222
+00:15:09,833 --> 00:15:12,625
+- J'ai des idées…
+- Vous ai-je demandé conseil ?
+
+223
+00:15:13,125 --> 00:15:15,083
+Ou vous ai-je dit de régler ça ?
+
+224
+00:15:15,958 --> 00:15:18,125
+Je vais prévenir les bonnes personnes.
+
+225
+00:15:24,250 --> 00:15:25,250
+Madame Troy !
+
+226
+00:15:25,833 --> 00:15:26,875
+Oui, monsieur.
+
+227
+00:15:28,000 --> 00:15:31,500
+Nos ouvrières ont un rendement
+et une efficacité élevés.
+
+228
+00:15:31,583 --> 00:15:33,625
+- N'est-ce pas, William ?
+- Oui, père.
+
+229
+00:15:34,875 --> 00:15:35,916
+Je vous en prie.
+
+230
+00:15:37,708 --> 00:15:41,333
+Doris, comment va votre sœur ?
+Toujours malade ?
+
+231
+00:15:42,000 --> 00:15:43,125
+Oui, monsieur Lyon.
+
+232
+00:15:43,708 --> 00:15:44,625
+Le typhus.
+
+233
+00:15:46,041 --> 00:15:47,750
+Le fléau de notre époque.
+
+234
+00:15:48,583 --> 00:15:51,333
+Il tue ces filles depuis deux ans.
+
+235
+00:15:51,416 --> 00:15:52,625
+Ça me brise le cœur.
+
+236
+00:15:53,625 --> 00:15:58,000
+Lord McIntyre,
+puis-je suggérer un déjeuner ?
+
+237
+00:15:58,625 --> 00:15:59,833
+Nous l'avons mérité.
+
+238
+00:16:03,625 --> 00:16:06,416
+Comment Sarah est entrée dans le bureau ?
+
+239
+00:16:06,500 --> 00:16:10,291
+Un des postes a pris feu.
+Le contremaître a été distrait.
+
+240
+00:16:12,583 --> 00:16:13,750
+Le poste de qui ?
+
+241
+00:16:14,375 --> 00:16:15,250
+Celui de Mae ?
+
+242
+00:16:15,750 --> 00:16:16,791
+Oui.
+
+243
+00:16:18,041 --> 00:16:19,916
+Vous êtes une bonne détective.
+
+244
+00:16:29,875 --> 00:16:32,791
+Les gens pensent
+que ce métier est très codifié,
+
+245
+00:16:32,875 --> 00:16:35,208
+mais en réalité, il n'y a qu'une règle.
+
+246
+00:16:35,291 --> 00:16:39,000
+Suivre toutes les pistes qu'on trouve.
+
+247
+00:16:41,041 --> 00:16:42,375
+C'est une piste…
+
+248
+00:16:48,125 --> 00:16:49,583
+alors je la suis.
+
+249
+00:16:54,458 --> 00:16:56,958
+Bonsoir, monsieur.
+Quelle agréable soirée !
+
+250
+00:16:57,041 --> 00:16:58,833
+Jeune fille, je suis marié.
+
+251
+00:17:18,833 --> 00:17:20,208
+Bonsoir, ma chère.
+
+252
+00:17:20,791 --> 00:17:22,208
+Tu n'as pas de ticket ?
+
+253
+00:17:22,291 --> 00:17:25,333
+Deux pence pour une jolie bouille
+comme la tienne.
+
+254
+00:17:25,833 --> 00:17:26,958
+Deux pour un penny.
+
+255
+00:17:28,166 --> 00:17:29,291
+Du vrai caramel.
+
+256
+00:17:31,875 --> 00:17:33,333
+<i>Où es-tu, Mae ?</i>
+
+257
+00:17:35,166 --> 00:17:36,250
+Excusez-moi.
+
+258
+00:17:44,750 --> 00:17:47,583
+Et la voilà !
+
+259
+00:18:04,500 --> 00:18:07,916
+<i>D'où vient ce chapeau ?</i>
+<i>D'où vient ce haut-de-forme ?</i>
+
+260
+00:18:08,500 --> 00:18:12,166
+<i>N'est-il pas très chic</i>
+<i>Et extrêmement tendance ?</i>
+
+261
+00:18:12,250 --> 00:18:15,875
+<i>J'aimerais en avoir un</i>
+<i>Exactement pareil</i>
+
+262
+00:18:15,958 --> 00:18:19,500
+<i>Où que j'aille, on me demande</i>
+<i>"D'où vient ce haut-de-forme ?"</i>
+
+263
+00:18:46,166 --> 00:18:49,458
+Et maintenant,
+tout droit venu de Shanghai,
+
+264
+00:18:49,541 --> 00:18:53,458
+monsieur Lee et son univers d'illusions !
+
+265
+00:19:02,791 --> 00:19:04,916
+C'est toi qui as mon fond de teint ?
+
+266
+00:19:06,958 --> 00:19:09,208
+Non, je cherche une fille qui…
+
+267
+00:19:22,291 --> 00:19:23,875
+Elle avait deux emplois.
+
+268
+00:19:24,875 --> 00:19:26,958
+Le Bois de Cerf.
+
+269
+00:19:39,000 --> 00:19:41,166
+Dites-moi ce que vous faites là.
+
+270
+00:19:42,541 --> 00:19:43,666
+Sarah travaillait ici ?
+
+271
+00:19:44,708 --> 00:19:47,250
+Elle travaillait ici. Et Bessie l'ignore.
+
+272
+00:19:47,750 --> 00:19:50,708
+Bessie ignore un tas de choses.
+Ne lui dites rien.
+
+273
+00:19:50,791 --> 00:19:55,208
+Vous l'avez aidée à entrer dans le bureau.
+Elle a pris des pages. Pourquoi ?
+
+274
+00:19:55,750 --> 00:19:58,291
+- Où est-elle ?
+- Laissez-nous tranquilles.
+
+275
+00:19:58,958 --> 00:20:01,083
+Ce combat ne concerne pas les riches.
+
+276
+00:20:04,458 --> 00:20:06,791
+Riche ou pas, je sais me battre.
+
+277
+00:20:06,875 --> 00:20:09,458
+Dites-moi où elle est et ce qu'elle sait.
+
+278
+00:20:10,250 --> 00:20:11,875
+Vous avez de la ressource.
+
+279
+00:20:13,291 --> 00:20:17,500
+J'ignore ce qui se passe,
+mais Mae monte sur scène dans 30 secondes,
+
+280
+00:20:17,583 --> 00:20:19,583
+et elle ne s'est pas changée.
+
+281
+00:20:20,291 --> 00:20:22,625
+Lâchez-la tout de suite.
+
+282
+00:20:25,791 --> 00:20:28,000
+- Sors-la d'ici.
+- Avec plaisir.
+
+283
+00:20:32,291 --> 00:20:33,125
+Allez.
+
+284
+00:20:34,958 --> 00:20:37,208
+Où Sarah Chapman se maquillait-elle ?
+
+285
+00:20:41,125 --> 00:20:43,916
+Pleine de secrets,
+mais pas mauvaise actrice.
+
+286
+00:20:44,000 --> 00:20:48,625
+Je l'aurais bien virée,
+mais elle attirait les hommes riches.
+
+287
+00:20:48,708 --> 00:20:50,833
+Toujours utile. Du balai.
+
+288
+00:20:52,208 --> 00:20:53,125
+Quels hommes ?
+
+289
+00:20:57,500 --> 00:21:01,083
+Il y avait un homme de la haute
+qui venait régulièrement.
+
+290
+00:21:01,166 --> 00:21:03,250
+Elle l'aimait beaucoup.
+
+291
+00:21:03,333 --> 00:21:06,500
+Il envoyait des fleurs, des lettres.
+
+292
+00:21:12,083 --> 00:21:12,916
+Son nom ?
+
+293
+00:21:16,291 --> 00:21:17,583
+Il ne l'a jamais dit.
+
+294
+00:21:19,208 --> 00:21:22,583
+Elles croient toutes
+que l'amour va frapper à leur porte,
+
+295
+00:21:23,500 --> 00:21:24,958
+mais ça n'arrive jamais.
+
+296
+00:21:25,041 --> 00:21:27,250
+Ces types veulent des filles faciles,
+
+297
+00:21:27,750 --> 00:21:29,458
+mais ils épousent les riches.
+
+298
+00:21:33,416 --> 00:21:35,500
+<i>À deux, nous goûtions le fruit de l'amour</i>
+
+299
+00:21:35,583 --> 00:21:37,041
+Le fruit de l'amour ?
+
+300
+00:21:38,125 --> 00:21:40,250
+<i>Une cloche a sonné dans le ciel</i>
+
+301
+00:21:40,750 --> 00:21:43,750
+<i>Flânez sur la place</i>
+<i>Où s'ouvrent les fleurs blanches</i>
+
+302
+00:21:43,833 --> 00:21:46,375
+<i>La chapelle nous attend</i>
+<i>À l'abri des regards</i>
+
+303
+00:21:47,791 --> 00:21:48,833
+Et un coquelicot.
+
+304
+00:21:49,458 --> 00:21:50,458
+Son nom ?
+
+305
+00:21:52,500 --> 00:21:54,083
+<i>Pourquoi est-elle partie ?</i>
+
+306
+00:21:55,583 --> 00:21:57,291
+QUI EST CET HOMME ?
+
+307
+00:21:59,125 --> 00:22:01,125
+<i>S'est-elle enfuie avec lui ?</i>
+
+308
+00:22:01,458 --> 00:22:03,041
+UNE NOUVELLE VIE ?
+
+309
+00:22:04,083 --> 00:22:05,875
+<i>Ou est-ce lui qu'elle fuit ?</i>
+
+310
+00:22:05,916 --> 00:22:07,541
+DANGEREUX ?
+
+311
+00:22:07,625 --> 00:22:08,666
+Espérons-le,
+
+312
+00:22:08,750 --> 00:22:10,958
+car c'est un très mauvais poète.
+
+313
+00:23:00,958 --> 00:23:02,541
+Fiche le camp, mon garçon.
+
+314
+00:23:08,208 --> 00:23:10,583
+- Sherlock ?
+- Enola.
+
+315
+00:23:11,208 --> 00:23:13,625
+Que fais-tu ici ? C'est dangereux.
+
+316
+00:23:13,708 --> 00:23:15,416
+Des gens effrayants rôdent.
+
+317
+00:23:16,500 --> 00:23:18,583
+Prévenez-moi quand vous en verrez.
+
+318
+00:23:19,791 --> 00:23:22,125
+- Allez-vous bien ?
+- Oui.
+
+319
+00:23:22,208 --> 00:23:26,166
+J'ai eu un désaccord
+autour d'un verre de vin
+
+320
+00:23:26,250 --> 00:23:27,583
+avec son propriétaire.
+
+321
+00:23:27,666 --> 00:23:28,666
+Et…
+
+322
+00:23:30,541 --> 00:23:33,750
+Le vin complique les mouvements
+des bras et des jambes.
+
+323
+00:23:33,833 --> 00:23:35,041
+Je vous raccompagne.
+
+324
+00:23:37,375 --> 00:23:40,000
+Je bois rarement,
+mais je suis sur une affaire
+
+325
+00:23:40,083 --> 00:23:42,041
+qui me donne du fil à retordre.
+
+326
+00:23:42,125 --> 00:23:44,083
+- Fiacre.
+- Bonsoir.
+
+327
+00:23:44,708 --> 00:23:47,000
+- Où va-t-on ?
+- 221 Baker Street.
+
+328
+00:23:52,875 --> 00:23:56,416
+Il s'avère que mon frère
+est formidablement lourd.
+
+329
+00:23:56,500 --> 00:24:01,208
+C'est comme porter un cheval mort
+sur lequel repose un autre cheval mort.
+
+330
+00:24:03,458 --> 00:24:05,000
+C'est le A, j'habite au B.
+
+331
+00:24:09,250 --> 00:24:11,166
+J'ignorais qu'il fallait monter.
+
+332
+00:24:11,250 --> 00:24:14,500
+Il faut s'élever
+pour ne pas se faire piétiner.
+
+333
+00:24:14,583 --> 00:24:17,833
+C'est un conseil. Tu devrais le noter.
+
+334
+00:24:18,375 --> 00:24:21,208
+D'accord. Levez la jambe droite.
+
+335
+00:24:23,875 --> 00:24:24,708
+Et la gauche.
+
+336
+00:24:25,958 --> 00:24:28,916
+La jambe gauche est meilleure.
+Tu devrais le noter.
+
+337
+00:24:31,333 --> 00:24:32,208
+Nous y voilà.
+
+338
+00:24:34,916 --> 00:24:37,041
+Me voilà chez moi. Bravo, Sherlock.
+
+339
+00:24:39,125 --> 00:24:40,125
+Je peux le faire.
+
+340
+00:24:43,666 --> 00:24:44,500
+Tu vois ?
+
+341
+00:24:50,541 --> 00:24:51,541
+Baker Street.
+
+342
+00:24:58,375 --> 00:25:00,666
+- Quel désordre !
+- C'est parfait.
+
+343
+00:25:01,291 --> 00:25:02,541
+Ne touche à rien.
+
+344
+00:25:03,125 --> 00:25:04,541
+Sur quoi enquêtez-vous ?
+
+345
+00:25:04,625 --> 00:25:06,875
+T'occupe. Je travaille seul. C'est privé.
+
+346
+00:25:07,750 --> 00:25:09,250
+Chut, je réfléchis.
+
+347
+00:25:09,750 --> 00:25:11,875
+N'interromps jamais tes réflexions.
+
+348
+00:25:14,416 --> 00:25:15,625
+- Tu devrais…
+- Le noter ?
+
+349
+00:25:20,916 --> 00:25:22,166
+Ne va pas là-bas.
+
+350
+00:25:23,250 --> 00:25:24,333
+Non.
+
+351
+00:25:38,333 --> 00:25:40,083
+L'affaire de Sherlock.
+
+352
+00:25:43,625 --> 00:25:44,625
+OÙ SONT-ILS ?
+
+353
+00:25:48,333 --> 00:25:49,458
+Fascinant.
+
+354
+00:25:49,958 --> 00:25:52,208
+QUI ÊTES-VOUS ?
+
+355
+00:25:52,291 --> 00:25:56,000
+Et pourquoi diable as-tu tout déplacé ?
+
+356
+00:26:00,458 --> 00:26:03,833
+- Rien ne me semble différent.
+- Ah bon ? Tout…
+
+357
+00:26:05,000 --> 00:26:07,125
+Mal de tête ? J'ignore pourquoi.
+
+358
+00:26:07,208 --> 00:26:09,750
+Voilà pourquoi personne ne vient chez moi.
+
+359
+00:26:10,666 --> 00:26:14,291
+Regarde ce que tu as fait.
+Mes papiers sont tout mélangés.
+
+360
+00:26:15,416 --> 00:26:17,666
+Cette affaire vous contrarie.
+
+361
+00:26:18,458 --> 00:26:21,833
+Il y a beaucoup de points d'interrogation
+sur votre carte.
+
+362
+00:26:21,916 --> 00:26:23,875
+Gâteau aux fruits secs. La porte.
+
+363
+00:26:23,958 --> 00:26:26,166
+- À bientôt.
+- Vous buvez à cause de ça ?
+
+364
+00:26:26,250 --> 00:26:29,041
+Il n'est pas si vieux.
+
+365
+00:26:29,125 --> 00:26:31,416
+- Je peux vous aider.
+- En partant.
+
+366
+00:26:33,583 --> 00:26:35,958
+Oui. Le monde serait plus sûr
+
+367
+00:26:36,041 --> 00:26:39,666
+si on ne voyait que la façade
+de Sherlock Holmes.
+
+368
+00:26:41,208 --> 00:26:42,083
+J'ai une idée.
+
+369
+00:26:43,041 --> 00:26:45,208
+Avez-vous envisagé la colocation ?
+
+370
+00:26:45,291 --> 00:26:48,041
+- Dans quel but ?
+- Pour éviter cela.
+
+371
+00:26:52,333 --> 00:26:58,125
+Étrange que ceux qui cherchent
+des conseils aiment en donner.
+
+372
+00:26:58,208 --> 00:26:59,583
+Ai-je demandé conseil ?
+
+373
+00:26:59,666 --> 00:27:03,083
+- Je vous ai trouvé dans la rue, soûl.
+- Qu'ai-je observé ?
+
+374
+00:27:03,166 --> 00:27:04,291
+Pas ce jeu.
+
+375
+00:27:04,375 --> 00:27:07,583
+- Chaussures usées. Cheveux sales.
+- On dirait Mycroft.
+
+376
+00:27:07,666 --> 00:27:09,833
+- Lave tes vêtements.
+- Vous ne voyez pas…
+
+377
+00:27:09,916 --> 00:27:12,416
+- Tu es pâle, sous-alimentée…
+- Ça suffit !
+
+378
+00:27:12,500 --> 00:27:16,750
+Et tes ongles. Pourquoi travailles-tu
+dans une fabrique d'allumettes ?
+
+379
+00:27:16,833 --> 00:27:17,666
+Quoi ?
+
+380
+00:27:17,750 --> 00:27:21,416
+Hier soir, ils étaient tout verts.
+Ce matin, ils sont noirs.
+
+381
+00:27:21,500 --> 00:27:24,041
+Le phosphore mélangé à l'oxygène.
+
+382
+00:27:24,125 --> 00:27:27,166
+Malgré mon état, je l'ai remarqué.
+
+383
+00:27:27,666 --> 00:27:29,708
+- Comment…
+- Et ton cou est rouge.
+
+384
+00:27:29,791 --> 00:27:32,166
+On l'a agrippé
+ou on a brandi un couteau…
+
+385
+00:27:37,500 --> 00:27:40,000
+Es-tu impliquée
+dans quelque chose de dangereux ?
+
+386
+00:27:40,083 --> 00:27:41,250
+Tu es ma pupille.
+
+387
+00:27:41,333 --> 00:27:44,041
+Si tu as besoin d'aide,
+mon offre tient toujours.
+
+388
+00:27:45,500 --> 00:27:48,291
+N'essaie pas désespérément
+de faire tes preuves.
+
+389
+00:27:49,583 --> 00:27:54,083
+Je ne suis pas désespérée
+et je n'ai pas besoin de votre aide.
+
+390
+00:27:59,500 --> 00:28:00,791
+Mais je prends ça.
+
+391
+00:28:08,250 --> 00:28:11,041
+Comment ose-t-il me faire la leçon ?
+
+392
+00:28:11,708 --> 00:28:13,416
+Il bute sur une affaire
+
+393
+00:28:13,500 --> 00:28:16,583
+et vit au milieu de papiers
+et de moisissures.
+
+394
+00:28:16,666 --> 00:28:19,791
+Et il dit que je suis désespérée ?
+C'est faux.
+
+395
+00:28:19,875 --> 00:28:21,625
+- Et injuste.
+- Enola ?
+
+396
+00:28:26,500 --> 00:28:27,500
+C'est vous.
+
+397
+00:28:29,416 --> 00:28:30,333
+Et vous.
+
+398
+00:28:32,083 --> 00:28:33,000
+Comment allez-vous ?
+
+399
+00:28:34,250 --> 00:28:36,333
+Ça va ? Vous avez l'air…
+
+400
+00:28:36,416 --> 00:28:38,958
+Je suis sur une affaire. Incognito.
+
+401
+00:28:39,041 --> 00:28:40,708
+Je n'aurais pas dû dire ça.
+
+402
+00:28:40,791 --> 00:28:42,583
+C'est très étrange,
+
+403
+00:28:42,666 --> 00:28:44,625
+je crois vous avoir déjà vue ici.
+
+404
+00:28:46,166 --> 00:28:47,041
+Ah bon ?
+
+405
+00:28:47,125 --> 00:28:50,250
+C'est mon itinéraire
+vers la Chambre des lords.
+
+406
+00:28:50,916 --> 00:28:51,750
+Vraiment ?
+
+407
+00:28:52,333 --> 00:28:53,375
+Merveilleux.
+
+408
+00:28:53,458 --> 00:28:56,125
+Je déjeune parfois ici.
+
+409
+00:28:59,458 --> 00:29:03,833
+Oui, c'est un endroit charmant.
+Je connais le jardinier.
+
+410
+00:29:04,625 --> 00:29:07,083
+Nous avons discuté des semis
+pour l'an prochain.
+
+411
+00:29:07,166 --> 00:29:08,708
+De beaux tournesols,
+
+412
+00:29:08,791 --> 00:29:11,375
+des œillets du poète pour leur rouge vif.
+
+413
+00:29:11,458 --> 00:29:13,000
+J'ai suivi vos réussites…
+
+414
+00:29:15,208 --> 00:29:16,625
+Ce n'est rien.
+
+415
+00:29:16,708 --> 00:29:18,041
+… dans la rubrique mondaine.
+
+416
+00:29:18,791 --> 00:29:20,875
+LES BONS PARTIS
+VICOMTE TEWKESBURY
+
+417
+00:29:21,791 --> 00:29:23,791
+Vous êtes un célibataire convoité.
+
+418
+00:29:26,708 --> 00:29:28,208
+Méfiez-vous des journaux.
+
+419
+00:29:33,250 --> 00:29:34,250
+Je vous ai écrit.
+
+420
+00:29:36,375 --> 00:29:37,791
+Vous n'avez pas répondu.
+
+421
+00:29:39,541 --> 00:29:42,000
+J'ai été occupée.
+
+422
+00:29:42,083 --> 00:29:45,041
+À démarrer mon entreprise.
+Un défi perpétuel.
+
+423
+00:29:45,125 --> 00:29:46,958
+Vous ne pouvez pas comprendre.
+
+424
+00:29:47,583 --> 00:29:50,041
+- Si vous avez besoin d'aide…
+- Non.
+
+425
+00:29:51,583 --> 00:29:54,583
+Pour des conseils en horticulture,
+je viendrai vous voir.
+
+426
+00:29:56,166 --> 00:29:57,000
+D'accord.
+
+427
+00:29:57,541 --> 00:30:00,250
+Eh bien, vous savez où me trouver…
+
+428
+00:30:02,250 --> 00:30:03,583
+si une plante disparaît.
+
+429
+00:30:04,083 --> 00:30:05,583
+Bon appétit.
+
+430
+00:30:09,916 --> 00:30:10,750
+Oui.
+
+431
+00:30:14,958 --> 00:30:16,166
+S'est-il retourné ?
+
+432
+00:30:21,333 --> 00:30:22,500
+Non. Tant mieux.
+
+433
+00:30:24,708 --> 00:30:26,541
+Je ne viens pas tous les jours.
+
+434
+00:30:27,166 --> 00:30:28,833
+Seulement en cas de besoin.
+
+435
+00:30:29,666 --> 00:30:32,333
+Et parfois, il ne passe pas ici.
+
+436
+00:30:32,416 --> 00:30:34,208
+Il prend le chemin parallèle.
+
+437
+00:30:37,416 --> 00:30:38,916
+Vous savez où me trouver.
+
+438
+00:30:46,500 --> 00:30:48,500
+"Vous savez où me trouver."
+
+439
+00:30:48,583 --> 00:30:50,083
+<i>À l'abri des regards</i>
+
+440
+00:30:50,166 --> 00:30:51,625
+<i>La chapelle nous attend</i>
+
+441
+00:30:52,125 --> 00:30:53,583
+<i>Où s'ouvrent les fleurs blanches</i>
+
+442
+00:30:54,166 --> 00:30:55,125
+Whitechapel.
+
+443
+00:30:55,791 --> 00:30:57,666
+<i>À deux, nous goûtions le fruit de l'amour</i>
+
+444
+00:30:57,750 --> 00:30:59,708
+Deux, fruit.
+
+445
+00:31:00,208 --> 00:31:01,916
+Deux, huit.
+
+446
+00:31:02,000 --> 00:31:02,958
+Vingt-huit.
+
+447
+00:31:03,750 --> 00:31:06,083
+<i>Une cloche a sonné dans le ciel</i>
+
+448
+00:31:06,583 --> 00:31:07,625
+Une cloche ?
+
+449
+00:31:07,708 --> 00:31:08,875
+<i>Flânez sur la place</i>
+
+450
+00:31:10,083 --> 00:31:11,541
+Place. Cloche.
+
+451
+00:31:11,625 --> 00:31:12,833
+<i>À l'abri des regards</i>
+
+452
+00:31:14,083 --> 00:31:16,875
+28 Bell Place, Whitechapel !
+
+453
+00:31:18,375 --> 00:31:19,333
+Désolée.
+
+454
+00:31:22,750 --> 00:31:24,833
+La partie reprend.
+
+455
+00:31:28,833 --> 00:31:30,125
+Je ne peux mentir.
+
+456
+00:31:30,208 --> 00:31:33,041
+Un détective ressent
+une certaine satisfaction
+
+457
+00:31:33,125 --> 00:31:35,875
+quand la résolution
+d'une affaire approche.
+
+458
+00:31:35,958 --> 00:31:37,541
+Comme coudre une jupe…
+
+459
+00:31:39,541 --> 00:31:40,666
+ce que je ne fais pas,
+
+460
+00:31:40,750 --> 00:31:42,875
+ou apprendre à un chien à s'asseoir.
+
+461
+00:31:43,375 --> 00:31:46,500
+On rayonne de satisfaction
+devant un travail bien fait.
+
+462
+00:31:46,583 --> 00:31:48,500
+Une nouvelle Holmes en ville.
+
+463
+00:31:48,583 --> 00:31:51,500
+Exact. Aussi douée que Sherlock Holmes !
+
+464
+00:31:52,166 --> 00:31:53,666
+Je serai connue,
+
+465
+00:31:53,750 --> 00:31:55,666
+et Bessie retrouvera sa sœur.
+
+466
+00:31:56,541 --> 00:31:58,083
+Voilà un travail bien…
+
+467
+00:32:00,791 --> 00:32:01,625
+fait.
+
+468
+00:32:25,875 --> 00:32:26,708
+Sarah ?
+
+469
+00:32:42,958 --> 00:32:44,541
+Que s'est-il passé ?
+
+470
+00:32:54,958 --> 00:32:56,333
+Monsieur Coquelicot.
+
+471
+00:33:08,375 --> 00:33:09,500
+Mae.
+
+472
+00:33:11,583 --> 00:33:13,791
+Que s'est-il passé ? Qui a fait ça ?
+
+473
+00:33:13,875 --> 00:33:16,375
+Était-ce le prétendant de Sarah ?
+
+474
+00:33:16,458 --> 00:33:17,333
+Mae.
+
+475
+00:33:18,500 --> 00:33:20,291
+Non. Tout ira bien.
+
+476
+00:33:20,375 --> 00:33:22,500
+Je vais aller chercher un médecin.
+
+477
+00:33:24,000 --> 00:33:25,541
+Non.
+
+478
+00:33:27,625 --> 00:33:28,541
+Réveillez-vous.
+
+479
+00:33:54,333 --> 00:33:58,458
+LA VÉRITÉ AU PARADIS
+
+480
+00:34:05,125 --> 00:34:06,083
+Mlle Holmes ?
+
+481
+00:34:07,000 --> 00:34:08,291
+Inspecteur Lestrade.
+
+482
+00:34:09,750 --> 00:34:11,666
+- Enola Holmes.
+- Lestrade.
+
+483
+00:34:11,750 --> 00:34:13,416
+- Elle est…
+- Morte.
+
+484
+00:34:14,916 --> 00:34:16,000
+Qu'est-il arrivé ?
+
+485
+00:34:20,750 --> 00:34:22,916
+Non, j'enquête sur une affaire.
+
+486
+00:34:23,000 --> 00:34:24,250
+La disparition d'une fille.
+
+487
+00:34:24,333 --> 00:34:25,416
+- Celle-ci ?
+- Non.
+
+488
+00:34:25,500 --> 00:34:27,458
+Non, celle-ci s'appelle Mae.
+
+489
+00:34:28,000 --> 00:34:31,000
+Elle travaillait au théâtre Paragon,
+à la fabrique d'allumettes.
+
+490
+00:34:31,083 --> 00:34:32,875
+Elle était danseuse. Une amie…
+
+491
+00:34:48,958 --> 00:34:50,041
+Commissaire Grail.
+
+492
+00:34:55,541 --> 00:34:57,958
+- Bonjour.
+- Bonjour, monsieur.
+
+493
+00:34:58,041 --> 00:35:00,541
+Je fais suite à une plainte pour tapage.
+
+494
+00:35:00,625 --> 00:35:03,791
+On a entendu des cris.
+J'ai trouvé cette jeune femme.
+
+495
+00:35:03,875 --> 00:35:04,916
+Son nom ?
+
+496
+00:35:05,000 --> 00:35:06,291
+Enola Holmes.
+
+497
+00:35:08,333 --> 00:35:10,750
+Sa sœur. Détective aussi.
+
+498
+00:35:11,708 --> 00:35:13,791
+Grand Dieu, une de plus !
+
+499
+00:35:13,875 --> 00:35:16,083
+Vous devriez être au pensionnat.
+
+500
+00:35:16,708 --> 00:35:19,500
+Elle enquête sur la disparition de…
+
+501
+00:35:19,583 --> 00:35:20,916
+- Sarah Chapman.
+- Oui.
+
+502
+00:35:21,000 --> 00:35:24,458
+Sarah Chapman ?
+C'est intrigant. Moi aussi.
+
+503
+00:35:24,541 --> 00:35:27,625
+- Accusée de vol et de chantage.
+- Chantage ?
+
+504
+00:35:27,708 --> 00:35:29,458
+Oui, détective.
+
+505
+00:35:31,583 --> 00:35:34,083
+Encore chaude.
+Pas de rigidité cadavérique.
+
+506
+00:35:34,583 --> 00:35:37,666
+- Quand a-t-on entendu les cris ?
+- À dix de cette heure.
+
+507
+00:35:38,250 --> 00:35:41,083
+Quand êtes-vous arrivée, détective ?
+
+508
+00:35:41,166 --> 00:35:42,541
+À peu près à ce moment.
+
+509
+00:35:45,625 --> 00:35:46,875
+Encore plus intrigant.
+
+510
+00:35:47,708 --> 00:35:51,333
+Non, j'ai fait compression.
+J'essayais de la sauver.
+
+511
+00:35:51,416 --> 00:35:53,791
+Ou de lui soutirer des informations.
+
+512
+00:35:55,291 --> 00:35:56,750
+Fouillez-la, inspecteur.
+
+513
+00:35:56,833 --> 00:36:00,125
+Je ne peux pas la fouiller.
+
+514
+00:36:00,208 --> 00:36:03,625
+Voyons, Lestrade. Ne soyez pas timide.
+
+515
+00:36:03,708 --> 00:36:04,958
+C'est une détective.
+
+516
+00:36:05,041 --> 00:36:06,750
+Elle connaît les règles.
+
+517
+00:36:11,208 --> 00:36:12,416
+Donnez-moi ce sac.
+
+518
+00:36:21,666 --> 00:36:22,500
+Qu'est-ce ?
+
+519
+00:36:23,708 --> 00:36:24,708
+Une preuve.
+
+520
+00:36:26,250 --> 00:36:27,208
+Et ça ?
+
+521
+00:36:30,041 --> 00:36:31,208
+Ce n'est rien.
+
+522
+00:36:31,291 --> 00:36:32,750
+Pourquoi le cacher ?
+
+523
+00:36:33,625 --> 00:36:37,041
+Sur les lieux d'un meurtre
+avec un cadavre tout frais.
+
+524
+00:36:37,125 --> 00:36:39,791
+Je vous déconseille
+de dissimuler des preuves.
+
+525
+00:36:39,875 --> 00:36:41,875
+Commissaire, vous ne croyez pas…
+
+526
+00:36:41,958 --> 00:36:44,333
+Quoi donc, jeune fille ?
+
+527
+00:36:44,833 --> 00:36:47,833
+Qu'une dame peut commettre un meurtre ?
+
+528
+00:36:47,916 --> 00:36:49,250
+Donnez-moi ça.
+
+529
+00:37:06,416 --> 00:37:08,166
+Poursuivez-la !
+
+530
+00:37:09,708 --> 00:37:11,333
+Pourquoi a-t-elle fait ça ?
+
+531
+00:37:12,375 --> 00:37:14,208
+Écartez-vous ! Poussez-vous !
+
+532
+00:37:14,791 --> 00:37:16,708
+Arrêtez cette fille !
+
+533
+00:37:19,500 --> 00:37:20,916
+Vous avez déjà vu ça.
+
+534
+00:37:25,666 --> 00:37:28,791
+Lestrade de Scotland Yard.
+Vous vous souvenez de moi ?
+
+535
+00:37:32,750 --> 00:37:35,958
+Nous cherchons votre sœur.
+Elle a causé des ennuis.
+
+536
+00:37:45,958 --> 00:37:47,166
+Vous permettez ?
+
+537
+00:37:56,583 --> 00:37:57,666
+Est-ce bien elle ?
+
+538
+00:37:58,708 --> 00:37:59,875
+Vraiment ?
+
+539
+00:37:59,958 --> 00:38:02,125
+Prenez-la. J'en ai d'autres.
+
+540
+00:38:02,208 --> 00:38:03,958
+Je ne peux pas.
+
+541
+00:38:04,041 --> 00:38:06,083
+Je peux. Je ne peux pas.
+
+542
+00:38:07,708 --> 00:38:09,000
+Peut-être que si.
+
+543
+00:38:15,541 --> 00:38:17,833
+Et voici le fameux violon.
+
+544
+00:38:19,375 --> 00:38:21,291
+Je n'en ai pas deux, par contre.
+
+545
+00:38:22,291 --> 00:38:25,416
+Pourriez-vous m'expliquer
+ce dont vous accusez Enola ?
+
+546
+00:38:25,500 --> 00:38:27,625
+J'aimerais pouvoir le révéler.
+
+547
+00:38:28,250 --> 00:38:29,083
+Puis-je ?
+
+548
+00:38:41,625 --> 00:38:43,458
+Votre affaire en cours.
+
+549
+00:38:43,541 --> 00:38:45,083
+De quoi s'agit-il ?
+
+550
+00:38:45,750 --> 00:38:47,750
+Un autre étrangleur de Brixton ?
+
+551
+00:38:48,375 --> 00:38:49,375
+Une pervenche ?
+
+552
+00:38:50,625 --> 00:38:52,458
+Pas un Clerkenwell ?
+
+553
+00:38:52,541 --> 00:38:55,000
+Quelles preuves ont-ils contre ma sœur ?
+
+554
+00:38:55,083 --> 00:38:58,166
+Dites-moi le vôtre
+et je vous dirai le mien.
+
+555
+00:39:01,083 --> 00:39:03,166
+De l'argent public manquant.
+
+556
+00:39:04,166 --> 00:39:05,041
+<i>À vous.</i>
+
+557
+00:39:05,750 --> 00:39:07,416
+<i>Le commissaire veut la voir.</i>
+
+558
+00:39:08,208 --> 00:39:10,500
+- Pourquoi ?
+- J'obéis aux ordres, M. Holmes.
+
+559
+00:39:10,583 --> 00:39:12,166
+Puis-je vous appeler Sherlock ?
+
+560
+00:39:14,375 --> 00:39:16,958
+Graydon Lestrade.
+
+561
+00:39:17,041 --> 00:39:20,791
+Mon père trouvait le nom distingué,
+et on peut dire qu'il l'est.
+
+562
+00:39:25,375 --> 00:39:28,708
+Bref, si vous souhaitez m'appeler ainsi…
+
+563
+00:39:30,208 --> 00:39:31,041
+Bon.
+
+564
+00:39:34,083 --> 00:39:35,416
+Comme vous voudrez.
+
+565
+00:39:45,833 --> 00:39:47,041
+Mince.
+
+566
+00:39:51,583 --> 00:39:54,250
+Pardon. J'aurais dû
+te prévenir que j'ouvrais.
+
+567
+00:39:57,416 --> 00:39:58,250
+Non.
+
+568
+00:40:03,958 --> 00:40:05,333
+Est-ce que je demande ?
+
+569
+00:40:12,250 --> 00:40:13,291
+Bonjour.
+
+570
+00:40:13,375 --> 00:40:15,333
+Pourriez-vous me rendre service ?
+
+571
+00:40:20,625 --> 00:40:23,333
+Tant pis. Raconte-moi tout.
+
+572
+00:40:24,083 --> 00:40:25,791
+- De l'argent public ?
+- Non.
+
+573
+00:40:26,916 --> 00:40:29,666
+Un autre étrangleur de Brixton ?
+
+574
+00:40:29,750 --> 00:40:32,125
+Une pervenche ?
+
+575
+00:40:32,708 --> 00:40:34,875
+"Dites-moi le vôtre,
+je vous dirai le mien."
+
+576
+00:40:36,041 --> 00:40:38,500
+Un idiot. Je devais le faire parler.
+
+577
+00:40:43,000 --> 00:40:46,083
+Des virements clandestins
+sortant des caisses publiques.
+
+578
+00:40:46,791 --> 00:40:49,458
+Ma théorie : corruption,
+extorsion ou chantage.
+
+579
+00:40:49,541 --> 00:40:50,875
+Qu'avez-vous trouvé ?
+
+580
+00:40:52,666 --> 00:40:54,750
+Des dossiers de cinq comptes bancaires
+
+581
+00:40:54,833 --> 00:40:58,041
+qui vont du Trésor vers une banque privée.
+
+582
+00:40:58,125 --> 00:41:00,791
+- Quelqu'un s'enrichit grâce à ça ?
+- Oui.
+
+583
+00:41:02,250 --> 00:41:04,041
+- Qui ?
+- Pas de nom.
+
+584
+00:41:04,125 --> 00:41:05,500
+Seulement un numéro.
+
+585
+00:41:05,583 --> 00:41:08,583
+J'ai demandé à la banque.
+L'argent a disparu,
+
+586
+00:41:08,666 --> 00:41:10,833
+est passé dans une banque,
+puis une autre
+
+587
+00:41:10,916 --> 00:41:13,208
+et une autre et une autre.
+
+588
+00:41:13,291 --> 00:41:16,875
+Toutes dissimulées
+derrière différents numéros de compte.
+
+589
+00:41:16,958 --> 00:41:18,083
+Vingt-sept en tout.
+
+590
+00:41:19,250 --> 00:41:21,958
+- Que pouvez-vous en déduire ?
+- Trois choses.
+
+591
+00:41:22,041 --> 00:41:25,958
+Un, cet homme est joueur,
+peut-être un génie des mathématiques,
+
+592
+00:41:26,041 --> 00:41:28,083
+capable de couvrir ses traces.
+
+593
+00:41:28,166 --> 00:41:30,541
+Deux, les sources sont diverses.
+
+594
+00:41:30,625 --> 00:41:34,541
+Cinq banques au sud de la Tamise,
+sans lien apparent.
+
+595
+00:41:34,625 --> 00:41:35,875
+Toutes anonymes.
+
+596
+00:41:35,958 --> 00:41:39,125
+Tout va dans la poche d'une personne.
+
+597
+00:41:40,541 --> 00:41:41,541
+Et trois ?
+
+598
+00:41:44,875 --> 00:41:46,291
+Il sait que je le cherche.
+
+599
+00:41:47,416 --> 00:41:48,250
+Comment ?
+
+600
+00:41:48,333 --> 00:41:52,833
+Chaque fois que je trouve une piste,
+elle s'efface et réapparaît ailleurs.
+
+601
+00:41:52,916 --> 00:41:55,666
+Il me mène en bateau. C'est…
+
+602
+00:41:57,916 --> 00:41:58,916
+exaspérant.
+
+603
+00:42:00,083 --> 00:42:02,083
+Aucune piste, alors ?
+
+604
+00:42:02,666 --> 00:42:06,166
+Une. La semaine avant le premier virement,
+une effraction au Trésor.
+
+605
+00:42:06,250 --> 00:42:07,708
+Un homme avec un fédora.
+
+606
+00:42:07,791 --> 00:42:10,291
+Un fédora ?
+Il a pris quoi ?
+
+607
+00:42:10,375 --> 00:42:13,708
+Un document. Je ne sais rien d'autre.
+C'est confidentiel.
+
+608
+00:42:14,208 --> 00:42:18,458
+Mais pour l'instant,
+le lien avec tout ça m'échappe.
+
+609
+00:42:18,541 --> 00:42:21,000
+À toi. Ce n'est pas ton sang, j'espère.
+
+610
+00:42:22,250 --> 00:42:24,500
+Je cherche une fille, Sarah Chapman.
+
+611
+00:42:24,583 --> 00:42:27,208
+Sa sœur m'a engagée. Bessie.
+
+612
+00:42:28,083 --> 00:42:31,458
+Fabrique d'allumettes Lyon le jour,
+music-hall la nuit.
+
+613
+00:42:32,291 --> 00:42:33,250
+Elle a un amant
+
+614
+00:42:34,541 --> 00:42:36,291
+dont j'ai visité l'appartement.
+
+615
+00:42:37,750 --> 00:42:39,125
+Il lui avait donné ça.
+
+616
+00:42:42,458 --> 00:42:43,666
+28 Bell Place ?
+
+617
+00:42:45,000 --> 00:42:46,458
+À Whitechapel, oui.
+
+618
+00:42:46,541 --> 00:42:48,791
+Et là-bas, j'ai trouvé son amie,
+
+619
+00:42:50,041 --> 00:42:50,875
+assassinée.
+
+620
+00:42:55,166 --> 00:42:57,541
+Et qui l'a tuée ? Ce M. Coquelicot ?
+
+621
+00:42:57,625 --> 00:42:58,916
+GUIDE DU LANGAGE DES FLEURS
+
+622
+00:42:59,250 --> 00:43:00,375
+COQUELICOT
+
+623
+00:43:00,541 --> 00:43:02,083
+MORT
+
+624
+00:43:02,166 --> 00:43:03,041
+J'imagine.
+
+625
+00:43:03,125 --> 00:43:05,750
+Il a enlevé Sarah
+et son amie l'a découvert.
+
+626
+00:43:07,458 --> 00:43:10,333
+L'amour. Ce que ça fait faire aux gens.
+
+627
+00:43:12,625 --> 00:43:14,333
+- Tuée comment ?
+- Couteau de cuisine.
+
+628
+00:43:14,416 --> 00:43:15,875
+- L'as-tu touché ?
+- Non.
+
+629
+00:43:17,791 --> 00:43:18,833
+Pourquoi avoir fui ?
+
+630
+00:43:18,916 --> 00:43:20,500
+J'ai trouvé une preuve sur elle.
+
+631
+00:43:20,583 --> 00:43:22,375
+Le policier la voulait.
+
+632
+00:43:22,458 --> 00:43:24,333
+- Il a une démarche.
+- Grail.
+
+633
+00:43:26,125 --> 00:43:27,333
+Je le connais.
+
+634
+00:43:28,875 --> 00:43:30,291
+C'était dans sa poche.
+
+635
+00:43:51,041 --> 00:43:52,666
+Aussi mauvais que le poème.
+
+636
+00:43:54,000 --> 00:43:56,041
+- Laisse-le-moi.
+- Non.
+
+637
+00:43:56,125 --> 00:43:58,333
+C'est à moi et c'est important.
+
+638
+00:43:59,791 --> 00:44:03,041
+Selon Grail, c'est une voleuse
+et une maître-chanteuse.
+
+639
+00:44:03,625 --> 00:44:06,916
+- Ça ne ressemble pas à Sarah.
+- Tu ne la connais pas.
+
+640
+00:44:08,000 --> 00:44:08,916
+Mais je le sens.
+
+641
+00:44:09,833 --> 00:44:11,958
+Tu es venue ici pour fuir la police.
+
+642
+00:44:12,041 --> 00:44:13,791
+Quelqu'un est déjà mort,
+
+643
+00:44:13,875 --> 00:44:15,958
+et tu es suspectée de meurtre.
+
+644
+00:44:16,041 --> 00:44:18,166
+Tu as laissé tes émotions
+prendre le dessus.
+
+645
+00:44:18,250 --> 00:44:21,583
+Reste ici. Ne t'en va pas.
+Je vais enquêter.
+
+646
+00:44:21,666 --> 00:44:23,875
+Sarah Chapman est ma responsabilité.
+
+647
+00:44:23,958 --> 00:44:26,125
+Personne ne se soucie de ces filles.
+
+648
+00:44:26,208 --> 00:44:27,666
+J'ai promis à sa sœur.
+
+649
+00:44:27,750 --> 00:44:29,541
+L'erreur d'un détective
+
+650
+00:44:29,625 --> 00:44:33,291
+est de prendre les choses personnellement.
+
+651
+00:44:40,250 --> 00:44:43,416
+Je sais que tu n'aimes pas
+les conseils inutiles,
+
+652
+00:44:43,500 --> 00:44:45,000
+mais je t'en prie…
+
+653
+00:44:48,083 --> 00:44:49,583
+ne deviens pas comme moi.
+
+654
+00:44:53,916 --> 00:44:55,416
+Je devrais le noter.
+
+655
+00:44:56,916 --> 00:44:59,750
+Allumettes ! Achetez vos allumettes !
+
+656
+00:44:59,833 --> 00:45:01,083
+Un penny la boîte.
+
+657
+00:45:02,833 --> 00:45:05,375
+Allumettes ! Un penny la boîte.
+
+658
+00:45:05,458 --> 00:45:06,916
+Achetez vos allumettes !
+
+659
+00:45:07,000 --> 00:45:09,208
+<i>Ce combat ne concerne pas les riches.</i>
+
+660
+00:45:09,291 --> 00:45:11,125
+Pas besoin des gens comme vous.
+
+661
+00:45:13,208 --> 00:45:17,791
+<i>Elles croient toutes</i>
+<i>que l'amour va frapper à leur porte,</i>
+
+662
+00:45:17,875 --> 00:45:19,125
+<i>mais ça n'arrive jamais.</i>
+
+663
+00:45:20,208 --> 00:45:23,958
+<i>Ils veulent des filles faciles,</i>
+<i>mais ils épousent les riches.</i>
+
+664
+00:45:27,000 --> 00:45:29,583
+<i>Coquelicot, tu es un gentleman.</i>
+
+665
+00:45:30,666 --> 00:45:33,333
+<i>Et bien nanti</i>
+<i>pour te payer une garçonnière.</i>
+
+666
+00:45:35,750 --> 00:45:37,541
+- Monsieur…
+- Ne soyez pas ridicules.
+
+667
+00:45:52,291 --> 00:45:53,541
+SORTIES : LONDRES
+
+668
+00:45:53,625 --> 00:45:54,833
+MUSIC-HALLS
+
+669
+00:45:54,916 --> 00:45:55,791
+HAUTE SOCIÉTÉ
+
+670
+00:45:55,875 --> 00:45:58,083
+TEWKESBURY
+ROI DU BAL DES CÉLIBATAIRES
+
+671
+00:46:00,833 --> 00:46:02,875
+GRANDS HOMMES : GOÛTS ET HABITUDES
+
+672
+00:46:18,541 --> 00:46:20,541
+UN IMMENSE SUCCÈS !
+THÉÂTRE ADELPHI
+
+673
+00:46:23,333 --> 00:46:26,500
+<i>La semaine avant le premier virement,</i>
+<i>une effraction au Trésor.</i>
+
+674
+00:46:26,583 --> 00:46:28,083
+<i>Un homme avec un fédora.</i>
+
+675
+00:46:29,583 --> 00:46:32,583
+NOUVELLES ALLUMETTES LYON
+BLANCHES ET PLUS VIVES
+
+676
+00:46:33,166 --> 00:46:36,625
+<i>Cinq banques au sud de la Tamise,</i>
+<i>sans lien apparent.</i>
+
+677
+00:46:36,708 --> 00:46:38,458
+FABRIQUE D'ALLUMETTES LYON
+
+678
+00:46:42,000 --> 00:46:44,083
+"Le bal des allumettiers."
+
+679
+00:46:44,583 --> 00:46:48,625
+"Organisé par Henry et Hilda Lyon.
+12 Marchmont Square."
+
+680
+00:46:50,250 --> 00:46:51,958
+Cette date vous dit quelque chose ?
+
+681
+00:46:54,750 --> 00:46:56,166
+Ce n'est pas une date.
+
+682
+00:46:57,875 --> 00:47:01,166
+"Leur fils aîné, William Lyon,
+sera le premier…"
+
+683
+00:47:02,125 --> 00:47:04,541
+Des œillets du poète pour leur rouge vif.
+
+684
+00:47:05,125 --> 00:47:08,375
+Nos ouvrières ont un rendement
+et une efficacité élevés.
+
+685
+00:47:08,458 --> 00:47:10,250
+- N'est-ce pas, William ?
+- Oui, père.
+
+686
+00:47:10,333 --> 00:47:14,000
+Moi qui te prenais pour un coquelicot.
+
+687
+00:47:16,541 --> 00:47:20,000
+Voyons si tu es un poète, William.
+
+688
+00:47:22,875 --> 00:47:24,083
+Je vais au bal.
+
+689
+00:47:28,333 --> 00:47:29,875
+RÈGLES DE LA BIENSÉANCE
+
+690
+00:47:30,208 --> 00:47:31,625
+CHAPITRE 3 - LE BAL
+
+691
+00:47:31,916 --> 00:47:33,750
+1. LA ROBE
+
+692
+00:47:33,833 --> 00:47:35,750
+2. LE MASQUE
+
+693
+00:47:35,833 --> 00:47:40,041
+3. FAIRE LA CONVERSATION
+
+694
+00:47:49,291 --> 00:47:50,125
+C'est moi.
+
+695
+00:47:51,958 --> 00:47:53,250
+Ce n'est pas moi.
+
+696
+00:47:54,000 --> 00:47:56,875
+Très utile quand on est recherchée
+par la police.
+
+697
+00:47:57,458 --> 00:48:00,875
+Silence pour monsieur le vicomte McIntyre.
+
+698
+00:48:00,958 --> 00:48:03,541
+Navré d'interrompre
+cette glorieuse soirée,
+
+699
+00:48:03,625 --> 00:48:05,250
+mais je suis un politicien.
+
+700
+00:48:05,333 --> 00:48:08,375
+Je ne perds aucune occasion
+de monter sur scène.
+
+701
+00:48:09,375 --> 00:48:12,916
+Je prends la parole
+pour remercier notre hôte
+
+702
+00:48:13,000 --> 00:48:14,958
+et applaudir ses réussites.
+
+703
+00:48:17,083 --> 00:48:18,708
+Pas de masque, peu importe.
+
+704
+00:48:18,791 --> 00:48:22,416
+Car Henry Lyon transforme tout en or.
+
+705
+00:48:22,500 --> 00:48:24,708
+Des inepties. En étain, au mieux.
+
+706
+00:48:25,583 --> 00:48:28,458
+Ce qu'il a fait avec les allumettes
+est fabuleux.
+
+707
+00:48:28,541 --> 00:48:31,375
+En deux ans,
+il a révolutionné l'allumette.
+
+708
+00:48:31,458 --> 00:48:36,208
+Ou devrais-je dire, il a transformé
+l'allumette en or blanc.
+
+709
+00:48:36,291 --> 00:48:38,541
+Cet homme humble s'intéresse
+
+710
+00:48:38,625 --> 00:48:40,833
+à la typhoïde et aux ouvriers,
+
+711
+00:48:41,333 --> 00:48:44,166
+organise des collectes des fonds,
+des dépistages.
+
+712
+00:48:44,250 --> 00:48:46,833
+Je trouve cela bouleversant.
+
+713
+00:48:46,916 --> 00:48:51,041
+Mesdames et messieurs, voici Henry Lyon.
+
+714
+00:48:51,125 --> 00:48:56,083
+Et son fils, son héritier, William.
+
+715
+00:48:58,458 --> 00:48:59,541
+À l'avenir.
+
+716
+00:49:00,333 --> 00:49:01,916
+À l'avenir.
+
+717
+00:49:02,500 --> 00:49:04,333
+Qu'il soit radieux.
+
+718
+00:49:06,125 --> 00:49:08,041
+Bien, Henry, éclaire-nous.
+
+719
+00:49:09,625 --> 00:49:10,458
+Avec plaisir.
+
+720
+00:49:15,250 --> 00:49:17,250
+Maintenant, amusez-vous.
+
+721
+00:49:23,833 --> 00:49:26,208
+J'ai déjà vu cette robe quelque part.
+
+722
+00:49:26,291 --> 00:49:28,083
+Oui, l'an dernier.
+
+723
+00:49:30,375 --> 00:49:32,333
+Je la trouve charmante, élégante.
+
+724
+00:49:32,958 --> 00:49:34,375
+Je vous trouve gentille.
+
+725
+00:49:45,875 --> 00:49:47,333
+3. FAIRE LA CONVERSATION
+
+726
+00:49:48,583 --> 00:49:49,666
+Messieurs.
+
+727
+00:49:50,541 --> 00:49:51,375
+Madame.
+
+728
+00:49:52,250 --> 00:49:53,083
+Bonsoir.
+
+729
+00:49:56,125 --> 00:49:58,750
+C'est une merveilleuse soirée,
+n'est-ce pas ?
+
+730
+00:50:02,041 --> 00:50:07,041
+Les invités sont vraiment délicieux.
+
+731
+00:50:08,250 --> 00:50:11,791
+Et l'orchestre est très mélodieux.
+
+732
+00:50:16,000 --> 00:50:18,125
+Je me demandais si…
+
+733
+00:50:19,208 --> 00:50:21,666
+je pouvais vous parler, monsieur Lyon.
+
+734
+00:50:24,583 --> 00:50:25,875
+Qu'ai-je dit de mal ?
+
+735
+00:50:25,958 --> 00:50:27,375
+Où est votre chaperon ?
+
+736
+00:50:28,291 --> 00:50:29,291
+Mon chaperon ?
+
+737
+00:50:30,250 --> 00:50:33,708
+Ma chère, vous ne pensiez pas
+parler à mon fils seule ?
+
+738
+00:50:35,875 --> 00:50:38,666
+CHAPITRE 37 - AVEC UN CHAPERON
+
+739
+00:50:38,750 --> 00:50:42,500
+CHAPITRE 38 - SANS CHAPERON
+
+740
+00:50:42,583 --> 00:50:44,375
+EST MORTE SEULE, SANS CHAPERON
+
+741
+00:50:44,458 --> 00:50:47,208
+Je ne peux pas vous parler sans chaperon ?
+
+742
+00:50:47,291 --> 00:50:48,833
+Bien sûr que non.
+
+743
+00:50:49,416 --> 00:50:50,250
+Sérieusement ?
+
+744
+00:50:52,166 --> 00:50:53,166
+Sérieusement ?
+
+745
+00:50:54,083 --> 00:50:55,375
+Qui est cette femme ?
+
+746
+00:50:55,958 --> 00:50:57,125
+Ils parlent, eux.
+
+747
+00:50:57,208 --> 00:50:58,458
+Ils dansent.
+
+748
+00:50:59,166 --> 00:51:00,875
+Bonsoir, ma chère.
+
+749
+00:51:02,000 --> 00:51:03,000
+Oui.
+
+750
+00:51:03,083 --> 00:51:04,666
+C'était idiot de ma part.
+
+751
+00:51:06,041 --> 00:51:06,958
+Bonsoir.
+
+752
+00:51:23,166 --> 00:51:25,791
+On pourrait avancer, avec raison,
+
+753
+00:51:25,875 --> 00:51:27,708
+que j'aurais dû mieux me préparer.
+
+754
+00:51:27,791 --> 00:51:29,791
+Mais la danse n'est pas mon fort.
+
+755
+00:51:30,875 --> 00:51:32,291
+À part…
+
+756
+00:51:32,375 --> 00:51:33,791
+<i>Les genoux en l'air</i>
+
+757
+00:51:33,875 --> 00:51:36,125
+<i>On se roule sous la table</i>
+
+758
+00:51:39,208 --> 00:51:41,041
+Vous comprenez le problème ?
+
+759
+00:51:51,875 --> 00:51:52,750
+Pourquoi ?
+
+760
+00:51:56,041 --> 00:51:57,291
+<i>Cet homme est joueur.</i>
+
+761
+00:51:57,375 --> 00:51:59,500
+<i>Cinq comptes bancaires.</i>
+
+762
+00:51:59,583 --> 00:52:02,708
+<i>Capable de couvrir ses traces.</i>
+<i>Une banque privée.</i>
+
+763
+00:52:02,791 --> 00:52:04,541
+<i>S'efface et réapparaît. Pas de nom.</i>
+
+764
+00:52:05,041 --> 00:52:06,625
+<i>Seulement un numéro.</i>
+
+765
+00:52:13,708 --> 00:52:15,666
+<i>Un génie des mathématiques.</i>
+
+766
+00:52:15,750 --> 00:52:17,958
+<i>Il me mène en bateau.</i>
+
+767
+00:52:19,666 --> 00:52:20,541
+<i>C'est un code.</i>
+
+768
+00:52:26,375 --> 00:52:27,208
+<i>La polka.</i>
+
+769
+00:52:28,708 --> 00:52:30,125
+<i>La promenade.</i>
+
+770
+00:52:30,208 --> 00:52:31,291
+<i>Le two-step.</i>
+
+771
+00:52:32,208 --> 00:52:33,708
+<i>Ce sont des danses.</i>
+
+772
+00:52:33,791 --> 00:52:35,458
+<i>Dansez !</i>
+
+773
+00:52:35,541 --> 00:52:37,291
+<i>Vingt-sept.</i>
+
+774
+00:52:42,375 --> 00:52:44,416
+<i>Oui. Le langage de la danse.</i>
+
+775
+00:52:44,500 --> 00:52:46,458
+<i>Vingt-sept danses.</i>
+
+776
+00:52:47,250 --> 00:52:48,125
+<i>Je te tiens.</i>
+
+777
+00:52:48,208 --> 00:52:50,583
+<i>Danse 1, 114, 22…</i>
+
+778
+00:52:55,833 --> 00:52:58,625
+C'est affreux, n'est-ce pas ? Ces soirées.
+
+779
+00:52:59,583 --> 00:53:01,583
+Des mirliflores et des freluquets.
+
+780
+00:53:02,250 --> 00:53:04,333
+Nous sommes-nous déjà rencontrées ?
+
+781
+00:53:04,833 --> 00:53:07,875
+J'ai l'impression de vous connaître.
+
+782
+00:53:09,458 --> 00:53:11,416
+J'ai un visage très commun.
+
+783
+00:53:13,875 --> 00:53:14,708
+Mira Troy,
+
+784
+00:53:15,333 --> 00:53:17,708
+secrétaire privée de Lord McIntyre,
+
+785
+00:53:18,291 --> 00:53:19,458
+ministre du Trésor.
+
+786
+00:53:20,458 --> 00:53:21,333
+Tabitha.
+
+787
+00:53:22,750 --> 00:53:24,166
+Tabitha Timothy.
+
+788
+00:53:27,291 --> 00:53:29,291
+Ne vous laissez pas impressionner.
+
+789
+00:53:29,791 --> 00:53:31,291
+C'est une représentation.
+
+790
+00:53:32,083 --> 00:53:34,375
+Tout le monde ici joue un rôle,
+
+791
+00:53:35,166 --> 00:53:36,291
+se teste.
+
+792
+00:53:38,916 --> 00:53:39,750
+On gagne.
+
+793
+00:53:41,375 --> 00:53:42,208
+On perd.
+
+794
+00:53:43,541 --> 00:53:44,833
+Et c'est amusant,
+
+795
+00:53:45,625 --> 00:53:47,125
+lorsqu'on connaît les règles.
+
+796
+00:53:53,500 --> 00:53:55,625
+Que font-elles avec ces éventails ?
+
+797
+00:53:58,166 --> 00:54:00,083
+Elles envoient des messages.
+
+798
+00:54:00,166 --> 00:54:03,416
+Elles disent tout ce qui est interdit…
+
+799
+00:54:05,208 --> 00:54:08,541
+ou trop gênant pour être dit tout haut.
+
+800
+00:54:13,458 --> 00:54:15,041
+Merci pour la leçon.
+
+801
+00:54:16,708 --> 00:54:18,375
+Une leçon durement apprise.
+
+802
+00:54:20,500 --> 00:54:24,208
+Sans pouvoir, nous, les femmes,
+devons compter sur notre esprit,
+
+803
+00:54:24,291 --> 00:54:26,458
+car nos chances sont limitées.
+
+804
+00:54:26,541 --> 00:54:27,375
+Tenez.
+
+805
+00:54:28,041 --> 00:54:29,000
+Mon éventail.
+
+806
+00:54:30,291 --> 00:54:31,666
+Je n'en ai pas besoin.
+
+807
+00:54:33,083 --> 00:54:35,958
+Et si vous souhaitez parler à William…
+
+808
+00:54:37,958 --> 00:54:39,500
+essayez avec ça.
+
+809
+00:54:57,083 --> 00:54:58,333
+Non, pas vous.
+
+810
+00:55:01,541 --> 00:55:02,416
+À l'aide.
+
+811
+00:55:05,083 --> 00:55:06,458
+Ce serait avec plaisir.
+
+812
+00:55:10,375 --> 00:55:12,791
+Vraiment, inutile d'être impolie.
+
+813
+00:55:12,875 --> 00:55:14,291
+Je n'ai pas fait exprès.
+
+814
+00:55:30,000 --> 00:55:31,166
+Tewkesbury !
+
+815
+00:55:31,250 --> 00:55:33,708
+- Pile au bon moment !
+- Enola ?
+
+816
+00:55:33,791 --> 00:55:36,583
+Ne me parlez pas ici
+ou on vous mettra dehors.
+
+817
+00:55:41,000 --> 00:55:44,041
+- Apprenez-moi à danser.
+- Quand ça ?
+
+818
+00:55:44,125 --> 00:55:45,208
+Maintenant.
+
+819
+00:55:46,250 --> 00:55:48,541
+Je m'entraîne depuis mes cinq ans.
+
+820
+00:55:48,625 --> 00:55:51,541
+Tant mieux. Je craignais
+que vous soyez mauvais professeur.
+
+821
+00:55:51,625 --> 00:55:54,541
+- Que faites-vous ici ?
+- Je cherche un meurtrier.
+
+822
+00:55:55,041 --> 00:55:57,833
+Mais je n'aurais pas dû le dire.
+Oubliez ça.
+
+823
+00:55:57,916 --> 00:56:01,916
+- J'essaie de sauver la vie d'une fille.
+- En dansant ?
+
+824
+00:56:02,000 --> 00:56:03,333
+Je vous en prie.
+
+825
+00:56:06,416 --> 00:56:09,083
+D'accord. Gardez le dos droit.
+
+826
+00:56:11,000 --> 00:56:14,125
+Maintenant, je vais mettre
+mes mains ici et là.
+
+827
+00:56:14,208 --> 00:56:15,583
+D'accord.
+
+828
+00:56:16,916 --> 00:56:17,791
+Bras tendu.
+
+829
+00:56:19,416 --> 00:56:20,250
+Bien.
+
+830
+00:56:20,750 --> 00:56:22,958
+Je vais diriger et vous me suivrez.
+
+831
+00:56:23,041 --> 00:56:25,708
+- Une erreur.
+- Regardez par-dessus mon épaule.
+
+832
+00:56:27,416 --> 00:56:30,583
+Et maintenant, un, deux, trois.
+
+833
+00:56:31,083 --> 00:56:33,166
+Deux, trois. Deux, trois.
+
+834
+00:56:38,875 --> 00:56:39,750
+Bien.
+
+835
+00:56:46,208 --> 00:56:48,541
+Vous semblez différente.
+
+836
+00:56:49,541 --> 00:56:51,541
+Pourquoi venez-vous au parc ?
+
+837
+00:56:51,625 --> 00:56:53,458
+Pourquoi me regarder passer ?
+
+838
+00:56:54,125 --> 00:56:55,833
+Je garde un œil sur vous,
+
+839
+00:56:55,916 --> 00:56:58,125
+au cas où vous seriez dans le pétrin.
+
+840
+00:56:58,208 --> 00:57:00,625
+- En sautant d'un train…
+- Enola…
+
+841
+00:57:00,708 --> 00:57:02,833
+Vous ne prenez pas soin de vous.
+
+842
+00:57:03,500 --> 00:57:06,291
+- Je suis un homme.
+- Vous en serez un quand je vous le dirai.
+
+843
+00:57:06,375 --> 00:57:09,750
+Mes pétrins sont moins sanglants.
+
+844
+00:57:13,208 --> 00:57:14,083
+Allez.
+
+845
+00:57:16,750 --> 00:57:18,708
+Deux, trois.
+
+846
+00:57:18,791 --> 00:57:19,916
+Regardez-moi.
+
+847
+00:57:20,500 --> 00:57:22,750
+On suit toujours le rythme.
+
+848
+00:57:23,583 --> 00:57:27,125
+La danse est une confiance, une union.
+J'ai toujours aimé ça,
+
+849
+00:57:27,750 --> 00:57:29,958
+même quand mon oncle me l'enseignait.
+
+850
+00:57:30,041 --> 00:57:31,750
+Il aime la moutarde.
+
+851
+00:57:32,625 --> 00:57:33,583
+Son haleine…
+
+852
+00:57:34,166 --> 00:57:35,125
+Tournez, deux.
+
+853
+00:57:36,750 --> 00:57:38,250
+Tournez. Vous le sentez ?
+
+854
+00:57:38,750 --> 00:57:39,583
+Oui.
+
+855
+00:57:48,416 --> 00:57:49,250
+Bien.
+
+856
+00:57:49,916 --> 00:57:52,583
+- Vous dansez bien.
+- J'ai un bon professeur.
+
+857
+00:57:53,416 --> 00:57:56,000
+Même si son haleine
+ne sent pas la moutarde.
+
+858
+00:58:18,291 --> 00:58:19,916
+Nous avons une urgence.
+
+859
+00:58:21,125 --> 00:58:21,958
+J'y vais.
+
+860
+00:58:22,708 --> 00:58:24,083
+Il vous faut une carte.
+
+861
+00:58:25,416 --> 00:58:26,875
+Je n'en sais pas assez.
+
+862
+00:58:30,000 --> 00:58:32,083
+- Ça veut dire quoi ?
+- Vous apprendrez.
+
+863
+00:58:36,458 --> 00:58:39,250
+Évitez le gâteau au gingembre.
+Il rend patraque.
+
+864
+00:58:53,666 --> 00:58:54,583
+Bonsoir.
+
+865
+00:58:59,833 --> 00:59:00,833
+Monsieur Lyon.
+
+866
+00:59:02,500 --> 00:59:05,000
+Je me demandais si on pouvait danser.
+
+867
+00:59:05,666 --> 00:59:07,166
+Ma carte est pleine.
+
+868
+00:59:07,250 --> 00:59:08,291
+Puis-je la voir ?
+
+869
+00:59:16,333 --> 00:59:18,250
+Il vous reste la dernière valse.
+
+870
+00:59:18,750 --> 00:59:19,791
+Parfait.
+
+871
+00:59:21,875 --> 00:59:23,083
+Auriez-vous l'obligeance ?
+
+872
+00:59:34,583 --> 00:59:35,500
+À plus tard.
+
+873
+00:59:55,208 --> 00:59:56,166
+C'est lui.
+
+874
+01:00:04,000 --> 01:00:05,791
+Vous admirez Lord Tewkesbury ?
+
+875
+01:00:10,666 --> 01:00:12,416
+Nous sommes de vieux amis.
+
+876
+01:00:13,041 --> 01:00:16,041
+Il paraît que c'est un homme bon
+et un réformateur.
+
+877
+01:00:18,041 --> 01:00:21,041
+Si vous voulez danser avec lui,
+il faudra attendre.
+
+878
+01:00:21,125 --> 01:00:22,208
+Il y a la queue.
+
+879
+01:00:25,250 --> 01:00:27,208
+Je dois saisir ma chance.
+
+880
+01:00:29,666 --> 01:00:31,208
+Bonsoir, mademoiselle…
+
+881
+01:00:31,291 --> 01:00:32,208
+Tabitha.
+
+882
+01:00:33,041 --> 01:00:33,875
+Cicely.
+
+883
+01:00:40,541 --> 01:00:41,541
+Lord Tewkesbury.
+
+884
+01:00:41,625 --> 01:00:43,791
+Pardonnez l'interruption. Cicely.
+
+885
+01:00:44,375 --> 01:00:47,291
+Votre amie Tabitha a suggéré
+qu'on danse ensemble.
+
+886
+01:00:48,250 --> 01:00:49,166
+Ah oui ?
+
+887
+01:00:53,916 --> 01:00:56,333
+- Je n'ai pas retenu votre nom.
+- Cicely.
+
+888
+01:00:56,416 --> 01:00:58,208
+Mesdames et messieurs,
+
+889
+01:00:58,291 --> 01:01:01,000
+à vos partenaires pour la dernière valse.
+
+890
+01:01:27,458 --> 01:01:29,916
+J'ai l'impression de vous connaître.
+
+891
+01:01:30,000 --> 01:01:31,333
+Où vous ai-je vu ?
+
+892
+01:01:31,916 --> 01:01:33,375
+Je ne vous connais pas,
+
+893
+01:01:34,250 --> 01:01:36,208
+mais vous m'épiez. Pourquoi ?
+
+894
+01:01:39,875 --> 01:01:42,500
+<i>Bien sûr, le Paragon.</i>
+
+895
+01:01:43,166 --> 01:01:45,833
+Je vous y ai vu parler
+avec une jeune femme.
+
+896
+01:01:46,333 --> 01:01:47,666
+Sarah Chapman.
+
+897
+01:01:49,541 --> 01:01:52,000
+Séparez-vous de moi et je crie.
+
+898
+01:01:52,083 --> 01:01:53,708
+La police vous cherche.
+
+899
+01:01:53,791 --> 01:01:55,791
+Ils nous cherchent tous les deux.
+
+900
+01:01:57,875 --> 01:01:59,958
+Vous n'étiez pas invitée.
+Que voulez-vous ?
+
+901
+01:02:00,041 --> 01:02:03,625
+Je suis détective privée.
+La sœur de Sarah m'a engagée.
+
+902
+01:02:04,208 --> 01:02:05,500
+Bessie ?
+
+903
+01:02:06,083 --> 01:02:07,041
+Vous la connaissez ?
+
+904
+01:02:08,500 --> 01:02:10,208
+Laissez-moi tranquille.
+
+905
+01:02:11,041 --> 01:02:12,500
+Vous allez tout gâcher.
+
+906
+01:02:13,125 --> 01:02:14,958
+Comment ? Que vais-je gâcher ?
+
+907
+01:02:15,583 --> 01:02:16,666
+Ils regardent.
+
+908
+01:02:17,166 --> 01:02:21,000
+Si vous insistez, retrouvez-moi
+dans la bibliothèque à minuit.
+
+909
+01:02:22,041 --> 01:02:23,500
+Ne dites rien de plus.
+
+910
+01:02:24,916 --> 01:02:26,041
+À minuit, alors.
+
+911
+01:02:43,416 --> 01:02:46,791
+UN PLAISIR DE VOUS RENCONTRER
+SHERLOCK HOLMES
+
+912
+01:02:55,750 --> 01:02:56,791
+Moriarty ?
+
+913
+01:02:59,375 --> 01:03:00,291
+Qui êtes-vous ?
+
+914
+01:03:11,541 --> 01:03:13,416
+Vous cherchez les ennuis.
+
+915
+01:03:13,500 --> 01:03:15,000
+Pourquoi le tisonnier ?
+
+916
+01:03:15,083 --> 01:03:17,291
+Partez. J'attends quelqu'un d'autre.
+
+917
+01:03:17,375 --> 01:03:19,416
+Quelqu'un qui vous fait si peur ?
+
+918
+01:03:19,500 --> 01:03:21,750
+Vous êtes toujours là
+au mauvais moment.
+
+919
+01:03:21,833 --> 01:03:23,291
+Parfois au bon moment.
+
+920
+01:03:23,916 --> 01:03:26,500
+- Qu'y a-t-il ?
+- Rien qui ne vous concerne.
+
+921
+01:03:28,166 --> 01:03:32,166
+Votre partenaire était jolie.
+Comment s'appelle-t-elle, Cicely ?
+
+922
+01:03:32,250 --> 01:03:33,958
+Elle ferait une excellente épouse.
+
+923
+01:03:34,458 --> 01:03:36,291
+Je ne m'intéresse qu'à vous.
+
+924
+01:03:36,375 --> 01:03:39,333
+Si vous restez là, il pourrait avoir peur.
+
+925
+01:03:39,416 --> 01:03:41,750
+"Il" ? Il s'agit d'un homme ?
+
+926
+01:03:43,708 --> 01:03:45,250
+Partez.
+
+927
+01:03:55,833 --> 01:03:56,791
+Lord Tewkesbury.
+
+928
+01:04:00,333 --> 01:04:02,416
+Enola Holmes, je vous arrête.
+
+929
+01:04:02,500 --> 01:04:04,958
+Tentez une évasion,
+nous serons implacables.
+
+930
+01:04:05,041 --> 01:04:08,416
+Rendez-vous calmement,
+épargnez de l'embarras à vos hôtes.
+
+931
+01:04:09,000 --> 01:04:11,666
+- Peu importe de quoi il s'agit…
+- Un meurtre.
+
+932
+01:04:13,458 --> 01:04:14,708
+Il s'agit d'un meurtre.
+
+933
+01:04:17,916 --> 01:04:19,500
+Tewkesbury, tout va bien.
+
+934
+01:04:20,375 --> 01:04:21,666
+Allez-y.
+
+935
+01:04:23,291 --> 01:04:24,375
+Protégez-les.
+
+936
+01:04:25,875 --> 01:04:27,041
+Je vous en prie.
+
+937
+01:04:27,125 --> 01:04:28,041
+Suivez-moi.
+
+938
+01:04:36,208 --> 01:04:37,666
+C'était une intruse.
+
+939
+01:04:57,791 --> 01:04:59,041
+Quelle soirée !
+
+940
+01:05:00,333 --> 01:05:03,541
+Il paraît que vous avez dansé
+avec le fils Lyon.
+
+941
+01:05:04,833 --> 01:05:08,083
+Puis-je demander,
+avec impertinence, sans doute,
+
+942
+01:05:08,166 --> 01:05:09,791
+si vous vouliez l'embrasser
+
+943
+01:05:10,291 --> 01:05:12,708
+ou enquêter sur cette disparition,
+
+944
+01:05:13,208 --> 01:05:14,666
+celle de Sarah Chapman ?
+
+945
+01:05:19,625 --> 01:05:23,583
+Écoutez, si vous essayez de la protéger,
+
+946
+01:05:24,416 --> 01:05:25,333
+sachez
+
+947
+01:05:26,166 --> 01:05:28,750
+que je la protégerai mieux.
+
+948
+01:05:30,041 --> 01:05:32,041
+Quelqu'un veut lui parler,
+
+949
+01:05:32,666 --> 01:05:34,625
+et il n'est pas aussi gentil que moi.
+
+950
+01:05:35,208 --> 01:05:36,125
+Quelqu'un ?
+
+951
+01:05:39,125 --> 01:05:39,958
+Qui ça ?
+
+952
+01:05:42,666 --> 01:05:44,875
+Pourquoi me suiviez-vous ce soir-là ?
+
+953
+01:05:47,833 --> 01:05:50,458
+Vous suiviez Mae aussi, n'est-ce pas ?
+
+954
+01:05:51,375 --> 01:05:52,958
+Et vous avez trouvé l'appartement.
+
+955
+01:05:57,375 --> 01:05:58,291
+Jolie chemise.
+
+956
+01:05:59,333 --> 01:06:00,166
+De la soie ?
+
+957
+01:06:01,000 --> 01:06:02,750
+Avec un salaire de policier ?
+
+958
+01:06:04,541 --> 01:06:07,541
+Qui vous paie, commissaire Grail ?
+
+959
+01:06:07,625 --> 01:06:10,000
+Qui vous paie
+pour tuer les allumettières ?
+
+960
+01:06:10,083 --> 01:06:11,916
+Où est Sarah Chapman ?
+
+961
+01:06:12,000 --> 01:06:14,416
+- Je l'ignore.
+- Une voleuse, une perturbatrice.
+
+962
+01:06:14,500 --> 01:06:16,916
+Ne risquez pas votre peau pour elle.
+
+963
+01:06:19,500 --> 01:06:23,125
+Si vous ne me le dites pas,
+je demanderai à une autre.
+
+964
+01:06:23,208 --> 01:06:26,041
+Sa sœur, la petite Bessie.
+
+965
+01:06:27,250 --> 01:06:28,541
+C'est une fillette.
+
+966
+01:06:28,625 --> 01:06:31,291
+Ça commence ainsi, Enola Holmes.
+
+967
+01:06:31,375 --> 01:06:35,791
+Avec des fillettes comme elle,
+vous et Sarah Chapman
+
+968
+01:06:35,875 --> 01:06:38,583
+qui remettent en question l'autorité,
+
+969
+01:06:38,666 --> 01:06:40,916
+ne voyant pas qu'elle les protège,
+
+970
+01:06:41,000 --> 01:06:42,708
+et qui tentent de l'anéantir.
+
+971
+01:06:43,208 --> 01:06:47,041
+Il suffit d'une petite flamme
+pour mettre le feu,
+
+972
+01:06:47,125 --> 01:06:50,083
+et mon travail, c'est de les éteindre.
+
+973
+01:06:53,916 --> 01:06:57,541
+Je vais vous donner une dernière chance.
+
+974
+01:06:59,791 --> 01:07:00,708
+Où est-elle ?
+
+975
+01:07:02,250 --> 01:07:03,333
+Je ne sais pas.
+
+976
+01:07:10,916 --> 01:07:12,375
+Alors, on vous pendra.
+
+977
+01:07:12,958 --> 01:07:14,583
+Quelle piètre détective.
+
+978
+01:07:16,041 --> 01:07:18,291
+Il fallait vous en tenir à la couture.
+
+979
+01:07:23,500 --> 01:07:25,500
+DE : LESTRADE
+ENOLA A ÉTÉ ARRÊTÉE.
+
+980
+01:07:31,541 --> 01:07:32,666
+Monsieur ?
+
+981
+01:07:32,750 --> 01:07:34,625
+- Monsieur.
+- Ne soyez pas ridi…
+
+982
+01:07:37,875 --> 01:07:39,250
+Commissaire Grail.
+
+983
+01:07:40,666 --> 01:07:42,166
+Monsieur Holmes.
+
+984
+01:07:43,958 --> 01:07:45,750
+Je viens chercher ma sœur.
+
+985
+01:07:45,833 --> 01:07:47,833
+Si vous pouviez la libérer,
+
+986
+01:07:49,458 --> 01:07:50,875
+j'apprécierais beaucoup.
+
+987
+01:07:52,583 --> 01:07:54,666
+Elle est ma pupille et mineure.
+
+988
+01:07:54,750 --> 01:07:55,791
+Une meurtrière.
+
+989
+01:07:55,875 --> 01:07:58,208
+Si vous pensez avoir des preuves…
+
+990
+01:07:58,291 --> 01:07:59,625
+J'en ai beaucoup.
+
+991
+01:08:00,791 --> 01:08:04,375
+On l'a vue se disputer
+avec la victime, la suivre,
+
+992
+01:08:04,458 --> 01:08:08,000
+se battre avec elle
+et se tenir au-dessus de son cadavre.
+
+993
+01:08:08,083 --> 01:08:11,041
+Quand on l'a trouvée
+avec du sang sur les mains,
+
+994
+01:08:11,125 --> 01:08:12,541
+elle s'est enfuie.
+
+995
+01:08:15,458 --> 01:08:16,583
+J'y suis allé.
+
+996
+01:08:20,791 --> 01:08:24,416
+Des marques sur et autour de la porte
+qui a été forcée,
+
+997
+01:08:24,500 --> 01:08:25,791
+récemment.
+
+998
+01:08:25,875 --> 01:08:27,208
+Des signes de bagarre
+
+999
+01:08:27,291 --> 01:08:30,208
+et des marques de bottes de trois intrus.
+
+1000
+01:08:30,291 --> 01:08:31,833
+L'un d'eux était costaud,
+
+1001
+01:08:32,541 --> 01:08:35,416
+vu la hauteur et l'étendue des dégâts.
+
+1002
+01:08:36,416 --> 01:08:38,833
+Des traces de tissu et des taches de sang
+
+1003
+01:08:38,916 --> 01:08:42,750
+suggèrent qu'il y avait un autre occupant,
+probablement une femme,
+
+1004
+01:08:42,833 --> 01:08:44,500
+qui semble avoir riposté
+
+1005
+01:08:44,583 --> 01:08:48,000
+avec une arme tranchante improvisée…
+
+1006
+01:08:50,916 --> 01:08:52,916
+avant de s'échapper par la fenêtre.
+
+1007
+01:08:53,000 --> 01:08:57,291
+Une fouille ciblée
+où deux femmes ont été découvertes,
+
+1008
+01:08:57,375 --> 01:08:59,416
+après quoi ma sœur est arrivée.
+
+1009
+01:09:00,375 --> 01:09:03,041
+Étonnant que vous soyez arrivé si vite.
+
+1010
+01:09:03,625 --> 01:09:06,333
+Allez-vous la relâcher ou je m'en occupe ?
+
+1011
+01:09:09,333 --> 01:09:12,416
+- Sergent Beeston, s'il vous plaît.
+- Monsieur.
+
+1012
+01:09:13,791 --> 01:09:15,333
+La recherche d'empreintes.
+
+1013
+01:09:15,416 --> 01:09:17,291
+Nouvelle invention, suisse.
+
+1014
+01:09:17,375 --> 01:09:20,166
+- Vous en avez entendu parler ?
+- Oui.
+
+1015
+01:09:20,250 --> 01:09:22,041
+Voulez-vous regarder ?
+
+1016
+01:09:24,791 --> 01:09:27,500
+Ça rend notre travail plus efficace,
+
+1017
+01:09:28,083 --> 01:09:30,208
+surtout dans une affaire de meurtre.
+
+1018
+01:09:36,333 --> 01:09:38,291
+Ma sœur n'a pas touché l'arme.
+
+1019
+01:09:39,625 --> 01:09:41,375
+Ses empreintes s'y trouvent.
+
+1020
+01:09:47,250 --> 01:09:49,791
+Une époque formidable, n'est-ce pas ?
+
+1021
+01:10:13,041 --> 01:10:15,250
+Savez-vous l'heure qu'il est ?
+
+1022
+01:10:16,250 --> 01:10:19,750
+- Bonsoir, Edith.
+- J'ai failli vous casser les jambes.
+
+1023
+01:10:20,291 --> 01:10:22,083
+Puis j'ai reconnu vos épaules.
+
+1024
+01:10:22,625 --> 01:10:25,916
+- Vos épaules sont uniques.
+- Enola a été arrêtée.
+
+1025
+01:10:27,333 --> 01:10:28,458
+Pour quoi ?
+
+1026
+01:10:29,291 --> 01:10:30,208
+Pour meurtre.
+
+1027
+01:10:32,875 --> 01:10:34,916
+Elle a mis les pieds
+dans quelque chose
+
+1028
+01:10:35,416 --> 01:10:37,583
+de plus important que ce que j'imaginais.
+
+1029
+01:10:39,625 --> 01:10:41,750
+Et pour élucider cette affaire…
+
+1030
+01:10:43,250 --> 01:10:45,750
+La déduction ne suffira pas ?
+
+1031
+01:10:47,875 --> 01:10:50,000
+Je vais avoir besoin…
+
+1032
+01:10:53,541 --> 01:10:54,791
+de votre aide.
+
+1033
+01:10:56,541 --> 01:10:58,750
+Nous avons besoin de votre aide.
+
+1034
+01:10:58,833 --> 01:11:01,416
+Quinze minutes d'exercice.
+
+1035
+01:11:02,000 --> 01:11:04,000
+<i>Comme disait ma mère :</i>
+
+1036
+01:11:04,083 --> 01:11:07,000
+<i>"Ce qui savent</i>
+<i>demander de l'aide aux autres</i>
+
+1037
+01:11:07,083 --> 01:11:08,500
+<i>"sont très courageux."</i>
+
+1038
+01:11:09,333 --> 01:11:11,875
+Votre mère semble différente de la mienne.
+
+1039
+01:11:22,666 --> 01:11:24,125
+J'ai tenté de l'arrêter,
+
+1040
+01:11:24,208 --> 01:11:27,541
+mais elle est dotée d'une combativité…
+
+1041
+01:11:30,583 --> 01:11:32,166
+Voilà. Enfin !
+
+1042
+01:11:32,250 --> 01:11:34,625
+<i>On ne peut pas contrôler Enola Holmes.</i>
+
+1043
+01:11:34,708 --> 01:11:37,041
+C'est une force de la nature,
+
+1044
+01:11:37,791 --> 01:11:39,041
+elle crée ses règles.
+
+1045
+01:11:39,125 --> 01:11:40,541
+N'y allez pas trop fort.
+
+1046
+01:11:43,041 --> 01:11:43,958
+En effet<i>.</i>
+
+1047
+01:11:46,083 --> 01:11:47,833
+Je crains qu'elle ne soit pendue.
+
+1048
+01:12:19,458 --> 01:12:20,458
+Allez, ma fille !
+
+1049
+01:12:22,833 --> 01:12:23,708
+Monte.
+
+1050
+01:12:25,458 --> 01:12:26,625
+C'est moi !
+
+1051
+01:12:32,541 --> 01:12:33,750
+C'est bon de te voir.
+
+1052
+01:12:35,958 --> 01:12:37,041
+Accroche-toi.
+
+1053
+01:12:44,583 --> 01:12:46,000
+Ils nous suivent<i>.</i>
+
+1054
+01:12:48,041 --> 01:12:49,125
+Tenez-vous prêts !
+
+1055
+01:12:51,125 --> 01:12:53,208
+Alors, cette affaire, ça avance ?
+
+1056
+01:12:53,291 --> 01:12:56,083
+Je voulais aider une fille
+à retrouver sa sœur.
+
+1057
+01:12:56,166 --> 01:12:58,416
+- J'ai empiré les choses.
+- Balivernes.
+
+1058
+01:12:58,500 --> 01:13:01,208
+Tu as mis le feu aux poudres.
+Tu tiens quelque chose.
+
+1059
+01:13:03,000 --> 01:13:05,333
+- Attention !
+- Pourquoi te faire taire ?
+
+1060
+01:13:07,291 --> 01:13:09,375
+Rassure-toi, c'est inoffensif.
+
+1061
+01:13:12,250 --> 01:13:14,000
+- À gauche !
+- Ma gauche ou la tienne ?
+
+1062
+01:13:14,833 --> 01:13:15,916
+La tienne !
+
+1063
+01:13:33,083 --> 01:13:35,500
+Et cette fabrique d'allumettes ?
+
+1064
+01:13:35,583 --> 01:13:36,958
+Un franc succès.
+
+1065
+01:13:37,041 --> 01:13:39,166
+En deux ans, elle a doublé ses bénéfices.
+
+1066
+01:13:39,250 --> 01:13:41,416
+- Et il y a le typhus.
+- Le typhus ?
+
+1067
+01:13:41,500 --> 01:13:44,125
+Oui, les filles en meurent toutes.
+
+1068
+01:13:45,416 --> 01:13:46,416
+Voilà une piste.
+
+1069
+01:13:47,000 --> 01:13:48,125
+- Quoi ?
+- Les revoilà !
+
+1070
+01:13:50,708 --> 01:13:53,416
+Ils arrivent ! Accrochez-vous !
+
+1071
+01:14:01,458 --> 01:14:03,208
+On connaît ces fabriques.
+
+1072
+01:14:03,291 --> 01:14:04,750
+Allez !
+
+1073
+01:14:04,833 --> 01:14:06,958
+Les Sarah Chapman sont remplaçables.
+
+1074
+01:14:07,041 --> 01:14:09,750
+Elles disparaissent,
+meurent et on s'en fiche.
+
+1075
+01:14:09,833 --> 01:14:12,791
+Mais elle, elle a beaucoup d'importance.
+
+1076
+01:14:12,875 --> 01:14:14,291
+Que sait-elle ?
+
+1077
+01:14:15,083 --> 01:14:16,375
+Arrêtez-vous !
+
+1078
+01:14:16,458 --> 01:14:18,458
+Elle a volé des papiers.
+
+1079
+01:14:19,041 --> 01:14:22,708
+Que va-t-elle faire ? A-t-elle un plan ?
+Ce n'est pas une voleuse.
+
+1080
+01:14:22,791 --> 01:14:26,291
+Ni une maître-chanteuse.
+C'est une fauteuse de troubles.
+
+1081
+01:14:26,375 --> 01:14:28,250
+Elle sait quelque chose,
+
+1082
+01:14:28,333 --> 01:14:30,875
+et c'est infiniment plus dangereux.
+
+1083
+01:14:31,375 --> 01:14:32,375
+Allez, les gars !
+
+1084
+01:14:39,291 --> 01:14:41,791
+- Prêtes ? À droite !
+- Tu veux bien ?
+
+1085
+01:14:41,875 --> 01:14:43,500
+- Attendez.
+- Où ?
+
+1086
+01:14:43,583 --> 01:14:45,333
+- Attendez !
+- Tout droit !
+
+1087
+01:14:46,041 --> 01:14:47,000
+Maintenant !
+
+1088
+01:14:48,208 --> 01:14:50,250
+Débarrassez-vous-en !
+
+1089
+01:15:03,500 --> 01:15:08,500
+Quoi que cache Sarah, c'est un secret.
+
+1090
+01:15:11,000 --> 01:15:13,666
+Cherche ce qu'elle sait, Enola.
+
+1091
+01:15:16,208 --> 01:15:18,375
+Si tu le découvres, le reste suivra.
+
+1092
+01:15:20,666 --> 01:15:22,083
+Tu as le nez dessus.
+
+1093
+01:15:25,166 --> 01:15:26,208
+Baisse-toi !
+
+1094
+01:15:28,125 --> 01:15:29,041
+C'est grossier.
+
+1095
+01:15:32,041 --> 01:15:33,125
+Grail.
+
+1096
+01:15:39,000 --> 01:15:40,208
+Ça va, Edith ?
+
+1097
+01:15:40,291 --> 01:15:41,583
+À peu près !
+
+1098
+01:15:52,458 --> 01:15:53,875
+LONDRES 13 KM
+
+1099
+01:15:59,291 --> 01:16:00,833
+Sérieusement !
+
+1100
+01:16:18,916 --> 01:16:19,958
+Ce n'est pas bon.
+
+1101
+01:16:20,041 --> 01:16:21,583
+Passez par l'arrière !
+
+1102
+01:16:22,875 --> 01:16:24,583
+Ça va ?
+
+1103
+01:16:26,458 --> 01:16:27,791
+Oui, ça va.
+
+1104
+01:16:29,916 --> 01:16:30,750
+Monsieur.
+
+1105
+01:16:35,458 --> 01:16:36,791
+Gloria.
+
+1106
+01:16:37,666 --> 01:16:39,375
+La Sainte Trinité.
+
+1107
+01:16:41,916 --> 01:16:43,583
+Je vais passer préfet.
+
+1108
+01:16:44,916 --> 01:16:45,875
+Arrêtez-les.
+
+1109
+01:16:47,791 --> 01:16:48,916
+Vraiment ?
+
+1110
+01:16:49,000 --> 01:16:49,875
+Je le crains.
+
+1111
+01:17:31,750 --> 01:17:32,750
+Enola.
+
+1112
+01:17:37,083 --> 01:17:38,291
+Enola.
+
+1113
+01:17:38,875 --> 01:17:40,625
+Ceci n'est pas inoffensif.
+
+1114
+01:17:40,708 --> 01:17:41,916
+Courez !
+
+1115
+01:18:03,708 --> 01:18:05,791
+Mon pelvis devrait s'en remettre.
+
+1116
+01:18:06,291 --> 01:18:07,416
+Et toi, Edith ?
+
+1117
+01:18:07,500 --> 01:18:09,166
+- Tes reins ?
+- Ça va.
+
+1118
+01:18:09,750 --> 01:18:10,916
+Je me suis amusée.
+
+1119
+01:18:11,833 --> 01:18:14,541
+Tu t'amuses de tout. C'est très agaçant.
+
+1120
+01:18:14,625 --> 01:18:16,750
+Par ici. Hâtons-nous.
+
+1121
+01:18:16,833 --> 01:18:17,666
+D'accord.
+
+1122
+01:18:20,000 --> 01:18:23,958
+Alors, comment va ton garçon inutile ?
+
+1123
+01:18:25,541 --> 01:18:27,208
+Il fait du bon travail.
+
+1124
+01:18:29,125 --> 01:18:30,041
+Oui.
+
+1125
+01:18:31,583 --> 01:18:34,791
+Eh bien, il n'est peut-être pas
+si inutile que ça.
+
+1126
+01:18:35,833 --> 01:18:38,750
+Je ne dirais pas que c'est "mon garçon".
+
+1127
+01:18:42,166 --> 01:18:46,458
+Parfois, je pense que je t'ai appris
+à être trop indépendante.
+
+1128
+01:18:47,041 --> 01:18:49,208
+- Mère.
+- C'est vrai pour vous tous.
+
+1129
+01:18:49,791 --> 01:18:53,458
+Votre but doit être
+de trouver qui vous êtes.
+
+1130
+01:18:53,541 --> 01:18:56,333
+Toi, Sherlock, Mycroft.
+
+1131
+01:18:56,833 --> 01:19:03,166
+Vous êtes forts, redoutables, individuels,
+mais peut-être un peu solitaires.
+
+1132
+01:19:06,041 --> 01:19:08,375
+Tu t'en sortiras très bien toute seule.
+
+1133
+01:19:08,875 --> 01:19:13,250
+Mais avec les autres,
+tu pourrais être formidable.
+
+1134
+01:19:15,833 --> 01:19:18,791
+D'après toi, qui a organisé tout cela,
+après tout ?
+
+1135
+01:19:19,916 --> 01:19:20,791
+Moi ?
+
+1136
+01:19:23,250 --> 01:19:26,250
+Non, tu dois trouver tes alliés.
+
+1137
+01:19:26,333 --> 01:19:29,833
+Travaille avec eux,
+et tu sauras mieux qui tu es.
+
+1138
+01:19:31,000 --> 01:19:32,541
+Vous parlerez d'une voix,
+
+1139
+01:19:33,083 --> 01:19:36,208
+et tu feras plus de bruit
+que tu ne l'aurais imaginé.
+
+1140
+01:19:38,500 --> 01:19:42,041
+Allons. Elle doit partir.
+Nous brouillerons les pistes.
+
+1141
+01:19:43,250 --> 01:19:46,291
+Alors, époussète-toi…
+
+1142
+01:19:49,375 --> 01:19:50,791
+et regarde droit devant.
+
+1143
+01:19:52,416 --> 01:19:55,500
+Si tu es à nouveau condamnée
+pour meurtre, appelle-moi.
+
+1144
+01:19:56,666 --> 01:19:57,500
+Promis.
+
+1145
+01:20:02,125 --> 01:20:03,166
+Merci, Edith.
+
+1146
+01:20:08,416 --> 01:20:09,250
+Prudence.
+
+1147
+01:20:25,291 --> 01:20:26,666
+Et va chez le coiffeur.
+
+1148
+01:20:26,750 --> 01:20:27,958
+Tu as l'air négligé.
+
+1149
+01:20:30,458 --> 01:20:31,875
+Mes cheveux sont bien.
+
+1150
+01:20:45,083 --> 01:20:46,250
+Allons.
+
+1151
+01:20:51,125 --> 01:20:52,833
+Fais tes bagages.
+
+1152
+01:20:52,916 --> 01:20:55,083
+Je dois te mettre en sécurité.
+
+1153
+01:20:55,166 --> 01:20:57,833
+Ma sœur est partie ?
+
+1154
+01:20:58,416 --> 01:20:59,541
+- Comme Mae ?
+- Non.
+
+1155
+01:20:59,625 --> 01:21:00,750
+- Est-elle…
+- Non.
+
+1156
+01:21:00,833 --> 01:21:04,333
+Je suis sûre qu'elle va bien.
+Je vais bientôt la retrouver.
+
+1157
+01:21:06,333 --> 01:21:07,208
+Doris,
+
+1158
+01:21:08,583 --> 01:21:09,791
+elle m'hébergera.
+
+1159
+01:21:10,291 --> 01:21:12,000
+Elle a un lit de libre.
+
+1160
+01:21:13,875 --> 01:21:14,750
+Sa sœur ?
+
+1161
+01:21:16,208 --> 01:21:17,291
+Morte.
+
+1162
+01:21:17,375 --> 01:21:18,208
+Le typhus.
+
+1163
+01:21:23,333 --> 01:21:24,208
+Morte.
+
+1164
+01:21:36,291 --> 01:21:38,416
+Il y a quelque chose dans la terre.
+
+1165
+01:21:41,083 --> 01:21:42,958
+Rouge dans l'un et blanc dans l'autre.
+
+1166
+01:21:46,416 --> 01:21:50,166
+Les allumettes, quand sont-elles passées
+du rouge au blanc ?
+
+1167
+01:21:50,250 --> 01:21:52,625
+Je ne sais pas. Il y a environ deux ans.
+
+1168
+01:21:52,708 --> 01:21:55,666
+En deux ans,
+il a révolutionné l'allumette.
+
+1169
+01:21:55,750 --> 01:21:58,541
+Il a transformé l'allumette en or blanc.
+
+1170
+01:21:59,125 --> 01:22:00,916
+Le typhus, fléau de notre époque.
+
+1171
+01:22:01,000 --> 01:22:03,583
+Il tue ces filles depuis deux ans.
+
+1172
+01:22:04,875 --> 01:22:06,625
+LA SCIENCE POUR LES JEUNES
+
+1173
+01:22:23,541 --> 01:22:24,375
+Dehors.
+
+1174
+01:22:25,625 --> 01:22:26,958
+Tu regardes quoi ?
+
+1175
+01:23:00,875 --> 01:23:01,750
+J'ai besoin d'aide.
+
+1176
+01:23:04,416 --> 01:23:06,750
+Ne m'obligez pas à le répéter.
+Puis-je entrer ?
+
+1177
+01:23:08,208 --> 01:23:11,458
+Tout d'abord,
+j'ai des excuses à vous présenter.
+
+1178
+01:23:11,541 --> 01:23:14,083
+Je n'ai pas su reconnaître mes alliés.
+
+1179
+01:23:14,166 --> 01:23:15,375
+- Et j'ai…
+- Enola.
+
+1180
+01:23:16,208 --> 01:23:17,916
+J'ai quelque chose à dire.
+
+1181
+01:23:18,000 --> 01:23:19,250
+- D'accord.
+- Si vous…
+
+1182
+01:23:25,041 --> 01:23:29,041
+Tous les jours, toute la journée,
+je ne fais que des compromis.
+
+1183
+01:23:30,166 --> 01:23:33,416
+Si je vote en faveur
+du projet de loi d'un lord,
+
+1184
+01:23:33,500 --> 01:23:35,666
+il votera pour ma réforme.
+
+1185
+01:23:35,750 --> 01:23:39,083
+J'aimerais crier : "C'est mal !",
+mais je n'ai pas d'alliés.
+
+1186
+01:23:39,750 --> 01:23:42,500
+Si je faisais ça,
+je mettrais tout en péril,
+
+1187
+01:23:42,583 --> 01:23:45,666
+alors je reste éveillé
+à essayer de trouver le bon chemin,
+
+1188
+01:23:46,166 --> 01:23:47,000
+tout seul.
+
+1189
+01:23:48,833 --> 01:23:50,625
+Je ne cherche pas d'épouse,
+
+1190
+01:23:51,375 --> 01:23:54,708
+car la politique me consume constamment.
+
+1191
+01:23:57,625 --> 01:24:00,000
+Voilà le discours que je vous réservais.
+
+1192
+01:24:02,916 --> 01:24:04,291
+Vous êtes un homme bon.
+
+1193
+01:24:05,208 --> 01:24:06,500
+Je suis un homme ?
+
+1194
+01:24:06,583 --> 01:24:07,750
+Parfois.
+
+1195
+01:24:08,333 --> 01:24:11,458
+Mais je comprends votre peine,
+car je peine aussi.
+
+1196
+01:24:12,291 --> 01:24:14,541
+Je ne peux parler davantage, car j'ai…
+
+1197
+01:24:14,625 --> 01:24:16,208
+Une affaire à résoudre ?
+
+1198
+01:24:20,666 --> 01:24:23,041
+La fille que je cherche, Sarah Chapman,
+
+1199
+01:24:23,750 --> 01:24:27,916
+a la preuve que les filles meurent
+à cause du phosphore de la fabrique.
+
+1200
+01:24:28,000 --> 01:24:31,625
+La fabrique essaie
+de faire passer ça pour le typhus.
+
+1201
+01:24:32,541 --> 01:24:33,583
+Elle le sait,
+
+1202
+01:24:34,708 --> 01:24:36,833
+et quelqu'un va la tuer pour ça.
+
+1203
+01:24:36,916 --> 01:24:38,416
+Que pouvons-nous faire ?
+
+1204
+01:24:40,333 --> 01:24:41,208
+Nous ?
+
+1205
+01:24:47,333 --> 01:24:49,250
+N'ouvrez pas. Ça pourrait être la police.
+
+1206
+01:24:49,333 --> 01:24:51,666
+- Vous êtes recherchée ?
+- Je me suis évadée.
+
+1207
+01:24:51,750 --> 01:24:53,833
+- Évadée ?
+- Oubliez ça.
+
+1208
+01:24:55,416 --> 01:24:58,416
+La lumière est allumée,
+je dois ouvrir. Cachez-vous.
+
+1209
+01:24:59,416 --> 01:25:00,250
+J'arrive.
+
+1210
+01:25:02,750 --> 01:25:04,625
+- Mlle Cicely.
+- Navrée, il est tard.
+
+1211
+01:25:04,708 --> 01:25:08,083
+Non. Pas du tout.
+Je vous ai dit de venir. Je veux aider.
+
+1212
+01:25:08,166 --> 01:25:10,625
+- Il y a quelqu'un d'autre ?
+- Non.
+
+1213
+01:25:11,500 --> 01:25:15,291
+Mieux vaut qu'on soit seuls,
+car je dois vous parler.
+
+1214
+01:25:15,916 --> 01:25:18,541
+Je pense que vous êtes
+un homme de caractère
+
+1215
+01:25:18,625 --> 01:25:20,166
+et digne de confiance.
+
+1216
+01:25:20,250 --> 01:25:23,750
+J'ai des révélations
+qui pourraient s'avérer choquantes.
+
+1217
+01:25:23,833 --> 01:25:25,500
+Mlle Cicely, nous pourrions…
+
+1218
+01:25:25,583 --> 01:25:28,958
+Je voulais vous parler d'une relation.
+
+1219
+01:25:29,041 --> 01:25:32,416
+Oh, ça. Oui. Nous pourrions
+en parler une autre fois ?
+
+1220
+01:25:32,958 --> 01:25:35,083
+- Bien sûr.
+- Je suis navré.
+
+1221
+01:25:35,166 --> 01:25:37,708
+Je vous assure
+que je partage votre intérêt
+
+1222
+01:25:37,791 --> 01:25:39,291
+et nous nous reparlerons.
+
+1223
+01:25:39,375 --> 01:25:40,291
+Merci.
+
+1224
+01:25:43,291 --> 01:25:45,625
+Elle est partie. Elle était troublée.
+
+1225
+01:25:48,416 --> 01:25:51,125
+Ne doutez pas de moi.
+Elle a demandé mon aide.
+
+1226
+01:25:51,833 --> 01:25:53,291
+Elle m'a dit au bal
+
+1227
+01:25:53,375 --> 01:25:55,708
+qu'elle voulait réformer les fabriques.
+
+1228
+01:25:56,291 --> 01:25:58,833
+Elle a découvert de la corruption.
+
+1229
+01:25:59,416 --> 01:26:00,708
+Quoi ?
+
+1230
+01:26:05,250 --> 01:26:09,125
+Enola, si vous avez des inquiétudes,
+je vous l'affirme,
+
+1231
+01:26:09,208 --> 01:26:10,958
+je n'ai d'yeux pour personne…
+
+1232
+01:26:12,500 --> 01:26:14,666
+Je ne voulais pas dire ça comme ça.
+
+1233
+01:26:15,625 --> 01:26:18,500
+Mais en termes d'intérêts romantiques,
+
+1234
+01:26:19,000 --> 01:26:21,250
+oui, mon intérêt est…
+
+1235
+01:26:21,833 --> 01:26:24,500
+Je ne cherche pas,
+car je suis très occupé.
+
+1236
+01:26:24,583 --> 01:26:25,958
+<i>Vous admirez Lord Tewkesbury ?</i>
+
+1237
+01:26:26,041 --> 01:26:28,666
+C'est un homme bon et un réformateur.
+
+1238
+01:26:28,750 --> 01:26:31,125
+La femme qui m'intéresse le plus…
+
+1239
+01:26:31,208 --> 01:26:32,583
+Je dois saisir ma chance.
+
+1240
+01:26:33,916 --> 01:26:34,916
+Vous n'écoutez pas.
+
+1241
+01:26:35,000 --> 01:26:36,791
+Bonsoir, Lord Tewkesbury.
+
+1242
+01:26:36,875 --> 01:26:38,666
+Elle n'avait pas de chaperon.
+
+1243
+01:26:40,833 --> 01:26:43,041
+Dites-moi ce que vous faites là.
+
+1244
+01:26:44,000 --> 01:26:45,291
+<i>J'ai été aveugle !</i>
+
+1245
+01:26:45,375 --> 01:26:48,250
+Le phosphore mélangé à l'oxygène.
+
+1246
+01:26:49,166 --> 01:26:50,666
+J'ai tout raté.
+
+1247
+01:26:50,750 --> 01:26:52,208
+Tu as le nez dessus.
+
+1248
+01:26:55,541 --> 01:26:56,375
+Cicely.
+
+1249
+01:27:05,458 --> 01:27:07,208
+Sarah est Cicely.
+
+1250
+01:27:09,333 --> 01:27:11,250
+Cicely est Sarah !
+
+1251
+01:27:12,500 --> 01:27:13,666
+Enola…
+
+1252
+01:27:13,750 --> 01:27:15,083
+Qu'est-ce que…
+
+1253
+01:27:17,458 --> 01:27:19,541
+Avez-vous compris ce que j'ai dit ?
+
+1254
+01:27:20,041 --> 01:27:24,083
+Ou plutôt, ce que je n'ai pas dit ?
+Avez-vous compris ?
+
+1255
+01:27:24,166 --> 01:27:26,416
+Oui. Vous avez dit que vous…
+
+1256
+01:27:34,833 --> 01:27:35,833
+<i>Vous apprendrez.</i>
+
+1257
+01:27:37,041 --> 01:27:40,916
+Le message que vous m'avez envoyé
+avec l'éventail au bal,
+
+1258
+01:27:41,000 --> 01:27:42,416
+cela voulait dire quoi ?
+
+1259
+01:27:45,708 --> 01:27:47,083
+"Je vous aime."
+
+1260
+01:27:55,083 --> 01:27:58,250
+Mesdames et messieurs, à l'avenir.
+
+1261
+01:28:02,750 --> 01:28:03,750
+Bien sûr.
+
+1262
+01:28:05,500 --> 01:28:06,833
+Ils collaboraient
+
+1263
+01:28:06,916 --> 01:28:08,333
+et s'aimaient.
+
+1264
+01:28:09,958 --> 01:28:10,833
+Ils avaient un plan
+
+1265
+01:28:12,208 --> 01:28:16,625
+pour dénoncer la corruption
+dans cette fabrique et arrêter son père.
+
+1266
+01:28:17,375 --> 01:28:18,625
+Ils voulaient votre aide.
+
+1267
+01:28:18,708 --> 01:28:20,833
+William Lyon vous a invité à ce bal.
+
+1268
+01:28:20,916 --> 01:28:23,041
+C'est un radical comme vous.
+
+1269
+01:28:23,125 --> 01:28:25,250
+Ils avaient besoin de mon aide. Oui.
+
+1270
+01:28:25,875 --> 01:28:27,750
+Enola, nous devons rentrer.
+
+1271
+01:28:27,833 --> 01:28:30,166
+La police vous cherche
+et nous devons parler.
+
+1272
+01:28:30,250 --> 01:28:32,916
+Non. Je le sais bien, mon cher lord.
+
+1273
+01:28:33,000 --> 01:28:34,208
+Vous m'aimez.
+
+1274
+01:28:34,291 --> 01:28:36,541
+Et il s'avère que je vous aime aussi.
+
+1275
+01:28:37,583 --> 01:28:38,583
+Vous m'aimez ?
+
+1276
+01:28:41,000 --> 01:28:42,833
+Vous êtes vraiment un imbécile.
+
+1277
+01:28:45,000 --> 01:28:45,958
+Appelez un fiacre.
+
+1278
+01:28:58,125 --> 01:29:00,875
+- Vous marchez bruyamment.
+- C'est du gravier.
+
+1279
+01:29:00,958 --> 01:29:02,958
+- Vous avez de grands pieds.
+- Oui.
+
+1280
+01:29:09,375 --> 01:29:10,583
+Montez la garde ici.
+
+1281
+01:29:10,666 --> 01:29:12,916
+Si quelqu'un vient,
+dites que vous êtes un lord.
+
+1282
+01:29:13,666 --> 01:29:14,583
+C'est le cas.
+
+1283
+01:29:15,375 --> 01:29:16,916
+Ainsi, ils vous croiront.
+
+1284
+01:29:17,583 --> 01:29:18,416
+D'accord.
+
+1285
+01:30:09,833 --> 01:30:11,041
+- Toi.
+- Vous.
+
+1286
+01:30:13,458 --> 01:30:15,750
+- Vous êtes ridicule.
+- Moi ?
+
+1287
+01:30:15,833 --> 01:30:18,000
+Je t'ai dit de rester en sécurité.
+
+1288
+01:30:18,083 --> 01:30:21,041
+Tu t'évades de prison
+et tu as la police à tes trousses.
+
+1289
+01:30:21,791 --> 01:30:24,125
+Vous êtes blessé ? Pardon.
+
+1290
+01:30:24,208 --> 01:30:25,666
+Tu n'es pas blessée ?
+
+1291
+01:30:27,125 --> 01:30:28,291
+On dirait que non.
+
+1292
+01:30:30,458 --> 01:30:32,541
+Qui t'a appris à te battre ainsi ?
+
+1293
+01:30:33,333 --> 01:30:37,583
+- Encore un coup de notre mère.
+- Elle m'a moins bien nourrie que vous.
+
+1294
+01:30:38,583 --> 01:30:41,458
+Que faites-vous ici ?
+Mon affaire ou la vôtre ?
+
+1295
+01:30:42,000 --> 01:30:45,333
+Les deux. Je sais
+d'où viennent tes empreintes.
+
+1296
+01:30:45,416 --> 01:30:47,541
+De la poussière de phosphore oxydée
+
+1297
+01:30:48,333 --> 01:30:50,708
+venant de la table
+et appliquée sur le couteau.
+
+1298
+01:30:51,791 --> 01:30:52,625
+Tu es innocente.
+
+1299
+01:30:53,833 --> 01:30:55,041
+Vous en doutiez ?
+
+1300
+01:30:55,750 --> 01:30:57,541
+Rien n'est sûr avant d'être prouvé.
+
+1301
+01:30:59,458 --> 01:31:00,875
+Et votre affaire ?
+
+1302
+01:31:00,958 --> 01:31:01,916
+Mon adversaire.
+
+1303
+01:31:02,416 --> 01:31:04,958
+Sa piste mène ici.
+
+1304
+01:31:06,875 --> 01:31:08,833
+Nos affaires sont liées.
+
+1305
+01:31:11,083 --> 01:31:11,958
+Allons-y.
+
+1306
+01:31:44,416 --> 01:31:45,541
+William Lyon…
+
+1307
+01:31:46,875 --> 01:31:48,416
+l'amour de Sarah.
+
+1308
+01:31:48,500 --> 01:31:50,791
+Et mon voleur au fédora.
+
+1309
+01:31:57,458 --> 01:32:01,000
+Garde ton sang-froid.
+Nous ne pouvons plus rien pour lui.
+
+1310
+01:32:01,708 --> 01:32:04,375
+Gardons l'esprit alerte et l'œil vif.
+
+1311
+01:32:04,875 --> 01:32:06,250
+On l'a attrapé.
+
+1312
+01:32:07,583 --> 01:32:10,375
+- Et fouillé.
+- Pour le document qu'il a pris.
+
+1313
+01:32:11,833 --> 01:32:12,666
+Un couteau ?
+
+1314
+01:32:13,250 --> 01:32:14,250
+Non, plus gros.
+
+1315
+01:32:15,833 --> 01:32:16,791
+Un coutelas.
+
+1316
+01:32:18,916 --> 01:32:20,208
+Des éraflures de bottes
+
+1317
+01:32:20,708 --> 01:32:24,208
+et les marques d'une canne
+avec une virole en métal.
+
+1318
+01:32:26,083 --> 01:32:27,250
+Grail.
+
+1319
+01:32:28,291 --> 01:32:29,791
+Mais sur ordre de qui ?
+
+1320
+01:32:30,916 --> 01:32:32,666
+Il y avait quelqu'un d'autre.
+
+1321
+01:32:32,750 --> 01:32:34,291
+Ce cigare lui appartient.
+
+1322
+01:32:38,041 --> 01:32:39,708
+Et des traces de laine.
+
+1323
+01:32:42,083 --> 01:32:44,583
+De l'astrakan, la meilleure.
+
+1324
+01:32:44,666 --> 01:32:49,208
+Lord McIntyre,
+puis-je suggérer un déjeuner ?
+
+1325
+01:32:50,291 --> 01:32:53,750
+<i>Laissez-moi tranquille. Ils regardent.</i>
+
+1326
+01:32:56,583 --> 01:32:58,416
+Où William a-t-il commis son vol ?
+
+1327
+01:32:58,500 --> 01:33:00,500
+- Au bureau du Trésor ?
+- Oui.
+
+1328
+01:33:00,583 --> 01:33:03,333
+Au bureau de Lord McIntyre,
+ministre du Trésor.
+
+1329
+01:33:03,916 --> 01:33:05,166
+Comment l'as-tu deviné ?
+
+1330
+01:33:06,375 --> 01:33:08,500
+William a volé la preuve
+
+1331
+01:33:08,583 --> 01:33:11,500
+que Lyon et McIntyre
+conspiraient ensemble.
+
+1332
+01:33:12,583 --> 01:33:14,208
+- De la corruption.
+- Oui.
+
+1333
+01:33:14,291 --> 01:33:16,041
+Nourrie par la cupidité.
+
+1334
+01:33:16,625 --> 01:33:20,083
+McIntyre s'enrichit secrètement
+grâce à la fabrique.
+
+1335
+01:33:20,166 --> 01:33:23,125
+Ils sont passés
+à un phosphore moins onéreux
+
+1336
+01:33:24,458 --> 01:33:25,708
+qui tue.
+
+1337
+01:33:26,333 --> 01:33:27,208
+Enola ?
+
+1338
+01:33:27,291 --> 01:33:28,750
+Je m'inquiétais.
+
+1339
+01:33:28,833 --> 01:33:31,708
+Vous m'avez laissé dans le noir
+et j'ai failli…
+
+1340
+01:33:35,250 --> 01:33:37,083
+- Sherlock Holmes ? Ravi…
+- Plus tard.
+
+1341
+01:33:39,416 --> 01:33:40,291
+Sapristi !
+
+1342
+01:33:41,666 --> 01:33:43,333
+- Est-il…
+- Gardez votre sang-froid.
+
+1343
+01:33:44,833 --> 01:33:45,791
+Qui a fait ça ?
+
+1344
+01:33:46,291 --> 01:33:48,250
+- Lord McIntyre.
+- Non.
+
+1345
+01:33:48,875 --> 01:33:51,083
+- Pourtant…
+- Personne ne s'est assis.
+
+1346
+01:33:51,166 --> 01:33:53,375
+Pas de marques sur le tapis,
+pas d'empreintes.
+
+1347
+01:33:53,458 --> 01:33:56,291
+Le cigare a été fumé, mais il est froid.
+
+1348
+01:33:57,083 --> 01:33:57,958
+Et regarde.
+
+1349
+01:33:59,208 --> 01:34:00,333
+Pas de cendres.
+
+1350
+01:34:01,875 --> 01:34:04,541
+- Personne n'a bu ce verre.
+- Exactement.
+
+1351
+01:34:04,625 --> 01:34:07,125
+Ces indices ont été mis là pour nous,
+
+1352
+01:34:07,708 --> 01:34:10,083
+pour nous éloigner du vrai méchant.
+
+1353
+01:34:10,166 --> 01:34:11,708
+Ça a été mis en scène.
+
+1354
+01:34:13,208 --> 01:34:14,041
+Par qui ?
+
+1355
+01:34:14,708 --> 01:34:19,041
+Pas McIntyre, mais quelqu'un qui avait
+beaucoup à perdre sans ce document.
+
+1356
+01:34:19,125 --> 01:34:22,416
+Quelqu'un qui était au courant
+et les faisait chanter.
+
+1357
+01:34:23,333 --> 01:34:24,333
+Mon adversaire.
+
+1358
+01:34:27,208 --> 01:34:28,958
+Quelqu'un qui aime jouer.
+
+1359
+01:34:30,750 --> 01:34:34,083
+- Ont-ils eu ce qu'ils voulaient ?
+- Je ne crois pas.
+
+1360
+01:34:36,958 --> 01:34:37,916
+Pauvre William.
+
+1361
+01:34:55,416 --> 01:34:58,541
+- Ils ont eu quelque chose.
+- L'horrible musique de Mae.
+
+1362
+01:34:59,208 --> 01:35:00,833
+"La Vérité au Paradis."
+
+1363
+01:35:00,916 --> 01:35:02,750
+Une référence biblique, mythique.
+
+1364
+01:35:02,833 --> 01:35:03,833
+Théâtrale ?
+
+1365
+01:35:07,333 --> 01:35:10,750
+Le paradis est le dernier étage
+d'un théâtre.
+
+1366
+01:35:10,833 --> 01:35:11,708
+Le balcon.
+
+1367
+01:35:12,916 --> 01:35:14,208
+Vous l'ignoriez ?
+
+1368
+01:35:16,083 --> 01:35:17,791
+Ce n'est pas une partition.
+
+1369
+01:35:26,166 --> 01:35:27,000
+C'est un plan.
+
+1370
+01:35:36,958 --> 01:35:39,458
+Pour être clair sur ce qui nous attend…
+
+1371
+01:35:40,958 --> 01:35:43,958
+Peut-être de la violence.
+Vous en avez l'habitude.
+
+1372
+01:35:44,458 --> 01:35:45,333
+Oui.
+
+1373
+01:35:45,875 --> 01:35:47,666
+Je portais une armure.
+
+1374
+01:35:48,166 --> 01:35:50,875
+Mais oui, je peux me battre…
+
+1375
+01:35:52,458 --> 01:35:53,291
+Oui.
+
+1376
+01:35:53,375 --> 01:35:55,791
+- Vous vous êtes déjà battu ?
+- Souvent.
+
+1377
+01:35:55,875 --> 01:35:57,125
+À mon école.
+
+1378
+01:36:02,458 --> 01:36:04,541
+D'accord. Apprenez-moi à me battre.
+
+1379
+01:36:05,333 --> 01:36:07,833
+Quoi, maintenant ? Dans une calèche ?
+
+1380
+01:36:07,916 --> 01:36:10,916
+Je vous ai appris à danser
+dans des toilettes.
+
+1381
+01:36:12,000 --> 01:36:14,166
+Très bien. D'accord.
+
+1382
+01:36:18,083 --> 01:36:19,666
+Il y a deux secrets :
+
+1383
+01:36:19,750 --> 01:36:21,750
+éviter le coup et riposter.
+
+1384
+01:36:23,208 --> 01:36:24,916
+Comment deux secrets…
+
+1385
+01:36:26,041 --> 01:36:27,375
+Première leçon.
+
+1386
+01:36:30,458 --> 01:36:33,166
+Et la deuxième. Vous n'avez rien évité.
+
+1387
+01:36:33,250 --> 01:36:35,833
+- Je ne vais pas frapper une fille.
+- Voyons.
+
+1388
+01:36:35,916 --> 01:36:36,750
+Je ne suis…
+
+1389
+01:36:38,000 --> 01:36:39,125
+Arrêtez.
+
+1390
+01:36:39,750 --> 01:36:41,083
+Je ne peux pas.
+
+1391
+01:36:44,875 --> 01:36:45,958
+Nous arrivons.
+
+1392
+01:37:11,333 --> 01:37:13,166
+Il me faudra d'autres leçons.
+
+1393
+01:37:38,583 --> 01:37:40,583
+L'endroit est marqué d'une croix.
+
+1394
+01:37:59,791 --> 01:38:00,708
+Sarah.
+
+1395
+01:38:03,500 --> 01:38:04,500
+Tout est là.
+
+1396
+01:38:06,250 --> 01:38:07,750
+Les preuves nécessaires.
+
+1397
+01:38:09,458 --> 01:38:12,666
+Le contrat entre Lyon et McIntyre
+
+1398
+01:38:13,625 --> 01:38:15,166
+pour changer le phosphore.
+
+1399
+01:38:17,458 --> 01:38:19,083
+William l'a volé pour vous.
+
+1400
+01:38:24,166 --> 01:38:27,541
+Et les pages du registre de la fabrique.
+
+1401
+01:38:28,125 --> 01:38:29,875
+Volées dans le bureau.
+
+1402
+01:38:31,083 --> 01:38:33,208
+Les noms des filles tuées.
+
+1403
+01:38:33,291 --> 01:38:35,208
+Je refusais qu'on les oublie.
+
+1404
+01:38:37,041 --> 01:38:41,333
+La preuve que les allumettières
+meurent dans cette fabrique
+
+1405
+01:38:41,416 --> 01:38:42,791
+et qu'ils le savent.
+
+1406
+01:38:44,958 --> 01:38:47,291
+Vous êtes une bonne détective,
+Enola Holmes.
+
+1407
+01:38:49,625 --> 01:38:51,250
+Vous aussi, Sarah Chapman.
+
+1408
+01:38:55,416 --> 01:38:57,750
+Je révélerai cela au monde entier.
+
+1409
+01:39:00,000 --> 01:39:01,125
+Merci.
+
+1410
+01:39:02,208 --> 01:39:05,625
+Allons chercher William.
+Il a six heures de retard.
+
+1411
+01:39:07,458 --> 01:39:10,208
+J'ai bien peur que William ne vienne pas.
+
+1412
+01:39:15,833 --> 01:39:16,666
+Pardon ?
+
+1413
+01:39:20,250 --> 01:39:21,500
+Je suis navré.
+
+1414
+01:39:22,750 --> 01:39:24,125
+Je suis désolée.
+
+1415
+01:39:29,958 --> 01:39:31,833
+Je lui ai dit que ça suffisait,
+
+1416
+01:39:33,208 --> 01:39:34,875
+qu'il fallait tout révéler.
+
+1417
+01:39:37,625 --> 01:39:41,875
+Il pensait que personne ne s'en soucierait
+sans le soutien d'un puissant.
+
+1418
+01:39:44,458 --> 01:39:46,583
+Il essayait juste de me protéger,
+
+1419
+01:39:48,916 --> 01:39:50,041
+et je l'ai perdu.
+
+1420
+01:39:50,791 --> 01:39:53,000
+Agissons vite,
+ou nous vous perdrons aussi.
+
+1421
+01:39:54,083 --> 01:39:55,875
+Perdre ceci…
+
+1422
+01:39:58,458 --> 01:39:59,791
+perdre cela.
+
+1423
+01:40:03,375 --> 01:40:05,416
+- Vous avez tout perdu.
+- Bessie.
+
+1424
+01:40:06,125 --> 01:40:08,083
+Vous avez tous été négligents.
+
+1425
+01:40:14,041 --> 01:40:15,041
+Je prends ça.
+
+1426
+01:40:15,125 --> 01:40:16,333
+Lâchez-la.
+
+1427
+01:40:18,916 --> 01:40:20,791
+Donnez-moi d'abord les papiers.
+
+1428
+01:40:35,875 --> 01:40:37,208
+Fuis, Bessie !
+
+1429
+01:40:43,250 --> 01:40:44,500
+Ne restez pas plantés là !
+
+1430
+01:40:53,875 --> 01:40:55,208
+Poursuivez-le !
+
+1431
+01:41:20,166 --> 01:41:21,958
+Éviter le coup et riposter.
+
+1432
+01:41:44,916 --> 01:41:45,833
+Tewkesbury !
+
+1433
+01:42:55,000 --> 01:42:55,958
+Non !
+
+1434
+01:43:05,750 --> 01:43:07,125
+Bessie !
+
+1435
+01:43:09,125 --> 01:43:10,000
+Fuyez.
+
+1436
+01:43:11,291 --> 01:43:12,541
+J'ai dit : "Fuyez !"
+
+1437
+01:43:57,041 --> 01:43:58,041
+Enola !
+
+1438
+01:44:05,875 --> 01:44:07,250
+<i>Vous avez de la ressource.</i>
+
+1439
+01:45:17,250 --> 01:45:19,583
+On se retrouve dans de ces endroits.
+
+1440
+01:45:24,583 --> 01:45:26,291
+C'est vrai.
+
+1441
+01:45:30,458 --> 01:45:32,833
+J'ai toujours aimé le théâtre.
+
+1442
+01:45:36,958 --> 01:45:37,791
+Compris ?
+
+1443
+01:45:37,875 --> 01:45:40,708
+Je rêvais que je finirais sur scène.
+
+1444
+01:45:43,875 --> 01:45:45,083
+Vous me reverrez,
+
+1445
+01:45:45,166 --> 01:45:47,250
+vicomte Tewkesbury,
+marquis de Basilwether.
+
+1446
+01:45:57,583 --> 01:45:58,416
+Enola !
+
+1447
+01:46:06,208 --> 01:46:07,541
+Hourra !
+
+1448
+01:46:18,833 --> 01:46:19,708
+Ça va ?
+
+1449
+01:46:26,500 --> 01:46:28,166
+Vous savez mener un combat.
+
+1450
+01:46:39,416 --> 01:46:40,958
+Félicitations.
+
+1451
+01:46:43,083 --> 01:46:45,416
+Lord McIntyre. Que faites-vous ici ?
+
+1452
+01:46:46,500 --> 01:46:47,916
+J'ai été convoqué.
+
+1453
+01:46:48,625 --> 01:46:52,416
+Votre frère savait que je voudrais voir
+les coupables arrêtés.
+
+1454
+01:46:52,500 --> 01:46:57,291
+Je ne sais comment vous remercier
+d'avoir retrouvé les biens du gouvernement
+
+1455
+01:46:57,375 --> 01:46:59,666
+et d'avoir démasqué cet assassin.
+
+1456
+01:46:59,750 --> 01:47:03,666
+Une pourriture dans nos rangs.
+
+1457
+01:47:06,166 --> 01:47:09,458
+Le monde connaîtra le nom d'Enola Holmes,
+
+1458
+01:47:09,541 --> 01:47:10,791
+je m'en assurerai.
+
+1459
+01:47:12,000 --> 01:47:14,541
+Lestrade, arrêtez cette fille.
+
+1460
+01:47:16,500 --> 01:47:17,833
+Elle n'a rien fait de mal.
+
+1461
+01:47:17,916 --> 01:47:19,833
+Sur quelle accusation ?
+
+1462
+01:47:19,916 --> 01:47:21,125
+Vol.
+
+1463
+01:47:21,208 --> 01:47:23,458
+Elle ne vous a volé que la vérité.
+
+1464
+01:47:23,541 --> 01:47:25,708
+Elle a dérobé
+des informations personnelles
+
+1465
+01:47:26,541 --> 01:47:30,625
+qu'elle a utilisées
+à des fins d'extorsion et de chantage.
+
+1466
+01:47:30,708 --> 01:47:33,416
+Ce pourquoi elle purgera sa peine.
+
+1467
+01:47:36,833 --> 01:47:38,166
+Vous vous trompez.
+
+1468
+01:47:39,166 --> 01:47:42,458
+Elle n'était pas votre maître-chanteur.
+
+1469
+01:47:42,541 --> 01:47:45,541
+Je vous ai convoqué ici
+pour attirer cette personne.
+
+1470
+01:47:46,041 --> 01:47:48,375
+Une comptabilité magistrale.
+
+1471
+01:47:48,458 --> 01:47:52,791
+Un enchevêtrement de racines,
+mais toutes dirigées vers une poche.
+
+1472
+01:47:53,500 --> 01:47:57,416
+Une personne recevant les fruits
+de ses manigances
+
+1473
+01:47:57,500 --> 01:47:58,750
+en toute discrétion.
+
+1474
+01:48:00,291 --> 01:48:03,500
+Elle entendait tout, voyait tout.
+
+1475
+01:48:04,791 --> 01:48:06,916
+Ignorée pendant des années.
+
+1476
+01:48:07,000 --> 01:48:08,333
+Se jouant de tous.
+
+1477
+01:48:09,708 --> 01:48:10,875
+Ce n'est qu'un jeu.
+
+1478
+01:48:12,708 --> 01:48:15,750
+Et c'est amusant,
+lorsqu'on connaît les règles.
+
+1479
+01:48:21,416 --> 01:48:22,416
+Madame Mira Troy.
+
+1480
+01:48:23,458 --> 01:48:24,583
+Absurde.
+
+1481
+01:48:25,416 --> 01:48:27,083
+Je n'y crois pas.
+
+1482
+01:48:28,416 --> 01:48:32,125
+C'est incroyable tout ce qu'on peut faire
+
+1483
+01:48:32,208 --> 01:48:35,875
+lorsque les gens vous sous-estiment.
+
+1484
+01:48:37,166 --> 01:48:38,625
+Puis il y a eu un problème.
+
+1485
+01:48:39,375 --> 01:48:41,208
+William a volé le contrat.
+
+1486
+01:48:41,291 --> 01:48:43,083
+Et vous a coupé les vivres.
+
+1487
+01:48:43,166 --> 01:48:44,541
+C'était inacceptable.
+
+1488
+01:48:45,208 --> 01:48:47,916
+Vous avez engagé Grail
+pour retrouver le document,
+
+1489
+01:48:48,583 --> 01:48:50,833
+mais vous avez perdu le contrôle
+
+1490
+01:48:50,916 --> 01:48:53,583
+et vous avez tenté
+d'incriminer Lord McIntyre.
+
+1491
+01:48:54,208 --> 01:48:56,083
+Rare faux pas dans votre jeu…
+
+1492
+01:48:58,000 --> 01:48:59,166
+Moriarty.
+
+1493
+01:48:59,250 --> 01:49:02,958
+COMPTE D'ORIGINE
+
+1494
+01:49:06,291 --> 01:49:10,833
+Dommage que notre divertissement
+doive s'arrêter, monsieur Holmes.
+
+1495
+01:49:12,041 --> 01:49:16,208
+Je m'amusais beaucoup.
+
+1496
+01:49:17,666 --> 01:49:19,958
+Et vous, Enola.
+
+1497
+01:49:21,500 --> 01:49:24,375
+Madame Troy, vous êtes derrière tout ça ?
+
+1498
+01:49:25,791 --> 01:49:29,333
+Bien sûr, c'est difficile
+de trouver du personnel.
+
+1499
+01:49:30,000 --> 01:49:32,541
+Je voulais juste récupérer le contrat.
+
+1500
+01:49:32,625 --> 01:49:35,333
+Je ne pouvais pas
+interroger William moi-même,
+
+1501
+01:49:35,416 --> 01:49:37,333
+mais vous avez été très obligeante.
+
+1502
+01:49:39,083 --> 01:49:41,708
+Et si vous souhaitez parler à William,
+
+1503
+01:49:41,791 --> 01:49:43,666
+essayez avec ça.
+
+1504
+01:49:46,791 --> 01:49:51,000
+Dommage qu'il ait été plus malin
+et plus courageux que je ne le pensais.
+
+1505
+01:49:51,083 --> 01:49:52,000
+Tous les deux.
+
+1506
+01:49:53,083 --> 01:49:55,666
+Leurs morts étaient inutiles.
+
+1507
+01:49:56,208 --> 01:50:02,958
+Mais le commissaire Grail
+était un peu grossier.
+
+1508
+01:50:03,541 --> 01:50:04,875
+Vous !
+
+1509
+01:50:04,958 --> 01:50:07,875
+Comment avez-vous osé
+profiter de votre position ?
+
+1510
+01:50:10,708 --> 01:50:13,166
+J'ai profité ?
+
+1511
+01:50:14,750 --> 01:50:18,166
+Quels étaient mes avantages ?
+
+1512
+01:50:18,875 --> 01:50:20,500
+Traitée comme une servante
+
+1513
+01:50:20,583 --> 01:50:23,208
+alors que je suis
+plus intelligente que vous.
+
+1514
+01:50:24,916 --> 01:50:26,375
+Que vous tous.
+
+1515
+01:50:28,708 --> 01:50:32,583
+Pourquoi n'aurais-je pas eu
+une part de vos richesses mal acquises
+
+1516
+01:50:32,666 --> 01:50:35,208
+tout en vous punissant ?
+
+1517
+01:50:36,208 --> 01:50:39,708
+Pourquoi n'aurais-je pas été récompensée
+pour mes qualités ?
+
+1518
+01:50:40,666 --> 01:50:46,041
+Où est ma place dans cette société ?
+
+1519
+01:50:46,708 --> 01:50:48,500
+Je suis une femme.
+
+1520
+01:50:49,000 --> 01:50:51,333
+Je ne peux pas faire partie d'un club,
+
+1521
+01:50:51,416 --> 01:50:55,583
+posséder des actions
+ni être promue comme eux.
+
+1522
+01:50:56,791 --> 01:50:57,666
+Alors…
+
+1523
+01:51:00,333 --> 01:51:03,000
+j'ai trouvé ma propre voie…
+
+1524
+01:51:06,250 --> 01:51:10,125
+et c'était amusant.
+
+1525
+01:51:14,500 --> 01:51:19,666
+Lestrade, emmenez-la.
+
+1526
+01:51:19,750 --> 01:51:20,666
+Oui, monsieur.
+
+1527
+01:51:23,041 --> 01:51:24,041
+Pour quel motif ?
+
+1528
+01:51:24,958 --> 01:51:26,833
+- Extorsion.
+- Oui.
+
+1529
+01:51:26,916 --> 01:51:28,041
+Chantage, meurtre.
+
+1530
+01:51:28,750 --> 01:51:29,583
+Allez-y.
+
+1531
+01:51:30,083 --> 01:51:33,750
+Dommage que notre petite danse
+doive s'arrêter.
+
+1532
+01:51:34,958 --> 01:51:36,666
+Pour l'instant, du moins.
+
+1533
+01:51:36,750 --> 01:51:38,750
+Nous nous retrouverons peut-être.
+
+1534
+01:51:47,083 --> 01:51:48,083
+Non !
+
+1535
+01:51:52,041 --> 01:51:54,250
+Voilà. C'est terminé.
+
+1536
+01:51:56,083 --> 01:51:59,166
+J'ai accidentellement brûlé ma propriété.
+Et alors ?
+
+1537
+01:52:00,458 --> 01:52:03,083
+Vous êtes corrompu, monsieur.
+
+1538
+01:52:03,166 --> 01:52:06,250
+Et complice de la mort
+de centaines d'ouvrières.
+
+1539
+01:52:07,166 --> 01:52:08,500
+Où est votre preuve ?
+
+1540
+01:52:10,250 --> 01:52:11,291
+Bien.
+
+1541
+01:52:11,375 --> 01:52:14,958
+Alors, remettons-nous au travail.
+
+1542
+01:52:16,291 --> 01:52:18,166
+- Vous ne pouvez…
+- Tewkesbury.
+
+1543
+01:52:20,875 --> 01:52:21,708
+Patience.
+
+1544
+01:52:28,833 --> 01:52:29,833
+Gloria.
+
+1545
+01:52:41,875 --> 01:52:44,666
+Tous ces noms, ces vies.
+
+1546
+01:52:45,708 --> 01:52:48,708
+- Je n'ai pas été à la hauteur.
+- Ne dites pas ça.
+
+1547
+01:52:50,500 --> 01:52:51,625
+Mae n'est plus là…
+
+1548
+01:52:54,333 --> 01:52:55,416
+William non plus.
+
+1549
+01:52:56,791 --> 01:52:58,416
+Et ils vont s'en tirer.
+
+1550
+01:52:59,666 --> 01:53:02,166
+Vous l'avez entendu. "Où est la preuve ?"
+
+1551
+01:53:03,166 --> 01:53:04,416
+Que nous reste-t-il ?
+
+1552
+01:53:09,166 --> 01:53:10,333
+On est ensemble…
+
+1553
+01:53:13,541 --> 01:53:15,208
+et on connaît la vérité.
+
+1554
+01:53:27,041 --> 01:53:29,875
+En retard, Bess Chapman.
+Je te retiens un penny.
+
+1555
+01:53:32,625 --> 01:53:33,541
+Hé !
+
+1556
+01:53:35,000 --> 01:53:36,833
+Tu n'es plus la bienvenue ici.
+
+1557
+01:53:38,208 --> 01:53:40,125
+Tu fais quoi ? Hé !
+
+1558
+01:53:40,708 --> 01:53:41,625
+Descends.
+
+1559
+01:53:44,041 --> 01:53:45,750
+Laissez-la parler.
+
+1560
+01:53:49,708 --> 01:53:51,208
+Il y a quelques semaines,
+
+1561
+01:53:52,708 --> 01:53:57,916
+Mae Izley, William Lyon et moi
+avons entrepris de prouver quelque chose.
+
+1562
+01:53:59,083 --> 01:54:01,416
+Que cette usine tuait des gens,
+
+1563
+01:54:02,750 --> 01:54:04,041
+sciemment.
+
+1564
+01:54:04,125 --> 01:54:07,458
+Mais ils ont décidé
+que le profit comptait plus que nous.
+
+1565
+01:54:08,916 --> 01:54:10,250
+Viens avec moi.
+
+1566
+01:54:11,250 --> 01:54:14,916
+Ce n'est pas le typhus qui nous tue,
+c'est le phosphore
+
+1567
+01:54:15,000 --> 01:54:16,750
+qu'on manipule au quotidien.
+
+1568
+01:54:17,625 --> 01:54:19,750
+Sale petite menteuse.
+
+1569
+01:54:19,833 --> 01:54:21,666
+Un penny de moins sur ta paye !
+
+1570
+01:54:23,708 --> 01:54:25,166
+Elles étaient nos amies…
+
+1571
+01:54:27,416 --> 01:54:28,541
+nos sœurs…
+
+1572
+01:54:33,750 --> 01:54:35,083
+et nos enfants.
+
+1573
+01:54:36,833 --> 01:54:39,375
+Ça s'arrête maintenant.
+
+1574
+01:54:41,458 --> 01:54:44,625
+Il est temps d'utiliser
+la seule chose qu'on a : nous-mêmes.
+
+1575
+01:54:45,458 --> 01:54:49,333
+Il est temps pour nous
+de refuser de travailler.
+
+1576
+01:54:49,416 --> 01:54:51,000
+De leur dire non.
+
+1577
+01:54:51,750 --> 01:54:53,625
+- Retournez au travail.
+- Non !
+
+1578
+01:54:55,125 --> 01:54:57,625
+Si vous partez, vous ne reviendrez pas.
+
+1579
+01:54:59,125 --> 01:55:01,458
+Vous ne travaillerez plus ici.
+
+1580
+01:55:02,875 --> 01:55:05,958
+Alors, voulez-vous vous joindre à moi ?
+
+1581
+01:55:09,541 --> 01:55:11,041
+Pensez à vos familles.
+
+1582
+01:55:11,833 --> 01:55:13,125
+Refusez, les filles.
+
+1583
+01:55:13,208 --> 01:55:15,750
+Ça n'en vaut pas la peine.
+
+1584
+01:55:16,375 --> 01:55:17,208
+Eh bien…
+
+1585
+01:55:18,916 --> 01:55:19,791
+alors ?
+
+1586
+01:55:19,875 --> 01:55:22,333
+Le monde fonctionne ainsi.
+
+1587
+01:55:23,791 --> 01:55:25,041
+Je vous en prie.
+
+1588
+01:55:26,333 --> 01:55:28,541
+Vous avez peur, et moi aussi,
+
+1589
+01:55:28,625 --> 01:55:30,541
+mais c'est notre seul pouvoir.
+
+1590
+01:55:37,791 --> 01:55:38,625
+Bon…
+
+1591
+01:55:40,416 --> 01:55:42,916
+rallumez la machine et au travail.
+
+1592
+01:55:49,833 --> 01:55:50,666
+D'accord.
+
+1593
+01:55:54,250 --> 01:55:55,125
+Non.
+
+1594
+01:55:56,416 --> 01:55:58,333
+Ça ne peut pas être leur avenir.
+
+1595
+01:55:59,166 --> 01:56:00,208
+Désolée, Enola.
+
+1596
+01:56:09,416 --> 01:56:10,291
+Arrêtez ça.
+
+1597
+01:56:20,250 --> 01:56:21,125
+Arrêtez.
+
+1598
+01:56:25,916 --> 01:56:27,208
+Parlez d'une voix.
+
+1599
+01:56:32,250 --> 01:56:33,375
+Ça suffit !
+
+1600
+01:56:45,916 --> 01:56:46,916
+Arrêtez ça !
+
+1601
+01:56:57,416 --> 01:56:59,791
+Ces fichues femmes sont incontrôlables !
+
+1602
+01:57:06,083 --> 01:57:07,083
+Allons-y.
+
+1603
+01:57:44,916 --> 01:57:46,041
+Où allez-vous ?
+
+1604
+01:57:46,125 --> 01:57:47,291
+À Westminster !
+
+1605
+01:57:50,083 --> 01:57:51,166
+Les voilà parties.
+
+1606
+01:57:52,041 --> 01:57:53,750
+Elles font beaucoup de bruit.
+
+1607
+01:57:54,833 --> 01:57:56,833
+Elle aime causer des ennuis, non ?
+
+1608
+01:57:57,500 --> 01:58:00,041
+Comme si elle avait été façonnée ainsi.
+
+1609
+01:58:03,333 --> 01:58:05,458
+Elle devrait aller chez le coiffeur.
+
+1610
+01:58:08,291 --> 01:58:11,541
+CRÉÉ EN 1885
+AGENCE DE DÉTECTIVE ENOLA HOLMES
+
+1611
+01:58:15,083 --> 01:58:17,458
+Ton garçon a appris à se battre.
+
+1612
+01:58:18,791 --> 01:58:20,333
+LORD MCINTYRE ARRÊTÉ
+
+1613
+01:58:20,416 --> 01:58:21,333
+Lord McIntyre.
+
+1614
+01:58:25,333 --> 01:58:26,166
+En effet.
+
+1615
+01:58:27,291 --> 01:58:28,416
+Il n'est pas à moi.
+
+1616
+01:58:35,041 --> 01:58:36,666
+"Payez comme vous pouvez."
+
+1617
+01:58:37,291 --> 01:58:39,916
+Avec des pommes de terre
+et de la gratitude ?
+
+1618
+01:58:40,000 --> 01:58:41,458
+S'ils n'ont que ça, oui.
+
+1619
+01:58:41,541 --> 01:58:44,541
+Occupez-vous du grand monde.
+Ma place est ici.
+
+1620
+01:58:45,125 --> 01:58:47,125
+Edith m'a promis un loyer décent.
+
+1621
+01:58:48,666 --> 01:58:54,291
+Tu sais, sache que si tu veux
+un cadre plus raffiné, je pourrais…
+
+1622
+01:58:56,416 --> 01:58:57,333
+Je pensais…
+
+1623
+01:59:00,208 --> 01:59:01,416
+Holmes et Holmes ?
+
+1624
+01:59:04,208 --> 01:59:05,083
+Des associés ?
+
+1625
+01:59:09,041 --> 01:59:11,041
+C'est une très gentille offre.
+
+1626
+01:59:12,333 --> 01:59:15,458
+Mais si j'acceptais,
+vous me feriez de l'ombre.
+
+1627
+01:59:16,958 --> 01:59:17,791
+Oui.
+
+1628
+01:59:21,750 --> 01:59:24,083
+J'aime cette nouvelle version de vous.
+
+1629
+01:59:24,791 --> 01:59:26,708
+Personne ne devrait rester seul.
+
+1630
+01:59:28,041 --> 01:59:29,375
+Il vous faut un ami.
+
+1631
+01:59:31,833 --> 01:59:33,208
+Je devrais le noter.
+
+1632
+01:59:37,416 --> 01:59:39,458
+Je passerai te rendre visite.
+
+1633
+01:59:40,041 --> 01:59:41,125
+Avec plaisir.
+
+1634
+01:59:41,833 --> 01:59:45,208
+Et tu pourrais venir à Baker Street
+de temps à autre…
+
+1635
+01:59:47,125 --> 01:59:48,208
+pour me rendre visite.
+
+1636
+01:59:52,333 --> 01:59:56,083
+Nous pouvons fixer un rendez-vous
+jeudi à 16 heures.
+
+1637
+01:59:56,916 --> 01:59:58,291
+Jeudi à 16 heures.
+
+1638
+02:00:00,666 --> 02:00:03,500
+Je ne serai pas le dernier
+à t'interrompre.
+
+1639
+02:00:05,625 --> 02:00:06,958
+Il apporte des fleurs.
+
+1640
+02:00:09,500 --> 02:00:11,666
+- Sherlock.
+- Tewkesbury.
+
+1641
+02:00:11,750 --> 02:00:14,041
+- À jeudi.
+- Au revoir, Sherlock.
+
+1642
+02:00:23,208 --> 02:00:24,083
+Sherlock ?
+
+1643
+02:00:24,166 --> 02:00:25,500
+- Oui.
+- Votre journal.
+
+1644
+02:00:26,250 --> 02:00:27,125
+Merci.
+
+1645
+02:00:27,666 --> 02:00:28,500
+Et…
+
+1646
+02:00:30,000 --> 02:00:32,666
+merci pour tout.
+
+1647
+02:00:42,208 --> 02:00:48,291
+LA CRIMINELLE S'ÉVADE
+MIRA TROY - ALIAS MORIARTY - EN CAVALE
+
+1648
+02:00:51,708 --> 02:00:54,708
+Vous ai-je donné l'impression
+d'aimer les fleurs ?
+
+1649
+02:00:54,791 --> 02:00:57,875
+Ce sont des campanules étalées.
+Sauvages, bien sûr.
+
+1650
+02:00:57,958 --> 02:01:01,458
+Elles aiment les forêts anciennes,
+sont tendues, trompeuses,
+
+1651
+02:01:01,541 --> 02:01:03,500
+elles ne suivent aucune règle,
+
+1652
+02:01:03,583 --> 02:01:07,958
+mais leurs pétales sont très délicats,
+et leurs fleurs…
+
+1653
+02:01:08,041 --> 02:01:08,916
+Deux choses.
+
+1654
+02:01:09,000 --> 02:01:12,041
+Votre métaphore est torturée,
+et je n'ai rien de délicat.
+
+1655
+02:01:12,125 --> 02:01:13,291
+Et…
+
+1656
+02:01:14,791 --> 02:01:18,500
+une invitation à un bal donné par Lady…
+
+1657
+02:01:18,583 --> 02:01:22,500
+Je n'irai à aucun bal.
+La dernière fois, je me suis fait arrêter.
+
+1658
+02:01:23,708 --> 02:01:26,833
+Raison de plus pour danser
+de nouveau, n'est-ce pas ?
+
+1659
+02:01:26,916 --> 02:01:30,000
+- Vous êtes un imbécile.
+- Et vous êtes lâche.
+
+1660
+02:01:30,083 --> 02:01:33,041
+Comment osez-vous parler ainsi
+à une dame ? C'est une honte.
+
+1661
+02:01:33,125 --> 02:01:35,166
+Pourtant, vous tenez toujours mon bras.
+
+1662
+02:01:36,000 --> 02:01:37,791
+Je tiens toujours votre bras.
+
+1663
+02:01:39,916 --> 02:01:42,916
+LA GRÈVE DES ALLUMETTIÈRES,
+MENÉE PAR SARAH CHAPMAN,
+
+1664
+02:01:43,000 --> 02:01:45,500
+A ÉTÉ LA PREMIÈRE
+MENÉE PAR DES FEMMES.
+
+1665
+02:01:45,583 --> 02:01:48,791
+CELA A GRANDEMENT AMÉLIORÉ
+LEURS CONDITIONS DE TRAVAIL.
+
+1666
+02:01:48,875 --> 02:01:51,375
+IL SUFFIT D'UNE FLAMME POUR METTRE LE FEU.
+
+1667
+02:02:02,291 --> 02:02:04,666
+JEUDI 15H59
+
+1668
+02:02:04,750 --> 02:02:06,708
+JEUDI 16 H
+
+1669
+02:02:18,250 --> 02:02:19,250
+Sherlock Holmes ?
+
+1670
+02:02:20,125 --> 02:02:21,291
+Oui.
+
+1671
+02:02:22,166 --> 02:02:23,541
+Nous avons rendez-vous.
+
+1672
+02:02:25,583 --> 02:02:27,041
+Pour la colocation.
+
+1673
+02:02:27,958 --> 02:02:29,916
+- Vous faites erreur.
+- Vraiment ?
+
+1674
+02:02:32,916 --> 02:02:36,291
+La jeune femme a été claire
+concernant le lieu et l'heure.
+
+1675
+02:02:37,166 --> 02:02:40,625
+"Jeudi à 16 h", a-t-elle dit.
+Vous êtes Sherlock Holmes ?
+
+1676
+02:02:42,708 --> 02:02:43,541
+Oui.
+
+1677
+02:02:44,708 --> 02:02:46,791
+Je vous en prie, entrez, monsieur…
+
+1678
+02:02:46,875 --> 02:02:47,708
+Docteur.
+
+1679
+02:02:48,750 --> 02:02:49,583
+Watson.
+
+1680
+02:02:50,458 --> 02:02:51,625
+John Watson.
+
+1681
+02:03:57,166 --> 02:03:59,750
+LORD TEWKESBURY EST-IL PRIS ?
+
+1682
+02:04:03,333 --> 02:04:06,000
+L'INSPECTEUR LESTRADE FÉLICITÉ
+
+1683
+02:04:06,416 --> 02:04:09,083
+TROY EN CAVALE
+À QUAND LE PROCHAIN COUP DE MORIARTY ?
+
+1684
+02:04:09,458 --> 02:04:12,083
+QUI EST LE NOUVEAU COMPAGNON
+DE SHERLOCK ?
+
+1685
+02:08:43,166 --> 02:08:48,166
+Sous-titres : Audrey Forzy
